@@ -1,0 +1,4 @@
+1. In [[physics]], an anyon is a type of quasiparticle that occurs only in [[dimension|two-dimensional]] systems, with properties much less restricted than fermions and bosons.^[https://en.wikipedia.org/wiki/Anyon#cite_note-DISC-20201212-1]
+2. [Physicists Prove Anyons Exist, a Third Type of Particle in the Universe](https://www.discovermagazine.com/the-sciences/physicists-prove-anyons-exist-a-third-type-of-particle-in-the-universe)^[https://www.reddit.com/r/Futurology/comments/kc0bkt/physicists_prove_anyons_exist_a_third_type_of/?utm_source=ifttt]
+3. Well they only exist in 2d materials so maybe you might see them in graphene. What's also useful is they have a sort of memory so they could be used in quantum computers.^[https://www.reddit.com/r/Futurology/comments/kc0bkt/physicists_prove_anyons_exist_a_third_type_of/gfmj39s?utm_source=share&utm_medium=web2x&context=3
+	1. **Related**: [[quantum coherence times]]

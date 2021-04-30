@@ -1,0 +1,3 @@
+1. neuroepithelial [[cell]]; form the wall of the closed [[human brain|neural]] tube in early embryonic development^[https://en.wikipedia.org/wiki/Neuroepithelial_cell]
+2. **Neuroepithelial cells symmetrically divide or differentiate into progenitor cells called radial glial cells in asymmetric cell division. These can further differentiate into [[neuron|neurons]] or glial cells.**^[By User:Wykis - Self built from scratch using File:Stem_cells2.png, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2112703]
+	1. ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Stem_cell_division_and_differentiation.svg/110px-Stem_cell_division_and_differentiation.svg.png)

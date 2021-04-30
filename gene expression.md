@@ -1,0 +1,4 @@
+1. [[gene]] expression; the process by which [[information]] from a [[gene]] is used in the synthesis of a functional [[gene product]] that enable to produce [[protein]] as the end product
+2. Transcription of [[DNA]] to RNA using the [[protein]] [[DNA-directed RNA polymerase|RNA polymerase II]].
+	1. By JWSchmidt - http://www.rcsb.org/pdb/static.do?p=general_information/news_publications/newsletters/2003q2/mom.htmlhttps://en.wikiversity.org/wiki/File:Label_RNA_pol_II.png, Public Domain, https://commons.wikimedia.org/w/index.php?curid=32033313
+	2. ![image](https://upload.wikimedia.org/wikipedia/commons/f/fc/Label_RNA_pol_II.png)

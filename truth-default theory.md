@@ -1,0 +1,3 @@
+1. truth-default theory; this idea suggests that people presume others to be honest because they either don't think of deception as a possibility during communicating or because there is insufficient evidence lending them unable to prove they are being deceived
+	1. https://en.wikipedia.org/wiki/Truth-default_theory#cite_note-:2-1
+	2. because there is insufficient evidence lending them unable to prove they are being deceived → related to "[[heuristic]]"

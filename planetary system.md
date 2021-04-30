@@ -1,0 +1,3 @@
+1. planetary system; a set of gravitationally bound non-stellar objects in or out of orbit around a star or star system e.g. the [[Solar system]]
+2. **Location of habitable zone around different types of stars**^[By Habitable_zone-en.svg: Chewiederivative work: Ignacio javier igjav (talk) - Habitable_zone-en.svg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=8462897]
+	1. ![image](https://upload.wikimedia.org/wikipedia/commons/6/61/Habitable_zone_-_HZ.png)

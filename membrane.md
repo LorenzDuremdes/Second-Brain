@@ -1,0 +1,3 @@
+1. membrane; a selective barrier; it allows some things to pass through but stops others
+2. **The wall of an ultrafiltration hollow fiber membrane, with characteristic outer (top) and inner (bottom) layers of pores.**^[By RobertsBiology - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=79408452]
+	1. ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hollow_fiber_membrane_wall.png/521px-Hollow_fiber_membrane_wall.png)

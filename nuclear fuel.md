@@ -1,0 +1,3 @@
+1. nuclear fuel; material used in nuclear power stations to produce heat to [[energy|power turbines]]. Heat is created when nuclear fuel undergoes nuclear fission.
+2. **Nuclear Fuel Process**^[By Ilmari Karonen, Nicolas Lardot - Own work, translation of Image:SchémaDechetsNucleaires.svg by Nicolas Lardot, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1327479]
+	1. ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Sch%C3%A9maDechetsNucleaires_en.svg/548px-Sch%C3%A9maDechetsNucleaires_en.svg.png)

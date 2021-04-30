@@ -1,0 +1,3 @@
+1. trickle-down economics; the economic proposition that taxes on businesses and the wealthy in [[society]] should be reduced as a means to stimulate business investment in the short term and benefit society at large in the long term
+2. trickle-down economics (synonym); the horse and sparrow theory
+	1. Which, in essence, meant that if you fed all the oats to the horse, it would pass enough to feed the sparrows.^[https://www.reddit.com/r/nottheonion/comments/kfle9b/50_years_of_tax_cuts_for_the_rich_failed_to/gg93j38?utm_source=share&utm_medium=web2x&context=3]

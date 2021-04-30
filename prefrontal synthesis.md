@@ -1,0 +1,2 @@
+1. reasoning (neurophysiology); [[prefrontal cortex|prefrontal]] synthesis^[https://en.wikipedia.org/wiki/Frontal_lobe#Function]
+2. prefrontal synthesis; the conscious purposeful process of synthesizing novel mental images

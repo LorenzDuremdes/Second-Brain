@@ -1,0 +1,2 @@
+1. Left [[knee]]-[[joint]] from behind, showing interior ligaments.^[By Henry Vandyke Carter - Henry Gray (1918) Anatomy of the [[human]] Body (See &quot;Book&quot; section below)Bartleby.com: Gray&#039;s Anatomy, Plate 348, Public Domain, https://commons.wikimedia.org/w/index.php?curid=108270]
+	1. ![image](https://upload.wikimedia.org/wikipedia/commons/1/19/Gray348.png)

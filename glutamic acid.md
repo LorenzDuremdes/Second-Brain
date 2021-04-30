@@ -1,0 +1,1 @@
+1. glutamic acid; an α-amino acid that is used by almost all living beings in the biosynthesis of proteins^[https://en.wikipedia.org/wiki/Glutamic_acid]

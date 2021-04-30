@@ -1,0 +1,4 @@
+1. central canal (also known as [[ependyma|ependymal]] canal); the [[cerebrospinal fluid]]-filled space that runs through the [[spinal cord]].^[https://en.wikipedia.org/wiki/Central_canal#cite_note-Saker-1]
+2. **[[spinal cord]] – gray matter (Section)**
+	1. By User:Polarlys, traced from the German version and translated by Interiot - Own work, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=1476022
+	2. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Medulla_spinalis_-_Substantia_grisea_-_English.svg/1280px-Medulla_spinalis_-_Substantia_grisea_-_English.svg.png" width=600 />

@@ -1,0 +1,4 @@
+1. **Upper extremity of right femur viewed from behind and above.**^[By Henry Vandyke Carter - Henry Gray (1918) Anatomy of the [[human]] Body (See &quot;Book&quot; section below)Bartleby.com: Gray&#039;s Anatomy, Plate 243, Public Domain, https://commons.wikimedia.org/w/index.php?curid=792331]
+	1. ![image](https://upload.wikimedia.org/wikipedia/commons/9/97/Gray243.png)
+2. **Right femur. Anterior surface.**^[By Henry Vandyke Carter - Henry Gray (1918) Anatomy of the [[human]] Body (See &quot;Book&quot; section below)Bartleby.com: Gray&#039;s Anatomy, Plate 244, Public Domain, https://commons.wikimedia.org/w/index.php?curid=792334]
+	1. ![image](https://upload.wikimedia.org/wikipedia/commons/2/2b/Gray244.png)

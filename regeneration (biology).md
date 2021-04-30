@@ -1,0 +1,2 @@
+1. which species are not capable of "regeneration (biology)"?
+	1. Every species is capable of regeneration, from bacteria to humans.^[https://en.wikipedia.org/wiki/Regeneration_(biology)#cite_note-Carlson07-2]^[https://en.wikipedia.org/wiki/Regeneration_(biology)#cite_note-Gabor-3]

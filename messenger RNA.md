@@ -1,0 +1,3 @@
+1. messenger [[RNA]]; a single-stranded [[molecule]] of RNA that corresponds to the genetic sequence of a [[gene]], and is read by a [[ribosome]] in the process of synthesizing a [[protein]].
+2. **The "life cycle" of an mRNA in a eukaryotic cell. RNA is transcribed in the nucleus; after processing, it is transported to the cytoplasm and translated by the ribosome. Finally, the mRNA is degraded.**^[By The original uploader was Sverdrup at English Wikipedia. - [1]Originally from en.wikipedia; description page is/was here., Public Domain, https://commons.wikimedia.org/w/index.php?curid=2120822]
+	1. ![image](https://upload.wikimedia.org/wikipedia/commons/f/fb/MRNA-interaction.png)

@@ -1,0 +1,1 @@
+*parent*: [[planetary system]]

@@ -1,0 +1,1 @@
+1. plasma (etymology); from Ancient Greek πλάσμα 'moldable substance'^[https://en.wikipedia.org/wiki/Plasma_(physics)#cite_note-%CF%80%CE%BB%CE%AC%CF%83%CE%BC%CE%B1-1] or 'jelly',^[https://en.wikipedia.org/wiki/Plasma_(physics)#cite_note-Itpp1995-2]

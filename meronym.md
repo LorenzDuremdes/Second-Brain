@@ -1,0 +1,2 @@
+1. meronym ([[linguistics]]); denoting a part^[https://en.wikipedia.org/wiki/Meronymy_and_holonymy]
+2. For example, _finger_ is a meronym of _hand_ which is its [[holonym]]. Similarly, _engine_ is a meronym of _car_ which is its [[holonym]].

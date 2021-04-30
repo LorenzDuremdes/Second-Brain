@@ -1,0 +1,1 @@
+1. heterogeneity (economics); refers to differences across the units being studied

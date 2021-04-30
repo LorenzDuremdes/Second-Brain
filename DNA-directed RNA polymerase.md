@@ -1,0 +1,1 @@
+1. [[DNA]]-directed RNA polymerase; an enzyme that synthesizes RNA from a [[DNA]] template

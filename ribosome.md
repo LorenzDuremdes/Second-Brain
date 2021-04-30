@@ -1,0 +1,3 @@
+1. ribosome; macromolecular machines, found within all living [[cell|cells]], that perform biological [[protein]] synthesis (mRNA translation)
+2. **Figure 1: Ribosomes assemble polymeric [[protein]] molecules whose sequence is controlled by the sequence of messenger [[RNA]] molecules. This is required by all living cells and associated viruses.**^[By Boumphreyfr - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7200200]
+	1. ![image](https://upload.wikimedia.org/wikipedia/commons/0/0f/Peptide_syn.png)

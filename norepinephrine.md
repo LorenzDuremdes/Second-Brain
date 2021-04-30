@@ -1,0 +1,1 @@
+1. norepinephrine (etymology); from Latin/Greek "at/alongside the kidneys"^[https://en.wikipedia.org/wiki/Norepinephrine]

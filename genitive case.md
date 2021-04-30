@@ -1,0 +1,4 @@
+1. genitive case; the grammatical case that marks a word, usually a noun, as modifying another word, also usually a noun—thus, indicating an attributive relationship of one noun to the other noun.^[https://en.wikipedia.org/wiki/Genitive_case#cite_note-3]
+	1. e.g. men of Rome
+2. **Cuneiform inscription Lugal Kiengi Kiuri 𒈗𒆠𒂗𒄀𒆠𒌵, "King of Sumer and Akkad", on a seal of Sumerian king Shulgi (r. c. 2094–2047 BCE). The final ke4 𒆤 is the composite of -k (genitive case) and -e (ergative case).**^[By Marie-Lan Nguyen (User:Jastrow) - This file has been extracted from another file: 5-mina weight Shu-Shin Louvre AO246.jpg, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=87778695]
+	1. ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Lugal_Kiengi_Kiuri%2C_King_of_Sumer_and_Akkad%2C_on_a_seal_of_Shulgi.jpg/331px-Lugal_Kiengi_Kiuri%2C_King_of_Sumer_and_Akkad%2C_on_a_seal_of_Shulgi.jpg)

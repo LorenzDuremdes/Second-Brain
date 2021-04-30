@@ -1,0 +1,4 @@
+1. lymph; the fluid that flows through the lymphatic system, a system composed of lymph vessels (channels) and intervening lymph nodes whose function, like the venous system, is to return [[fluid]] from the tissues to the central circulation
+2. from Latin, lympha meaning "water"^[https://en.wikipedia.org/wiki/Lymph#cite_note-1]
+3. **Diagram showing the formation of lymph from interstitial fluid (labeled here as "Tissue fluid"). Note how the tissue fluid is entering the blind ends of lymph capillaries (shown as deep green arrows)**^[By SEER - U.S. National Cancer Institute&#039;s Surveillance, Epidemiology and End Results (SEER) Program (http://training.seer.cancer.gov/index.html), Public Domain, https://commons.wikimedia.org/w/index.php?curid=863120]
+	1. ![image](https://upload.wikimedia.org/wikipedia/commons/1/19/Illu_lymph_capillary.png)

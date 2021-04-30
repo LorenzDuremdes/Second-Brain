@@ -1,0 +1,1 @@
+1. hyponatremia; a low [[sodium]] concentration in the [[blood]].^[https://en.wikipedia.org/wiki/Hyponatremia#cite_note-CMAJ2014-4]

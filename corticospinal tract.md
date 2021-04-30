@@ -1,0 +1,3 @@
+1. short-duration*full range of motion dynamic exercise → corticospinal excitability
+	1. cause transitory increases in corticospinal excitability but do not affect corticospinal inhibition^[https://www.facebook.com/StrengthandConditioningResearch/photos/a.314294568681572/3231948503582816/]
+	2. <img src="https://z-p3-scontent-ams4-1.xx.fbcdn.net/v/t1.0-9/125811741_3231948506916149_4716203326158650872_o.png?_nc_cat=100&ccb=2&_nc_sid=2c4854&_nc_ohc=eo25uLKtVyUAX-brddf&_nc_ht=z-p3-scontent-ams4-1.xx&oh=c0441c794a3a5bbaded211cc22988f31&oe=6039C98C" width="600" />

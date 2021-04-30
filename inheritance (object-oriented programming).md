@@ -1,0 +1,4 @@
+1. inheritance (object-oriented programming); the mechanism of basing an object or class upon another object (prototype-based inheritance) or class (class-based inheritance), retaining similar implementation
+2. **Illustration of method overriding**^[By User:Crashed greek - User:Crashed greek, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=64193508]
+	1. ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Method_overriding_in_subclass.svg/345px-Method_overriding_in_subclass.svg.png)
+3. in most class-based object-oriented languages, an object created through inheritance, a "child object", acquires all the properties and behaviors of the "parent object" , with the exception of: constructors, destructor, overloaded operators and friend functions of the base class

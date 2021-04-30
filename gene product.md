@@ -1,0 +1,3 @@
+1. [[gene]] product; the biochemical material, either [[RNA]] or [[protein]], resulting from expression of a [[gene]]
+2. **Transcription of DNA to RNA using the [[protein]] RNA polymerase II.**^[By JWSchmidt - http://www.rcsb.org/pdb/static.do?p=general_information/news_publications/newsletters/2003q2/mom.htmlhttps://en.wikiversity.org/wiki/File:Label_RNA_pol_II.png, Public Domain, https://commons.wikimedia.org/w/index.php?curid=32033313]
+	1. ![image](https://upload.wikimedia.org/wikipedia/commons/f/fc/Label_RNA_pol_II.png)

@@ -1,0 +1,7 @@
+1. [[cell]] [[membrane]]; a [[biological membrane]] that separates the interior of all cells from the outside environment (the [[extracellular matrix|extracellular space]]) which protects the cell from its environment.^[https://en.wikipedia.org/wiki/Cell_membrane#cite_note-1]^[https://en.wikipedia.org/wiki/Cell_membrane#cite_note-2]
+	1. what is meant with "interior"? → [[cytoplasm]]
+2. "cell [[membrane]]" is a [[inheritance (object-oriented programming)|child]] of "biological membrane"
+	1. biological membranes include cell membranes (outer coverings of cells or organelles that allow passage of certain constituents);^[https://en.wikipedia.org/wiki/Membrane#cite_note-1] nuclear membranes, which cover a cell nucleus; and tissue membranes, such as mucosae and serosae
+3. **Illustration of a [[eukaryote|Eukaryotic]] cell [[membrane]]**^[By derivative work: Dhatfield (talk)Cell_membrane_detailed_diagram_3.svg: *derivative work: Dhatfield (talk)Cell_membrane_detailed_diagram.svg: LadyofHats Mariana Ruiz - Cell_membrane_detailed_diagram_3.svg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=4228810]
+	1. ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cell_membrane_detailed_diagram_4.svg/614px-Cell_membrane_detailed_diagram_4.svg.png)
+4. cell [[membrane]] (synonym); [[plasma]] membrane; cytoplasmic [[membrane]]; (historical) plasmalemma

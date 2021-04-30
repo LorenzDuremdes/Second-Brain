@@ -1,0 +1,2 @@
+1. directed adaptation; [[human]] adaptive systems (muscular, nervous, etc.) respond best when similar, unambiguous training stimuli are presented repeatedly allowing adaptations to "stack" over time^[https://www.instagram.com/p/CJykwU-B-B1/]
+	1. ![[directed adaptation.jpg]]

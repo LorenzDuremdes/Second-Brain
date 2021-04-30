@@ -1,0 +1,2 @@
+1. density ([[physical exercise]]); a measure of how closely spaced the high-[[dose (physical exercise)|dose]] workouts are^[The Cyclist's Training Bible, p. 15]
+2. can be used to [[progressive overload|progressively overload]]

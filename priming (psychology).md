@@ -1,0 +1,1 @@
+1. "priming ([[psychology]])" is related to "[[intuition]]"

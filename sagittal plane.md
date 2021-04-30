@@ -1,0 +1,2 @@
+1. the following image is in the sagittal plane^[By BruceBlaus - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=47243859]
+	1. ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Brain_Anatomy_%28Sagittal%29.png/640px-Brain_Anatomy_%28Sagittal%29.png)

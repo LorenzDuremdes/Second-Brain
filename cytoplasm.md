@@ -1,0 +1,1 @@
+1. the [[cytosol]] and organelles together compose the cytoplasm

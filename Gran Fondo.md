@@ -1,0 +1,1 @@
+1. Gran Fondo; a [[road cycling|bicycle]] event at least 120 kilometres (75 mi) long, and are individually chip-timed (start to finish) races with prizes for the fastest riders in each category.^[https://en.wikipedia.org/wiki/Gran_Fondo#cite_note-1]

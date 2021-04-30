@@ -1,0 +1,2 @@
+1. the probability of conjunctive events happening is never higher than the probability of each occurring^[https://fs.blog/2020/11/common-probability-errors/#post-42987:~:text=the%20probability%20of%20conjunctive%20events%20happening,than%20the%20probability%20of%20each%20occurring.]
+	1. can be used to combat interference → [[logical conjunction]]

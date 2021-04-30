@@ -1,0 +1,1 @@
+1. weighted [[arithmetic mean]]; similar to an ordinary [[arithmetic mean]] (the most common type of average), except that instead of each of the data points contributing equally to the final average, some data points contribute more than others

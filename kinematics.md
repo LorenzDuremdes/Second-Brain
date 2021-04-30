@@ -1,0 +1,3 @@
+1. kinematics; a subfield of [[physics]], developed in classical mechanics, that describes the motion of points, bodies (objects), and systems of bodies (groups of objects) without considering the forces that cause them to move.^[https://en.wikipedia.org/wiki/Kinematics#cite_note-Whittaker-1]^[https://en.wikipedia.org/wiki/Kinematics#cite_note-Beggs-2]^[https://en.wikipedia.org/wiki/Kinematics#cite_note-Wright-3]
+2. **Relative velocities between two particles in classical mechanics.**^[By Maschen - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=21275902]
+	1. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Relative_velocity.svg/1920px-Relative_velocity.svg.png" width="600" />

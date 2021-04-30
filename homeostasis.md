@@ -1,0 +1,1 @@
+1. homeostasis is a [[steady state|stable state]]^[The science of trust: emotional attunement for couples, p. 444]

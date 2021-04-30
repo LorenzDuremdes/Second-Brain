@@ -1,0 +1,1 @@
+1. statistical significance; when it is very unlikely to have occurred given the null hypothesis.^[https://en.wikipedia.org/wiki/Statistical_significance#cite_note-Myers_et_al-p65-3]^[https://en.wikipedia.org/wiki/Statistical_significance#cite_note-4]

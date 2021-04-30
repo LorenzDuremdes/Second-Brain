@@ -1,0 +1,1 @@
+1. leucine content of whey ≈ 13.6%^[https://www.researchgate.net/publication/280584886_The_Skeletal_Muscle_Anabolic_Response_to_Plant-_versus_Animal-Based_Protein_Consumption#pf5]

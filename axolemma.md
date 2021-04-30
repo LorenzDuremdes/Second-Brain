@@ -1,0 +1,1 @@
+1. axolemma; the [[cell]] [[membrane]] of an [[axon]]

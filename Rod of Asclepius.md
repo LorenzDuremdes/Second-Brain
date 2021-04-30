@@ -1,0 +1,2 @@
+1. **Rod of [[Asclepius]]**^[By Original: CatherinMunroderivative work: Rehua - This file was derived from:  Rod of asclepius.png, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7563639]
+	1. ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rod_of_Asclepius2.svg/150px-Rod_of_Asclepius2.svg.png)

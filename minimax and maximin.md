@@ -1,0 +1,1 @@
+1. minimax is more frequently used in zero-sum games and maximin in non-zero-sum-games

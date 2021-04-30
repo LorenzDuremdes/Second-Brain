@@ -1,0 +1,1 @@
+1. peripheral and central fatigue^[https://www.nature.com/articles/emm2017194]

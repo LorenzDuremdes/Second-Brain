@@ -1,0 +1,2 @@
+1. Ordnung muß sein; a German proverbial expression which translates as "there must be order"
+2. The idea of "order" is generally recognized as a key cliche for describing German culture.^[https://en.wikipedia.org/wiki/Ordnung_muss_sein#cite_note-1]

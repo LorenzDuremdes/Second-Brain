@@ -1,0 +1,1 @@
+1. protoplasm; the living part of a [[cell]] that is surrounded by a [[plasma]] [[membrane]]

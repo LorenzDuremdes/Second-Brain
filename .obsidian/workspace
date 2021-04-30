@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "c9cd4af5bf7f2c5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3ca4f689a6ea7ec",
+        "type": "split",
+        "children": [
+          {
+            "id": "f78e9cf9c86540aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "road cycling.md",
+                "mode": "source"
+              }
+            },
+            "group": "78d9bea5311ce9f1"
+          },
+          {
+            "id": "8159e98b73e0a920",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "road cycling.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "cycling",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0,
+                  "repelStrength": 20,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 0.015064684659933457,
+                  "close": false
+                }
+              }
+            },
+            "group": "78d9bea5311ce9f1"
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "5195ecf6a0b6a31d",
+        "type": "split",
+        "children": [
+          {
+            "id": "fda10235350a6083",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "road cycling.md",
+                "mode": "preview"
+              }
+            },
+            "group": "78d9bea5311ce9f1"
+          },
+          {
+            "id": "cf4b84442d50abd3",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a012222e6865499",
+    "type": "split",
+    "children": [
+      {
+        "id": "f969c1c5d0a9d0f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94ed3e06539faa16",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "60fe29566a98ccef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "anaerobic",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3952c24477e87f1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ced66b4a15c4f05a",
+    "type": "split",
+    "children": [
+      {
+        "id": "24ebe64b4c498720",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9da7eb6da16c8ff",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a7edfc8468363e71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "road cycling.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "2150cd065be2aa3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23fa12597d0a6822",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "road cycling.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "8159e98b73e0a920",
+  "lastOpenFiles": [
+    "road cycling.md",
+    "road bike.md",
+    "time trial.md",
+    "Untitled.md",
+    "anaerobic threshold.md",
+    "cycling economy.md",
+    "bicycle pedal.md",
+    "aerobic exercise.md",
+    "aerobic threshold.md",
+    "beta-hydroxy beta-methylbutyric acid.md"
+  ]
+}

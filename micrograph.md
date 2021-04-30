@@ -1,0 +1,3 @@
+1. micrograph; a photograph or digital image taken through a microscope or similar device to show a magnified image of an object
+2. **100x light micrograph of Meissner's corpuscle at the tip of a dermal papillus.**^[By Wbensmith - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=2842394]
+	1. ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/WVSOM_Meissner%27s_corpuslce.JPG/640px-WVSOM_Meissner%27s_corpuslce.JPG)

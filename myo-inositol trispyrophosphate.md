@@ -1,0 +1,2 @@
+1. ITPP; a putative [[performance-enhancing substance]], which exerts its biological effects by increasing tissue oxygenation.^[https://en.wikipedia.org/wiki/Myo-inositol_trispyrophosphate#cite_note-pmid19204295-1]
+2. does not suppress testosterone? (not enough data as of ~2021)

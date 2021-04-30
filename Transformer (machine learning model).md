@@ -1,0 +1,1 @@
+1. "Transformer" is related to "[[parallel computing|parallel]]" as opposed to "[[sequential algorithm|sequential]]"

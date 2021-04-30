@@ -1,0 +1,1 @@
+1. axosome; the part of an [[axon]] that contains its [[organelle|organelles]]

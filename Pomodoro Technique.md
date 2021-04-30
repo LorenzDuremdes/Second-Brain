@@ -1,0 +1,2 @@
+1. bad days → Pomodoro Technique
+	1. have shorter sessions when [[mood (psychology)|feeling ]] negative^[https://www.reddit.com/r/GetStudying/comments/hp5p81/why_is_it_that_even_the_pomodoro_method_isnt_that/fxmqv10?utm_source=share&utm_medium=web2x]

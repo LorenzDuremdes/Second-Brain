@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "97c6cf80927c82fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "6384137c8337b258",
+        "type": "split",
+        "children": [
+          {
+            "id": "36710f1421e41cce",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "interpersonal relationship.md",
+                "mode": "source"
+              }
+            },
+            "group": "d084db881d8557c1"
+          },
+          {
+            "id": "134ddd3964ee2715",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "interpersonal relationship.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            },
+            "group": "d084db881d8557c1"
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "1eca48b174ff81c8",
+        "type": "split",
+        "children": [
+          {
+            "id": "bd6c1338f3bdeb66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "interpersonal relationship.md",
+                "mode": "preview"
+              }
+            },
+            "group": "d084db881d8557c1"
+          },
+          {
+            "id": "35d6c48ab903b45a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "interpersonal relationship.md",
+                "options": {
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.3628873693012117
+                }
+              }
+            },
+            "group": "d084db881d8557c1"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b0988d11148c78a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f85e1de6be8ccac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5a1332d433c5aaa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6037a2ba30661514",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e677e4c24f770c2c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aaa070f961396dfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "6531fe76015e98ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c21a56a2623d0dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "interpersonal relationship.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md",
+    "receptor (biochemistry).md",
+    "life paralysis.md",
+    "self-handicapping.md",
+    "honesty.md",
+    "trust.md",
+    "intelligence.md",
+    "psychopathy.md",
+    "compactification (physics).md",
+    "volatiles.md"
+  ]
+}

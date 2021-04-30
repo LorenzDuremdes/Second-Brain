@@ -1,0 +1,1 @@
+1. statistical model; a [[mathematical model]] that embodies a set of [[statistical assumption|statistical assumptions]] concerning the generation of sample data (and similar data from a larger population)

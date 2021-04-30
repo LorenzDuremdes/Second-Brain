@@ -1,0 +1,1 @@
+1. value (computer science); the representation of some entity that can be manipulated by a program. The members of a type are the values of that type.^[https://en.wikipedia.org/wiki/Value_(computer_science)#cite_note-FOOTNOTEMitchell19969-1]

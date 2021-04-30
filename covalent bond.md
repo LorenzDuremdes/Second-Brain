@@ -1,0 +1,3 @@
+1. covalent bond; a [[chemical bond]] that involves the sharing of [[electron]] pairs between atoms
+2. **A covalent bond forming H2 (right) where two hydrogen atoms share the two electrons**^[By Jacek FH - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2781099]
+	1. ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Covalent_bond_hydrogen.svg/640px-Covalent_bond_hydrogen.svg.png)

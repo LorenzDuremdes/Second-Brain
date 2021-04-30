@@ -1,0 +1,2 @@
+1. polarized training; means to be at one extreme or another, generally avoiding a medium, middle-ground area^[https://www.highnorth.co.uk/articles/polarised-training-cycling]
+2. easy days meant to maintain fitness while dropping fatigue?

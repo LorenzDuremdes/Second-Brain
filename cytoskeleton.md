@@ -1,0 +1,3 @@
+1. cytoskeleton; a complex, dynamic network of interlinking [[protein]] filaments present in the cytoplasm of all cells, including bacteria and archaea.^[https://en.wikipedia.org/wiki/Cytoskeleton#cite_note-Hardin-1]
+2. The eukaryotic cytoskeleton. Actin filaments are shown in red, and microtubules composed of beta tubulin are in green.^[By http://rsb.info.nih.gov/ij/images/, Public Domain, https://commons.wikimedia.org/w/index.php?curid=655748]
+	1. ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/FluorescentCells.jpg/480px-FluorescentCells.jpg)

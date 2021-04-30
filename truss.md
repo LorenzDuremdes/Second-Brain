@@ -1,0 +1,3 @@
+1. truss; an assembly of beams or other elements that creates a rigid structure.^[https://en.wikipedia.org/wiki/Truss#cite_note-1]
+2. An Egyptian ship with a rope truss, the oldest known use of trusses. Trusses did not come into common use until the Roman era.^[By H. G. Wells - Wells, H. G. (1920). The Outline of History. Garden City, New York: Garden City Publishing Co., Inc.., Public Domain, https://commons.wikimedia.org/w/index.php?curid=2211679]
+	1. ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Wells_egyptian_ship_red_sea.png/640px-Wells_egyptian_ship_red_sea.png)

@@ -1,0 +1,2 @@
+1. volatiles; the group of chemical elements and chemical compounds that can be readily vaporized
+2. In contrast with volatiles, elements and compounds that are not readily vaporized are known as refractory substances.

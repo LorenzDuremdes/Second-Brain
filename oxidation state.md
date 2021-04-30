@@ -1,0 +1,1 @@
+1. oxidation state; describes the degree of oxidation (loss of electrons) of an [[atom]] in a chemical compound

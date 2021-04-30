@@ -1,0 +1,7 @@
+1. set point theory (body weight); states that there is a biological control method in humans that actively regulates weight towards a predetermined set weight for each individual.^[https://en.wikipedia.org/wiki/Set_point_theory_(body_weight)#cite_note-Role_of_set-point_theory-1]
+2. While the set point applies to both deviations driven by weight loss and weight gain, the set point response driving a person to regain weight to regain the set point is stronger than the response to lose weight after gaining weight above the set point,^[https://en.wikipedia.org/wiki/Set_point_theory_(body_weight)#cite_note-Evidence?-5] implying that it may be easier to gain than to lose weight.
+3. **Block diagram of a negative feedback [[system]] used to maintain a setpoint in the face of a disturbance using error-controlled regulation. Positive [[noise|error]] means feedback is too small (controller calls for an increase), and negative error means feedback is too large (controller calls for a decrease).**^[By Brews ohare - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=33247365]
+	1. ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Set-point_control.png/640px-Set-point_control.png)
+
+# related
+1. [[steady state]]

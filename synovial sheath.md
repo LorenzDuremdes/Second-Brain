@@ -1,0 +1,1 @@
+1. synovial sheath; one of the two [[membrane|membranes]] of a [[tendon]] sheath which covers a [[tendon]]

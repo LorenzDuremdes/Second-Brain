@@ -1,0 +1,3 @@
+1. Gavia Pass; is often on the route of the Giro d'Italia road bicycle race and is sometimes designated the Cima Coppi, the highest point of the race
+2. **Location of Gavia Pass**^[By Lencer - own work, using:Generic Mapping Tools (GMT) with SRTM3 V2 Relief-FilesUnited States National Imagery and Mapping Agency data, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6000009]
+	1. ![[Gavia Pass.jpg]]

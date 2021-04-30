@@ -1,0 +1,1 @@
+1. $\text{old age → demyelination*more dendrites*energy → does demyelination save energy to create and maintain more dendrites?}$

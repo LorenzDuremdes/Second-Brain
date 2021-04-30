@@ -1,0 +1,3 @@
+1. contrast (vision); the difference in luminance or colour that makes an object (or its representation in an image or display) distinguishable
+2. **The amount of contrast in six versions of a rocky shore photo increases clockwise.**^[CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=750555]
+	1. ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Contrast_change_photoshop.jpg/427px-Contrast_change_photoshop.jpg)

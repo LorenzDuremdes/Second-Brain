@@ -1,0 +1,2 @@
+1. The **alactic** anaerobic system, which consists of high [[energy]] phosphates, adenosine triphosphate, and creatine phosphate; and
+2. The **lactic** anaerobic system, which features anaerobic glycolysis.^[https://en.wikipedia.org/wiki/Anaerobic_exercise#cite_note-sport-spec-rehab-10]

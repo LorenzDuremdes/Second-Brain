@@ -1,0 +1,2 @@
+1. international phonetic [[alphabet]] (IPA); an alphabetic system of phonetic notation based primarily on the Latin script
+2. It was devised by the International Phonetic Association in the late 19th century as a standardized representation of speech sounds in written form.^[https://en.wikipedia.org/wiki/International_Phonetic_Alphabet#cite_note-IPA_1999-1]

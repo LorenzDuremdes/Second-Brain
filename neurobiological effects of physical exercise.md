@@ -1,0 +1,6 @@
+1. other regions of the [[human brain|brain]] that demonstrate moderate or less significant gains in gray matter volume during neuroimaging (e.g. fMRI) due to [[physical exercise]] include the anterior cingulate [[cortex]], parietal [[cortex]], cerebellum, and nucleus accumbens.^[https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise#cite_note-Comprehensive_review-5]^[https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise#cite_note-gray_matter-6]^[https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise#cite_note-BDNF_depression-8]^[https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise#cite_note-Ruscheweyh-49]
+2. [[physical exercise]] → neurodegeneration
+	1. [[physical exercise]] decreases the probability of developing neurogenerative disorders^[https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise#cite_note-Parkinson_2-28]^[https://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise#cite_note-Longitudinal_SystRev_dementia-31]
+
+# related
+1. [[sports science]]

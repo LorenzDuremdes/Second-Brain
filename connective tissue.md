@@ -1,0 +1,3 @@
+1. connective tissue; one of the four basic types of animal tissue. Connective tissue is found in between other tissues everywhere in the body, including the [[nervous system]]
+2. ![image](https://upload.wikimedia.org/wikipedia/commons/4/47/Illu_connective_tissues_1.jpg)^[Public Domain, https://commons.wikimedia.org/w/index.php?curid=1273807]
+3. ![image](https://upload.wikimedia.org/wikipedia/commons/b/b6/Illu_connective_tissues_2.jpg)^[Public Domain, https://commons.wikimedia.org/w/index.php?curid=1394212]

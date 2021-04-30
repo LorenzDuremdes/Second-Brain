@@ -1,0 +1,1 @@
+1. linguistics; the scientific study of [[language]]^[https://en.wikipedia.org/wiki/Linguistics#cite_note-1]

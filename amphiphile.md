@@ -1,0 +1,4 @@
+1. amphiphile; a chemical compound possessing both hydrophilic ([[water]]-loving, polar) and lipophilic (fat-loving) properties
+2. Phospholipids, such as this glycerophospholipid, have amphipathic character.^[By No machine-readable author provided. Lennert B assumed (based on copyright claims). - No machine-readable source provided. Own work assumed (based on copyright claims)., Public Domain, https://commons.wikimedia.org/w/index.php?curid=409308]
+	1. ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Phospholipid.svg/220px-Phospholipid.svg.png)
+3. Biological molecules are amphiphilic or amphipathic, i.e. are simultaneously hydrophobic and hydrophilic.^[https://en.wikipedia.org/wiki/Biological_membrane#cite_note-:0-6]

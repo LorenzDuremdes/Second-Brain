@@ -1,0 +1,1 @@
+1. contracting other [[skeletal muscle|muscles]] less related to the targeted muscle (e.g. abs)

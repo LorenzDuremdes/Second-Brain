@@ -1,0 +1,1 @@
+1. women generally have lower sweating rates than men^[Cutting-Edge Cycling, p. 250]

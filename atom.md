@@ -1,0 +1,3 @@
+1. atom; the smallest unit of ordinary matter that forms a chemical element
+2. **Periodic table showing the origin of each element. Elements from [[carbon]] up to sulfur may be made in small stars by the alpha process. Elements beyond iron are made in large stars with slow neutron capture (s-process). Elements heavier than iron may be made in neutron star mergers or supernovae after the r-process.**^[By Cmglee - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31761437]
+	1. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Nucleosynthesis_periodic_table.svg/1920px-Nucleosynthesis_periodic_table.svg.png" width="600" />

@@ -1,0 +1,1 @@
+1. actinin; a microfilament [[protein]] consisting of [[α-actinin]]?^[https://en.wikipedia.org/wiki/Actinin]

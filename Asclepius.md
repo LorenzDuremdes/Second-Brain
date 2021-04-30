@@ -1,0 +1,3 @@
+1. Asclepius; a hero and god of medicine in ancient [[Greek]] religion and mythology
+2. **Asclepius with his serpent-entwined staff, Archaeological Museum of Epidaurus**^[By original file by Michael F. Mehnert - File:Asklepios - Statue Epidauros Museum 2008-09-11.jpg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=8718607]
+	1. ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Asklepios_-_Epidauros.jpg/285px-Asklepios_-_Epidauros.jpg)

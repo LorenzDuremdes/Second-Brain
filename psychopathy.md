@@ -1,0 +1,4 @@
+1. do people with psychopathy have big egos?
+	1. yes, but it's not dependent on other people nor are they trying to "hide their weaknesses (unless that's beneficial, but not due to insecurity)"
+	2. i.e. they are accurate in their strengths and weaknesses
+	3. https://www.quora.com/Do-psychopaths-have-large-or-small-egos

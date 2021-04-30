@@ -1,0 +1,1 @@
+1. dose ([[physical exercise]]); has to do with how relatively hard a workout is in terms of either duration or intensity^[The Cyclist's Training Bible, p. 15]

@@ -1,0 +1,2 @@
+1. as child experiences and knowledge are often communicated through play, it becomes an important vehicle for them to know and accept themselves
+	1. why/how "accept"? → pruning neural competition (if everything goes well)?

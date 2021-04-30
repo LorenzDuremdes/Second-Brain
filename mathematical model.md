@@ -1,0 +1,2 @@
+1. [[mathematics|mathematical]] model; a description of a [[system]] using mathematical concepts and language
+2. A model may help to explain a system and to study the effects of different components, and to make predictions about behavior.

@@ -1,0 +1,1 @@
+1. electrolyte; a substance that produces an [[conductivity (electrolytic)|electrically conducting solution]] when dissolved in a [[solvent classifications|polar solvent]], such as water

@@ -1,0 +1,2 @@
+1. frontal lobe (neurophysiology); devoted to action of one kind or another: skeletal movement, ocular movement, speech control, the expression of emotions, etc.
+2. The entirety of the frontal cortex can be considered the "action cortex", much as the posterior cortex is considered the “sensory cortex".

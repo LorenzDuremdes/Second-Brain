@@ -1,0 +1,2 @@
+1. The geometric definition of a closed [[line]] segment: the intersection of all points at or to the right of *A* with all points at or to the left of *B*^[By Segmento-definicion.png: The original uploader was Larocka at Spanish Wikipedia.derivative work: Gauravjuvekar - This file was derived from:  Segmento-definicion.png:, Public Domain, https://commons.wikimedia.org/w/index.php?curid=20834927]
+	1. ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Segment_definition.svg/250px-Segment_definition.svg.png)

@@ -1,0 +1,3 @@
+1. ![image](https://cdn-img.newstory.nl/vbn/images/optimized/cd680503-9619-4c71-92c5-b9c1dba48c6f.jpg&h=370&w=370&v=1512056498)^[https://www.vogelbescherming.nl/ontdek-vogels/kennis-over-vogels/vogelgids/vogel/houtsnip]
+# see also
+1. [(1) Wat is dit en waarom zit het in mijn tuin? : thenetherlands (reddit.com)](https://www.reddit.com/r/thenetherlands/comments/lgpsd5/wat_is_dit_en_waarom_zit_het_in_mijn_tuin/)

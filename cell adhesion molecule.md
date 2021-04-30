@@ -1,0 +1,1 @@
+1. cell adhesion [[molecule]]; a subset of [[cell]] adhesion proteins located on the cell surface^[https://en.wikipedia.org/wiki/Cell_adhesion_molecule#cite_note-1] involved in binding with other cells or with the [[extracellular matrix]] (ECM) in the process called cell adhesion

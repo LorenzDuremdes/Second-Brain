@@ -1,0 +1,3 @@
+1. biological [[membrane]]; a selectively permeable [[membrane]] that separates cell from the external environment or creates intracellular compartments
+2. **Cross-sectional view of the structures that can be formed by phospholipids in an aqueous solution**^[By Mariana Ruiz Villarreal ,LadyofHats - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=3032610]
+	1. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Phospholipids_aqueous_solution_structures.svg/800px-Phospholipids_aqueous_solution_structures.svg.png" width="600" />

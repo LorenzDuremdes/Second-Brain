@@ -1,0 +1,3 @@
+1. valvular [[heart]] disease; any cardiovascular disease process involving one or more of the four valves of the heart (the aortic and mitral valves on the left side of heart and the pulmonic and tricuspid valves on the right side of heart)
+2. **Cardiogram of normal and abnormal heartbeats.**^[By Madhero88 - Own workReferencenetter image, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=9663180]
+	1. ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Phonocardiograms_from_normal_and_abnormal_heart_sounds.png/393px-Phonocardiograms_from_normal_and_abnormal_heart_sounds.png)

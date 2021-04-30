@@ -1,0 +1,2 @@
+1. corpus delicti; a term from Western [[jurisprudence]] referring to the principle that a crime must be proved to have occurred before a person can be convicted of committing that crime
+	1. e.g. it's legal to talk about using/own's experience about drugs^[https://qr.ae/pNmbeO]

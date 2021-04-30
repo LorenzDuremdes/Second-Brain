@@ -1,0 +1,1 @@
+1. ultra-distance cycling; any [[road cycling|bike race]] longer than a double century (320 km)^[https://en.wikipedia.org/wiki/Ultra-distance_cycling]

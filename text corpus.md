@@ -1,0 +1,3 @@
+1. text corpus; a [[language]] resource consisting of a large and structured set of texts (nowadays usually electronically stored and processed)
+2. e.g.:
+	1. American National Corpus (ANC); a text corpus of American English containing 22 million words of written and spoken data produced since 1990. Currently, the ANC includes a range of genres, including emerging genres such as email, tweets, and web data that are not included in earlier corpora such as the British National Corpus. It is annotated for part of speech and lemma, shallow parse, and named entities.

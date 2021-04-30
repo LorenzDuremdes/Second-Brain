@@ -1,0 +1,3 @@
+1. consonant; a speech sound that is articulated with complete or partial closure of the vocal tract
+2. Examples are [p], pronounced with the lips; [t], pronounced with the front of the tongue; [k], pronounced with the back of the tongue; [h], pronounced in the throat; [f] and [s], pronounced by forcing air through a narrow channel (fricatives); and [m] and [n], which have air flowing through the nose (nasals).
+3. The letter T, the most common consonant letter in English^[https://en.wikipedia.org/wiki/Consonant#cite_note-1]

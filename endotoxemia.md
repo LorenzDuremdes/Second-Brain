@@ -1,0 +1,2 @@
+1. [[lipopolysaccharide|endotoxemia]]; the presence of endotoxins in the [[blood]]. It can lead to septic shock, if the [[immune system|immune response]] is severely pronounced.^[https://en.wikipedia.org/wiki/Lipopolysaccharide#cite_note-pmid20519895-40]
+	1. normally not present (or in small quantities) in the blood?

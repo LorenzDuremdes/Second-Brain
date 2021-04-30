@@ -1,0 +1,3 @@
+1. diffusion-weighted MRI; the use of specific MRI sequences as well as software that generates images from the resulting data that uses the diffusion of water molecules to generate contrast in MR images.^[https://en.wikipedia.org/wiki/Diffusion_MRI#cite_note-LeBihan1985-1]^[https://en.wikipedia.org/wiki/Diffusion_MRI#cite_note-2]^[https://en.wikipedia.org/wiki/Diffusion_MRI#cite_note-3]
+2. **Tractographic reconstruction of neural connections via DTI**^[By Thomas Schultz - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1201188]
+	1. ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/DTI-sagittal-fibers.jpg/515px-DTI-sagittal-fibers.jpg)

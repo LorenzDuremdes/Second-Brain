@@ -1,0 +1,4 @@
+1. microfilament; [[protein]] filaments in the [[cytoplasm]] of [[eukaryote|eukaryotic]] [[cell|cells]] that form part of the [[cytoskeleton]]
+2. microfilament (synonym); actin filament
+3. **Principal interactions of structural proteins are at [[cadherins|cadherin]]-based [[adherens junction]]. Actin filaments are linked to [[α-actinin]] and to the [[membrane]] through vinculin. The head domain of vinculin associates to E-cadherin via α-catenin, β-catenin, and γ-catenin. The tail domain of vinculin binds to [[membrane]] lipids and to actin filaments.**^[By Mariana Ruiz LadyofHats - i did the diagram myself based on the information found on this websites:[1], [2], ISBN 9514269306/html/x477.html, [3], [4],[5], [6], [7], and [8], Public Domain, https://commons.wikimedia.org/w/index.php?curid=756087]
+	1. ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Adherens_Junctions_structural_proteins.svg/418px-Adherens_Junctions_structural_proteins.svg.png)

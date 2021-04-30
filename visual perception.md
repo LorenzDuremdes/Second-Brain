@@ -1,0 +1,1 @@
+1. the [[human]] visual system is more sensitive to [[contrast (vision)|contrast]] than absolute luminance; we can perceive the world similarly regardless of the huge changes in illumination over the day or from place to place^[https://en.wikipedia.org/wiki/Contrast_(vision)]
