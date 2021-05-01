@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "road cycling.md",
+                "file": "test.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "road cycling.md",
+                "file": "test.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "road cycling.md",
+                "file": "test.md",
                 "mode": "preview"
               }
             },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "road cycling.md"
+                "file": "test.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "road cycling.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,9 +191,9 @@
   },
   "active": "f78e9cf9c86540aa",
   "lastOpenFiles": [
+    "test.md",
     "road cycling.md",
     "road bike.md",
-    "test.md",
     "Untitled.md",
     "time trial.md",
     "anaerobic threshold.md",
