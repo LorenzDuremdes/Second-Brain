@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prioritization.md",
+                "file": "adaptive cache replacement.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "prioritization.md",
+                "file": "adaptive cache replacement.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.027365633498901244,
+                  "scale": 0.019127500739803776,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prioritization.md",
+                "file": "adaptive cache replacement.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "priori",
+                "query": "time trial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prioritization.md"
+                "file": "adaptive cache replacement.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prioritization.md",
+                "file": "adaptive cache replacement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,17 +189,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f78e9cf9c86540aa",
+  "active": "0b93a43b9921fffe",
   "lastOpenFiles": [
+    "adaptive cache replacement.md",
+    "time trial.md",
+    "cache hierarchy.md",
+    "cache.md",
     "prioritization.md",
     "principle of indifference.md",
-    "adaptive cache replacement.md",
     "construal level theory.md",
     "explore-exploit tradeoff.md",
     "goal.md",
-    "global optimum.md",
-    "measurement.md",
-    "entropy (arrow of time).md",
-    "goal-specificity effect.md"
+    "global optimum.md"
   ]
 }
