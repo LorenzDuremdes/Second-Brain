@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "road cycling.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "test.md",
+                "file": "road cycling.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,8 +68,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
-                "mode": "preview"
+                "file": "road cycling.md",
+                "mode": "source"
               }
             },
             "group": "78d9bea5311ce9f1"
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "road cycling.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "road cycling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,8 +191,8 @@
   },
   "active": "f78e9cf9c86540aa",
   "lastOpenFiles": [
-    "test.md",
     "road cycling.md",
+    "test.md",
     "road bike.md",
     "Untitled.md",
     "time trial.md",
