@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d3ca4f689a6ea7ec",
+        "id": "9d103bcf8966fab1",
         "type": "split",
         "children": [
           {
@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "road cycling.md",
                 "mode": "source"
               }
             },
             "group": "78d9bea5311ce9f1"
           },
           {
-            "id": "8159e98b73e0a920",
+            "id": "0b93a43b9921fffe",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "test.md",
+                "file": "road cycling.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -34,18 +34,10 @@
                   "localForelinks": true,
                   "localInterlinks": true,
                   "showTags": false,
-                  "showAttachments": true,
+                  "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
-                  "colorGroups": [
-                    {
-                      "query": "cycling",
-                      "color": {
-                        "a": 1,
-                        "rgb": 14048348
-                      }
-                    }
-                  ],
+                  "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": true,
                   "textFadeMultiplier": -3,
@@ -56,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.015064684659933457,
+                  "scale": 0.01945270195733497,
                   "close": false
                 }
               }
@@ -76,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "road cycling.md",
                 "mode": "preview"
               }
             },
@@ -163,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "road cycling.md"
               }
             }
           }
@@ -180,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "road cycling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,10 +191,10 @@
   },
   "active": "f78e9cf9c86540aa",
   "lastOpenFiles": [
-    "test.md",
-    "Untitled.md",
     "road cycling.md",
     "road bike.md",
+    "test.md",
+    "Untitled.md",
     "time trial.md",
     "anaerobic threshold.md",
     "cycling economy.md",
