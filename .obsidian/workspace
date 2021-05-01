@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "measurement.md",
+                "file": "prioritization.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "measurement.md",
+                "file": "prioritization.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.02287872756504272,
+                  "scale": 0.027365633498901244,
                   "close": false
                 }
               }
@@ -68,8 +68,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "measurement.md",
-                "mode": "source"
+                "file": "prioritization.md",
+                "mode": "preview"
               }
             },
             "group": "78d9bea5311ce9f1"
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "measure",
+                "query": "priori",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "measurement.md"
+                "file": "prioritization.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "measurement.md",
+                "file": "prioritization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,17 +189,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0b93a43b9921fffe",
+  "active": "f78e9cf9c86540aa",
   "lastOpenFiles": [
-    "measurement.md",
+    "prioritization.md",
+    "principle of indifference.md",
+    "adaptive cache replacement.md",
+    "construal level theory.md",
+    "explore-exploit tradeoff.md",
     "goal.md",
-    "goal-specificity effect.md",
-    "functional threshold power.md",
-    "road cycling.md",
-    "pacing strategies.md",
-    "road bike.md",
-    "working memory.md",
-    "cache.md",
-    "README.md"
+    "global optimum.md",
+    "measurement.md",
+    "entropy (arrow of time).md",
+    "goal-specificity effect.md"
   ]
 }

@@ -7,7 +7,7 @@
 	1. from abstraction to concreteness
 
 # top-down approach
-1. $\text{construal level theory*top-down approach=prioritization}$
+1. construal level theory · top-down approach = [[prioritization]]
 	1. [[top-down]]
 	2. [[prioritization]]
 
