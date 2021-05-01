@@ -23,4 +23,4 @@
 # [[entropy (information theory)]]
 1. construal level theory → entropy ([[information]] theory)
 	1. positive correlation
-	2. could be relative? → e.g. dependent on goal → e.g. higher construals would increase learning rate → increase certainty → lower entropy
+	2. could be relative? → e.g. dependent on [[goal]] → e.g. higher construals would increase learning rate → increase certainty → lower entropy
