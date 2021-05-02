@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moore's Algorithm.md",
+                "file": "highest response ratio next.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Moore's Algorithm.md",
+                "file": "highest response ratio next.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moore's Algorithm.md",
+                "file": "highest response ratio next.md",
                 "mode": "preview"
               }
             },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Moore's Algorithm.md"
+                "file": "highest response ratio next.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Moore's Algorithm.md",
+                "file": "highest response ratio next.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,15 +191,15 @@
   },
   "active": "f78e9cf9c86540aa",
   "lastOpenFiles": [
+    "highest response ratio next.md",
+    "shortest remaining time first.md",
+    "Untitled.md",
     "Moore's Algorithm.md",
     "prioritization.md",
-    "Untitled.md",
     "optimization.md",
     "adaptive cache replacement.md",
     "time trial.md",
     "cache hierarchy.md",
-    "cache.md",
-    "principle of indifference.md",
-    "construal level theory.md"
+    "cache.md"
   ]
 }
