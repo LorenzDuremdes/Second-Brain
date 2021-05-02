@@ -1,3 +1,3 @@
 1. highest response ratio next (HRRN); processes that have spent a long time waiting compete against those estimated to have short run times. If the waiting time of a process increases, it's response ratio increases making the long awaited process to execute next.
-2. this algorithm solves the starvation problem that exists in [[shortest remaining time first|SRTF]] scheduling [[algorithm]]
-3. "do important and urgent" first makes use of the algorithm "highest response ratio next"^[Algorithms to Live By: The Computer Science of Human Decisions, p. 117]
+2. this [[algorithm]] solves the starvation problem that exists in [[shortest remaining time first|SRTF]] scheduling [[algorithm]]
+3. do "important and urgent" first makes use of the [[algorithm]] "highest response ratio next"^[Algorithms to Live By: The Computer Science of Human Decisions, p. 117]

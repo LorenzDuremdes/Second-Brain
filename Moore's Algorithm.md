@@ -2,4 +2,4 @@
 	1. goal → minimizing the quantity of items exceeding threshold
 
 # related
-1. [[minimax and maximin]] → Moore’s Algorithm minimizes the number of items you’ll need to throw away^[Algorithms to Live By: The Computer Science of Human Decisions, p. 116]
+1. [[minimax and maximin]] → Moore’s [[algorithm]] minimizes the number of items you’ll need to throw away^[Algorithms to Live By: The Computer Science of Human Decisions, p. 116]

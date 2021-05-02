@@ -1,4 +1,4 @@
-1. algorithmic efficiency; a property of an algorithm which relates to the number of computational resources used by the algorithm
+1. algorithmic efficiency; a property of an [[algorithm]] which relates to the number of computational resources used by the [[algorithm]]
 2. algorithmic efficiency → [[noise]]
 	1. the less [[noise]] increases loss, the more efficient
 		1. the more it can make use of [[noise]], the more efficient
