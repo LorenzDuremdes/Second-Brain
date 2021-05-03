@@ -1,0 +1,1 @@
+1. preempting (computing); the act of temporarily interrupting an executing task, with the intention of resuming it at a later time
