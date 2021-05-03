@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weighted shortest remaining time first.md",
+                "file": "procrastination.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "weighted shortest remaining time first.md",
+                "file": "procrastination.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.054386692139985086,
+                  "scale": 0.05438669213998497,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weighted shortest remaining time first.md",
+                "file": "procrastination.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "knowledge quality",
+                "query": "procrast",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weighted shortest remaining time first.md"
+                "file": "procrastination.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weighted shortest remaining time first.md",
+                "file": "procrastination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,15 +191,15 @@
   },
   "active": "f78e9cf9c86540aa",
   "lastOpenFiles": [
-    "weighted shortest remaining time first.md",
+    "procrastination.md",
+    "distributed denial-of-service.md",
     "Untitled.md",
+    "weighted shortest remaining time first.md",
     "space-time tradeoff (computer science).md",
     "attachment style.md",
     "measurement.md",
     "road cycling.md",
     "Moore's Algorithm.md",
-    "minimax and maximin.md",
-    "shortest remaining time first.md",
-    "algorithm.md"
+    "minimax and maximin.md"
   ]
 }
