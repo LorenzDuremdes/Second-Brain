@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "space-time tradeoff (computer science).md",
+                "file": "weighted shortest remaining time first.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "space-time tradeoff (computer science).md",
+                "file": "weighted shortest remaining time first.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.022213881370263488,
+                  "scale": 0.054386692139985086,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "space-time tradeoff (computer science).md",
+                "file": "weighted shortest remaining time first.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "algorithm",
+                "query": "knowledge quality",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "space-time tradeoff (computer science).md"
+                "file": "weighted shortest remaining time first.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "space-time tradeoff (computer science).md",
+                "file": "weighted shortest remaining time first.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,6 +191,8 @@
   },
   "active": "f78e9cf9c86540aa",
   "lastOpenFiles": [
+    "weighted shortest remaining time first.md",
+    "Untitled.md",
     "space-time tradeoff (computer science).md",
     "attachment style.md",
     "measurement.md",
@@ -198,8 +200,6 @@
     "Moore's Algorithm.md",
     "minimax and maximin.md",
     "shortest remaining time first.md",
-    "algorithm.md",
-    "highest response ratio next.md",
-    "Untitled.md"
+    "algorithm.md"
   ]
 }
