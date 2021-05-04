@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "autocrine signaling.md",
+                "file": "slow-twitch muscle fibers type I.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "autocrine signaling.md",
+                "file": "slow-twitch muscle fibers type I.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -37,7 +37,15 @@
                   "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
-                  "colorGroups": [],
+                  "colorGroups": [
+                    {
+                      "query": "",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14048348
+                      }
+                    }
+                  ],
                   "collapse-display": true,
                   "showArrow": true,
                   "textFadeMultiplier": -3,
@@ -48,7 +56,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.03178130506625283,
+                  "scale": 0.018571663617902672,
                   "close": false
                 }
               }
@@ -68,7 +76,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "autocrine signaling.md",
+                "file": "slow-twitch muscle fibers type I.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "procrast",
+                "query": "pacing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "autocrine signaling.md"
+                "file": "slow-twitch muscle fibers type I.md"
               }
             }
           }
@@ -172,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "autocrine signaling.md",
+                "file": "slow-twitch muscle fibers type I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,6 +199,8 @@
   },
   "active": "0b93a43b9921fffe",
   "lastOpenFiles": [
+    "slow-twitch muscle fibers type I.md",
+    "pacing strategies.md",
     "autocrine signaling.md",
     "backpropagation.md",
     "Untitled.md",
@@ -198,8 +208,6 @@
     "preempting (computing).md",
     "procrastination.md",
     "distributed denial-of-service.md",
-    "weighted shortest remaining time first.md",
-    "space-time tradeoff (computer science).md",
-    "attachment style.md"
+    "weighted shortest remaining time first.md"
   ]
 }

@@ -21,6 +21,10 @@
 3. how long to be above average sustainable power at the start of double peak?
 	1. ~2 minutes^[Cutting-Edge Cycling, p. 175]
 
+# wind resistance strategies
+1. in a tailwind, achieving even your FTP wattage is difficult^[Cutting-Edge Cycling, 181]
+	1. typically, either your gearing is too small and you can’t spin the gear fast enough to compensate for the lower torque and resistance or you have a big enough gear but your muscles are not accustomed to producing high power when pedaling so rapidly (e.g. [[slow-twitch muscle fibers type I]])
+
 # climbing strategies
 1. flat → climb (FTP)
 	1. below FTP at the flat segment, because you have less kinetic [[energy]] during the climb^[Cutting-Edge Cycling, p. 179]
