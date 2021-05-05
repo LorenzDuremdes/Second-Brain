@@ -1,6 +1,8 @@
 1. what seems to mostly cause procrastination (personally)?
 	1. FOMO
 		1. can be reduced by e.g. realizing you got all day to do what you want to do
+2. productive procrastination; switching to a less important task before moving back to the main task can help against procrastination (e.g. doing the dishes)
+	1. can result in "DDoS"
 
 # related
 1. "procrastination" is related to "[[distributed denial-of-service|DDoS]]"^[Algorithms to Live By: The Computer Science of Human Decisions, p. 120]
