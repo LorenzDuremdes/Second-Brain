@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interference theory.md",
+                "file": "precedence constraint.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "interference theory.md",
+                "file": "precedence constraint.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.02326770624871457,
+                  "scale": 0.027830897489915598,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interference theory.md",
+                "file": "precedence constraint.md",
                 "mode": "preview"
               }
             },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interference theory.md"
+                "file": "precedence constraint.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interference theory.md",
+                "file": "precedence constraint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,15 +191,15 @@
   },
   "active": "f78e9cf9c86540aa",
   "lastOpenFiles": [
+    "precedence constraint.md",
+    "priority inheritance.md",
+    "Untitled.md",
+    "priority inversion.md",
     "interference theory.md",
     "slow-twitch muscle fibers type I.md",
     "pacing strategies.md",
     "noise.md",
     "procrastination.md",
-    "autocrine signaling.md",
-    "pergola-landbouw.md",
-    "prioritization.md",
-    "optimization.md",
-    "attachment style.md"
+    "autocrine signaling.md"
   ]
 }
