@@ -1,4 +1,4 @@
-# Anki software
+# Anki [[hardware and software]]
 1. what could cause high CPU usage in Anki?
 	1. hardware acceleration is off (by default)
 

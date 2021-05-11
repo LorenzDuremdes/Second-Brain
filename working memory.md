@@ -10,6 +10,9 @@
 1. why does memory span decrease after adulthood?
 	1. a decrease of working memory storage and processing speed ([[myelin|demyelination]])
 		1. slower processing speed → e.g. [[cache|caching]] issues?
+2. why did they invent a separate reading span task beside memory span?
+	1. because there's a weak correlation between memory span (e.g. digits) and complex cognitive tasks e.g. text comprehension^[https://en.wikipedia.org/wiki/Memory_span#cite_note-34]
+		1. **related**: [[hardware and software]]
 
 # related
 1. [[neocortex]]
