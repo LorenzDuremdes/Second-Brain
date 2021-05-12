@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.02326770624871366,
+                  "scale": 0.01945270195733369,
                   "close": false
                 }
               }
@@ -189,17 +189,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f78e9cf9c86540aa",
+  "active": "c9c2eab9da311567",
   "lastOpenFiles": [
     "autism.md",
+    "psychiatric epidemiology.md",
+    "developmental psychology.md",
+    "Diagnostic and Statistical Manual of Mental Disorders.md",
     "social communication disorder.md",
     "intrinsic cognitive load.md",
     "Untitled.md",
     "germane cognitive load.md",
     "working memory.md",
-    "software.md",
-    "Anki.md",
-    "maps of content.md",
-    "distributed network.md"
+    "software.md"
   ]
 }
