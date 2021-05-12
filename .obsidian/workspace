@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intrinsic cognitive load.md",
+                "file": "autism.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "intrinsic cognitive load.md",
+                "file": "autism.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intrinsic cognitive load.md",
+                "file": "autism.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intrinsic",
+                "query": "autism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intrinsic cognitive load.md"
+                "file": "autism.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intrinsic cognitive load.md",
+                "file": "autism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,15 +191,15 @@
   },
   "active": "f78e9cf9c86540aa",
   "lastOpenFiles": [
+    "autism.md",
+    "social communication disorder.md",
     "intrinsic cognitive load.md",
+    "Untitled.md",
     "germane cognitive load.md",
     "working memory.md",
     "software.md",
     "Anki.md",
     "maps of content.md",
-    "distributed network.md",
-    "construal level theory.md",
-    "humanistic psychology.md",
-    "Maslow's dynamic hierarchy of needs.md"
+    "distributed network.md"
   ]
 }
