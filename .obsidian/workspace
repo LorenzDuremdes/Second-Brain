@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "working memory.md",
+                "file": "intrinsic cognitive load.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "working memory.md",
+                "file": "intrinsic cognitive load.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.03328900781257669,
+                  "scale": 0.02326770624871366,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "working memory.md",
+                "file": "intrinsic cognitive load.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "memory span",
+                "query": "intrinsic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,8 +127,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "working memory.md"
+                "file": "intrinsic cognitive load.md"
               }
             }
           }
@@ -173,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "working memory.md",
+                "file": "intrinsic cognitive load.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +191,8 @@
   },
   "active": "f78e9cf9c86540aa",
   "lastOpenFiles": [
+    "intrinsic cognitive load.md",
+    "germane cognitive load.md",
     "working memory.md",
     "software.md",
     "Anki.md",
@@ -199,8 +200,6 @@
     "distributed network.md",
     "construal level theory.md",
     "humanistic psychology.md",
-    "Maslow's dynamic hierarchy of needs.md",
-    "intrinsic cognitive load.md",
-    "rubber duck debugging.md"
+    "Maslow's dynamic hierarchy of needs.md"
   ]
 }
