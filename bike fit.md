@@ -27,6 +27,8 @@
 	1. 4–6 degrees^[Cutting-Edge Cycling, p. 200]
 2. We teach fitters that [[knee]] tracking problems often originate in the hip, not the [[foot]].^[Cutting-Edge Cycling, p. 200]
 	1. For inversion or eversion, we advocate using varus heel wedges to correct for overpronated feet only.
+3. midfoot cleats position → hip angle^[[https://www.youtube.com/watch?v=t7oGuel--Lc](https://www.youtube.com/watch?v=t7oGuel--Lc)]
+	1. might increase hip angle (like getting shorter cranks)
 
 # [[knee]]
 1. optimal [[knee]] angle (BikeFit)

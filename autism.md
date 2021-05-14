@@ -42,4 +42,3 @@
 ## neurodiversity
 1. it emerged as a challenge to prevailing views that certain neurodevelopmental disorders are inherently pathological and instead adopts the social model of disability, in which societal barriers are the main contributing factor that disables people.^[https://en.wikipedia.org/wiki/Neurodiversity#cite_note-2]^[https://en.wikipedia.org/wiki/Neurodiversity#cite_note-Bloomsbury-3]
 	1. The subsequent neurodiversity paradigm has been controversial among disability advocates, with opponents saying that its conceptualization doesn't reflect the realities of individuals who have high support needs.^[https://en.wikipedia.org/wiki/Neurodiversity#cite_note-4]^[https://en.wikipedia.org/wiki/Neurodiversity#cite_note-5]^[https://en.wikipedia.org/wiki/Neurodiversity#cite_note-6]
-
