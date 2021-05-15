@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "terror management theory.md",
+                "file": "biological specificity.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "terror management theory.md",
+                "file": "biological specificity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.01945270195733365,
+                  "scale": 0.019127500739804067,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "terror management theory.md",
+                "file": "biological specificity.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bike fit",
+                "query": "coggan's",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "terror management theory.md"
+                "file": "biological specificity.md"
               }
             }
           }
@@ -172,13 +172,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "terror management theory.md",
+                "file": "biological specificity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -187,19 +187,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 270
   },
-  "active": "c9c2eab9da311567",
+  "active": "f78e9cf9c86540aa",
   "lastOpenFiles": [
-    "terror management theory.md",
-    "reactance (psychology).md",
+    "biological specificity.md",
+    "Coggan's Power-Based Training Levels.jpg.md",
+    "bicycle pedal.md",
+    "road cycling.md",
+    "somatic nervous system.md",
     "Untitled.md",
-    "bike fit.md",
-    "autism.md",
-    "autism 1.md",
-    "psychiatric epidemiology.md",
-    "psychiatry.md",
-    "developmental psychology.md",
-    "Diagnostic and Statistical Manual of Mental Disorders.md"
+    "polymer.md",
+    "pacing strategies.md",
+    "[time trial.md",
+    "intractability.md"
   ]
 }

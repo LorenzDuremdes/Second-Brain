@@ -1,0 +1,1 @@
+1. polymer; a substance or material consisting of very large [[molecule|molecules]], or macromolecules, composed of many repeating subunits.^[https://en.wikipedia.org/wiki/Polymer#cite_note-6]
