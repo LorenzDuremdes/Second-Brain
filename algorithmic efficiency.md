@@ -7,5 +7,5 @@
 1. a higher algorithmic efficiency would lead to a higher [[computer performance]]
 
 # Related
-1. computer science
+1. [[computer science]]
 2. [[learning rate]]

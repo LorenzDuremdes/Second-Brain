@@ -3,7 +3,7 @@
 	1. This threat can be minimal when process times follow a heavy-tailed distribution.^[https://en.wikipedia.org/wiki/Shortest_remaining_time#cite_note-2] A similar [[algorithm]] which avoids starvation at the cost of higher tracking overhead is [[highest response ratio next]]
 
 # see also
-1. Algorithms to Live By: The Computer Science of Human Decisions, p. 117
+1. Algorithms to Live By: The [[computer science]] of Human Decisions, p. 117
 
 # related
 1. [[algorithm]]

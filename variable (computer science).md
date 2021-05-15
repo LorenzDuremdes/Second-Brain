@@ -1,2 +1,2 @@
-1. variable (computer science); a storage location (identified by a memory address) paired with an associated symbolic name, which contains some known or unknown quantity of [[information]] referred to as a [[value (computer science)|value]]
+1. variable ([[computer science]]); a storage location (identified by a memory address) paired with an associated symbolic name, which contains some known or unknown quantity of [[information]] referred to as a [[value (computer science)|value]]
 	1. what could be meant with "unknown quantity"? → compressed?

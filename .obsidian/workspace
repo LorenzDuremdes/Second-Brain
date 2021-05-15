@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cache hierarchy.md",
+                "file": "computer science.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cache hierarchy.md",
+                "file": "computer science.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.015991330090848823,
+                  "scale": 0.02287872756504187,
                   "close": false
                 }
               }
@@ -68,8 +68,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cache hierarchy.md",
-                "mode": "preview"
+                "file": "computer science.md",
+                "mode": "source"
               }
             },
             "group": "d59e40e9ae142cec"
@@ -110,10 +110,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "metacognition",
+                "query": "computational",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cache hierarchy.md"
+                "file": "computer science.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cache hierarchy.md",
+                "file": "computer science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,15 +191,15 @@
   },
   "active": "c9c2eab9da311567",
   "lastOpenFiles": [
-    "cache hierarchy.md",
-    "mathematical optimization.md",
-    "metacognition.md",
-    "cognition.md",
-    "biological specificity.md",
-    "Coggan's Power-Based Training Levels.jpg.md",
-    "bicycle pedal.md",
-    "road cycling.md",
-    "somatic nervous system.md",
-    "Untitled.md"
+    "computer science.md",
+    "overhead (computing).md",
+    "Untitled.md",
+    "context switch.md",
+    "computational complexity.md",
+    "space-time tradeoff (computer science).md",
+    "memory.md",
+    "intractability.md",
+    "highest response ratio next.md",
+    "cache hierarchy.md"
   ]
 }

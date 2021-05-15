@@ -1,4 +1,4 @@
-1. heavy weighing factors causing external [[information]] (not stored in one's long-term [[memory]]) to not contribute much to one's intelligence
+1. heavy weighing factors causing external [[information]] (not stored in one's long-term [[human memory]]) to not contribute much to one's intelligence
 	1. high latency
 	2. less quantity of [[information]] (e.g. [[brain]] makes from "A" and "B" → "AB")
 3. do you have to know beforehand why you want to ask something? + why

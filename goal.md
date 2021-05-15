@@ -1,2 +1,2 @@
-1. before you can have a plan, you must first choose a [[measurement|metric]]^[Algorithms to Live By: The Computer Science of Human Decisions, p. 115]
-2. which metric we pick will directly affect which scheduling approaches fare [[global optimum|best]]^[Algorithms to Live By: The Computer Science of Human Decisions, p. 115]
+1. before you can have a plan, you must first choose a [[measurement|metric]]^[Algorithms to Live By: The [[computer science]] of Human Decisions, p. 115]
+2. which metric we pick will directly affect which scheduling approaches fare [[global optimum|best]]^[Algorithms to Live By: The [[computer science]] of Human Decisions, p. 115]
