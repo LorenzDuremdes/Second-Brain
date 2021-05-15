@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer science.md",
+                "file": "memory hierarchy.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "computer science.md",
+                "file": "memory hierarchy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.02287872756504187,
+                  "scale": 0.022878727565041636,
                   "close": false
                 }
               }
@@ -68,8 +68,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer science.md",
-                "mode": "source"
+                "file": "memory hierarchy.md",
+                "mode": "preview"
               }
             },
             "group": "d59e40e9ae142cec"
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "computational",
+                "query": "time complexity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer science.md"
+                "file": "memory hierarchy.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer science.md",
+                "file": "memory hierarchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,15 +191,15 @@
   },
   "active": "c9c2eab9da311567",
   "lastOpenFiles": [
-    "computer science.md",
-    "overhead (computing).md",
+    "memory hierarchy.md",
+    "computer data storage.md",
+    "thrashing (computer science).md",
+    "nonlinear system.md",
     "Untitled.md",
     "context switch.md",
+    "computer science.md",
+    "overhead (computing).md",
     "computational complexity.md",
-    "space-time tradeoff (computer science).md",
-    "memory.md",
-    "intractability.md",
-    "highest response ratio next.md",
-    "cache hierarchy.md"
+    "space-time tradeoff (computer science).md"
   ]
 }
