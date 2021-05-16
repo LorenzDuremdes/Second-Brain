@@ -4,3 +4,5 @@
 2. [[construal level theory]] → cache hierarchy
 	1. usually, the higher the cache hierarchy, the higher the CLT
 		1. it's also usually more [[mathematical optimization|optimal]] this way e.g. metacognition (higher-level construal) above cognition
+3. model → cache hierarchy
+	1. models usually reside in a relatively high cache hierarchy

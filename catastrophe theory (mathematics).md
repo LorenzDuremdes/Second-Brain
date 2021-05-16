@@ -1,0 +1,1 @@
+1. catastrophe theory ([[mathematics]]); a branch of bifurcation theory in the study of dynamical systems; it is also a particular special case of more general singularity theory in geometry^[https://en.wikipedia.org/wiki/Catastrophe_theory]

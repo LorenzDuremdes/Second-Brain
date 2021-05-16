@@ -7,7 +7,7 @@
 1. [[preempting (computing)]]
 
 ## [[cache hierarchy]]
-1. e.g. long-term [[human memory|memory]] is sometimes resumed later (moved to a higher cache hierarchy (temporarily))
+1. e.g. long-term [[human memory|memory]] is sometimes resumed later (moved to a higher [[cache hierarchy]] (temporarily))
 2. cache hierarchies → context switching
-	1. different tasks that are brought up a higher cache hierarchy might require other components (from lower cache hierarchies) as well (that might have to be brought up a higher cache hierarchy as well), which increases computational/time complexity^[Algorithms to Live By: The Computer Science of Human Decisions, p. 129–130]
+	1. different tasks that are brought up a higher [[cache hierarchy]] might require other components (from lower cache hierarchies) as well (that might have to be brought up a higher [[cache hierarchy]] as well), which increases computational/time complexity^[Algorithms to Live By: The Computer Science of Human Decisions, p. 129–130]
 	2. **related**: [[pooling (artificial neural networks)]]

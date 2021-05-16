@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "statistics.md",
+                "file": "catastrophe theory (mathematics).md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "statistics.md",
+                "file": "catastrophe theory (mathematics).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.022878727565040835,
+                  "scale": 0.04683024442254939,
                   "close": false
                 }
               }
@@ -68,8 +68,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "statistics.md",
-                "mode": "source"
+                "file": "catastrophe theory (mathematics).md",
+                "mode": "preview"
               }
             },
             "group": "d59e40e9ae142cec"
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "statistic",
+                "query": "cache",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "statistics.md"
+                "file": "catastrophe theory (mathematics).md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "statistics.md",
+                "file": "catastrophe theory (mathematics).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,17 +189,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "c9c2eab9da311567",
+  "active": "f78e9cf9c86540aa",
   "lastOpenFiles": [
+    "catastrophe theory (mathematics).md",
+    "Untitled.md",
+    "intimate relationship.md",
+    "cache hierarchy.md",
+    "interpersonal relationship.md",
+    "romantic relationship.md",
+    "emotional self-regulation.md",
     "statistics.md",
     "arithmetic mean.md",
-    "empirical influence function.md",
-    "Untitled.md",
-    "Jacobian matrix.md",
-    "echelon (cycling).md",
-    "road cycling.md",
-    "context switch.md",
-    "memory hierarchy.md",
-    "Zeigarnik effect.md"
+    "empirical influence function.md"
   ]
 }
