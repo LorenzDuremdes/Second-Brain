@@ -1,0 +1,1 @@
+1. echelon ([[road cycling|cycling]]); a line of riders seeking maximum drafting in a crosswind, resulting in a diagonal line across the road^[https://en.wiktionary.org/wiki/echelon]

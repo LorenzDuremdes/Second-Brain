@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zeigarnik effect.md",
+                "file": "statistics.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Zeigarnik effect.md",
+                "file": "statistics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.06699983039941394,
+                  "scale": 0.022878727565040835,
                   "close": false
                 }
               }
@@ -68,8 +68,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zeigarnik effect.md",
-                "mode": "preview"
+                "file": "statistics.md",
+                "mode": "source"
               }
             },
             "group": "d59e40e9ae142cec"
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "human rain",
+                "query": "statistic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zeigarnik effect.md"
+                "file": "statistics.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeigarnik effect.md",
+                "file": "statistics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,19 +187,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270
+    "width": 276
   },
-  "active": "f78e9cf9c86540aa",
+  "active": "c9c2eab9da311567",
   "lastOpenFiles": [
-    "Zeigarnik effect.md",
-    "human brain.md",
+    "statistics.md",
+    "arithmetic mean.md",
+    "empirical influence function.md",
     "Untitled.md",
-    "memory hierarchy.md",
-    "computer data storage.md",
-    "thrashing (computer science).md",
-    "nonlinear system.md",
+    "Jacobian matrix.md",
+    "echelon (cycling).md",
+    "road cycling.md",
     "context switch.md",
-    "computer science.md",
-    "overhead (computing).md"
+    "memory hierarchy.md",
+    "Zeigarnik effect.md"
   ]
 }

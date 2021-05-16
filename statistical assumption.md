@@ -6,7 +6,7 @@
 	2. Independence of observational error from potential confounding effects.
 	3. Exact or approximate normality of observations (or errors).
 	4. Linearity of graded responses to quantitative stimuli, e.g. in linear regression.
-3. Statistics, like all mathematical disciplines, does not infer valid conclusions from nothing.
+3. [[statistics]], like all mathematical disciplines, does not infer valid conclusions from nothing.
 
 # related
 1. [[statistical model]]
