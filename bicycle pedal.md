@@ -58,7 +58,7 @@ Of course, you must do your best to minimize differences between the tests in va
 		1. **related**
 			1. [[allostatic load]]
 			2. [[exercise pressor reflex]]
-	3. ![[Coggan's Power-Based Training Levels.jpg]]
+	3. ![[Coggan_s Power-Based Training Levels.jpg]]
 4. it could be more efficient to have a lower cadence in the beginning and higher in the end (e.g. SST)^[Cutting-Edge Cycling, p. 238]
 	1. why? because you usually tend to sprint in the end (80–100 cadence is more efficient at higher power outputs)
 
