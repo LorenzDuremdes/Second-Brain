@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "surface tension.md",
+                "file": "intimate relationship.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "surface tension.md",
+                "file": "intimate relationship.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "surface tension.md",
+                "file": "intimate relationship.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "coggan",
+                "query": "intimate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "surface tension.md"
+                "file": "intimate relationship.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "surface tension.md",
+                "file": "intimate relationship.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,15 +191,15 @@
   },
   "active": "1428ef4f3ff90207",
   "lastOpenFiles": [
+    "intimate relationship.md",
+    "interpersonal relationship.md",
+    "steady state.md",
+    "courtship.md",
+    "Untitled.md",
     "surface tension.md",
     "thrashing (computer science).md",
-    "Untitled.md",
     "context switch.md",
     "bicycle pedal.md",
-    "typical power-duration curves for a climber, sprinter, time trialist, and an all-rounder.jpg",
-    "Coggan's Power-Based Training Levels.jpg.md",
-    "Coggan_s Power-Based Training Levels.jpg",
-    "catastrophe theory (mathematics).md",
-    "intimate relationship.md"
+    "typical power-duration curves for a climber, sprinter, time trialist, and an all-rounder.jpg"
   ]
 }

@@ -1,0 +1,1 @@
+1. courtship; the period of development towards an [[intimate relationship]] wherein a couple get to know each other and decide if there will be an engagement, followed by a marriage^[https://en.wikipedia.org/wiki/Courtship]
