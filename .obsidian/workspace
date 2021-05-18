@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "information.md",
+                "file": "rule of succession.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "information.md",
+                "file": "rule of succession.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.02395999316123849,
+                  "scale": 0.03406776805319173,
                   "close": false
                 }
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "information.md",
+                "file": "rule of succession.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adaptive cache",
+                "query": "probability",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "information.md"
+                "file": "rule of succession.md"
               }
             }
           }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "information.md",
+                "file": "rule of succession.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,15 +193,15 @@
   },
   "active": "1428ef4f3ff90207",
   "lastOpenFiles": [
+    "Untitled.md",
+    "prioritization.md",
+    "adaptive replacement cache.md",
+    "Bayes' theorem.md",
     "information.md",
     "adaptive cache replacement.md",
     "hydration (drinking).md",
-    "Untitled.md",
     "batch processing.md",
     "interrupt coalescing.md",
-    "throughput.md",
-    "thrashing (computer science).md",
-    "Upper Confidence Bound algorithm.md",
-    "恭喜發財.md"
+    "throughput.md"
   ]
 }
