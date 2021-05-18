@@ -6,10 +6,10 @@
 			vs.
 			
 			"[[aerobic exercise]]" → lower probability of interference despite being a subcomponent of "exercise" and "aerobic"
-2. where to put the following information in Obsidian.md + why
-	1. entropy (information theory) → dimension
+2. where to put the following [[information]] in Obsidian.md + why
+	1. entropy ([[information]] theory) → dimension
 		5th dimension (usually)
-		1. under "entropy (information theory)", because you are describing a property of that and it's just one of many examples of the concept "dimension"
+		1. under "entropy ([[information]] theory)", because you are describing a property of that and it's just one of many examples of the concept "dimension"
 			1. the one with higher [[self-determination theory|relatedness]]
 			
 # search

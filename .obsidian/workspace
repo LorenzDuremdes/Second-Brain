@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "batch processing.md",
+                "file": "information.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "batch processing.md",
+                "file": "information.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.1506647126530621,
+                  "scale": 0.02395999316123849,
                   "close": false
                 }
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "batch processing.md",
+                "file": "information.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "throughput",
+                "query": "adaptive cache",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "batch processing.md"
+                "file": "information.md"
               }
             }
           }
@@ -174,8 +174,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "batch processing.md",
-                "collapseAll": true,
+                "file": "information.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -193,15 +193,15 @@
   },
   "active": "1428ef4f3ff90207",
   "lastOpenFiles": [
-    "batch processing.md",
+    "information.md",
+    "adaptive cache replacement.md",
+    "hydration (drinking).md",
     "Untitled.md",
+    "batch processing.md",
     "interrupt coalescing.md",
     "throughput.md",
     "thrashing (computer science).md",
     "Upper Confidence Bound algorithm.md",
-    "恭喜發財.md",
-    "absolute permittivity.md",
-    "relative permittivity.md",
-    "cognitive reserve.md"
+    "恭喜發財.md"
   ]
 }

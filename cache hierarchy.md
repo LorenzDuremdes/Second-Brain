@@ -1,5 +1,5 @@
 1. what should you move to a higher cache hierarchy ([[Anki]]) from [[Obsidian.md]]?
-	1. [[adaptive cache replacement]] → the one you expect most to use (quantity and/or time)
+	1. [[adaptive replacement cache]] → the one you expect most to use (quantity and/or time)
 		1. goal → [[intelligence]]
 2. [[construal level theory]] → cache hierarchy
 	1. usually, the higher the cache hierarchy, the higher the CLT

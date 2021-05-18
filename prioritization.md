@@ -9,5 +9,5 @@
 	1. **related**: [[principle of indifference]]
 
 # related
-1. [[adaptive cache replacement]]
+1. [[adaptive replacement cache]]
 2. [[optimization]]
