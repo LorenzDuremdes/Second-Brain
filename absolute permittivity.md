@@ -1,0 +1,4 @@
+1. absolute permittivity (electromagnetism); denoted by the Greek letter ε (epsilon), is a measure of the electric polarizability of a dielectric^[https://en.wikipedia.org/wiki/Permittivity]
+2. A dielectric medium showing orientation of charged particles creating polarization effects. Such a medium can have a lower ratio of electric flux to charge (more permittivity) than empty space^[By hyperphysics - http://hyperphysics.phy-astr.gsu.edu/hbase/electric/dielec.html#c1, Public Domain, https://commons.wikimedia.org/w/index.php?curid=37665552]
+
+	<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Diel.png" width="500" />

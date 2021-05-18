@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cognitive reserve.md",
+                "file": "absolute permittivity.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cognitive reserve.md",
+                "file": "absolute permittivity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.05696679276618726,
+                  "scale": 0.1166047727796596,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cognitive reserve.md",
+                "file": "absolute permittivity.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cognitive reserve",
+                "query": "permittivity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cognitive reserve.md"
+                "file": "absolute permittivity.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cognitive reserve.md",
+                "file": "absolute permittivity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,17 +189,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "797e5a6a617bdfa4",
+  "active": "1428ef4f3ff90207",
   "lastOpenFiles": [
-    "cognitive reserve.md",
+    "absolute permittivity.md",
+    "relative permittivity.md",
     "Untitled.md",
+    "cognitive reserve.md",
     "intimate relationship.md",
     "interpersonal relationship.md",
     "steady state.md",
     "courtship.md",
     "surface tension.md",
-    "thrashing (computer science).md",
-    "context switch.md",
-    "bicycle pedal.md"
+    "thrashing (computer science).md"
   ]
 }
