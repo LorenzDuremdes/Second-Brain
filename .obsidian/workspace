@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "恭喜發財.md",
+                "file": "throughput.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "恭喜發財.md",
+                "file": "throughput.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.6298063181512403,
+                  "scale": 0.024095303333206967,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "恭喜發財.md",
+                "file": "throughput.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "permittivity",
+                "query": "throughput",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -127,7 +127,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "恭喜發財.md"
+                "file": "throughput.md"
               }
             }
           }
@@ -172,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "恭喜發財.md",
+                "file": "throughput.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,6 +192,8 @@
   },
   "active": "797e5a6a617bdfa4",
   "lastOpenFiles": [
+    "throughput.md",
+    "thrashing (computer science).md",
     "恭喜發財.md",
     "absolute permittivity.md",
     "relative permittivity.md",
@@ -198,8 +201,6 @@
     "cognitive reserve.md",
     "intimate relationship.md",
     "interpersonal relationship.md",
-    "steady state.md",
-    "courtship.md",
-    "surface tension.md"
+    "steady state.md"
   ]
 }
