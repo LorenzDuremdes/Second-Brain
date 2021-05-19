@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "integral (mathematics).md",
+                "file": "sports periodization.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "integral (mathematics).md",
+                "file": "sports periodization.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.027830897489915515,
+                  "scale": 0.023267706248713955,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "integral (mathematics).md",
+                "file": "sports periodization.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "explore",
+                "query": "periodiza",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "integral (mathematics).md"
+                "file": "sports periodization.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "integral (mathematics).md",
+                "file": "sports periodization.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,17 +189,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "797e5a6a617bdfa4",
+  "active": "49881e83dd04a4fb",
   "lastOpenFiles": [
+    "sports periodization.md",
+    "somatic nervous system.md",
+    "road cycling.md",
+    "neuromuscular junction.md",
     "integral (mathematics).md",
+    "regression analysis.md",
     "Untitled.md",
     "adaptive replacement cache.md",
     "explore-exploit tradeoff.md",
-    "Hasse diagram.md",
-    "chemistry.md",
-    "molecular binding.md",
-    "synaptic stabilization.md",
-    "block training.md",
-    "road cycling.md"
+    "Hasse diagram.md"
   ]
 }

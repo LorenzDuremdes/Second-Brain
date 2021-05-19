@@ -10,3 +10,8 @@
 2. training experience → MAV→MRV
 	1. the MAV→MRV gap becomes less with more training experience (e.g. advanced)^[https://youtu.be/YTOfkJ2WsPk?t=540]
 		1. e.g. making it less forgivable/difficult to stop at MAV
+
+# bulking vs. cutting
+1. should I cut or mass?
+
+<iframe src="https://www.instagram.com/p/CPBY_mrr1Zy/" width="600" height="600"></iframe>

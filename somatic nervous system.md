@@ -9,4 +9,4 @@
 
 	3. Axon: the messenger cell that carries the command to contract muscles.
 
-	4. Neuromuscular junction: the messenger axon cell tells muscle cells to contract at this intersection
+	4. [[neuromuscular junction]]: the messenger axon cell tells muscle cells to contract at this intersection
