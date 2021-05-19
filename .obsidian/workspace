@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lindy effect.md",
+                "file": "prior probability distribution.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lindy effect.md",
+                "file": "prior probability distribution.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.03981754600430495,
+                  "scale": 0.047626441098251905,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lindy effect.md",
+                "file": "prior probability distribution.md",
                 "mode": "preview"
               }
             },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lindy effect.md"
+                "file": "prior probability distribution.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lindy effect.md",
+                "file": "prior probability distribution.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,17 +189,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "797e5a6a617bdfa4",
+  "active": "1428ef4f3ff90207",
   "lastOpenFiles": [
-    "Lindy effect.md",
+    "prior probability distribution.md",
     "Untitled.md",
+    "Lindy effect.md",
     "sports periodization.md",
     "somatic nervous system.md",
     "road cycling.md",
     "neuromuscular junction.md",
     "integral (mathematics).md",
     "regression analysis.md",
-    "adaptive replacement cache.md",
-    "explore-exploit tradeoff.md"
+    "adaptive replacement cache.md"
   ]
 }
