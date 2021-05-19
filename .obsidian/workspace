@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sports periodization.md",
+                "file": "Lindy effect.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sports periodization.md",
+                "file": "Lindy effect.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.023267706248713955,
+                  "scale": 0.03981754600430495,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sports periodization.md",
+                "file": "Lindy effect.md",
                 "mode": "preview"
               }
             },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sports periodization.md"
+                "file": "Lindy effect.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sports periodization.md",
+                "file": "Lindy effect.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,17 +189,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "49881e83dd04a4fb",
+  "active": "797e5a6a617bdfa4",
   "lastOpenFiles": [
+    "Lindy effect.md",
+    "Untitled.md",
     "sports periodization.md",
     "somatic nervous system.md",
     "road cycling.md",
     "neuromuscular junction.md",
     "integral (mathematics).md",
     "regression analysis.md",
-    "Untitled.md",
     "adaptive replacement cache.md",
-    "explore-exploit tradeoff.md",
-    "Hasse diagram.md"
+    "explore-exploit tradeoff.md"
   ]
 }
