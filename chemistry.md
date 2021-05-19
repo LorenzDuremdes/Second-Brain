@@ -1,0 +1,1 @@
+1. chemistry occupies an intermediate position between [[physics]] and [[biology]].^[https://en.wikipedia.org/wiki/Chemistry#cite_note-6]

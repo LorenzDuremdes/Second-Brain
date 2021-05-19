@@ -6,7 +6,6 @@
       {
         "id": "14d8646d838bdece",
         "type": "split",
-        "dimension": 50.14005602240896,
         "children": [
           {
             "id": "1428ef4f3ff90207",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "naïve realism.md",
+                "file": "integral (mathematics).md",
                 "mode": "source"
               }
             },
@@ -26,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "naïve realism.md",
+                "file": "integral (mathematics).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.22034193498954796,
+                  "scale": 0.027830897489915515,
                   "close": false
                 }
               }
@@ -62,7 +61,6 @@
       {
         "id": "92df3954f2cb97ef",
         "type": "split",
-        "dimension": 49.85994397759104,
         "children": [
           {
             "id": "49881e83dd04a4fb",
@@ -70,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "naïve realism.md",
+                "file": "integral (mathematics).md",
                 "mode": "preview"
               }
             },
@@ -80,7 +78,7 @@
             "id": "eb3f8a21fff82df2",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "mindmap",
               "state": {}
             }
           }
@@ -112,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bias",
+                "query": "explore",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -157,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "naïve realism.md"
+                "file": "integral (mathematics).md"
               }
             }
           }
@@ -174,8 +172,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "naïve realism.md",
-                "collapseAll": false,
+                "file": "integral (mathematics).md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -191,17 +189,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "1428ef4f3ff90207",
+  "active": "797e5a6a617bdfa4",
   "lastOpenFiles": [
-    "naïve realism.md",
-    "cognitive bias.md",
-    "negativity bias.md",
+    "integral (mathematics).md",
     "Untitled.md",
-    "prioritization.md",
     "adaptive replacement cache.md",
-    "Bayes' theorem.md",
-    "information.md",
-    "adaptive cache replacement.md",
-    "hydration (drinking).md"
+    "explore-exploit tradeoff.md",
+    "Hasse diagram.md",
+    "chemistry.md",
+    "molecular binding.md",
+    "synaptic stabilization.md",
+    "block training.md",
+    "road cycling.md"
   ]
 }

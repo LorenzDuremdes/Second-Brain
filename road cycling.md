@@ -31,6 +31,15 @@
 		1. e.g. making it more difficult to measure progress (increasing average required steps)
 2. "Christmas stars" (road cycling); riders who are in the best shape of the season even though it’s only midwinter. By the time the race season actually starts, these stars are often burnt out.^[The Cyclist's Training Bible, p. 18 (Joe Friel)]
 
+## microcycle
+1. how could a zone 2 workout not increase fatigue too much despite having a hard session (≥zone 3) previous day?
+	1. due to mostly stimulating slower-twitch muscle fibers (which recover more quickly)?
+	2. intensity too low to stimulate the longer-to-recover faster-twitch muscle fibers?
+	3. going to "task failure" might also fatigue faster-twitch muscle fibers (which you don't necessarily want due to longer recovery)^[https://www.reddit.com/r/Velo/comments/9v4hlc/slow_twitch_vs_fast_twitch/e99heom?utm_source=share&utm_medium=web2x&context=3]
+	4. **related**
+		1. [[Henneman's size principle]]
+		2. [[block training]] · pre-exhaust training → having to do less to (more quickly) stimulate slower-twitch muscle fibers?
+
 ## macrocycle
 1. what does Joe Friel mean with "limiters"?^[The Cyclist's Training Bible, p. 18]
 	1. limiting factors (required for e.g. an upcoming race)

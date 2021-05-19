@@ -1,0 +1,1 @@
+1. Hasse diagram (order theory); a type of [[mathematics|mathematical]] diagram used to represent a finite partially ordered set, in the form of a drawing of its transitive reduction^[https://en.wikipedia.org/wiki/Hasse_diagram]
