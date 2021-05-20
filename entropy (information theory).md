@@ -4,5 +4,5 @@
 2. entropy ([[information]] theory) → dimension
 	1. 5th dimension (usually)
 3. [[construal level theory]] → entropy (information theory)
-	1. positive}} {{c1::correlation ([[logical disjunction]])
+	1. positive}} correlation ([[logical disjunction]])
 	2. negative correlation ([[logical conjunction]])

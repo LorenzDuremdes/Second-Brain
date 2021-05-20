@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "entropy (information theory).md",
+                "file": "evil.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "entropy (information theory).md",
+                "file": "evil.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.033289007812575815,
+                  "scale": 0.02783089748991428,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "entropy (information theory).md",
+                "file": "evil.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "disjunction",
+                "query": "moral",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "entropy (information theory).md"
+                "file": "evil.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "entropy (information theory).md",
+                "file": "evil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,17 +189,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "797e5a6a617bdfa4",
+  "active": "1428ef4f3ff90207",
   "lastOpenFiles": [
+    "evil.md",
+    "Zoroastrianism.md",
+    "dualism in cosmology.md",
+    "Manichaeism.md",
+    "Untitled.md",
     "entropy (information theory).md",
     "Boolean algebra.md",
     "logical conjunction.md",
     "disjunction.md",
-    "data type (computer science).md",
-    "Untitled.md",
-    "juxtacrine signalling.md",
-    "genetic code.md",
-    "messenger RNA.md",
-    "mRNA.md"
+    "data type (computer science).md"
   ]
 }
