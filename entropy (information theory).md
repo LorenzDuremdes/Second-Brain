@@ -3,3 +3,6 @@
 	2. e.g. if one side of a coin weighed more, it would provide more certainty and, therefore, lower entropy
 2. entropy ([[information]] theory) → dimension
 	1. 5th dimension (usually)
+3. [[construal level theory]] → entropy (information theory)
+	1. positive}} {{c1::correlation ([[logical disjunction]])
+	2. negative correlation ([[logical conjunction]])

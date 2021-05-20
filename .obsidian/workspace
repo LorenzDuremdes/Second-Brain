@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data type (computer science).md",
+                "file": "entropy (information theory).md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "data type (computer science).md",
+                "file": "entropy (information theory).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.027830897489914647,
+                  "scale": 0.033289007812575815,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data type (computer science).md",
+                "file": "entropy (information theory).md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "signal",
+                "query": "disjunction",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data type (computer science).md"
+                "file": "entropy (information theory).md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data type (computer science).md",
+                "file": "entropy (information theory).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,17 +189,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "1428ef4f3ff90207",
+  "active": "797e5a6a617bdfa4",
   "lastOpenFiles": [
+    "entropy (information theory).md",
+    "Boolean algebra.md",
+    "logical conjunction.md",
+    "disjunction.md",
     "data type (computer science).md",
     "Untitled.md",
     "juxtacrine signalling.md",
     "genetic code.md",
     "messenger RNA.md",
-    "mRNA.md",
-    "prior probability distribution.md",
-    "Lindy effect.md",
-    "sports periodization.md",
-    "somatic nervous system.md"
+    "mRNA.md"
   ]
 }
