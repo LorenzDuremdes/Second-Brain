@@ -1,0 +1,4 @@
+1. [[gene|genetic]] code; the set of rules used by living [[cell|cells]] to translate information encoded within genetic material ([[DNA]] or [[messenger RNA|mRNA]] sequences of nucleotide triplets, or codons) into proteins^[https://en.wikipedia.org/wiki/Genetic_code]
+2. A series of codons in part of a [[messenger RNA]] (mRNA) molecule. Each codon consists of three nucleotides, usually corresponding to a single amino acid. The nucleotides are abbreviated with the letters A, U, G and C. This is mRNA, which uses U (uracil). DNA uses T (thymine) instead. This mRNA molecule will instruct a ribosome to synthesize a protein according to this code.^[By The original uploader was Sverdrup at English Wikipedia. - Transferred from en.wikipedia to Commons., Public Domain, https://commons.wikimedia.org/w/index.php?curid=1534478]
+
+	<img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/RNA-codon.png" width="200" />
