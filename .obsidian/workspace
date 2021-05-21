@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memorylessness.md",
+                "file": "polyamory.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "memorylessness.md",
+                "file": "polyamory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.01945270195733301,
+                  "scale": 0.02326770624871258,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memorylessness.md",
+                "file": "polyamory.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adheren",
+                "query": "thrash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "memorylessness.md"
+                "file": "polyamory.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "memorylessness.md",
+                "file": "polyamory.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,17 +189,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "797e5a6a617bdfa4",
+  "active": "1428ef4f3ff90207",
   "lastOpenFiles": [
-    "memorylessness.md",
-    "memory.md",
-    "memory hierarchy.md",
-    "Markov property.md",
+    "polyamory.md",
+    "trust.md",
+    "[linguistics.md",
+    "cognitive science.md",
+    "linguistics.md",
+    "jealousy.md",
+    "wibbles.md",
     "Untitled.md",
-    "adherens junction.md",
-    "zona glomerulosa.md",
-    "alkoxy group.md",
-    "fluid balance.md",
-    "evil.md"
+    "new relationship energy.md",
+    "compersion.md"
   ]
 }

@@ -8,6 +8,11 @@
 	1. the more experienced interpersonal trust, the less shame they usually feel
 4. intimate trust is more about action
 	1. trust is more a [[feeling]] for neurotypicals
+
+# [[polyamory]]
+1. how could "trust" be very important in polyamorous relationships? (mathematics)
+	1. low trust decreases transaction cost efficiency, which lowers the potential complexity of the relationship(s)
+		1. can result in "thrashing (computer science)"? → all relationships fail rather than just the addition(s)
 # measuring trust
 ## signs of untrustworthiness
 1. speaker with a high potential for untrustworthiness

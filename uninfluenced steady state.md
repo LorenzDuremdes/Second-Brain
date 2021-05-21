@@ -1,2 +1,2 @@
-1. uninfluenced [[steady state]]; a result of the temperament of each partner plus the history of the relationship^[The science of trust: emotional attunement for couples, 300]
+1. uninfluenced [[steady state]]; a result of the temperament of each partner plus the history of the relationship^[The science of [[trust]]: emotional attunement for couples, 300]
 	1. uninfluenced → without considering the analyzed time segment?

@@ -1,0 +1,1 @@
+1. "wibbles" ([[polyamory]] jargon); minor twinges of [[jealousy]]
