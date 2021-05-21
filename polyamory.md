@@ -1,3 +1,9 @@
+1. polyamory → scarcity vs. abundance
+	1. polyamory should lead to abundance e.g. we engage in multiple romantic relationships, and love others who do the same, because doing so enriches the lives of everyone involved^[More Than Two: A Practical Guide to Ethical Polyamory, p. 33]
+		1. rather than e.g. one being neglected (more)
+		2. abundance → e.g. learning new sexual activities from new/other partners/people
+2. what question should one ask instead of "Am I polyamorous?"^[More Than Two: A Practical Guide to Ethical Polyamory, p. 34]
+	1. "Are the tools and ideas of polyamory useful to me?"
 # polyarmory [[linguistics|jargon]]
 1. what's the purpose of "polyamory jargon"?
 	1. the avoid naming things like "cheating" e.g. OSO (other significant other)^[More Than Two: A Practical Guide to Ethical Polyamory, p. 27]

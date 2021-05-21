@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "polyfidelity.md",
+                "file": "polyamory.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "polyfidelity.md",
+                "file": "polyamory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.023267706248712376,
+                  "scale": 0.016263210881036286,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "polyfidelity.md",
+                "file": "polyamory.md",
                 "mode": "preview"
               }
             },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "polyfidelity.md"
+                "file": "polyamory.md"
               }
             }
           }
@@ -172,8 +172,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "polyfidelity.md",
-                "collapseAll": true,
+                "file": "polyamory.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -191,15 +191,15 @@
   },
   "active": "1428ef4f3ff90207",
   "lastOpenFiles": [
-    "polyfidelity.md",
-    "Occam_s razor.md",
-    "Untitled.md",
-    "vee relationship.md",
     "polyamory.md",
+    "Zoroastrianism.md",
+    "religion.md",
+    "New Age.md",
+    "Untitled.md",
+    "polyfidelity.md",
+    "vee relationship.md",
+    "Occam_s razor.md",
     "trust.md",
-    "[linguistics.md",
-    "cognitive science.md",
-    "linguistics.md",
-    "jealousy.md"
+    "[linguistics.md"
   ]
 }
