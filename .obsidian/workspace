@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "polyamory.md",
+                "file": "polyfidelity.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "polyamory.md",
+                "file": "polyfidelity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.02326770624871258,
+                  "scale": 0.023267706248712376,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "polyamory.md",
+                "file": "polyfidelity.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "thrash",
+                "query": "occam",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "polyamory.md"
+                "file": "polyfidelity.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "polyamory.md",
+                "file": "polyfidelity.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,15 +191,15 @@
   },
   "active": "1428ef4f3ff90207",
   "lastOpenFiles": [
+    "polyfidelity.md",
+    "Occam_s razor.md",
+    "Untitled.md",
+    "vee relationship.md",
     "polyamory.md",
     "trust.md",
     "[linguistics.md",
     "cognitive science.md",
     "linguistics.md",
-    "jealousy.md",
-    "wibbles.md",
-    "Untitled.md",
-    "new relationship energy.md",
-    "compersion.md"
+    "jealousy.md"
   ]
 }
