@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "14d8646d838bdece",
+        "id": "8cc1c66c85b9f765",
         "type": "split",
         "children": [
           {
@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "polyamory.md",
+                "file": "persuasion.md",
                 "mode": "source"
               }
             },
             "group": "414e6e3d6b0e80cf"
           },
           {
-            "id": "797e5a6a617bdfa4",
+            "id": "1b7fe937cb72ab88",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "polyamory.md",
+                "file": "persuasion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -34,7 +34,7 @@
                   "localForelinks": true,
                   "localInterlinks": true,
                   "showTags": false,
-                  "showAttachments": true,
+                  "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.016263210881036286,
+                  "scale": 0.02326770624871513,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "polyamory.md",
+                "file": "persuasion.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "occam",
+                "query": "gray",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "polyamory.md"
+                "file": "persuasion.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "polyamory.md",
+                "file": "persuasion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,15 +191,15 @@
   },
   "active": "1428ef4f3ff90207",
   "lastOpenFiles": [
+    "persuasion.md",
+    "Gray_s biopsychological theory of personality.md",
+    "Untitled.md",
+    "metamour.md",
+    "kale.md",
+    "plant.md",
     "polyamory.md",
     "Zoroastrianism.md",
     "religion.md",
-    "New Age.md",
-    "Untitled.md",
-    "polyfidelity.md",
-    "vee relationship.md",
-    "Occam_s razor.md",
-    "trust.md",
-    "[linguistics.md"
+    "New Age.md"
   ]
 }

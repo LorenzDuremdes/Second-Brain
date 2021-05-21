@@ -1,0 +1,1 @@
+1. if you're doing something wrong, do it with confidence^[https://www.reddit.com/r/UnethicalLifeProTips/comments/n7qz16/ulpt_if_youre_doing_something_wrong_do_it_with/]
