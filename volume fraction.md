@@ -1,0 +1,1 @@
+1. volume fraction ([[chemistry]]); defined as the volume of a constituent Vi divided by the volume of all constituents of the mixture V prior to mixing:^[https://en.wikipedia.org/wiki/Volume_fraction#cite_note-1]

@@ -29,9 +29,9 @@
 ## performance
 1. hydration during exercise → recovery
 	1. riders can tolerate mild dehydration during exercise to a certain extent, but too much of a deficit during exercise eventually impairs performance and makes it harder to recover adequately for subsequent training^[Cutting-Edge Cycling, p. 244]
-2. a sustained state of lower fluid balance can impair strength, power, and high-intensity [[muscular endurance]] by 2, 3, and 10 percent, respectively^[Judelson et al. (2007)]^[Cutting-Edge Cycling, p. 247]
+2. a sustained state of lower [[fluid balance]] can impair strength, power, and high-intensity [[muscular endurance]] by 2, 3, and 10 percent, respectively^[Judelson et al. (2007)]^[Cutting-Edge Cycling, p. 247]
 	1. why "strength" less than "power" (or any combination)?
-		1. lower fluid balance → more important in (high-intensity) [[muscular endurance]]?
+		1. lower [[fluid balance]] → more important in (high-intensity) [[muscular endurance]]?
 3. Eight well-trained male cyclists consumed either 2.4 liters of a 7 percent carbohydrate drink or .4 liter of [[water]] with sufficient gels to provide equal carbohydrate consumption during a 2-hour endurance ride in a 30 °C lab temperature. The subjects then rode to exhaustion at 88 percent of maximal aerobic power. As expected, body weight was lower with the gel condition. **These subjects were 1.9 kilograms lighter** because of their low fluid intake, and a lower power output was sufficient for them to maintain a constant speed.^[Cutting-Edge Cycling, p. 249]
 4. can dehydration improve the power-to-weight ratio? + why
 	1. overall, any power-to-weight advantage from voluntary dehydration was offset by the physiological and performance impairment^[Cutting-Edge Cycling, p. 249]

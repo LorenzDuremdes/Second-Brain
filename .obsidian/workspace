@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "evil.md",
+                "file": "adherens junction.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "evil.md",
+                "file": "adherens junction.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.02783089748991428,
+                  "scale": 0.02326770624871273,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "evil.md",
+                "file": "adherens junction.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "moral",
+                "query": "adheren",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "evil.md"
+                "file": "adherens junction.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "evil.md",
+                "file": "adherens junction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,15 +191,15 @@
   },
   "active": "1428ef4f3ff90207",
   "lastOpenFiles": [
+    "adherens junction.md",
+    "Untitled.md",
+    "zona glomerulosa.md",
+    "alkoxy group.md",
+    "fluid balance.md",
     "evil.md",
     "Zoroastrianism.md",
     "dualism in cosmology.md",
     "Manichaeism.md",
-    "Untitled.md",
-    "entropy (information theory).md",
-    "Boolean algebra.md",
-    "logical conjunction.md",
-    "disjunction.md",
-    "data type (computer science).md"
+    "entropy (information theory).md"
   ]
 }
