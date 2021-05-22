@@ -54,6 +54,8 @@
 # [[entrepreneurship]]
 1. what do most people do to estimate (sometimes wrongly) the quality of an item?^[Influence, New and Expanded: The Psychology of Persuasion, p. 7]
 	1. expensive=good
+		1. human analog → hard-to-get=good? and other related things e.g. not texting too frequently
+	2. cheap=bad
 
 # related
 1. [[psychology]]

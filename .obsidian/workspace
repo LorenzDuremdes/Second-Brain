@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "persuasion.md",
+                "file": "cognitive bias.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "persuasion.md",
+                "file": "cognitive bias.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.019452701957334416,
+                  "scale": 0.01626321088103771,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "persuasion.md",
+                "file": "cognitive bias.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ethology",
+                "query": "construal level",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "persuasion.md"
+                "file": "cognitive bias.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "persuasion.md",
+                "file": "cognitive bias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,15 +191,15 @@
   },
   "active": "1428ef4f3ff90207",
   "lastOpenFiles": [
+    "cognitive bias.md",
+    "ego depletion.md",
+    "self-organised criticality.md",
+    "construal level theory.md",
     "persuasion.md",
     "entrepreneurship.md",
     "fixed action pattern.md",
     "Pavlovian conditioning.md",
     "Untitled.md",
-    "Fisher_s principle.md",
-    "European polecat.md",
-    "Animalia.md",
-    "behavioral sciences.md",
-    "sociology.md"
+    "Fisher_s principle.md"
   ]
 }
