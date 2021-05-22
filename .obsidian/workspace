@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.023267706248714968,
+                  "scale": 0.01626321088103782,
                   "close": false
                 }
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "motivation",
+                "query": "condition",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -189,17 +189,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "49881e83dd04a4fb",
+  "active": "1b7fe937cb72ab88",
   "lastOpenFiles": [
     "persuasion.md",
-    "authority bias.md",
-    "social proof.md",
-    "biopsychosocial model.md",
+    "Fisher_s principle.md",
+    "European polecat.md",
+    "Animalia.md",
     "Untitled.md",
-    "Gray_s biopsychological theory of personality.md",
-    "metamour.md",
-    "kale.md",
-    "plant.md",
-    "polyamory.md"
+    "behavioral sciences.md",
+    "sociology.md",
+    "civilization.md",
+    "5 stages of competence.md",
+    "scarcity.md"
   ]
 }
