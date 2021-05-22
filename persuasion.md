@@ -38,9 +38,22 @@
 	1. [[consistency bias|consistency]]
 	2. [[scarcity]]
 		1. scarcity → [[negativity bias]] e.g. "you will **lose** this if you do/don't do this"
+# [[fixed action pattern]]
+1. improve the following^[Influence, New and Expanded: The Psychology of Persuasion, p. 7]:
+
+	“Excuse me, I have five pages. May I use the Xerox machine?”
+	
+	“Excuse me, I have five pages. May I use the Xerox machine, **because** I’m in a rush?”
+	1. 60 vs. 94% compliance (respectively)
+	2. "because" is the "fixed action pattern" → “Excuse me, I have five pages. May I use the Xerox machine **because** I have to make some copies?” also tends to work (93% compliance)
+
 # psychology
 1. "persuasion" makes use of "unconditioned behavior"^[Influence, New and Expanded: The Psychology of Persuasion, p. 7]
 	1. and potentially "conditioned behavior" in the long term or knowing someone well enough
+
+# [[entrepreneurship]]
+1. what do most people do to estimate (sometimes wrongly) the quality of an item?^[Influence, New and Expanded: The Psychology of Persuasion, p. 7]
+	1. expensive=good
 
 # related
 1. [[psychology]]
