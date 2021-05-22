@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cognitive bias.md",
+                "file": "Lampyridae.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cognitive bias.md",
+                "file": "Lampyridae.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.01626321088103771,
+                  "scale": 0.23867717269605726,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cognitive bias.md",
+                "file": "Lampyridae.md",
                 "mode": "preview"
               }
             },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cognitive bias.md"
+                "file": "Lampyridae.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cognitive bias.md",
+                "file": "Lampyridae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,15 +191,15 @@
   },
   "active": "1428ef4f3ff90207",
   "lastOpenFiles": [
-    "cognitive bias.md",
-    "ego depletion.md",
-    "self-organised criticality.md",
-    "construal level theory.md",
-    "persuasion.md",
-    "entrepreneurship.md",
-    "fixed action pattern.md",
-    "Pavlovian conditioning.md",
+    "Lampyridae.md",
+    "Photinus pyralis.md",
+    "Photuris lucicrescens.md",
+    "Arthropoda.md",
     "Untitled.md",
-    "Fisher_s principle.md"
+    "Insecta.md",
+    "insecta.md",
+    "5 stages of competence.md",
+    "cognitive bias.md",
+    "ego depletion.md"
   ]
 }
