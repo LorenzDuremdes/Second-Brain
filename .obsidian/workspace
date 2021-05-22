@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.02326770624871513,
+                  "scale": 0.023267706248714968,
                   "close": false
                 }
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gray",
+                "query": "motivation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -189,17 +189,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "1428ef4f3ff90207",
+  "active": "49881e83dd04a4fb",
   "lastOpenFiles": [
     "persuasion.md",
-    "Gray_s biopsychological theory of personality.md",
+    "authority bias.md",
+    "social proof.md",
+    "biopsychosocial model.md",
     "Untitled.md",
+    "Gray_s biopsychological theory of personality.md",
     "metamour.md",
     "kale.md",
     "plant.md",
-    "polyamory.md",
-    "Zoroastrianism.md",
-    "religion.md",
-    "New Age.md"
+    "polyamory.md"
   ]
 }
