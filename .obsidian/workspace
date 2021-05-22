@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lampyridae.md",
+                "file": "user review.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lampyridae.md",
+                "file": "user review.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.23867717269605726,
+                  "scale": 0.03981754600430541,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lampyridae.md",
+                "file": "user review.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "construal level",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lampyridae.md"
+                "file": "user review.md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lampyridae.md",
+                "file": "user review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,15 +191,15 @@
   },
   "active": "1428ef4f3ff90207",
   "lastOpenFiles": [
-    "Lampyridae.md",
-    "Photinus pyralis.md",
-    "Photuris lucicrescens.md",
-    "Arthropoda.md",
+    "user review.md",
     "Untitled.md",
-    "Insecta.md",
-    "insecta.md",
-    "5 stages of competence.md",
-    "cognitive bias.md",
-    "ego depletion.md"
+    "virus.md",
+    "disease.md",
+    "infectious mononucleosis.md",
+    "white blood cell.md",
+    "valvular heart disease.md",
+    "cyberchondria.md",
+    "athletic heart syndrome.md",
+    "Lampyridae.md"
   ]
 }

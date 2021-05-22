@@ -1,3 +1,3 @@
-1. white [[blood]] [[cell]]; the cells of the [[immune system]] that are involved in protecting the body against both infectious disease and foreign invaders
+1. white [[blood]] [[cell]]; the cells of the [[immune system]] that are involved in protecting the body against both infectious [[disease]] and foreign invaders
 2. **3D rendering of various types of white [[blood]] cells**^[By BruceBlaus. When using this image in external sources it can be cited as:Blausen.com staff (2014). &quot;Medical gallery of Blausen Medical 2014&quot;. WikiJournal of Medicine 1 (2). DOI:10.15347/wjm/2014.010. ISSN 2002-4436. - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=28223981]
 	1. ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Blausen_0909_WhiteBloodCells.png/640px-Blausen_0909_WhiteBloodCells.png)

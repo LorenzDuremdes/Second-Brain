@@ -1,0 +1,2 @@
+1. infectious mononucleosis; an infection usually caused by the Epstein–Barr [[virus]] (EBV).^[https://en.wikipedia.org/wiki/Infectious_mononucleosis#cite_note-CDC2014Eb-2]^[https://en.wikipedia.org/wiki/Infectious_mononucleosis#cite_note-CDC2014Mono-3]
+2. in young adults, the [[disease]] often results in fever, sore throat, enlarged lymph nodes in the neck, and tiredness.^[https://en.wikipedia.org/wiki/Infectious_mononucleosis#cite_note-CDC2014Eb-2]
