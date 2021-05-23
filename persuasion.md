@@ -45,7 +45,7 @@
 	
 	“Excuse me, I have five pages. May I use the Xerox machine, **because** I’m in a rush?”
 	1. 60 vs. 94% compliance (respectively)
-	2. "because" is the "fixed action pattern" → “Excuse me, I have five pages. May I use the Xerox machine **because** I have to make some copies?” also tends to work (93% compliance)
+	2. "because" is the "[[fixed action pattern]]" → “Excuse me, I have five pages. May I use the Xerox machine **because** I have to make some copies?” also tends to work (93% compliance)
 
 # psychology
 1. "persuasion" makes use of "unconditioned behavior"^[Influence, New and Expanded: The Psychology of Persuasion, p. 7]

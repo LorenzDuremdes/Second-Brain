@@ -1,2 +1,2 @@
-1. genealogy; the study of families, family history, and the tracing of their lineages
+1. genealogy; the study of families, family [[history]], and the tracing of their lineages
 2. genealogy (etymology); from Greek: γενεαλογία genealogia "the making of a [[pedigree]]")^[https://en.wikipedia.org/wiki/Genealogy#cite_note-2]

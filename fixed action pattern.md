@@ -5,3 +5,4 @@
 # related
 1. [[Pavlovian conditioning]] (especially "unconditioned stimulus")
 2. [[persuasion]] (**see also**: Influence, New and Expanded: The Psychology of [[persuasion]], p. 7)
+3. [[stereotypy]]

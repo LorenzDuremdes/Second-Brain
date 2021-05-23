@@ -1,0 +1,2 @@
+1. stereotypy; a repetitive or ritualistic movement, posture, or utterance
+	1. stereotypies may be simple movements such as body rocking, or complex, such as self-caressing, crossing and uncrossing of legs, and marching in place.
