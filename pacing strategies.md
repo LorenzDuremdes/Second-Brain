@@ -25,6 +25,9 @@
 2. headwind followed by tailwind → FTP
 	1. above vs. below FTP (respectively)^[Cutting-Edge Cycling, p. 179]
 3. it could be best to ride with a tailwind home (not always most efficient mechanically)^[https://www.bikeradar.com/advice/fitness-and-training/average-speed-cycling/]
+4. terrain → pacing strategy (wind resistance)
+	1. try to cycle in open terrain when having tailwind and closed terrain when having headwind
+		1. if unable to change terrains (e.g. same road(s)), try to cycle with the wind "neutral" (from the side)
 
 # climbing strategies
 1. flat → climb (FTP)
