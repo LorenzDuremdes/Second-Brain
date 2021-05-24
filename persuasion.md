@@ -7,7 +7,7 @@
 
 # Influence, New and Expanded: The Psychology of Persuasion
 1. main principles:
-	1. reciprocation
+	1. [[reciprocity (social psychology)|reciprocation]]
 	2. liking
 	3. [[social proof]]
 		1. **related**: [[social currency]]
