@@ -5,8 +5,6 @@
 3. what pacing strategy reduces the rate at which you use carbohydrate as a fuel?
 	1. negative split
 		1. and limiting accumulation of fatigue-related metabolites, such as lactic [[acid]], early on in the exercise task.
-4. headwind followed by tailwind → FTP
-	1. above vs. below FTP (respectively)^[Cutting-Edge Cycling, p. 179]
 5. cyclists who were provided no knowledge that they would be riding a 4-kilometer [[time trial]] and were given no feedback throughout improved their times exponentially with each performance, such that their performance was identical to the full-feedback group by the fourth [[time trial]]
 	1. The rapid learning of a performance appears to occur even with longer time trials, in which day-to-day [[motivation]] and variability may be greater. A rapid plateau in performance occurred in 30K (Abbiss et al. 2008) and 40K time trials (Laursen et al. 2003) following a familiarization trial.^[Cutting-Edge Cycling, p. 185]
 6. Stable performance of a learned strategy is also difficult to disrupt e.g. when subjects were enticed with financial rewards for a faster performance (Hulleman et al. 2007).^[Cutting-Edge Cycling, p. 185]
@@ -24,6 +22,9 @@
 # wind resistance strategies
 1. in a tailwind, achieving even your FTP wattage is difficult^[Cutting-Edge Cycling, 181]
 	1. typically, either your gearing is too small and you can’t spin the gear fast enough to compensate for the lower torque and resistance or you have a big enough gear but your muscles are not accustomed to producing high power when pedaling so rapidly (e.g. [[slow-twitch muscle fibers type I]])
+2. headwind followed by tailwind → FTP
+	1. above vs. below FTP (respectively)^[Cutting-Edge Cycling, p. 179]
+3. it could be best to ride with a tailwind home (not always most efficient mechanically)^[https://www.bikeradar.com/advice/fitness-and-training/average-speed-cycling/]
 
 # climbing strategies
 1. flat → climb (FTP)

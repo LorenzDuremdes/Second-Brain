@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cl alt",
+                "query": "time trial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -192,14 +192,14 @@
   "active": "1428ef4f3ff90207",
   "lastOpenFiles": [
     "reciprocity (social psychology).md",
+    "pacing strategies.md",
+    "time trial.md",
+    "Untitled.md",
     "persuasion.md",
     "history.md",
     "Magna Carta Libertatum.md",
     "pedigree.md",
     "Rod of Asclepius.md",
-    "biology.md",
-    "genealogy.md",
-    "Untitled.md",
-    "Cascading Style Sheets.md"
+    "biology.md"
   ]
 }
