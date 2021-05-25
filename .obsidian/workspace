@@ -4,8 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "8cc1c66c85b9f765",
+        "id": "14d8646d838bdece",
         "type": "split",
+        "dimension": 50.14005602240896,
         "children": [
           {
             "id": "1428ef4f3ff90207",
@@ -13,19 +14,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pacing strategies.md",
+                "file": "reciprocity (social psychology).md",
                 "mode": "source"
               }
             },
             "group": "414e6e3d6b0e80cf"
           },
           {
-            "id": "1b7fe937cb72ab88",
+            "id": "797e5a6a617bdfa4",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pacing strategies.md",
+                "file": "reciprocity (social psychology).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -34,7 +35,7 @@
                   "localForelinks": true,
                   "localInterlinks": true,
                   "showTags": false,
-                  "showAttachments": false,
+                  "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
@@ -48,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.022878727565042164,
+                  "scale": 0.03166280903062529,
                   "close": false
                 }
               }
@@ -61,6 +62,7 @@
       {
         "id": "92df3954f2cb97ef",
         "type": "split",
+        "dimension": 49.85994397759104,
         "children": [
           {
             "id": "49881e83dd04a4fb",
@@ -68,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pacing strategies.md",
+                "file": "reciprocity (social psychology).md",
                 "mode": "preview"
               }
             },
@@ -78,7 +80,7 @@
             "id": "eb3f8a21fff82df2",
             "type": "leaf",
             "state": {
-              "type": "mindmap",
+              "type": "empty",
               "state": {}
             }
           }
@@ -110,12 +112,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "time trial",
+                "query": "guilt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -155,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pacing strategies.md"
+                "file": "reciprocity (social psychology).md"
               }
             }
           }
@@ -172,8 +174,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pacing strategies.md",
-                "collapseAll": true,
+                "file": "reciprocity (social psychology).md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -191,15 +193,15 @@
   },
   "active": "1428ef4f3ff90207",
   "lastOpenFiles": [
-    "pacing strategies.md",
     "reciprocity (social psychology).md",
-    "time trial.md",
+    "zona glomerulosa.md",
+    "naïve realism.md",
+    "cognitive bias.md",
+    "negativity bias.md",
     "Untitled.md",
-    "persuasion.md",
-    "history.md",
-    "Magna Carta Libertatum.md",
-    "pedigree.md",
-    "Rod of Asclepius.md",
-    "biology.md"
+    "prioritization.md",
+    "adaptive replacement cache.md",
+    "Bayes' theorem.md",
+    "information.md"
   ]
 }
