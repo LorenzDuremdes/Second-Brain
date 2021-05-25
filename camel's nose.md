@@ -1,0 +1,1 @@
+1. camel's nose; a metaphor for a situation where the permitting of a small, seemingly innocuous act will open the door for larger, clearly [[normative|undesirable]] actions^[https://en.wikipedia.org/wiki/Camel%27s_nose]

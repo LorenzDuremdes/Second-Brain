@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "relationship anarchy.md",
+                "file": "camel's nose.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "relationship anarchy.md",
+                "file": "camel's nose.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.035738162878619216,
+                  "scale": 0.03387645626557425,
                   "close": false
                 }
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "relationship anarchy.md",
+                "file": "camel's nose.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "relation",
+                "query": "poly",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -129,8 +129,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "relationship anarchy.md"
+                "file": "camel's nose.md"
               }
             }
           }
@@ -175,8 +174,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "relationship anarchy.md",
-                "collapseAll": false,
+                "file": "camel's nose.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -192,17 +191,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "797e5a6a617bdfa4",
+  "active": "1428ef4f3ff90207",
   "lastOpenFiles": [
-    "relationship anarchy.md",
     "Untitled.md",
+    "polyamory.md",
+    "good.md",
+    "normative.md",
+    "intersubjectivity.md",
+    "relationship anarchy.md",
     "foot-in-the-door technique.md",
     "foot-in-the-face technique.md",
     "reciprocity (social psychology).md",
-    "zona glomerulosa.md",
-    "naïve realism.md",
-    "cognitive bias.md",
-    "negativity bias.md",
-    "prioritization.md"
+    "zona glomerulosa.md"
   ]
 }
