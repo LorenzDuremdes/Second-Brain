@@ -1,1 +1,1 @@
-1. history (etymology); from [[Greek]] ἱστορία, historia, meaning "inquiry; knowledge acquired by investigation")^[https://en.wikipedia.org/wiki/History#cite_note-JosephJanda-2]
+1. history (etymology); from [[ancient Greek]] ἱστορία, historia, meaning "inquiry; knowledge acquired by investigation")^[https://en.wikipedia.org/wiki/History#cite_note-JosephJanda-2]

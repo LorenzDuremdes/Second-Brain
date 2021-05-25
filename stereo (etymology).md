@@ -1,1 +1,1 @@
-1. stereo (etymology); from the [[Greek]] στερεός (stereós, "firm, solid")^[https://en.wikipedia.org/wiki/Stereophonic_sound#cite_note-1]
+1. stereo (etymology); from the [[ancient Greek]] στερεός (stereós, "firm, solid")^[https://en.wikipedia.org/wiki/Stereophonic_sound#cite_note-1]

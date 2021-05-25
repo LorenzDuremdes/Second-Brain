@@ -4,4 +4,4 @@
 	1. ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/GrandeTaberna.JPG/640px-GrandeTaberna.JPG)
 
 # related
-1. [[Greek]]
+1. [[ancient Greek]]

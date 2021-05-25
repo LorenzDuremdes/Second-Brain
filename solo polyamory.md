@@ -1,0 +1,1 @@
+1. solo polyamory; someone has multiple [[intimate relationship|intimate relationships]] with people but has an independent or single lifestyle^[https://www.webmd.com/sex/what-is-solo-polyamory]

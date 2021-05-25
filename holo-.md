@@ -1,1 +1,1 @@
-1. from Ancient [[Greek]] _ὅλος_ (_hólos_, “whole”)^[https://en.wiktionary.org/wiki/holo-]
+1. from Ancient [[ancient Greek]] _ὅλος_ (_hólos_, “whole”)^[https://en.wiktionary.org/wiki/holo-]
