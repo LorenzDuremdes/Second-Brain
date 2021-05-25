@@ -1,0 +1,2 @@
+1. [[interpersonal relationship|relationship]] anarchy; some especially important values include autonomy, anti-hierarchical practices, lack of state control, anti-normativity, and community interdependence.^[https://en.wikipedia.org/wiki/Relationship_anarchy]
+	1. refusing things like "Joe is my friend; Mark is my boyfriend; Keyser is my husband"^[More Than Two: A Practical Guide to Ethical Polyamory, p. 43]
