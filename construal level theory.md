@@ -1,5 +1,5 @@
 1. fractal learning is from higher- to lower-level construals with exception of the subcomponent "hypothetical" and "informational"
-	1. lower hypothetical distance → higher probability of occurrence
+	1. lower hypothetical distance → higher [[probability]] of occurrence
 	2. lower informational distance → more pre-stored knowledge
 2. "low construal level" leads to "further lowering of CLT?" e.g. cognitive biases
 	1. **related** [[self-organized criticality]]

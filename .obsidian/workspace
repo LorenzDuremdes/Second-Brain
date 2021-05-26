@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cursus honorum.md",
+                "file": "null hypothesis.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cursus honorum.md",
+                "file": "null hypothesis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.038778861974437896,
+                  "scale": 0.01583896732231403,
                   "close": false
                 }
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cursus honorum.md",
+                "file": "null hypothesis.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "roman",
+                "query": "probability",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cursus honorum.md"
+                "file": "null hypothesis.md"
               }
             }
           }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cursus honorum.md",
+                "file": "null hypothesis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,17 +191,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "49881e83dd04a4fb",
+  "active": "1428ef4f3ff90207",
   "lastOpenFiles": [
+    "null hypothesis.md",
+    "probability.md",
+    "prior probability distribution.md",
+    "statistical significance.md",
+    "Untitled.md",
+    "amine.md",
     "cursus honorum.md",
     "ancient Rome.md",
     "ancient Greek.md",
-    "Greek.md",
-    "Untitled.md",
-    "career.md",
-    "quad (polyamory).md",
-    "asterisk (polyamory).md",
-    "triad (polyamory).md",
-    "vee relationship.md"
+    "Greek.md"
   ]
 }
