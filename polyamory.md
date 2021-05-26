@@ -9,7 +9,7 @@
 	1. no, but what's minimal is respect/tolerance^[More Than Two: A Practical Guide to Ethical Polyamory, p. 37] e.g. "I disagree and that's it." rather than also acting on it
 
 # types
-## community-minded polyamory
+## [[community]]-minded polyamory
 1. [[interpersonal relationship|community]]-minded polyamory; tend to prioritize the impact of a decision on the entire group over the needs of the individuals in the group^[More Than Two: A Practical Guide to Ethical Polyamory, p. 43]
 
 # polyarmory [[linguistics|jargon]]

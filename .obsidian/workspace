@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "driehoekig wit bord met een rode rand.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "test.md",
+                "file": "driehoekig wit bord met een rode rand.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.01894525705204832,
+                  "scale": 0.06636146701169121,
                   "close": false
                 }
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "driehoekig wit bord met een rode rand.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "psychology",
+                "query": "community",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "driehoekig wit bord met een rode rand.md"
               }
             }
           }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "driehoekig wit bord met een rode rand.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,17 +191,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "1428ef4f3ff90207",
+  "active": "49881e83dd04a4fb",
   "lastOpenFiles": [
+    "driehoekig wit bord met een rode rand.md",
+    "community.md",
+    "verkeersborden.md",
     "Untitled.md",
+    "reciprocity (social psychology).md",
+    "cognitive science.md",
     "psychology.md",
     "null hypothesis.md",
     "probability.md",
-    "prior probability distribution.md",
-    "statistical significance.md",
-    "amine.md",
-    "cursus honorum.md",
-    "ancient Rome.md",
-    "ancient Greek.md"
+    "prior probability distribution.md"
   ]
 }
