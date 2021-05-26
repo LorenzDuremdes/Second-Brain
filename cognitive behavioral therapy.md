@@ -5,7 +5,7 @@
 
 [![David McPhee](https://qph.fs.quoracdn.net/main-thumb-87323489-100-zhoobubmqlkasfrzlejteqdlijtuimoo.jpeg)](https://www.quora.com/profile/David-McPhee-1)
 
-[David McPhee](https://www.quora.com/profile/David-McPhee-1), Ph.D. Psychology, University of Minnesota - Twin Cities (1994)
+[David McPhee](https://www.quora.com/profile/David-McPhee-1), Ph.D. [[psychology]], University of Minnesota - Twin Cities (1994)
 
 [Answered 8h ago](https://www.quora.com/How-does-Aaron-Becks-original-conception-of-CBT-compare-with-how-the-practice-is-taught-by-therapists-today/answer/David-McPhee-1)
 

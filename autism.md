@@ -35,7 +35,7 @@
 
 ### [[dynamic functional connectivity]]
 1. dynamic functional connectivity → autism
-	1. research into causes has been hampered by the inability to identify biologically meaningful subgroups within the autistic population^[https://en.wikipedia.org/wiki/Autism#cite_note-109] and by the traditional boundaries between the disciplines of psychiatry, psychology, neurology and pediatrics.^[https://en.wikipedia.org/wiki/Autism#cite_note-110]
+	1. research into causes has been hampered by the inability to identify biologically meaningful subgroups within the autistic population^[https://en.wikipedia.org/wiki/Autism#cite_note-109] and by the traditional boundaries between the disciplines of psychiatry, [[psychology]], neurology and pediatrics.^[https://en.wikipedia.org/wiki/Autism#cite_note-110]
 	2. newer technologies such as fMRI and diffusion tensor imaging can help identify biologically relevant phenotypes (observable traits) that can be viewed on brain scans, to help further neurogenetic studies of autism;^[https://en.wikipedia.org/wiki/Autism#cite_note-111] one example is lowered activity in the fusiform face area of the brain, which is associated with impaired perception of people versus objects.^[https://en.wikipedia.org/wiki/Autism#cite_note-Lev2009-20]
 	3. it has been proposed to classify autism using genetics as well as behavior.^[https://en.wikipedia.org/wiki/Autism#cite_note-112] → [[biological specificity]]
 

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "null hypothesis.md",
+                "file": "test.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "null hypothesis.md",
+                "file": "test.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.01583896732231403,
+                  "scale": 0.01894525705204832,
                   "close": false
                 }
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "null hypothesis.md",
+                "file": "test.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "probability",
+                "query": "psychology",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "null hypothesis.md"
+                "file": "test.md"
               }
             }
           }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "null hypothesis.md",
+                "file": "test.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,15 +193,15 @@
   },
   "active": "1428ef4f3ff90207",
   "lastOpenFiles": [
+    "Untitled.md",
+    "psychology.md",
     "null hypothesis.md",
     "probability.md",
     "prior probability distribution.md",
     "statistical significance.md",
-    "Untitled.md",
     "amine.md",
     "cursus honorum.md",
     "ancient Rome.md",
-    "ancient Greek.md",
-    "Greek.md"
+    "ancient Greek.md"
   ]
 }
