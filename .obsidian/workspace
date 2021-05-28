@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tort (common law).md",
+                "file": "patellar tendinitis.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "tort (common law).md",
+                "file": "patellar tendinitis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tort (common law).md",
+                "file": "patellar tendinitis.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "juris",
+                "query": "knee",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tort (common law).md"
+                "file": "patellar tendinitis.md"
               }
             }
           }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tort (common law).md",
+                "file": "patellar tendinitis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,8 +193,8 @@
   },
   "active": "1428ef4f3ff90207",
   "lastOpenFiles": [
-    "tort (common law).md",
     "Untitled.md",
+    "tort (common law).md",
     "driehoekig wit bord met een rode rand.md",
     "community.md",
     "verkeersborden.md",
