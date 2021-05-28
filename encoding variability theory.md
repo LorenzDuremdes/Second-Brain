@@ -1,0 +1,3 @@
+1. encoding variability theory; holds that performance on a memory test is determined by the overlap between the available contextual information during the test and the contextual information available during the encoding.^[https://en.wikipedia.org/wiki/Spacing_effect#cite_note-2]
+	1. more available contextual information → could increase performance unless they are distracting
+	2. **related**: [[cache hierarchy]] ⇒ available contextual information during the test → lower cache hierarchy
