@@ -1,0 +1,1 @@
+1. [[typography|typographic]] allusion; [[typeface|typefaces]] set the scene and clue you in to what the words will reveal, independently of what they actually say^[Why Fonts Matter, p. 48]

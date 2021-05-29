@@ -1,0 +1,1 @@
+1. onomatopoeia; the process of creating a word that phonetically imitates, resembles, or suggests the sound that it describes^[https://en.wikipedia.org/wiki/Onomatopoeia]
