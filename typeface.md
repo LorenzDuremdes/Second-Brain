@@ -8,6 +8,10 @@
 	2. nid:1622280974637
 3. "typeface" (movie analogy)
 	1. music/sound effects^[Why Fonts Matter, p. 37]
+4. most "believable" typeface^[https://thebrandpool.com.au/its-not-you-its-your-typeface/]^[Why Fonts Matter, p. 63]
+	1. Baskerville
+	2. e.g. Comic Sans is seen as less believable
+	3. it's still dependent on context
 
 # related
 1. [[legibility]]

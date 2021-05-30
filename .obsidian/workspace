@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "typographic allusion.md",
+                "file": "typeface.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "typographic allusion.md",
+                "file": "typeface.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.05548075196716871,
+                  "scale": 0.015838967322313196,
                   "close": false
                 }
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "typographic allusion.md",
+                "file": "typeface.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "road cyc",
+                "query": "typography",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "typographic allusion.md"
+                "file": "typeface.md"
               }
             }
           }
@@ -174,13 +174,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "typographic allusion.md",
+                "file": "typeface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -193,15 +193,15 @@
   },
   "active": "1428ef4f3ff90207",
   "lastOpenFiles": [
+    "typeface.md",
+    "Trajan (typeface).md",
     "Untitled.md",
+    "typography.md",
+    "Didone (typeface).md",
+    "vernacular.md",
     "Ubuntu (typography).md",
     "road cycling.md",
-    "typeface.md",
     "supraliminal stimuli.md",
-    "kerning (typography).md",
-    "line length (typography).md",
-    "typography.md",
-    "readability.md",
-    "legibility.md"
+    "kerning (typography).md"
   ]
 }
