@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anti-psychiatry.md",
+                "file": "test.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "anti-psychiatry.md",
+                "file": "test.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anti-psychiatry.md",
+                "file": "test.md",
                 "mode": "preview"
               }
             },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "anti-psychiatry.md"
+                "file": "test.md"
               }
             }
           }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anti-psychiatry.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,8 +190,8 @@
   },
   "active": "2fc1bf1ff8e3c858",
   "lastOpenFiles": [
-    "anti-psychiatry.md",
     "Untitled.md",
+    "anti-psychiatry.md",
     "reciprocity (social psychology).md",
     "Didone (typeface).md",
     "typeface.md",
