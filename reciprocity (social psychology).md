@@ -15,6 +15,9 @@
 # process
 1. how can "reciprocity" cause "unequal exchanges"?
 	1. e.g. a small initial favor can produce a sense of obligation to agree to a substantially larger return favor^[Influence, New and Expanded: The Psychology of Persuasion, p. 8]
+2. how does asking to lend "€20" followed by dropping it to "€10" be (unconsciously) seen as "reciprocity"?^[Influence, New and Expanded: The Psychology of Persuasion, p. 8]
+	1. you are **dropping** it with €10, so the other feels the need to reciprocate
+		1. "...We were reluctant to send him away with nothing."
 
 # application
 1. improve the following (reciprocity):
