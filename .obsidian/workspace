@@ -49,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.015838967322313196,
+                  "scale": 0.022660742803763727,
                   "close": false
                 }
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "typography",
+                "query": "dido",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -194,14 +194,14 @@
   "active": "1428ef4f3ff90207",
   "lastOpenFiles": [
     "typeface.md",
-    "Trajan (typeface).md",
-    "Untitled.md",
-    "typography.md",
+    "baizuo (Chinese).md",
+    "madeleine (cake).md",
     "Didone (typeface).md",
-    "vernacular.md",
-    "Ubuntu (typography).md",
-    "road cycling.md",
-    "supraliminal stimuli.md",
-    "kerning (typography).md"
+    "Zeigarnik effect.md",
+    "Untitled.md",
+    "baizuo.md",
+    "Trajan (typeface).md",
+    "typography.md",
+    "vernacular.md"
   ]
 }
