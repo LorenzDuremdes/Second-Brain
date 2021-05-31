@@ -28,12 +28,14 @@
 
 # terrain pacing strategies
 **everything is interrelated**
-1. **goal** → being most efficient/highest average speed
-2. try to cycle in open terrain when having tailwind and closed terrain when having headwind
+
+**goal** → being most efficient/highest average speed
+1. try to cycle in open terrain when having tailwind and closed terrain when having headwind
 	1. if unable to change terrains (e.g. same road(s)), try to cycle with the wind "neutral" (from the side)
-3. try to cycle uphill with a headwind (and reduce exponential air resistance)
+2. try to cycle uphill with a headwind (and reduce exponential air resistance)
 	1. avoid downhill and headwind (same reason)
-4. try to account for variable wind speed (e.g. when going in the same direction back and forth, try to have a higher tailwind speed)
+3. try to account for dynamic/variable wind speed (e.g. when going in the same direction back and forth, try to have a higher tailwind speed)
+4. try to not cycle directly/straight into a headwind (exponential air resistance)
 5. try to be in a terrain where you can use aerobars/Graeme Obree's superman as long as possible
 
 # climbing strategies
