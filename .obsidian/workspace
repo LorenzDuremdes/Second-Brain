@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "pacing strategies.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "test.md",
+                "file": "pacing strategies.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.03981754600430674,
+                  "scale": 0.016263210881038062,
                   "close": false
                 }
               }
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "pacing strategies.md",
                 "mode": "preview"
               }
             },
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "psychiatry",
+                "query": "aerobar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "pacing strategies.md"
               }
             }
           }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "pacing strategies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,15 +190,15 @@
   },
   "active": "2fc1bf1ff8e3c858",
   "lastOpenFiles": [
-    "Untitled.md",
+    "pacing strategies.md",
     "anti-psychiatry.md",
+    "Untitled.md",
     "reciprocity (social psychology).md",
     "Didone (typeface).md",
     "typeface.md",
     "madeleine (cake).md",
     "typographic allusion.md",
     "baizuo (Chinese).md",
-    "Trajan (typeface).md",
-    "legibility.md"
+    "Trajan (typeface).md"
   ]
 }
