@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prior probability distribution.md",
+                "file": "attractor.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "prior probability distribution.md",
+                "file": "attractor.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.02696786756281152,
+                  "scale": 0.11859566504440981,
                   "close": false
                 }
               }
@@ -70,8 +70,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prior probability distribution.md",
-                "mode": "preview"
+                "file": "attractor.md",
+                "mode": "source"
               }
             },
             "group": "414e6e3d6b0e80cf"
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "probabilit",
+                "query": "gauss",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prior probability distribution.md"
+                "file": "attractor.md"
               }
             }
           }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prior probability distribution.md",
+                "file": "attractor.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,15 +193,15 @@
   },
   "active": "797e5a6a617bdfa4",
   "lastOpenFiles": [
+    "attractor.md",
+    "power law.md",
+    "Bayes' theorem.md",
+    "Gaussian distribution.md",
     "prior probability distribution.md",
     "probability distribution.md",
-    "power law.md",
     "Untitled.md",
-    "Bayes' theorem.md",
     "pacing strategies.md",
     "vernacular.md",
-    "cursus honorum.md",
-    "ancient Rome.md",
-    "ancient Greek.md"
+    "cursus honorum.md"
   ]
 }
