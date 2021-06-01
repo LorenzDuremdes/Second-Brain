@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pacing strategies.md",
+                "file": "cell culture.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pacing strategies.md",
+                "file": "cell culture.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.016263210881038062,
+                  "scale": 0.033289007812577986,
                   "close": false
                 }
               }
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pacing strategies.md",
+                "file": "cell culture.md",
                 "mode": "preview"
               }
             },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pacing strategies.md"
+                "file": "cell culture.md"
               }
             }
           }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pacing strategies.md",
+                "file": "cell culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,17 +188,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "2fc1bf1ff8e3c858",
+  "active": "88555f819dbd09ee",
   "lastOpenFiles": [
+    "cell culture.md",
+    "Untitled.md",
     "pacing strategies.md",
     "anti-psychiatry.md",
-    "Untitled.md",
     "reciprocity (social psychology).md",
     "Didone (typeface).md",
     "typeface.md",
     "madeleine (cake).md",
     "typographic allusion.md",
-    "baizuo (Chinese).md",
-    "Trajan (typeface).md"
+    "baizuo (Chinese).md"
   ]
 }
