@@ -16,5 +16,9 @@
 	1. the farther below from average, the bigger the multiplication
 		1. Following this rule gives reasonable predictions for the 90-year-old and the 6-year-old: 94 and 77, respectively. (The 6-year-old gets a tiny edge over the population average of 76 by virtue of having made it through infancy: we know he’s not in the distribution’s left tail.)
 
+# [[memorylessness]]
+1. Bayes' theorem · memorylessness = additive rule^[Algorithms to Live By: The Computer Science of Human Decisions, p. 149]
+	1. predict that things will go on just a constant amount longer (e.g. +5 minutes or after 20 rolls)
+
 # related
 1. [[entropy (information theory)]]

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Erlang distribution.md",
+                "file": "Bayes' theorem.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Erlang distribution.md",
+                "file": "Bayes' theorem.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.08700709149198786,
+                  "scale": 0.025925468647169044,
                   "close": false
                 }
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Erlang distribution.md",
+                "file": "Bayes' theorem.md",
                 "mode": "preview"
               }
             },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Erlang distribution.md"
+                "file": "Bayes' theorem.md"
               }
             }
           }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Erlang distribution.md",
+                "file": "Bayes' theorem.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,11 +193,11 @@
   },
   "active": "1428ef4f3ff90207",
   "lastOpenFiles": [
+    "Bayes' theorem.md",
     "Erlang distribution.md",
     "Untitled.md",
     "attractor.md",
     "power law.md",
-    "Bayes' theorem.md",
     "Gaussian distribution.md",
     "prior probability distribution.md",
     "probability distribution.md",
