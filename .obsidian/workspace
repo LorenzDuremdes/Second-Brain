@@ -4,28 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "8dd62e6b111a9cc6",
+        "id": "14d8646d838bdece",
         "type": "split",
+        "dimension": 50.14005602240896,
         "children": [
           {
-            "id": "2fc1bf1ff8e3c858",
+            "id": "1428ef4f3ff90207",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cell culture.md",
+                "file": "prior probability distribution.md",
                 "mode": "source"
               }
             },
-            "group": "73a744472047fcec"
+            "group": "414e6e3d6b0e80cf"
           },
           {
-            "id": "88555f819dbd09ee",
+            "id": "797e5a6a617bdfa4",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cell culture.md",
+                "file": "prior probability distribution.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -33,7 +34,7 @@
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
-                  "showTags": true,
+                  "showTags": false,
                   "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
@@ -48,33 +49,35 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.033289007812577986,
+                  "scale": 0.02696786756281152,
                   "close": false
                 }
               }
-            }
+            },
+            "group": "414e6e3d6b0e80cf"
           }
         ],
         "direction": "horizontal"
       },
       {
-        "id": "c966c96f51b251e8",
+        "id": "1417955d182a1e2c",
         "type": "split",
+        "dimension": 49.85994397759104,
         "children": [
           {
-            "id": "31616da85d4e9b87",
+            "id": "49881e83dd04a4fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cell culture.md",
+                "file": "prior probability distribution.md",
                 "mode": "preview"
               }
             },
-            "group": "73a744472047fcec"
+            "group": "414e6e3d6b0e80cf"
           },
           {
-            "id": "461e261dbff23c6f",
+            "id": "09bcac1064040cf8",
             "type": "leaf",
             "state": {
               "type": "mindmap",
@@ -109,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aerobar",
+                "query": "probabilit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -154,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cell culture.md"
+                "file": "prior probability distribution.md"
               }
             }
           }
@@ -171,8 +174,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cell culture.md",
-                "collapseAll": false,
+                "file": "prior probability distribution.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -188,17 +191,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "88555f819dbd09ee",
+  "active": "797e5a6a617bdfa4",
   "lastOpenFiles": [
-    "cell culture.md",
+    "prior probability distribution.md",
+    "probability distribution.md",
+    "power law.md",
     "Untitled.md",
+    "Bayes' theorem.md",
     "pacing strategies.md",
-    "anti-psychiatry.md",
-    "reciprocity (social psychology).md",
-    "Didone (typeface).md",
-    "typeface.md",
-    "madeleine (cake).md",
-    "typographic allusion.md",
-    "baizuo (Chinese).md"
+    "vernacular.md",
+    "cursus honorum.md",
+    "ancient Rome.md",
+    "ancient Greek.md"
   ]
 }
