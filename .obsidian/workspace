@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "explore-exploit tradeoff.md",
+                "file": "gambit (chess).md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "explore-exploit tradeoff.md",
+                "file": "gambit (chess).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.016263210881037715,
+                  "scale": 0.027830897489915952,
                   "close": false
                 }
               }
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "explore-exploit tradeoff.md",
+                "file": "gambit (chess).md",
                 "mode": "preview"
               }
             },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "explore-exploit tradeoff.md"
+                "file": "gambit (chess).md"
               }
             }
           }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "explore-exploit tradeoff.md",
+                "file": "gambit (chess).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,17 +188,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "2fc1bf1ff8e3c858",
+  "active": "88555f819dbd09ee",
   "lastOpenFiles": [
+    "gambit (chess).md",
+    "Untitled.md",
     "explore-exploit tradeoff.md",
     "optimization.md",
     "exploration-exploitation trade-off.md",
-    "Untitled.md",
     "exploration/exploration-exploitation trade-off.md",
     "entropy.md",
     "intelligence.md",
     "exploration/exploitation-trade-off.md",
-    "exploration/exploitation trade-off.md",
-    "neocortex.md"
+    "exploration/exploitation trade-off.md"
   ]
 }
