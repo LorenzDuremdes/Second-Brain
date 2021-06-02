@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gambit (chess).md",
+                "file": "intelligence.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "gambit (chess).md",
+                "file": "intelligence.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.027830897489915952,
+                  "scale": 0.01359667303499603,
                   "close": false
                 }
               }
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gambit (chess).md",
+                "file": "intelligence.md",
                 "mode": "preview"
               }
             },
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "explor",
+                "query": "dating",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gambit (chess).md"
+                "file": "intelligence.md"
               }
             }
           }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gambit (chess).md",
+                "file": "intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,17 +188,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "88555f819dbd09ee",
+  "active": "2fc1bf1ff8e3c858",
   "lastOpenFiles": [
+    "intelligence.md",
+    "dating.md",
+    "2021-06-02.md",
     "gambit (chess).md",
     "Untitled.md",
     "explore-exploit tradeoff.md",
     "optimization.md",
     "exploration-exploitation trade-off.md",
     "exploration/exploration-exploitation trade-off.md",
-    "entropy.md",
-    "intelligence.md",
-    "exploration/exploitation-trade-off.md",
-    "exploration/exploitation trade-off.md"
+    "entropy.md"
   ]
 }
