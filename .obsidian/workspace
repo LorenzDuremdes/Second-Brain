@@ -4,29 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "14d8646d838bdece",
+        "id": "8dd62e6b111a9cc6",
         "type": "split",
-        "dimension": 50.14005602240896,
         "children": [
           {
-            "id": "1428ef4f3ff90207",
+            "id": "2fc1bf1ff8e3c858",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bayes' theorem.md",
+                "file": "explore-exploit tradeoff.md",
                 "mode": "source"
               }
             },
-            "group": "414e6e3d6b0e80cf"
+            "group": "73a744472047fcec"
           },
           {
-            "id": "797e5a6a617bdfa4",
+            "id": "88555f819dbd09ee",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bayes' theorem.md",
+                "file": "explore-exploit tradeoff.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -34,7 +33,7 @@
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
-                  "showTags": false,
+                  "showTags": true,
                   "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
@@ -49,35 +48,33 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.025925468647169044,
+                  "scale": 0.016263210881037715,
                   "close": false
                 }
               }
-            },
-            "group": "414e6e3d6b0e80cf"
+            }
           }
         ],
         "direction": "horizontal"
       },
       {
-        "id": "1417955d182a1e2c",
+        "id": "c966c96f51b251e8",
         "type": "split",
-        "dimension": 49.85994397759104,
         "children": [
           {
-            "id": "49881e83dd04a4fb",
+            "id": "31616da85d4e9b87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bayes' theorem.md",
+                "file": "explore-exploit tradeoff.md",
                 "mode": "preview"
               }
             },
-            "group": "414e6e3d6b0e80cf"
+            "group": "73a744472047fcec"
           },
           {
-            "id": "09bcac1064040cf8",
+            "id": "461e261dbff23c6f",
             "type": "leaf",
             "state": {
               "type": "mindmap",
@@ -112,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gauss",
+                "query": "explor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -157,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bayes' theorem.md"
+                "file": "explore-exploit tradeoff.md"
               }
             }
           }
@@ -174,8 +171,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bayes' theorem.md",
-                "collapseAll": true,
+                "file": "explore-exploit tradeoff.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -191,17 +188,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "1428ef4f3ff90207",
+  "active": "2fc1bf1ff8e3c858",
   "lastOpenFiles": [
-    "Bayes' theorem.md",
-    "Erlang distribution.md",
+    "explore-exploit tradeoff.md",
+    "optimization.md",
+    "exploration-exploitation trade-off.md",
     "Untitled.md",
-    "attractor.md",
-    "power law.md",
-    "Gaussian distribution.md",
-    "prior probability distribution.md",
-    "probability distribution.md",
-    "pacing strategies.md",
-    "vernacular.md"
+    "exploration/exploration-exploitation trade-off.md",
+    "entropy.md",
+    "intelligence.md",
+    "exploration/exploitation-trade-off.md",
+    "exploration/exploitation trade-off.md",
+    "neocortex.md"
   ]
 }
