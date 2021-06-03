@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "yogi.md",
+                "file": "persuasion.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "yogi.md",
+                "file": "persuasion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.033289007812577334,
+                  "scale": 0.01359667303499592,
                   "close": false
                 }
               }
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "yogi.md",
+                "file": "persuasion.md",
                 "mode": "preview"
               }
             },
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "psychother",
+                "query": "persuas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "yogi.md"
+                "file": "persuasion.md"
               }
             }
           }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "yogi.md",
+                "file": "persuasion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,17 +188,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "88555f819dbd09ee",
+  "active": "2fc1bf1ff8e3c858",
   "lastOpenFiles": [
+    "persuasion.md",
+    "user review.md",
+    "construal level theory.md",
+    "liking (persuasion).md",
+    "reciprocity (social psychology).md",
     "yogi.md",
     "psychotherapy.md",
     "focusing (psychotherapy).md",
     "Untitled.md",
-    "reciprocity (social psychology).md",
-    "door-in-the-face technique.md",
-    "foot-in-the-door technique.md",
-    "persuasion.md",
-    "intelligence.md",
-    "dating.md"
+    "door-in-the-face technique.md"
   ]
 }

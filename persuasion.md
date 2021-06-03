@@ -8,7 +8,7 @@
 # Influence, New and Expanded: The Psychology of Persuasion
 1. main principles:
 	1. [[reciprocity (social psychology)|reciprocation]]
-	2. liking
+	2. [[liking (persuasion)|liking]]
 	3. [[social proof]]
 		1. **related**: [[social currency]]
 	4. authority
@@ -56,6 +56,9 @@
 	1. expensive=good
 		1. human analog → hard-to-get=good? and other related things e.g. not texting too frequently
 	2. cheap=bad
+2. how do some charity organizations try to persuade people to donate?^[Influence, New and Expanded: The Psychology of Persuasion, p. 8]
+	1. recruit volunteers close to the targets' own homes
+	2. **related**: [[construal level theory]]
 
 # related
 1. [[psychology]]

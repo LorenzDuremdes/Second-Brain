@@ -1,0 +1,2 @@
+1. what causes one doctor to get sued more despite making just as many (equally weighing) mistakes as another?^[Influence, New and Expanded: The Psychology of [[persuasion]], p. 8]
+	1. in all the years I’ve been in this business, I’ve never had a potential client walk in and say, “I really like this doctor, but I want to sue him.” . . . People just don’t sue the doctors they like
