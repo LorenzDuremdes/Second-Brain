@@ -17,11 +17,11 @@ The people with the special talk therapy did better, for longer, than the medici
 
 Here’s some reading about that, and what happened later: [The Evolution of CBT in [[community]] Mental Health | Beck Institute for Cognitive Behavior Therapy](https://beckinstitute.org/the-evolution-of-cbt-in-community-mental-health/)
 
-When I complain about CBT it is absolutely not due to Beck’s tremendous contribution, it’s that versions of his ideas have devolved into a didactic, directive series of mini-psychoeducational interventions, promoted for therapists with little talent or imagination, to apply in externally controlled settings because “something is better than nothing,” and it’s hard to harm people if you don’t get deeply involved with them. Call it “psychotherapy” and health insurance will pay for it, but that don’t make it so.
+When I complain about CBT it is absolutely not due to Beck’s tremendous contribution, it’s that versions of his ideas have devolved into a didactic, directive series of mini-psychoeducational interventions, promoted for therapists with little talent or imagination, to apply in externally controlled settings because “something is better than nothing,” and it’s hard to harm people if you don’t get deeply involved with them. Call it “[[psychotherapy]]” and health insurance will pay for it, but that don’t make it so.
 
 Don’t get me wrong. I’ve often used little CBT techniques with clients for whom it seemed to fit at a certain point in our work. I confess I use them with myself if I’m anxious about something, to accompany other self-soothing strategies like 4–7–8 breathing, an Ayurvedic miracle.
 
-No, Dr. Beck did not invent a psychotherapy you can use by following an instruction sheet, no passion or heart required. **If you run into a therapist whose only tools are forms for you to complete and worksheets for your instruction? Flee.**
+No, Dr. Beck did not invent a [[psychotherapy]] you can use by following an instruction sheet, no passion or heart required. **If you run into a therapist whose only tools are forms for you to complete and worksheets for your instruction? Flee.**
 
 374 views · [View Upvoters](https://www.quora.com/notifications/collection?__filter__=all&__nsrc__=1&__sncid__=11155590739#)
 

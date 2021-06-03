@@ -1,5 +1,5 @@
 1. anti-[[psychiatry]]; a broad movement based on the view that psychiatric treatment is more often damaging than helpful to patients^[https://en.wikipedia.org/wiki/Anti-psychiatry]
-	1. since its heyday in the 1970s, the anti-psychiatry movement has declined, as medication (particularly SSRIs and SNRIs) and psychotherapy has become more popular and effective
+	1. since its heyday in the 1970s, the anti-psychiatry movement has declined, as medication (particularly SSRIs and SNRIs) and [[psychotherapy]] has become more popular and effective
 
 ## arguments against "anti-psychiatry"
 # medication

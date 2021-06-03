@@ -25,6 +25,10 @@
 2. should you do "uninvited favors"? + why
 	1. yes e.g. to create a (feeling of) [[guilt|debt]]^[Influence, New and Expanded: The Psychology of Persuasion, p. 8]
 
+# deweaponizing
+1. Robert Cialdini's approach to deweaponizing "reciprocation (persuasion)"^[Influence, New and Expanded: The Psychology of Persuasion, p. 8]
+	1. he simply takes the "gift" and moves on
+
 # myself
 1. do you personally get affected a lot by "reciprocation" from other people? + why
 	1. no, because I usually just care about myself → I reciprocate when it's advantageous for myself (psychopathic)
