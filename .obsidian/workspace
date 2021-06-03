@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "persuasion.md",
+                "file": "paid time off.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "persuasion.md",
+                "file": "paid time off.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.01359667303499592,
+                  "scale": 0.02326770624871371,
                   "close": false
                 }
               }
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "persuasion.md",
+                "file": "paid time off.md",
                 "mode": "preview"
               }
             },
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "persuas",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "persuasion.md"
+                "file": "paid time off.md"
               }
             }
           }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "persuasion.md",
+                "file": "paid time off.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,17 +188,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "2fc1bf1ff8e3c858",
+  "active": "88555f819dbd09ee",
   "lastOpenFiles": [
+    "paid time off.md",
+    "Untitled.md",
+    "shame.md",
+    "sociaal-psychiatrisch verpleegkundige.md",
+    "social proof.md",
+    "\"endless chain\" method.md",
     "persuasion.md",
     "user review.md",
     "construal level theory.md",
-    "liking (persuasion).md",
-    "reciprocity (social psychology).md",
-    "yogi.md",
-    "psychotherapy.md",
-    "focusing (psychotherapy).md",
-    "Untitled.md",
-    "door-in-the-face technique.md"
+    "liking (persuasion).md"
   ]
 }
