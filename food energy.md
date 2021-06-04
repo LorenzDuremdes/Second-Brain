@@ -1,0 +1,1 @@
+1. [[food]] energy; chemical energy that animals (including humans) derive from their [[food]] and molecular oxygen^[https://en.wikipedia.org/wiki/Food_energy#cite_note-Schmidt-Rohr_15-1] through the process of cellular respiration

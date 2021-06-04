@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shame.md",
+                "file": "Apollo's belt.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "shame.md",
+                "file": "Apollo's belt.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.02326770624871371,
+                  "scale": 0.016263210881037025,
                   "close": false
                 }
               }
@@ -67,8 +67,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shame.md",
-                "mode": "preview"
+                "file": "Apollo's belt.md",
+                "mode": "source"
               }
             },
             "group": "73a744472047fcec"
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ester",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shame.md"
+                "file": "Apollo's belt.md"
               }
             }
           }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shame.md",
+                "file": "Apollo's belt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,15 +190,15 @@
   },
   "active": "2fc1bf1ff8e3c858",
   "lastOpenFiles": [
+    "Untitled.md",
+    "food.md",
+    "food energy.md",
     "shame.md",
     "men.md",
     "paid time off.md",
-    "Untitled.md",
     "sociaal-psychiatrisch verpleegkundige.md",
     "social proof.md",
     "\"endless chain\" method.md",
-    "persuasion.md",
-    "user review.md",
-    "construal level theory.md"
+    "persuasion.md"
   ]
 }
