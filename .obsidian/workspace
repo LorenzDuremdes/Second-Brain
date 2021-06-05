@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "persuasion.md",
+                "file": "liking (persuasion).md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "persuasion.md",
+                "file": "liking (persuasion).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.023267706248713344,
+                  "scale": 0.019452701957333476,
                   "close": false
                 }
               }
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "persuasion.md",
+                "file": "liking (persuasion).md",
                 "mode": "preview"
               }
             },
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "persuas",
+                "query": "liking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -126,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "persuasion.md"
+                "file": "liking (persuasion).md"
               }
             }
           }
@@ -172,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "persuasion.md",
+                "file": "liking (persuasion).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,15 +190,15 @@
   },
   "active": "2fc1bf1ff8e3c858",
   "lastOpenFiles": [
+    "liking (persuasion).md",
+    "social mirroring.md",
+    "Untitled.md",
     "persuasion.md",
     "trust.md",
-    "Untitled.md",
     "dating (persuasion).md",
     "Apollo's belt.md",
     "temporal construal level.md",
     "food.md",
-    "food energy.md",
-    "shame.md",
-    "men.md"
+    "food energy.md"
   ]
 }
