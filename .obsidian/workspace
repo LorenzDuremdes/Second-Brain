@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apollo's belt.md",
+                "file": "persuasion.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Apollo's belt.md",
+                "file": "persuasion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.016263210881037025,
+                  "scale": 0.023267706248713344,
                   "close": false
                 }
               }
@@ -67,8 +67,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apollo's belt.md",
-                "mode": "source"
+                "file": "persuasion.md",
+                "mode": "preview"
               }
             },
             "group": "73a744472047fcec"
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ester",
+                "query": "persuas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -126,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apollo's belt.md"
+                "file": "persuasion.md"
               }
             }
           }
@@ -171,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apollo's belt.md",
+                "file": "persuasion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,15 +191,15 @@
   },
   "active": "2fc1bf1ff8e3c858",
   "lastOpenFiles": [
+    "persuasion.md",
+    "trust.md",
     "Untitled.md",
+    "dating (persuasion).md",
+    "Apollo's belt.md",
+    "temporal construal level.md",
     "food.md",
     "food energy.md",
     "shame.md",
-    "men.md",
-    "paid time off.md",
-    "sociaal-psychiatrisch verpleegkundige.md",
-    "social proof.md",
-    "\"endless chain\" method.md",
-    "persuasion.md"
+    "men.md"
   ]
 }

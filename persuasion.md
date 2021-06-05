@@ -4,6 +4,9 @@
 	1. use the word "we"^[https://www.cnbc.com/2021/05/21/using-a-we-mindset-helps-persuade-people-influence-expert-cialdini.html]
 		1. or something similar e.g. “You know, we’ve been members of the same psychology department now for 12 years. I really need this.” (Robert Cialdini)
 
+# behavior
+1. high vs. low chin angle → friendliness^[https://fs.blog/2013/07/building-trust/]
+	1. a high chin angle might make someone feel like you're looking down at them (not always advantageous e.g. trying to appear friendly)
 
 # Influence, New and Expanded: The Psychology of Persuasion
 1. main principles:
