@@ -4,4 +4,4 @@
 # compliment
 1. preprogrammed compliment from a machine (and individuals aware of it) → liking^[Influence, New and Expanded: The Psychology of Persuasion, p. 9]
 	1. Individuals who worked on a digital assignment and received flattering feedback from their computer (“You seem to have an uncommon ability to structure data logically”) developed more favorable feelings toward the machine, even though they were told that the feedback had been preprogrammed and did not reflect their actual task performance. More remarkable still, they also became prouder of their performances after receiving this hollow praise.
-2. humans tend to easily get influenced by shallow/inaccurate flattery^[Influence, New and Expanded: The Psychology of Persuasion, p. 9]
+2. humans tend to easily get influenced by shallow/inaccurate flattery^[Influence, New and Expanded: The Psychology of Persuasion, p. 9]![[Pasted image 20210605204255.png]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "liking (persuasion).md",
+                "file": "SDNN (HRV).md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "liking (persuasion).md",
+                "file": "SDNN (HRV).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.019452701957333476,
+                  "scale": 0.01945270195733347,
                   "close": false
                 }
               }
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "liking (persuasion).md",
+                "file": "SDNN (HRV).md",
                 "mode": "preview"
               }
             },
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "liking",
+                "query": "autonomic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "liking (persuasion).md"
+                "file": "SDNN (HRV).md"
               }
             }
           }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "liking (persuasion).md",
+                "file": "SDNN (HRV).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,15 +190,15 @@
   },
   "active": "2fc1bf1ff8e3c858",
   "lastOpenFiles": [
-    "liking (persuasion).md",
-    "social mirroring.md",
     "Untitled.md",
+    "rMSSD (HRV).md",
+    "heart rate variability.md",
+    "liking (persuasion).md",
+    "Pasted image 20210605204255.png",
+    "social mirroring.md",
     "persuasion.md",
     "trust.md",
     "dating (persuasion).md",
-    "Apollo's belt.md",
-    "temporal construal level.md",
-    "food.md",
-    "food energy.md"
+    "Apollo's belt.md"
   ]
 }
