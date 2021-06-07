@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDNN (HRV).md",
+                "file": "heart rate variability.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SDNN (HRV).md",
+                "file": "heart rate variability.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.01945270195733347,
+                  "scale": 0.016263210881036955,
                   "close": false
                 }
               }
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SDNN (HRV).md",
+                "file": "heart rate variability.md",
                 "mode": "preview"
               }
             },
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "autonomic",
+                "query": "heart rate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SDNN (HRV).md"
+                "file": "heart rate variability.md"
               }
             }
           }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SDNN (HRV).md",
+                "file": "heart rate variability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,15 +190,15 @@
   },
   "active": "2fc1bf1ff8e3c858",
   "lastOpenFiles": [
-    "Untitled.md",
-    "rMSSD (HRV).md",
     "heart rate variability.md",
-    "liking (persuasion).md",
-    "Pasted image 20210605204255.png",
-    "social mirroring.md",
-    "persuasion.md",
-    "trust.md",
-    "dating (persuasion).md",
-    "Apollo's belt.md"
+    "SDNN (HRV).md",
+    "minimum effective volume (MEV).md",
+    "heart rate.md",
+    "aerobic threshold.md",
+    "cardiac output.md",
+    "functional threshold heart rate.md",
+    "road cycling.md",
+    "Untitled.md",
+    "rMSSD (HRV).md"
   ]
 }

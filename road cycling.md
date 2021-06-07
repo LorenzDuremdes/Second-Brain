@@ -19,11 +19,11 @@
 
 ## tracking performance
 ### technology
-1. self-coached cyclists may need a heart rate monitor and power meter less
+1. self-coached cyclists may need a [[heart rate]] monitor and power meter less
 	1. Not all experienced athletes need these tools either, if they are good at sensing how hard they are riding in a workout. They may have an excellent feel for intensity. And if they are self-coached, not having such technology may not hold back their progress significantly.^[The Cyclist's Training Bible, p. 18]
 2. what does Joe Friel recommend to measure during a field/clinical test (road cycling)?
 	1. FTP and FTHR
-		1. functional threshold heart rate (why?)
+		1. functional threshold [[heart rate]] (why?)
 
 # [[sports periodization]]
 1. why is "I want to ride faster" a vague [[goal]]?^[The Cyclist's Training Bible, p. 18]
