@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "heart rate variability.md",
+                "file": "altercasting.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "heart rate variability.md",
+                "file": "altercasting.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.016263210881036955,
+                  "scale": 0.023267706248713105,
                   "close": false
                 }
               }
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "heart rate variability.md",
+                "file": "altercasting.md",
                 "mode": "preview"
               }
             },
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "heart rate",
+                "query": "robert cialdini",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "heart rate variability.md"
+                "file": "altercasting.md"
               }
             }
           }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "heart rate variability.md",
+                "file": "altercasting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,15 +190,15 @@
   },
   "active": "2fc1bf1ff8e3c858",
   "lastOpenFiles": [
+    "altercasting.md",
+    "Robert Beno Cialdini.md",
+    "Untitled.md",
     "heart rate variability.md",
     "SDNN (HRV).md",
     "minimum effective volume (MEV).md",
     "heart rate.md",
     "aerobic threshold.md",
     "cardiac output.md",
-    "functional threshold heart rate.md",
-    "road cycling.md",
-    "Untitled.md",
-    "rMSSD (HRV).md"
+    "functional threshold heart rate.md"
   ]
 }
