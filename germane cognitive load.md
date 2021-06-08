@@ -1,1 +1,1 @@
-1. [[bandwidth (computing)|bandwidth]] · e-learning (theory)=germane cognitive load
+1. [[bandwidth (computing)|bandwidth]] · e-learning (theory)=germane [[cognitive load]]
