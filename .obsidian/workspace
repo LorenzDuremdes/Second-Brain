@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "emotional self-regulation.md",
+                "file": "altercasting.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "emotional self-regulation.md",
+                "file": "altercasting.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "emotional self-regulation.md",
+                "file": "altercasting.md",
                 "mode": "preview"
               }
             },
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inertia",
+                "query": "altercas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -126,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "emotional self-regulation.md"
+                "file": "altercasting.md"
               }
             }
           }
@@ -171,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "emotional self-regulation.md",
+                "file": "altercasting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,8 +191,8 @@
   },
   "active": "2fc1bf1ff8e3c858",
   "lastOpenFiles": [
-    "emotional self-regulation.md",
     "altercasting.md",
+    "emotional self-regulation.md",
     "Robert Beno Cialdini.md",
     "Untitled.md",
     "heart rate variability.md",
