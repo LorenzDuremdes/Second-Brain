@@ -1,0 +1,8 @@
+1. how did Robert Cialdini try to gain information on what tactics [[persuasion|influence]] professionals use?^[Influence, New and Expanded: The Psychology of Persuasion, p. 9]
+	1. he enrolled, incognito, in their training programs (he revealed his identity at the end with a request for permission to use the information (for his book))
+		1. what does Robert Cialdini reason why they said "Yes"?
+			1. he (unconsciously) used "[[altercasting]]"
+
+				In most cases, that’s how things appeared to be going as faces reddened and gazes hardened when I finally admitted that my name wasn’t Rob Caulder, that I wasn’t a real trainee, that I was planning to write a book disclosing the information I’d collected, and that I wanted written consent to use their proprietary information in the book—until I added one more fact without knowing the impact it would have. I told the practitioners I was a university professor who studied social influence and wanted to “learn from you on the matter.” Regularly, they’d say something like, “You mean you’re a college professor expert on this topic, and _we_ were your teachers?” When I had assured them they had heard me correctly, they would usually puff up their chests and respond (with the wave of a hand), “Of course you can share our wisdom.”
+				
+				In retrospect, I can see why this accommodating response came so often. My last admission had cast the practitioners in the **role of teachers**; and teachers don’t hoard information. They disseminate it.

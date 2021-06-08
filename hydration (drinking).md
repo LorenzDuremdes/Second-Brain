@@ -15,7 +15,7 @@
 		1. propagation → apart from sweating, skin blood flow is another important pathway for the body to get rid of extra heat^[Cutting-Edge Cycling, p. 244]
 		2. reduced skin blood flow causes e.g. higher core temperatures
 4. shunting → dehydration
-	1. blood flow to the digestive system, including the stomach, intestines, and kidneys, diminishes, impairing the ability of the body to take in additional food and fluid during exercise^[Cutting-Edge Cycling, p. 244]
+	1. blood flow to the digestive system, including the stomach, intestines, and kidneys, diminishes, impairing the ability of the body to take in additional [[food]] and fluid during exercise^[Cutting-Edge Cycling, p. 244]
 5. dehydration → [[lipopolysaccharide]]
 	1. dehydration (and redistribution of blood e.g. shunting) can cause [[endotoxemia]]
 		1. has been associated with impaired muscle function (Supinski et al. 2000) and may produce an inflammatory response in the body that contributes to exercise fatigue, especially in the heat (Lambert 2004).^[Cutting-Edge Cycling, 245]

@@ -1,0 +1,1 @@
+1. therapietrouw; het gewillig en blijvend volgen van de door een arts voorgeschreven behandeling door een patiënt^[https://nl.wikipedia.org/wiki/Therapietrouw]

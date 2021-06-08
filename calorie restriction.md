@@ -1,4 +1,4 @@
-1. calorie restriction; a dietary regimen that reduces food intake without incurring malnutrition
+1. calorie restriction; a dietary regimen that reduces [[food]] intake without incurring malnutrition
 2. calorie restriction is typically adopted intentionally to reduce body weight
 
 # [[resistance training]]

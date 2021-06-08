@@ -4,8 +4,8 @@
 2. [[vulnerability]] ↔ trust (chicken-or-the-egg analogy)
 	1. we need to feel trust to be vulnerable and we need to be vulnerable in order to trust
 	2. —Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead, 35
-3. trust → shame
-	1. the more experienced interpersonal trust, the less shame they usually feel
+3. trust → [[shame]]
+	1. the more experienced interpersonal trust, the less [[shame]] they usually feel
 4. intimate trust is more about action
 	1. trust is more a [[feeling]] for neurotypicals
 

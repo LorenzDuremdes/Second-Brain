@@ -1,4 +1,4 @@
-1. cardiac output=heart rate*stroke volume
+1. cardiac output=[[heart rate]]*stroke volume
 2. For a healthy person weighing 70 kg, the cardiac output at rest averages about 5 L/min; assuming a [[heart rate]] of 70 beats/min, the stroke volume would be approximately 70 ml.
 3. Major factors influencing cardiac output – [[heart rate]] and stroke volume, both of which are also variable.^[https://en.wikipedia.org/wiki/Cardiac_output#cite_note-CNX2014-1]
 	1. By OpenStax College - Anatomy &amp; Physiology, Connexions Web site. http://cnx.org/content/col11496/1.6/, Jun 19, 2013., CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=30148234

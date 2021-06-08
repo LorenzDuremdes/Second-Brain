@@ -1,0 +1,1 @@
+1. paid [[time]] off; a policy in some employee handbooks that provides a bank of hours in which the employer pools sick days, vacation days, and personal days that allows employees to use as the need or desire arises^[https://en.wikipedia.org/wiki/Paid_time_off]

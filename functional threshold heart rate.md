@@ -1,2 +1,2 @@
-1. functional threshold heart rate; the heart rate you can sustain for a one hour race effort
+1. functional threshold [[heart rate]]; the [[heart rate]] you can sustain for a one hour race effort
 2. high correlation with [[functional threshold power|FTP]] (e.g. riding at FTP for an hours also results in measuring FTHR)?
