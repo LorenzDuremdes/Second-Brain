@@ -1,0 +1,1 @@
+1. very low frequency ([[heart rate variability|HRV]]); heart directly impact wave rhythm, while [[sympathetic nervous system|SNS]] impacts frequency and amplitude of oscillations

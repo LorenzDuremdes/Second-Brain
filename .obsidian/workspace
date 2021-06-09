@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "racism.md",
+                "file": "sympathetic nervous system.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "racism.md",
+                "file": "sympathetic nervous system.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.023267706248713105,
+                  "scale": 0.047626441098250344,
                   "close": false
                 }
               }
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "racism.md",
+                "file": "sympathetic nervous system.md",
                 "mode": "source"
               }
             },
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "people are more likely to identify sep",
+                "query": "attract",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "racism.md"
+                "file": "sympathetic nervous system.md"
               }
             }
           }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "racism.md",
+                "file": "sympathetic nervous system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,17 +188,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "31616da85d4e9b87",
+  "active": "88555f819dbd09ee",
   "lastOpenFiles": [
-    "racism.md",
-    "currency.md",
-    "school.md",
-    "social mirroring.md",
-    "psychoeducation.md",
-    "education.md",
+    "sympathetic nervous system.md",
+    "very low frequency (HRV).md",
     "Untitled.md",
-    "familiarity heuristic.md",
-    "cognitive load.md",
-    "intrinsic cognitive load.md"
+    "baroreflex.md",
+    "low frequency waves (HRV).md",
+    "parasympathetic nervous system.md",
+    "high frequency waves (HRV).md",
+    "physical attractiveness.md",
+    "social mirroring.md",
+    "emotional self-regulation.md"
   ]
 }

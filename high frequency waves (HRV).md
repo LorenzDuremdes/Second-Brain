@@ -1,0 +1,1 @@
+1. high frequency waves ([[heart rate variability|HRV]]); partially reflects [[parasympathetic nervous system|PNS]] activity^[Welltory (App)]

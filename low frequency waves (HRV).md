@@ -1,0 +1,1 @@
+1. low frequency waves ([[heart rate variability|HRV]]); can reflect [[baroreflex]] activity when at rest^[Welltory (App)]
