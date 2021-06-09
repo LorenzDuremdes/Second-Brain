@@ -12,6 +12,9 @@
 1. construal level theory · top-down approach = [[prioritization]]
 	1. [[top-down]]
 	2. [[prioritization]]
+2. "When making plans, think big. When making progress, think small."^[https://twitter.com/visualizevalue/status/1363322426168401922]
+
+	<img src="https://pbs.twimg.com/media/Eut-hSaXAAU6gze?format=jpg&name=large" width="500" />
 
 # [[self-determination theory]]
 1. construal level theory → [[motivation]] (e.g. girl)

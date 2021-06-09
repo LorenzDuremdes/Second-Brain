@@ -1,0 +1,5 @@
+1. Serica; one of the [[China|easternmost countries of Asia]] known to the [[ancient Greek|Ancient Greek]] and [[Roman Empire|Roman]] geographers^[https://en.wikipedia.org/wiki/Serica]
+2. A mid-15th century Florentine world map based on the 1st (modified conic) projection in Jacobus Angelus's 1406 Latin translation of Maximus Planudes's late-13th century rediscovered Greek manuscripts of Ptolemy's 2nd-century Geography. Serica is shown in the far northeast of the world.^[By Credited to Francesco di Antonio del Chierico - Ptolemy&#039;s Geography (Harleian MS 7182, ff 58–59), Public Domain, https://commons.wikimedia.org/w/index.php?curid=193697]
+
+	<img src="https://upload.wikimedia.org/wikipedia/commons/2/23/PtolemyWorldMap.jpg" width="1500"/>
+3. derived from Greek *Serikon*, commonly understood as "Land of Silk", from Chinese si Chinese: 絲; pinyin: *sī*, meaning silk^[https://en.wikipedia.org/wiki/Daqin#Daqin]

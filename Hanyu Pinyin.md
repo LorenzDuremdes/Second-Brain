@@ -1,1 +1,1 @@
-1. Hanyu Pinyin; the official romanization system for Standard Chinese in mainland China and Taiwan (ROC).^[https://en.wikipedia.org/wiki/Pinyin#cite_note-2]
+1. Hanyu Pinyin; the official romanization system for Standard Chinese in mainland [[China]] and Taiwan (ROC).^[https://en.wikipedia.org/wiki/Pinyin#cite_note-2]

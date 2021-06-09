@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sympathetic nervous system.md",
+                "file": "construal level theory.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sympathetic nervous system.md",
+                "file": "construal level theory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.047626441098250344,
+                  "scale": 0.023267706248712706,
                   "close": false
                 }
               }
@@ -67,8 +67,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sympathetic nervous system.md",
-                "mode": "source"
+                "file": "construal level theory.md",
+                "mode": "preview"
               }
             },
             "group": "73a744472047fcec"
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "attract",
+                "query": "construal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sympathetic nervous system.md"
+                "file": "construal level theory.md"
               }
             }
           }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sympathetic nervous system.md",
+                "file": "construal level theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,17 +188,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "88555f819dbd09ee",
+  "active": "2fc1bf1ff8e3c858",
   "lastOpenFiles": [
-    "sympathetic nervous system.md",
-    "very low frequency (HRV).md",
+    "construal level theory.md",
+    "Serica.md",
     "Untitled.md",
-    "baroreflex.md",
-    "low frequency waves (HRV).md",
-    "parasympathetic nervous system.md",
-    "high frequency waves (HRV).md",
-    "physical attractiveness.md",
-    "social mirroring.md",
-    "emotional self-regulation.md"
+    "Roman Empire.md",
+    "Pax Sinica.md",
+    "Pax Romana.md",
+    "Xia dynasty.md",
+    "China.md",
+    "People's Republic of China.md",
+    "geopolitics.md"
   ]
 }
