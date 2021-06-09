@@ -1,0 +1,1 @@
+1. dean (Christianity); an ecclesiastical context, is a cleric holding certain positions of authority within a [[religion|religious]] hierarchy^[https://en.wikipedia.org/wiki/Dean_(Christianity)]

@@ -3,3 +3,6 @@
 3. **Image**: The co-operative behaviour of social insects like the honey bee can be explained by kin selection.
 	1. By Todd Huffman from Phoenix, AZ - Lattice, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=3365538
 	2. nidd1607781479642
+
+# related
+1. [[biology]]

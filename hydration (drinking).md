@@ -56,7 +56,7 @@
 ## content
 1. in one of the few studies that looked at voluntary drinking behavior in humans, a [[water]] temperature of 15 °C had the highest consumption rate in subjects who were allowed to choose the [[water]] temperature (Boulze et al. 1983)^[Cutting-Edge Cycling, p. 253]
 2. cooling and flavoring drinks increased the consumption rate; consumption of flavored water at 15 °C was 120 percent greater than consumption of unflavored water at 40 °C (Hubbard et al. 1984)^[Cutting-Edge Cycling, p. 253]
-3. carbohydrate vs. carbohydrate-[[protein]] sport drink
+3. carbohydrate vs. carbohydrate-[[protein]] [[sport]] drink
 	1. the latter is more effective^[Cutting-Edge Cycling, p. 259]
 	2. how much performance advantage does a carbohydrate-[[protein]] give as opposed to carbohydrate only?^[Cutting-Edge Cycling, p. 259]
 		1. +~10%
