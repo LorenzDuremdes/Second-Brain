@@ -9,3 +9,8 @@
 
 # [[men]]
 1. for men, every rule comes back to the same mandate: “Don’t be weak.”^[Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead, p. 60]
+
+# analogs
+1. shame (drowning analogy)^[Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead, p. 64]
+	1. a desperate person will do anything to save themselves—to grab a breath—including drowning you in their effort to survive
+	2. **related**: [[pseudo-antipathy]]
