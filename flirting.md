@@ -12,6 +12,7 @@
 2. https://old.reddit.com/r/seduction/comments/hfue6s/cold_approach_from_a_girls_perspective/fw2ul41/
 	...when you greet me with a neutral opening, you give me an opportunity to show you my personality and therefore you get to know this tiniest detail about me, so if you then proceed to lead the conversation towards getting my number, I at least know that there's a possibility that you're doing this because you find me an interesting human being and not just a physically attractive sex partner (or something along the lines). And **you're showing some of your personality** as well and while I might not have been into you at first glance, people can often change their mind based on a person's energy
 1. I’ve even dated guys who approached me this way in the past, because **it feels like they want to get know me**^[https://old.reddit.com/r/seduction/comments/hfue6s/cold_approach_from_a_girls_perspective/fw0as7c/]
+2. he just enjoyed talking to me as a **human being** and not his possible sex partner^[https://www.reddit.com/r/AskReddit/comments/n403ro/ladies_what_are_some_things_which_men_dont_know/gwuihxl?utm_source=share&utm_medium=web2x&context=3]
 
 # related
 1. [[dating (persuasion)]]

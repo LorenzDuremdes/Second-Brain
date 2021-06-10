@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ben Franklin effect.md",
+                "file": "association (psychology).md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ben Franklin effect.md",
+                "file": "association (psychology).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.02736563349890155,
+                  "scale": 0.03915189480232437,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ben Franklin effect.md",
+                "file": "association (psychology).md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "racism",
+                "query": "time",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ben Franklin effect.md"
+                "file": "association (psychology).md"
               }
             }
           }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ben Franklin effect.md",
+                "file": "association (psychology).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,17 +189,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "53c49127f8993748",
+  "active": "3c6c6d742014beb2",
   "lastOpenFiles": [
+    "association (psychology).md",
+    "watch (clock).md",
+    "Untitled.md",
+    "flirting.md",
+    "horn effect.md",
+    "contrast effect.md",
+    "halo effect.md",
     "Ben Franklin effect.md",
     "cognitive dissonance.md",
-    "jigsaw (teaching technique).md",
-    "2021-06-02.md",
-    "Untitled.md",
-    "racism.md",
-    "autosomal dominant compelling helio-ophthalmic outburst syndrome.md",
-    "syndrome.md",
-    "narcissism.md",
-    "flirting.md"
+    "jigsaw (teaching technique).md"
   ]
 }
