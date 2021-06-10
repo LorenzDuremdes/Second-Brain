@@ -1,0 +1,2 @@
+1. autosomal dominant compelling helio-ophthalmic outburst [[syndrome]]; a reflex condition that causes sneezing in response to numerous stimuli, such as looking at bright lights or periocular (surrounding the eyeball) injection
+	1. the condition affects 18–35% of the world's population,^[https://en.wikipedia.org/wiki/Photic_sneeze_reflex#cite_note-2] but its exact mechanism of action is not well understood.^[https://en.wikipedia.org/wiki/Photic_sneeze_reflex#cite_note-Breitenbach_RA_1993-3]
