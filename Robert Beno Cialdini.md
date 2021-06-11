@@ -1,4 +1,4 @@
-1. how did Robert Cialdini try to gain information on what tactics [[persuasion|influence]] professionals use?^[Influence, New and Expanded: The Psychology of Persuasion, p. 9]
+1. how did Robert Cialdini try to gain information on what tactics [[persuasion|influence]] professionals use?^[Influence, New and Expanded: The Psychology of [[persuasion]], p. 9]
 	1. he enrolled, incognito, in their training programs (he revealed his identity at the end with a request for permission to use the information (for his book))
 		1. what does Robert Cialdini reason why they said "Yes"?
 			1. he (unconsciously) used "[[altercasting]]"

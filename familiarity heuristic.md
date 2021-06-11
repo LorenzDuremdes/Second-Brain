@@ -1,3 +1,3 @@
 1. familiarity heuristic; when these situations appear similar to previous situations, especially if the individuals are experiencing a high [[cognitive load]], they may regress to the state of mind in which they have felt or behaved before^[https://en.wikipedia.org/wiki/Familiarity_heuristic]
-2. how could "familiarity" be used against "[[discrimination]]"?^[Influence, New and Expanded: The Psychology of Persuasion, p. 9]
+2. how could "familiarity" be used against "[[discrimination]]"?^[Influence, New and Expanded: The Psychology of [[persuasion]], p. 9]
 	1. they argue that simply by providing individuals of different ethnic backgrounds with more exposure to one another as equals, those individuals will naturally come to [[liking (persuasion)|like]] each other better

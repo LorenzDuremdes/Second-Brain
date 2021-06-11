@@ -2,7 +2,7 @@
 	1. cognition example: a person will appear more or less attractive than that person does in isolation when immediately preceded by, or simultaneously compared to, respectively, a less or more attractive person
 
 # examples
-1. good cop, bad cop^[Influence, New and Expanded: The Psychology of Persuasion, p. 9]
+1. good cop, bad cop^[Influence, New and Expanded: The Psychology of [[persuasion]], p. 9]
 
 # related
 1. [[pre-suasion]]

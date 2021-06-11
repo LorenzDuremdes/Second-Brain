@@ -63,5 +63,8 @@
 	1. recruit volunteers close to the targets' own homes
 	2. **related**: [[construal level theory]]
 
+# physiology
+1. odors that escape conscious awareness can still be influential^[Influence, New and Expanded: The Psychology of Persuasion, p. 9]
+
 # related
 1. [[psychology]]
