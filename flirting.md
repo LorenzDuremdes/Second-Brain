@@ -1,3 +1,10 @@
+# strategies
+## [[liking (persuasion)]]
+1. hoe kan rondlopen met een racefiets voordelig werken (meisjes benaderen)?
+	1. status
+	2. je ziet er uit alsof je niet meisjes benaderd alleen om een afspraak te regelen
+	3. ook als symbool voor het gevoel van veiligheid ([[association (psychology)]])
+
 # girls' perspective
 1. [Cold approach from a girl's perspective](https://old.reddit.com/r/seduction/comments/hfue6s/cold_approach_from_a_girls_perspective/fw0afnm/)
 	
