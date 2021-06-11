@@ -21,7 +21,7 @@
 	1. higher intelligence decreases local [[entropy]] more quickly/efficiently
 2. intelligence formula → [[exploration-exploitation trade-off]]
 	1. usually, the fewer the (future) options, the more one should (or is) exploit
-	2. the more options you can eliminate (not necessarily future ones), the faster one can go from exploration to exploitation e.g. dating
+	2. the more options you can eliminate (not necessarily future ones), the faster one can go from exploration to exploitation e.g. [[dating]]
 
 # related
 1. [[collective intelligence]]
