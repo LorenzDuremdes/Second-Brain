@@ -1,5 +1,5 @@
 1. [[homeostasis]] → [[brain]] + example^[Dr. K (01/25/2021]]
-	1. the [[brain]] tries to maintain [[homeostasis]] e.g. reducing [[feeling|anger]] or happiness
+	1. the [[brain]] tries to maintain [[homeostasis]] e.g. reducing [[feeling|anger]] or [[happiness]]
 		1. exceptions include [[depression]], mania, etc.
 	2. **related**: [[regression toward the mean]]
 2. in contrast to emotions or feelings, moods are less specific, less intense and less likely to be provoked or instantiated by a particular stimulus or event

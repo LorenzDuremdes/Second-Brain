@@ -9,4 +9,4 @@
 # [[neurophysiology]]
 1. [[shame]] resilience → right frontal [[cortex]]
 	1. those with more [[shame]] resilience show less activity in the right frontal [[cortex]]?
-		1. from the book "The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom"
+		1. from the book "The [[happiness]] Hypothesis: Finding Modern Truth in Ancient Wisdom"

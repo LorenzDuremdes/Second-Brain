@@ -1,5 +1,5 @@
 1. cognitive behavioral therapy → feedback loop
-	1. it breaks a negative feedback loop in terms of thinking by intervening (i.e. the cognitive part)^[The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 52]
+	1. it breaks a negative feedback loop in terms of thinking by intervening (i.e. the cognitive part)^[The [[happiness]] Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 52]
 		1. and creates a positive feedback loop?
 # [**How does Aaron Beck's original conception of CBT compare with how the practice is taught by therapists today?**](https://www.quora.com/How-does-Aaron-Becks-original-conception-of-CBT-compare-with-how-the-practice-is-taught-by-therapists-today)
 

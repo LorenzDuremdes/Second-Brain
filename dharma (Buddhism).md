@@ -1,0 +1,1 @@
+1. dharma ([[Buddhism]]); "cosmic law and order"^[https://en.wikipedia.org/wiki/Dharma#cite_note-ODWR-Dharma-12]^[https://en.wikipedia.org/wiki/Dharma#cite_note-Concise-PED-15]

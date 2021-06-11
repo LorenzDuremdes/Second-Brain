@@ -1,0 +1,1 @@
+1. _Shrimad Bhagavad Gita_ ([[Hinduism]]); call for [[altruism|selfless action]]^[https://en.wikipedia.org/wiki/Bhagavad_Gita]

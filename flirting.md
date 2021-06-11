@@ -35,5 +35,9 @@
 1. wat kun je zeggen voordat je haar jouw nummer geeft?^[https://www.reddit.com/r/seduction/comments/3eug9v/i_approach_3_to_5_girls_every_day_here_is_my/]
 	1. lijkt het je leuk een keer af te spreken?
 
+# analogs
+1. how is approaching girls comparable to gaming?
+	1. you don't always win either, which can make you angry sometimes but that doesn't mean you should give up. In fact, you became very good in most games despite being angry/disappointed
+
 # related
 1. [[dating (persuasion)]]
