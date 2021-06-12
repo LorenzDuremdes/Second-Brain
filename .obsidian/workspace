@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dating.md",
+                "file": "spike-triggered average.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dating.md",
+                "file": "spike-triggered average.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.01912750073980379,
+                  "scale": 0.022878727565042736,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dating.md",
+                "file": "spike-triggered average.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flirting",
+                "query": "spike",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -127,8 +127,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dating.md"
+                "file": "spike-triggered average.md"
               }
             }
           }
@@ -173,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dating.md",
+                "file": "spike-triggered average.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +191,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "spike-triggered average.md",
+    "Untitled.md",
+    "affective forecasting.md",
+    "relativism.md",
     "dating.md",
     "flirting.md",
     "product optimalism.md",
     "post-goal attainment positive affect.md",
     "pre-goal attainment positive affect.md",
-    "shame resilience.md",
-    "Untitled.md",
-    "happiness.md",
-    "anxiety disorder.md",
-    "idealism.md"
+    "shame resilience.md"
   ]
 }
