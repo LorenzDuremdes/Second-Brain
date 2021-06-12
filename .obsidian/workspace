@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "fde7f0b53b1cdfe0",
+        "id": "fdf46d6ae52488c7",
         "type": "split",
         "children": [
           {
@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spike-triggered average.md",
+                "file": "happiness.md",
                 "mode": "source"
               }
             },
             "group": "3055fdeaa11edc3b"
           },
           {
-            "id": "53c49127f8993748",
+            "id": "ae2454d0304ebc3c",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "spike-triggered average.md",
+                "file": "happiness.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -33,7 +33,7 @@
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
-                  "showTags": true,
+                  "showTags": false,
                   "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.022878727565042736,
+                  "scale": 0.013369370183441488,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spike-triggered average.md",
+                "file": "happiness.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spike",
+                "query": "people’s average level",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -142,20 +142,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a9da7eb6da16c8ff",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "a7edfc8468363e71",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "spike-triggered average.md"
+                "file": "happiness.md"
+              }
+            }
+          },
+          {
+            "id": "718556910646278b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "happiness.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "44068566044d11c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -163,7 +178,7 @@
         "currentTab": 1
       },
       {
-        "id": "2150cd065be2aa3f",
+        "id": "a834b3f3361a68cb",
         "type": "tabs",
         "children": [
           {
@@ -172,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spike-triggered average.md",
+                "file": "happiness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,15 +206,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "spike-triggered average.md",
-    "Untitled.md",
+    "happiness.md",
     "affective forecasting.md",
-    "relativism.md",
-    "dating.md",
-    "flirting.md",
-    "product optimalism.md",
-    "post-goal attainment positive affect.md",
-    "pre-goal attainment positive affect.md",
-    "shame resilience.md"
+    "shame.md",
+    "shame resilience.md",
+    "physical attractiveness.md",
+    "men.md",
+    "steady state.md",
+    "homeostasis.md",
+    "human brain.md",
+    "product optimalism.md"
   ]
 }

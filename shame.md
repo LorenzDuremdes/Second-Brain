@@ -1,14 +1,14 @@
 1. basic responses to shame^[Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead, p. 63]
 	1. [[freeze-flight-fight response|freeze-flight-fight]]
-2. [[men]] and women tend to experience shame differently^[Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead, p. 55]
+2. [[men]] and [[women]] tend to experience shame differently^[Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead, p. 55]
 
 # [[women]]
-1. what shame do women experience most?^[Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead, p. 57]
+1. what shame do [[women]] experience most?^[Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead, p. 57]
 	1. physical appearance
-		1. the attainment of good physical appearance appear **effortless** (women, shame)
+		1. the attainment of good physical appearance appear **effortless** ([[women]], shame)
 
 # [[men]]
-1. for men, every rule comes back to the same mandate: “Don’t be weak.”^[Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead, p. 60]
+1. for [[men]], every rule comes back to the same mandate: “Don’t be weak.”^[Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead, p. 60]
 
 # analogs
 1. shame (drowning analogy)^[Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead, p. 64]
