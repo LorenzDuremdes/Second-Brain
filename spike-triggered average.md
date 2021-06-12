@@ -2,3 +2,5 @@
 2. Diagram showing how the STA is calculated. A stimulus (consisting here of a checkerboard with random pixels) is presented, and spikes from the [[neuron]] are recorded. The stimuli in some time window preceding each spike (here consisting of 3 time bins) are selected (color boxes) and then averaged (here just summed for clarity) to obtain the STA. The STA indicates that this neuron is selective for a bright spot of light just before the spike, located in the top left corner of the checkerboard.
 
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Illustration_diagram_for_the_Spike-triggered_average.pdf/page1-1704px-Illustration_diagram_for_the_Spike-triggered_average.pdf.jpg" width="500" />
+	
+	test
