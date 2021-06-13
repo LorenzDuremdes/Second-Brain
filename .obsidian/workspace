@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "time trial bike.md",
+                "file": "RIR-based training (road cycling).md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "time trial bike.md",
+                "file": "RIR-based training (road cycling).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.015991330090848275,
+                  "scale": 0.015991330090848133,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "time trial bike.md",
+                "file": "RIR-based training (road cycling).md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "time trial",
+                "query": "periodi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "time trial bike.md"
+                "file": "RIR-based training (road cycling).md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "time trial bike.md",
+                "file": "RIR-based training (road cycling).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "time trial bike.md",
+                "file": "RIR-based training (road cycling).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,15 +206,15 @@
   },
   "active": "ae2454d0304ebc3c",
   "lastOpenFiles": [
-    "time trial bike.md",
+    "RIR-based training (road cycling).md",
     "Untitled.md",
+    "time trial bike.md",
     "mobility and flexibility.md",
     "bike fit.md",
     "Moravec's paradox.md",
     "robot.md",
     "health.md",
     "warming-up.md",
-    "happiness.md",
-    "affective forecasting.md"
+    "happiness.md"
   ]
 }
