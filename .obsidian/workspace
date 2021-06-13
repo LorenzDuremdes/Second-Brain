@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "happiness.md",
+                "file": "robot.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "happiness.md",
+                "file": "robot.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.013369370183441488,
+                  "scale": 0.01912750073980346,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "happiness.md",
+                "file": "robot.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "people’s average level",
+                "query": "future",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "happiness.md"
+                "file": "robot.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "happiness.md",
+                "file": "robot.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "happiness.md",
+                "file": "robot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,15 +206,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "robot.md",
+    "health.md",
+    "Untitled.md",
+    "warming-up.md",
     "happiness.md",
     "affective forecasting.md",
     "shame.md",
     "shame resilience.md",
     "physical attractiveness.md",
-    "men.md",
-    "steady state.md",
-    "homeostasis.md",
-    "human brain.md",
-    "product optimalism.md"
+    "men.md"
   ]
 }
