@@ -17,7 +17,7 @@
 	1. saddle selection (contact points)^[Cutting-Edge Cycling, p. 205]
 3. ankling → saddle height
 	1. ankling (dorsiflexion/plantar flexion) needs to be accounted for when determining optimal saddle height^[Cutting-Edge Cycling, p. 206]
-4. saddle fore/aft → patella
+4. saddle fore/aft → [[patella]]
 	1. can prevent injury to the kneecap^[Cutting-Edge Cycling, p. 210]
 	2. one of BikeFit's configurations
 
@@ -35,7 +35,10 @@
 	1. 30–37 degrees^[Cutting-Edge Cycling, p. 210]
 2. how many cyclists experienced [[knee pain|knee problems]] at least once?
 	1. 23^[https://pubmed.ncbi.nlm.nih.gov/20847225/]–33%^[https://www.ajol.info/index.php/sasma/article/view/114842]
-3. 
+
+# [[mobility and flexibility]]
+1. mobility vs. flexibility
+	1. effectiveness across a ROM vs. maximum ROM (respectively)^[https://youtu.be/JWJdZG-ZB7M?t=140]
 
 # related
 1. [[Q-angle]]

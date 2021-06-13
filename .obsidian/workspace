@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robot.md",
+                "file": "time trial bike.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "robot.md",
+                "file": "time trial bike.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.01912750073980346,
+                  "scale": 0.015991330090848275,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "robot.md",
+                "file": "time trial bike.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "future",
+                "query": "time trial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "robot.md"
+                "file": "time trial bike.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "robot.md",
+                "file": "time trial bike.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "robot.md",
+                "file": "time trial bike.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,17 +204,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "c16c701ef436c416",
+  "active": "ae2454d0304ebc3c",
   "lastOpenFiles": [
+    "time trial bike.md",
+    "Untitled.md",
+    "mobility and flexibility.md",
+    "bike fit.md",
+    "Moravec's paradox.md",
     "robot.md",
     "health.md",
-    "Untitled.md",
     "warming-up.md",
     "happiness.md",
-    "affective forecasting.md",
-    "shame.md",
-    "shame resilience.md",
-    "physical attractiveness.md",
-    "men.md"
+    "affective forecasting.md"
   ]
 }
