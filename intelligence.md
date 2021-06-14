@@ -1,13 +1,14 @@
+1. intelligence → gravity
+	1. intelligence is like gravity: it emanates from its point(s) of influence and (usually) becomes weaker farther away from them
+		1. analogous to extended mind thesis
+			1. interference1=[[gravitational potential energy]] → why (not)?
+# information
 1. heavy weighing factors causing external [[information]] (not stored in one's long-term [[human memory]]) to not contribute much to one's intelligence
 	1. high latency
 	2. less quantity of [[information]] (e.g. [[brain]] makes from "A" and "B" → "AB")
 3. do you have to know beforehand why you want to ask something? + why
 	1. not necessarily → sometimes just increasing the quantity/accuracy of manipulable [[information]] is enough → increase future freedom of action
 		1. e.g. you don't know (everything) either what you can do with the knowledge you acquire (in [[spaced repetition|SRS]])
-4. intelligence → gravity
-	1. intelligence is like gravity: it emanates from its point(s) of influence and (usually) becomes weaker farther away from them
-		1. analogous to extended mind thesis
-			1. interference1=[[gravitational potential energy]] → why (not)?
 
 # high intelligence
 1. high intelligence → "simple" questions are complicated
@@ -22,6 +23,10 @@
 2. intelligence formula → [[exploration-exploitation trade-off]]
 	1. usually, the fewer the (future) options, the more one should (or is) exploit
 	2. the more options you can eliminate (not necessarily future ones), the faster one can go from exploration to exploitation e.g. [[dating]]
+
+## process
+1. maximizing intelligence → converging criticalities
+	1. you can try to make use of both product and process optimalism → sometimes, this requires many **more** converging criticalities to end up with a situation with enough/most options
 
 # related
 1. [[collective intelligence]]
