@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "50a8d41127940ab9",
+        "id": "8dd62e6b111a9cc6",
         "type": "split",
         "children": [
           {
-            "id": "c16c701ef436c416",
+            "id": "2fc1bf1ff8e3c858",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "looking-glass self.md",
+                "file": "test.md",
                 "mode": "source"
               }
             },
-            "group": "3055fdeaa11edc3b"
+            "group": "73a744472047fcec"
           },
           {
-            "id": "917ad13a522064ff",
+            "id": "88555f819dbd09ee",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "looking-glass self.md",
+                "file": "test.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -33,7 +33,7 @@
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
-                  "showTags": false,
+                  "showTags": true,
                   "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
@@ -48,34 +48,33 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.023267706248715075,
+                  "scale": 0.023267706248713105,
                   "close": false
                 }
               }
-            },
-            "group": "3055fdeaa11edc3b"
+            }
           }
         ],
         "direction": "horizontal"
       },
       {
-        "id": "bed1aaf8209fd228",
+        "id": "c966c96f51b251e8",
         "type": "split",
         "children": [
           {
-            "id": "3c6c6d742014beb2",
+            "id": "31616da85d4e9b87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "looking-glass self.md",
+                "file": "test.md",
                 "mode": "preview"
               }
             },
-            "group": "3055fdeaa11edc3b"
+            "group": "73a744472047fcec"
           },
           {
-            "id": "173c3f0c2f2b6698",
+            "id": "461e261dbff23c6f",
             "type": "leaf",
             "state": {
               "type": "mindmap",
@@ -110,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bucket sort",
+                "query": "people are more likely to identify sep",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -131,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298
   },
   "right": {
     "id": "ced66b4a15c4f05a",
@@ -142,35 +141,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "a9da7eb6da16c8ff",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "a7edfc8468363e71",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "looking-glass self.md"
-              }
-            }
-          },
-          {
-            "id": "718556910646278b",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "looking-glass self.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "44068566044d11c9",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "file": "test.md"
               }
             }
           }
@@ -178,7 +162,7 @@
         "currentTab": 1
       },
       {
-        "id": "a834b3f3361a68cb",
+        "id": "2150cd065be2aa3f",
         "type": "tabs",
         "children": [
           {
@@ -187,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "looking-glass self.md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,17 +188,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "c16c701ef436c416",
+  "active": "2fc1bf1ff8e3c858",
   "lastOpenFiles": [
     "Untitled.md",
-    "bucket sort.md",
-    "heuristic.md",
-    "intelligence.md",
-    "road cycling.md",
-    "cycling power meter.md",
-    "RIR-based training (road cycling).md",
-    "time trial bike.md",
-    "mobility and flexibility.md",
-    "bike fit.md"
+    "racism.md",
+    "currency.md",
+    "school.md",
+    "social mirroring.md",
+    "psychoeducation.md",
+    "education.md",
+    "familiarity heuristic.md",
+    "cognitive load.md",
+    "intrinsic cognitive load.md"
   ]
 }
