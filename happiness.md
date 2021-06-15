@@ -1,3 +1,18 @@
+# formula
+1. happiness formula:^[The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 103]
+	1. H=S+C+V
+		1. H=happiness
+		2. S=biological set point
+		3. C=life conditions
+		4. V=voluntary activities
+
+## related
+1. [[biopsychosocial model]]
+	1. S=biological
+	2. C=sociological
+	3. V=psychological
+
+# [[behavioral neuroscience|biopsychology]]
 1. reinforcement works best when it comes seconds after the behavior, not minutes or hours (primitive [[brain]] regions)
 	1. the elephant works the same way: It feels pleasure whenever it takes a step in the right direction. The elephant learns whenever pleasure (or pain) follows immediately after behavior, but it has trouble connecting success on Friday with actions it took on Monday^[The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 95]
 2. people’s average level of [[happiness]] is highly heritable^[The [[happiness]] Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 98]

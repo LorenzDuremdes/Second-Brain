@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "behavioral neuroscience.md",
+                "file": "happiness.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "behavioral neuroscience.md",
+                "file": "happiness.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.024299702705446062,
+                  "scale": 0.017332381688814843,
                   "close": false
                 }
               }
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "behavioral neuroscience.md",
+                "file": "happiness.md",
                 "mode": "preview"
               }
             },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "behavioral neuroscience.md"
+                "file": "happiness.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "behavioral neuroscience.md",
+                "file": "happiness.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "behavioral neuroscience.md",
+                "file": "happiness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,8 +192,9 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "88555f819dbd09ee",
+  "active": "2fc1bf1ff8e3c858",
   "lastOpenFiles": [
+    "happiness.md",
     "behavioral neuroscience.md",
     "positive psychology.md",
     "Untitled.md",
@@ -202,7 +203,6 @@
     "currency.md",
     "school.md",
     "social mirroring.md",
-    "psychoeducation.md",
-    "education.md"
+    "psychoeducation.md"
   ]
 }
