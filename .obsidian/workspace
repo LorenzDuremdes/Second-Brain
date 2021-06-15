@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "behavioral neuroscience.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "test.md",
+                "file": "behavioral neuroscience.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.023267706248713105,
+                  "scale": 0.024299702705446062,
                   "close": false
                 }
               }
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "behavioral neuroscience.md",
                 "mode": "preview"
               }
             },
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "people are more likely to identify sep",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -141,20 +141,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a9da7eb6da16c8ff",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "a7edfc8468363e71",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "behavioral neuroscience.md"
+              }
+            }
+          },
+          {
+            "id": "0bf91b171aa6158d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "behavioral neuroscience.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -171,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "behavioral neuroscience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,17 +192,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "2fc1bf1ff8e3c858",
+  "active": "88555f819dbd09ee",
   "lastOpenFiles": [
+    "behavioral neuroscience.md",
+    "positive psychology.md",
     "Untitled.md",
+    "heritability.md",
     "racism.md",
     "currency.md",
     "school.md",
     "social mirroring.md",
     "psychoeducation.md",
-    "education.md",
-    "familiarity heuristic.md",
-    "cognitive load.md",
-    "intrinsic cognitive load.md"
+    "education.md"
   ]
 }
