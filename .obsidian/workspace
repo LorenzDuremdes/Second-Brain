@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "8dd62e6b111a9cc6",
+        "id": "50a8d41127940ab9",
         "type": "split",
         "children": [
           {
-            "id": "2fc1bf1ff8e3c858",
+            "id": "c16c701ef436c416",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "state of matter.md",
+                "file": "SDNN (HRV).md",
                 "mode": "source"
               }
             },
-            "group": "73a744472047fcec"
+            "group": "3055fdeaa11edc3b"
           },
           {
-            "id": "88555f819dbd09ee",
+            "id": "917ad13a522064ff",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "state of matter.md",
+                "file": "SDNN (HRV).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -33,7 +33,7 @@
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
-                  "showTags": true,
+                  "showTags": false,
                   "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
@@ -48,33 +48,34 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.018131090078997714,
+                  "scale": 0.01945270195733497,
                   "close": false
                 }
               }
-            }
+            },
+            "group": "3055fdeaa11edc3b"
           }
         ],
         "direction": "horizontal"
       },
       {
-        "id": "c966c96f51b251e8",
+        "id": "bed1aaf8209fd228",
         "type": "split",
         "children": [
           {
-            "id": "31616da85d4e9b87",
+            "id": "3c6c6d742014beb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "state of matter.md",
+                "file": "SDNN (HRV).md",
                 "mode": "preview"
               }
             },
-            "group": "73a744472047fcec"
+            "group": "3055fdeaa11edc3b"
           },
           {
-            "id": "461e261dbff23c6f",
+            "id": "173c3f0c2f2b6698",
             "type": "leaf",
             "state": {
               "type": "mindmap",
@@ -109,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "theory x and y",
+                "query": "sdnn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -126,11 +127,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 298
+    "width": 300
   },
   "right": {
     "id": "ced66b4a15c4f05a",
@@ -146,19 +148,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "state of matter.md"
+                "file": "SDNN (HRV).md"
               }
             }
           },
           {
-            "id": "0bf91b171aa6158d",
+            "id": "718556910646278b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "state of matter.md",
+                "file": "SDNN (HRV).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "44068566044d11c9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -166,7 +179,7 @@
         "currentTab": 1
       },
       {
-        "id": "2150cd065be2aa3f",
+        "id": "a834b3f3361a68cb",
         "type": "tabs",
         "children": [
           {
@@ -175,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "state of matter.md",
+                "file": "SDNN (HRV).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,17 +205,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "2fc1bf1ff8e3c858",
+  "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "state of matter.md",
+    "SDNN (HRV).md",
+    "looking-glass self.md",
     "Untitled.md",
-    "happiness.md",
-    "noise (spectral phenomenon).md",
-    "noise (unwanted spectral phenomenon).md",
-    "noise.md",
-    "apatheia.md",
-    "philosophy.md",
-    "behavioral neuroscience.md",
-    "positive psychology.md"
+    "bucket sort.md",
+    "heuristic.md",
+    "intelligence.md",
+    "road cycling.md",
+    "cycling power meter.md",
+    "RIR-based training (road cycling).md",
+    "time trial bike.md"
   ]
 }
