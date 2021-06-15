@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "fdf46d6ae52488c7",
+        "id": "50a8d41127940ab9",
         "type": "split",
         "children": [
           {
@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intelligence.md",
+                "file": "looking-glass self.md",
                 "mode": "source"
               }
             },
             "group": "3055fdeaa11edc3b"
           },
           {
-            "id": "ae2454d0304ebc3c",
+            "id": "917ad13a522064ff",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "intelligence.md",
+                "file": "looking-glass self.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.013369370183440761,
+                  "scale": 0.023267706248715075,
                   "close": false
                 }
               }
@@ -68,8 +68,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intelligence.md",
-                "mode": "source"
+                "file": "looking-glass self.md",
+                "mode": "preview"
               }
             },
             "group": "3055fdeaa11edc3b"
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intelligence",
+                "query": "bucket sort",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -127,8 +127,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intelligence.md"
+                "file": "looking-glass self.md"
               }
             }
           },
@@ -158,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intelligence.md",
+                "file": "looking-glass self.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -188,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intelligence.md",
+                "file": "looking-glass self.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,15 +206,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "intelligence.md",
     "Untitled.md",
+    "bucket sort.md",
+    "heuristic.md",
+    "intelligence.md",
     "road cycling.md",
     "cycling power meter.md",
     "RIR-based training (road cycling).md",
     "time trial bike.md",
     "mobility and flexibility.md",
-    "bike fit.md",
-    "Moravec's paradox.md",
-    "robot.md"
+    "bike fit.md"
   ]
 }

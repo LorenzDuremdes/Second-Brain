@@ -1,1 +1,1 @@
-1. "heuristic" is related to "bucket sort"
+1. "heuristic" is related to "[[bucket sort]]"
