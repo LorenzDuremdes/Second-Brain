@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "happiness.md",
+                "file": "Theory X and Theory Y.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "happiness.md",
+                "file": "Theory X and Theory Y.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.017332381688814843,
+                  "scale": 0.018131090078997714,
                   "close": false
                 }
               }
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "happiness.md",
+                "file": "Theory X and Theory Y.md",
                 "mode": "preview"
               }
             },
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "theory x and y",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "happiness.md"
+                "file": "Theory X and Theory Y.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "happiness.md",
+                "file": "Theory X and Theory Y.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "happiness.md",
+                "file": "Theory X and Theory Y.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,15 +194,15 @@
   },
   "active": "2fc1bf1ff8e3c858",
   "lastOpenFiles": [
+    "Untitled.md",
     "happiness.md",
+    "noise (spectral phenomenon).md",
+    "noise (unwanted spectral phenomenon).md",
+    "noise.md",
+    "apatheia.md",
+    "philosophy.md",
     "behavioral neuroscience.md",
     "positive psychology.md",
-    "Untitled.md",
-    "heritability.md",
-    "racism.md",
-    "currency.md",
-    "school.md",
-    "social mirroring.md",
-    "psychoeducation.md"
+    "heritability.md"
   ]
 }

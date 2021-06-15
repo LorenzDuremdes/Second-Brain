@@ -1,5 +1,5 @@
 1. phase response curve; illustrates the transient change (phase response) in the cycle period of an oscillation induced by a perturbation as a function of the phase at which it is received
-2. PRCs are used in various fields; examples of biological oscillations are the heartbeat, circadian rhythms, and the regular, repetitive firing observed in some neurons in the absence of [[noise]].
+2. PRCs are used in various fields; examples of biological oscillations are the heartbeat, circadian rhythms, and the regular, repetitive firing observed in some neurons in the absence of [[noise (spectral phenomenon)]].
 3. Phase response curves for light and for melatonin administration (picture)
 	1. By User:Hordaland - User:Hordaland from the English Wikipedia drew this, roughly following the data and form of the graph from this source: http://www.lrc.rpi.edu/programs/Futures/LF-Photobiology/, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3224719
 	2. nidd1607596017607
