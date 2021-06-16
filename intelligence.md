@@ -26,7 +26,7 @@
 
 ## process
 1. maximizing intelligence → converging criticalities
-	1. you can try to make use of both product and process optimalism → sometimes, this requires many **more** converging criticalities to end up with a situation with enough/most options
+	1. you can try to make use of both product and [[process optimalism]] → sometimes, this requires many **more** converging criticalities to end up with a situation with enough/most options
 
 # related
 1. [[collective intelligence]]
