@@ -2,7 +2,7 @@
 	1. intelligence is like gravity: it emanates from its point(s) of influence and (usually) becomes weaker farther away from them
 		1. analogous to extended mind thesis
 			1. interference1=[[gravitational potential energy]] → why (not)?
-# information
+# [[information]]
 1. heavy weighing factors causing external [[information]] (not stored in one's long-term [[human memory]]) to not contribute much to one's intelligence
 	1. high latency
 	2. less quantity of [[information]] (e.g. [[brain]] makes from "A" and "B" → "AB")
