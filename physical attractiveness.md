@@ -1,6 +1,6 @@
 1. does (mutual) attraction have to be in an instant?^[https://www.reddit.com/r/datingoverthirty/comments/j8je75/is_mutual_attraction_something_you_instantly_know/]
-	1. no, most people prefer to decide/develop it after a few dates/time
-	2. Proximity plays a role in who you're attracted to. The more you spend time with someone, the more likely you are to develop attraction.^[https://www.reddit.com/r/datingoverthirty/comments/ixz8bc/no_physical_attraction_dealbreaker/g69pgo3?utm_source=share&utm_medium=web2x&context=3]
+	1. no, most people prefer to decide/develop it after a few dates/[[time]]
+	2. Proximity plays a role in who you're attracted to. The more you spend [[time]] with someone, the more likely you are to develop attraction.^[https://www.reddit.com/r/datingoverthirty/comments/ixz8bc/no_physical_attraction_dealbreaker/g69pgo3?utm_source=share&utm_medium=web2x&context=3]
 
 # face
 2. the left side of the face is typically found to be more attractive^[https://blogs.unimelb.edu.au/sciencecommunication/2020/09/25/whats-your-best-side]

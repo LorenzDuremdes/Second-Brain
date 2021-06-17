@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physical attractiveness.md",
+                "file": "video coding format.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "physical attractiveness.md",
+                "file": "video coding format.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physical attractiveness.md",
+                "file": "video coding format.md",
                 "mode": "preview"
               }
             },
@@ -127,8 +127,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "physical attractiveness.md"
+                "file": "video coding format.md"
               }
             }
           },
@@ -158,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "physical attractiveness.md",
+                "file": "video coding format.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -185,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "physical attractiveness.md",
+                "file": "video coding format.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,9 +203,9 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "Untitled.md",
     "physical attractiveness.md",
     "proxemics.md",
-    "Untitled.md",
     "intelligence.md",
     "process optimalism.md",
     "agency thinking.md",
