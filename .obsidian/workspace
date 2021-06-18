@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "transhumanism.md",
+                "file": "minimum effective dose (road cycling).md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "transhumanism.md",
+                "file": "minimum effective dose (road cycling).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "transhumanism.md",
+                "file": "minimum effective dose (road cycling).md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transhuma",
+                "query": "muscle fiber",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "transhumanism.md"
+                "file": "minimum effective dose (road cycling).md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "transhumanism.md",
+                "file": "minimum effective dose (road cycling).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "transhumanism.md",
+                "file": "minimum effective dose (road cycling).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,15 +203,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "minimum effective dose (road cycling).md",
+    "minimum effective volume (MEV).md",
     "Untitled.md",
+    "skeletal muscle fiber types.md",
+    "fast-twitch muscle fibers type II.md",
+    "skeletal muscle.md",
+    "slow-twitch muscle fibers type I.md",
+    "anaerobic energy systems.md",
     "psychotherapy.md",
-    "Z3 (tempo).md",
-    "video coding format.md",
-    "physical attractiveness.md",
-    "proxemics.md",
-    "intelligence.md",
-    "process optimalism.md",
-    "agency thinking.md",
-    "task failure-based training (road cycling).md"
+    "Z3 (tempo).md"
   ]
 }
