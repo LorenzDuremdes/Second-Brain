@@ -1,0 +1,1 @@
+1. domestique; a rider who works for the [[pacing strategies|benefit of their team and leader]], rather than trying to win the race^[https://en.wikipedia.org/wiki/Domestique]
