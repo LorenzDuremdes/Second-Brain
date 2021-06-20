@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "block training.md",
+                "file": "synaptogenesis.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "block training.md",
+                "file": "synaptogenesis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.01599133009084872,
+                  "scale": 0.01599133009084898,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "block training.md",
+                "file": "synaptogenesis.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "block training",
+                "query": "synaptogenesis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "block training.md"
+                "file": "synaptogenesis.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "block training.md",
+                "file": "synaptogenesis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "block training.md",
+                "file": "synaptogenesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,17 +201,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "917ad13a522064ff",
+  "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "synaptogenesis.md",
+    "Untitled.md",
+    "intelligence.md",
+    "happiness.md",
+    "pleasure.md",
+    "gratification.md",
     "block training.md",
     "adj 20210620180925.png",
     "degrees of freedom.md",
-    "Untitled.md",
-    "domestique.md",
-    "minimum effective dose (road cycling).md",
-    "minimum effective volume (MEV).md",
-    "skeletal muscle fiber types.md",
-    "fast-twitch muscle fibers type II.md",
-    "skeletal muscle.md"
+    "domestique.md"
   ]
 }

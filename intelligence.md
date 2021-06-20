@@ -28,5 +28,13 @@
 1. maximizing intelligence → converging criticalities
 	1. you can try to make use of both product and [[process optimalism]] → sometimes, this requires many **more** converging criticalities to end up with a situation with enough/most options
 
+## negative
+1. what does creating too many connections (e.g. [[Obsidian.md]]) do to the "intelligence formula" and its components?
+	1. it might raise the potential options, but decreases how many you can utilize (∇Sτ)
+		1. organization is important
+		2. how can you figure out whether this is likely to be the case or not?
+			1. [[adaptive replacement cache]] → including the nearby (inside-out) concepts you are indirectly connecting to
+				1. the most connected ones usually reside in the highest [[cache]] hierarchy and you also want these units to increase intelligence the most
+
 # related
 1. [[collective intelligence]]
