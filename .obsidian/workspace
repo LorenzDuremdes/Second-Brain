@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "synaptogenesis.md",
+                "file": "conspicuous consumption.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "synaptogenesis.md",
+                "file": "conspicuous consumption.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "synaptogenesis.md",
+                "file": "conspicuous consumption.md",
                 "mode": "preview"
               }
             },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "synaptogenesis.md"
+                "file": "conspicuous consumption.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "synaptogenesis.md",
+                "file": "conspicuous consumption.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "synaptogenesis.md",
+                "file": "conspicuous consumption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,8 +203,8 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "synaptogenesis.md",
     "Untitled.md",
+    "synaptogenesis.md",
     "intelligence.md",
     "happiness.md",
     "pleasure.md",
