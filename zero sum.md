@@ -1,0 +1,3 @@
+1. zero sum; a situation in which a participant's gain or loss is exactly balanced by the losses or gains of the other participants^[https://en.wikipedia.org/wiki/Zero_sum_(disambiguation)]
+2. "zero-sum game" is related to "relativism"
+	1. e.g. [[conspicuous consumption]] → each person’s move up devalues the possessions of other^[The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 111]

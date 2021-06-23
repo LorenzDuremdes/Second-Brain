@@ -1,0 +1,4 @@
+1. falsifiability; if it is contradicted by an observation that is logically possible—i.e., expressible in the language of the theory, which must have a conventional empirical interpretation.^[https://en.wikipedia.org/wiki/Falsifiability#cite_note-thematerialrequirement-1]
+2. the observation of a black swan falsifies the hypothesis "All swans are white", but even with no black swans to possibly falsify the hypothesis, it would still be falsifiable^[CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1243220]
+
+	<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Black_Swans.jpg" width="100" />

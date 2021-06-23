@@ -1,0 +1,1 @@
+1. scientific consensus; the collective judgment, position, and opinion of the [[community]] of scientists in a particular field of study^[https://en.wikipedia.org/wiki/Scientific_consensus]

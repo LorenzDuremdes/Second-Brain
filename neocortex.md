@@ -3,4 +3,4 @@
 		1. —The [[happiness]] Hypothesis: Finding Modern Truth in Ancient Wisdom, 26
 
 # Related
-1. extended mind thesis
+1. extended [[mind]] thesis

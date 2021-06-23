@@ -1,4 +1,4 @@
-1. apatheia; refers to a state of mind in which one is not disturbed by the passions
+1. apatheia; refers to a state of [[mind]] in which one is not disturbed by the passions
 	1. it is best translated by the word equanimity rather than indifference
 
 # related

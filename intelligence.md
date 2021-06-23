@@ -1,6 +1,6 @@
 1. intelligence → gravity
 	1. intelligence is like gravity: it emanates from its point(s) of influence and (usually) becomes weaker farther away from them
-		1. analogous to extended mind thesis
+		1. analogous to extended [[mind]] thesis
 			1. interference1=[[gravitational potential energy]] → why (not)?
 # [[information]]
 1. heavy weighing factors causing external [[information]] (not stored in one's long-term [[human memory]]) to not contribute much to one's intelligence
@@ -26,7 +26,7 @@
 
 ## process
 1. maximizing intelligence → converging criticalities
-	1. you can try to make use of both product and [[process optimalism]] → sometimes, this requires many **more** converging criticalities to end up with a situation with enough/most options
+	1. you can try to make use of both product and [[process optimalism]] → sometimes, this requires many **more** converging criticalities to end up with a situation with enough/most options (divergence)
 
 ## negative
 ### [[extended mind]]

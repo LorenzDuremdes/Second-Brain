@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sleep.md",
+                "file": "intelligence.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sleep.md",
+                "file": "intelligence.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.013369370183441597,
+                  "scale": 0.022878727565042598,
                   "close": false
                 }
               }
@@ -68,8 +68,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sleep.md",
-                "mode": "preview"
+                "file": "intelligence.md",
+                "mode": "source"
               }
             },
             "group": "3055fdeaa11edc3b"
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rem slee",
+                "query": "divergence",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sleep.md"
+                "file": "intelligence.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sleep.md",
+                "file": "intelligence.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +171,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a834b3f3361a68cb",
@@ -183,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sleep.md",
+                "file": "intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,17 +201,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "3c6c6d742014beb2",
+  "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "sleep.md",
-    "progressive overload.md",
-    "connectivity noise.md",
     "intelligence.md",
-    "extended mind.md",
-    "conspicuous consumption.md",
-    "synaptogenesis.md",
+    "equifinality.md",
     "Untitled.md",
-    "happiness.md",
-    "pleasure.md"
+    "underdetermination (philosophy of science).md",
+    "confidence interval.md",
+    "scientific consensus.md",
+    "zero sum.md",
+    "orbitofrontal cortex.md",
+    "product optimalism.md",
+    "mind.md"
   ]
 }

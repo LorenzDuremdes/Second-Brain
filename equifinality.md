@@ -1,0 +1,1 @@
+1. equifinality; the principle that in open [[dynamical system theory|systems]] a given end state can be reached by many potential means^[https://en.wikipedia.org/wiki/Equifinality]
