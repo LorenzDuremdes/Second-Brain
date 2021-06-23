@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conspicuous consumption.md",
+                "file": "connectivity noise.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "conspicuous consumption.md",
+                "file": "connectivity noise.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.01599133009084898,
+                  "scale": 0.013369370183441597,
                   "close": false
                 }
               }
@@ -68,8 +68,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conspicuous consumption.md",
-                "mode": "preview"
+                "file": "connectivity noise.md",
+                "mode": "source"
               }
             },
             "group": "3055fdeaa11edc3b"
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "synaptogenesis",
+                "query": "connect",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conspicuous consumption.md"
+                "file": "connectivity noise.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conspicuous consumption.md",
+                "file": "connectivity noise.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conspicuous consumption.md",
+                "file": "connectivity noise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,17 +201,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "c16c701ef436c416",
+  "active": "917ad13a522064ff",
   "lastOpenFiles": [
-    "Untitled.md",
-    "synaptogenesis.md",
+    "connectivity noise.md",
     "intelligence.md",
+    "extended mind.md",
+    "conspicuous consumption.md",
+    "synaptogenesis.md",
+    "Untitled.md",
     "happiness.md",
     "pleasure.md",
     "gratification.md",
-    "block training.md",
-    "adj 20210620180925.png",
-    "degrees of freedom.md",
-    "domestique.md"
+    "block training.md"
   ]
 }
