@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intelligence.md",
+                "file": "developmental psychology.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "intelligence.md",
+                "file": "developmental psychology.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.022878727565042598,
+                  "scale": 0.01336937018344144,
                   "close": false
                 }
               }
@@ -68,8 +68,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intelligence.md",
-                "mode": "source"
+                "file": "developmental psychology.md",
+                "mode": "preview"
               }
             },
             "group": "3055fdeaa11edc3b"
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "divergence",
+                "query": "developmental",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intelligence.md"
+                "file": "developmental psychology.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intelligence.md",
+                "file": "developmental psychology.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intelligence.md",
+                "file": "developmental psychology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,6 +203,8 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "developmental psychology.md",
+    "developmental biology.md",
     "intelligence.md",
     "equifinality.md",
     "Untitled.md",
@@ -210,8 +212,6 @@
     "confidence interval.md",
     "scientific consensus.md",
     "zero sum.md",
-    "orbitofrontal cortex.md",
-    "product optimalism.md",
-    "mind.md"
+    "orbitofrontal cortex.md"
   ]
 }
