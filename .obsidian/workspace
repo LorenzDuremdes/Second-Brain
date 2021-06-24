@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "developmental psychology.md",
+                "file": "crossover point (physiology).md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "developmental psychology.md",
+                "file": "crossover point (physiology).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "developmental psychology.md",
+                "file": "crossover point (physiology).md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "developmental",
+                "query": "crossover",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "developmental psychology.md"
+                "file": "crossover point (physiology).md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "developmental psychology.md",
+                "file": "crossover point (physiology).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "developmental psychology.md",
+                "file": "crossover point (physiology).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,15 +203,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "crossover point (physiology).md",
+    "learntropy.md",
+    "Untitled.md",
     "developmental psychology.md",
     "developmental biology.md",
     "intelligence.md",
     "equifinality.md",
-    "Untitled.md",
     "underdetermination (philosophy of science).md",
     "confidence interval.md",
-    "scientific consensus.md",
-    "zero sum.md",
-    "orbitofrontal cortex.md"
+    "scientific consensus.md"
   ]
 }
