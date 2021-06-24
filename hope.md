@@ -1,0 +1,3 @@
+1. imagination → hope^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 28]
+	1. without imagination there is no hope, no chance to envision a better future, no place to go, no [[goal]] to reach e.g. as is more the case in people having [[psychological trauma]] (e.g. Rorschach test)
+	2. too much imagination in conjunction with negative thinking can probably also lead to more despair ('negative hope')

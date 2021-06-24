@@ -2,6 +2,10 @@
 	1. [[freeze-flight-fight response|freeze-flight-fight]]
 2. [[men]] and [[women]] tend to experience shame differently^[Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead, p. 55]
 
+# [[psychological trauma]]
+1. [[psychological trauma]] → shame
+	1. people with [[psychological trauma]] usually experience a lot of shame around it (e.g. what they did (not) do)^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 24]
+
 # [[women]]
 1. what shame do [[women]] experience most?^[Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead, p. 57]
 	1. physical appearance

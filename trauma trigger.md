@@ -1,0 +1,1 @@
+1. [[psychological trauma|trauma]] trigger; a psychological stimulus that prompts recall of a previous traumatic experience^[https://en.wikipedia.org/wiki/Psychological_trauma]

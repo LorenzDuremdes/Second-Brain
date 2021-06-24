@@ -1,0 +1,1 @@
+1. involuntary musical imagery; a catchy and/or memorable piece of music or saying that continuously occupies a person's mind even after it is no longer being played or spoken about.^[https://en.wikipedia.org/wiki/Earworm#cite_note-8]^[https://en.wikipedia.org/wiki/Earworm#cite_note-9]
