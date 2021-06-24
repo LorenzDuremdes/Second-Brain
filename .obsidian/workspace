@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "hope.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "test.md",
+                "file": "hope.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,8 +68,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
-                "mode": "preview"
+                "file": "hope.md",
+                "mode": "source"
               }
             },
             "group": "3055fdeaa11edc3b"
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "hope.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "hope.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "hope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,10 +202,10 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "hope.md",
     "Untitled.md",
     "interpersonal relationship.md",
     "psychological trauma.md",
-    "hope.md",
     "trauma trigger.md",
     "shame.md",
     "psychosomatic.md",
