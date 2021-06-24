@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "crossover point (physiology).md",
+                "file": "developmental psychopathology.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "crossover point (physiology).md",
+                "file": "developmental psychopathology.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.01336937018344144,
+                  "scale": 0.011177310335441008,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "crossover point (physiology).md",
+                "file": "developmental psychopathology.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crossover",
+                "query": "happi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "crossover point (physiology).md"
+                "file": "developmental psychopathology.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "crossover point (physiology).md",
+                "file": "developmental psychopathology.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "crossover point (physiology).md",
+                "file": "developmental psychopathology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,15 +203,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "crossover point (physiology).md",
-    "learntropy.md",
+    "developmental psychopathology.md",
+    "happiness.md",
     "Untitled.md",
-    "developmental psychology.md",
-    "developmental biology.md",
-    "intelligence.md",
-    "equifinality.md",
-    "underdetermination (philosophy of science).md",
-    "confidence interval.md",
-    "scientific consensus.md"
+    "gene-centered view of evolution.md",
+    "eusociality.md",
+    "allocortex.md",
+    "inconspicuous consumption.md",
+    "target fixation.md",
+    "crossover point (physiology).md",
+    "learntropy.md"
   ]
 }
