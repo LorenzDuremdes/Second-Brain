@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tomography.md",
+                "file": "limbic system.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "tomography.md",
+                "file": "limbic system.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.02287872756504174,
+                  "scale": 0.013369370183440941,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tomography.md",
+                "file": "limbic system.md",
                 "mode": "preview"
               }
             },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tomography.md",
+                "file": "limbic system.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tomography.md"
+                "file": "limbic system.md"
               }
             }
           }
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tomography.md",
+                "file": "limbic system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,15 +194,15 @@
   },
   "active": "917ad13a522064ff",
   "lastOpenFiles": [
-    "tomography.md",
+    "limbic system.md",
+    "basal ganglia.md",
     "Untitled.md",
+    "tomography.md",
     "hyperreality.md",
     "dynamic functional connectivity.md",
     "fallibilism.md",
     "confidence interval.md",
     "underdetermination (philosophy of science).md",
-    "epoché.md",
-    "moral nihilism.md",
-    "moral skepticism.md"
+    "epoché.md"
   ]
 }
