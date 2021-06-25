@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sports science.md",
+                "file": "learned helplessness.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sports science.md",
+                "file": "learned helplessness.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sports science.md",
+                "file": "learned helplessness.md",
                 "mode": "preview"
               }
             },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sports science.md",
+                "file": "learned helplessness.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sports science.md"
+                "file": "learned helplessness.md"
               }
             }
           }
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sports science.md",
+                "file": "learned helplessness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,8 +194,8 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "sports science.md",
     "Untitled.md",
+    "sports science.md",
     "psychological trauma.md",
     "physiology.md",
     "hope.md",
