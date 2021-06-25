@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pharmacotherapy.md",
+                "file": "dynamic functional connectivity.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pharmacotherapy.md",
+                "file": "dynamic functional connectivity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.027365633498900924,
+                  "scale": 0.011177310335440546,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pharmacotherapy.md",
+                "file": "dynamic functional connectivity.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pharmaco",
+                "query": "neural res",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pharmacotherapy.md",
+                "file": "dynamic functional connectivity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pharmacotherapy.md"
+                "file": "dynamic functional connectivity.md"
               }
             }
           }
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pharmacotherapy.md",
+                "file": "dynamic functional connectivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,17 +192,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "c16c701ef436c416",
+  "active": "917ad13a522064ff",
   "lastOpenFiles": [
-    "pharmacotherapy.md",
-    "mental disorder.md",
-    "bulimia nervosa.md",
+    "dynamic functional connectivity.md",
     "Untitled.md",
-    "psychological trauma.md",
-    "serotonin.md",
-    "amygdala.md",
-    "amygdala-based anxiety.md",
-    "cortex-based anxiety.md",
-    "subjective vitality.md"
+    "fallibilism.md",
+    "confidence interval.md",
+    "underdetermination (philosophy of science).md",
+    "epoché.md",
+    "moral nihilism.md",
+    "moral skepticism.md",
+    "pharmacotherapy.md",
+    "mental disorder.md"
   ]
 }

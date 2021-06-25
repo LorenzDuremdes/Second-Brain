@@ -2,7 +2,7 @@
 	1. more specific like "[[psychotherapy]]" than just "therapy"
 
 # [[psychotherapy]]
-1. psychiatric medication may deflect attention from dealing with the underlying issues^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma]
+1. psychiatric [[medication]] may deflect attention from dealing with the underlying issues^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma]
 	1. e.g. saying "it's solved (long enough)" or due to less guidance via symptoms?
 
 # related
