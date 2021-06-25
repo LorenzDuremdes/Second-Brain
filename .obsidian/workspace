@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hope.md",
+                "file": "psychological trauma.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hope.md",
+                "file": "psychological trauma.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,8 +68,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hope.md",
-                "mode": "source"
+                "file": "psychological trauma.md",
+                "mode": "preview"
               }
             },
             "group": "3055fdeaa11edc3b"
@@ -120,14 +120,6 @@
             }
           },
           {
-            "id": "e3952c24477e87f1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "d7c6ec513be28550",
             "type": "leaf",
             "state": {
@@ -150,48 +142,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a7edfc8468363e71",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "718556910646278b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "44068566044d11c9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "28bc964002a73d6e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hope.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "psychological trauma.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "d7c5eb29d05dea86",
+            "id": "a4f61c2350cb39ff",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "hope.md"
+                "file": "psychological trauma.md"
               }
             }
           }
@@ -207,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hope.md",
+                "file": "psychological trauma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,17 +192,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "917ad13a522064ff",
+  "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "psychological trauma.md",
+    "physiology.md",
     "hope.md",
     "Untitled.md",
     "interpersonal relationship.md",
-    "psychological trauma.md",
     "trauma trigger.md",
     "shame.md",
     "psychosomatic.md",
     "developmental psychopathology.md",
-    "happiness.md",
-    "gene-centered view of evolution.md"
+    "happiness.md"
   ]
 }

@@ -3,7 +3,7 @@
 # dehydration
 1. hypohydration
 	1. a continued state of dehydration^[Cutting-Edge Cycling, p. 247]
-## physiology
+## [[physiology]]
 1. when does the thirst response activate?
 	2. an involuntary dehydration of 2 percent or more of body weight may occur before a strong drinking response occur^[Cutting-Edge Cycling, p. 243]
 2. resting [[heart]] rate and core temperatures progressively increase with increasing levels of dehydration (Sawka et al. 1985).^[Cutting-Edge Cycling, p. 244]
@@ -74,7 +74,7 @@
 		
 		Given such findings, even in cool temperatures in which dehydration or heat stress is not a major concern, it maybe worthwhile to try a small bottle of sports drink or a gel immediately before or during short and high-intensity events of 60 to 90 minutes, including time trials, cyclocross, and many mountain biking events.^[Cutting-Edge Cycling, p. 256]
 		1. **related**: [[central governor]]
-## physiology
+## [[physiology]]
 1. how long till fluid enters the bloodstream (when not physically exercising)?^[Cutting-Edge Cycling, p. 257]
 	1. 15 to 30 minutes
 	2. A direct relationship is observed between the amount of fluid ingested and the rate of [[gastric emptying]].

@@ -11,7 +11,7 @@
 	1. because you need to master cycling economy at high cadence (which is a lot easier with lower cadences)
 	2. It’s easy to master a skill if you do it slowly enough. In fact, that’s the way pedaling skills are typically introduced—at a slow cadence. When the demands of the workout or race require a high cadence, your skills must remain economical. If you become sloppy at high cadences, you’ll waste energy and your fitness will be poor.^[The Cyclist's Training Bible, p. 19]
 2. cornering, sprinting, and climbing skills are less complex than pedaling skills^[The Cyclist's Training Bible, p. 19]
-# physiology
+# [[physiology]]
 1. a cyclist with long thighbones relative to total leg length will likely be more economical than a rider with short thighbones^[The Cyclist's Training Bible, p. 19]
 	1. long thighbones provide better leverage in pedaling
 2. is the amount of mitochondria you have genetically determined? + why

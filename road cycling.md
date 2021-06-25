@@ -1,5 +1,5 @@
 # performance
-## physiology
+## [[physiology]]
 1. why isn't VO<sub>2</sub> max not everything when it comes to road cycling?
 	1. it also depends on e.g. pedaling efficiency^[The Cyclist's Training Bible, p. 19]
 	2. The two other physiological factors—[[anaerobic threshold|anaerobic threshold]] and [[cycling economy|economy]]—also play a major role in race outcomes. One of these three by itself does not constitute all it takes to race fast. And of course, this doesn’t include other critical race determiners such as strategy, tactics, pacing, nutrition, heat adaptation, and lots more.
