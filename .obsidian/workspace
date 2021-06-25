@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mental disorder.md",
+                "file": "pharmacotherapy.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "mental disorder.md",
+                "file": "pharmacotherapy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,8 +68,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mental disorder.md",
-                "mode": "source"
+                "file": "pharmacotherapy.md",
+                "mode": "preview"
               }
             },
             "group": "3055fdeaa11edc3b"
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sociology",
+                "query": "pharmaco",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mental disorder.md",
+                "file": "pharmacotherapy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mental disorder.md"
+                "file": "pharmacotherapy.md"
               }
             }
           }
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mental disorder.md",
+                "file": "pharmacotherapy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,8 +192,9 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "917ad13a522064ff",
+  "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "pharmacotherapy.md",
     "mental disorder.md",
     "bulimia nervosa.md",
     "Untitled.md",
@@ -202,7 +203,6 @@
     "amygdala.md",
     "amygdala-based anxiety.md",
     "cortex-based anxiety.md",
-    "subjective vitality.md",
-    "learned helplessness.md"
+    "subjective vitality.md"
   ]
 }
