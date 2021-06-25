@@ -1,0 +1,2 @@
+1. positron emission [[tomography]]; a functional imaging technique that uses radioactive substances known as radiotracers to visualize and measure changes in metabolic processes, and in other physiological activities including [[blood]] flow, regional chemical composition, and absorption^[https://en.wikipedia.org/wiki/Positron_emission_tomography]
+	1. one of the disadvantages of a PET scanner is its high initial cost and ongoing operating costs.^[https://en.wikipedia.org/wiki/Positron_emission_tomography#cite_note-Carlson_151-2]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dynamic functional connectivity.md",
+                "file": "tomography.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dynamic functional connectivity.md",
+                "file": "tomography.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.011177310335440546,
+                  "scale": 0.02287872756504174,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dynamic functional connectivity.md",
+                "file": "tomography.md",
                 "mode": "preview"
               }
             },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dynamic functional connectivity.md",
+                "file": "tomography.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dynamic functional connectivity.md"
+                "file": "tomography.md"
               }
             }
           }
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dynamic functional connectivity.md",
+                "file": "tomography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,15 +194,15 @@
   },
   "active": "917ad13a522064ff",
   "lastOpenFiles": [
-    "dynamic functional connectivity.md",
+    "tomography.md",
     "Untitled.md",
+    "hyperreality.md",
+    "dynamic functional connectivity.md",
     "fallibilism.md",
     "confidence interval.md",
     "underdetermination (philosophy of science).md",
     "epoché.md",
     "moral nihilism.md",
-    "moral skepticism.md",
-    "pharmacotherapy.md",
-    "mental disorder.md"
+    "moral skepticism.md"
   ]
 }
