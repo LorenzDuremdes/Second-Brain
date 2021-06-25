@@ -22,8 +22,15 @@
 1. psychologically traumatic experience → purpose
 	1. Somehow the very event that caused them so much pain had also become their sole source of meaning. They felt fully alive only when they were revisiting their traumatic past.^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 30]
 
+## [[learned helplessness]]
+1. ...he and Seligman had found that the only way to teach the traumatized dogs to get off the electric grids when the doors were open was to repeatedly drag them out of their cages so they could physically experience how they could get away^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 44]
+	1. **related**: [[amygdala-based anxiety]]
+	2. did my patients also need to have physical experiences to restore a visceral sense of control?^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 44]
+
 # [[physiology]]
 1. another characteristic they shared was that even their most relaxed conversations seemed stilted,lacking the natural flow of gestures and facial expressions that are typical among friends (psychological trauma)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 38]
+2. trauma → [[subjective vitality]]
+	1. traumatized people keep secreting large amounts of stress hormones long after the actual danger has passed^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma], which can reduce [[subjective vitality]]
 
 # related
 1. [[psychological stress]]
