@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.013369370183441292,
+                  "scale": 0.011177310335440754,
                   "close": false
                 }
               }
@@ -59,7 +59,7 @@
         "direction": "horizontal"
       },
       {
-        "id": "bed1aaf8209fd228",
+        "id": "282203081b389c61",
         "type": "split",
         "children": [
           {
@@ -75,7 +75,7 @@
             "group": "3055fdeaa11edc3b"
           },
           {
-            "id": "173c3f0c2f2b6698",
+            "id": "72ad7996c3092d82",
             "type": "leaf",
             "state": {
               "type": "mindmap",
@@ -123,6 +123,14 @@
             "id": "e3952c24477e87f1",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7c6ec513be28550",
+            "type": "leaf",
+            "state": {
               "type": "starred",
               "state": {}
             }
@@ -145,22 +153,16 @@
             "id": "a7edfc8468363e71",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "hope.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "718556910646278b",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "hope.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -169,6 +171,28 @@
             "state": {
               "type": "empty",
               "state": {}
+            }
+          },
+          {
+            "id": "28bc964002a73d6e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "hope.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7c5eb29d05dea86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "hope.md"
+              }
             }
           }
         ]
@@ -200,7 +224,7 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "c16c701ef436c416",
+  "active": "917ad13a522064ff",
   "lastOpenFiles": [
     "hope.md",
     "Untitled.md",
