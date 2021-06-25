@@ -17,6 +17,13 @@
 		1. this could make things like group [[psychotherapy]] effective
 	2. **related**
 		1. familiarity heuristic
+2. what could cause people to return to situations causing negative feelings?
+	1. At this point, just as with [[drug]] addiction, we start to crave the activity and experience withdrawal when it’s not available. **In the long run people become more preoccupied with the pain of withdrawal than the activity itself**.^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 46]
+	2. **related**: adaptation ([[happiness]])
+
+## [[psychological stress]]
+1. why do some people with psychological trauma seek stress?
+	1. We concluded that Beecher’s speculation that “strong emotions can block pain” was the result of the release of morphinelike substances manufactured in the [[brain]]. This suggested that for many traumatized people, reexposure to stress might provide a similar relief from anxiety.^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 46]
 
 ## [[hope]]
 1. psychologically traumatic experience → purpose
@@ -25,12 +32,21 @@
 ## [[learned helplessness]]
 1. ...he and Seligman had found that the only way to teach the traumatized dogs to get off the electric grids when the doors were open was to repeatedly drag them out of their cages so they could physically experience how they could get away^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 44]
 	1. **related**: [[amygdala-based anxiety]]
-	2. did my patients also need to have physical experiences to restore a visceral sense of control?^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 44]
+	2. did my patients also need to have physical experiences to restore a visceral sense of control?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 44]
 
 # [[physiology]]
 1. another characteristic they shared was that even their most relaxed conversations seemed stilted,lacking the natural flow of gestures and facial expressions that are typical among friends (psychological trauma)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 38]
 2. trauma → [[subjective vitality]]
 	1. traumatized people keep secreting large amounts of stress hormones long after the actual danger has passed^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma], which can reduce [[subjective vitality]]
+
+# [[neuroscience]]
+## [[amygdala]]
+1. [[serotonin]] → [[amygdala]]
+	1. animals with low [[serotonin]] levels were hyperreactive to stressful stimuli (like loud sounds), while higher levels of [[serotonin]] dampened their fear [[system]], making them less likely to become aggressive or frozen in response to potential threats^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 47]
+
+## [[serotonin]]
+1. dominant male monkeys → [[serotonin]]
+	1. dominant male monkeys had much higher levels of [[brain]] [[serotonin]] than lower-ranking animals^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 47]
 
 # related
 1. [[psychological stress]]

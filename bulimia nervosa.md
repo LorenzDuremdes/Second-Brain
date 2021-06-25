@@ -1,0 +1,4 @@
+1. bulimia nervosa; an eating [[mental disorder|disorder]] characterized by binge eating followed by purging; and excessive concern with body shape and weight.^[https://en.wikipedia.org/wiki/Bulimia_nervosa#cite_note-9]^[https://en.wikipedia.org/wiki/Bulimia_nervosa#cite_note-Women2012-2]
+
+# etymology
+1. the term *bulimia* comes from Greek βουλιμία *boulīmia*, "ravenous hunger", a compound of βοῦς bous, "ox" and λιμός, *līmos*, "hunger".^[https://en.wikipedia.org/wiki/Bulimia_nervosa#cite_note-97] Literally, the scientific name of the disorder, *bulimia nervosa*, translates to "nervous ravenous hunger".
