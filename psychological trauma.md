@@ -25,6 +25,9 @@
 1. why do some people with psychological trauma seek stress?
 	1. We concluded that Beecher’s speculation that “strong emotions can block pain” was the result of the release of morphinelike substances manufactured in the [[brain]]. This suggested that for many traumatized people, reexposure to stress might provide a similar relief from anxiety.^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 46]
 
+## intrapersonal
+1. 
+
 ## [[hope]]
 1. psychologically traumatic experience → purpose
 	1. Somehow the very event that caused them so much pain had also become their sole source of meaning. They felt fully alive only when they were revisiting their traumatic past.^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 30]
@@ -43,6 +46,9 @@
 ## [[amygdala]]
 1. [[serotonin]] → [[amygdala]]
 	1. animals with low [[serotonin]] levels were hyperreactive to stressful stimuli (like loud sounds), while higher levels of [[serotonin]] dampened their fear [[system]], making them less likely to become aggressive or frozen in response to potential threats^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 47]
+
+## [[human memory]]
+1. it is enormously difficult to organize one’s traumatic experiences into a coherent account—a narrative with a beginning, a middle, and an end^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 58]
 
 ## [[serotonin]]
 1. dominant male monkeys → [[serotonin]]
