@@ -54,6 +54,10 @@
 1. dominant male monkeys → [[serotonin]]
 	1. dominant male monkeys had much higher levels of [[brain]] [[serotonin]] than lower-ranking animals^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 47]
 
+# Brodmann area 19
+1. trauma → Brodmann area 19^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 58]
+	1. brain activation remains for a much longer time after the original experience of the trauma. We were witnessing a brain region rekindled as if the trauma were actually occurring.
+
 # related
 1. [[psychological stress]]
 2. [[involuntary musical imagery]]

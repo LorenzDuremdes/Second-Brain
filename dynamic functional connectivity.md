@@ -4,5 +4,6 @@
 	1. ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Default_mode_network-WRNMMC.jpg/640px-Default_mode_network-WRNMMC.jpg)
 
 # [[optimization]]
-how could it be more efficient to see something as belonging to "one concept" when e.g. latency is low enough?
+1. how could it be more efficient to see something as belonging to "one concept" when e.g. latency is low enough?
 	1. being aware of distinctions, themselves, might require more [[synaptic updates per second|neural resources]]?
+	2. when latency is lower, the SUPS also have to be higher (usually), which requires _even more_ neural resources
