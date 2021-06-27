@@ -4,10 +4,13 @@
 	1. in volleyball games the staff members invariably were much better coordinated than the patients^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 38]
 
 # [[psychology]]
-## [[psychosomatic]]
 1. psychological trauma (chameleon analogy)^[Alok Kanojia, Wednesday 23/06/2021]
 	1. trauma tends to "disguise" itself as other mental illnesses (e.g. [[depression]], anxiety) e.g. fixing [[depression]] brings [[anxiety disorder]], which brings something else once "cured"
 	2. I didnt even know about cptsd and, for such a long [[time]], tried to tackle my anxiety and [[depression]] instead. I really thought I was creating my own problems subconsciously. While that might hold some truth, I am making leaps of progress just by understanding my cptsd and how it changed my [[brain]].^[https://www.reddit.com/r/CPTSD/comments/o6kkkx/if_you_said_to_someone_my_parents_broke_my/h2tdrqb?utm_source=share&utm_medium=web2x&context=3]
+## [[psychosomatic]]
+1. how can there be a mismatch between the brain and body in people with psychological trauma?
+	1. their bodies register the threat, but their conscious minds go on as if nothing has happened^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 61]
+		1. e.g. drugs and alcohol can also cause this mismatch
 2. how can "psychosomatism" be used to treat "psychological trauma"?
 	1. bottom up: by allowing the body to have experiences that deeply and viscerally contradict the helplessness, rage, or collapse that result from trauma[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 14]
 
@@ -43,20 +46,28 @@
 	1. traumatized people keep secreting large amounts of stress hormones long after the actual danger has passed^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma], which can reduce [[subjective vitality]]
 
 # [[neuroscience]]
+## [[cortex-based anxiety|cortex-]] vs. [[amygdala-based anxiety]]
+1. psychological trauma (psychotherapy) → cortex vs. amygdala-based anxiety
+	1. no matter how much insight and understanding we develop, the rational brain is basically impotent to talk the emotional brain out of its own reality^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 62]
+
+## [[cerebral hemisphere]]
+1. psychological trauma (flashback) → left vs. right hemisphere
+	1. scans also revealed that during flashbacks, our subjects’ brains lit up only on the right side (and deactivate the left)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 59]
+
 ## [[amygdala]]
 1. [[serotonin]] → [[amygdala]]
 	1. animals with low [[serotonin]] levels were hyperreactive to stressful stimuli (like loud sounds), while higher levels of [[serotonin]] dampened their fear [[system]], making them less likely to become aggressive or frozen in response to potential threats^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 47]
 
 ## [[human memory]]
-1. it is enormously difficult to organize one’s traumatic experiences into a coherent account—a narrative with a beginning, a middle, and an end^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 58]
+1. it is enormously difficult to organize one’s traumatic experiences into a coherent account—a narrative with a beginning, a middle, and an end^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 58]
 
 ## [[serotonin]]
 1. dominant male monkeys → [[serotonin]]
 	1. dominant male monkeys had much higher levels of [[brain]] [[serotonin]] than lower-ranking animals^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 47]
 
 # Brodmann area 19
-1. trauma → Brodmann area 19^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 58]
-	1. brain activation remains for a much longer time after the original experience of the trauma. We were witnessing a brain region rekindled as if the trauma were actually occurring.
+1. trauma → Brodmann area 19^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 58]
+	1. [[brain]] activation remains for a much longer [[time]] after the original experience of the trauma. We were witnessing a [[brain]] region rekindled as if the trauma were actually occurring.
 
 # related
 1. [[psychological stress]]
