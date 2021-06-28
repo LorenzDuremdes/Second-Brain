@@ -23,7 +23,7 @@
 1. improve the following (reciprocity):
 	1. “No big deal.” “Don’t think a thing about it.” “I would have done it for anybody.” → “Listen, if our positions were ever reversed, I know you’d do the same for me.”^[Influence, New and Expanded: The Psychology of [[persuasion]], p. 8]
 2. should you do "uninvited favors"? + why
-	1. yes e.g. to create a (feeling of) [[guilt|debt]]^[Influence, New and Expanded: The Psychology of [[persuasion]], p. 8]
+	1. yes e.g. to create a ([[feeling]] of) [[guilt|debt]]^[Influence, New and Expanded: The Psychology of [[persuasion]], p. 8]
 
 # deweaponizing
 1. Robert Cialdini's approach to deweaponizing "reciprocation ([[persuasion]])"^[Influence, New and Expanded: The Psychology of [[persuasion]], p. 8]
