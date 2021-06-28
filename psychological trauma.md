@@ -8,8 +8,8 @@
 	1. trauma tends to "disguise" itself as other mental illnesses (e.g. [[depression]], anxiety) e.g. fixing [[depression]] brings [[anxiety disorder]], which brings something else once "cured"
 	2. I didnt even know about cptsd and, for such a long [[time]], tried to tackle my anxiety and [[depression]] instead. I really thought I was creating my own problems subconsciously. While that might hold some truth, I am making leaps of progress just by understanding my cptsd and how it changed my [[brain]].^[https://www.reddit.com/r/CPTSD/comments/o6kkkx/if_you_said_to_someone_my_parents_broke_my/h2tdrqb?utm_source=share&utm_medium=web2x&context=3]
 ## [[psychosomatic]]
-1. how can there be a mismatch between the brain and body in people with psychological trauma?
-	1. their bodies register the threat, but their conscious minds go on as if nothing has happened^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 61]
+1. how can there be a mismatch between the [[brain]] and body in people with psychological trauma?
+	1. their bodies register the threat, but their conscious minds go on as if nothing has happened^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 61]
 		1. e.g. drugs and alcohol can also cause this mismatch
 2. how can "psychosomatism" be used to treat "psychological trauma"?
 	1. bottom up: by allowing the body to have experiences that deeply and viscerally contradict the helplessness, rage, or collapse that result from trauma[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 14]
@@ -47,8 +47,8 @@
 
 # [[neuroscience]]
 ## [[cortex-based anxiety|cortex-]] vs. [[amygdala-based anxiety]]
-1. psychological trauma (psychotherapy) → cortex vs. amygdala-based anxiety
-	1. no matter how much insight and understanding we develop, the rational brain is basically impotent to talk the emotional brain out of its own reality^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 62]
+1. psychological trauma ([[psychotherapy]]) → [[cortex]] vs. [[amygdala]]-based anxiety
+	1. no matter how much insight and understanding we develop, the rational [[brain]] is basically impotent to talk the emotional [[brain]] out of its own reality^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 62]
 
 ## [[cerebral hemisphere]]
 1. psychological trauma (flashback) → left vs. right hemisphere
