@@ -60,8 +60,13 @@
 1. [[serotonin]] → [[amygdala]]
 	1. animals with low [[serotonin]] levels were hyperreactive to stressful stimuli (like loud sounds), while higher levels of [[serotonin]] dampened their fear [[system]], making them less likely to become aggressive or frozen in response to potential threats^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 47]
 
-## [[prefrontal cortex]]
-1. psychological trauma → [[sensory gating]] (neurophysiology)^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 75]
+## [[frontal lobe]]
+1. psychological trauma → superficial (neurophysiology)^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 75]
+	1. less active frontal lobe
+	2. including things like curiosity
+### [[prefrontal cortex]]
+#### [[sensory gating]]
+1. psychological trauma → [[sensory gating]] (neurophysiology)^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 75]^[https://en.wikipedia.org/wiki/Sensory_gating#Post-Traumatic_Stress_Disorder_(PTSD)]
 	1. the prefrontal cortex might be less able to filter out irrelevant information due to psychological trauma
 
 ## [[mirror neuron]]

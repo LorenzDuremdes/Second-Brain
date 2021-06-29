@@ -11,4 +11,4 @@
 
 # Related
 1. [[parallel distributed processing]]
-2. neural synchronization (neural oscillation)
+2. neural synchronization ([[neural oscillation]])

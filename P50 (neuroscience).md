@@ -1,0 +1,1 @@
+1. P50 (neuroscience); an [[event-related potential]] used to measure [[sensory gating]], or the reduced neurophysiological response to redundant stimuli^[https://en.wikipedia.org/wiki/P50_(neuroscience)]
