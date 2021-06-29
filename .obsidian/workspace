@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "von Neumann architecture.md",
+                "file": "sensory gating.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "von Neumann architecture.md",
+                "file": "sensory gating.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.01117731033544054,
+                  "scale": 0.01599133009084898,
                   "close": false
                 }
               }
@@ -59,7 +59,7 @@
         "direction": "horizontal"
       },
       {
-        "id": "282203081b389c61",
+        "id": "bed1aaf8209fd228",
         "type": "split",
         "children": [
           {
@@ -68,14 +68,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "von Neumann architecture.md",
+                "file": "sensory gating.md",
                 "mode": "preview"
               }
             },
             "group": "3055fdeaa11edc3b"
           },
           {
-            "id": "72ad7996c3092d82",
+            "id": "173c3f0c2f2b6698",
             "type": "leaf",
             "state": {
               "type": "mindmap",
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "von neumann",
+                "query": "limbic system",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "d7c6ec513be28550",
+            "id": "e3952c24477e87f1",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -142,25 +142,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28bc964002a73d6e",
+            "id": "a7edfc8468363e71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "sensory gating.md"
+              }
+            }
+          },
+          {
+            "id": "718556910646278b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "von Neumann architecture.md",
+                "file": "sensory gating.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "a4f61c2350cb39ff",
+            "id": "44068566044d11c9",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "von Neumann architecture.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -175,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "von Neumann architecture.md",
+                "file": "sensory gating.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,15 +202,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "von Neumann architecture.md",
-    "Untitled.md",
-    "cache hierarchy.md",
-    "central processing unit.md",
-    "quantum computing.md",
-    "feeling.md",
+    "information filtering system.md",
     "psychological trauma.md",
+    "limbic system.md",
+    "frontal lobe.md",
+    "Untitled.md",
+    "basal ganglia.md",
+    "thalamus.md",
     "ontogenesis.md",
-    "cerebral hemisphere.md",
-    "dynamic functional connectivity.md"
+    "human brain.md",
+    "complex post-traumatic stress disorder.md"
   ]
 }

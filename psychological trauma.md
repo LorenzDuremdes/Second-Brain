@@ -29,7 +29,7 @@
 	1. We concluded that Beecher’s speculation that “strong emotions can block pain” was the result of the release of morphinelike substances manufactured in the [[brain]]. This suggested that for many traumatized people, reexposure to stress might provide a similar relief from anxiety.^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 46]
 
 ## intrapersonal
-1. 
+1. being traumatized means continuing to organize your life as if the trauma were still going on^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 66]
 
 ## [[hope]]
 1. psychologically traumatic experience → purpose
@@ -39,6 +39,8 @@
 1. ...he and Seligman had found that the only way to teach the traumatized dogs to get off the electric grids when the doors were open was to repeatedly drag them out of their cages so they could physically experience how they could get away^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 44]
 	1. **related**: [[amygdala-based anxiety]]
 	2. did my patients also need to have physical experiences to restore a visceral sense of control?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 44]
+2. [[learned helplessness]] → psychological trauma^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 68–69]
+	1. being able to move and do something to protect oneself is a critical factor in determining whether or not a horrible experience will leave long-lasting scars
 
 # [[physiology]]
 1. another characteristic they shared was that even their most relaxed conversations seemed stilted,lacking the natural flow of gestures and facial expressions that are typical among friends (psychological trauma)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 38]
@@ -57,6 +59,15 @@
 ## [[amygdala]]
 1. [[serotonin]] → [[amygdala]]
 	1. animals with low [[serotonin]] levels were hyperreactive to stressful stimuli (like loud sounds), while higher levels of [[serotonin]] dampened their fear [[system]], making them less likely to become aggressive or frozen in response to potential threats^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 47]
+
+## [[prefrontal cortex]]
+1. psychological trauma → [[sensory gating]] (neurophysiology)^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 75]
+	1. the prefrontal cortex might be less able to filter out irrelevant information due to psychological trauma
+
+## [[mirror neuron]]
+1. psychological trauma → mirror neurons^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 74]
+	1. trauma almost invariably involves not being seen, not being mirrored, and not being taken into account
+	2. treatment needs to reactivate the capacity to safely mirror, and be mirrored, by others
 
 ## [[human memory]]
 1. it is enormously difficult to organize one’s traumatic experiences into a coherent account—a narrative with a beginning, a middle, and an end^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 58]
