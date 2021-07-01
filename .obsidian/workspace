@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.013369370183440903,
+                  "scale": 0.022878727565041543,
                   "close": false
                 }
               }
@@ -196,14 +196,14 @@
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
     "psychological trauma.md",
+    "amplification (psychology).md",
+    "Untitled.md",
     "P50 (neuroscience).md",
     "adaptive replacement cache.md",
     "Obsidian.md.md",
     "sleep.md",
     "progressive overload.md",
-    "Untitled.md",
     "altercasting.md",
-    "human brain.md",
-    "von Neumann architecture.md"
+    "human brain.md"
   ]
 }

@@ -10,8 +10,8 @@
 
 ## [[developmental psychopathology]]
 1. psychological trauma → puberty (autism analogy)
-	1. things might unfold on a lot more domains (e.g. romance) that weren't (as) visible before during puberty?
-	2. **analog**: lack of synaptic pruning (autism) · higher cognitive functions → e.g. easier information overload
+	1. ◇things might unfold in a lot more domains (e.g. romance) that weren't (as) visible before during puberty?
+	2. **analog**: lack of synaptic pruning (autism) · higher cognitive functions (ontogenesis) → ◇easier information overload
 
 ## [[psychosomatic]]
 1. how can there be a mismatch between the [[brain]] and body in people with psychological trauma?
@@ -23,7 +23,7 @@
 ## [[trust]]
 1. who do people having psychological trauma tend to [[trust]]?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 29]
 	1. others also having psychological trauma
-		1. this could make things like group [[psychotherapy]] effective
+		1. ∴this could make things like group [[psychotherapy]] effective
 	2. **related**
 		1. familiarity heuristic
 2. what could cause people to return to situations causing negative feelings?
@@ -48,7 +48,7 @@
 2. [[learned helplessness]] → psychological trauma^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 68–69]
 	1. being able to move and do something to protect oneself is a critical factor in determining whether or not a horrible experience will leave long-lasting scars
 3. overprotection → learned helplessness (parenting)
-	1. overprotection usually leads to many learned helplessnesses
+	1. ◇overprotection usually leads to many learned helplessnesses
 
 # [[physiology]]
 1. another characteristic they shared was that even their most relaxed conversations seemed stilted, lacking the natural flow of gestures and facial expressions that are typical among friends (psychological trauma)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 38]
@@ -56,8 +56,8 @@
 	1. traumatized people keep secreting large amounts of stress hormones long after the actual danger has passed^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma], which can reduce [[subjective vitality]]
 
 # [[neuroscience]]
-## [[cortex-based anxiety|cortex-]] vs. [[amygdala-based anxiety]]
-1. psychological trauma ([[psychotherapy]]) → [[cortex]] vs. [[amygdala]]-based anxiety
+## [[cortex-based anxiety|cortex-]] + [[amygdala-based anxiety]]
+1. psychological trauma ([[psychotherapy]]) → [[cortex]] ↮ [[amygdala]]-based anxiety
 	1. no matter how much insight and understanding we develop, the rational [[brain]] is basically impotent to talk the emotional [[brain]] out of its own reality^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 62]
 
 ## [[cerebral hemisphere]]
@@ -99,6 +99,6 @@
 1. [[psychological stress]]
 2. [[involuntary musical imagery]]
 	1. melodic music has a tendency to demonstrate repeating rhythm which may lead to endless repetition, unless a climax can be achieved to break the cycle.^[https://en.wikipedia.org/wiki/Earworm#cite_note-31]
-		1. climax → e.g. end of song (similar to processing psychological trauma?)
+		1. climax → e.g. end of song (◇similar to processing psychological trauma?)
 	2. **related**
 		1. [[Zeigarnik effect]]
