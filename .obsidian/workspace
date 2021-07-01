@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.022878727565041543,
+                  "scale": 0.011177310335440442,
                   "close": false
                 }
               }
@@ -193,17 +193,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "c16c701ef436c416",
+  "active": "3c6c6d742014beb2",
   "lastOpenFiles": [
     "psychological trauma.md",
+    "REM sleep.md",
+    "afferent pathway.md",
     "amplification (psychology).md",
     "Untitled.md",
     "P50 (neuroscience).md",
     "adaptive replacement cache.md",
     "Obsidian.md.md",
     "sleep.md",
-    "progressive overload.md",
-    "altercasting.md",
-    "human brain.md"
+    "progressive overload.md"
   ]
 }
