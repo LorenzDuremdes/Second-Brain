@@ -6,6 +6,7 @@
       {
         "id": "50a8d41127940ab9",
         "type": "split",
+        "dimension": 50.155763239875384,
         "children": [
           {
             "id": "c16c701ef436c416",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "eye movement desensitization and reprocessing.md",
                 "mode": "source"
               }
             },
@@ -25,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "eye movement desensitization and reprocessing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.011177310335440442,
+                  "scale": 0.013369370183441502,
                   "close": false
                 }
               }
@@ -61,6 +62,7 @@
       {
         "id": "282203081b389c61",
         "type": "split",
+        "dimension": 49.84423676012461,
         "children": [
           {
             "id": "3c6c6d742014beb2",
@@ -68,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "eye movement desensitization and reprocessing.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "p50",
+                "query": "social anx",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "eye movement desensitization and reprocessing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychological trauma.md"
+                "file": "eye movement desensitization and reprocessing.md"
               }
             }
           }
@@ -176,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "eye movement desensitization and reprocessing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,17 +195,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "3c6c6d742014beb2",
+  "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "Untitled.md",
+    "anxiety disorder.md",
+    "adrenaline.md",
+    "social anxiety disorder.md",
+    "splitting (psychology).md",
     "psychological trauma.md",
     "REM sleep.md",
     "afferent pathway.md",
     "amplification (psychology).md",
-    "Untitled.md",
-    "P50 (neuroscience).md",
-    "adaptive replacement cache.md",
-    "Obsidian.md.md",
-    "sleep.md",
-    "progressive overload.md"
+    "P50 (neuroscience).md"
   ]
 }

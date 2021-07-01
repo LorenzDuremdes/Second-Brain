@@ -9,9 +9,9 @@
 	2. *I didnt even know about cptsd and, for such a long [[time]], tried to tackle my anxiety and [[depression]] instead. I really thought I was creating my own problems subconsciously. While that might hold some truth, I am making leaps of progress just by understanding my cptsd and how it changed my [[brain]].*^[https://www.reddit.com/r/CPTSD/comments/o6kkkx/if_you_said_to_someone_my_parents_broke_my/h2tdrqb?utm_source=share&utm_medium=web2x&context=3]
 
 ## [[developmental psychopathology]]
-1. psychological trauma → puberty (autism analogy)
+1. psychological trauma → puberty ([[autism]] analogy)
 	1. ◇things might unfold in a lot more domains (e.g. romance) that weren't (as) visible before during puberty?
-	2. **analog**: lack of synaptic pruning (autism) · higher cognitive functions (ontogenesis) → ◇easier [[information]] overload
+	2. **analog**: lack of synaptic pruning ([[autism]]) · higher cognitive functions (ontogenesis) → ◇easier [[information]] overload
 
 ## [[psychosomatic]]
 1. how can there be a mismatch between "[[brain]]" and "body" in people with psychological trauma?
