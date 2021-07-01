@@ -31,7 +31,7 @@
 3. what could represent "planets" in Obsidian.md?
 	1. the individual words of note
 4. stars
-	1. the individual nodes as seen in "Mind Map"
+	1. the individual nodes as seen in "[[Mind]] Map"
 5. galaxies
 	1. each individual node
 6. universe
@@ -39,12 +39,15 @@
 7. multiverse/reality
 	1. all Obsidian.md Vaults
 8. intelligent life
-	1. connections made per galaxy (or e.g. between solar systems → the more connections in "Mind Map", the more intelligent life *is*)
+	1. connections made per galaxy (or e.g. between solar systems → the more connections in "[[Mind]] Map", the more intelligent life *is*)
 
 # connect
 1. connections between nodes need to make sense representing your [[brain]] as close as possible
 2. the fewer connections you estimate a concept will have in the (near) future, the more likely you should place it under an existing note
 	1. [[construal level theory|lower-level construals]] → usually have fewer connections
+3. high [[semantic distance|semantic distances]] → [[computational complexity]] (Obsidian.md)
+	1. connecting concepts with high semantic distances might increase [[computational complexity]] more e.g. less organization/[[connectivity noise]]
+		1. one way to estimate is via "[[adaptive replacement cache]]" (conjunction?)
 # capacity
 1. how many notes can Obsidian.md handle at a relatively fast speed?
 	1. 80k+^[https://forum.obsidian.md/t/maximum-number-of-notes-in-vault/1509/59?u=lorenz_duremdes]

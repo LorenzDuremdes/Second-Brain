@@ -7,12 +7,18 @@
 1. psychological trauma (chameleon analogy)^[Alok Kanojia, Wednesday 23/06/2021]
 	1. trauma tends to "disguise" itself as other mental illnesses (e.g. [[depression]], anxiety) e.g. fixing [[depression]] brings [[anxiety disorder]], which brings something else once "cured"
 	2. I didnt even know about cptsd and, for such a long [[time]], tried to tackle my anxiety and [[depression]] instead. I really thought I was creating my own problems subconsciously. While that might hold some truth, I am making leaps of progress just by understanding my cptsd and how it changed my [[brain]].^[https://www.reddit.com/r/CPTSD/comments/o6kkkx/if_you_said_to_someone_my_parents_broke_my/h2tdrqb?utm_source=share&utm_medium=web2x&context=3]
+
+## [[developmental psychopathology]]
+1. psychological trauma → puberty (autism analogy)
+	1. things might unfold on a lot more domains (e.g. romance) that weren't (as) visible before during puberty?
+	2. **analog**: lack of synaptic pruning (autism) · higher cognitive functions → e.g. easier information overload
+
 ## [[psychosomatic]]
 1. how can there be a mismatch between the [[brain]] and body in people with psychological trauma?
 	1. their bodies register the threat, but their conscious minds go on as if nothing has happened^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 61]
 		1. e.g. drugs and alcohol can also cause this mismatch
 2. how can "psychosomatism" be used to treat "psychological trauma"?
-	1. bottom up: by allowing the body to have experiences that deeply and viscerally contradict the helplessness, rage, or collapse that result from trauma[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 14]
+	1. bottom up: by allowing the body to have experiences that deeply and viscerally contradict the helplessness, rage, or collapse that result from trauma^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 14]
 
 ## [[trust]]
 1. who do people having psychological trauma tend to [[trust]]?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 29]
@@ -41,9 +47,11 @@
 	2. did my patients also need to have physical experiences to restore a visceral sense of control?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 44]
 2. [[learned helplessness]] → psychological trauma^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 68–69]
 	1. being able to move and do something to protect oneself is a critical factor in determining whether or not a horrible experience will leave long-lasting scars
+3. overprotection → learned helplessness (parenting)
+	1. overprotection usually leads to many learned helplessnesses
 
 # [[physiology]]
-1. another characteristic they shared was that even their most relaxed conversations seemed stilted,lacking the natural flow of gestures and facial expressions that are typical among friends (psychological trauma)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 38]
+1. another characteristic they shared was that even their most relaxed conversations seemed stilted, lacking the natural flow of gestures and facial expressions that are typical among friends (psychological trauma)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 38]
 2. trauma → [[subjective vitality]]
 	1. traumatized people keep secreting large amounts of stress hormones long after the actual danger has passed^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma], which can reduce [[subjective vitality]]
 
@@ -63,11 +71,13 @@
 ## [[frontal lobe]]
 1. psychological trauma → superficial (neurophysiology)^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 75]
 	1. less active frontal lobe
-	2. including things like curiosity
+	2. including things like reduced curiosity
 ### [[prefrontal cortex]]
 #### [[sensory gating]]
 1. psychological trauma → [[sensory gating]] (neurophysiology)^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 75]^[https://en.wikipedia.org/wiki/Sensory_gating#Post-Traumatic_Stress_Disorder_(PTSD)]
 	1. the prefrontal cortex might be less able to filter out irrelevant information due to psychological trauma
+	2. **related**
+		1. P50 (neuroscience)
 
 ## [[mirror neuron]]
 1. psychological trauma → mirror neurons^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 74]
@@ -81,7 +91,7 @@
 1. dominant male monkeys → [[serotonin]]
 	1. dominant male monkeys had much higher levels of [[brain]] [[serotonin]] than lower-ranking animals^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 47]
 
-# Brodmann area 19
+## Brodmann area 19
 1. trauma → Brodmann area 19^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 58]
 	1. [[brain]] activation remains for a much longer [[time]] after the original experience of the trauma. We were witnessing a [[brain]] region rekindled as if the trauma were actually occurring.
 
@@ -90,3 +100,5 @@
 2. [[involuntary musical imagery]]
 	1. melodic music has a tendency to demonstrate repeating rhythm which may lead to endless repetition, unless a climax can be achieved to break the cycle.^[https://en.wikipedia.org/wiki/Earworm#cite_note-31]
 		1. climax → e.g. end of song (similar to processing psychological trauma?)
+	2. **related**
+		1. [[Zeigarnik effect]]

@@ -1,6 +1,11 @@
 1. how does sleep remove toxic waste?
 	1. via the glymphatic system and cerebrospinal [[fluid]], mostly active during deep NREM sleep together with its sleep spindles as well as the shrinking of neurons by 60%
 
+# improving sleep
+1. should you think about physical activities to fall asleep (e.g. tennis)?
+	1. no, because it can raise your blood pressure (i.e. simply imagining the activities)
+		1. what about dreaming about such activities → effect on sleep quality/quantity?
+
 # REM sleep
 1. [[brain]] regions less active during REM sleep
 	1. the far left and right sides of the prefrontal [[gyrus|cortex]]
