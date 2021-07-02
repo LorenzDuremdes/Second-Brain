@@ -55,6 +55,10 @@
 2. trauma → [[subjective vitality]]
 	1. traumatized people keep secreting large amounts of stress hormones long after the actual danger has passed^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma], which can reduce [[subjective vitality]]
 
+## treatment
+1. **first step** to psychological trauma recovery (physiological)^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 84]
+	1. sensing and identifying to later gain more control/redirect those bodily sensations
+
 # [[neuroscience]]
 ## [[cortex-based anxiety|cortex-]] + [[amygdala-based anxiety]]
 1. psychological trauma ([[psychotherapy]]) → [[cortex]] ↮ [[amygdala]]-based anxiety

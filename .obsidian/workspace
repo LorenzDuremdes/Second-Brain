@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recidivism.md",
+                "file": "dorsolateral prefrontal cortex.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "recidivism.md",
+                "file": "dorsolateral prefrontal cortex.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.027365633498900668,
+                  "scale": 0.013369370183441066,
                   "close": false
                 }
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recidivism.md",
+                "file": "dorsolateral prefrontal cortex.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "emotion",
+                "query": "prefrontal cortex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "recidivism.md",
+                "file": "dorsolateral prefrontal cortex.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "recidivism.md"
+                "file": "dorsolateral prefrontal cortex.md"
               }
             }
           }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recidivism.md",
+                "file": "dorsolateral prefrontal cortex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,15 +196,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "recidivism.md",
+    "dorsolateral prefrontal cortex.md",
     "Untitled.md",
+    "prefrontal cortex.md",
+    "psychological trauma.md",
+    "recidivism.md",
     "emotion.md",
     "autonomic nervous system.md",
     "time.md",
     "autism.md",
-    "anxiety disorder.md",
-    "dating.md",
-    "Zeigarnik effect.md",
-    "adrenaline.md"
+    "anxiety disorder.md"
   ]
 }
