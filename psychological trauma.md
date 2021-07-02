@@ -56,13 +56,13 @@
 	1. traumatized people keep secreting large amounts of stress hormones long after the actual danger has passed^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma], which can reduce [[subjective vitality]]
 
 ## treatment
-1. **first step** to psychological trauma recovery (physiological)^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 84]
+1. **first step** to psychological trauma recovery (physiological)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 84]
 	1. sensing and identifying to later gain more control/redirect those bodily sensations
 
 # [[neuroscience]]
 ## [[cortex-based anxiety|cortex-]] + [[amygdala-based anxiety]]
 1. psychological trauma ([[psychotherapy]]) → [[cortex]] ↮ [[amygdala]]-based anxiety
-	1. no matter how much insight and understanding we develop, the rational [[brain]] is basically impotent to talk the emotional [[brain]] out of its own reality^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 62]
+	1. no matter how much insight and understanding we develop, the rational [[brain]] is basically impotent to talk the emotional [[brain]] out of its own [[reality]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 62]
 
 ## [[cerebral hemisphere]]
 1. psychological trauma (flashback) → left ↮ right hemisphere
@@ -81,7 +81,7 @@
 1. psychological trauma → [[sensory gating]] ([[neurophysiology]])^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 75]^[https://en.wikipedia.org/wiki/Sensory_gating#Post-Traumatic_Stress_Disorder_(PTSD)]
 	1. the [[prefrontal cortex]] might be less able to filter out irrelevant [[information]] due to psychological trauma
 	2. **related**
-		1. P50 (neuroscience)
+		1. P50 ([[neuroscience]])
 
 ## [[mirror neuron]]
 1. psychological trauma → mirror neurons^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 74]
@@ -90,6 +90,17 @@
 
 ## [[human memory]]
 1. it is enormously difficult to organize one’s traumatic experiences into a coherent account—a narrative with a beginning, a middle, and an end^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 58]
+
+### [[thalamus]]
+1. why is a traumatic [[memory]] "fragmented" at its creation ([[neurophysiology]])?
+	1. the right and left areas of the [[thalamus]] are inactive
+		1. breakdown of the [[thalamus]] explains why trauma is primarily remembered not as a story, a narrative with a beginning middle and end, but as isolated sensory imprints^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 87]
+
+## [[thalamus]]
+1. psychological trauma → [[thalamus]] ([[neuropsychology]])^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 87]
+	1. the [[thalamus]] is less able to effectively filter external [[information]] in people with psychological trauma
+		1. In order to cope, they try to shut themselves down and develop tunnel vision and hyperfocus. If they can’t shut down naturally, they may enlist drugs or alcohol to block out the world. The tragedy is that the price of closing down includes filtering out sources of [[pleasure]] and joy, as well.
+	2. **see also**: [[prefrontal cortex]]
 
 ## [[serotonin]]
 1. dominant male monkeys → [[serotonin]]
