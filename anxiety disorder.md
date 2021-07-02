@@ -35,11 +35,15 @@
 1. is it common to not feel anxious when engaging in an activity you felt anxious about (e.g. approaching girls)?^[[Alok Kanojia](https://youtu.be/qvaB2d5yDf8?t=780)]
 	1. yes, because you are focusing on the present (anxiety focuses on the future)
 
+# [[neurophysiology]]
+1. [[thalamus]] → [[prefrontal cortex]] ↮ [[amygdala]] (time)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 77]
+	1. it takes several microseconds longer for information from the [[thalamus]] to reach the [[prefrontal cortex]] as opposed to the [[amygdala]]
+
 # examples
 1. give an example of "being anxious about the past"^[[Alok Kanojia on anxiety](https://youtu.be/qvaB2d5yDf8?t=240)]
 	1. e.g. worrying you said something dumb
 	2. how is anxiety projected into the future even when "being anxious about the past"?
-		1. the possible consequences e.g. worrying you said something dumb and its possible **future** consequences (future=everything beyond that memory)
+		1. the possible consequences e.g. worrying you said something dumb and its possible **future** consequences (future=everything beyond that [[memory]])
 
 # related
 1. [[negativity bias]]

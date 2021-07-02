@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eye movement desensitization and reprocessing.md",
+                "file": "anxiety disorder.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "eye movement desensitization and reprocessing.md",
+                "file": "anxiety disorder.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.013369370183441502,
+                  "scale": 0.011177310335440867,
                   "close": false
                 }
               }
@@ -62,7 +62,7 @@
       {
         "id": "282203081b389c61",
         "type": "split",
-        "dimension": 49.84423676012461,
+        "dimension": 49.844236760124616,
         "children": [
           {
             "id": "3c6c6d742014beb2",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eye movement desensitization and reprocessing.md",
+                "file": "anxiety disorder.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "social anx",
+                "query": "dating",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eye movement desensitization and reprocessing.md",
+                "file": "anxiety disorder.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -161,12 +161,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eye movement desensitization and reprocessing.md"
+                "file": "anxiety disorder.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a834b3f3361a68cb",
@@ -178,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eye movement desensitization and reprocessing.md",
+                "file": "anxiety disorder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,15 +196,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "Untitled.md",
     "anxiety disorder.md",
+    "dating.md",
+    "Zeigarnik effect.md",
+    "Untitled.md",
     "adrenaline.md",
     "social anxiety disorder.md",
     "splitting (psychology).md",
     "psychological trauma.md",
     "REM sleep.md",
-    "afferent pathway.md",
-    "amplification (psychology).md",
-    "P50 (neuroscience).md"
+    "afferent pathway.md"
   ]
 }
