@@ -6,8 +6,10 @@
 			1. and be (partially/less effectively) perform the other 2 stages
 			2. stage 2 probably still possible → more right hemispherical
 2. do people experience the 7 basic emotions in the same way? + why
-	1. yes e.g. same body language (e.g. facial expressions)^[The science of [[trust]]: emotional attunement for couples, p. 201]
-		1. meta-emotion might differ?
+	1. yes e.g. same body [[language]] (e.g. facial expressions)^[The science of [[trust]]: emotional attunement for couples, p. 201]
+		1. [[meta-emotion]] might differ?
+3. are "emotion" and "reason" opposed?
+	1. no, our emotions assign value to experiences and thus are the foundation of reason^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 80]
 
 # related
 1. [[meta-emotion]]

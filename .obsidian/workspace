@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anxiety disorder.md",
+                "file": "recidivism.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "anxiety disorder.md",
+                "file": "recidivism.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.011177310335440867,
+                  "scale": 0.027365633498900668,
                   "close": false
                 }
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anxiety disorder.md",
+                "file": "recidivism.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dating",
+                "query": "emotion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "anxiety disorder.md",
+                "file": "recidivism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "anxiety disorder.md"
+                "file": "recidivism.md"
               }
             }
           }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anxiety disorder.md",
+                "file": "recidivism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,15 +196,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "recidivism.md",
+    "Untitled.md",
+    "emotion.md",
+    "autonomic nervous system.md",
+    "time.md",
+    "autism.md",
     "anxiety disorder.md",
     "dating.md",
     "Zeigarnik effect.md",
-    "Untitled.md",
-    "adrenaline.md",
-    "social anxiety disorder.md",
-    "splitting (psychology).md",
-    "psychological trauma.md",
-    "REM sleep.md",
-    "afferent pathway.md"
+    "adrenaline.md"
   ]
 }

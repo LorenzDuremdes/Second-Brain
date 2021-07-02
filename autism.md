@@ -1,7 +1,7 @@
-1. regressive autism; the loss of speech and social skills at approximately 15 to 30 months of age
-	1. *not to be confused with: nonverbal autism*
-2. autism → stochastic resonance
-	1. autism is an example of too high [[stochastic resonance]] in terms of optimal functioning?
+# [[psychology]]
+1. what could cause people with autism take things more personally?
+	1. ◇less [[theory of mind]]^[https://en.wikipedia.org/wiki/Theory_of_mind#Autism]
+
 # [[psychiatry]]
 ## [[continuum|spectrum]]
 1. Autism has long been thought to cover a wide spectrum, ranging from individuals with severe impairments—who may be silent, developmentally disabled, and prone to frequent repetitive behavior such as hand flapping and rocking—to high functioning individuals who may have active but distinctly odd social approaches, narrowly focused interests, and verbose, pedantic communication.^[https://en.wikipedia.org/wiki/Autism#cite_note-113] Because the behavior spectrum is continuous, boundaries between diagnostic categories are necessarily somewhat arbitrary.^[https://en.wikipedia.org/wiki/Autism#cite_note-Geschwind-2009-52]
@@ -42,3 +42,9 @@
 ## neurodiversity
 1. it emerged as a challenge to prevailing views that certain neurodevelopmental disorders are inherently pathological and instead adopts the social model of disability, in which societal barriers are the main contributing factor that disables people.^[https://en.wikipedia.org/wiki/Neurodiversity#cite_note-2]^[https://en.wikipedia.org/wiki/Neurodiversity#cite_note-Bloomsbury-3]
 	1. The subsequent neurodiversity paradigm has been controversial among disability advocates, with opponents saying that its conceptualization doesn't reflect the realities of individuals who have high support needs.^[https://en.wikipedia.org/wiki/Neurodiversity#cite_note-4]^[https://en.wikipedia.org/wiki/Neurodiversity#cite_note-5]^[https://en.wikipedia.org/wiki/Neurodiversity#cite_note-6]
+
+# miscellaneous
+1. regressive autism; the loss of speech and social skills at approximately 15 to 30 months of age
+	1. *not to be confused with: nonverbal autism*
+2. autism → stochastic resonance
+	1. autism is an example of too high [[stochastic resonance]] in terms of optimal functioning?
