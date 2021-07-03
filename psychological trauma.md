@@ -8,9 +8,11 @@
 	1. trauma tends to "disguise" itself as other mental illnesses (e.g. [[depression]], anxiety) fixing e.g. [[depression]] brings [[anxiety disorder]], which brings something else once 'cured'
 	2. *I didnt even know about cptsd and, for such a long [[time]], tried to tackle my anxiety and [[depression]] instead. I really thought I was creating my own problems subconsciously. While that might hold some truth, I am making leaps of progress just by understanding my cptsd and how it changed my [[brain]].*^[https://www.reddit.com/r/CPTSD/comments/o6kkkx/if_you_said_to_someone_my_parents_broke_my/h2tdrqb?utm_source=share&utm_medium=web2x&context=3]
 
+
+
 ## [[developmental psychopathology]]
 1. psychological trauma → puberty ([[autism]] analogy)
-	1. ◇things might unfold in a lot more domains (e.g. romance) that weren't (as) visible before during puberty?
+	1. ◇things might unfold in a lot more domains (e.g. romance, **see**: [[attachment style]]) that weren't (as) visible before during puberty?
 	2. **analog**: lack of synaptic pruning ([[autism]]) · higher cognitive functions (ontogenesis) → ◇easier [[information]] overload
 
 ## [[psychosomatic]]
@@ -37,10 +39,6 @@
 ## intrapersonal
 1. being traumatized means continuing to organize your life as if the trauma were still going on^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 66]
 
-## [[hope]]
-1. psychologically traumatic experience → purpose
-	1. Somehow the very event that caused them so much pain had also become their sole source of meaning. They felt fully alive only when they were revisiting their traumatic past.^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 30]
-
 ## [[learned helplessness]]
 1. ...he and Seligman had found that the only way to teach the traumatized dogs to get off the electric grids when the doors were open was to repeatedly drag them out of their cages so they could physically experience how they could get away^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 44]
 	1. **related**: [[amygdala-based anxiety]]
@@ -49,6 +47,20 @@
 	1. being able to move and do something to protect oneself is a critical factor in determining whether or not a horrible experience will leave long-lasting scars
 3. overprotection → [[learned helplessness]] (parenting)
 	1. ◇overprotection usually leads to many learned helplessnesses
+
+## [[hope]]
+1. psychologically traumatic experience → purpose
+	1. Somehow the very event that caused them so much pain had also become their sole source of meaning. They felt fully alive only when they were revisiting their traumatic past.^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 30]
+
+## depersonalization
+1. blanking out in response to being reminded of past trauma is an example of "depersonalization"^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 89]
+2. how could "depersonalization" be more damaging long-term for kids/people than those who act out?
+	1. the acting-out kids tend to get attention; the blanked-out ones don’t bother anybody and are left to lose their future bit by bit^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 90–91]
+
+### treatment
+1. conventional talk therapy → psychological trauma · depersonalization^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 90]
+	1. former is not as effective in treating psychological trauma
+	2. a bottom-up approach is more effective e.g. acupressure, tossing a ball, Pilates, dancing
 
 # [[physiology]]
 1. another characteristic they shared was that even their most relaxed conversations seemed stilted, lacking the natural flow of gestures and facial expressions that are typical among friends^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 38]
@@ -100,7 +112,9 @@
 1. psychological trauma → [[thalamus]] ([[neuropsychology]])^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 87]
 	1. the [[thalamus]] is less able to effectively filter external [[information]] in people with psychological trauma
 		1. In order to cope, they try to shut themselves down and develop tunnel vision and hyperfocus. If they can’t shut down naturally, they may enlist drugs or alcohol to block out the world. The tragedy is that the price of closing down includes filtering out sources of [[pleasure]] and joy, as well.
-	2. **see also**: [[prefrontal cortex]]
+	2. **see also**
+		1. [[prefrontal cortex]]
+		2. [[sensory gating]]
 
 ## [[serotonin]]
 1. dominant male monkeys → [[serotonin]]

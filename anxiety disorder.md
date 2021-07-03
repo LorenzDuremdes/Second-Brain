@@ -3,7 +3,11 @@
 1. why does focusing on the present alleviate anxiety?^[[Alok Kanojia](https://youtu.be/qvaB2d5yDf8?t=660)]
 	1. because anxiety is future-oriented
 	2. **related**
-		1. consciousness (being occupied by the present instead)
+		1. [[consciousness]] (being occupied by the present instead)
+2. try to focus on your peripheral vision when experiencing anxiety^[https://www.reddit.com/r/seduction/comments/ngn9c7/im_going_to_share_with_you_guys_the_ultimate/]
+	1. **related**
+		1. [[eye movement desensitization and reprocessing|EMDR]]
+		2. thrashing (computer science)
 
 ## general
 1. improve the following:^[https://qr.ae/pNyfyf (Franklin Veaux)]
@@ -37,7 +41,7 @@
 
 # [[neurophysiology]]
 1. [[thalamus]] → [[prefrontal cortex]] ↮ [[amygdala]] (time)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 77]
-	1. it takes several microseconds longer for information from the [[thalamus]] to reach the [[prefrontal cortex]] as opposed to the [[amygdala]]
+	1. it takes several microseconds longer for [[information]] from the [[thalamus]] to reach the [[prefrontal cortex]] as opposed to the [[amygdala]]
 
 # examples
 1. give an example of "being anxious about the past"^[[Alok Kanojia on anxiety](https://youtu.be/qvaB2d5yDf8?t=240)]
