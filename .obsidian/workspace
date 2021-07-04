@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "heart rate variability.md",
+                "file": "functional specialization (brain).md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "heart rate variability.md",
+                "file": "functional specialization (brain).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.011177310335440416,
+                  "scale": 0.01599133009084786,
                   "close": false
                 }
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "heart rate variability.md",
+                "file": "functional specialization (brain).md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "heart rate variability",
+                "query": "freeze flight",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "heart rate variability.md",
+                "file": "functional specialization (brain).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "heart rate variability.md"
+                "file": "functional specialization (brain).md"
               }
             }
           }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "heart rate variability.md",
+                "file": "functional specialization (brain).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,15 +196,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "heart rate variability.md",
-    "parasympathetic nervous system.md",
-    "psychological trauma.md",
-    "sympathetic nervous system.md",
-    "autonomic nervous system.md",
-    "Aelius Galenus.md",
+    "functional specialization (brain).md",
     "Untitled.md",
-    "enteric nervous system.md",
-    "emotion.md",
-    "auto-regulation (sports science).md"
+    "basal ganglia.md",
+    "freeze-flight-fight response.md",
+    "brainstem.md",
+    "Anki.md",
+    "psychological trauma.md",
+    "neuroception.md",
+    "heart rate variability.md",
+    "parasympathetic nervous system.md"
   ]
 }

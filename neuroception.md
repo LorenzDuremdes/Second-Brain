@@ -1,0 +1,1 @@
+1. neuroception; a subconscious system for detecting threat and safety^[https://en.wikipedia.org/wiki/Stephen_Porges]^[The Body Keeps the Score: [[Brain]], Mind, and Body in the Healing of Trauma, p. 100]

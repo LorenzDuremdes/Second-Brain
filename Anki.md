@@ -34,7 +34,9 @@
 	4. low enough [[interference theory|interference]]
 	5. note:card ratio=1
 ## cloze
-1. should you cloze e.g. "increases" in the following? + why
+1. what [[algorithm]] can you use to determine what to cloze? (Anki)
+	1. [[adaptive replacement cache]] → whatever you cloze, you bring to a higher [[cache]] hierachy
+2. should you cloze e.g. "increases" in the following? + why
 	1. [[social learning theory]] → [[social currency]]
 
 
@@ -42,7 +44,7 @@
 		1. no, because it's redundant (you already stored it by expanding the content of "social learning theory → social currency")
 			1. **related**: [[interference theory]]
 1. why did you decide to only cloze 1 component + what
-	1. mathematical model; a description of a system using mathematical concepts and language
+	1. mathematical model; a description of a system using mathematical concepts and [[language]]
 		1. only clozed the latter → I will rarely use the term "mathematical model", but it's description might make me remind of this concept
 			1. clozing the latter has a larger "area of effect"
 # stats

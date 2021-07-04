@@ -1,5 +1,5 @@
 1. basic responses to shame^[Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead, p. 63]
-	1. [[freeze-flight-fight response|freeze-flight-fight]]
+	1. [[acute stress response|freeze-flight-fight]]
 2. [[men]] and [[women]] tend to experience shame differently^[Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead, p. 55]
 
 # [[psychological trauma]]

@@ -41,6 +41,12 @@
 2. does the book "The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 91" think desensitization via reexposure to past traumas is effective? + why?
 	1. no, because that usually still leads to people not being "fully alive" in the present
 
+## [[interpersonal relationship|interpersonal]]
+### treatment
+1. complexity · [[human]]-dog relationship → psychological trauma (treatment)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 99]
+	1. dogs and horses and even dolphins offer **less complicated** companionship while providing the necessary sense of safety
+		1. when adults or children are too skittish or shut down to derive comfort from [[human]] beings, relationships with other mammals can help
+
 ## [[learned helplessness]]
 1. ...he and Seligman had found that the only way to teach the traumatized dogs to get off the electric grids when the doors were open was to repeatedly drag them out of their cages so they could physically experience how they could get away^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 44]
 	1. **related**: [[amygdala-based anxiety]]

@@ -1,0 +1,1 @@
+1. 3 physiological states (polyvagal theory): social engagement > fight or flight > freeze or collapse^[The Body Keeps the Score: Brain, [[Mind]], and Body in the Healing of Trauma, p. 100]
