@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "qigong.md",
+                "file": "social anxiety disorder.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "qigong.md",
+                "file": "social anxiety disorder.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.019127500739802544,
+                  "scale": 0.013369370183440485,
                   "close": false
                 }
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "qigong.md",
+                "file": "social anxiety disorder.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "freeze flight",
+                "query": "social anxiety",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -129,7 +129,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -149,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "qigong.md",
+                "file": "social anxiety disorder.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "qigong.md"
+                "file": "social anxiety disorder.md"
               }
             }
           }
@@ -177,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "qigong.md",
+                "file": "social anxiety disorder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,8 +195,10 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "917ad13a522064ff",
+  "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "social anxiety disorder.md",
+    "interpersonal relationship.md",
     "qigong.md",
     "Untitled.md",
     "pranayama.md",
@@ -203,8 +206,6 @@
     "larynx.md",
     "functional specialization (brain).md",
     "basal ganglia.md",
-    "freeze-flight-fight response.md",
-    "brainstem.md",
-    "Anki.md"
+    "freeze-flight-fight response.md"
   ]
 }
