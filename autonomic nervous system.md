@@ -5,5 +5,16 @@
 	1. brainstem
 	2. **see also**
 		1. The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 80
+
+# specialization
+1. function of the autonomic nervous system^[https://en.wikipedia.org/wiki/Autonomic_nervous_system#cite_note-13]^[By Geo-Science-International - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=47377075]
+	<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/The_Autonomic_Nervous_System.jpg" width="500" />
+
+# subcomponents
+1. [[parasympathetic nervous system]]
+2. [[sympathetic nervous system]]
+3. [[enteric nervous system]]
+
+
 # Related
 1. [[allostatic load]]

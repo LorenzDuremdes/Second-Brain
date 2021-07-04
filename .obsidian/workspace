@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "heart rate variability.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "heart rate variability.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.013369370183440886,
+                  "scale": 0.011177310335440416,
                   "close": false
                 }
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "heart rate variability.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "training zone",
+                "query": "heart rate variability",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "heart rate variability.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -161,12 +161,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychological trauma.md"
+                "file": "heart rate variability.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a834b3f3361a68cb",
@@ -178,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "heart rate variability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,17 +194,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "3c6c6d742014beb2",
+  "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "heart rate variability.md",
+    "parasympathetic nervous system.md",
     "psychological trauma.md",
-    "auto-regulation (sports science).md",
+    "sympathetic nervous system.md",
+    "autonomic nervous system.md",
+    "Aelius Galenus.md",
     "Untitled.md",
-    "cycling power meter.md",
-    "anxiety disorder.md",
-    "GitHub.md",
-    "dorsolateral prefrontal cortex.md",
-    "test/Untitled.md",
-    "test/Untitled 1.md",
-    "indicative conditional.md"
+    "enteric nervous system.md",
+    "emotion.md",
+    "auto-regulation (sports science).md"
   ]
 }

@@ -38,6 +38,8 @@
 
 ## intrapersonal
 1. being traumatized means continuing to organize your life as if the trauma were still going on^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 66]
+2. does the book "The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 91" think desensitization via reexposure to past traumas is effective? + why?
+	1. no, because that usually still leads to people not being "fully alive" in the present
 
 ## [[learned helplessness]]
 1. ...he and Seligman had found that the only way to teach the traumatized dogs to get off the electric grids when the doors were open was to repeatedly drag them out of their cages so they could physically experience how they could get away^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 44]
@@ -53,12 +55,12 @@
 	1. Somehow the very event that caused them so much pain had also become their sole source of meaning. They felt fully alive only when they were revisiting their traumatic past.^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 30]
 
 ## depersonalization
-1. blanking out in response to being reminded of past trauma is an example of "depersonalization"^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 89]
+1. blanking out in response to being reminded of past trauma is an example of "depersonalization"^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 89]
 2. how could "depersonalization" be more damaging long-term for kids/people than those who act out?
-	1. the acting-out kids tend to get attention; the blanked-out ones don’t bother anybody and are left to lose their future bit by bit^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 90–91]
+	1. the acting-out kids tend to get attention; the blanked-out ones don’t bother anybody and are left to lose their future bit by bit^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 90–91]
 
 ### treatment
-1. conventional talk therapy → psychological trauma · depersonalization^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 90]
+1. conventional talk therapy → psychological trauma · depersonalization^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 90]
 	1. former is not as effective in treating psychological trauma
 	2. a bottom-up approach is more effective e.g. acupressure, tossing a ball, Pilates, dancing
 

@@ -11,6 +11,9 @@
 3. are "emotion" and "reason" opposed?
 	1. no, our emotions assign value to experiences and thus are the foundation of reason^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 80]
 
+# etymology
+1. emotion (etymology); from Latin "*ēmōtus*" for "to move out"^[https://en.wiktionary.org/wiki/emotion]
+
 # related
 1. [[meta-emotion]]
 2. [[affect (psychology)]]
