@@ -42,6 +42,8 @@
 	1. no, because that usually still leads to people not being "fully alive" in the present
 
 ## [[interpersonal relationship|interpersonal]]
+1. any sort of deep intimacy—a close embrace, sleeping with a mate, and [[sex]]—requires allowing oneself to experience immobilization without fear^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma]
+
 ### treatment
 1. complexity · [[human]]-dog relationship → psychological trauma (treatment)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 99]
 	1. dogs and horses and even dolphins offer **less complicated** companionship while providing the necessary sense of safety
@@ -68,6 +70,7 @@
 ### treatment
 1. conventional talk therapy → psychological trauma · depersonalization^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 90]
 	1. former is not as effective in treating psychological trauma
+		1. severely traumatized people may get more out of simply helping to arrange chairs before a meeting than they would from sitting in those same chairs and discussing the failures in their life^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 106]
 	2. a bottom-up approach is more effective e.g. acupressure, tossing a ball, Pilates, dancing
 
 # [[physiology]]

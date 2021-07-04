@@ -1,0 +1,2 @@
+1. verticale temperatuurgradiënt; het temperatuurverloop in de atmosfeer met de hoogte^[https://nl.wikipedia.org/wiki/Verticale_temperatuurgradi%C3%ABnt
+2. in dry air, the adiabatic lapse rate is 9.8 °C/km^[https://en.wikipedia.org/wiki/Lapse_rate]]

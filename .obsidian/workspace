@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "functional specialization (brain).md",
+                "file": "qigong.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "functional specialization (brain).md",
+                "file": "qigong.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.01599133009084786,
+                  "scale": 0.019127500739802544,
                   "close": false
                 }
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "functional specialization (brain).md",
+                "file": "qigong.md",
                 "mode": "preview"
               }
             },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "functional specialization (brain).md",
+                "file": "qigong.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "functional specialization (brain).md"
+                "file": "qigong.md"
               }
             }
           }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "functional specialization (brain).md",
+                "file": "qigong.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,17 +194,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "c16c701ef436c416",
+  "active": "917ad13a522064ff",
   "lastOpenFiles": [
-    "functional specialization (brain).md",
+    "qigong.md",
     "Untitled.md",
+    "pranayama.md",
+    "psychological trauma.md",
+    "larynx.md",
+    "functional specialization (brain).md",
     "basal ganglia.md",
     "freeze-flight-fight response.md",
     "brainstem.md",
-    "Anki.md",
-    "psychological trauma.md",
-    "neuroception.md",
-    "heart rate variability.md",
-    "parasympathetic nervous system.md"
+    "Anki.md"
   ]
 }
