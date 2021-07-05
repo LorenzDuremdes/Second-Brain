@@ -34,7 +34,7 @@
 	1. no, because I usually just care about myself → I reciprocate when it's advantageous for myself (psychopathic)
 
 # [[construal level theory]]
-1. construal level theory → reciprocation
+1. [[construal level theory]] → reciprocation
 	1. the lower the construal level, the better (usually)
 	2. despite the impressive force the rule of reciprocation commands, there is a set of conditions that magnifies that force even more: when the first gift is customized, and thereby personalized, to the recipient’s current needs or preferences^[Influence, New and Expanded: The Psychology of [[persuasion]], p. 8]
 	3. other model to apply: [[self-determination theory]]

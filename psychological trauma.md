@@ -70,13 +70,15 @@
 ### treatment
 1. conventional talk therapy → psychological trauma · depersonalization^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 90]
 	1. former is not as effective in treating psychological trauma
-		1. severely traumatized people may get more out of simply helping to arrange chairs before a meeting than they would from sitting in those same chairs and discussing the failures in their life^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 106]
+		1. severely traumatized people may get more out of simply helping to arrange chairs before a meeting than they would from sitting in those same chairs and discussing the failures in their life^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 106]
 	2. a bottom-up approach is more effective e.g. acupressure, tossing a ball, Pilates, dancing
 
 # [[physiology]]
 1. another characteristic they shared was that even their most relaxed conversations seemed stilted, lacking the natural flow of gestures and facial expressions that are typical among friends^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 38]
-2. trauma → [[subjective vitality]]
+2. psychological trauma → [[subjective vitality]]
 	1. traumatized people keep secreting large amounts of stress hormones long after the actual danger has passed^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma], which can reduce [[subjective vitality]]
+3. psychological trauma → proprioception
+	1. the former usually decreases the latter^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 111]
 
 ## treatment
 1. **first step** to psychological trauma recovery (physiological)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 84]

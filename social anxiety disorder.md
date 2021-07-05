@@ -13,3 +13,4 @@
 		1. whereas neurotypicals tend to only see the [[happiness]]
 		2. ∴it's not necessarily"all within your head" when thinking someone might be angry (facially)^[https://youtu.be/5n6lDNacfk0?t=450]
 		3. interpersonal abuse can worsen this effect^[https://youtu.be/5n6lDNacfk0?t=500, Alok Kanojia]
+		4. same with everything else e.g. posture?
