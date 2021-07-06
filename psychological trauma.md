@@ -108,6 +108,14 @@
 	2. **related**
 		1. P50 ([[neuroscience]])
 
+### [[orbitofrontal cortex]]
+1. psychological trauma → orbitofrontal cortex^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 113]
+	1. the latter shows reduced activity in people with the former
+
+### [[medial prefrontal cortex]]
+1. psychological trauma → [[medial prefrontal cortex]]^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 113]
+	1. people with the former show reduced activity in the latter
+
 ## [[mirror neuron]]
 1. psychological trauma → mirror neurons^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 74]
 	1. trauma almost invariably involves not being seen, not being mirrored, and not being taken into account
@@ -132,6 +140,14 @@
 ## [[serotonin]]
 1. dominant male monkeys → [[serotonin]]
 	1. dominant male monkeys had much higher levels of [[brain]] [[serotonin]] than lower-ranking animals^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 47]
+
+## [[insular cortex]]
+1. psychological trauma → [[insular cortex]]^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 113]
+	1. people with the former show reduced activity in the latter
+
+## [[cingulate cortex]]
+1. psychological trauma → cingulate cortex^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 113]
+	1. people with the former show reduced activity in the latter
 
 ## Brodmann area 19
 1. trauma → Brodmann area 19^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 58]
