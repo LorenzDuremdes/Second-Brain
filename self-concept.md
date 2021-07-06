@@ -10,3 +10,8 @@
 # related
 1. [[interoceptive inference]]
 2. [[implicit self-esteem]]
+3. self-concept vs. self-awareness
+	1. the latter refers to the extent to which self-knowledge is defined, consistent, and currently applicable to one's attitudes and dispositions^[https://en.wikipedia.org/wiki/Self-concept#cite_note-ayduk2009-4]
+		1. self-concept is more "theoretical"?
+4. self-concept vs. [[self-esteem]]
+	1. self-concept is a cognitive or descriptive component of one's self (e.g. "I am a fast runner"), while [[self-esteem]] is evaluative and opinionated (e.g. "I feel good about being a fast runner")^[https://en.wikipedia.org/wiki/Self-concept]

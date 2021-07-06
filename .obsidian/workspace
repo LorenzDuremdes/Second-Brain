@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "self",
+                "query": "prefrontal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
