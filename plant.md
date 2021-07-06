@@ -1,0 +1,1 @@
+1. plant; form the [[cladogram|clade]] Viridiplantae (Latin name for "green plants"), a group that includes the flowering plants, conifers and other gymnosperms, ferns and their allies, hornworts, liverworts, mosses, and the green algae, but excludes the red and brown algae^[https://en.wikipedia.org/wiki/Plant] (why?)

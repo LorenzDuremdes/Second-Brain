@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "self-concept.md",
+                "file": "cladogram.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "self-concept.md",
+                "file": "cladogram.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.01599133009084898,
+                  "scale": 0.020372775137705804,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "self-concept.md",
+                "file": "cladogram.md",
                 "mode": "preview"
               }
             },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "self-concept.md"
+                "file": "cladogram.md"
               }
             }
           },
@@ -157,13 +157,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "self-concept.md",
+                "file": "cladogram.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a834b3f3361a68cb",
@@ -175,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "self-concept.md",
+                "file": "cladogram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,15 +195,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "self-concept.md",
+    "cladogram.md",
+    "plant.md",
+    "daylily.md",
+    "Untitled.md",
     "psychological trauma.md",
+    "medial prefrontal cortex.md",
+    "self-concept.md",
     "cingulate cortex.md",
     "orbitofrontal cortex.md",
-    "insular cortex.md",
-    "Untitled.md",
-    "sports periodization (road cycling).md",
-    "cache hierarchy.md",
-    "P50 (neuroscience).md",
-    "neural oscillation.md"
+    "insular cortex.md"
   ]
 }

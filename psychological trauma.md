@@ -101,6 +101,11 @@
 1. psychological trauma → superficial behavior ([[neurophysiology]])^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 75]
 	1. less active [[frontal lobe]]
 	2. including things like reduced curiosity
+
+### [[neuropsychology]]
+1. what could cause people with psychological trauma to repeat things causing negativity? ([[neurophysiology]])
+	1. e.g. impaired [[frontal lobe]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 119]
+
 ### [[prefrontal cortex]]
 #### [[sensory gating]]
 1. psychological trauma → [[sensory gating]] ([[neurophysiology]])^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 75]^[https://en.wikipedia.org/wiki/Sensory_gating#Post-Traumatic_Stress_Disorder_(PTSD)]
@@ -109,11 +114,11 @@
 		1. P50 ([[neuroscience]])
 
 ### [[orbitofrontal cortex]]
-1. psychological trauma → orbitofrontal cortex^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 113]
+1. psychological trauma → [[orbitofrontal cortex]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 113]
 	1. the latter shows reduced activity in people with the former
 
 ### [[medial prefrontal cortex]]
-1. psychological trauma → [[medial prefrontal cortex]]^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 113]
+1. psychological trauma → [[medial prefrontal cortex]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 113]
 	1. people with the former show reduced activity in the latter
 
 ## [[mirror neuron]]
@@ -142,11 +147,11 @@
 	1. dominant male monkeys had much higher levels of [[brain]] [[serotonin]] than lower-ranking animals^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 47]
 
 ## [[insular cortex]]
-1. psychological trauma → [[insular cortex]]^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 113]
+1. psychological trauma → [[insular cortex]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 113]
 	1. people with the former show reduced activity in the latter
 
 ## [[cingulate cortex]]
-1. psychological trauma → cingulate cortex^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 113]
+1. psychological trauma → [[cingulate cortex]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 113]
 	1. people with the former show reduced activity in the latter
 
 ## Brodmann area 19
