@@ -6,7 +6,6 @@
       {
         "id": "50a8d41127940ab9",
         "type": "split",
-        "dimension": 50.155763239875384,
         "children": [
           {
             "id": "c16c701ef436c416",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sports periodization (road cycling).md",
+                "file": "self-concept.md",
                 "mode": "source"
               }
             },
@@ -26,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sports periodization (road cycling).md",
+                "file": "self-concept.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.022878727565040946,
+                  "scale": 0.01599133009084898,
                   "close": false
                 }
               }
@@ -60,9 +59,8 @@
         "direction": "horizontal"
       },
       {
-        "id": "282203081b389c61",
+        "id": "bed1aaf8209fd228",
         "type": "split",
-        "dimension": 49.844236760124616,
         "children": [
           {
             "id": "3c6c6d742014beb2",
@@ -70,14 +68,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sports periodization (road cycling).md",
+                "file": "self-concept.md",
                 "mode": "preview"
               }
             },
             "group": "3055fdeaa11edc3b"
           },
           {
-            "id": "72ad7996c3092d82",
+            "id": "173c3f0c2f2b6698",
             "type": "leaf",
             "state": {
               "type": "mindmap",
@@ -112,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "periodization",
+                "query": "self",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -122,7 +120,7 @@
             }
           },
           {
-            "id": "d7c6ec513be28550",
+            "id": "e3952c24477e87f1",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -144,28 +142,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28bc964002a73d6e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "sports periodization (road cycling).md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "a4f61c2350cb39ff",
+            "id": "a7edfc8468363e71",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "sports periodization (road cycling).md"
+                "file": "self-concept.md"
+              }
+            }
+          },
+          {
+            "id": "718556910646278b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "self-concept.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a834b3f3361a68cb",
@@ -177,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sports periodization (road cycling).md",
+                "file": "self-concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,15 +195,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "sports periodization (road cycling).md",
+    "self-concept.md",
     "Untitled.md",
-    "sports periodization.md",
-    "parasympathetic nervous system.md",
-    "recovery (road cycling).md",
-    "active recovery.md",
+    "sports periodization (road cycling).md",
     "psychological trauma.md",
-    "reciprocity (social psychology).md",
-    "construal level theory.md",
-    "psychotherapy.md"
+    "cache hierarchy.md",
+    "P50 (neuroscience).md",
+    "neural oscillation.md",
+    "event-related potential.md",
+    "event related potential.md",
+    "information filtering system.md"
   ]
 }

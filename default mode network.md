@@ -1,0 +1,2 @@
+1. no directed focus → default mode network
+	1. when you have nothing in particular to focus on, the DMN focuses on yourself (and creating a sense of "self")^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 112]
