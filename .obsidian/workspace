@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "self-concept.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "self-concept.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "self-concept.md",
                 "mode": "preview"
               }
             },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychological trauma.md"
+                "file": "self-concept.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "self-concept.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "self-concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,12 +194,12 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "self-concept.md",
     "psychological trauma.md",
     "cingulate cortex.md",
     "orbitofrontal cortex.md",
     "insular cortex.md",
     "Untitled.md",
-    "self-concept.md",
     "sports periodization (road cycling).md",
     "cache hierarchy.md",
     "P50 (neuroscience).md",
