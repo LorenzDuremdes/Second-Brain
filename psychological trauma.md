@@ -40,6 +40,9 @@
 1. being traumatized means continuing to organize your life as if the trauma were still going on^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 66]
 2. does the book "The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 91" think desensitization via reexposure to past traumas is effective? + why?
 	1. no, because that usually still leads to people not being "fully alive" in the present
+3. psychological trauma → behavioral plasticity
+	1. the former probably decreases the latter
+	2. **see also**: The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 119–120
 
 ## [[interpersonal relationship|interpersonal]]
 1. any sort of deep intimacy—a close embrace, sleeping with a mate, and [[sex]]—requires allowing oneself to experience immobilization without fear^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma]
@@ -75,9 +78,13 @@
 
 # [[physiology]]
 1. another characteristic they shared was that even their most relaxed conversations seemed stilted, lacking the natural flow of gestures and facial expressions that are typical among friends^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 38]
-2. psychological trauma → [[subjective vitality]]
+2. what can cause people with psychological trauma to experience severe bodily reactions e.g. asthma attacks?^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 120]
+	1. them trying to ignore other bodily reactions
+	2. suppressing our inner cries for help does not stop our stress hormones from mobilizing the body
+		1. other: fibromyalgia, back and neck pain, migraines, digestive problems, irritable bowel syndrome, chronic fatigue
+3. psychological trauma → [[subjective vitality]]
 	1. traumatized people keep secreting large amounts of stress hormones long after the actual danger has passed^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma], which can reduce [[subjective vitality]]
-3. psychological trauma → proprioception
+4. psychological trauma → proprioception
 	1. the former usually decreases the latter^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 111]
 
 ## treatment
