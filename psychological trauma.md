@@ -21,6 +21,7 @@
 		1. e.g. drugs and alcohol can also cause this mismatch
 2. how can "psychosomatism" be used to treat "psychological trauma"?
 	1. bottom up ([[afferent pathway|afferent]]): by allowing the body to have experiences that deeply and viscerally contradict the helplessness, rage, or collapse that result from trauma^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 14]
+		1. **related**: [[exposure therapy|exposure and response prevention]]
 
 ## [[trust]]
 1. who do people having psychological trauma tend to [[trust]]?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 29]
