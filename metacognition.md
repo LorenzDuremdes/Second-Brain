@@ -1,6 +1,18 @@
 1. metacognition → [[algorithmic efficiency]]
 	1. metacognition is an example of increasing [[algorithmic efficiency]]
 
+# [[explore-exploit trade-off]]
+1. [[explore-exploit trade-off]] → maintenance
+	1. maintenance is mostly exploiting, which makes it much more efficient
+		1. with exploring, you can make errors more easily (e.g. incorrect pathway)
+
+# [[neurophysiology]]
+## [[neural pathway]]
+1. consolidating thought patterns slowly over [[time]] (by bringing it to higher [[cache]] hierarchies) by increasing specificity/details is related to:
+	1. explore/expl[[trade-off|oit trade]]-off
+	2. why shouldn't you immediately consolidate **everything**?
+		1. due to the possibility of excluding more efficient pathways
+
 # related
 1. executive functions
 2. [[cache hierarchy]]

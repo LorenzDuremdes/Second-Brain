@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "metacognition.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "metacognition.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.013369370183440477,
+                  "scale": 0.013369370183440471,
                   "close": false
                 }
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "metacognition.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "periodization",
+                "query": "explore exp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "metacognition.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -161,12 +161,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychological trauma.md"
+                "file": "metacognition.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a834b3f3361a68cb",
@@ -178,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "metacognition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,15 +196,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "metacognition.md",
+    "explore-exploit tradeoff.md",
     "psychological trauma.md",
-    "sports periodization (road cycling).md",
     "Untitled.md",
+    "sports periodization (road cycling).md",
     "sports periodization.md",
     "parasympathetic nervous system.md",
     "recovery (road cycling).md",
     "active recovery.md",
-    "reciprocity (social psychology).md",
-    "construal level theory.md",
-    "psychotherapy.md"
+    "reciprocity (social psychology).md"
   ]
 }

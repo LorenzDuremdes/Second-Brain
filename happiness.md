@@ -65,4 +65,4 @@
 
 # age
 1. older people tend to be happier than younger^[The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 100]
-	1. **related**: [[explore-exploit tradeoff]]
+	1. **related**: [[explore-exploit trade-off]]

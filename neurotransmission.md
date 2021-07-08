@@ -1,0 +1,1 @@
+1. neurotransmission; the process by which signaling molecules called neurotransmitters are released by the [[axon]] terminal of a [[neuron]] (the presynaptic [[neuron]]), and bind to and react with the receptors on the dendrites of another [[neuron]] (the postsynaptic [[neuron]]) a short distance away^[https://en.wikipedia.org/wiki/Neurotransmission]
