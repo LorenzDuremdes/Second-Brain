@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "metacognition.md",
+                "file": "informal fallacy.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "metacognition.md",
+                "file": "informal fallacy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.013369370183440471,
+                  "scale": 0.06699983039941207,
                   "close": false
                 }
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "metacognition.md",
+                "file": "informal fallacy.md",
                 "mode": "preview"
               }
             },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "metacognition.md",
+                "file": "informal fallacy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "metacognition.md"
+                "file": "informal fallacy.md"
               }
             }
           }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "metacognition.md",
+                "file": "informal fallacy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,15 +196,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "informal fallacy.md",
+    "Untitled.md",
     "metacognition.md",
     "explore-exploit tradeoff.md",
     "psychological trauma.md",
-    "Untitled.md",
     "sports periodization (road cycling).md",
     "sports periodization.md",
     "parasympathetic nervous system.md",
     "recovery (road cycling).md",
-    "active recovery.md",
-    "reciprocity (social psychology).md"
+    "active recovery.md"
   ]
 }
