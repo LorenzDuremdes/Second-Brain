@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "informal fallacy.md",
+                "file": "alexithymia.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "informal fallacy.md",
+                "file": "alexithymia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.06699983039941207,
+                  "scale": 0.013369370183440428,
                   "close": false
                 }
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "informal fallacy.md",
+                "file": "alexithymia.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "explore exp",
+                "query": "interval scale",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "informal fallacy.md",
+                "file": "alexithymia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "informal fallacy.md"
+                "file": "alexithymia.md"
               }
             }
           }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "informal fallacy.md",
+                "file": "alexithymia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,15 +196,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "informal fallacy.md",
+    "alexithymia.md",
+    "psychological trauma.md",
+    "Planck's principle.md",
     "Untitled.md",
+    "informal fallacy.md",
     "metacognition.md",
     "explore-exploit tradeoff.md",
-    "psychological trauma.md",
     "sports periodization (road cycling).md",
     "sports periodization.md",
-    "parasympathetic nervous system.md",
-    "recovery (road cycling).md",
-    "active recovery.md"
+    "parasympathetic nervous system.md"
   ]
 }
