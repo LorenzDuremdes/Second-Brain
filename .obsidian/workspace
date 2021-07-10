@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "antioxidant.md",
+                "file": "metacognition.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "antioxidant.md",
+                "file": "metacognition.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "antioxidant.md",
+                "file": "metacognition.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "antioxidant",
+                "query": "metacogn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "antioxidant.md",
+                "file": "metacognition.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -161,11 +161,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "antioxidant.md"
+                "file": "metacognition.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a834b3f3361a68cb",
@@ -177,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "antioxidant.md",
+                "file": "metacognition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,17 +195,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "917ad13a522064ff",
+  "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "antioxidant.md",
+    "metacognition.md",
+    "cache hierarchy.md",
     "Untitled.md",
+    "bicycle pedal.md",
+    "VO2 max.md",
+    "training zones (road cycling).md",
+    "antioxidant.md",
     "phosphocreatine.md",
     "alexithymia.md",
-    "psychological trauma.md",
-    "Planck's principle.md",
-    "informal fallacy.md",
-    "metacognition.md",
-    "explore-exploit tradeoff.md",
-    "sports periodization (road cycling).md"
+    "psychological trauma.md"
   ]
 }

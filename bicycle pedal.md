@@ -6,7 +6,7 @@
 		1. why do you still get more quickly tired standing?
 			1. standing is difficult to do at low power output → tired more quickly (wouldn't be the case if you could?)
 3. roughly 80 percent of [[energy]] from metabolism results in heat rather than mechanical power to the pedal^[Cutting-Edge Cycling, p. 243]
-## $\text{cadence*power output*torque}$
+## cadence·power output·torque
 1. Low cadence, low power output, low torque (e.g: general group riding)^[https://sportsincycling.com/blog/motorpacing-all-you-need-to-know/]
 2. high cadence, low power output, low torque (e.g: descending)^[https://sportsincycling.com/blog/motorpacing-all-you-need-to-know/]
 3. low cadence, high power output, high torque (e.g: climbing)^[https://sportsincycling.com/blog/motorpacing-all-you-need-to-know/]

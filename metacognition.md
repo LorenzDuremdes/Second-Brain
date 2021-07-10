@@ -1,6 +1,10 @@
 1. metacognition → [[algorithmic efficiency]]
 	1. metacognition is an example of increasing [[algorithmic efficiency]]
 
+# [[concept network]]
+1. how could e.g. "X → Y" make you think faster than e.g. "why is it that... when..."? (Anki)
+	1. you have to recall/activate a lot less to activate concepts
+
 # [[explore-exploit trade-off]]
 1. [[explore-exploit trade-off]] → maintenance
 	1. maintenance is mostly exploiting, which makes it much more efficient
