@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "alexithymia.md",
+                "file": "antioxidant.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "alexithymia.md",
+                "file": "antioxidant.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "alexithymia.md",
+                "file": "antioxidant.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "interval scale",
+                "query": "antioxidant",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "alexithymia.md",
+                "file": "antioxidant.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "alexithymia.md"
+                "file": "antioxidant.md"
               }
             }
           }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "alexithymia.md",
+                "file": "antioxidant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,17 +194,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "c16c701ef436c416",
+  "active": "917ad13a522064ff",
   "lastOpenFiles": [
+    "antioxidant.md",
+    "Untitled.md",
+    "phosphocreatine.md",
     "alexithymia.md",
     "psychological trauma.md",
     "Planck's principle.md",
-    "Untitled.md",
     "informal fallacy.md",
     "metacognition.md",
     "explore-exploit tradeoff.md",
-    "sports periodization (road cycling).md",
-    "sports periodization.md",
-    "parasympathetic nervous system.md"
+    "sports periodization (road cycling).md"
   ]
 }
