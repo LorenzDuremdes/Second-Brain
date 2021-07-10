@@ -1,0 +1,1 @@
+1. an abnormal [[heart]] rhythm (arrhythmia) characterized by the rapid and irregular beating of the atrial chambers of the [[heart]]^[https://en.wikipedia.org/wiki/Atrial_fibrillation#cite_note-11]

@@ -1,0 +1,4 @@
+1. ankh; an ancient Egyptian hieroglyphic symbol that was most commonly used in writing and in Egyptian art to represent the word for "life" and, by extension, as a symbol of life itself^[https://en.wikipedia.org/wiki/Ankh]
+2. The King Ramsès II among the gods. Painted limestone. Circa 1275 BC. 19th dynasty. From the small temple built by Ramses II in Abydos. (Louvre museum, Paris, France).^[By Tangopaso - Self-photographed, Public Domain, https://commons.wikimedia.org/w/index.php?curid=66556885]
+
+	<img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Le_roi_Rams%C3%A8s_parmi_les_dieux_%28Louvre%2C_B_13%29.jpg" width="300" />

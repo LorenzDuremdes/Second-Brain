@@ -1,0 +1,2 @@
+1. cardiac fibrosis; an abnormal thickening of the [[heart]] valves due to inappropriate proliferation of cardiac fibroblasts.^[https://en.wikipedia.org/wiki/Cardiac_fibrosis#cite_note-pmid27339799-1]
+2. **alternative definition**: commonly refers to the excess deposition of extracellular matrix in the [[cardiac muscle]]^[https://en.wikipedia.org/wiki/Cardiac_fibrosis]
