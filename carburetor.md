@@ -1,0 +1,1 @@
+1. a device that mixes air and fuel for internal combustion engines in an appropriate air–fuel ratio for combustion^[https://en.wikipedia.org/wiki/Carburetor]

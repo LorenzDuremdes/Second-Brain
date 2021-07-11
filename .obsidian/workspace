@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "functional threshold power.md",
+                "file": "Broca's area.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "functional threshold power.md",
+                "file": "Broca's area.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.013369370183440428,
+                  "scale": 0.015991330090848847,
                   "close": false
                 }
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "functional threshold power.md",
+                "file": "Broca's area.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ftp",
+                "query": "broca's",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "functional threshold power.md",
+                "file": "Broca's area.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "functional threshold power.md"
+                "file": "Broca's area.md"
               }
             }
           }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "functional threshold power.md",
+                "file": "Broca's area.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,15 +196,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "functional threshold power.md",
-    "cardiovascular drift.md",
-    "Intervals.icu.md",
+    "Broca's area.md",
+    "Aelius Galenus.md",
+    "Gran Fondo.md",
     "Untitled.md",
-    "sports periodization (road cycling).md",
-    "atrial fibrillation.md",
-    "metacognition.md",
-    "cache hierarchy.md",
-    "bicycle pedal.md",
-    "VO2 max.md"
+    "functional threshold power.md",
+    "sweet spot (road cycling).md",
+    "functional threshold heart rate.md",
+    "lactate threshold.md",
+    "cardiovascular drift.md",
+    "Intervals.icu.md"
   ]
 }

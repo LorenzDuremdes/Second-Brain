@@ -9,7 +9,8 @@
 # FTP test
 ## CTS field test
 1. 2·8 minutes with 10 minutes rest^[https://support.trainerroad.com/hc/en-us/articles/360003912172-How-to-Test-with-the-20-Minute-8-Minute-FTP-Tests]
-	1. FTP=average watts·0.9
+	1. FTP=average watts·0.9 (same with "[[functional threshold heart rate|FTHR]]")
+2. CTS = Carmichael Training Systems, author of "The Time-Crunched Cyclist: Race-Winning Fitness in 6 Hours a Week, 3rd Edition"
 
 # related
 1. [[road cycling]]
