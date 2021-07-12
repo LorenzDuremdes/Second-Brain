@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Broca's area.md",
+                "file": "stretch-shortening cycle.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Broca's area.md",
+                "file": "stretch-shortening cycle.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Broca's area.md",
+                "file": "stretch-shortening cycle.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "broca's",
+                "query": "skeletal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Broca's area.md",
+                "file": "stretch-shortening cycle.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Broca's area.md"
+                "file": "stretch-shortening cycle.md"
               }
             }
           }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Broca's area.md",
+                "file": "stretch-shortening cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,10 +196,10 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Gran Fondo.md",
     "Broca's area.md",
     "Aelius Galenus.md",
-    "Gran Fondo.md",
-    "Untitled.md",
     "functional threshold power.md",
     "sweet spot (road cycling).md",
     "functional threshold heart rate.md",
