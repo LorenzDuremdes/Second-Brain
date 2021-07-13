@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stretch-shortening cycle.md",
+                "file": "The Time-Crunched Cyclist — Race-Winning Fitness in 6 Hours a Week, 3rd Edition.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "stretch-shortening cycle.md",
+                "file": "The Time-Crunched Cyclist — Race-Winning Fitness in 6 Hours a Week, 3rd Edition.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.015991330090848847,
+                  "scale": 0.013369370183441422,
                   "close": false
                 }
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stretch-shortening cycle.md",
+                "file": "The Time-Crunched Cyclist — Race-Winning Fitness in 6 Hours a Week, 3rd Edition.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "skeletal",
+                "query": "time crun",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stretch-shortening cycle.md",
+                "file": "The Time-Crunched Cyclist — Race-Winning Fitness in 6 Hours a Week, 3rd Edition.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stretch-shortening cycle.md"
+                "file": "The Time-Crunched Cyclist — Race-Winning Fitness in 6 Hours a Week, 3rd Edition.md"
               }
             }
           }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stretch-shortening cycle.md",
+                "file": "The Time-Crunched Cyclist — Race-Winning Fitness in 6 Hours a Week, 3rd Edition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,6 +196,8 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "The Time-Crunched Cyclist — Race-Winning Fitness in 6 Hours a Week, 3rd Edition.md",
+    "stretch-shortening cycle.md",
     "Untitled.md",
     "Gran Fondo.md",
     "Broca's area.md",
@@ -203,8 +205,6 @@
     "functional threshold power.md",
     "sweet spot (road cycling).md",
     "functional threshold heart rate.md",
-    "lactate threshold.md",
-    "cardiovascular drift.md",
-    "Intervals.icu.md"
+    "lactate threshold.md"
   ]
 }
