@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Time-Crunched Cyclist — Race-Winning Fitness in 6 Hours a Week, 3rd Edition.md",
+                "file": "fasted training.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "The Time-Crunched Cyclist — Race-Winning Fitness in 6 Hours a Week, 3rd Edition.md",
+                "file": "fasted training.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Time-Crunched Cyclist — Race-Winning Fitness in 6 Hours a Week, 3rd Edition.md",
+                "file": "fasted training.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "time crun",
+                "query": "skeletal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Time-Crunched Cyclist — Race-Winning Fitness in 6 Hours a Week, 3rd Edition.md",
+                "file": "fasted training.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Time-Crunched Cyclist — Race-Winning Fitness in 6 Hours a Week, 3rd Edition.md"
+                "file": "fasted training.md"
               }
             }
           }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Time-Crunched Cyclist — Race-Winning Fitness in 6 Hours a Week, 3rd Edition.md",
+                "file": "fasted training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,15 +196,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "fasted training.md",
+    "skeletal muscle.md",
+    "glycogen.md",
+    "cardiovascular drift.md",
+    "training stress score.md",
+    "lactate threshold.md",
+    "train low, race high.md",
+    "ultra-distance cycling.md",
     "The Time-Crunched Cyclist — Race-Winning Fitness in 6 Hours a Week, 3rd Edition.md",
-    "stretch-shortening cycle.md",
-    "Untitled.md",
-    "Gran Fondo.md",
-    "Broca's area.md",
-    "Aelius Galenus.md",
-    "functional threshold power.md",
-    "sweet spot (road cycling).md",
-    "functional threshold heart rate.md",
-    "lactate threshold.md"
+    "stretch-shortening cycle.md"
   ]
 }
