@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "time trial.md",
+                "file": "skeletal muscle fiber types.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "time trial.md",
+                "file": "skeletal muscle fiber types.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.0228787275650424,
+                  "scale": 0.015991330090848677,
                   "close": false
                 }
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "time trial.md",
+                "file": "skeletal muscle fiber types.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "time trial",
+                "query": "muscle fiber",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -129,7 +129,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -149,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "time trial.md",
+                "file": "skeletal muscle fiber types.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "time trial.md"
+                "file": "skeletal muscle fiber types.md"
               }
             }
           }
@@ -177,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "time trial.md",
+                "file": "skeletal muscle fiber types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,6 +197,8 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "skeletal muscle fiber types.md",
+    "muscle protein synthesis.md",
     "time trial.md",
     "nutrition (road cycling).md",
     "Untitled.md",
@@ -203,8 +206,6 @@
     "maintenance volume (sports science).md",
     "fasted training.md",
     "skeletal muscle.md",
-    "glycogen.md",
-    "cardiovascular drift.md",
-    "training stress score.md"
+    "glycogen.md"
   ]
 }
