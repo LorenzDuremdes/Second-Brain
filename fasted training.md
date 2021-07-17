@@ -6,7 +6,7 @@
 1. how long to not eat carbohydrates beforehand for "fasted training"?^[https://www.trainerroad.com/blog/program-body-burn-fat-instead-store-fasted-training/]
 	1. ≥12 hours
 2. how long "fasted training (session)"? + why
-	1. until most of your muscle glycogen is depleted, because you will hit a wall afterward = ~60–90 minutes^[https://www.trainerroad.com/blog/program-body-burn-fat-instead-store-fasted-training/]
+	1. until most of your muscle [[glycogen]] is depleted, because you will hit a wall afterward = ~60–90 minutes^[https://www.trainerroad.com/blog/program-body-burn-fat-instead-store-fasted-training/]
 
 # related
 1. [[sports periodization (road cycling)]]

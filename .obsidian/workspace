@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fasted training.md",
+                "file": "time trial.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "fasted training.md",
+                "file": "time trial.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.013369370183441422,
+                  "scale": 0.0228787275650424,
                   "close": false
                 }
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fasted training.md",
+                "file": "time trial.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "skeletal",
+                "query": "time trial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fasted training.md",
+                "file": "time trial.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fasted training.md"
+                "file": "time trial.md"
               }
             }
           }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fasted training.md",
+                "file": "time trial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,15 +196,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "time trial.md",
+    "nutrition (road cycling).md",
+    "Untitled.md",
+    "dolos.md",
+    "maintenance volume (sports science).md",
     "fasted training.md",
     "skeletal muscle.md",
     "glycogen.md",
     "cardiovascular drift.md",
-    "training stress score.md",
-    "lactate threshold.md",
-    "train low, race high.md",
-    "ultra-distance cycling.md",
-    "The Time-Crunched Cyclist — Race-Winning Fitness in 6 Hours a Week, 3rd Edition.md",
-    "stretch-shortening cycle.md"
+    "training stress score.md"
   ]
 }
