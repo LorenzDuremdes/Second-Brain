@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skeletal muscle fiber types.md",
+                "file": "exercise-induced gastrointestinal syndrome.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "skeletal muscle fiber types.md",
+                "file": "exercise-induced gastrointestinal syndrome.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skeletal muscle fiber types.md",
+                "file": "exercise-induced gastrointestinal syndrome.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "muscle fiber",
+                "query": "exercise",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -129,8 +129,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "skeletal muscle fiber types.md",
+                "file": "exercise-induced gastrointestinal syndrome.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "skeletal muscle fiber types.md"
+                "file": "exercise-induced gastrointestinal syndrome.md"
               }
             }
           }
@@ -178,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "skeletal muscle fiber types.md",
+                "file": "exercise-induced gastrointestinal syndrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,11 +196,11 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "Untitled.md",
     "skeletal muscle fiber types.md",
     "muscle protein synthesis.md",
     "time trial.md",
     "nutrition (road cycling).md",
-    "Untitled.md",
     "dolos.md",
     "maintenance volume (sports science).md",
     "fasted training.md",

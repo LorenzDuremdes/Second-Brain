@@ -1,0 +1,3 @@
+1. exercise-induced gastrointestinal syndrome; refers to disturbances of gastrointestinal integrity and function that are common features of strenuous exercise^[https://onlinelibrary.wiley.com/doi/full/10.1111/apt.14157]
+2. how can "[[physical exercise|exercise]]-induced gastrointestinal distress → less digestion" cause issues?
+	1. e.g. [[food]] that sits in the gut generates gas, leading to pressure, bloating...^[The Time-Crunched Cyclist: Race-Winning Fitness in 6 Hours a Week, 3rd Edition, p. 45]
