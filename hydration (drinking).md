@@ -26,6 +26,13 @@
 7. low levels of blood sodium concentration and blood dilution may cause symptoms such as “confusion, disorientation, progressively worsening headache, nausea, vomiting, aphasia, impaired coordination, muscle cramps, and muscle weakness. Complications of severe hyponatremia include cerebral and pulmonary edema that can result in seizure, coma, and cardiorespiratory arrest” (Casa et al. 2005).^[Cutting-Edge Cycling, p. 251]
 	1. how?
 		1. this degree of dilution of the blood may produce dangerous swelling of the [[central nervous system]]
+
+### [[VO2 max]]
+1. how can dehydration lower VO<sub>2</sub>max?
+	1. stroke volume decreases due to less plasma volume (being used as sweat), which reduces VO<sub>2</sub>max^[The Time-Crunched Cyclist: Race-Winning Fitness in 6 Hours a Week, 3rd Edition, p. 45]
+2. how can dehydration increase RPE at same intensity when hydrated?
+	1. lower VO2 max makes any given intensity a higher percentage of your VO2 max and lactate threshold^[The Time-Crunched Cyclist: Race-Winning Fitness in 6 Hours a Week, 3rd Edition, p. 45]
+
 ## performance
 1. hydration during exercise → recovery
 	1. riders can tolerate mild dehydration during exercise to a certain extent, but too much of a deficit during exercise eventually impairs performance and makes it harder to recover adequately for subsequent training^[Cutting-Edge Cycling, p. 244]
