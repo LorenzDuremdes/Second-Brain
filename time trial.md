@@ -7,3 +7,4 @@
 # equipment
 1. how could it make sense that aero overshoes save so many watts relatively?
 	1. ◇exponential air resistance at top of pedal stroke
+		1. same as spokes
