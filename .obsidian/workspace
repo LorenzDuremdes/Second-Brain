@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fasted training.md",
+                "file": "phase potentiation.md",
                 "mode": "source"
               }
             },
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "fasted training.md",
+                "file": "phase potentiation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.011177310335440702,
+                  "scale": 0.0159913300908485,
                   "close": false
                 }
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fasted training.md",
+                "file": "phase potentiation.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fast",
+                "query": "crossover",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -129,8 +129,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fasted training.md",
+                "file": "phase potentiation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,12 +161,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fasted training.md"
+                "file": "phase potentiation.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a834b3f3361a68cb",
@@ -179,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fasted training.md",
+                "file": "phase potentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,17 +194,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "c16c701ef436c416",
+  "active": "917ad13a522064ff",
   "lastOpenFiles": [
+    "phase potentiation.md",
+    "phase interference.md",
+    "Untitled.md",
     "fasted training.md",
     "hydration (drinking).md",
     "time trial.md",
     "osmotic concentration.md",
-    "Untitled.md",
     "exercise-induced gastrointestinal syndrome.md",
     "skeletal muscle fiber types.md",
-    "muscle protein synthesis.md",
-    "nutrition (road cycling).md",
-    "dolos.md"
+    "muscle protein synthesis.md"
   ]
 }
