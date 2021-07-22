@@ -1,0 +1,1 @@
+1. sweet spot ([[road bicycle racing]]); close enough to the front that the pace is very steady, and you’re able to see and anticipate accelerations and attacks. At the same time, you’re deep enough in the field that you’re safely tucked into the draft^[The Time-Crunched Cyclist: Race-Winning Fitness in 6 Hours a Week, 3rd Edition, p. 48]
