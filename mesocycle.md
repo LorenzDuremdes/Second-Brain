@@ -1,0 +1,1 @@
+1. accumulation to deload paradigm; the ratio of time spent in an accumulation phase relative to a deload phase for a given mesocycle^[Scientific Principles of [[Hypertrophy]] Training, p. 9]

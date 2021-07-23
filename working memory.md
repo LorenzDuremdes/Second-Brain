@@ -3,8 +3,12 @@
 	1. left frontal [[cortex]] → advanced enough for rehearsal
 3. age → working-[[memory]] capacity + speed
 	1. working-[[memory]] capacity declines faster than [[throughput|processing speed]]
-4. $\text{genetics → working memory*correlation}$
+4. genetics → working [[memory]] · correlation
 	1. ~50% genetically determined
+
+# capacity
+1. too many clozes (usually ≥5) of the same card (working [[memory]] analogy)
+	1. ◇exponential increase in complexity ([[logical conjunction|conjunction]])
 
 # [[memory]] span
 1. why does [[memory]] span decrease after adulthood?
