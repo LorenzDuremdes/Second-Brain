@@ -3,4 +3,4 @@
 
 # related
 1. [[resistance training]]
-2. [[volume (resistance training)]]
+2. [[volume (sports science)]]

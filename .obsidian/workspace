@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "block (sports periodization).md",
+                "file": "volume (sports science).md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "block (sports periodization).md",
+                "file": "volume (sports science).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "block (sports periodization).md",
+                "file": "volume (sports science).md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "macrocycle",
+                "query": "maximum ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "block (sports periodization).md",
+                "file": "volume (sports science).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "block (sports periodization).md"
+                "file": "volume (sports science).md"
               }
             }
           }
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "block (sports periodization).md",
+                "file": "volume (sports science).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,17 +192,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "8e2a7c99edc6c1f2",
+  "active": "c71bd5d11b59282f",
   "lastOpenFiles": [
+    "volume (sports science).md",
+    "maximum recoverable volume.md",
+    "volume (resistance training).md",
     "block (sports periodization).md",
     "macrocycle (sports periodization).md",
     "Untitled.md",
     "mesocycle.md",
     "working memory.md",
     "road bicycle racing.md",
-    "Untitled mindmap.md",
-    "sweet spot (road racing).md",
-    "The Time-Crunched Cyclist — Race-Winning Fitness in 6 Hours a Week, 3rd Edition.md",
-    "junk miles.md"
+    "Untitled mindmap.md"
   ]
 }

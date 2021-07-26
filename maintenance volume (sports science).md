@@ -3,4 +3,4 @@
 		1. why? ◇due to e.g. MPS
 
 # related
-1. [[volume (resistance training)]]
+1. [[volume (sports science)]]
