@@ -48,7 +48,7 @@
 	2. **see also**: The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 119–120
 
 ### [[alexithymia]]
-1. many people with psychological trauma experience [[alexithymia]]^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 121]
+1. many people with psychological trauma experience [[alexithymia]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 121]
 
 ## [[interpersonal relationship|interpersonal]]
 1. any sort of deep intimacy—a close embrace, sleeping with a mate, and [[sex]]—requires allowing oneself to experience immobilization without fear^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma]
