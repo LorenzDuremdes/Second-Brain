@@ -1,0 +1,1 @@
+1. tautology ([[language]]); a statement which repeats an idea, using near-synonymous morphemes, words or phrases, effectively "saying the same thing twice".^[https://en.wikipedia.org/wiki/Tautology_(language)#cite_note-Fowler-1]^[https://en.wikipedia.org/wiki/Tautology_(language)#cite_note-2]
