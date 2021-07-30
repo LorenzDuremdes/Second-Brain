@@ -21,5 +21,14 @@
 1. what can you do when overload volume exceeds MRV (elite)?^[How Much Should I Train by Dr. Mike Israetel and Dr. James Hoffmann, p. 25]
 	1. you have to increase intensity and other things e.g. metabolite training or BFR
 
+# types of training
+## speed work
+1. speed work → fatigue (MRV)^[How Much Should I Train by Dr. Mike Israetel and Dr. James Hoffmann , p. 26–27]
+	1. speed work is quite fatiguing in itself
+
+## [[endurance training]]
+1. [[endurance training]] → fatigue (MRV)^[How Much Should I Train by Dr. Mike Israetel and Dr. James Hoffmann, p. 28]
+	1. [[endurance training]] usually has a very high MRV e.g. due to not being as fatiguing, excellent blood perfusion, slower-twitch muscle fibers, smaller muscle size...
+
 # men ↮ women
 1. women usually have higher MRVs due to being shorter, producing less force, and inter alia don't take as much homeostatic damage from training^[How Much Should I Train by Dr. Mike Israetel and Dr. James Hoffmann, p. 16]

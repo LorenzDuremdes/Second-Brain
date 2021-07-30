@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "maximum recoverable volume.md",
+                "file": "endurance training.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "maximum recoverable volume.md",
+                "file": "endurance training.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,8 +68,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "maximum recoverable volume.md",
-                "mode": "preview"
+                "file": "endurance training.md",
+                "mode": "source"
               }
             },
             "group": "3f2b118877ec6c43"
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nonfun",
+                "query": "endurance",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "maximum recoverable volume.md",
+                "file": "endurance training.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "maximum recoverable volume.md"
+                "file": "endurance training.md"
               }
             }
           }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "maximum recoverable volume.md",
+                "file": "endurance training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,17 +193,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "3e11b765c14c970e",
+  "active": "c71bd5d11b59282f",
   "lastOpenFiles": [
+    "endurance training.md",
     "maximum recoverable volume.md",
+    "interpersonal neurobiology.md",
     "functional overreaching.md",
     "nonfunctional overreaching.md",
     "Untitled.md",
     "tautology (logic).md",
     "progressive overload.md",
     "physical fitness.md",
-    "work capacity (sports science).md",
-    "psychological trauma.md",
-    "grafische dossieranalyse Lorenz Duremdes (~2021).md"
+    "work capacity (sports science).md"
   ]
 }
