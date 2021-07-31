@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "road cycling.md",
+                "file": "adaptation curve.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "road cycling.md",
+                "file": "adaptation curve.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.013596673034996468,
+                  "scale": 0.011367344306907157,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "road cycling.md",
+                "file": "adaptation curve.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "road cycl",
+                "query": "repeated bout",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "road cycling.md",
+                "file": "adaptation curve.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -159,12 +159,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "road cycling.md"
+                "file": "adaptation curve.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a834b3f3361a68cb",
@@ -176,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "road cycling.md",
+                "file": "adaptation curve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +194,15 @@
   },
   "active": "c71bd5d11b59282f",
   "lastOpenFiles": [
+    "adaptation curve.md",
+    "Untitled.md",
+    "maximum adaptive volume.md",
+    "repeated bout effect.md",
+    "maximum recoverable volume.md",
+    "shinrin-yoku.md",
     "road cycling.md",
     "minimum effective volume (MEV).md",
-    "maximum recoverable volume.md",
     "fusiform muscle.md",
-    "multipennate muscle.md",
-    "muscle architecture.md",
-    "muscle tissue.md",
-    "Untitled.md",
-    "endurance training.md",
-    "interpersonal neurobiology.md"
+    "multipennate muscle.md"
   ]
 }

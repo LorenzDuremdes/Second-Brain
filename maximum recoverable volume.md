@@ -1,5 +1,7 @@
 1. maximum recoverable volume; the highest volume of training an athlete can do in a particular microcycle (or any chosen timescale e.g. session) and still recover to present a full overload in the next microcycle^[How Much Should I Train by Dr. Mike Israetel and Dr. James Hoffmann, p. 9]
 	1. session → e.g. MRV is estimated to be maximum 12 sets per muscle group per session
+2. what happens when you consistently train _at_ MRV?^[How Much Should I Train by Dr. Mike Israetel and Dr. James Hoffmann, p. 44]
+	1. your body spends all its resources on recovering rather than adaptation
 
 # [[progressive overload|overload]] + [[work capacity (sports science)]]
 1. "overload (sports science)" is a % of "[[work capacity (sports science)]]" is a % of "MRV"^[How Much Should I Train by Dr. Mike Israetel and Dr. James Hoffmann, p. 17]

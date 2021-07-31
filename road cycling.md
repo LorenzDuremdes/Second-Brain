@@ -15,7 +15,7 @@
 
 ## [[skeletal muscle]]
 1. how to increase your ability to e.g. cycle through a head wind?^[The Cyclist's Training Bible, p. 19]
-	1. e.g. legs resistance training
+	1. e.g. legs [[resistance training]]
 
 ## tracking performance
 ### technology
@@ -48,7 +48,7 @@
 
 ## mesocycle
 ### [[resistance training]]
-1. legs (resistance training) → MEV → endurance (road cycling)
+1. legs ([[resistance training]]) → MEV → endurance (road cycling)
 	1. ◇the first might reduce the 2nd, which can make it easier to cause overload for endurance?
 		1. e.g. due to more faster-twitch muscle fibers, bigger muscle fibers...
 

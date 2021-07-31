@@ -1,0 +1,1 @@
+1. shinrin-yoku; Japanse for "forest bathing"
