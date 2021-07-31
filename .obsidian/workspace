@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "endurance training.md",
+                "file": "road cycling.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "endurance training.md",
+                "file": "road cycling.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.016263210881038204,
+                  "scale": 0.013596673034996468,
                   "close": false
                 }
               }
@@ -68,8 +68,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "endurance training.md",
-                "mode": "source"
+                "file": "road cycling.md",
+                "mode": "preview"
               }
             },
             "group": "3f2b118877ec6c43"
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "endurance",
+                "query": "road cycl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "endurance training.md",
+                "file": "road cycling.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "endurance training.md"
+                "file": "road cycling.md"
               }
             }
           }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "endurance training.md",
+                "file": "road cycling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "c71bd5d11b59282f",
   "lastOpenFiles": [
-    "endurance training.md",
+    "road cycling.md",
+    "minimum effective volume (MEV).md",
     "maximum recoverable volume.md",
-    "interpersonal neurobiology.md",
-    "functional overreaching.md",
-    "nonfunctional overreaching.md",
+    "fusiform muscle.md",
+    "multipennate muscle.md",
+    "muscle architecture.md",
+    "muscle tissue.md",
     "Untitled.md",
-    "tautology (logic).md",
-    "progressive overload.md",
-    "physical fitness.md",
-    "work capacity (sports science).md"
+    "endurance training.md",
+    "interpersonal neurobiology.md"
   ]
 }

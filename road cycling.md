@@ -46,6 +46,12 @@
 		1. [[Henneman's size principle]]
 		2. [[block training]] · [[pre-exhaust training]] → having to do less to (more quickly) stimulate slower-twitch muscle fibers?
 
+## mesocycle
+### [[resistance training]]
+1. legs (resistance training) → MEV → endurance (road cycling)
+	1. ◇the first might reduce the 2nd, which can make it easier to cause overload for endurance?
+		1. e.g. due to more faster-twitch muscle fibers, bigger muscle fibers...
+
 ## macrocycle
 1. what does Joe Friel mean with "limiters"?^[The Cyclist's Training Bible, p. 18]
 	1. limiting factors (required for e.g. an upcoming race)

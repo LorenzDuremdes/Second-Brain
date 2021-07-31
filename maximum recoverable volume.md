@@ -17,6 +17,9 @@
 3. height → MRV^[How Much Should I Train by Dr. Mike Israetel and Dr. James Hoffmann, p. 15]
 	1. taller people usually have lower MRVs due to a bigger ROM
 
+## [[fast-twitch muscle fibers type II]]
+
+
 # training experience
 1. what can you do when overload volume exceeds MRV (elite)?^[How Much Should I Train by Dr. Mike Israetel and Dr. James Hoffmann, p. 25]
 	1. you have to increase intensity and other things e.g. metabolite training or BFR
