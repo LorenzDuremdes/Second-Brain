@@ -48,12 +48,13 @@
 
 
 
-# IQ
-1. article + video you can show people when they think "IQ=intelligence" (or to a large degree) and can't be increased
+# [[IQ]]
+1. article + video you can show people when they think "[[IQ]]=intelligence" (or to a large degree) and can't be increased
 
 	https://sites.google.com/view/sourcesintelligence
 
 	[What Is Intelligence? Where Does it Begin? (Kurzgesagt, YouTube)](https://www.youtube.com/watch?v=ck4RGeoHFko)
+2. the question then is not whether these tests are useful or measure something meaningful, but rather whether what they measure is indeed “intelligence”^[Universal Intelligence: A Definition of Machine Intelligence, p. 5]
 
 ## intelligence + learning
 1. **Quote**: “Although learning and intelligence can be conceptually distinguished in terms of formal definitions and measurements, a review of evidence on the relationship between individual differences in measures of learning and of intelligence suggests that no clear distinction can be made between the cognitive processes that contribute to individual differences in these two definitionally different realms.”^[https://www.sciencedirect.com/science/article/pii/1041608089900095]^[https://sites.google.com/view/sourcesintelligence]
