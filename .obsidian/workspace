@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "practopoiesis.md",
+                "file": "intelligence.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "practopoiesis.md",
+                "file": "intelligence.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "practopoiesis.md",
+                "file": "intelligence.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "repeated bout",
+                "query": "intelligence",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "practopoiesis.md",
+                "file": "intelligence.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -159,11 +159,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "practopoiesis.md"
+                "file": "intelligence.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a834b3f3361a68cb",
@@ -175,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "practopoiesis.md",
+                "file": "intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,15 +195,15 @@
   },
   "active": "c71bd5d11b59282f",
   "lastOpenFiles": [
+    "intelligence.md",
+    "cognitive science.md",
+    "Screenshot from 2021-08-02 10-45-35.jpg",
+    "practopoiesis.md",
     "Untitled.md",
     "maximum recoverable volume.md",
     "maximum adaptive volume.md",
     "adaptation curve.md",
     "repeated bout effect.md",
-    "shinrin-yoku.md",
-    "road cycling.md",
-    "minimum effective volume (MEV).md",
-    "fusiform muscle.md",
-    "multipennate muscle.md"
+    "shinrin-yoku.md"
   ]
 }

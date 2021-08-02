@@ -1,28 +1,19 @@
-1. intelligence → gravity
-	1. intelligence is like gravity: it emanates from its point(s) of influence and (usually) becomes weaker farther away from them
-		1. analogous to extended [[mind]] thesis
-			1. interference1=[[gravitational potential energy]] → why (not)?
-# [[information]]
-1. heavy weighing factors causing external [[information]] (not stored in one's long-term [[human memory]]) to not contribute much to one's intelligence
-	1. high latency
-	2. less quantity of [[information]] (e.g. [[brain]] makes from "A" and "B" → "AB")
-3. do you have to know beforehand why you want to ask something? + why
-	1. not necessarily → sometimes just increasing the quantity/accuracy of manipulable [[information]] is enough → increase future freedom of action
-		1. e.g. you don't know (everything) either what you can do with the knowledge you acquire (in [[spaced repetition|SRS]])
+# increasing intelligence
+1. how could it make sense that one can 'acquire heritable (hardware) intelligence'?
+	1. ◇some behavior/underlying processes are pre-programmed (since birth), which could be the same with people born with 'better hardware' e.g. "if X do Y"
 
-# high intelligence
-1. high intelligence → "simple" questions are complicated
-	1. This is why high+ gifted people often seem so out of sync with those around them. The question “how are you today?” can feel extremely complex (How am I about which aspect of my life? Why are you asking? How should I be? and so on)
-2. positive correlation between [[emotion|emotional]] intensity and intelligence (especially in girls)?
-	1. e.g. ProjektMelody, Hanna Freriks, yourself, Anne-Lynn de Kock
-	2. better [[neurophysiology|hardware]] → increases intensity of all?
+		the latter could be acquired even by those not possessing that hardware, although having it innate could make it more efficient _in itself_, but also due to utilizing it since birth
 
-# intelligence formula
+# intelligence formulae
+## F = T ∇ Sτ
 1. intelligence → [[entropy]]
 	1. higher intelligence decreases local [[entropy]] more quickly/efficiently
 2. intelligence formula → [[exploration-exploitation trade-off]]
 	1. usually, the fewer the (future) options, the more one should (or is) exploit
 	2. the more options you can eliminate (not necessarily future ones), the faster one can go from exploration to exploitation e.g. [[dating]]
+
+## universal intelligence
+![[universal intelligence.jpg]]^[https://arxiv.org/abs/0712.3329]
 
 ## process
 1. maximizing intelligence → converging criticalities
@@ -38,6 +29,40 @@
 				1. the most connected ones usually reside in the highest [[cache]] hierarchy and you also want these units to increase intelligence the most
 	2. **related**
 		1. [[connectivity noise]]
+
+
+# [[information]]
+1. heavy weighing factors causing external [[information]] (not stored in one's long-term [[human memory]]) to not contribute much to one's intelligence
+	1. high latency
+	2. less quantity of [[information]] (e.g. [[brain]] makes from "A" and "B" → "AB")
+3. do you have to know beforehand why you want to ask something? + why
+	1. not necessarily → sometimes just increasing the quantity/accuracy of manipulable [[information]] is enough → increase future freedom of action
+		1. e.g. you don't know (everything) either what you can do with the knowledge you acquire (in [[spaced repetition|SRS]])
+
+# high intelligence
+1. high intelligence → "simple" questions are complicated
+	1. This is why high+ gifted people often seem so out of sync with those around them. The question “how are you today?” can feel extremely complex (How am I about which aspect of my life? Why are you asking? How should I be? and so on)
+2. positive correlation between [[emotion|emotional]] intensity and intelligence (especially in girls)?
+	1. e.g. ProjektMelody, Hanna Freriks, yourself, Anne-Lynn de Kock
+	2. better [[neurophysiology|hardware]] → increases intensity of all?
+
+
+
+# IQ
+1. article + video you can show people when they think "IQ=intelligence" (or to a large degree) and can't be increased
+
+	https://sites.google.com/view/sourcesintelligence
+
+	[What Is Intelligence? Where Does it Begin? (Kurzgesagt, YouTube)](https://www.youtube.com/watch?v=ck4RGeoHFko)
+
+## intelligence + learning
+1. **Quote**: “Although learning and intelligence can be conceptually distinguished in terms of formal definitions and measurements, a review of evidence on the relationship between individual differences in measures of learning and of intelligence suggests that no clear distinction can be made between the cognitive processes that contribute to individual differences in these two definitionally different realms.”^[https://www.sciencedirect.com/science/article/pii/1041608089900095]^[https://sites.google.com/view/sourcesintelligence]
+
+# analogs
+1. intelligence → gravity
+	1. intelligence is like gravity: it emanates from its point(s) of influence and (usually) becomes weaker farther away from them
+		1. analogous to extended [[mind]] thesis
+			1. interference1=[[gravitational potential energy]] → why (not)?
 
 # related
 1. [[collective intelligence]]
