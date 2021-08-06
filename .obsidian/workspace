@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Antarctic oasis.md",
+                "file": "intelligence.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Antarctic oasis.md",
+                "file": "intelligence.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.48854597807787037,
+                  "scale": 0.013369370183441602,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Antarctic oasis.md",
+                "file": "intelligence.md",
                 "mode": "preview"
               }
             },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Antarctic oasis.md",
+                "file": "intelligence.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -159,11 +159,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Antarctic oasis.md"
+                "file": "intelligence.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a834b3f3361a68cb",
@@ -175,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Antarctic oasis.md",
+                "file": "intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,15 +195,15 @@
   },
   "active": "c71bd5d11b59282f",
   "lastOpenFiles": [
-    "Antarctic oasis.md",
+    "intelligence.md",
+    "set membership (element (mathematics)).md",
     "Untitled.md",
     "global brain.md",
+    "Antarctic oasis.md",
     "distributed cognition.md",
     "extended mind.md",
     "implementation intention.md",
-    "intelligence.md",
     "IQ.md",
-    "Anki.md",
-    "repetition suppression.md"
+    "Anki.md"
   ]
 }

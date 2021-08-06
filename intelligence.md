@@ -17,14 +17,25 @@
 2. 3 basic components of "universal intelligence formula": agent · environment · [[goal]]^[Universal Intelligence: A Definition of Machine Intelligence, p. 15–16]
 
 ### formula
-1. A (universal intelligence) = action space^[Universal Intelligence: A Definition of Machine Intelligence, p. 17]
-2. perception space (P); the environment sends signals to the agent with symbols from a finite set^[Universal Intelligence: A Definition of Machine Intelligence, p. 17]
+1. π (universal intelligence) = agent
+	1. takes the current history as input and chooses the next action as output, probabilistically (not deterministically)
+2. A (universal intelligence) = action space^[Universal Intelligence: A Definition of Machine Intelligence, p. 17]
+3. perception space (P); the environment sends signals to the agent with symbols from a finite set^[Universal Intelligence: A Definition of Machine Intelligence, p. 17]
 	1. symbols; [[information]]
+4. µ (universal intelligence); environment^[Universal Intelligence: A Definition of Machine Intelligence, p. 18]
+
+### environment
+1. for any k ∈ N the [[probability]] of o<sub>k</sub>r<sub>k</sub>, given the current interaction history o<sub>1</sub>r<sub>1</sub>a<sub>1</sub>o<sub>2</sub>r<sub>2</sub>a<sub>2</sub>...o<sub>k−1</sub>r<sub>k−1</sub>a<sub>k−1</sub>, is given by the [[probability]] measure:
+
+	µ(o<sub>k</sub>r<sub>k</sub>|o<sub>1</sub>r<sub>1</sub>a<sub>1</sub>o<sub>2</sub>r<sub>2</sub>a<sub>2</sub>...o<sub>k−1</sub>r<sub>k−1</sub>a<sub>k−1</sub>)
 
 ### [[computer science]]
 1. what does the following depict? (universal intelligence)
 	1. P := {(cold, 0.0), (warm, 1.0), (hot, 0.3)}
 		1. the first part describes what the agent observes (cold, warm or hot) and the second part describes the reward (0.0, 1.0, or 0.3)^[Universal Intelligence: A Definition of Machine Intelligence, p. 17]
+2. what does the following denote? (universal intelligence)
+	1. π(a<sub>3</sub>|o<sub>1</sub>r<sub>1</sub>a<sub>1</sub>o<sub>2</sub>r<sub>2</sub>)
+		1. the [[probability]] of action a 3 in the third cycle, given that the current history is o<sub>1</sub>r<sub>1</sub>a<sub>1</sub>o<sub>2</sub>r<sub>2</sub>^[Universal Intelligence: A Definition of Machine Intelligence, p. 17]
 
 ## process
 1. maximizing intelligence → converging criticalities
