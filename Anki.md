@@ -9,14 +9,14 @@
 	1. trying to recall the whole note
 3. age → accuracy of answer on a cloze + why
 	1. the less you used a cloze elsewhere*the older the cloze/note, the less accurate you need to answer it due to high [[opportunity cost]]
-		1. high opportunity cost → would be more efficient to spend your time and energy on clozes you are more likely to use (in the future)
+		1. high [[opportunity cost]] → would be more efficient to spend your time and energy on clozes you are more likely to use (in the future)
 		2. age → determines "confidence interval" alongside "frequency"
 
 # adding notes
-1. how could it be a good phenomenon to add something to Anki that's "obvious"?
+1. how could it be a *good* phenomenon to add something to Anki that's "obvious"?
 	1. probably higher intervals
 	2. could aid to the proof that you already know the elements well required for understanding it
-2. how could it be a bad thing to add something to Anki that's "obvious"?
+2. how could it be a *bad* thing to add something to Anki that's "obvious"?
 	1. (too many) obvious things that you already use well (subconsciously) → diminishing returns
 	2. e.g. it would be like reading a book you already read
 4. X → Y
@@ -33,10 +33,22 @@
 	3. sufficiently long [[half-life]] (e.g. hundreds of years isn't necessary)
 	4. low enough [[interference theory|interference]]
 	5. note:card ratio=1
-## cloze
+
+## cloze (knowledge formulation)
 1. what [[algorithm]] can you use to determine what to cloze? (Anki)
 	1. [[adaptive replacement cache]] → whatever you cloze, you bring to a higher [[cache]] hierachy
-2. should you cloze e.g. "increases" in the following? + why
+2. which of the following notes could be more effective + why (Anki)
+
+	static [[IQ]] test; they test an individual’s knowledge and ability to solve one-off problems they do not directly measure the ability to learn and adapt over time[Universal [[Intelligence]]: A Definition of Machine [[Intelligence]], p. 9]
+
+	↮
+
+	static ↮ dynamic [[IQ]] test
+
+	?
+	1. the latter, because you question both of them (rather than just one)
+		1. you can't necessarily expect you will automatically recall the antonym (dynamic in the former), ◇although it may happen subconsciously
+1. should you cloze e.g. "increases" in the following? + why
 	1. [[social learning theory]] → [[social currency]]
 
 

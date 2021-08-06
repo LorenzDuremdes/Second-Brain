@@ -1,0 +1,2 @@
+1. Antarctic oasis; a large area naturally free of snow and ice in the otherwise ice-covered continent of Antarctica
+	1. can be caused by e.g. [[katabatic wind]][https://en.wikipedia.org/wiki/Katabatic_wind#Impacts]

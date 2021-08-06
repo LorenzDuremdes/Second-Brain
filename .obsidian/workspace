@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IQ.md",
+                "file": "Antarctic oasis.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IQ.md",
+                "file": "Antarctic oasis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.011367344306907157,
+                  "scale": 0.48854597807787037,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IQ.md",
+                "file": "Antarctic oasis.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intelligence",
+                "query": "extended mind",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IQ.md",
+                "file": "Antarctic oasis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -159,12 +159,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IQ.md"
+                "file": "Antarctic oasis.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a834b3f3361a68cb",
@@ -176,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IQ.md",
+                "file": "Antarctic oasis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +194,15 @@
   },
   "active": "c71bd5d11b59282f",
   "lastOpenFiles": [
-    "IQ.md",
-    "intelligence.md",
-    "repetition suppression.md",
-    "cognitive science.md",
-    "Screenshot from 2021-08-02 10-45-35.jpg",
-    "practopoiesis.md",
+    "Antarctic oasis.md",
     "Untitled.md",
-    "maximum recoverable volume.md",
-    "maximum adaptive volume.md",
-    "adaptation curve.md"
+    "global brain.md",
+    "distributed cognition.md",
+    "extended mind.md",
+    "implementation intention.md",
+    "intelligence.md",
+    "IQ.md",
+    "Anki.md",
+    "repetition suppression.md"
   ]
 }

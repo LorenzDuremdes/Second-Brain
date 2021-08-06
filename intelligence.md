@@ -13,7 +13,18 @@
 	2. the more options you can eliminate (not necessarily future ones), the faster one can go from exploration to exploitation e.g. [[dating]]
 
 ## universal intelligence
-![[universal intelligence.jpg]]^[https://arxiv.org/abs/0712.3329]
+1. ![[universal intelligence.jpg]]^[https://arxiv.org/abs/0712.3329]
+2. 3 basic components of "universal intelligence formula": agent · environment · [[goal]]^[Universal Intelligence: A Definition of Machine Intelligence, p. 15–16]
+
+### formula
+1. A (universal intelligence) = action space^[Universal Intelligence: A Definition of Machine Intelligence, p. 17]
+2. perception space (P); the environment sends signals to the agent with symbols from a finite set^[Universal Intelligence: A Definition of Machine Intelligence, p. 17]
+	1. symbols; [[information]]
+
+### [[computer science]]
+1. what does the following depict? (universal intelligence)
+	1. P := {(cold, 0.0), (warm, 1.0), (hot, 0.3)}
+		1. the first part describes what the agent observes (cold, warm or hot) and the second part describes the reward (0.0, 1.0, or 0.3)^[Universal Intelligence: A Definition of Machine Intelligence, p. 17]
 
 ## process
 1. maximizing intelligence → converging criticalities
