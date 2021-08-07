@@ -28,6 +28,7 @@
 1. for any k ∈ N the [[probability]] of o<sub>k</sub>r<sub>k</sub>, given the current interaction history o<sub>1</sub>r<sub>1</sub>a<sub>1</sub>o<sub>2</sub>r<sub>2</sub>a<sub>2</sub>...o<sub>k−1</sub>r<sub>k−1</sub>a<sub>k−1</sub>, is given by the [[probability]] measure:
 
 	µ(o<sub>k</sub>r<sub>k</sub>|o<sub>1</sub>r<sub>1</sub>a<sub>1</sub>o<sub>2</sub>r<sub>2</sub>a<sub>2</sub>...o<sub>k−1</sub>r<sub>k−1</sub>a<sub>k−1</sub>)
+	1. why "<sub>k−1</sub>"? current interaction history=1 → ¬?
 
 ### [[computer science]]
 1. what does the following depict? (universal intelligence)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intelligence.md",
+                "file": "Johnson's algorithm.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "intelligence.md",
+                "file": "Johnson's algorithm.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.013369370183441602,
+                  "scale": 0.013369370183441252,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intelligence.md",
+                "file": "Johnson's algorithm.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "extended mind",
+                "query": "johnson",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intelligence.md",
+                "file": "Johnson's algorithm.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -159,12 +159,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intelligence.md"
+                "file": "Johnson's algorithm.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a834b3f3361a68cb",
@@ -176,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intelligence.md",
+                "file": "Johnson's algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,9 +194,9 @@
   },
   "active": "c71bd5d11b59282f",
   "lastOpenFiles": [
+    "Untitled.md",
     "intelligence.md",
     "set membership (element (mathematics)).md",
-    "Untitled.md",
     "global brain.md",
     "Antarctic oasis.md",
     "distributed cognition.md",
