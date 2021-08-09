@@ -1,0 +1,1 @@
+1. John Bowlby; a British psychologist, psychiatrist, and psychoanalyst, notable for his interest in child development and for his pioneering work in [[attachment theory]]

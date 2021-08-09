@@ -1,0 +1,1 @@
+1. fail-safe; a design feature or practice that in the event of a specific type of failure, inherently responds in a way that will cause minimal or no harm to other equipment, to the environment or to people^[https://en.wikipedia.org/wiki/Fail-safe]

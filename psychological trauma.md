@@ -51,7 +51,7 @@
 1. many people with psychological trauma experience [[alexithymia]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 121]
 
 ### child
-1. psychological trauma → child · mirror^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 128]
+1. psychological trauma → child · mirror^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 128]
 	1. some children with psychological trauma are unable to recognize themselves in the mirror at an appropriate age and also have an underdeveloped sense of self
 
 ## [[interpersonal relationship|interpersonal]]
@@ -63,13 +63,18 @@
 		1. when adults or children are too skittish or shut down to derive comfort from [[human]] beings, relationships with other mammals can help
 
 ### [[microsociology]]
-1. psychological trauma → eye contact^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 125]
+1. psychological trauma → eye contact^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 125]
 	1. to former usually finds it difficult to initiate/maintain the latter
 
 #### [[neurophysiology]]
-1. psychological trauma · eye contact (neurophysiology)^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 126]
-	1. no activation in the frontal lobe
+1. psychological trauma · eye contact ([[neurophysiology]])^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 126]
+	1. no activation in the [[frontal lobe]]
 	2. activation in the [[periaqueductal gray]]
+
+## [[trauma trigger]]
+1. how could "thematic apperception test" indicate that people with psychological trauma see triggers everywhere?^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 133]
+	1. due to the images being ordinary
+		1. We had not selected these photos because they had some hidden meaning that sensitive people could uncover; they were ordinary images of everyday life. We could only conclude that for abused children, the whole world is filled with triggers. As long as they can imagine only disastrous outcomes to relatively benign situations, anybody walking into a room, any stranger, any image, on a screen or on a billboard might be perceived as a harbinger of catastrophe.
 
 ## [[learned helplessness]]
 1. ...he and Seligman had found that the only way to teach the traumatized dogs to get off the electric grids when the doors were open was to repeatedly drag them out of their cages so they could physically experience how they could get away^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 44]

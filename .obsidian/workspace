@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "John Bowlby.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "John Bowlby.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.017205957466885507,
+                  "scale": 0.01202628706512856,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "John Bowlby.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trauma",
+                "query": "fail",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychological trauma.md"
+                "file": "John Bowlby.md"
               }
             }
           },
@@ -157,13 +157,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "John Bowlby.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a834b3f3361a68cb",
@@ -175,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "John Bowlby.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,15 +195,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "psychological trauma.md",
     "Untitled.md",
+    "psychological trauma.md",
+    "thematic apperception test.md",
+    "fail-safe.md",
+    "Rorschach test.md",
     "interpersonal relationship.md",
     "microsociology.md",
     "working memory.md",
     "cladogram.md",
-    "plant.md",
-    "daylily.md",
-    "medial prefrontal cortex.md",
-    "self-concept.md"
+    "plant.md"
   ]
 }
