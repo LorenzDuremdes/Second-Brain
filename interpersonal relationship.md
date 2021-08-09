@@ -2,6 +2,9 @@
 	1. yes e.g. a [[human]] being knows/is capable of knowing how a monkey functions (e.g. behavior) more than the monkey itself is
 2. steady states tend to be stable when they have a lower level of influence and a lower level of inertia^[The science of [[trust]]: emotional attunement for couples, p. 466]
 
+# microsociology
+1. the most natural way for [[human]] beings to calm themselves when they are upset is by clinging to another person^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 125]
+
 # [[emotion]]
 1. the face is showing 50% [[happiness]] and anger (neutral)^[https://youtu.be/5n6lDNacfk0?t=360, Alok Kanojia]
 

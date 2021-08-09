@@ -1,0 +1,1 @@
+1. periaqueductal gray; a brain region that plays a critical role in autonomic function, motivated behavior and behavioural responses to threatening stimuli.^[https://en.wikipedia.org/wiki/Periaqueductal_gray#cite_note-1]^[https://en.wikipedia.org/wiki/Periaqueductal_gray#cite_note-2]

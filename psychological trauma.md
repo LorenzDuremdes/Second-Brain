@@ -50,6 +50,10 @@
 ### [[alexithymia]]
 1. many people with psychological trauma experience [[alexithymia]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 121]
 
+### child
+1. psychological trauma → child · mirror^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 128]
+	1. some children with psychological trauma are unable to recognize themselves in the mirror at an appropriate age and also have an underdeveloped sense of self
+
 ## [[interpersonal relationship|interpersonal]]
 1. any sort of deep intimacy—a close embrace, sleeping with a mate, and [[sex]]—requires allowing oneself to experience immobilization without fear^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma]
 
@@ -57,6 +61,15 @@
 1. complexity · [[human]]-dog relationship → psychological trauma (treatment)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 99]
 	1. dogs and horses and even dolphins offer **less complicated** companionship while providing the necessary sense of safety
 		1. when adults or children are too skittish or shut down to derive comfort from [[human]] beings, relationships with other mammals can help
+
+### [[microsociology]]
+1. psychological trauma → eye contact^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 125]
+	1. to former usually finds it difficult to initiate/maintain the latter
+
+#### [[neurophysiology]]
+1. psychological trauma · eye contact (neurophysiology)^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 126]
+	1. no activation in the frontal lobe
+	2. activation in the [[periaqueductal gray]]
 
 ## [[learned helplessness]]
 1. ...he and Seligman had found that the only way to teach the traumatized dogs to get off the electric grids when the doors were open was to repeatedly drag them out of their cages so they could physically experience how they could get away^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 44]
@@ -71,13 +84,13 @@
 1. psychologically traumatic experience → purpose
 	1. Somehow the very event that caused them so much pain had also become their sole source of meaning. They felt fully alive only when they were revisiting their traumatic past.^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 30]
 
-## depersonalization
-1. blanking out in response to being reminded of past trauma is an example of "depersonalization"^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 89]
-2. how could "depersonalization" be more damaging long-term for kids/people than those who act out?
+## [[depersonalization]]
+1. blanking out in response to being reminded of past trauma is an example of "[[depersonalization]]"^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 89]
+2. how could "[[depersonalization]]" be more damaging long-term for kids/people than those who act out?
 	1. the acting-out kids tend to get attention; the blanked-out ones don’t bother anybody and are left to lose their future bit by bit^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 90–91]
 
 ### treatment
-1. conventional talk therapy → psychological trauma · depersonalization^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 90]
+1. conventional talk therapy → psychological trauma · [[depersonalization]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 90]
 	1. former is not as effective in treating psychological trauma
 		1. severely traumatized people may get more out of simply helping to arrange chairs before a meeting than they would from sitting in those same chairs and discussing the failures in their life^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 106]
 	2. a bottom-up approach is more effective e.g. acupressure, tossing a ball, Pilates, dancing

@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "ef4fee0db3031826",
+        "id": "50a8d41127940ab9",
         "type": "split",
         "children": [
           {
-            "id": "c71bd5d11b59282f",
+            "id": "c16c701ef436c416",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Johnson's algorithm.md",
+                "file": "psychological trauma.md",
                 "mode": "source"
               }
             },
-            "group": "3f2b118877ec6c43"
+            "group": "3055fdeaa11edc3b"
           },
           {
-            "id": "3e11b765c14c970e",
+            "id": "917ad13a522064ff",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Johnson's algorithm.md",
+                "file": "psychological trauma.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -33,7 +33,7 @@
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
-                  "showTags": true,
+                  "showTags": false,
                   "showAttachments": true,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
@@ -48,34 +48,34 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.013369370183441252,
+                  "scale": 0.017205957466885507,
                   "close": false
                 }
               }
             },
-            "group": "3f2b118877ec6c43"
+            "group": "3055fdeaa11edc3b"
           }
         ],
         "direction": "horizontal"
       },
       {
-        "id": "7198ed4e02d60372",
+        "id": "bed1aaf8209fd228",
         "type": "split",
         "children": [
           {
-            "id": "8e2a7c99edc6c1f2",
+            "id": "3c6c6d742014beb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Johnson's algorithm.md",
+                "file": "psychological trauma.md",
                 "mode": "preview"
               }
             },
-            "group": "3f2b118877ec6c43"
+            "group": "3055fdeaa11edc3b"
           },
           {
-            "id": "b2f032234e27e7d5",
+            "id": "173c3f0c2f2b6698",
             "type": "leaf",
             "state": {
               "type": "mindmap",
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "johnson",
+                "query": "trauma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "d7c6ec513be28550",
+            "id": "e3952c24477e87f1",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -142,24 +142,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28bc964002a73d6e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Johnson's algorithm.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "a4f61c2350cb39ff",
+            "id": "a7edfc8468363e71",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Johnson's algorithm.md"
+                "file": "psychological trauma.md"
+              }
+            }
+          },
+          {
+            "id": "718556910646278b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "psychological trauma.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Johnson's algorithm.md",
+                "file": "psychological trauma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,17 +192,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "c71bd5d11b59282f",
+  "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "psychological trauma.md",
     "Untitled.md",
-    "intelligence.md",
-    "set membership (element (mathematics)).md",
-    "global brain.md",
-    "Antarctic oasis.md",
-    "distributed cognition.md",
-    "extended mind.md",
-    "implementation intention.md",
-    "IQ.md",
-    "Anki.md"
+    "interpersonal relationship.md",
+    "microsociology.md",
+    "working memory.md",
+    "cladogram.md",
+    "plant.md",
+    "daylily.md",
+    "medial prefrontal cortex.md",
+    "self-concept.md"
   ]
 }
