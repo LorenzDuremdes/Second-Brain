@@ -1,0 +1,1 @@
+1. persona non grata; a status sometimes applied by a host country to foreign diplomats to remove their protection by diplomatic immunity from arrest and other normal kinds of prosecution^[https://en.wikipedia.org/wiki/Persona_non_grata]

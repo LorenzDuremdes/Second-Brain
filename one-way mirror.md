@@ -1,0 +1,5 @@
+1. one-way mirror (structure); the glass is coated with, or has been encased within, a thin and almost-transparent layer of metal (window film usually containing aluminium)^[https://en.wikipedia.org/wiki/Oneway_mirror]^[https://en.wikipedia.org/wiki/One-way_mirror#cite_note-Finio-4]
+	1. The result is a mirrored surface that reflects some light and is penetrated by the rest. Light always passes equally in both directions. However, when one side is brightly lit and the other kept dark, the darker side becomes difficult to see from the brightly lit side because it is masked by the much brighter reflection of the lit side.^[https://en.wikipedia.org/wiki/One-way_mirror#cite_note-Finio-4]
+2. The optical properties of the mirror can be tuned by changing the thickness of the reflecting layer.^[By Jkeck-wiki - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=15046186]
+
+	<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Aluminum_on_BK7_RTA_for_Wikipedia.png" width="400" />

@@ -72,7 +72,7 @@
 	2. activation in the [[periaqueductal gray]]
 
 ## [[trauma trigger]]
-1. how could "thematic apperception test" indicate that people with psychological trauma see triggers everywhere?^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 133]
+1. how could "[[thematic apperception test]]" indicate that people with psychological trauma see triggers everywhere?^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 133]
 	1. due to the images being ordinary
 		1. We had not selected these photos because they had some hidden meaning that sensitive people could uncover; they were ordinary images of everyday life. We could only conclude that for abused children, the whole world is filled with triggers. As long as they can imagine only disastrous outcomes to relatively benign situations, anybody walking into a room, any stranger, any image, on a screen or on a billboard might be perceived as a harbinger of catastrophe.
 
@@ -84,6 +84,14 @@
 	1. being able to move and do something to protect oneself is a critical factor in determining whether or not a horrible experience will leave long-lasting scars
 3. overprotection → [[learned helplessness]] (parenting)
 	1. ◇overprotection usually leads to many learned helplessnesses
+4. what could be a heavy weighing factor why you easily give up when someone misunderstands you?
+	1. 'learned' helplessness via overprotective caregivers
+		1. In contrast, children with histories of abuse and neglect learn that their terror, pleading, and crying do not register with their caregiver. Nothing they can do or say stops the beating or brings attention and help. **In effect they’re being conditioned to give up when they face challenges later in life**.^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 138]
+
+## [[looking-glass self]]
+1. lack of attunement → looking-glass self (developmental psychology)
+	1. a lack of attunement can lead to the one experiencing it to try to compensate harder and feel, therefore, 'not good enough' (until attunement reinitiates)
+		1. If a mother cannot meet her baby’s impulses and needs, “the baby learns to become the mother’s idea of what the baby is.” Having to discount its inner sensations, and trying to adjust to its caregiver’s needs, means the child perceives that “something is wrong” with the way it.^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 138]
 
 ## [[hope]]
 1. psychologically traumatic experience → purpose

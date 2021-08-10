@@ -31,8 +31,12 @@
 	1. usually, the higher the CTL, the higher the [[knowledge quality]]
 		1. e.g. can be connected (more easily) with other concepts
 
+## [[adaptive replacement cache]]
+1. adaptive replacement cache → construal level theory
+	1. the lower the former (less LFU/LRU), the higher the latter (∥) or the lower the latter (·)
+
 # [[entropy (information theory)]]
-1. construal level theory → entropy ([[information]] theory)
+1. construal level theory → [[entropy]] ([[information]] theory)
 	1. positive correlation
 	2. could be relative? → e.g. dependent on [[goal]] → e.g. higher construals would increase [[learning rate]] → increase certainty → lower [[entropy]]
 
