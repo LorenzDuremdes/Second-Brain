@@ -1,0 +1,1 @@
+1. children with 'difficult' temperaments are not more likely to develop a disorganized [[attachment style|style]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 143]

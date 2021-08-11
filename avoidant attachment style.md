@@ -1,0 +1,1 @@
+1. people with "avoidant [[attachment style]]" are more likely to bully and people with "anxious [[attachment style]]" their victims^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 142]^[Main, 1990, op cit.]
