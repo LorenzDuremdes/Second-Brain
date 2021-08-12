@@ -35,5 +35,5 @@
 1. [[endurance training]] → fatigue (MRV)^[How Much Should I Train by Dr. Mike Israetel and Dr. James Hoffmann, p. 28]
 	1. [[endurance training]] usually has a very high MRV e.g. due to not being as fatiguing, excellent blood perfusion, slower-twitch muscle fibers, smaller muscle size...
 
-# men ↮ women
-1. women usually have higher MRVs due to being shorter, producing less force, and inter alia don't take as much homeostatic damage from training^[How Much Should I Train by Dr. Mike Israetel and Dr. James Hoffmann, p. 16]
+# men ↮ [[women]]
+1. [[women]] usually have higher MRVs due to being shorter, producing less force, and inter alia don't take as much homeostatic damage from training^[How Much Should I Train by Dr. Mike Israetel and Dr. James Hoffmann, p. 16]

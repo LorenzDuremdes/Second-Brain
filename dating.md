@@ -4,7 +4,7 @@
 
 # miscellaneous
 1. what's an important question when seeing a loser being successful with girls?^[https://www.reddit.com/r/dating/comments/oc33ge/what_am_i_doing_wrong/]
-	1. are the women they’re attracting the sort of women you want to date? (probably not)
+	1. are the [[women]] they’re attracting the sort of [[women]] you want to date? (probably not)
 
 # related
 1. [[intimate relationship]]

@@ -1,0 +1,1 @@
+1. lupus erythematosus; a collection of autoimmune diseases in which the human [[immune system]] becomes hyperactive and attacks healthy tissues.^[https://en.wikipedia.org/wiki/Lupus_erythematosus#cite_note-1]

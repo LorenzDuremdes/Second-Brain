@@ -1,0 +1,2 @@
+1. protein tyrosine phosphatase, receptor type, C (PTPRC); the protein product of this [[gene]] are signaling molecules that regulate a variety of cellular processes including cell growth, differentiation, mitotic cycle, and oncogenic transformation^[https://en.wikipedia.org/wiki/PTPRC#Function]
+	1. PTPRC is also known as [[CD45]] antigen (CD stands for cluster of differentiation), which was originally called leukocyte common antigen (LCA)^[https://en.wikipedia.org/wiki/PTPRC#cite_note-entrez-6]

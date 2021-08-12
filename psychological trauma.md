@@ -15,6 +15,11 @@
 	1. ◇things might unfold in a lot more domains (e.g. romance, **see**: [[attachment style]]) that weren't (as) visible before during puberty?
 	2. **analog**: lack of synaptic pruning ([[autism]]) · higher cognitive functions (ontogenesis) → ◇easier [[information]] overload
 
+### treatment
+1. does Bessel van der Kolk think it's important that he knows every detail of a patient's trauma? + why^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 148]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 153]
+	1. no, he thinks it's critical that the patients themselves learn to tolerate [[feeling]] what they feel and knowing what they know
+	2. you may realize that your fear of intimacy has something to do with your mother’s postpartum [[depression]] or with the fact that she herself was molested as a child, but that alone is unlikely to open you to happy, trusting engagement with others
+
 ## [[psychosomatic]]
 1. how can there be a mismatch between "[[brain]]" and "body" in people with psychological trauma?
 	1. their bodies register the threat, but their conscious minds go on as if nothing has happened^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 61]
@@ -90,10 +95,10 @@
 	2. you tend to 'choose' freeze/flight (instead of fight), usually
 
 ## [[looking-glass self]]
-1. lack of attunement → looking-glass self (developmental psychology)
+1. lack of attunement → [[looking-glass self]] ([[developmental psychology]])
 	1. a lack of attunement can lead to the one experiencing it to try to compensate harder and feel, therefore, 'not good enough' (until attunement reinitiates)
-	2. can lead to the one experiencing it to shutdown their psychological/physical needs (and therefore experience the lack of attunement less)^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 138]
-		1. If a mother cannot meet her baby’s impulses and needs, “the baby learns to become the mother’s idea of what the baby is.” Having to discount its inner sensations, and trying to adjust to its caregiver’s needs, means the child perceives that “something is wrong” with the way it.^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 138]
+	2. can lead to the one experiencing it to shutdown their psychological/physical needs (and therefore experience the lack of attunement less)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 138]
+		1. If a mother cannot meet her baby’s impulses and needs, “the baby learns to become the mother’s idea of what the baby is.” Having to discount its inner sensations, and trying to adjust to its caregiver’s needs, means the child perceives that “something is wrong” with the way it.^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 138]
 		2. **see also**: [[acute stress response]] (1: fight + 2: freeze/flight)
 
 ## [[hope]]

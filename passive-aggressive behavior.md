@@ -1,0 +1,1 @@
+1. passive-aggressive behavior; characterized by a pattern of passive hostility and an avoidance of direct communication.^[https://en.wikipedia.org/wiki/Passive-aggressive_behavior#cite_note-1]^[https://en.wikipedia.org/wiki/Passive-aggressive_behavior#cite_note-:0-2]
