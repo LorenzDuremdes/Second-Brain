@@ -6,6 +6,7 @@
       {
         "id": "50a8d41127940ab9",
         "type": "split",
+        "dimension": 50.23342670401494,
         "children": [
           {
             "id": "c16c701ef436c416",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adaptive thermogenesis.md",
+                "file": "2021-08-13 psychological trauma.md",
                 "mode": "source"
               }
             },
@@ -25,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "adaptive thermogenesis.md",
+                "file": "2021-08-13 psychological trauma.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.01438484562750502,
+                  "scale": 0.017205957466885507,
                   "close": false
                 }
               }
@@ -61,6 +62,7 @@
       {
         "id": "bed1aaf8209fd228",
         "type": "split",
+        "dimension": 49.76657329598506,
         "children": [
           {
             "id": "3c6c6d742014beb2",
@@ -68,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "adaptive thermogenesis.md",
+                "file": "2021-08-13 psychological trauma.md",
                 "mode": "preview"
               }
             },
@@ -147,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adaptive thermogenesis.md"
+                "file": "2021-08-13 psychological trauma.md"
               }
             }
           },
@@ -157,14 +159,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "adaptive thermogenesis.md",
+                "file": "2021-08-13 psychological trauma.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a834b3f3361a68cb",
@@ -176,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "adaptive thermogenesis.md",
+                "file": "2021-08-13 psychological trauma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +196,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "Untitled.md",
+    "2021-08-13 psychological trauma.md",
     "psychological trauma.md",
-    "passive-aggressive behavior.md",
-    "women.md",
-    "perspiration.md",
-    "child (human).md",
-    "insecure attachment style.md",
-    "fearful-avoidant attachment style.md",
-    "avoidant attachment style.md",
-    "attachment style.md"
+    "2021-08-13 studying.md",
+    "2021-08-13.md",
+    "Untitled.md",
+    "interpersonal relationship.md",
+    "microsociology.md",
+    "working memory.md",
+    "cladogram.md",
+    "plant.md"
   ]
 }
