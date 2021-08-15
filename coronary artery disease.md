@@ -1,0 +1,5 @@
+1. coronary artery disease; involves the reduction of blood flow to the [[heart]] muscle due to build-up of plaque (atherosclerosis) in the arteries of the heart.^[https://en.wikipedia.org/wiki/Coronary_artery_disease#cite_note-CDC2013-5]^[https://en.wikipedia.org/wiki/Coronary_artery_disease#cite_note-WHO2011-6]^[https://en.wikipedia.org/wiki/Coronary_artery_disease#cite_note-14]
+	1. it is the most common of the cardiovascular diseases.^[https://en.wikipedia.org/wiki/Coronary_artery_disease#cite_note-GDB2013-15]
+2. illustration depicting atherosclerosis in a coronary artery^[By BruceBlaus. When using this image in external sources it can be cited as:Blausen.com staff (2014). &quot;Medical gallery of Blausen Medical 2014&quot;. WikiJournal of Medicine 1 (2). DOI:10.15347/wjm/2014.010. ISSN 2002-4436. - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=29738538]
+
+	<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Blausen_0257_CoronaryArtery_Plaque.png" width="300" />

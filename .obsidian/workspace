@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "coronary artery disease.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "coronary artery disease.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.012026287065128356,
+                  "scale": 0.010054440924713547,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "coronary artery disease.md",
                 "mode": "preview"
               }
             },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychological trauma.md"
+                "file": "coronary artery disease.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "coronary artery disease.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "coronary artery disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,17 +193,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "3c6c6d742014beb2",
+  "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "coronary artery disease.md",
+    "Untitled.md",
     "psychological trauma.md",
+    "antidepressant.md",
     "bipolar personality disorder.md",
     "comorbidity.md",
     "2021-08-13 psychological trauma.md",
     "mirror neuron receptor deficit.md",
     "depression.md",
-    "mirror neuron.md",
-    "Untitled.md",
-    "RA-to-RO ratio.md",
-    "CD45.md"
+    "mirror neuron.md"
   ]
 }

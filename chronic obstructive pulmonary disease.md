@@ -1,0 +1,2 @@
+1. chronic obstructive pulmonary [[disease]]; a type of progressive lung [[disease]] that is preventable and treatable^[https://en.wikipedia.org/wiki/Chronic_obstructive_pulmonary_disease]
+2. most cases of COPD can be prevented by reducing exposure to risk factors such as smoking and indoor and outdoor pollutants.^[https://en.wikipedia.org/wiki/Chronic_obstructive_pulmonary_disease#cite_note-FOOTNOTEGold_Report_202182Chapter_4:_Managment_of_stable_COPD-17]

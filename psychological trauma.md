@@ -79,9 +79,11 @@
 		1. when adults or children are too skittish or shut down to derive comfort from [[human]] beings, relationships with other mammals can help
 
 ### [[microsociology]]
-1. psychological trauma → eye contact^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 125]
+1. how are adverse experiences interrelated?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 176]
+	1. People typically don’t grow up in a household where one brother is in prison but everything else is fine. They don’t live in families where their mother is regularly beaten but life is otherwise hunky-dory
+2. psychological trauma → eye contact^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 125]
 	1. to former usually finds it difficult to initiate/maintain the latter
-2. what does Bessel van der Kolk think about the following answers to the question "*who provides you with emotional and practical support?*"
+3. what does Bessel van der Kolk think about the following answers to the question "*who provides you with emotional and practical support?*"
 
 	**A**: “my dog” or “my therapist”—or “nobody.”
 	1. surprising (why?)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 168]
@@ -219,6 +221,11 @@
 ## Brodmann area 19
 1. trauma → Brodmann area 19^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 58]
 	1. [[brain]] activation remains for a much longer [[time]] after the original experience of the trauma. We were witnessing a [[brain]] region rekindled as if the trauma were actually occurring.
+
+# [[psychiatry]]
+## [[antidepressant]]
+1. antidepressants → patients with ↮ without histories of abuse or neglect
+	1. research has shown that depressed patients without prior histories of abuse or neglect tend to respond much better to antidepressants than patients with those backgrounds^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 177]^[C. B. Nemeroff, et al., “Differential Responses to Psychotherapy Versus Pharmacotherapy in Patients with Chronic Forms of Major Depression and Childhood Trauma,” Proceedings of the National Academy of Sciences of the United States of America 100, no. 24 (2003): 14293–96. See also C. Heim, P. M. Plotsky, and C. B. Nemeroff, “Importance of Studying the Contributions of Early Adverse Experience to Neurobiological Findings in Depression,” Neuropsychopharmacology 29, no. 4 (2004): 641–48.]
 
 # related
 2. [[involuntary musical imagery]]
