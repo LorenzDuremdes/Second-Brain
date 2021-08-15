@@ -4,6 +4,14 @@
 	1. in volleyball games the staff members invariably were much better coordinated than the patients^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 38]
 
 # [[psychology]]
+## [[psychotherapy]]
+1. which members of the group had benefited from psychological trauma therapy and which had continued to feel suicidal and self-destructive?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 171]
+	1. our TAQ interviews provided some answers. The patients who remained self-destructive had told us that they did not remember [[feeling]] safe with anybody as a child; they had reported being abandoned, shuttled from place to place, and generally left to their own devices
+
+		I concluded that, if you carry a [[memory]] of having felt safe with somebody long ago, the traces of that earlier affection can be reactivated in attuned relationships when you are an adult, whether these occur in daily life or in good therapy. However, if you lack a deep [[memory]] of [[feeling]] loved and safe, the receptors in the [[brain]] that respond to [[human]] kindness may simply fail to develop.
+		
+		This notion found further support in the work of the neuroscientist Jaak Panksepp, who found that young rats that were not licked by their moms during the first week of their lives did not develop opioid receptors in the anterior cingulate cortex, a part of the [[brain]] associated with affiliation and a sense of safety.^[See E. E. Nelson and J. Panksepp, “[[Brain]] Substrates of [[Infant]] Mother Attachment: Contributions of Opioids, Oxytocin, and [[Norepinephrine]],” [[Neuroscience]] & Biobehavioral Reviews 22, no. 3 (1998): 437–52. See also J. Panksepp, et al., “Endogenous Opioids and Social Behavior,” [[Neuroscience]] & Biobehavioral Reviews 4, no. 4 (1981): 473–87; and J. Panksepp, E. Nelson, and S. Siviy, “[[Brain]] Opioids and Mother-[[Infant]] Social [[Motivation]],” Acta paediatrica 83, no. 397 (1994): 40–46.]
+
 1. psychological trauma (chameleon analogy)^[Alok Kanojia, Wednesday 23/06/2021]
 	1. trauma tends to "disguise" itself as other mental illnesses (e.g. [[depression]], anxiety) fixing e.g. [[depression]] brings [[anxiety disorder]], which brings something else once 'cured'
 	2. *I didnt even know about cptsd and, for such a long [[time]], tried to tackle my anxiety and [[depression]] instead. I really thought I was creating my own problems subconsciously. While that might hold some truth, I am making leaps of progress just by understanding my cptsd and how it changed my [[brain]].*^[https://www.reddit.com/r/CPTSD/comments/o6kkkx/if_you_said_to_someone_my_parents_broke_my/h2tdrqb?utm_source=share&utm_medium=web2x&context=3]
@@ -59,6 +67,9 @@
 1. psychological trauma → child · mirror^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 128]
 	1. some children with psychological trauma are unable to recognize themselves in the mirror at an appropriate age and also have an underdeveloped sense of self
 
+### [[comorbidity]]
+1. many people with [[bipolar personality disorder|BPD]] also have psychological trauma^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 170]
+
 ## [[interpersonal relationship|interpersonal]]
 1. any sort of deep intimacy—a close embrace, sleeping with a mate, and [[sex]]—requires allowing oneself to experience immobilization without fear^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma]
 
@@ -70,6 +81,10 @@
 ### [[microsociology]]
 1. psychological trauma → eye contact^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 125]
 	1. to former usually finds it difficult to initiate/maintain the latter
+2. what does Bessel van der Kolk think about the following answers to the question "*who provides you with emotional and practical support?*"
+
+	**A**: “my dog” or “my therapist”—or “nobody.”
+	1. surprising (why?)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 168]
 
 #### [[neurophysiology]]
 1. psychological trauma · eye contact ([[neurophysiology]])^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 126]

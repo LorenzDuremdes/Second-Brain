@@ -1,0 +1,1 @@
+1. Kafkaesque; marked by a senseless, disorienting, often menacing complexity^[https://en.wiktionary.org/wiki/Kafkaesque]

@@ -1,0 +1,2 @@
+1. [[CD45]] RA-to-RO ratio; the balance between cells that recognize known toxins and cells that wait for new information to activate (respectively)^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 154]^[https://en.wikipedia.org/wiki/Memory_T_cell#Memory_T_cell_subtypes]
+	1. the RO cells, in contrast, are kept in reserve for new challenges; they are turned on to deal with threats the body has not met previously
