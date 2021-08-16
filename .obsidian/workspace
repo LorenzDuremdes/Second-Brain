@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coronary artery disease.md",
+                "file": "bariatric surgery.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "coronary artery disease.md",
+                "file": "bariatric surgery.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.010054440924713547,
+                  "scale": 0.02461648975689912,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coronary artery disease.md",
+                "file": "bariatric surgery.md",
                 "mode": "preview"
               }
             },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coronary artery disease.md"
+                "file": "bariatric surgery.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coronary artery disease.md",
+                "file": "bariatric surgery.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coronary artery disease.md",
+                "file": "bariatric surgery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "coronary artery disease.md",
+    "bariatric surgery.md",
     "Untitled.md",
+    "emphysema.md",
+    "coronary artery disease.md",
     "psychological trauma.md",
     "antidepressant.md",
     "bipolar personality disorder.md",
     "comorbidity.md",
     "2021-08-13 psychological trauma.md",
-    "mirror neuron receptor deficit.md",
-    "depression.md",
-    "mirror neuron.md"
+    "mirror neuron receptor deficit.md"
   ]
 }

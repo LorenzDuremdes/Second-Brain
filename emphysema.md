@@ -1,0 +1,3 @@
+1. emphysema; a lower respiratory tract disease,^[https://en.wikipedia.org/wiki/Emphysema#cite_note-ICD11-5] characterised by air-filled cavities or spaces (pneumatoses) in the lung, that can vary in size and may be very large}}
+	1. The spaces are caused by the breakdown of the walls of the alveoli and they replace the spongy lung parenchyma. This reduces the total alveolar surface available for gas exchange leading to a reduction in oxygen supply for the blood.^[https://en.wikipedia.org/wiki/Emphysema#cite_note-Saladin-6]
+2. "emphysema" is a subtype of "[[chronic obstructive pulmonary disease]]"^[https://en.wikipedia.org/wiki/Emphysema]

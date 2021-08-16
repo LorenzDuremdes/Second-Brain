@@ -1,0 +1,1 @@
+1. bariatric surgery; a hormonal surgery in these procedures, for which the alteration in gut hormones develops as a result of the procedure's restriction and malabsorption.^[https://en.wikipedia.org/wiki/Bariatric_surgery#cite_note-:0-1]
