@@ -1,0 +1,4 @@
+1. pallium (neuroanatomy); refers to the layers of grey and white matter that cover the upper surface of the cerebrum in vertebrates^[https://en.wikipedia.org/wiki/Pallium_(neuroanatomy)]
+	1. in mammals, the cortical part of the pallium registers a definite evolutionary step-up in complexity, forming the [[cerebral cortex]], most of which consists of a progressively expanded six-layered portion isocortex, with simpler three-layered cortical regions allocortex at the margins
+2. <img src="https://slidetodoc.com/presentation_image_h/202d013aeaa2a8d22d586b7944af6edf/image-2.jpg" width="700" />
+3. the medial pallium is a structure found in all vertebrates

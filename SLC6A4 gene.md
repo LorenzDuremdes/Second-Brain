@@ -1,0 +1,1 @@
+1. monkeys and humans share the same two variant(s) of the [[serotonin]] gene known as the short and long serotonin transporter allele^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 186]
