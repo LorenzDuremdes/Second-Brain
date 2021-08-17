@@ -26,6 +26,7 @@
 	1. ◇things might unfold in a lot more domains (e.g. romance, **see**: [[attachment style]]) that weren't (as) visible before during puberty?
 	2. **analog**: lack of synaptic pruning ([[autism]]) · higher cognitive functions (ontogenesis) → ◇easier [[information]] overload
 2. sexually abused girls tend to develop puberty earlier^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 195]
+	1. why? due to e.g. higher testosterone and androstenedione^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 197] (why?)
 
 ### treatment
 1. does Bessel van der Kolk think it's important that he knows every detail of a patient's trauma? + why^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 148]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 153]
