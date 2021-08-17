@@ -6,6 +6,7 @@
       {
         "id": "50a8d41127940ab9",
         "type": "split",
+        "dimension": 50.23342670401494,
         "children": [
           {
             "id": "c16c701ef436c416",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sodium-dependent serotonin transporter.md",
+                "file": "psychological trauma.md",
                 "mode": "source"
               }
             },
@@ -25,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sodium-dependent serotonin transporter.md",
+                "file": "psychological trauma.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.01720595746688497,
+                  "scale": 0.019751443274449443,
                   "close": false
                 }
               }
@@ -59,8 +60,9 @@
         "direction": "horizontal"
       },
       {
-        "id": "bed1aaf8209fd228",
+        "id": "cbd8557702c7941d",
         "type": "split",
+        "dimension": 49.76657329598506,
         "children": [
           {
             "id": "3c6c6d742014beb2",
@@ -68,14 +70,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sodium-dependent serotonin transporter.md",
+                "file": "psychological trauma.md",
                 "mode": "preview"
               }
             },
             "group": "3055fdeaa11edc3b"
           },
           {
-            "id": "173c3f0c2f2b6698",
+            "id": "18e8768db6896287",
             "type": "leaf",
             "state": {
               "type": "mindmap",
@@ -110,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "developmental",
+                "query": "trauma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sodium-dependent serotonin transporter.md"
+                "file": "psychological trauma.md"
               }
             }
           },
@@ -157,14 +159,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sodium-dependent serotonin transporter.md",
+                "file": "psychological trauma.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a834b3f3361a68cb",
@@ -176,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sodium-dependent serotonin transporter.md",
+                "file": "psychological trauma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +196,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "sodium-dependent serotonin transporter.md",
-    "SLC6A4 gene.md",
+    "psychological trauma.md",
+    "sequela.md",
     "Untitled.md",
-    "developmental psychology.md",
-    "insecure attachment style.md",
-    "attachment theory.md",
-    "attachment style.md",
-    "secure attachment style.md",
-    "pallium (neuroanatomy).md",
-    "bariatric surgery.md"
+    "disruptive mood dysregulation disorder.md",
+    "intermittent explosive disorder.md",
+    "SLC6A4 gene.md",
+    "sodium-dependent serotonin transporter.md",
+    "2021-08-13 psychological trauma.md",
+    "2021-08-13 studying.md",
+    "2021-08-13.md"
   ]
 }

@@ -19,14 +19,23 @@
 
 
 ## [[developmental psychopathology]]
+1. psychological trauma is mostly nature **and** nurture (still inconclusive)^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 186]
+	1. even parents with their own genetic vulnerabilities can pass on that protection to the next generation **provided that they are given the right support**
+### puberty
 1. psychological trauma → puberty ([[autism]] analogy)
 	1. ◇things might unfold in a lot more domains (e.g. romance, **see**: [[attachment style]]) that weren't (as) visible before during puberty?
 	2. **analog**: lack of synaptic pruning ([[autism]]) · higher cognitive functions (ontogenesis) → ◇easier [[information]] overload
+2. sexually abused girls tend to develop puberty earlier^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 195]
 
 ### treatment
 1. does Bessel van der Kolk think it's important that he knows every detail of a patient's trauma? + why^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 148]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 153]
 	1. no, he thinks it's critical that the patients themselves learn to tolerate [[feeling]] what they feel and knowing what they know
 	2. you may realize that your fear of intimacy has something to do with your mother’s postpartum [[depression]] or with the fact that she herself was molested as a child, but that alone is unlikely to open you to happy, trusting engagement with others
+
+## [[developmental psychology]]
+1. consistent ↮ erratic caregiving → self-regulation (kids)^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 194]
+	1. the children who received consistent caregiving became well-regulated kids, while erratic caregiving produced kids who were chronically physiologically aroused (e.g. anxious)
+	2. e.g. autism can cause the kid to be more likely to see their (neurotypical) caregiving as erratic?
 
 ## [[psychosomatic]]
 1. how can there be a mismatch between "[[brain]]" and "body" in people with psychological trauma?
@@ -225,7 +234,7 @@
 # [[psychiatry]]
 ## [[antidepressant]]
 1. antidepressants → patients with ↮ without histories of abuse or neglect
-	1. research has shown that depressed patients without prior histories of abuse or neglect tend to respond much better to antidepressants than patients with those backgrounds^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 177]^[C. B. Nemeroff, et al., “Differential Responses to Psychotherapy Versus Pharmacotherapy in Patients with Chronic Forms of Major Depression and Childhood Trauma,” Proceedings of the National Academy of Sciences of the United States of America 100, no. 24 (2003): 14293–96. See also C. Heim, P. M. Plotsky, and C. B. Nemeroff, “Importance of Studying the Contributions of Early Adverse Experience to Neurobiological Findings in Depression,” Neuropsychopharmacology 29, no. 4 (2004): 641–48.]
+	1. research has shown that depressed patients without prior histories of abuse or neglect tend to respond much better to antidepressants than patients with those backgrounds^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 177]^[C. B. Nemeroff, et al., “Differential Responses to [[Psychotherapy]] Versus [[Pharmacotherapy]] in Patients with Chronic Forms of Major [[Depression]] and Childhood Trauma,” Proceedings of the National Academy of Sciences of the United States of America 100, no. 24 (2003): 14293–96. See also C. Heim, P. M. Plotsky, and C. B. Nemeroff, “Importance of Studying the Contributions of Early Adverse Experience to Neurobiological Findings in [[Depression]],” Neuropsychopharmacology 29, no. 4 (2004): 641–48.]
 
 # related
 2. [[involuntary musical imagery]]

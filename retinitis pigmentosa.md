@@ -1,0 +1,1 @@
+1. retinitis pigmentosa; involves the progressive loss of rod photoreceptor cells in the back of the eye.^[https://en.wikipedia.org/wiki/Retinitis_pigmentosa#cite_note-NIH2014-1] This is generally followed by loss of cone photoreceptor cells.^[https://en.wikipedia.org/wiki/Retinitis_pigmentosa#cite_note-NIH2014-1]

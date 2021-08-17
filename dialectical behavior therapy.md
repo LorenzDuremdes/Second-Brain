@@ -1,0 +1,1 @@
+1. dialectical behavior therapy; a process in which the therapist and client work with acceptance and change-oriented strategies, and ultimately balance and synthesize them^[https://en.wikipedia.org/wiki/Dialectical_behavior_therapy]
