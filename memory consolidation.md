@@ -1,0 +1,2 @@
+1. adrenaline → [[memory]] consolidation^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 210]^[J. L. McGaugh and M. L. Hertz, Memory Consolidation (San Fransisco: Albion Press, 1972); L. Cahill and J. L. McGaugh, “Mechanisms of Emotional Arousal and Lasting Declarative Memory,” Trends in Neurosciences 21, no. 7 (1998): 294–99.]
+	1. the more adrenaline you secrete, the more precise your memory will be (up to a certain point)

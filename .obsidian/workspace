@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Domain Criteria.md",
+                "file": "memory consolidation.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Research Domain Criteria.md",
+                "file": "memory consolidation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.015991330090849055,
+                  "scale": 0.0228787275650428,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Domain Criteria.md",
+                "file": "memory consolidation.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "developmental",
+                "query": "memory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research Domain Criteria.md"
+                "file": "memory consolidation.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research Domain Criteria.md",
+                "file": "memory consolidation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research Domain Criteria.md",
+                "file": "memory consolidation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "Research Domain Criteria.md",
+    "memory consolidation.md",
     "Untitled.md",
+    "diocese.md",
+    "developmental psychology.md",
+    "Research Domain Criteria.md",
     "SLC6A4 gene.md",
     "sodium-dependent serotonin transporter.md",
-    "developmental psychology.md",
     "insecure attachment style.md",
     "attachment theory.md",
-    "attachment style.md",
-    "secure attachment style.md",
-    "pallium (neuroanatomy).md"
+    "attachment style.md"
   ]
 }
