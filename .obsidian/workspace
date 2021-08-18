@@ -6,7 +6,6 @@
       {
         "id": "50a8d41127940ab9",
         "type": "split",
-        "dimension": 50.23342670401494,
         "children": [
           {
             "id": "c16c701ef436c416",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "Research Domain Criteria.md",
                 "mode": "source"
               }
             },
@@ -26,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "Research Domain Criteria.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.019751443274449443,
+                  "scale": 0.015991330090849055,
                   "close": false
                 }
               }
@@ -60,9 +59,8 @@
         "direction": "horizontal"
       },
       {
-        "id": "cbd8557702c7941d",
+        "id": "bed1aaf8209fd228",
         "type": "split",
-        "dimension": 49.76657329598506,
         "children": [
           {
             "id": "3c6c6d742014beb2",
@@ -70,14 +68,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "Research Domain Criteria.md",
                 "mode": "preview"
               }
             },
             "group": "3055fdeaa11edc3b"
           },
           {
-            "id": "18e8768db6896287",
+            "id": "173c3f0c2f2b6698",
             "type": "leaf",
             "state": {
               "type": "mindmap",
@@ -112,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trauma",
+                "query": "developmental",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychological trauma.md"
+                "file": "Research Domain Criteria.md"
               }
             }
           },
@@ -159,13 +157,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "Research Domain Criteria.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a834b3f3361a68cb",
@@ -177,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "Research Domain Criteria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,15 +195,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "psychological trauma.md",
-    "sequela.md",
+    "Research Domain Criteria.md",
     "Untitled.md",
-    "disruptive mood dysregulation disorder.md",
-    "intermittent explosive disorder.md",
     "SLC6A4 gene.md",
     "sodium-dependent serotonin transporter.md",
-    "2021-08-13 psychological trauma.md",
-    "2021-08-13 studying.md",
-    "2021-08-13.md"
+    "developmental psychology.md",
+    "insecure attachment style.md",
+    "attachment theory.md",
+    "attachment style.md",
+    "secure attachment style.md",
+    "pallium (neuroanatomy).md"
   ]
 }

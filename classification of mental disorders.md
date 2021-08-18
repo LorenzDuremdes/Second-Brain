@@ -1,0 +1,2 @@
+1. [[psychiatry|psychiatric]] misdiagnosis (surgery analogy)^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 198]
+	1. you would not want to have your appendix removed when you are suffering from a kidney stone, and you would not want have somebody labeled as “oppositional” when, in fact, his behavior is rooted in an attempt to protect himself against real danger
