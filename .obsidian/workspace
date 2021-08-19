@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory consolidation.md",
+                "file": "extort.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "memory consolidation.md",
+                "file": "extort.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory consolidation.md",
+                "file": "extort.md",
                 "mode": "preview"
               }
             },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "memory consolidation.md"
+                "file": "extort.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "memory consolidation.md",
+                "file": "extort.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "memory consolidation.md",
+                "file": "extort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "memory consolidation.md",
     "Untitled.md",
+    "neurasthenia.md",
+    "psychoanalysis.md",
+    "Josef Breuer.md",
+    "neurology.md",
+    "memory consolidation.md",
     "diocese.md",
     "developmental psychology.md",
     "Research Domain Criteria.md",
-    "SLC6A4 gene.md",
-    "sodium-dependent serotonin transporter.md",
-    "insecure attachment style.md",
-    "attachment theory.md",
-    "attachment style.md"
+    "SLC6A4 gene.md"
   ]
 }

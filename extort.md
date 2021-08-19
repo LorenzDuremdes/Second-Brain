@@ -1,0 +1,1 @@
+1. extort; (verb) (transitive) to take or seize off an unwilling person by physical force, menace, duress, torture, or any undue or illegal exercise of power or ingenuity^[https://en.wiktionary.org/wiki/extort]

@@ -1,0 +1,1 @@
+1. amicus cariae; someone who is not a party to a case who assists a court by offering information, expertise, or insight that has a bearing on the issues in the case^[https://en.wikipedia.org/wiki/Amicus_curiae]

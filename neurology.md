@@ -1,0 +1,2 @@
+1. neurology ↮ [[psychiatry]]^[https://en.wikipedia.org/wiki/Neurology#cite_note-pmid11986119-16]
+	1. In a 2002 review article in the American Journal of Psychiatry, Professor Joseph B. Martin, Dean of Harvard Medical School and a neurologist by training, wrote, "the separation of the two categories is arbitrary, often influenced by beliefs rather than proven scientific observations. And the fact that the brain and mind are one makes the separation artificial anyway".
