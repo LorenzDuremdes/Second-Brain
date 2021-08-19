@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "extort.md",
+                "file": "psychogenic amnesia.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "extort.md",
+                "file": "psychogenic amnesia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.0228787275650428,
+                  "scale": 0.011177310335441048,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "extort.md",
+                "file": "psychogenic amnesia.md",
                 "mode": "preview"
               }
             },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "extort.md"
+                "file": "psychogenic amnesia.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "extort.md",
+                "file": "psychogenic amnesia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "extort.md",
+                "file": "psychogenic amnesia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,14 +196,14 @@
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
     "Untitled.md",
+    "psychological trauma.md",
+    "extort.md",
     "neurasthenia.md",
     "psychoanalysis.md",
     "Josef Breuer.md",
     "neurology.md",
     "memory consolidation.md",
     "diocese.md",
-    "developmental psychology.md",
-    "Research Domain Criteria.md",
-    "SLC6A4 gene.md"
+    "developmental psychology.md"
   ]
 }

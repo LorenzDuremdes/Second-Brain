@@ -1,0 +1,3 @@
+1. psychogenic amnesia; a [[memory]] disorder characterized by sudden retrograde episodic memory loss, said to occur for a period of time ranging from hours to years.^[https://en.wikipedia.org/wiki/Psychogenic_amnesia#cite_note-Arzya-2]
+2. More recently, "dissociative amnesia" has been defined as a dissociative disorder "characterized by retrospectively reported memory gaps. These gaps involve an inability to recall personal information, usually of a traumatic or stressful nature."^[https://en.wikipedia.org/wiki/Psychogenic_amnesia#cite_note-Leong2006-1]
+3. **synonyms**: dissociative amnesia
