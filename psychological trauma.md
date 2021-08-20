@@ -103,8 +103,12 @@
 	1. no activation in the [[frontal lobe]]
 	2. activation in the [[periaqueductal gray]]
 
+#### [[human memory]]
+1. (familiar ↮ stranger) · abuse → [[memory]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 227]
+	1. women who were younger at the time of the incident and those who were molested by someone they knew were more likely to have forgotten their abuse
+
 ### [[culture]]
-1. culture → psychological trauma^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 222–223]
+1. culture → psychological trauma^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 222–223]
 	1. culture shapes the expression of traumatic stress e.g. while the World War I soldiers flail, have facial tics, and collapse with paralyzed bodies, the following generation talks and cringe
 
 ## [[trauma trigger]]
@@ -205,7 +209,12 @@
 	2. **treatment** needs to reactivate the capacity to safely mirror, and be mirrored, by others
 
 ## [[human memory]]
-1. it is enormously difficult to organize one’s traumatic experiences into a coherent account—a narrative with a beginning, a middle, and an end^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 58]
+1. what can cause psychological trauma memories to remain unchanged?
+	1. it's not being retrieved by the [[consciousness]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 227]
+	2. ◇[[amygdala]] storing memories longer than cortex
+2. it is enormously difficult to organize one’s traumatic experiences into a coherent account—a narrative with a beginning, a middle, and an end^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 58]
+3. age · abuse → memory^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 227]
+	1. women who were younger at the time of the incident and those who were molested by someone they knew were more likely to have forgotten their abuse
 
 ### [[thalamus]]
 1. why is a traumatic [[memory]] "fragmented" at its creation ([[neurophysiology]])?
@@ -238,7 +247,7 @@
 
 # [[psychiatry]]
 ## treatment
-1. how do doctors shape how their patients communicate their distress?^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 223]
+1. how do doctors shape how their patients communicate their distress?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 223]
 	1. whatever the patient thinks draws attention to himself e.g. when a patient complains about terrifying nightmares and his doctor orders a chest X-ray, the patient realizes that he’ll get better care if he focuses on his physical problem
 
 ## [[antidepressant]]
