@@ -1,0 +1,1 @@
+1. kendo; a way to discipline the [[human]] character through the application of the principles of the *katana*^[https://en.wikipedia.org/wiki/Kendo#Concept_and_purpose]

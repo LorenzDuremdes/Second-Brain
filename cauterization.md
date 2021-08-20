@@ -1,0 +1,1 @@
+1. cauterization; a medical practice or technique of burning a part of a body to remove or close off a part of it^[https://en.wikipedia.org/wiki/Cauterization]

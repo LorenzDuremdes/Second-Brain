@@ -1,0 +1,1 @@
+1. tubal ligation; a surgical procedure for female sterilization in which the fallopian tubes are permanently blocked or removed. This prevents the fertilization of eggs by sperm and thus the implantation of a fertilized egg.^[https://en.wikipedia.org/wiki/Tubal_ligation]

@@ -1,0 +1,1 @@
+1. 80% of the fibers of the vagus nerve are afferent^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 242]
