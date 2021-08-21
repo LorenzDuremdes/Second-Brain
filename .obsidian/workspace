@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "capoeira.md",
+                "file": "parent-child interaction therapy.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "capoeira.md",
+                "file": "parent-child interaction therapy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.013369370183441602,
+                  "scale": 0.0078125,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "capoeira.md",
+                "file": "parent-child interaction therapy.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vagus nerve",
+                "query": "brodmann",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "capoeira.md"
+                "file": "parent-child interaction therapy.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "capoeira.md",
+                "file": "parent-child interaction therapy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "capoeira.md",
+                "file": "parent-child interaction therapy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "parent-child interaction therapy.md",
     "Untitled.md",
+    "capoeira.md",
     "amygdala.md",
     "limbic system.md",
     "tubal ligation.md",
     "psychological trauma.md",
     "psychogenic amnesia.md",
     "extort.md",
-    "neurasthenia.md",
-    "psychoanalysis.md",
-    "Josef Breuer.md"
+    "neurasthenia.md"
   ]
 }
