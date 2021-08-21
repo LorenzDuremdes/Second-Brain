@@ -1,0 +1,2 @@
+1. Feldenkrais Method; claimed to reorganize connections between the [[brain]] and body and so improve body movement and psychological state.^[https://en.wikipedia.org/wiki/Feldenkrais_Method#cite_note-ehm-1]
+2. in a session, a Feldenkrais practitioner directs attention to habitual movement patterns that are thought to be inefficient or strained, and attempts to teach (actively or passively) new patterns using gentle, slow, repeated movements.^[https://en.wikipedia.org/wiki/Feldenkrais_Method#cite_note-Levine-8]

@@ -15,8 +15,13 @@
 1. psychological trauma (chameleon analogy)^[Alok Kanojia, Wednesday 23/06/2021]
 	1. trauma tends to "disguise" itself as other mental illnesses (e.g. [[depression]], anxiety) fixing e.g. [[depression]] brings [[anxiety disorder]], which brings something else once 'cured'
 	2. *I didnt even know about cptsd and, for such a long [[time]], tried to tackle my anxiety and [[depression]] instead. I really thought I was creating my own problems subconsciously. While that might hold some truth, I am making leaps of progress just by understanding my cptsd and how it changed my [[brain]].*^[https://www.reddit.com/r/CPTSD/comments/o6kkkx/if_you_said_to_someone_my_parents_broke_my/h2tdrqb?utm_source=share&utm_medium=web2x&context=3]
+2. can you process psychological trauma if it overwhelms you?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 260]
+	1. probably not
+		1. why? e.g. lack of positive replacement
 
-
+### [[flooding (psychology)]]
+1. how long does "[[flooding (psychology)]]" have to take place for it to reduce psychological trauma anxiety?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 258]^[T. M. Keane, “The Role of [[Exposure Therapy]] in the Psychological Treatment of PTSD,” National Center for PTSD Clinical Quarterly 5, no. 4 (1995): 1–6.]
+	1. ~100 minutes
 
 ## [[developmental psychopathology]]
 1. psychological trauma is mostly nature **and** nurture (still inconclusive)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 186]
@@ -165,6 +170,8 @@
 ## treatment
 1. **first step** to psychological trauma recovery (physiological)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 84]
 	1. sensing and identifying to later gain more control/redirect those bodily sensations
+2. “the pleasure of completed action” (psychological trauma)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 255]
+	1. when patients can physically experience what it would have felt like to fight back or run away, they relax, smile, and express a sense of completion
 
 # [[neuroscience]]
 ## [[cortex-based anxiety|cortex-]] + [[amygdala-based anxiety]]
@@ -213,7 +220,7 @@
 	1. it's not being retrieved by the [[consciousness]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 227]
 	2. ◇[[amygdala]] storing memories longer than cortex
 2. it is enormously difficult to organize one’s traumatic experiences into a coherent account—a narrative with a beginning, a middle, and an end^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 58]
-3. age · abuse → memory^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 227]
+3. age · abuse → [[memory]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 227]
 	1. women who were younger at the time of the incident and those who were molested by someone they knew were more likely to have forgotten their abuse
 
 ### [[thalamus]]
@@ -250,9 +257,17 @@
 1. how do doctors shape how their patients communicate their distress?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 223]
 	1. whatever the patient thinks draws attention to himself e.g. when a patient complains about terrifying nightmares and his doctor orders a chest X-ray, the patient realizes that he’ll get better care if he focuses on his physical problem
 
+## [[psychedelic drug]]
+1. what could cause psychedelics to be effective against psychological trauma?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 262]
+	1. allowing associations and integrations (hopefully positive) to take place rather than desensitization (as many medications do)
+
 ## [[antidepressant]]
 1. antidepressants → patients with ↮ without histories of abuse or neglect
 	1. research has shown that depressed patients without prior histories of abuse or neglect tend to respond much better to antidepressants than patients with those backgrounds^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 177]^[C. B. Nemeroff, et al., “Differential Responses to [[Psychotherapy]] Versus [[Pharmacotherapy]] in Patients with Chronic Forms of Major [[Depression]] and Childhood Trauma,” Proceedings of the National Academy of Sciences of the United States of America 100, no. 24 (2003): 14293–96. See also C. Heim, P. M. Plotsky, and C. B. Nemeroff, “Importance of Studying the Contributions of Early Adverse Experience to Neurobiological Findings in [[Depression]],” Neuropsychopharmacology 29, no. 4 (2004): 641–48.]
+
+## [[anxiolytic]]
+1. how does Bessel van der Kolk prescribe benzodiazepines to his patients?^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 264]
+	1. a low supply such that they have to use it strategically (and not daily) ...and I ask them to keep a diary of what was going on when they decided to take the pill. That gives us a chance to discuss the specific incidents that triggered them.
 
 # related
 2. [[involuntary musical imagery]]

@@ -1,0 +1,2 @@
+1. can "flooding (psychology)" help with guilt or other complex emotions?^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 259]^[E. B. Foa and R. J. McNally, “Mechanisms of Change in Exposure Therapy,” in Current Controversies in the Anxiety Disorders, ed. R. M. Rapee (New York: Guilford, 1996), 329–43.]
+	1. no proof yet

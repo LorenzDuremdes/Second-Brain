@@ -1,0 +1,1 @@
+1. oxycodone; used for managing moderate to severe acute or chronic pain when other treatments are not sufficient.^[https://en.wikipedia.org/wiki/Oxycodone#cite_note-AHFS2018-13]
