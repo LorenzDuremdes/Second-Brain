@@ -1,0 +1,1 @@
+1. autobiographical [[memory]] is a type of explicit memory^[https://en.wikipedia.org/wiki/Autobiographical_memory]

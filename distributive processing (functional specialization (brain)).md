@@ -1,0 +1,1 @@
+1. distributive processing ([[functional specialization (brain)]]); proposes that the brain is more interactive and its regions are functionally interconnected rather than specialized^[https://en.wikipedia.org/wiki/Functional_specialization_(brain)#Distributive_processing]

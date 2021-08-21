@@ -186,6 +186,16 @@
 1. [[serotonin]] → [[amygdala]]
 	1. animals with low [[serotonin]] levels were hyperreactive to stressful stimuli (like loud sounds), while higher levels of [[serotonin]] dampened their fear [[system]], making them less likely to become aggressive or frozen in response to potential threats^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 47]
 
+## (sub)consciousness
+1. what could cause the following? (neurophysiology)^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 276]
+	1. *The soldiers told horrible tales of death and destruction, but I noticed that their bodies often simultaneously radiated a sense of pride and belonging. Similarly, many patients tell me about the happy families they grew up in while their bodies are slumped over and their voices sound anxious and uptight.*
+
+		>One system creates a story for public consumption, and if we tell that story often enough, we are likely to start believing that it contains the whole truth. But the other system registers a different truth: how we experience the situation deep inside.
+		
+		It is this second system that needs to be accessed, befriended, and reconciled.
+		
+		the first is more conscious and the second more subconscious
+
 ## [[frontal lobe]]
 1. psychological trauma → superficial behavior ([[neurophysiology]])^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 75]
 	1. less active [[frontal lobe]]
@@ -266,7 +276,7 @@
 	1. research has shown that depressed patients without prior histories of abuse or neglect tend to respond much better to antidepressants than patients with those backgrounds^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 177]^[C. B. Nemeroff, et al., “Differential Responses to [[Psychotherapy]] Versus [[Pharmacotherapy]] in Patients with Chronic Forms of Major [[Depression]] and Childhood Trauma,” Proceedings of the National Academy of Sciences of the United States of America 100, no. 24 (2003): 14293–96. See also C. Heim, P. M. Plotsky, and C. B. Nemeroff, “Importance of Studying the Contributions of Early Adverse Experience to Neurobiological Findings in [[Depression]],” Neuropsychopharmacology 29, no. 4 (2004): 641–48.]
 
 ## [[anxiolytic]]
-1. how does Bessel van der Kolk prescribe benzodiazepines to his patients?^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 264]
+1. how does Bessel van der Kolk prescribe benzodiazepines to his patients?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 264]
 	1. a low supply such that they have to use it strategically (and not daily) ...and I ask them to keep a diary of what was going on when they decided to take the pill. That gives us a chance to discuss the specific incidents that triggered them.
 
 # related
