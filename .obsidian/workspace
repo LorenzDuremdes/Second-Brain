@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reversible computing.md",
+                "file": "eye movement desensitization and reprocessing.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "reversible computing.md",
+                "file": "eye movement desensitization and reprocessing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.0078125,
+                  "scale": 0.009344663557112838,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reversible computing.md",
+                "file": "eye movement desensitization and reprocessing.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "computer",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reversible computing.md"
+                "file": "eye movement desensitization and reprocessing.md"
               }
             }
           },
@@ -157,14 +157,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reversible computing.md",
+                "file": "eye movement desensitization and reprocessing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a834b3f3361a68cb",
@@ -176,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reversible computing.md",
+                "file": "eye movement desensitization and reprocessing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,17 +192,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "c16c701ef436c416",
+  "active": "3c6c6d742014beb2",
   "lastOpenFiles": [
-    "reversible computing.md",
+    "eye movement desensitization and reprocessing.md",
     "Untitled.md",
+    "physical attractiveness.md",
     "psychological trauma.md",
+    "reversible computing.md",
     "medial prefrontal cortex.md",
     "diazepam.md",
     "psychedelic drug.md",
     "flooding (psychology).md",
-    "Second Battle of Fallujah.md",
-    "Zero Hour (NATO).md",
-    "craniosacral therapy.md"
+    "Second Battle of Fallujah.md"
   ]
 }

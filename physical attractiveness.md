@@ -2,6 +2,10 @@
 	1. no, most people prefer to decide/develop it after a few dates/[[time]]
 	2. Proximity plays a role in who you're attracted to. The more you spend [[time]] with someone, the more likely you are to develop attraction.^[https://www.reddit.com/r/datingoverthirty/comments/ixz8bc/no_physical_attraction_dealbreaker/g69pgo3?utm_source=share&utm_medium=web2x&context=3]
 
+# improve
+1. [Gentlemen, you're not ugly, you're just lazy.](https://www.reddit.com/r/dating/comments/p9bpam/gentlemen_youre_not_ugly_youre_just_lazy/)
+	1. *The only reason your ugly is because you wake up in the morning, wash your ass, and put on sweatpants and think that's all it takes. It takes weeks, months, years of effort to be attractive.*
+
 # face
 2. the left side of the face is typically found to be more attractive^[https://blogs.unimelb.edu.au/sciencecommunication/2020/09/25/whats-your-best-side]
 

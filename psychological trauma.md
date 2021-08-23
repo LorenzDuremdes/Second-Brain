@@ -23,6 +23,10 @@
 1. how long does "[[flooding (psychology)]]" have to take place for it to reduce psychological trauma anxiety?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 258]^[T. M. Keane, “The Role of [[Exposure Therapy]] in the Psychological Treatment of PTSD,” National Center for PTSD Clinical Quarterly 5, no. 4 (1995): 1–6.]
 	1. ~100 minutes
 
+### [[focusing (psychotherapy)]]
+1. is Bessel van der Kolk fond of "[[focusing (psychotherapy)]]"? + why^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 278]
+	1. yes, because the rational and emotional [[brain]] can have different perspectives/reactions on the same psychological traumas
+
 ## [[developmental psychopathology]]
 1. psychological trauma is mostly nature **and** nurture (still inconclusive)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 186]
 	1. even parents with their own genetic vulnerabilities can pass on that protection to the next generation **provided that they are given the right support**
@@ -187,7 +191,7 @@
 	1. animals with low [[serotonin]] levels were hyperreactive to stressful stimuli (like loud sounds), while higher levels of [[serotonin]] dampened their fear [[system]], making them less likely to become aggressive or frozen in response to potential threats^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 47]
 
 ## (sub)consciousness
-1. what could cause the following? (neurophysiology)^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 276]
+1. what could cause the following? ([[neurophysiology]])^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 276]
 	1. *The soldiers told horrible tales of death and destruction, but I noticed that their bodies often simultaneously radiated a sense of pride and belonging. Similarly, many patients tell me about the happy families they grew up in while their bodies are slumped over and their voices sound anxious and uptight.*
 
 		>One system creates a story for public consumption, and if we tell that story often enough, we are likely to start believing that it contains the whole truth. But the other system registers a different truth: how we experience the situation deep inside.
