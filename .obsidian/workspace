@@ -6,6 +6,7 @@
       {
         "id": "50a8d41127940ab9",
         "type": "split",
+        "dimension": 50.23342670401494,
         "children": [
           {
             "id": "c16c701ef436c416",
@@ -48,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.009344663557112838,
+                  "scale": 0.014088219839043844,
                   "close": false
                 }
               }
@@ -59,8 +60,9 @@
         "direction": "horizontal"
       },
       {
-        "id": "bed1aaf8209fd228",
+        "id": "cbd8557702c7941d",
         "type": "split",
+        "dimension": 49.76657329598506,
         "children": [
           {
             "id": "3c6c6d742014beb2",
@@ -75,7 +77,7 @@
             "group": "3055fdeaa11edc3b"
           },
           {
-            "id": "173c3f0c2f2b6698",
+            "id": "18e8768db6896287",
             "type": "leaf",
             "state": {
               "type": "mindmap",
@@ -110,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "trauma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -192,17 +194,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "3c6c6d742014beb2",
+  "active": "c16c701ef436c416",
   "lastOpenFiles": [
     "eye movement desensitization and reprocessing.md",
-    "Untitled.md",
-    "physical attractiveness.md",
     "psychological trauma.md",
-    "reversible computing.md",
-    "medial prefrontal cortex.md",
-    "diazepam.md",
-    "psychedelic drug.md",
-    "flooding (psychology).md",
-    "Second Battle of Fallujah.md"
+    "Untitled.md",
+    "sequela.md",
+    "disruptive mood dysregulation disorder.md",
+    "intermittent explosive disorder.md",
+    "SLC6A4 gene.md",
+    "sodium-dependent serotonin transporter.md",
+    "2021-08-13 psychological trauma.md",
+    "2021-08-13 studying.md"
   ]
 }

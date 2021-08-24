@@ -27,6 +27,10 @@
 1. is Bessel van der Kolk fond of "[[focusing (psychotherapy)]]"? + why^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 278]
 	1. yes, because the rational and emotional [[brain]] can have different perspectives/reactions on the same psychological traumas
 
+### [[eye movement desensitization and reprocessing]]
+1. EMDR → adults with histories of childhood trauma ↮ adults with trauma during adulthood^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 297]
+	1. at the end of eight weeks, almost half of the adult-onset group that received EMDR scored as completely cured, while only 9 percent of the child-abuse group showed such pronounced improvement
+
 ## [[developmental psychopathology]]
 1. psychological trauma is mostly nature **and** nurture (still inconclusive)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 186]
 	1. even parents with their own genetic vulnerabilities can pass on that protection to the next generation **provided that they are given the right support**
@@ -190,7 +194,7 @@
 1. [[serotonin]] → [[amygdala]]
 	1. animals with low [[serotonin]] levels were hyperreactive to stressful stimuli (like loud sounds), while higher levels of [[serotonin]] dampened their fear [[system]], making them less likely to become aggressive or frozen in response to potential threats^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 47]
 
-## (sub)consciousness
+## (sub)[[consciousness]]
 1. what could cause the following? ([[neurophysiology]])^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 276]
 	1. *The soldiers told horrible tales of death and destruction, but I noticed that their bodies often simultaneously radiated a sense of pride and belonging. Similarly, many patients tell me about the happy families they grew up in while their bodies are slumped over and their voices sound anxious and uptight.*
 
