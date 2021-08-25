@@ -1,0 +1,1 @@
+1. asana; a body posture, originally and still a general term for a sitting meditation pose,^[https://en.wikipedia.org/wiki/Asana#cite_note-Patanjali111-1] and later extended in [[hatha yoga]] and modern yoga as exercise, to any type of position, adding reclining, standing, inverted, twisting, and balancing poses
