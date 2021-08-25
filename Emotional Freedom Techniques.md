@@ -1,0 +1,1 @@
+1. Emotional Freedom Techniques (alternative medicine); the person focuses on a specific issue while tapping on "end points of the body's energy meridians (acupuncture point)"

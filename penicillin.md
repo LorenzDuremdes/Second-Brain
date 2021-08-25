@@ -1,0 +1,1 @@
+1. penicillin; still widely used today for different bacterial infections, though many types of bacteria have developed resistance following extensive use^[https://en.wikipedia.org/wiki/Penicillin]
