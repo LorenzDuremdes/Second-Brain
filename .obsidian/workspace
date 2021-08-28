@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "subperso",
+                "query": "sub",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -197,13 +197,13 @@
   "lastOpenFiles": [
     "subpersonality.md",
     "Untitled.md",
+    "psychological trauma.md",
+    "memory latency.md",
     "isotropy.md",
     "anisotropy.md",
     "trauma-sensitive yoga.md",
     "yoga.md",
     "displacement (psychology).md",
-    "avoidant attachment style.md",
-    "Bālāsana.md",
-    "autonomic nervous system.md"
+    "avoidant attachment style.md"
   ]
 }

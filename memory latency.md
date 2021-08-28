@@ -1,0 +1,2 @@
+1. [[memory]] latency; the time between initiating a request for a byte or word in memory until it is retrieved by a processor^[https://en.wikipedia.org/wiki/Memory_latency]
+	1. **human equivalent**: atomic memory items (knowledge formulation)

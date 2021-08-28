@@ -15,7 +15,10 @@
 1. psychological trauma (chameleon analogy)^[Alok Kanojia, Wednesday 23/06/2021]
 	1. trauma tends to "disguise" itself as other mental illnesses (e.g. [[depression]], anxiety) fixing e.g. [[depression]] brings [[anxiety disorder]], which brings something else once 'cured'
 	2. *I didnt even know about cptsd and, for such a long [[time]], tried to tackle my anxiety and [[depression]] instead. I really thought I was creating my own problems subconsciously. While that might hold some truth, I am making leaps of progress just by understanding my cptsd and how it changed my [[brain]].*^[https://www.reddit.com/r/CPTSD/comments/o6kkkx/if_you_said_to_someone_my_parents_broke_my/h2tdrqb?utm_source=share&utm_medium=web2x&context=3]
-2. can you process psychological trauma if it overwhelms you?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 260]
+2. what could be better than saying things like "You are good enough"?^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 334]
+	1. teaching them (catalyzing) how to feel good enough
+		1. instead of giving fish, teaching them to fish
+3. can you process psychological trauma if it overwhelms you?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 260]
 	1. probably not
 		1. why? e.g. lack of positive replacement
 
