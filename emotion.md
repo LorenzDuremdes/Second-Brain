@@ -11,6 +11,12 @@
 3. are "emotion" and "reason" opposed?
 	1. no, our emotions assign value to experiences and thus are the foundation of reason^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 80]
 
+# express
+1. how can you express the 'right hemisphere' on paper?
+	1. e.g. by drawing
+		1. e.g. dots representing yourself, friends, family, partner, etc. and their relative distances to each other
+	2. **see also**: The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 349
+
 # etymology
 1. emotion (etymology); from Latin "*ēmōtus*" for "to move out"^[https://en.wiktionary.org/wiki/emotion]
 

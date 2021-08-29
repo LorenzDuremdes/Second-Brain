@@ -18,6 +18,7 @@
 2. what could be better than saying things like "You are good enough"?^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 334]
 	1. teaching them (catalyzing) how to feel good enough
 		1. instead of giving fish, teaching them to fish
+		2. how? e.g. letting them experience things like your acceptance of them?
 3. can you process psychological trauma if it overwhelms you?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 260]
 	1. probably not
 		1. why? e.g. lack of positive replacement

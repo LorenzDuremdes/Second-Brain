@@ -1,0 +1,2 @@
+1. 90% of [[human]] communication occurs in the right hemisphere^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 347]^[D. Goleman, Social Intelligence: The New Science of Human Relationships (Random House Digital, 2006).]
+	1. why? ◇~55% nonverbal (and only ~7% words themselves)

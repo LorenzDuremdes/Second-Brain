@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "subpersonality.md",
+                "file": "tactical empathy.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "subpersonality.md",
+                "file": "tactical empathy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "subpersonality.md",
+                "file": "tactical empathy.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sub",
+                "query": "emotion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "subpersonality.md"
+                "file": "tactical empathy.md"
               }
             }
           },
@@ -157,14 +157,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "subpersonality.md",
+                "file": "tactical empathy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a834b3f3361a68cb",
@@ -176,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "subpersonality.md",
+                "file": "tactical empathy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +194,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "subpersonality.md",
+    "tactical empathy.md",
+    "emotion.md",
     "Untitled.md",
+    "interpersonal relationship.md",
     "psychological trauma.md",
+    "subpersonality.md",
     "memory latency.md",
     "isotropy.md",
     "anisotropy.md",
-    "trauma-sensitive yoga.md",
-    "yoga.md",
-    "displacement (psychology).md",
-    "avoidant attachment style.md"
+    "trauma-sensitive yoga.md"
   ]
 }
