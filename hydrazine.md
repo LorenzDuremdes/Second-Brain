@@ -1,0 +1,1 @@
+1. hydrazine; an inorganic compound with the chemical formula N<sub>2</sub>H<sub>4</sub>^[https://en.wikipedia.org/wiki/Hydrazine]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tactical empathy.md",
+                "file": "generalized tonic–clonic seizure.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "tactical empathy.md",
+                "file": "generalized tonic–clonic seizure.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tactical empathy.md",
+                "file": "generalized tonic–clonic seizure.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "emotion",
+                "query": "neural oscil",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tactical empathy.md"
+                "file": "generalized tonic–clonic seizure.md"
               }
             }
           },
@@ -157,13 +157,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tactical empathy.md",
+                "file": "generalized tonic–clonic seizure.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a834b3f3361a68cb",
@@ -175,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tactical empathy.md",
+                "file": "generalized tonic–clonic seizure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,15 +195,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "tactical empathy.md",
-    "emotion.md",
+    "generalized tonic–clonic seizure.md",
+    "electrocorticography.md",
     "Untitled.md",
-    "interpersonal relationship.md",
+    "generalized seizure.md",
+    "monomethylhydrazine.md",
+    "hydrazine.md",
     "psychological trauma.md",
-    "subpersonality.md",
-    "memory latency.md",
-    "isotropy.md",
-    "anisotropy.md",
-    "trauma-sensitive yoga.md"
+    "neurofeedback.md",
+    "tactical empathy.md",
+    "emotion.md"
   ]
 }

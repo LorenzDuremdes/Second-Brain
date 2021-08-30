@@ -1,0 +1,1 @@
+1. generalized epilepsy; a form of epilepsy characterised by generalised seizures with no apparent cause.^[https://en.wikipedia.org/wiki/Generalized_epilepsy#cite_note-1]

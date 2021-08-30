@@ -1,0 +1,1 @@
+1. monomethyl[[hydrazine]]; it is used as a rocket propellant in bipropellant rocket engines because it is “hypergolic” with various oxidizers such as nitrogen tetroxide (N<sub>2</sub>O<sub>4</sub>) and nitric acid (HNO<sub>3</sub>)^[https://en.wikipedia.org/wiki/Monomethylhydrazine]

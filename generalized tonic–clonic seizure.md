@@ -1,0 +1,1 @@
+1. generalized tonic–clonic seizure; a type of [[generalized seizure]] that produces bilateral, convulsive tonic and clonic muscle contractions

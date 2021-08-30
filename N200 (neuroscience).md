@@ -1,0 +1,1 @@
+1. N200 (neuroscience); ([[neural oscillation|ERP]]) a mismatch detector, but it has also been found to reflect executive cognitive control functions, and has recently been used in the study of language (Folstein & Van Petten, 2008; Schmitt, Münte, & Kutas, 2000)
