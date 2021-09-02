@@ -274,6 +274,10 @@
 1. psychological trauma → [[cingulate cortex]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 113]
 	1. people with the former show reduced activity in the latter
 
+# [[temporal lobe]]
+1. psychological trauma → [[temporal lobe]]^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 374]
+	1. while there is no typical signature for PTSD, many traumatized people have sharply increased activity in the [[temporal lobe]]
+
 ## Brodmann area 19
 1. trauma → Brodmann area 19^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 58]
 	1. [[brain]] activation remains for a much longer [[time]] after the original experience of the trauma. We were witnessing a [[brain]] region rekindled as if the trauma were actually occurring.

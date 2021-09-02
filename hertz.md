@@ -1,0 +1,1 @@
+1. cycle per second; was a once-common English name for the unit of frequency now known as the hertz (Hz)^[https://en.wikipedia.org/wiki/Cycle_per_second]

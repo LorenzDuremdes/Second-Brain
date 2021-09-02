@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "generalized tonic–clonic seizure.md",
+                "file": "neurofeedback.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "generalized tonic–clonic seizure.md",
+                "file": "neurofeedback.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.013369370183441542,
+                  "scale": 0.011177310335441018,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "generalized tonic–clonic seizure.md",
+                "file": "neurofeedback.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "neural oscil",
+                "query": "adhd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "generalized tonic–clonic seizure.md"
+                "file": "neurofeedback.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "generalized tonic–clonic seizure.md",
+                "file": "neurofeedback.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "generalized tonic–clonic seizure.md",
+                "file": "neurofeedback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "generalized tonic–clonic seizure.md",
-    "electrocorticography.md",
-    "Untitled.md",
-    "generalized seizure.md",
-    "monomethylhydrazine.md",
-    "hydrazine.md",
-    "psychological trauma.md",
     "neurofeedback.md",
-    "tactical empathy.md",
-    "emotion.md"
+    "attention deficit hyperactivity disorder.md",
+    "hertz.md",
+    "Untitled.md",
+    "temporal lobe.md",
+    "psychological trauma.md",
+    "right temporal lobe.md",
+    "medial prefrontal cortex.md",
+    "generalized tonic–clonic seizure.md",
+    "electrocorticography.md"
   ]
 }
