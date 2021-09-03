@@ -1,0 +1,1 @@
+1. quantitative electroencephalography; a field concerned with the numerical analysis of electroencephalography (EEG) data and associated behavioral correlates^[https://en.wikipedia.org/wiki/Quantitative_electroencephalography]

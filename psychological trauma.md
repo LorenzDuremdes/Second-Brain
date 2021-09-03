@@ -4,6 +4,11 @@
 	1. in volleyball games the staff members invariably were much better coordinated than the patients^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 38]
 
 # [[psychology]]
+## [[expressive therapies]]
+1. is "expressive therapies" effective for "psychological trauma"?^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 386]
+	1. yes, especially drama therapy
+		1. e.g. theater gave him a chance to deeply and physically experience what it was like to be someone other than the learning-disabled, oversensitive boy that he had gradually become
+
 ## [[psychotherapy]]
 1. which members of the group had benefited from psychological trauma therapy and which had continued to feel suicidal and self-destructive?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 171]
 	1. our TAQ interviews provided some answers. The patients who remained self-destructive had told us that they did not remember [[feeling]] safe with anybody as a child; they had reported being abandoned, shuttled from place to place, and generally left to their own devices

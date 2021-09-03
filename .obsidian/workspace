@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shortest remaining time first.md",
+                "file": "psychological trauma.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "shortest remaining time first.md",
+                "file": "psychological trauma.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shortest remaining time first.md",
+                "file": "psychological trauma.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shortest",
+                "query": "neural",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shortest remaining time first.md"
+                "file": "psychological trauma.md"
               }
             }
           },
@@ -157,14 +157,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shortest remaining time first.md",
+                "file": "psychological trauma.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a834b3f3361a68cb",
@@ -176,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shortest remaining time first.md",
+                "file": "psychological trauma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +194,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "psychological trauma.md",
+    "Untitled.md",
+    "neural oscillation.md",
     "shortest remaining time first.md",
     "neurofeedback.md",
     "attention deficit hyperactivity disorder.md",
     "hertz.md",
-    "Untitled.md",
     "temporal lobe.md",
-    "psychological trauma.md",
     "right temporal lobe.md",
-    "medial prefrontal cortex.md",
-    "generalized tonic–clonic seizure.md"
+    "medial prefrontal cortex.md"
   ]
 }
