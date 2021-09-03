@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neurofeedback.md",
+                "file": "shortest remaining time first.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "neurofeedback.md",
+                "file": "shortest remaining time first.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neurofeedback.md",
+                "file": "shortest remaining time first.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adhd",
+                "query": "shortest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neurofeedback.md"
+                "file": "shortest remaining time first.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neurofeedback.md",
+                "file": "shortest remaining time first.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neurofeedback.md",
+                "file": "shortest remaining time first.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,6 +195,7 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "shortest remaining time first.md",
     "neurofeedback.md",
     "attention deficit hyperactivity disorder.md",
     "hertz.md",
@@ -203,7 +204,6 @@
     "psychological trauma.md",
     "right temporal lobe.md",
     "medial prefrontal cortex.md",
-    "generalized tonic–clonic seizure.md",
-    "electrocorticography.md"
+    "generalized tonic–clonic seizure.md"
   ]
 }

@@ -2,6 +2,10 @@
 2. disadvantage: it has the potential for process starvation: long processes may be held off indefinitely if short processes are continually added.^[https://en.wikipedia.org/wiki/Shortest_remaining_time#cite_note-1]
 	1. This threat can be minimal when process times follow a heavy-tailed distribution.^[https://en.wikipedia.org/wiki/Shortest_remaining_time#cite_note-2] A similar [[algorithm]] which avoids starvation at the cost of higher tracking overhead is [[highest response ratio next]]
 
+# optimization
+1. how is "SRTF" related to "learning rate"?
+	1. learning rate can increase as one completes tasks, perhaps (expontentially) faster than starting with slower tasks
+
 # see also
 1. Algorithms to Live By: The [[computer science]] of Human Decisions, p. 117
 
