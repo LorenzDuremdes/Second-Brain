@@ -5,7 +5,7 @@
 
 # [[psychology]]
 ## [[expressive therapies]]
-1. is "expressive therapies" effective for "psychological trauma"?^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 386]
+1. is "[[expressive therapies]]" effective for "psychological trauma"?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 386]
 	1. yes, especially drama therapy
 		1. e.g. theater gave him a chance to deeply and physically experience what it was like to be someone other than the learning-disabled, oversensitive boy that he had gradually become
 
@@ -91,6 +91,10 @@
 3. psychological trauma → [[behavioral plasticity]]
 	1. the former probably decreases the latter
 	2. **see also**: The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 119–120
+
+### [[emotion]]
+1. why are psychologically traumatized people afraid to experience their emotions?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 391]
+	1. because it can lead to a loss of control
 
 ### [[alexithymia]]
 1. many people with psychological trauma experience [[alexithymia]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 121]
@@ -280,7 +284,7 @@
 	1. people with the former show reduced activity in the latter
 
 # [[temporal lobe]]
-1. psychological trauma → [[temporal lobe]]^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 374]
+1. psychological trauma → [[temporal lobe]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 374]
 	1. while there is no typical signature for PTSD, many traumatized people have sharply increased activity in the [[temporal lobe]]
 
 ## Brodmann area 19

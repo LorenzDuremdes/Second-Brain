@@ -1,0 +1,5 @@
+1. cystic fibrosis; Long-term issues include difficulty breathing and coughing up mucus as a result of frequent lung infections.^[https://en.wikipedia.org/wiki/Cystic_fibrosis#cite_note-O2009-1] Other signs and symptoms may include sinus infections, poor growth, fatty stool, clubbing of the fingers and toes, and infertility in most males.^[https://en.wikipedia.org/wiki/Cystic_fibrosis#cite_note-O2009-1] Different people may have different degrees of symptoms.^[https://en.wikipedia.org/wiki/Cystic_fibrosis#cite_note-O2009-1]
+2. taaislijmziekte^[https://nl.wikipedia.org/wiki/Taaislijmziekte]
+3. Figure A shows the organs that cystic fibrosis can affect. Figure B shows a cross-section of a normal airway. Figure C shows an airway with cystic fibrosis. The widened airway is blocked by thick, sticky mucus that contains blood and bacteria.^[By National [[Heart]] Lung and Blood Institute (NIH) - National Heart Lung and Blood Institute (NIH), Public Domain, https://commons.wikimedia.org/w/index.php?curid=29588226]
+
+	<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cysticfibrosis01.jpg" width="500" />

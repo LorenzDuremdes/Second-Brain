@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "Demosthenes.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "Demosthenes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "Demosthenes.md",
                 "mode": "preview"
               }
             },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychological trauma.md"
+                "file": "Demosthenes.md"
               }
             }
           },
@@ -157,13 +157,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "Demosthenes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a834b3f3361a68cb",
@@ -175,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "Demosthenes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,15 +195,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "psychological trauma.md",
     "Untitled.md",
+    "psychological trauma.md",
+    "cystic fibrosis.md",
+    "expressive therapies.md",
     "neural oscillation.md",
     "shortest remaining time first.md",
     "neurofeedback.md",
     "attention deficit hyperactivity disorder.md",
     "hertz.md",
-    "temporal lobe.md",
-    "right temporal lobe.md",
-    "medial prefrontal cortex.md"
+    "temporal lobe.md"
   ]
 }
