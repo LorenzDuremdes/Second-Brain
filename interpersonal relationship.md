@@ -11,5 +11,9 @@
 # [[emotion]]
 1. the face is showing 50% [[happiness]] and anger (neutral)^[https://youtu.be/5n6lDNacfk0?t=360, Alok Kanojia]
 
+# [[sociology]]
+1. why is saying "we need to teach young people to become independent" somewhat wrong?^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 397]
+	1. because we need to teach people to become *inter*dependent
+
 # related
 1. [[intimate relationship]]

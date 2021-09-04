@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demosthenes.md",
+                "file": "interpersonal relationship.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Demosthenes.md",
+                "file": "interpersonal relationship.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demosthenes.md",
+                "file": "interpersonal relationship.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "neural",
+                "query": "interper",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demosthenes.md"
+                "file": "interpersonal relationship.md"
               }
             }
           },
@@ -157,14 +157,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demosthenes.md",
+                "file": "interpersonal relationship.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a834b3f3361a68cb",
@@ -176,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demosthenes.md",
+                "file": "interpersonal relationship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,6 +194,7 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "interpersonal relationship.md",
     "Untitled.md",
     "psychological trauma.md",
     "cystic fibrosis.md",
@@ -203,7 +203,6 @@
     "shortest remaining time first.md",
     "neurofeedback.md",
     "attention deficit hyperactivity disorder.md",
-    "hertz.md",
-    "temporal lobe.md"
+    "hertz.md"
   ]
 }
