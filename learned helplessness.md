@@ -6,5 +6,8 @@
 2. [[acute stress response]] → learned helplessness
 	1. those who are more prone to freeze/flight are more likely to develop/maintain learned helplessness?
 
+# [[child (human)]]
+1. not teaching/showing kids what they are capable of can lead to "learned helplessness"
+
 # see also
 1. The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 42
