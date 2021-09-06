@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "marshmallow experiment.md",
+                "file": "overfitting.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "marshmallow experiment.md",
+                "file": "overfitting.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.013369370183441516,
+                  "scale": 0.013369370183441476,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "marshmallow experiment.md",
+                "file": "overfitting.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cryoth",
+                "query": "problem solv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "marshmallow experiment.md"
+                "file": "overfitting.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "marshmallow experiment.md",
+                "file": "overfitting.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "marshmallow experiment.md",
+                "file": "overfitting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "overfitting.md",
+    "ecological validity.md",
+    "cross-validation (statistics).md",
     "Untitled.md",
     "neural oscillation.md",
     "social proof.md",
     "cryotherapy.md",
     "learned helplessness.md",
     "psychological stress.md",
-    "stress.md",
-    "anxiety disorder.md",
-    "feeling.md",
-    "interpersonal relationship.md"
+    "stress.md"
   ]
 }
