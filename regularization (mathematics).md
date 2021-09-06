@@ -1,0 +1,4 @@
+1. regularization (mathematics); the process of adding information in order to solve an ill-posed problem or to prevent [[overfitting]].^[https://en.wikipedia.org/wiki/Regularization_(mathematics)#cite_note-2]
+2. The green and blue functions both incur zero loss on the given data points. A learned model can be induced to prefer the green function, which may generalize better to more points drawn from the underlying unknown distribution, by adjusting λ, the weight of the regularization term.^[By Nicoguaro - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=46259145]
+
+	<img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Regularization.svg" width="200" />

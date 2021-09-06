@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "overfitting.md",
+                "file": "least absolute shrinkage and selection operator.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "overfitting.md",
+                "file": "least absolute shrinkage and selection operator.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.013369370183441476,
+                  "scale": 0.013369370183441458,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "overfitting.md",
+                "file": "least absolute shrinkage and selection operator.md",
                 "mode": "preview"
               }
             },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "overfitting.md"
+                "file": "least absolute shrinkage and selection operator.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "overfitting.md",
+                "file": "least absolute shrinkage and selection operator.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "overfitting.md",
+                "file": "least absolute shrinkage and selection operator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,17 +193,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "c16c701ef436c416",
+  "active": "917ad13a522064ff",
   "lastOpenFiles": [
+    "least absolute shrinkage and selection operator.md",
+    "Untitled.md",
+    "cross-validation (statistics).md",
     "overfitting.md",
     "ecological validity.md",
-    "cross-validation (statistics).md",
-    "Untitled.md",
     "neural oscillation.md",
     "social proof.md",
     "cryotherapy.md",
     "learned helplessness.md",
-    "psychological stress.md",
-    "stress.md"
+    "psychological stress.md"
   ]
 }

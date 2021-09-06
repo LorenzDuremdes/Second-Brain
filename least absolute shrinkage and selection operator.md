@@ -1,0 +1,4 @@
+1. least absolute shrinkage and selection operator (LASSO); a regression analysis method that performs both variable selection and regularization in order to enhance the prediction accuracy and interpretability of the resulting statistical model^[https://en.wikipedia.org/wiki/Lasso_(statistics)]
+	1. variable selection; feature selection; the process of selecting a subset of relevant features (variables, predictors) for use in model construction^[https://en.wikipedia.org/wiki/Variable_selection]
+	2. what is meant with "variable selection"?
+		1. bringing down the weight of as many factors as possible down to zero ([[Occam's razor]])^[Algorithms to Live By: The Computer Science of Human Decisions, p. 172]
