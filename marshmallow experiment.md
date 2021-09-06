@@ -1,0 +1,2 @@
+1. how could the "marshmallow experiment" have less to do with willpower?^[Algorithms to Live By: The Computer Science of Human Decisions, p. 156]
+	1. it might be more about expectations e.g. individuals that feel/had a more stable past are more likely to endure delayed [[gratification]]

@@ -1,0 +1,2 @@
+1. cryotherapy → [[adaptation curve]]^[https://www.instagram.com/p/CTc5EMSr9Hc/]^[nid:1630910738328]
+	1. despite an increase in MRV, the [[adaptation curve]] does drop unless compensated with extra work (which can produce more systemic fatigue)

@@ -9,7 +9,7 @@
 	1. HMB increases ventilatory threshold
 	2. as well as anaerobic peak power
 ## negative
-1. does HMB reduce [[muscle hypertrophy|hypertrophy]] (by possibly reducing inflammation) like cryotherapy?
+1. does HMB reduce [[muscle hypertrophy|hypertrophy]] (by possibly reducing inflammation) like [[cryotherapy]]?
 # how to take
 1. optimal time of ingestion
 	1. the greatest reduction in skeletal muscle damage from a single bout of exercise has been shown to occur when HMB-Ca is ingested 1–2 hours prior to exercise or HMB-FA is ingested 30–60 minutes prior to exercise^[https://en.wikipedia.org/wiki/Beta-Hydroxy_beta-methylbutyric_acid#cite_note-ISSN_position_stand_2013-1]
