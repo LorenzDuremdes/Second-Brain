@@ -6,5 +6,5 @@
 # neurophysiology (analog)
 1. least absolute shrinkage and selection operator (computer science)^[Algorithms to Live By: The Computer Science of Human Decisions, p. 173]
 	1. neuroscientists have suggested, for instance, that brains try to minimize the number of neurons that are firing at any given moment —implementing the same kind of downward pressure on complexity and prevent things like [[overfitting]] (neurophysiology)
-		1. what could be another reason why the brain does this other than possibly peventing "overfitting"?
+		1. what could be another reason why the brain does this other than possibly peventing "[[overfitting]]"?
 			1. because there's a trade-off between performance and the costs of maintaining it
