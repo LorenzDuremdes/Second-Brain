@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.013369370183441458,
+                  "scale": 0.013369370183441413,
                   "close": false
                 }
               }
@@ -193,9 +193,10 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "917ad13a522064ff",
+  "active": "c16c701ef436c416",
   "lastOpenFiles": [
     "least absolute shrinkage and selection operator.md",
+    "space complexity.md",
     "Untitled.md",
     "cross-validation (statistics).md",
     "overfitting.md",
@@ -203,7 +204,6 @@
     "neural oscillation.md",
     "social proof.md",
     "cryotherapy.md",
-    "learned helplessness.md",
-    "psychological stress.md"
+    "learned helplessness.md"
   ]
 }
