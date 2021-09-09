@@ -11,3 +11,7 @@
 3. **[[learning rate]]** → overfitting
 	1. a lower [[learning rate]] could potentially prevent overfitting^[Algorithms to Live By: The Computer Science of Human Decisions, p. 174]
 		1. e.g. having to prioritize and learn high-level construals first
+
+# examples
+1. how does "[[evolution]]" prevent "overfitting"?^[Algorithms to Live By: The Computer Science of Human Decisions, p. 176]
+	1. being constrained by the past makes us less perfectly adjusted to the present we know but helps keep us robust for the future we don’t

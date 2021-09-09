@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "decussation.md",
+                "file": "early stopping.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "decussation.md",
+                "file": "early stopping.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.013369370183441413,
+                  "scale": 0.015991330090848795,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "decussation.md",
+                "file": "early stopping.md",
                 "mode": "preview"
               }
             },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "decussation.md"
+                "file": "early stopping.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "decussation.md",
+                "file": "early stopping.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "decussation.md",
+                "file": "early stopping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "decussation.md",
-    "human brain.md",
+    "early stopping.md",
+    "maxima and minima.md",
     "Untitled.md",
     "overfitting.md",
+    "decussation.md",
+    "human brain.md",
     "least absolute shrinkage and selection operator.md",
     "space complexity.md",
     "cross-validation (statistics).md",
-    "ecological validity.md",
-    "neural oscillation.md",
-    "social proof.md"
+    "ecological validity.md"
   ]
 }
