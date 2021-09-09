@@ -8,3 +8,6 @@
 2. **[[construal level theory]]** → overfitting
 	1. a too low level-construal can cause overfitting
 		1. **see also**: Algorithms to Live By: The Computer Science of Human Decisions, p. 173
+3. **[[learning rate]]** → overfitting
+	1. a lower [[learning rate]] could potentially prevent overfitting^[Algorithms to Live By: The Computer Science of Human Decisions, p. 174]
+		1. e.g. having to prioritize and learn high-level construals first

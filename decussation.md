@@ -1,0 +1,2 @@
+1. decussation; used in biological contexts to describe a crossinge.g. the optic chiasm^[https://en.wikipedia.org/wiki/Decussation]
+	1. (in Latin, the roman numeral for ten, ***deca***, is an uppercase 'X')
