@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "relaxation (approximation).md",
+                "file": "memory wall.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "relaxation (approximation).md",
+                "file": "memory wall.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "relaxation (approximation).md",
+                "file": "memory wall.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "human brain",
+                "query": "memory wall",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "relaxation (approximation).md"
+                "file": "memory wall.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "relaxation (approximation).md",
+                "file": "memory wall.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "relaxation (approximation).md",
+                "file": "memory wall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,11 +193,11 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "917ad13a522064ff",
+  "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "Untitled.md",
     "relaxation (approximation).md",
     "global optimum.md",
-    "Untitled.md",
     "methodological reductionism.md",
     "polynomial time (time complexity).md",
     "constrained optimization.md",
