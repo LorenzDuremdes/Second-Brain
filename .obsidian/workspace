@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "polynomial time (time complexity).md",
+                "file": "relaxation (approximation).md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "polynomial time (time complexity).md",
+                "file": "relaxation (approximation).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.019127500739803783,
+                  "scale": 0.019127500739803693,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "polynomial time (time complexity).md",
+                "file": "relaxation (approximation).md",
                 "mode": "preview"
               }
             },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "polynomial time (time complexity).md"
+                "file": "relaxation (approximation).md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "polynomial time (time complexity).md",
+                "file": "relaxation (approximation).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "polynomial time (time complexity).md",
+                "file": "relaxation (approximation).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "917ad13a522064ff",
   "lastOpenFiles": [
-    "polynomial time (time complexity).md",
+    "relaxation (approximation).md",
+    "global optimum.md",
     "Untitled.md",
+    "methodological reductionism.md",
+    "polynomial time (time complexity).md",
     "constrained optimization.md",
     "overfitting.md",
     "diminishing returns.md",
     "early stopping.md",
-    "maxima and minima.md",
-    "decussation.md",
-    "human brain.md",
-    "least absolute shrinkage and selection operator.md"
+    "maxima and minima.md"
   ]
 }

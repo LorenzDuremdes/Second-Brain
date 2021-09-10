@@ -1,0 +1,4 @@
+1. minimum spanning tree; a subset of the edges of a connected, edge-weighted undirected graph that connects all the vertices together, without any cycles and with the minimum possible total edge weight^[https://en.wikipedia.org/wiki/Minimum_spanning_tree]
+2. A planar graph and its minimum spanning tree. Each edge is labeled with its weight, which here is roughly proportional to its length.^[By No machine-readable author provided. Dcoetzee assumed (based on copyright claims). - No machine-readable source provided. Own work assumed (based on copyright claims)., Public Domain, https://commons.wikimedia.org/w/index.php?curid=488542]
+
+	<img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Minimum_spanning_tree.svg" width="200" />
