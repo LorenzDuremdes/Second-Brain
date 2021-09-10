@@ -1,0 +1,1 @@
+1. polynomial time (time complexity); if its running time is upper bounded by a polynomial expression in the size of the input for the [[algorithm]], that is, T(n) = O(nk) for some positive constant k.^[https://en.wikipedia.org/wiki/Time_complexity#cite_note-Sipser-1]^[https://en.wikipedia.org/wiki/Time_complexity#cite_note-11]

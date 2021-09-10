@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "early stopping.md",
+                "file": "polynomial time (time complexity).md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "early stopping.md",
+                "file": "polynomial time (time complexity).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.015991330090848795,
+                  "scale": 0.019127500739803783,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "early stopping.md",
+                "file": "polynomial time (time complexity).md",
                 "mode": "preview"
               }
             },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "early stopping.md"
+                "file": "polynomial time (time complexity).md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "early stopping.md",
+                "file": "polynomial time (time complexity).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "early stopping.md",
+                "file": "polynomial time (time complexity).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,17 +193,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "c16c701ef436c416",
+  "active": "917ad13a522064ff",
   "lastOpenFiles": [
+    "polynomial time (time complexity).md",
+    "Untitled.md",
+    "constrained optimization.md",
+    "overfitting.md",
+    "diminishing returns.md",
     "early stopping.md",
     "maxima and minima.md",
-    "Untitled.md",
-    "overfitting.md",
     "decussation.md",
     "human brain.md",
-    "least absolute shrinkage and selection operator.md",
-    "space complexity.md",
-    "cross-validation (statistics).md",
-    "ecological validity.md"
+    "least absolute shrinkage and selection operator.md"
   ]
 }

@@ -3,6 +3,7 @@
 
 # related
 1. [[maxima and minima]]
+2. [[diminishing returns]]
 
 # see also
 1. Algorithms to Live By: The Computer Science of Human Decisions, p. 176

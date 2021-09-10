@@ -1,5 +1,7 @@
 1. overfitting → stability^[Algorithms to Live By: The [[Computer Science]] of Human Decisions, p. 166]
 	1. overfitted data are usually very unstable while one- and two-factor models would remain more or less steady during variations
+2. [[ecological validity]] → overfitting
+	1. the higher the [[ecological validity]], the lower the overfitting
 
 # problem solving
 1. what could help against "overfitting"? + how^[Algorithms to Live By: The [[Computer Science]] of Human Decisions, p. 171]
@@ -11,6 +13,10 @@
 3. **[[learning rate]]** → overfitting
 	1. a lower [[learning rate]] could potentially prevent overfitting^[Algorithms to Live By: The Computer Science of Human Decisions, p. 174]
 		1. e.g. having to prioritize and learn high-level construals first
+
+# things that can increase [[probability]] of overfitting
+1. uncertainty → overfitting^[Algorithms to Live By: The Computer Science of Human Decisions, p. 178]
+	1. the greater the uncertainty, the more sensitive you could be to overfitting e.g. factorizing (semi-)incorrect variables
 
 # examples
 1. how does "[[evolution]]" prevent "overfitting"?^[Algorithms to Live By: The Computer Science of Human Decisions, p. 176]
