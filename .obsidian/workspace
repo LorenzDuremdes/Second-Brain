@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "relaxation (approximation).md",
+                "file": "Lagrangian relaxation.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "relaxation (approximation).md",
+                "file": "Lagrangian relaxation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.019127500739803693,
+                  "scale": 0.019127500739803637,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "relaxation (approximation).md",
+                "file": "Lagrangian relaxation.md",
                 "mode": "preview"
               }
             },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "relaxation (approximation).md"
+                "file": "Lagrangian relaxation.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "relaxation (approximation).md",
+                "file": "Lagrangian relaxation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "relaxation (approximation).md",
+                "file": "Lagrangian relaxation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "relaxation (approximation).md",
     "Untitled.md",
+    "relaxation (approximation).md",
+    "continuous optimization.md",
     "global optimum.md",
     "methodological reductionism.md",
     "polynomial time (time complexity).md",
     "constrained optimization.md",
     "overfitting.md",
     "diminishing returns.md",
-    "early stopping.md",
-    "maxima and minima.md"
+    "early stopping.md"
   ]
 }

@@ -1,0 +1,2 @@
+1. discrete [[optimization]]; a particular kind of optimization problem where there's no smooth continuum among its solutions^[Algorithms to Live By: The Computer Science of Human Decisions, p. 187]
+	1. e.g. you're either at process 5 or 6, nothing in between
