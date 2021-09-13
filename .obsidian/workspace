@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lagrangian relaxation.md",
+                "file": "foot-in-the-door technique.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lagrangian relaxation.md",
+                "file": "foot-in-the-door technique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lagrangian relaxation.md",
+                "file": "foot-in-the-door technique.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "memory wall",
+                "query": "foot in the door",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lagrangian relaxation.md"
+                "file": "foot-in-the-door technique.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lagrangian relaxation.md",
+                "file": "foot-in-the-door technique.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lagrangian relaxation.md",
+                "file": "foot-in-the-door technique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,6 +195,8 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "foot-in-the-door technique.md",
+    "Lagrangian relaxation.md",
     "Untitled.md",
     "relaxation (approximation).md",
     "continuous optimization.md",
@@ -202,8 +204,6 @@
     "methodological reductionism.md",
     "polynomial time (time complexity).md",
     "constrained optimization.md",
-    "overfitting.md",
-    "diminishing returns.md",
-    "early stopping.md"
+    "overfitting.md"
   ]
 }
