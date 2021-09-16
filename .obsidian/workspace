@@ -6,7 +6,6 @@
       {
         "id": "50a8d41127940ab9",
         "type": "split",
-        "dimension": 50.23342670401494,
         "children": [
           {
             "id": "c16c701ef436c416",
@@ -14,11 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "generativity (technology).md",
-=======
-                "file": "unconditional positive regard.md",
->>>>>>> 148cc5b085f66453d51c0cacda8cd5033e12ec6b
+                "file": "positive psychology.md",
                 "mode": "source"
               }
             },
@@ -30,11 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-<<<<<<< HEAD
-                "file": "generativity (technology).md",
-=======
-                "file": "unconditional positive regard.md",
->>>>>>> 148cc5b085f66453d51c0cacda8cd5033e12ec6b
+                "file": "positive psychology.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -57,11 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-<<<<<<< HEAD
-                  "scale": 0.009344663557112734,
-=======
-                  "scale": 0.014088219839043844,
->>>>>>> 148cc5b085f66453d51c0cacda8cd5033e12ec6b
+                  "scale": 0.013369370183441327,
                   "close": false
                 }
               }
@@ -72,9 +59,8 @@
         "direction": "horizontal"
       },
       {
-        "id": "cbd8557702c7941d",
+        "id": "bed1aaf8209fd228",
         "type": "split",
-        "dimension": 49.76657329598506,
         "children": [
           {
             "id": "3c6c6d742014beb2",
@@ -82,18 +68,14 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "generativity (technology).md",
-=======
-                "file": "unconditional positive regard.md",
->>>>>>> 148cc5b085f66453d51c0cacda8cd5033e12ec6b
+                "file": "positive psychology.md",
                 "mode": "preview"
               }
             },
             "group": "3055fdeaa11edc3b"
           },
           {
-            "id": "18e8768db6896287",
+            "id": "173c3f0c2f2b6698",
             "type": "leaf",
             "state": {
               "type": "mindmap",
@@ -128,11 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-<<<<<<< HEAD
-                "query": "pendulat",
-=======
-                "query": "overfitting",
->>>>>>> 148cc5b085f66453d51c0cacda8cd5033e12ec6b
+                "query": "positive psy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -169,11 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "generativity (technology).md"
-=======
-                "file": "unconditional positive regard.md"
->>>>>>> 148cc5b085f66453d51c0cacda8cd5033e12ec6b
+                "file": "positive psychology.md"
               }
             }
           },
@@ -183,11 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "generativity (technology).md",
-=======
-                "file": "unconditional positive regard.md",
->>>>>>> 148cc5b085f66453d51c0cacda8cd5033e12ec6b
+                "file": "positive psychology.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -206,11 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "generativity (technology).md",
-=======
-                "file": "unconditional positive regard.md",
->>>>>>> 148cc5b085f66453d51c0cacda8cd5033e12ec6b
+                "file": "positive psychology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,9 +193,9 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "c16c701ef436c416",
+  "active": "917ad13a522064ff",
   "lastOpenFiles": [
-<<<<<<< HEAD
+    "positive psychology.md",
     "Untitled.md",
     "personality.md",
     "Big Five personality traits.md",
@@ -238,19 +204,6 @@
     "Hephaestus.md",
     "mutation (genetic algorithm).md",
     "psychological trauma.md",
-    "anxiolytic.md",
-    "developmental psychology.md"
-=======
-    "unconditional positive regard.md",
-    "Untitled.md",
-    "eye movement desensitization and reprocessing.md",
-    "psychological trauma.md",
-    "sequela.md",
-    "disruptive mood dysregulation disorder.md",
-    "intermittent explosive disorder.md",
-    "SLC6A4 gene.md",
-    "sodium-dependent serotonin transporter.md",
-    "2021-08-13 psychological trauma.md"
->>>>>>> 148cc5b085f66453d51c0cacda8cd5033e12ec6b
+    "anxiolytic.md"
   ]
 }
