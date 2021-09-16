@@ -17,6 +17,8 @@
 # things that can increase [[probability]] of overfitting
 1. uncertainty → overfitting^[Algorithms to Live By: The Computer Science of Human Decisions, p. 178]
 	1. the greater the uncertainty, the more sensitive you could be to overfitting e.g. factorizing (semi-)incorrect variables
+2. Boolean algebra → overfitting
+	1. too high conjunction can cause overfitting
 
 # examples
 1. how does "[[evolution]]" prevent "overfitting"?^[Algorithms to Live By: The Computer Science of Human Decisions, p. 176]

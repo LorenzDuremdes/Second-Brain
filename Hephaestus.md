@@ -1,0 +1,3 @@
+1. Hephaestus; the [[ancient Greek|Greek]] god of blacksmiths, metalworking, carpenters, craftsmen, artisans, sculptors, metallurgy, fire (compare, however, with Hestia), and volcanoes.^[https://en.wikipedia.org/wiki/Hephaestus#cite_note-ReferenceA-2]
+2. Hephaestus at the Forge by Guillaume Coustou the Younger (Louvre)^[By Guillaume Coustou the Younger - Jastrow (2006), Public Domain, https://commons.wikimedia.org/w/index.php?curid=1024947]
+	<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Vulcan_Coustou_Louvre_MR1814.jpg" width="200" />

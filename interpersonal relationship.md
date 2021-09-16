@@ -7,6 +7,8 @@
 
 # [[microsociology]]
 1. the most natural way for [[human]] beings to calm themselves when they are upset is by clinging to another person^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 125]
+2. adversity → interpersonal relationships^[The [[Happiness]] Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 149]
+	1. adversity can strenghten (some) interpersonal relationships e.g. more appreciation or filtering out those who do not care as much
 
 # [[emotion]]
 1. the face is showing 50% [[happiness]] and anger (neutral)^[https://youtu.be/5n6lDNacfk0?t=360, Alok Kanojia]

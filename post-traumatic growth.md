@@ -1,0 +1,1 @@
+1. post-traumatic growth; a concept describing positive psychological change experienced as a result of struggling with highly challenging, highly stressful life circumstances.^[https://en.wikipedia.org/wiki/Post-traumatic_growth#cite_note-ref1-1]

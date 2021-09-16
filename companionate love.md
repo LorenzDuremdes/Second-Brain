@@ -1,0 +1,1 @@
+1. companionate [[romance (love)|love]]; the affection we feel for those with whom our lives are deeply intertwined^[Berscheid and Walster, 1978.]^[The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 136]

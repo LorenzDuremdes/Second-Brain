@@ -1,0 +1,1 @@
+1. "Big Five [[personality]] traits" is more related to the emotional brain^[The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 152]

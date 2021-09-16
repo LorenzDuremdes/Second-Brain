@@ -1,0 +1,1 @@
+1. passionate [[romance (love)|love]]; a wildly emotional state in which tender and sexual feelings, elation and pain, anxiety and relief, altruism and jealousy coexist in a confusion of feelings^[Berscheid and Walster, 1978; see also Sternberg, 1986.]^[The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 135]

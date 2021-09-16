@@ -1,0 +1,1 @@
+1. psychological resilience; the ability to mentally or emotionally cope with a crisis or to return to pre-crisis status quickly.^[https://en.wikipedia.org/wiki/Psychological_resilience#cite_note-1]

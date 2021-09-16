@@ -1,0 +1,3 @@
+1. Aristophanes; son of Philippus, of the deme Kydathenaion (Latin: Cydathenaeum),^[https://en.wikipedia.org/wiki/Aristophanes#cite_note-3] was a comic playwright or comedy-writer of ancient Athens and a poet of Old Attic Comedy.^[https://en.wikipedia.org/wiki/Aristophanes#cite_note-4]
+2. Bust of Aristophanes in the Uffizi Gallery, Florence, Italy. Head on a herm. 1st century AD. Large-grained marble with bluish veining. Inv. 1914 n. 372 Provenance: from the Villa Medici in Rome; entered the Uffizi in 1780.^[By Alexander Mayatsky - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=94123897]
+	<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Bust_of_Aristophanes.jpg" width="200" />
