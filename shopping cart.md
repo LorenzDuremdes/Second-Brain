@@ -1,0 +1,3 @@
+# history
+1. shopping cart (history); his name was Sylvan Goldman and, after acquiring several small grocery stores in 1934, he noticed his customers stopped buying when their handheld shopping baskets got too heavy. This inspired him to invent the shopping cart.^[Influence, New and Expanded: The Psychology of Persuasion, p. 10]
+	1. he used social proof to persuade his customers to use it (other methods didn't seem to work e.g. placing them at promiment places)

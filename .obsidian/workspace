@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "proselytism.md",
+                "file": "shopping cart.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "proselytism.md",
+                "file": "shopping cart.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "proselytism.md",
+                "file": "shopping cart.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pessi",
+                "query": "social proof",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "proselytism.md"
+                "file": "shopping cart.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "proselytism.md",
+                "file": "shopping cart.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "proselytism.md",
+                "file": "shopping cart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,6 +195,8 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "shopping cart.md",
+    "social proof.md",
     "Untitled.md",
     "coping.md",
     "acute stress response.md",
@@ -202,8 +204,6 @@
     "proactive coping.md",
     "reactive coping.md",
     "appraisal-focused coping strategies.md",
-    "positive psychology.md",
-    "40 kmh 250 watts road cycling.jpg",
-    "personality.md"
+    "positive psychology.md"
   ]
 }
