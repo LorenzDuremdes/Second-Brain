@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "positive psychology.md",
+                "file": "proselytism.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "positive psychology.md",
+                "file": "proselytism.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.013369370183441327,
+                  "scale": 0.0078125,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "positive psychology.md",
+                "file": "proselytism.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "positive psy",
+                "query": "pessi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "positive psychology.md"
+                "file": "proselytism.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "positive psychology.md",
+                "file": "proselytism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "positive psychology.md",
+                "file": "proselytism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,17 +193,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "917ad13a522064ff",
+  "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "positive psychology.md",
     "Untitled.md",
-    "personality.md",
-    "Big Five personality traits.md",
-    "pendulation (psychological trauma therapy).md",
-    "interpersonal relationship.md",
-    "Hephaestus.md",
-    "mutation (genetic algorithm).md",
-    "psychological trauma.md",
-    "anxiolytic.md"
+    "coping.md",
+    "acute stress response.md",
+    "tend and befriend.md",
+    "proactive coping.md",
+    "reactive coping.md",
+    "appraisal-focused coping strategies.md",
+    "positive psychology.md",
+    "40 kmh 250 watts road cycling.jpg",
+    "personality.md"
   ]
 }

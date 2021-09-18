@@ -1,0 +1,2 @@
+1. pessimists are more likely to exhibit avoidance due to [[psychological stress]]^[The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 156]
+	1. why? ◇e.g. more likely to get (emotionally) overwhelmed by problems

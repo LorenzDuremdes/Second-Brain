@@ -1,0 +1,1 @@
+1. proactive [[coping]]; a [[coping]] response which aims to neutralize a future stressor^[https://en.wikipedia.org/wiki/Coping#Adaptive_behavioural_coping_strategies]

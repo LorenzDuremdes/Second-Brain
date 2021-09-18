@@ -1,0 +1,1 @@
+1. reactive [[coping]]; the [[coping]] response which follows the stressor^[https://en.wikipedia.org/wiki/Coping#Adaptive_behavioural_coping_strategies]
