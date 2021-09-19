@@ -82,7 +82,7 @@
 
 ## [[psychological stress]]
 1. why do some people with psychological trauma seek [[psychological stress]]?
-	1. We concluded that Beecher’s speculation that “strong emotions can block pain” was the result of the release of morphinelike substances manufactured in the [[brain]]. This suggested that for many traumatized people, reexposure to stress might provide a similar relief from anxiety.^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 46]
+	1. We concluded that Beecher’s speculation that “strong emotions can block pain” was the result of the release of morphinelike substances manufactured in the [[brain]]. This suggested that for many traumatized people, reexposure to [[stress]] might provide a similar relief from anxiety.^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 46]
 
 ## intrapersonal
 1. being traumatized means continuing to organize your life as if the trauma were still going on^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 66]
@@ -133,9 +133,13 @@
 1. (familiar ↮ stranger) · abuse → [[memory]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 227]
 	1. women who were younger at the time of the incident and those who were molested by someone they knew were more likely to have forgotten their abuse
 
+### shame
+1. how can traumas that carry more [[shame]] affect health more?^[The [[Happiness]] Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 157]
+	1. e.g. by not disclosing or keeping things secret due to feeling more shameful
+
 ### [[culture]]
 1. culture → psychological trauma^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 222–223]
-	1. culture shapes the expression of traumatic stress e.g. while the World War I soldiers flail, have facial tics, and collapse with paralyzed bodies, the following generation talks and cringe
+	1. culture shapes the expression of traumatic [[stress]] e.g. while the World War I soldiers flail, have facial tics, and collapse with paralyzed bodies, the following generation talks and cringe
 
 ## [[trauma trigger]]
 1. how could "[[thematic apperception test]]" indicate that people with psychological trauma see triggers everywhere?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 133]
@@ -181,10 +185,10 @@
 1. another characteristic they shared was that even their most relaxed conversations seemed stilted, lacking the natural flow of gestures and facial expressions that are typical among friends^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 38]
 2. what can cause people with psychological trauma to experience severe bodily reactions e.g. asthma attacks?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 120]
 	1. them trying to ignore other bodily reactions
-	2. suppressing our inner cries for help does not stop our stress hormones from mobilizing the body
+	2. suppressing our inner cries for help does not stop our [[stress]] hormones from mobilizing the body
 		1. other: fibromyalgia, back and neck pain, migraines, digestive problems, irritable bowel syndrome, chronic fatigue
 3. psychological trauma → [[subjective vitality]]
-	1. traumatized people keep secreting large amounts of stress hormones long after the actual danger has passed^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma], which can reduce [[subjective vitality]]
+	1. traumatized people keep secreting large amounts of [[stress]] hormones long after the actual danger has passed^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma], which can reduce [[subjective vitality]]
 4. psychological trauma → proprioception
 	1. the former usually decreases the latter^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 111]
 

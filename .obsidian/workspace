@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bid (sociology).md",
+                "file": "psychological resilience.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "bid (sociology).md",
+                "file": "psychological resilience.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.0078125,
+                  "scale": 0.01599133009084906,
                   "close": false
                 }
               }
@@ -68,8 +68,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bid (sociology).md",
-                "mode": "preview"
+                "file": "psychological resilience.md",
+                "mode": "source"
               }
             },
             "group": "3055fdeaa11edc3b"
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "social proof",
+                "query": "advers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bid (sociology).md"
+                "file": "psychological resilience.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bid (sociology).md",
+                "file": "psychological resilience.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bid (sociology).md",
+                "file": "psychological resilience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "psychological resilience.md",
     "Untitled.md",
+    "self-disclosure.md",
+    "psychological trauma.md",
     "shopping cart.md",
     "social proof.md",
     "coping.md",
     "acute stress response.md",
     "tend and befriend.md",
-    "proactive coping.md",
-    "reactive coping.md",
-    "appraisal-focused coping strategies.md",
-    "positive psychology.md"
+    "proactive coping.md"
   ]
 }

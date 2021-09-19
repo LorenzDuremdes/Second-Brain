@@ -1,0 +1,1 @@
+1. the active and chronic striving to integrate one’s past, present, and future into a coherent narrative begins only in the mid to late teens^[The [[Happiness]] Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 160]

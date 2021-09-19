@@ -1,0 +1,2 @@
+1. does "self-disclosure" in itself improve one's health?^[The [[Happiness]] Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 157]
+	1. not per se, it's more effective if it also gives rise/progress to meaning
