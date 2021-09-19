@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychological resilience.md",
+                "file": "knowledge.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "psychological resilience.md",
+                "file": "knowledge.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.01599133009084906,
+                  "scale": 0.013369370183441602,
                   "close": false
                 }
               }
@@ -68,8 +68,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychological resilience.md",
-                "mode": "source"
+                "file": "knowledge.md",
+                "mode": "preview"
               }
             },
             "group": "3055fdeaa11edc3b"
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychological resilience.md"
+                "file": "knowledge.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychological resilience.md",
+                "file": "knowledge.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychological resilience.md",
+                "file": "knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,17 +193,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "c16c701ef436c416",
+  "active": "917ad13a522064ff",
   "lastOpenFiles": [
-    "psychological resilience.md",
+    "knowledge.md",
+    "knowledge quality.md",
+    "explicit knowledge.md",
+    "tacit knowledge.md",
     "Untitled.md",
+    "psychological resilience.md",
     "self-disclosure.md",
     "psychological trauma.md",
     "shopping cart.md",
-    "social proof.md",
-    "coping.md",
-    "acute stress response.md",
-    "tend and befriend.md",
-    "proactive coping.md"
+    "social proof.md"
   ]
 }

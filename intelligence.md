@@ -60,7 +60,7 @@
 	2. less quantity of [[information]] (e.g. [[brain]] makes from "A" and "B" → "AB")
 3. do you have to know beforehand why you want to ask something? + why
 	1. not necessarily → sometimes just increasing the quantity/accuracy of manipulable [[information]] is enough → increase future freedom of action
-		1. e.g. you don't know (everything) either what you can do with the knowledge you acquire (in [[spaced repetition|SRS]])
+		1. e.g. you don't know (everything) either what you can do with the [[knowledge]] you acquire (in [[spaced repetition|SRS]])
 
 # high intelligence
 1. high intelligence → "simple" questions are complicated
