@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "habit.md",
+                "file": "kategorischer Imperativ.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "habit.md",
+                "file": "kategorischer Imperativ.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.013369370183441602,
+                  "scale": 0.015991330090848983,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "habit.md",
+                "file": "kategorischer Imperativ.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "abit",
+                "query": "greek",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "habit.md"
+                "file": "kategorischer Imperativ.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "habit.md",
+                "file": "kategorischer Imperativ.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "habit.md",
+                "file": "kategorischer Imperativ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,14 +196,14 @@
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
     "Untitled.md",
+    "Ἠθικὰ Νικομάχεια.md",
+    "bushel.md",
+    "Instruction of Amenemope.md",
+    "habit.md",
     "transactionalism.md",
     "knowledge.md",
     "knowledge quality.md",
     "explicit knowledge.md",
-    "tacit knowledge.md",
-    "psychological resilience.md",
-    "self-disclosure.md",
-    "psychological trauma.md",
-    "shopping cart.md"
+    "tacit knowledge.md"
   ]
 }

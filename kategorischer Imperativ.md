@@ -1,0 +1,2 @@
+1. *kategorischer Imperativ* (categorical imperative); it is best known in its original formulation: "Act only according to that maxim whereby you can, at the same time, will that it should become a universal law."^[https://en.wikipedia.org/wiki/Categorical_imperative#cite_note-Ellington-1]
+	1. the central philosophical concept in the deontological moral philosophy of Immanuel Kant
