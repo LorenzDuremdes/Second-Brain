@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge.md",
+                "file": "habit.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "knowledge.md",
+                "file": "habit.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge.md",
+                "file": "habit.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "advers",
+                "query": "abit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledge.md"
+                "file": "habit.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledge.md",
+                "file": "habit.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledge.md",
+                "file": "habit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,17 +193,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "917ad13a522064ff",
+  "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "Untitled.md",
+    "transactionalism.md",
     "knowledge.md",
     "knowledge quality.md",
     "explicit knowledge.md",
     "tacit knowledge.md",
-    "Untitled.md",
     "psychological resilience.md",
     "self-disclosure.md",
     "psychological trauma.md",
-    "shopping cart.md",
-    "social proof.md"
+    "shopping cart.md"
   ]
 }
