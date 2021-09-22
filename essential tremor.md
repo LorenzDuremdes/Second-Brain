@@ -1,0 +1,4 @@
+1. essential tremor; a medical condition characterized by involuntary rhythmic contractions and relaxations (oscillations or twitching movements) of certain muscle groups in one or more body parts of unknown cause.^[https://en.wikipedia.org/wiki/Essential_tremor#cite_note-7]
+2. Archimedean spiral drawings from a man with a unilateral essential tremor. The spiral on the left was drawn by the subject using the left hand, and the one on the right using the right hand.^[By Svenskbygderna (talk) - Spiral drawing - essential tremor.jpg by Undescribed, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=78497463]
+
+	<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Spiral_drawing_of_Essential_Tremor_patient.svg" width="200" />

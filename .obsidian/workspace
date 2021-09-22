@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kategorischer Imperativ.md",
+                "file": "essential tremor.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "kategorischer Imperativ.md",
+                "file": "essential tremor.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.015991330090848983,
+                  "scale": 0.019127500739804133,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kategorischer Imperativ.md",
+                "file": "essential tremor.md",
                 "mode": "preview"
               }
             },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kategorischer Imperativ.md"
+                "file": "essential tremor.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kategorischer Imperativ.md",
+                "file": "essential tremor.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kategorischer Imperativ.md",
+                "file": "essential tremor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,14 +196,14 @@
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
     "Untitled.md",
+    "kategorischer Imperativ.md",
+    "Instruction of Amenemope.md",
     "Ἠθικὰ Νικομάχεια.md",
     "bushel.md",
-    "Instruction of Amenemope.md",
     "habit.md",
     "transactionalism.md",
     "knowledge.md",
     "knowledge quality.md",
-    "explicit knowledge.md",
-    "tacit knowledge.md"
+    "explicit knowledge.md"
   ]
 }
