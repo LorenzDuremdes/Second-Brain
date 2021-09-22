@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essential tremor.md",
+                "file": "Demosthenes.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "essential tremor.md",
+                "file": "Demosthenes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essential tremor.md",
+                "file": "Demosthenes.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "greek",
+                "query": "demosthenes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "essential tremor.md"
+                "file": "Demosthenes.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "essential tremor.md",
+                "file": "Demosthenes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "essential tremor.md",
+                "file": "Demosthenes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "Demosthenes.md",
+    "deontology.md",
     "Untitled.md",
+    "essential tremor.md",
     "kategorischer Imperativ.md",
     "Instruction of Amenemope.md",
     "Ἠθικὰ Νικομάχεια.md",
     "bushel.md",
     "habit.md",
-    "transactionalism.md",
-    "knowledge.md",
-    "knowledge quality.md",
-    "explicit knowledge.md"
+    "transactionalism.md"
   ]
 }
