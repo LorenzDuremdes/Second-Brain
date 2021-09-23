@@ -1,0 +1,2 @@
+1. what does the book "The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 185" think of "you only have to look within yourself for guidance of e.g. virtues"?
+	1. like asking each one to invent a personal language—a pointless and isolating task if there is no community with whom to speak

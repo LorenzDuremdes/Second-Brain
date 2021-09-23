@@ -1,0 +1,1 @@
+1. [[culture|cultural]] resource management; the vocation and practice of managing heritage assets, and other cultural resources such as contemporary art^[https://en.wikipedia.org/wiki/Cultural_resource_management]
