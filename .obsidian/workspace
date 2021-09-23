@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demosthenes.md",
+                "file": "immanence.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Demosthenes.md",
+                "file": "immanence.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.019127500739804133,
+                  "scale": 0.013369370183441327,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demosthenes.md",
+                "file": "immanence.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "demosthenes",
+                "query": "positive psy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demosthenes.md"
+                "file": "immanence.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demosthenes.md",
+                "file": "immanence.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demosthenes.md",
+                "file": "immanence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "Demosthenes.md",
-    "deontology.md",
+    "immanence.md",
     "Untitled.md",
-    "essential tremor.md",
-    "kategorischer Imperativ.md",
-    "Instruction of Amenemope.md",
     "Ἠθικὰ Νικομάχεια.md",
-    "bushel.md",
-    "habit.md",
-    "transactionalism.md"
+    "2021-09-17.md",
+    "vertical coherence.md",
+    "positive psychology.md",
+    "personality.md",
+    "Big Five personality traits.md",
+    "pendulation (psychological trauma therapy).md",
+    "interpersonal relationship.md"
   ]
 }
