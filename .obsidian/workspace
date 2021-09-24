@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "principle of maximum entropy.md",
+                "file": "fundamentalism.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "principle of maximum entropy.md",
+                "file": "fundamentalism.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.013369370183441327,
+                  "scale": 0.04683024442255313,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "principle of maximum entropy.md",
+                "file": "fundamentalism.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intelligence",
+                "query": "religion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "principle of maximum entropy.md"
+                "file": "fundamentalism.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "principle of maximum entropy.md",
+                "file": "fundamentalism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "principle of maximum entropy.md",
+                "file": "fundamentalism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,17 +193,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "c16c701ef436c416",
+  "active": "917ad13a522064ff",
   "lastOpenFiles": [
-    "principle of maximum entropy.md",
+    "fundamentalism.md",
     "Untitled.md",
+    "social psychology.md",
+    "sociology.md",
+    "E pluribus unum.md",
+    "principle of maximum entropy.md",
     "intelligence.md",
     "cultural resource management.md",
     "immanence.md",
-    "Ἠθικὰ Νικομάχεια.md",
-    "2021-09-17.md",
-    "vertical coherence.md",
-    "positive psychology.md",
-    "personality.md"
+    "Ἠθικὰ Νικομάχεια.md"
   ]
 }

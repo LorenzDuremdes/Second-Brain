@@ -1,0 +1,1 @@
+1. fundamentalism; usually has a [[religion|religious]] connotation that indicates unwavering attachment to a set of irreducible beliefs.^[https://en.wikipedia.org/wiki/Fundamentalism#cite_note-1]
