@@ -1,0 +1,2 @@
+1. principle of maximum entropy; states that the probability distribution which best represents the current state of knowledge about a system is the one with largest entropy, in the context of precisely stated prior data (such as a proposition that expresses testable information)^[https://en.wikipedia.org/wiki/Principle_of_maximum_entropy]
+	1. since the distribution with the maximum entropy is the one that makes the fewest assumptions about the true distribution of data, the principle of maximum entropy can be seen as an application of [[Occam's razor]]

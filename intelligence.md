@@ -23,6 +23,9 @@
 3. perception space (P); the environment sends signals to the agent with symbols from a finite set^[Universal Intelligence: A Definition of Machine Intelligence, p. 17]
 	1. symbols; [[information]]
 4. µ (universal intelligence); environment^[Universal Intelligence: A Definition of Machine Intelligence, p. 18]
+5. γ (universal intelligence); how heavily weighted the short-term is compared to the long-term^[Universal Intelligence: A Definition of Machine Intelligence, p. 18–29]
+	1. the closer to "1", the less weight is placed on the shorter-term
+		1. A standard way of formalising this is to scale the value of rewards so that they decay geometrically into the future at a rate given by a discount parameter γ ∈ (0, 1). For example, with γ = 0.95 a reward of 0.7 that is 10 [[time]] steps into the future would be given a value of 0.7 · (0.95)10 ≈ 0.42. At 100 [[time]] steps into the future a reward of 0.7 would have a value of just over 0.004
 
 ### environment
 1. for any k ∈ N the [[probability]] of o<sub>k</sub>r<sub>k</sub>, given the current interaction history o<sub>1</sub>r<sub>1</sub>a<sub>1</sub>o<sub>2</sub>r<sub>2</sub>a<sub>2</sub>...o<sub>k−1</sub>r<sub>k−1</sub>a<sub>k−1</sub>, is given by the [[probability]] measure:
