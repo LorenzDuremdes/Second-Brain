@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fundamentalism.md",
+                "file": "Ancient Corinth.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "fundamentalism.md",
+                "file": "Ancient Corinth.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.04683024442255313,
+                  "scale": 0.015991330090848545,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fundamentalism.md",
+                "file": "Ancient Corinth.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "religion",
+                "query": "inflammation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fundamentalism.md"
+                "file": "Ancient Corinth.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fundamentalism.md",
+                "file": "Ancient Corinth.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fundamentalism.md",
+                "file": "Ancient Corinth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,17 +193,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "917ad13a522064ff",
+  "active": "c16c701ef436c416",
   "lastOpenFiles": [
-    "fundamentalism.md",
     "Untitled.md",
+    "disgust.md",
+    "trichinosis.md",
+    "inflammation.md",
     "social psychology.md",
+    "fundamentalism.md",
     "sociology.md",
     "E pluribus unum.md",
     "principle of maximum entropy.md",
-    "intelligence.md",
-    "cultural resource management.md",
-    "immanence.md",
-    "Ἠθικὰ Νικομάχεια.md"
+    "intelligence.md"
   ]
 }

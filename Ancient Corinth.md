@@ -1,0 +1,4 @@
+1. Ancient Corinth^[By Original: Fremantleboy ; Adaptación al español: Dodecaedro. - File:Korinth Isthmus de.svg, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=42485489]
+	<img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Korinth_Isthmus_es%281%29.svg" width="500" />
+2. in classical times, Corinth rivaled Athens and Thebes in wealth, based on the Isthmian traffic and trade. Until the mid-6th century, Corinth was a major exporter of black-figure pottery to city-states around the Greek world, later losing their market to Athenian artisans^[https://en.wikipedia.org/wiki/Ancient_Corinth#Classical_Corinth]
+3. Ancient Corinth was one of the largest and most important cities of Greece, with a population of 90,000 in 400 BC.^[https://en.wikipedia.org/wiki/Ancient_Corinth#cite_note-1] The Romans demolished Corinth in 146 BC, built a new city in its place in 44 BC, and later made it the provincial capital of Greece.

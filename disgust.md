@@ -1,0 +1,1 @@
+1. disgust; it is believed that the [[emotion]] of disgust has evolved as a response to offensive foods that may cause harm to the organism.^[https://en.wikipedia.org/wiki/Disgust#cite_note-Wicker-4]
