@@ -1,0 +1,3 @@
+1. besloten vennootschap; een rechtspersoon waarvan het aandelenkapitaal verdeeld is in aandelen die niet vrij overdraagbaar zijn; de aandelen staan op naam^[https://nl.wikipedia.org/wiki/Besloten_vennootschap]
+	1. **naam**: de vennootschap is besloten omdat de aandelen niet vrij overdraagbaar zijn, dit in tegenstelling tot de naamloze vennootschap waarvan de aandelen in beginsel vrij overdraagbaar zijn, bijvoorbeeld op de effectenbeurs
+	2. **voordeel**: de beperkte aansprakelijkheid van de aandeelhouders voor schulden van de besloten vennootschap
