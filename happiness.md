@@ -12,6 +12,9 @@
 		1. in the flow experience, elephant and rider are in perfect harmony
 
 ## life conditions
+1. what does the book "The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 229" mean with "happiness comes from _between_"?
+	1. it comes from between internal and external factors (probably the dynamic interplay e.g. one's [[career]])
+
 ### [[noise (unwanted acoustic phenomenon)]]
 1. research shows that people who must adapt to new and chronic sources of noise (such as when a new highway is built) **never fully adapt**, and even studies that find some adaptation still find evidence of impairment on cognitive tasks^[The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 104]
 

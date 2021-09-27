@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ancient Corinth.md",
+                "file": "happiness.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ancient Corinth.md",
+                "file": "happiness.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.015991330090848545,
+                  "scale": 0.011177310335441079,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ancient Corinth.md",
+                "file": "happiness.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inflammation",
+                "query": "happiness",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ancient Corinth.md"
+                "file": "happiness.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ancient Corinth.md",
+                "file": "happiness.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ancient Corinth.md",
+                "file": "happiness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,17 +193,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "c16c701ef436c416",
+  "active": "917ad13a522064ff",
   "lastOpenFiles": [
+    "happiness.md",
+    "anadrome.md",
     "Untitled.md",
+    "Ancient Corinth.md",
     "disgust.md",
     "trichinosis.md",
     "inflammation.md",
     "social psychology.md",
     "fundamentalism.md",
-    "sociology.md",
-    "E pluribus unum.md",
-    "principle of maximum entropy.md",
-    "intelligence.md"
+    "sociology.md"
   ]
 }

@@ -2,4 +2,4 @@
 	1. people may alter the way they think about a problem by altering their goals and values, such as by seeing the humor in a situation: "some have suggested that humor may play a greater role as a [[stress]] moderator among women than men".^[https://en.wikipedia.org/wiki/Coping#cite_note-12]
 
 # see also
-1. The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 156
+1. The [[happiness]] Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 156
