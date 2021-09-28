@@ -1,0 +1,1 @@
+1. Sanskrit; the sacred language of [[Hinduism]], the language of classical Hindu philosophy, and of historical texts of [[Buddhism]] and Jainism.^[https://en.wikipedia.org/wiki/Sanskrit#cite_note-26]^[https://en.wikipedia.org/wiki/Sanskrit#cite_note-Pollock2006-27]

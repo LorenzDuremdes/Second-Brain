@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "50a8d41127940ab9",
+        "id": "b5cfc64d4c2f70af",
         "type": "split",
         "children": [
           {
-            "id": "c16c701ef436c416",
+            "id": "4e4e54869accf445",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brahmin (Hinduism).md",
+                "file": "knapsack problem.md",
                 "mode": "source"
               }
             },
-            "group": "3055fdeaa11edc3b"
+            "group": "70df3f248423c6ea"
           },
           {
-            "id": "917ad13a522064ff",
+            "id": "b84bda85ffffc712",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Brahmin (Hinduism).md",
+                "file": "knapsack problem.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,34 +48,34 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.03273249767353522,
+                  "scale": 0.01945270195733496,
                   "close": false
                 }
               }
             },
-            "group": "3055fdeaa11edc3b"
+            "group": "70df3f248423c6ea"
           }
         ],
         "direction": "horizontal"
       },
       {
-        "id": "bed1aaf8209fd228",
+        "id": "1cd5fdfbccc9a355",
         "type": "split",
         "children": [
           {
-            "id": "3c6c6d742014beb2",
+            "id": "ad212d55c0d8b9b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brahmin (Hinduism).md",
+                "file": "knapsack problem.md",
                 "mode": "preview"
               }
             },
-            "group": "3055fdeaa11edc3b"
+            "group": "70df3f248423c6ea"
           },
           {
-            "id": "173c3f0c2f2b6698",
+            "id": "c93037f503043cde",
             "type": "leaf",
             "state": {
               "type": "mindmap",
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "happiness",
+                "query": "pasted",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Brahmin (Hinduism).md"
+                "file": "knapsack problem.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brahmin (Hinduism).md",
+                "file": "knapsack problem.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Brahmin (Hinduism).md",
+                "file": "knapsack problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,17 +193,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "c16c701ef436c416",
+  "active": "4e4e54869accf445",
   "lastOpenFiles": [
-    "Brahmin (Hinduism).md",
     "Untitled.md",
+    "Brahmin (Hinduism).md",
+    "Sanskrit.md",
+    "Pasted image 20210928110842.png",
+    "Pasted image 20210928110841.png",
+    "social psychology.md",
     "SBI-code.md",
     "happiness.md",
     "anadrome.md",
-    "Ancient Corinth.md",
-    "disgust.md",
-    "trichinosis.md",
-    "inflammation.md",
-    "social psychology.md"
+    "Ancient Corinth.md"
   ]
 }

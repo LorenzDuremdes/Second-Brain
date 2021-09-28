@@ -1,0 +1,6 @@
+1. knapsack problem; a problem in combinatorial [[optimization]]: Given a set of items, each with a weight and a value, determine the number of each item to include in a collection so that the total weight is less than or equal to a given limit and the total value is as large as possible^[https://en.wikipedia.org/wiki/Knapsack_problem]
+	1. the problem often arises in resource allocation where the decision makers have to choose from a set of non-divisible projects or tasks under a fixed budget or time constraint, respectively
+2. Example of a one-dimensional (constraint) knapsack problem: which boxes should be chosen to maximize the amount of money while still keeping the overall weight under or equal to 15 kg? A multiple constrained problem could consider both the weight and volume of the boxes.
+
+	(Solution: if any number of each box is available, then three yellow boxes and three grey boxes; if only the shown boxes are available, then all but not the green box.)^[CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=985491]	
+	<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Knapsack.svg" width="300" />
