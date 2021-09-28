@@ -1,0 +1,2 @@
+1. Brahmin ([[Hinduism]]); specialised as intellectuals, priests (purohit, pandit, or pujari), teachers (acharya or guru), ayurvedic physicians and protectors of sacred learning across generations.^[https://en.wikipedia.org/wiki/Brahmin#cite_note-1]^[https://en.wikipedia.org/wiki/Brahmin#cite_note-lochtefeld125-2]^[https://en.wikipedia.org/wiki/Brahmin#cite_note-3]
+	1. a varna (class)

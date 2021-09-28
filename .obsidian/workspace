@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SBI-code.md",
+                "file": "Brahmin (Hinduism).md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SBI-code.md",
+                "file": "Brahmin (Hinduism).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.011177310335441079,
+                  "scale": 0.03273249767353522,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SBI-code.md",
+                "file": "Brahmin (Hinduism).md",
                 "mode": "preview"
               }
             },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SBI-code.md"
+                "file": "Brahmin (Hinduism).md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SBI-code.md",
+                "file": "Brahmin (Hinduism).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SBI-code.md",
+                "file": "Brahmin (Hinduism).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "c16c701ef436c416",
   "lastOpenFiles": [
+    "Brahmin (Hinduism).md",
     "Untitled.md",
+    "SBI-code.md",
     "happiness.md",
     "anadrome.md",
     "Ancient Corinth.md",
     "disgust.md",
     "trichinosis.md",
     "inflammation.md",
-    "social psychology.md",
-    "fundamentalism.md",
-    "sociology.md"
+    "social psychology.md"
   ]
 }
