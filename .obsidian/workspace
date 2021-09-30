@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knapsack problem.md",
+                "file": "autonomic nervous system.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "knapsack problem.md",
+                "file": "autonomic nervous system.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.01945270195733496,
+                  "scale": 0.016263210881038204,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knapsack problem.md",
+                "file": "autonomic nervous system.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pasted",
+                "query": "autonomic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knapsack problem.md"
+                "file": "autonomic nervous system.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knapsack problem.md",
+                "file": "autonomic nervous system.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knapsack problem.md",
+                "file": "autonomic nervous system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "4e4e54869accf445",
   "lastOpenFiles": [
+    "autonomic nervous system.md",
+    "residual force enhancement.md",
     "Untitled.md",
+    "encephalitis.md",
+    "polynomial.md",
+    "exponentiation.md",
+    "exponential.md",
+    "knapsack problem.md",
     "Brahmin (Hinduism).md",
-    "Sanskrit.md",
-    "Pasted image 20210928110842.png",
-    "Pasted image 20210928110841.png",
-    "social psychology.md",
-    "SBI-code.md",
-    "happiness.md",
-    "anadrome.md",
-    "Ancient Corinth.md"
+    "Sanskrit.md"
   ]
 }
