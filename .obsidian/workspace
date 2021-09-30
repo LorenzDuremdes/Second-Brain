@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "autonomic nervous system.md",
+                "file": "intractability.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "autonomic nervous system.md",
+                "file": "intractability.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "autonomic nervous system.md",
+                "file": "intractability.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "autonomic",
+                "query": "intract",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "autonomic nervous system.md"
+                "file": "intractability.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "autonomic nervous system.md",
+                "file": "intractability.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "autonomic nervous system.md",
+                "file": "intractability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,6 +195,7 @@
   },
   "active": "4e4e54869accf445",
   "lastOpenFiles": [
+    "intractability.md",
     "autonomic nervous system.md",
     "residual force enhancement.md",
     "Untitled.md",
@@ -203,7 +204,6 @@
     "exponentiation.md",
     "exponential.md",
     "knapsack problem.md",
-    "Brahmin (Hinduism).md",
-    "Sanskrit.md"
+    "Brahmin (Hinduism).md"
   ]
 }
