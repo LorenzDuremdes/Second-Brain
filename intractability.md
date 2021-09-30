@@ -8,6 +8,7 @@
 1. could "sampling" be efficient when the problem is intractable? + why + how^[Algorithms to Live By: The Computer Science of Human Decisions, p. 196]
 	1. yes, you can increase accuracy via a bigger sample size of higher quality (e.g. 'truly' random)
 		1. exhaustive analysis would take too long/start only being accurate after a long [[time]] has passed
+		2. **see also**: [[Monte Carlo method]]
 
 # related
 1. [[nonlinear partial differential equation]]
