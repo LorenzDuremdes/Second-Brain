@@ -1,0 +1,2 @@
+1. how can fish "effortlessly swim upstream"?^[https://qr.ae/pGJAbd]
+	1. they can "let go of the body" which will naturally be propelled by using part of the energy in the vortexes of turbulent [[water]] flows
