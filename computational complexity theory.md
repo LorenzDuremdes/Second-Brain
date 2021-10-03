@@ -1,0 +1,1 @@
+1. [[computational complexity]] theory; focuses on classifying computational problems according to their resource usage, and relating these classes to each other^[https://en.wikipedia.org/wiki/Computational_complexity_theory]

@@ -1,0 +1,1 @@
+1. operations research; a discipline that deals with the development and application of advanced analytical methods to improve decision-making.^[https://en.wikipedia.org/wiki/Operations_research#cite_note-1]

@@ -1,0 +1,2 @@
+1. rabbi; a spiritual leader or religious teacher in Judaism.^[https://en.wikipedia.org/wiki/Rabbi#cite_note-1]
+	1. one becomes a rabbi by being ordained by another rabbi, following a course of study of Jewish texts such as the Talmud

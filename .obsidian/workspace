@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dietary fiber.md",
+                "file": "John von Neumann Theory Prize.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dietary fiber.md",
+                "file": "John von Neumann Theory Prize.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dietary fiber.md",
+                "file": "John von Neumann Theory Prize.md",
                 "mode": "preview"
               }
             },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dietary fiber.md"
+                "file": "John von Neumann Theory Prize.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dietary fiber.md",
+                "file": "John von Neumann Theory Prize.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dietary fiber.md",
+                "file": "John von Neumann Theory Prize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,14 +196,14 @@
   "active": "4e4e54869accf445",
   "lastOpenFiles": [
     "Untitled.md",
+    "space complexity.md",
+    "operations research.md",
+    "computational problem.md",
+    "dietary fiber.md",
     "fish.md",
     "Monte Carlo method.md",
     "intractability.md",
     "autonomic nervous system.md",
-    "residual force enhancement.md",
-    "encephalitis.md",
-    "polynomial.md",
-    "exponentiation.md",
-    "exponential.md"
+    "residual force enhancement.md"
   ]
 }

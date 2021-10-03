@@ -1,1 +1,1 @@
-1. space complexity; of an [[algorithm]] or a computer program is the amount of memory space required to solve an instance of the computational problem as a function of characteristics of the input^[https://en.wikipedia.org/wiki/Space_complexity]
+1. space complexity; of an [[algorithm]] or a computer program is the amount of memory space required to solve an instance of the [[computational problem]] as a function of characteristics of the input^[https://en.wikipedia.org/wiki/Space_complexity]

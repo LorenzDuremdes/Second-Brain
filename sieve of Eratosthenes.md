@@ -1,0 +1,3 @@
+1. sieve of Eratosthenes; an ancient [[algorithm]] for finding all prime numbers up to any given limit^[https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes]
+2. sieve of Eratosthenes: algorithm steps for primes below 121 (including optimization of starting from prime's square)^[By SKopp at German Wikipedia - Own work, Original image at Image:Animation_Sieve_of_Eratosth.gif, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=2810935]
+	<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sieve_of_Eratosthenes_animation.gif" width="400" />
