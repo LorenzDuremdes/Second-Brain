@@ -1,0 +1,2 @@
+1. pentathlon; starting with the long jump, javelin throwing, and discus throwing, followed by the stadion (a short foot race) and wrestling^[https://en.wikipedia.org/wiki/Pentathlon]
+	1. pentathletes were considered to be among the most skilled athletes, and their training was often part of military service—each of the five events in the pentathlon was thought to be useful in war or battle
