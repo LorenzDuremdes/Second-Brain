@@ -1,0 +1,2 @@
+1. demarcation problem; the question of how to distinguish between science and non-science.^[https://en.wikipedia.org/wiki/Demarcation_problem#cite_note-1]
+2. the debate continues after over two millennia of dialogue among philosophers of science and scientists in various fields.^[https://en.wikipedia.org/wiki/Demarcation_problem#cite_note-4]^[https://en.wikipedia.org/wiki/Demarcation_problem#cite_note-5]

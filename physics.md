@@ -1,0 +1,1 @@
+1. do Gödel's incompleteness theorems imply that physical theories will always be incomplete? (from Stephen Hawking)^[https://en.wikipedia.org/wiki/Relationship_between_mathematics_and_physics#cite_note-26]^[https://en.wikipedia.org/wiki/Relationship_between_mathematics_and_physics#cite_note-27]

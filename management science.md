@@ -1,1 +1,2 @@
 1. management science; uses various scientific research-based principles, strategies, and analytical methods including mathematical modeling, statistics and numerical algorithms to improve an organization's ability to enact rational and accurate management decisions by arriving at [[optimization|optimal]] or near optimal solutions to complex decision problems^[https://en.wikipedia.org/wiki/Management_science]
+2. management science; the business use of operations research^[https://en.wikipedia.org/wiki/Operations_research#cite_note-33]

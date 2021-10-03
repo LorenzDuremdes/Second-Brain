@@ -1,0 +1,1 @@
+1. is mathematics invented or discovered? (millennia-old question, raised among others by Mario Livio)^[https://en.wikipedia.org/wiki/Relationship_between_mathematics_and_physics#cite_note-28]

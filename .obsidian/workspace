@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "John von Neumann Theory Prize.md",
+                "file": "physics.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "John von Neumann Theory Prize.md",
+                "file": "physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "John von Neumann Theory Prize.md",
+                "file": "physics.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intract",
+                "query": "physics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "John von Neumann Theory Prize.md"
+                "file": "physics.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "John von Neumann Theory Prize.md",
+                "file": "physics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "John von Neumann Theory Prize.md",
+                "file": "physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "4e4e54869accf445",
   "lastOpenFiles": [
+    "physics.md",
+    "mathematics.md",
+    "relationship between mathematics and physics.md",
     "Untitled.md",
+    "management science.md",
     "space complexity.md",
     "operations research.md",
     "computational problem.md",
     "dietary fiber.md",
-    "fish.md",
-    "Monte Carlo method.md",
-    "intractability.md",
-    "autonomic nervous system.md",
-    "residual force enhancement.md"
+    "fish.md"
   ]
 }
