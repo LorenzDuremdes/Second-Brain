@@ -1,0 +1,2 @@
+1. low-level [[programming language]]; "close to the hardware" [[programming language]]^[https://en.wikipedia.org/wiki/Low-level_programming_language]
+	1. e.g. C++^[https://en.wikipedia.org/wiki/C%2B%2B]
