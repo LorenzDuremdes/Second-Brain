@@ -1,0 +1,1 @@
+1. URL (acronym); Uniform Resource Locator^[https://en.wikipedia.org/wiki/URL]
