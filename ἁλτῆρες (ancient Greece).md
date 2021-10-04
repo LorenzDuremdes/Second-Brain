@@ -1,3 +1,3 @@
 1. ἁλτῆρες (ancient Greece); were a type of dumbbells used in Ancient Greece
-2. a halter belonged to Spartan athlete, Akmatidas, the winner of a pentathlon competition in the Ancient Olympic Games. Museum of the History of the Olympic Games of antiquity in Olympia, Greece^[By Egisto Sani - https://www.flickr.com/photos/69716881@N02/40699263893, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=95942093]
+2. a halter belonged to Spartan athlete, Akmatidas, the winner of a [[pentathlon]] competition in the Ancient Olympic Games. Museum of the History of the Olympic Games of antiquity in Olympia, Greece^[By Egisto Sani - https://www.flickr.com/photos/69716881@N02/40699263893, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=95942093]
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/The_Akmatidas_Haltere.jpg/640px-The_Akmatidas_Haltere.jpg" width="300" />

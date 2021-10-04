@@ -1,0 +1,1 @@
+1. 90% of [[men]] and 81%[[women| of w]]omen, all college students, report having a sense of humour is a crucial characteristic looked for in a romantic partner.^[https://en.wikipedia.org/wiki/Humour#cite_note-22]

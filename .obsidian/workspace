@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "λήκυθος.md",
+                "file": "polynomial identity testing.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "λήκυθος.md",
+                "file": "polynomial identity testing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.016263210881038204,
+                  "scale": 0.009503539304003541,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "λήκυθος.md",
+                "file": "polynomial identity testing.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "physics",
+                "query": "evolution",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "λήκυθος.md"
+                "file": "polynomial identity testing.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "λήκυθος.md",
+                "file": "polynomial identity testing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "λήκυθος.md",
+                "file": "polynomial identity testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "4e4e54869accf445",
   "lastOpenFiles": [
+    "polynomial identity testing.md",
+    "polynomial.md",
+    "exponential.md",
+    "exponentiation.md",
     "Untitled.md",
-    "physics.md",
-    "mathematics.md",
-    "relationship between mathematics and physics.md",
-    "management science.md",
-    "space complexity.md",
-    "operations research.md",
-    "computational problem.md",
-    "dietary fiber.md",
-    "fish.md"
+    "primality test.md",
+    "tend and befriend.md",
+    "evolutionary psychology.md",
+    "sexual selection in humans.md",
+    "male and female.md"
   ]
 }
