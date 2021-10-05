@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uniform Resource Locator.md",
+                "file": "hill climbing (algorithm).md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Uniform Resource Locator.md",
+                "file": "hill climbing (algorithm).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.009503539304003541,
+                  "scale": 0.016263210881038204,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uniform Resource Locator.md",
+                "file": "hill climbing (algorithm).md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "evolution",
+                "query": "intract",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uniform Resource Locator.md"
+                "file": "hill climbing (algorithm).md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uniform Resource Locator.md",
+                "file": "hill climbing (algorithm).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uniform Resource Locator.md",
+                "file": "hill climbing (algorithm).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "4e4e54869accf445",
   "lastOpenFiles": [
-    "Uniform Resource Locator.md",
+    "hill climbing (algorithm).md",
+    "greedy algorithm.md",
     "Untitled.md",
-    "low-level programming language.md",
-    "programming language.md",
-    "polynomial identity testing.md",
-    "polynomial.md",
-    "exponential.md",
-    "exponentiation.md",
-    "primality test.md",
-    "tend and befriend.md"
+    "ἆθλον.md",
+    "Monte Carlo method.md",
+    "intractability.md",
+    "autonomic nervous system.md",
+    "residual force enhancement.md",
+    "encephalitis.md",
+    "polynomial.md"
   ]
 }

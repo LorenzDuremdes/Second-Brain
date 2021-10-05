@@ -1,0 +1,3 @@
+1. greedy algorithm; any algorithm that follows the problem-solving heuristic of making the locally optimal choice at each stage.^[https://en.wikipedia.org/wiki/Greedy_algorithm#cite_note-NISTg-1]
+2. to reach the largest sum, at each step, the greedy algorithm will choose what appears to be the optimal immediate choice, so it will choose 12 instead of 3 at the second step, and will not reach the best solution, which contains 99^[By Swfung8 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=14953844]
+	<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Greedy-search-path-example.gif" width="200" />
