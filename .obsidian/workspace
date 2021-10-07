@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bystander effect.md",
+                "file": "iloronas.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "bystander effect.md",
+                "file": "iloronas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.016263210881038204,
+                  "scale": 0.01626321088103811,
                   "close": false
                 }
               }
@@ -68,8 +68,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bystander effect.md",
-                "mode": "source"
+                "file": "iloronas.md",
+                "mode": "preview"
               }
             },
             "group": "70df3f248423c6ea"
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bystander effect.md"
+                "file": "iloronas.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bystander effect.md",
+                "file": "iloronas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bystander effect.md",
+                "file": "iloronas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,17 +193,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "4e4e54869accf445",
+  "active": "b84bda85ffffc712",
   "lastOpenFiles": [
-    "bystander effect.md",
-    "pluralistic ignorance.md",
+    "iloronas.md",
+    "claque.md",
     "Untitled.md",
+    "pluralistic ignorance.md",
+    "bystander effect.md",
     "hill climbing (algorithm).md",
     "greedy algorithm.md",
     "ἆθλον.md",
     "Monte Carlo method.md",
-    "intractability.md",
-    "autonomic nervous system.md",
-    "residual force enhancement.md"
+    "intractability.md"
   ]
 }
