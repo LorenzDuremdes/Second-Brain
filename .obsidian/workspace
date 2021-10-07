@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hill climbing (algorithm).md",
+                "file": "bystander effect.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hill climbing (algorithm).md",
+                "file": "bystander effect.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,8 +68,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hill climbing (algorithm).md",
-                "mode": "preview"
+                "file": "bystander effect.md",
+                "mode": "source"
               }
             },
             "group": "70df3f248423c6ea"
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hill climbing (algorithm).md"
+                "file": "bystander effect.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hill climbing (algorithm).md",
+                "file": "bystander effect.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hill climbing (algorithm).md",
+                "file": "bystander effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "4e4e54869accf445",
   "lastOpenFiles": [
+    "bystander effect.md",
+    "pluralistic ignorance.md",
+    "Untitled.md",
     "hill climbing (algorithm).md",
     "greedy algorithm.md",
-    "Untitled.md",
     "ἆθλον.md",
     "Monte Carlo method.md",
     "intractability.md",
     "autonomic nervous system.md",
-    "residual force enhancement.md",
-    "encephalitis.md",
-    "polynomial.md"
+    "residual force enhancement.md"
   ]
 }
