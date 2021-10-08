@@ -1,0 +1,2 @@
+1. jitter; the deviation from true periodicity of a presumably periodic signal, often in relation to a reference clock signal^[https://en.wikipedia.org/wiki/Jitter]
+	1. jitter may be caused by electromagnetic interference and crosstalk with carriers of other signals

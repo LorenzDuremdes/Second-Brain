@@ -1,0 +1,2 @@
+1. metaheuristic; a higher-level procedure or heuristic designed to find, generate, or select a heuristic (partial search [[algorithm]]) that may provide a sufficiently good solution to an optimization problem, especially with incomplete or imperfect information or limited computation capacity.^[https://en.wikipedia.org/wiki/Metaheuristic#cite_note-Bala2015-1]^[https://en.wikipedia.org/wiki/Metaheuristic#cite_note-Bianchi2009-2]
+	1. e.g. "[[random-restart hill climbing]]" is superimposed on "hill climbing"^[https://en.wikipedia.org/wiki/Hill_climbing#Variants]

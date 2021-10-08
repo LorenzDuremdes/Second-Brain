@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "normalizing constant.md",
+                "file": "Markov chain.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "normalizing constant.md",
+                "file": "Markov chain.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "normalizing constant.md",
+                "file": "Markov chain.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intract",
+                "query": "markov",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "normalizing constant.md"
+                "file": "Markov chain.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "normalizing constant.md",
+                "file": "Markov chain.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "normalizing constant.md",
+                "file": "Markov chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,10 +193,10 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "b84bda85ffffc712",
+  "active": "4e4e54869accf445",
   "lastOpenFiles": [
-    "normalizing constant.md",
     "Untitled.md",
+    "normalizing constant.md",
     "iloronas.md",
     "claque.md",
     "pluralistic ignorance.md",
