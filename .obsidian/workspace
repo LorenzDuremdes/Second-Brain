@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "iloronas.md",
+                "file": "normalizing constant.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "iloronas.md",
+                "file": "normalizing constant.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.01626321088103811,
+                  "scale": 0.011367344306907057,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "iloronas.md",
+                "file": "normalizing constant.md",
                 "mode": "preview"
               }
             },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "iloronas.md"
+                "file": "normalizing constant.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "iloronas.md",
+                "file": "normalizing constant.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "iloronas.md",
+                "file": "normalizing constant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "b84bda85ffffc712",
   "lastOpenFiles": [
+    "normalizing constant.md",
+    "Untitled.md",
     "iloronas.md",
     "claque.md",
-    "Untitled.md",
     "pluralistic ignorance.md",
     "bystander effect.md",
     "hill climbing (algorithm).md",
     "greedy algorithm.md",
     "ἆθλον.md",
-    "Monte Carlo method.md",
-    "intractability.md"
+    "Monte Carlo method.md"
   ]
 }
