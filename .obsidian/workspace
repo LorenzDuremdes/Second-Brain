@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markov chain.md",
+                "file": "United Nations.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Markov chain.md",
+                "file": "United Nations.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markov chain.md",
+                "file": "United Nations.md",
                 "mode": "preview"
               }
             },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markov chain.md"
+                "file": "United Nations.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markov chain.md",
+                "file": "United Nations.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markov chain.md",
+                "file": "United Nations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,6 +196,7 @@
   "active": "4e4e54869accf445",
   "lastOpenFiles": [
     "Untitled.md",
+    "random-restart hill climbing.md",
     "normalizing constant.md",
     "iloronas.md",
     "claque.md",
@@ -203,7 +204,6 @@
     "bystander effect.md",
     "hill climbing (algorithm).md",
     "greedy algorithm.md",
-    "ἆθλον.md",
-    "Monte Carlo method.md"
+    "ἆθλον.md"
   ]
 }
