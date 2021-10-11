@@ -20,14 +20,14 @@
 
 		In this case the speaker used negative teasing, derisive humor, sarcasm, or mocked the partner. The speaker may have mimicked the partner’s way of talking and found it funny, even though partner was not amused. The speaker may have been verbally negative, insulting, may have used “you always” or “you never” when describing the partner’s negative traits (which is criticism), or described a negative trait as a reason why their relationship has problem.^[The science of trust: emotional attunement for couples, p. 400]
 2. listener with a high potential for untrustworthiness
-	1. in this case the listener did not maintain eye contact, did not use positive humor, didn’t laugh, did not give the usual listener backchannels (uh-huh, hmm, ah, head nods), had low energy, was inattentive, and was not affectionate^[The science of trust: emotional attunement for couples, p. 399]
+	1. in this case the listener did not maintain [[eye contact]], did not use positive humor, didn’t laugh, did not give the usual listener backchannels (uh-huh, hmm, ah, head nods), had low energy, was inattentive, and was not affectionate^[The science of trust: emotional attunement for couples, p. 399]
 ## signs of trustworthiness
 1. speaker with a low potential for untrustworthiness
 	1. when being nice the speaker appeared genuine, easily giving very specific about examples of positive traits but having lots of trouble coming up with examples of negative traits
 
 		In this case the speaker was verbally positive, was affectionate, and softened negativity by minimizing complaints...The speaker was generally affectionate and validating.^[The science of trust: emotional attunement for couples, p. 400]
 2. listener with a low potential for untrustworthiness
-	1. in this case the listener maintained eye contact, used positive humor, laughed, gave the usual listener backchannels, had high energy, was attentive, was animated, and was affectionate^[The science of trust: emotional attunement for couples, p. 400]
+	1. in this case the listener maintained [[eye contact]], used positive humor, laughed, gave the usual listener backchannels, had high energy, was attentive, was animated, and was affectionate^[The science of trust: emotional attunement for couples, p. 400]
 # distrust
 1. what is the "atom of betrayal" according to the book "The science of trust: emotional attunement for couples (p. 389)"?
 	1. turning away + unfavorable CL-ALT
