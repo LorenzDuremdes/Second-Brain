@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "selective breeding.md",
+                "file": "mysticism.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "selective breeding.md",
+                "file": "mysticism.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "selective breeding.md",
+                "file": "mysticism.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "evolution",
+                "query": "bid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "selective breeding.md"
+                "file": "mysticism.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "selective breeding.md",
+                "file": "mysticism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "selective breeding.md",
+                "file": "mysticism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "4e4e54869accf445",
   "lastOpenFiles": [
+    "mysticism.md",
+    "Sufism.md",
     "Untitled.md",
+    "fuzzy bid for attention.md",
     "evolution.md",
     "macrosociology.md",
     "structure of observed learning outcome.md",
     "DIKW pyramid.md",
     "intelligence cycle.md",
-    "United Nations.md",
-    "random-restart hill climbing.md",
-    "normalizing constant.md",
-    "iloronas.md"
+    "United Nations.md"
   ]
 }

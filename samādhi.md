@@ -1,0 +1,1 @@
+1. samādhi; in Hinduism, Jainism, Buddhism, Sikhism and yogic schools, a state of meditative consciousness^[https://en.wikipedia.org/wiki/Samadhi]

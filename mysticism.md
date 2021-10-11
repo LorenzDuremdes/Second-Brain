@@ -1,0 +1,4 @@
+1. mysticism; popularly known as becoming one with God or the Absolute,^[https://en.wikipedia.org/wiki/Mysticism#cite_note-FOOTNOTEMcGinn2005-1]^[https://en.wikipedia.org/wiki/Mysticism#cite_note-FOOTNOTEMoore2005-2] but may refer to any kind of ecstasy or altered state of consciousness which is given a religious or spiritual meaning.^[https://en.wikipedia.org/wiki/Mysticism#cite_note-EB-Mysticism-3] It may also refer to the attainment of insight in ultimate or hidden truths, and to human transformation supported by various practices and experiences.^[https://en.wikipedia.org/wiki/Mysticism#cite_note-SEP_Gelman_Mysticism-4]
+
+# neurophysiology
+1. ◇deactivation of right temporoparietal junction^[The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 242]

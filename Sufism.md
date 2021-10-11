@@ -1,0 +1,1 @@
+1. Sufism; [[mysticism]]^[https://en.wikipedia.org/wiki/Sufism#cite_note-2] in Islam, "characterized ... [by particular] values, ritual practices,^[https://en.wikipedia.org/wiki/Sufism#cite_note-3] doctrines and institutions".^[https://en.wikipedia.org/wiki/Sufism#cite_note-EQ-4]
