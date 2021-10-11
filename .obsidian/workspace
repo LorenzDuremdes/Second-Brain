@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "United Nations.md",
+                "file": "DIKW pyramid.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "United Nations.md",
+                "file": "DIKW pyramid.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "United Nations.md",
+                "file": "DIKW pyramid.md",
                 "mode": "preview"
               }
             },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "United Nations.md"
+                "file": "DIKW pyramid.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "United Nations.md",
+                "file": "DIKW pyramid.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "United Nations.md",
+                "file": "DIKW pyramid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "4e4e54869accf445",
   "lastOpenFiles": [
+    "DIKW pyramid.md",
+    "intelligence cycle.md",
     "Untitled.md",
+    "United Nations.md",
     "random-restart hill climbing.md",
     "normalizing constant.md",
     "iloronas.md",
     "claque.md",
     "pluralistic ignorance.md",
-    "bystander effect.md",
-    "hill climbing (algorithm).md",
-    "greedy algorithm.md",
-    "ἆθλον.md"
+    "bystander effect.md"
   ]
 }

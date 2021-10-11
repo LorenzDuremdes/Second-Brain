@@ -1,0 +1,2 @@
+1. _[[Intelligence]]_ reflects a progressive refinement of data and information^[By U.S. Joint Chiefs of Staff JP2-0 - http://www.dtic.mil/doctrine/new_pubs/jp2_0.pdf, Public Domain, https://commons.wikimedia.org/w/index.php?curid=47853614]
+	<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Relationship_of_data%2C_information_and_intelligence.png" width="500" />
