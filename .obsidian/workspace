@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mysticism.md",
+                "file": "flirting.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "mysticism.md",
+                "file": "flirting.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mysticism.md",
+                "file": "flirting.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bid",
+                "query": "flirting",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -127,7 +127,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mysticism.md"
+                "file": "flirting.md"
               }
             }
           },
@@ -157,14 +158,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mysticism.md",
+                "file": "flirting.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a834b3f3361a68cb",
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mysticism.md",
+                "file": "flirting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "4e4e54869accf445",
   "lastOpenFiles": [
+    "flirting.md",
+    "Untitled.md",
     "mysticism.md",
     "Sufism.md",
-    "Untitled.md",
     "fuzzy bid for attention.md",
     "evolution.md",
     "macrosociology.md",
     "structure of observed learning outcome.md",
     "DIKW pyramid.md",
-    "intelligence cycle.md",
-    "United Nations.md"
+    "intelligence cycle.md"
   ]
 }

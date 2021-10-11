@@ -1,4 +1,12 @@
 # strategies
+## effective flirt
+1. effective flirt (components)^[https://www.theschooloflife.com/thebookoflife/why-flirting-matters/]:
+	1. that they would love to sleep with us   
+	2. that they won’t sleep with us  
+	3. that the reason why has nothing to do with any deficiency on our part
+2. flirting ↮ compliment
+	1. the other might believe in a flirt more than a direct compliment^[https://www.theschooloflife.com/thebookoflife/why-flirting-matters/]
+
 ## [[liking (persuasion)]]
 1. hoe kan rondlopen met een racefiets voordelig werken (meisjes benaderen)?
 	1. status
