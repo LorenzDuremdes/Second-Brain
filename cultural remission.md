@@ -1,0 +1,2 @@
+1. cultural remission; a temporary, structured relaxation of normal social controls and restriction^[http://www.sirc.org/publik/flirt.html]
+	1. e.g. making "[[flirting]]" more socially acceptable at parties

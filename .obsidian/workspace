@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flirting.md",
+                "file": "Visual Dominance Ratio.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "flirting.md",
+                "file": "Visual Dominance Ratio.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.013596673034996306,
+                  "scale": 0.01136734430690696,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flirting.md",
+                "file": "Visual Dominance Ratio.md",
                 "mode": "preview"
               }
             },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flirting.md"
+                "file": "Visual Dominance Ratio.md"
               }
             }
           },
@@ -157,13 +157,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flirting.md",
+                "file": "Visual Dominance Ratio.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a834b3f3361a68cb",
@@ -175,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flirting.md",
+                "file": "Visual Dominance Ratio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,15 +195,15 @@
   },
   "active": "4e4e54869accf445",
   "lastOpenFiles": [
+    "Visual Dominance Ratio.md",
+    "eye contact.md",
     "flirting.md",
     "Untitled.md",
-    "eye contact.md",
     "mysticism.md",
     "Sufism.md",
     "fuzzy bid for attention.md",
     "evolution.md",
     "macrosociology.md",
-    "structure of observed learning outcome.md",
-    "DIKW pyramid.md"
+    "structure of observed learning outcome.md"
   ]
 }
