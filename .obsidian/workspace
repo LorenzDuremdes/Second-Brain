@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eye contact.md",
+                "file": "flirting.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "eye contact.md",
+                "file": "flirting.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.016263210881038,
+                  "scale": 0.013596673034996306,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eye contact.md",
+                "file": "flirting.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "self-expansion model",
+                "query": "flirt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eye contact.md"
+                "file": "flirting.md"
               }
             }
           },
@@ -157,14 +157,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eye contact.md",
+                "file": "flirting.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a834b3f3361a68cb",
@@ -176,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eye contact.md",
+                "file": "flirting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +194,15 @@
   },
   "active": "4e4e54869accf445",
   "lastOpenFiles": [
-    "Untitled.md",
     "flirting.md",
+    "Untitled.md",
+    "eye contact.md",
     "mysticism.md",
     "Sufism.md",
     "fuzzy bid for attention.md",
     "evolution.md",
     "macrosociology.md",
     "structure of observed learning outcome.md",
-    "DIKW pyramid.md",
-    "intelligence cycle.md"
+    "DIKW pyramid.md"
   ]
 }

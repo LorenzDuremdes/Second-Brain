@@ -7,6 +7,10 @@
 2. flirting ↮ compliment
 	1. the other might believe in a flirt more than a direct compliment^[https://www.theschooloflife.com/thebookoflife/why-flirting-matters/]
 
+### [[women]]
+1. how could saying "Wow! You are beautiful!" as a compliment be ineffective to an attractive girl?^[https://www.youtube.com/watch?v=F4Zu5ZZAG7I]
+	1. she's probably heard it a hundred thousand times today
+
 ## [[liking (persuasion)]]
 1. hoe kan rondlopen met een racefiets voordelig werken (meisjes benaderen)?
 	1. status
@@ -25,9 +29,9 @@
 	If you are used to being flirty right off the bat, you can do that but try to make her feel comfortable first instead of seeming aggressive/threatening.
 1. wat kun je doen om te **checken** of een meisje verder met je wilt praten?
 2. https://old.reddit.com/r/seduction/comments/hfue6s/cold_approach_from_a_girls_perspective/fw2ul41/
-	...when you greet me with a neutral opening, you give me an opportunity to show you my [[personality]] and therefore you get to know this tiniest detail about me, so if you then proceed to lead the conversation towards getting my number, I at least know that there's a possibility that you're doing this because you find me an interesting human being and not just a physically attractive sex partner (or something along the lines). And **you're showing some of your [[personality]]** as well and while I might not have been into you at first glance, people can often change their mind based on a person's energy
+	...when you greet me with a neutral opening, you give me an opportunity to show you my [[personality]] and therefore you get to know this tiniest detail about me, so if you then proceed to lead the conversation towards getting my number, I at least know that there's a possibility that you're doing this because you find me an interesting [[human]] being and not just a physically attractive [[sex]] partner (or something along the lines). And **you're showing some of your [[personality]]** as well and while I might not have been into you at first glance, people can often change their mind based on a person's energy
 1. I’ve even dated guys who approached me this way in the past, because **it feels like they want to get know me**^[https://old.reddit.com/r/seduction/comments/hfue6s/cold_approach_from_a_girls_perspective/fw0as7c/]
-2. he just enjoyed talking to me as a **human being** and not his possible sex partner^[https://www.reddit.com/r/AskReddit/comments/n403ro/ladies_what_are_some_things_which_men_dont_know/gwuihxl?utm_source=share&utm_medium=web2x&context=3]
+2. he just enjoyed talking to me as a **[[human]] being** and not his possible [[sex]] partner^[https://www.reddit.com/r/AskReddit/comments/n403ro/ladies_what_are_some_things_which_men_dont_know/gwuihxl?utm_source=share&utm_medium=web2x&context=3]
 3. do girls like being approached?^[https://www.reddit.com/r/dating/comments/mof1oq/how_does_one_approach_women_when_it_seems_like/gu4dfi4?utm_source=share&utm_medium=web2x&context=3]
 	1. yes, unless the guy doesn't go away while showing disinterest
 	2. Personally, **I really don't mind being approached anywhere**, it's more about how you go about it. Provided you're nice and back off if I'm not interested, I'll take it as a compliment no matter where it is.^[https://www.reddit.com/r/AskWomen/comments/sn08h/ladies_when_and_where_is_it_ok_to_approach_you/c4fbm4j?utm_source=share&utm_medium=web2x&context=3]
@@ -43,10 +47,20 @@
 1. wat kun je zeggen voordat je haar jouw nummer geeft?^[https://www.reddit.com/r/seduction/comments/3eug9v/i_approach_3_to_5_girls_every_day_here_is_my/]
 	1. lijkt het je leuk een keer af te spreken?
 
+# men ↮ women
+1. One study found that men are more likely to use dominance signals through body orientation, such as taking up space or leaning in. Meanwhile, **women** tend to engage in body presentation, by **accentuating physical features** through posture, twirling their hair, or caressing their lips or neck.^[https://link.springer.com/article/10.1007%2FBF00989317#page-1]^[https://bigthink.com/neuropsych/how-to-flirt/]
+
 # statistics
 ## sociology
 1. do many people feel anxious to flirt?^[https://bigthink.com/neuropsych/how-to-flirt/]
 	1. probably yes
+2. people recognize non-flirting more accurately than flirting^[https://www.psychologytoday.com/us/blog/meet-catch-and-keep/201408/how-spot-flirt]
+	1. women were ~83% accurate in seeing non-flirting as non-flirting and men ~84%
+	2. women are ~18% accurate in recognizing men's flirting as flirting
+		1. men did better, but with only a 36% accuracy rate
+
+### effective
+1. Both men and women are equally good at recognizing certain verbal communications as flirting (Henningsen et al., 2009). Specifically, they interpret sexual interest from compliments; overt references to being single/available to date someone else; and using mild sexual innuendos as signs of interest.^[https://www.psychologytoday.com/us/blog/meet-catch-and-keep/201408/how-spot-flirt]
 
 # analogs
 1. how is approaching girls comparable to gaming?
