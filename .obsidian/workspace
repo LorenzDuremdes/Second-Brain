@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Visual Dominance Ratio.md",
+                "file": "proxemics.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Visual Dominance Ratio.md",
+                "file": "proxemics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Visual Dominance Ratio.md",
+                "file": "proxemics.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flirt",
+                "query": "proxemics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Visual Dominance Ratio.md"
+                "file": "proxemics.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Visual Dominance Ratio.md",
+                "file": "proxemics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Visual Dominance Ratio.md",
+                "file": "proxemics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "4e4e54869accf445",
   "lastOpenFiles": [
-    "Visual Dominance Ratio.md",
+    "proxemics.md",
     "eye contact.md",
+    "Visual Dominance Ratio.md",
     "flirting.md",
     "Untitled.md",
     "mysticism.md",
     "Sufism.md",
     "fuzzy bid for attention.md",
     "evolution.md",
-    "macrosociology.md",
-    "structure of observed learning outcome.md"
+    "macrosociology.md"
   ]
 }
