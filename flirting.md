@@ -7,17 +7,28 @@
 2. flirting ↮ compliment
 	1. the other might believe in a flirt more than a direct compliment^[https://www.theschooloflife.com/thebookoflife/why-flirting-matters/]
 
+### physical (55%)
+1. best place to **begin** touching someone + how (flirting)^[http://www.sirc.org/publik/flirt.html]
+	1. the arms, which should be done brief and light in the beginning
+2. what should you do before moving on to the next 'level' of touching (e.g. from arms to hands)?^[http://www.sirc.org/publik/flirt.html]
+	1. touch the arms **again, but a little longer or more intense**
+	2. You will have noticed that we advise performing each touch two times before progressing to the next level. This is because repeating the same touch, perhaps with a slightly longer duration, allows you to check that reactions are still positive, that you were not mistaken in your judgement that the touch was acceptable. The repetition also tells your companion that the first touch was not accidental or unconscious, that you are consciously negotiating for an increase in intimacy. Repeating the same touch before moving to the next level is a non-verbal way of saying "Are you sure?".
+
 ### [[women]]
 1. how could saying "Wow! You are beautiful!" as a compliment be ineffective to an attractive girl?^[https://www.youtube.com/watch?v=F4Zu5ZZAG7I]
 	1. she's probably heard it a hundred thousand times today
 
-## [[liking (persuasion)]]
+### [[liking (persuasion)]]
 1. hoe kan rondlopen met een racefiets voordelig werken (meisjes benaderen)?
 	1. status
 	2. je ziet er uit alsof je niet meisjes benaderd alleen om een afspraak te regelen
 	3. ook als symbool voor het gevoel van veiligheid ([[association (psychology)]])
 
-# where
+### vocal (38%)
+1. what does "falling intonation + drop in volume" suggest (microsociology)^[http://www.sirc.org/publik/flirt.html]
+	1. that they might have finished speaking
+
+# location
 ## effective
 1. pubs ([[proxemics]])^[http://www.sirc.org/publik/flirt.html]
 	1. tables furthest from the bar counter are the most 'private' zones e.g. making flirting less socially acceptable
