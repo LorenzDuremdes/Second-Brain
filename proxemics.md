@@ -4,6 +4,6 @@
 	
 # influences
 1. face-to-face ↮ alongside → proxemics^[http://www.sirc.org/publik/flirt.html]
-	1. the proxemics zones might be smaller when alongside another, because when you are alongside someone, it is easier to use other aspects of body language, such as turning away or avoiding [[eye contact]], to 'limit' your level of involvement with the other person
+	1. the proxemics zones might be smaller when alongside another, because when you are alongside someone, it is easier to use other aspects of [[body language]], such as turning away or avoiding [[eye contact]], to 'limit' your level of involvement with the other person
 2. introversion ↮ extraversion → proxemics^[http://www.sirc.org/publik/flirt.html]
 	1. extraverts generally feel more at ease with closer physical distances

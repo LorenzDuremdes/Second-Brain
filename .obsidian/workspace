@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "proxemics.md",
+                "file": "eyebrow flash.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "proxemics.md",
+                "file": "eyebrow flash.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "proxemics.md",
+                "file": "eyebrow flash.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "proxemics",
+                "query": "eyebrow",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "proxemics.md"
+                "file": "eyebrow flash.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "proxemics.md",
+                "file": "eyebrow flash.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "proxemics.md",
+                "file": "eyebrow flash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "4e4e54869accf445",
   "lastOpenFiles": [
+    "eyebrow flash.md",
+    "Untitled.md",
+    "body language.md",
+    "non-verbal leakage.md",
     "proxemics.md",
     "eye contact.md",
     "Visual Dominance Ratio.md",
     "flirting.md",
-    "Untitled.md",
     "mysticism.md",
-    "Sufism.md",
-    "fuzzy bid for attention.md",
-    "evolution.md",
-    "macrosociology.md"
+    "Sufism.md"
   ]
 }

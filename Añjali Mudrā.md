@@ -1,0 +1,3 @@
+1. statue with hands in most common Anjali Mudra position^[https://upload.wikimedia.org/wikipedia/commons/0/01/A%C3%B1jali_Mudr%C4%81_%28Pra%E1%B9%87%C4%81m%C4%81sana%29.jpg]
+	<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/A%C3%B1jali_Mudr%C4%81_%28Pra%E1%B9%87%C4%81m%C4%81sana%29.jpg" width="200" />
+2. forms part of the greeting Namaste^[https://en.wikipedia.org/wiki/A%C3%B1jali_Mudr%C4%81]

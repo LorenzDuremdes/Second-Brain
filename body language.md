@@ -1,0 +1,2 @@
+1. interest → amount of gesticulation^[http://www.sirc.org/publik/flirt.html]
+	1. generally, however, someone who is interested in you will be more lively and animated in conversation, using more gestures when speaking in order to keep your attention, and more responsive gestures to show interest when you are speaking
