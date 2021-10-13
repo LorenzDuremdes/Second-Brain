@@ -1,0 +1,1 @@
+1. "the Sword of Damocles"^[https://en.wikipedia.org/wiki/Damocles#cite_note-FOOTNOTECicero-2]^[https://en.wikipedia.org/wiki/Damocles#cite_note-FOOTNOTEWestall-3]; an allusion to the imminent and ever-present peril faced by those in positions of power

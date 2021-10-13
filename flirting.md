@@ -25,8 +25,11 @@
 	3. ook als symbool voor het gevoel van veiligheid ([[association (psychology)]])
 
 ### vocal (38%)
-1. what does "falling intonation + drop in volume" suggest (microsociology)^[http://www.sirc.org/publik/flirt.html]
+1. what does "falling intonation + drop in volume" suggest ([[microsociology]])^[http://www.sirc.org/publik/flirt.html]
 	1. that they might have finished speaking
+
+### verbal (7%)
+1. your opening line is not very important^[http://www.sirc.org/publik/flirt.html]
 
 # location
 ## effective
