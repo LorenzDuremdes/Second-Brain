@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "\"the Sword of Damocles\".md",
+                "file": "reciprocal disclosure.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "\"the Sword of Damocles\".md",
+                "file": "reciprocal disclosure.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "\"the Sword of Damocles\".md",
+                "file": "reciprocal disclosure.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eyebrow",
+                "query": "mirror",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "\"the Sword of Damocles\".md"
+                "file": "reciprocal disclosure.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "\"the Sword of Damocles\".md",
+                "file": "reciprocal disclosure.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "\"the Sword of Damocles\".md",
+                "file": "reciprocal disclosure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "4e4e54869accf445",
   "lastOpenFiles": [
-    "\"the Sword of Damocles\".md",
     "Untitled.md",
+    "women.md",
+    "\"the Sword of Damocles\".md",
     "flirting.md",
     "eyebrow flash.md",
     "body language.md",
     "non-verbal leakage.md",
     "proxemics.md",
     "eye contact.md",
-    "Visual Dominance Ratio.md",
-    "mysticism.md"
+    "Visual Dominance Ratio.md"
   ]
 }
