@@ -24,6 +24,10 @@
 	2. je ziet er uit alsof je niet meisjes benaderd alleen om een afspraak te regelen
 	3. ook als symbool voor het gevoel van veiligheid ([[association (psychology)]])
 
+### teasing
+1. what makes "playful teasing" effective?^[http://www.sirc.org/publik/flirt.html]
+	1. allows partners to increase the 'personal' content of the exchange, while keeping the tone light-hearted and non-serious, thus escalating the level of disclosure and intimacy in a non-threatening manner
+
 ### vocal (38%)
 1. what does "falling intonation + drop in volume" suggest ([[microsociology]])^[http://www.sirc.org/publik/flirt.html]
 	1. that they might have finished speaking
