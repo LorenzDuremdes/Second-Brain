@@ -1,0 +1,1 @@
+1. gluons bind quarks together, forming [[hadron]] such as protons and neutrons^[https://en.wikipedia.org/wiki/Gluon]
