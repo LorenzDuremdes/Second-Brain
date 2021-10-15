@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bid (sociology).md",
+                "file": "the Sword of Damocles.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "bid (sociology).md",
+                "file": "the Sword of Damocles.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bid (sociology).md",
+                "file": "the Sword of Damocles.md",
                 "mode": "preview"
               }
             },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bid (sociology).md"
+                "file": "the Sword of Damocles.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bid (sociology).md",
+                "file": "the Sword of Damocles.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bid (sociology).md",
+                "file": "the Sword of Damocles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,11 +194,11 @@
   },
   "active": "4e4e54869accf445",
   "lastOpenFiles": [
+    "\"the Sword of Damocles\".md",
     "bid (sociology).md",
     "flirting.md",
     "Untitled.md",
     "women.md",
-    "\"the Sword of Damocles\".md",
     "eyebrow flash.md",
     "body language.md",
     "non-verbal leakage.md",
