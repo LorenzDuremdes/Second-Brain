@@ -1,0 +1,3 @@
+1. Takotsubo cardiomyopathy (official name); sometimes called broken [[heart]] syndrome.^[https://en.wikipedia.org/wiki/Takotsubo_cardiomyopathy#cite_note-4]
+2. schematic representation of takotsubo cardiomyopathy (A) compared to a normal heart (B)^[By J. Heuser JHeuser - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=889151]
+	<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/TakoTsubo_scheme.png" width="300" />

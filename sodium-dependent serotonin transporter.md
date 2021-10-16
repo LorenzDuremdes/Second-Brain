@@ -1,2 +1,2 @@
-1. sodium-dependent [[serotonin]] transporter; a type of monoamine transporter protein that transports serotonin from the synaptic cleft back to the presynaptic neuron.^[https://en.wikipedia.org/wiki/Serotonin_transporter#cite_note-6]
+1. sodium-dependent [[serotonin]] transporter; a type of monoamine transporter protein that transports [[serotonin]] from the synaptic cleft back to the presynaptic neuron.^[https://en.wikipedia.org/wiki/Serotonin_transporter#cite_note-6]
 2. a protein that in humans is encoded by the [[SLC6A4 gene]].^[https://en.wikipedia.org/wiki/Serotonin_transporter#cite_note-5]

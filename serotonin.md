@@ -1,0 +1,2 @@
+1. does "serotonin" _directly_ increase [[happiness]]? + why^[The Happy [[Brain]]: The Science of Where [[Happiness]] Comes from, and Why, p. 20–21]
+	1. probably not e.g. SSRIs increase serotonin levels in a relatively short interval, but take weeks of effective doses to be effective

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reward system.md",
+                "file": "modularity (functional specialization (brain)).md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "reward system.md",
+                "file": "modularity (functional specialization (brain)).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.011177310335441065,
+                  "scale": 0.011177310335440987,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reward system.md",
+                "file": "modularity (functional specialization (brain)).md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "childbirth",
+                "query": "serotonin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reward system.md"
+                "file": "modularity (functional specialization (brain)).md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reward system.md",
+                "file": "modularity (functional specialization (brain)).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reward system.md",
+                "file": "modularity (functional specialization (brain)).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "4e4e54869accf445",
   "lastOpenFiles": [
-    "reward system.md",
     "Untitled.md",
+    "serotonin.md",
+    "sodium-dependent serotonin transporter.md",
+    "oxytocin.md",
+    "reward system.md",
     "road bike.md",
     "flirting.md",
     "hadron.md",
     "the Sword of Damocles.md",
-    "\"the Sword of Damocles\".md",
-    "bid (sociology).md",
-    "women.md",
-    "eyebrow flash.md"
+    "\"the Sword of Damocles\".md"
   ]
 }

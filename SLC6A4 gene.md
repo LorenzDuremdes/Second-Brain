@@ -1,2 +1,2 @@
-1. monkeys and humans share the same two variant(s) of the [[serotonin]] gene known as the short and long serotonin transporter allele^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 186]
-2. the **short** allele of the serotonin gene has been associated with impulsivity, aggression, sensation seeking, suicide attempts, and severe depression^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 186]
+1. monkeys and humans share the same two variant(s) of the [[serotonin]] gene known as the short and long [[serotonin]] transporter allele^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 186]
+2. the **short** allele of the [[serotonin]] gene has been associated with impulsivity, aggression, sensation seeking, suicide attempts, and severe depression^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 186]
