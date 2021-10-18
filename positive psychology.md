@@ -10,3 +10,12 @@
 	1. adapting to/after adversity can increase one's (feeling of) [[vertical coherence]] (e.g. short- and long-term life goals)
 		
 		this coherence might not be visible to one’s friends, but it feels like growth, strength, maturity, and wisdom from the inside^[The [[Happiness]] Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 155]^[See King, 2001, on the “hard road to the good life.”]
+		
+# neuroscience
+1. improve the following^[The Happy Brain: The Science of Where Happiness Comes from, and Why, p. 31]:
+
+  	"Where is happiness in the brain?"
+	
+	"How does the brain support happiness?"
+	
+	1. ‘The question is not “Where is happiness in the brain?” That’s like asking “Where is the perception of the sound of a dog barking in the brain?”
