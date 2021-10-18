@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bid (sociology).md",
+                "file": "conflict (process).md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "bid (sociology).md",
+                "file": "conflict (process).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bid (sociology).md",
+                "file": "conflict (process).md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bid socio",
+                "query": "conflict",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bid (sociology).md"
+                "file": "conflict (process).md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bid (sociology).md",
+                "file": "conflict (process).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bid (sociology).md",
+                "file": "conflict (process).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "4e4e54869accf445",
   "lastOpenFiles": [
-    "bid (sociology).md",
     "Untitled.md",
+    "interpersonal relationship.md",
+    "bid (sociology).md",
     "gut-brain axis.md",
     "serotonin.md",
     "sodium-dependent serotonin transporter.md",
     "oxytocin.md",
     "reward system.md",
     "road bike.md",
-    "flirting.md",
-    "hadron.md"
+    "flirting.md"
   ]
 }

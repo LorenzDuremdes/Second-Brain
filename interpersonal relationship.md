@@ -10,6 +10,10 @@
 2. adversity → interpersonal relationships^[The [[Happiness]] Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 149]
 	1. adversity can strenghten (some) interpersonal relationships e.g. more appreciation or filtering out those who do not care as much
 
+## dynamics
+1. 69% of relationship problems are 'perpetual'^[https://www.instagram.com/p/CVLL4_rD3MF/]^[https://www.gottman.com/blog/managing-conflict-solvable-vs-perpetual-problems/]
+	1. what matters is not solving perpetual problems, but rather the affect with which they are discussed.
+
 # [[emotion]]
 1. the face is showing 50% [[happiness]] and anger (neutral)^[https://youtu.be/5n6lDNacfk0?t=360, Alok Kanojia]
 
