@@ -1,0 +1,3 @@
+1. Alcubierre drive; rather than exceeding the [[speed]] of light within a local reference frame, a spacecraft would traverse distances by contracting space in front of it and expanding space behind it, resulting in effective faster-than-light travel^[https://en.wikipedia.org/wiki/Alcubierre_drive]
+2. Two-dimensional visualization of an Alcubierre drive, showing the opposing regions of expanding and contracting spacetime that displace the central region^[By AllenMcC. - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=3864854]
+	<img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Alcubierre.png" width="300" />

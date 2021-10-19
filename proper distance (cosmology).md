@@ -1,0 +1,1 @@
+1. proper distance (cosmology); roughly corresponds to where a distant object would be at a specific moment of cosmological time, which can change over time due to the expansion of the universe^[https://en.wikipedia.org/wiki/Comoving_and_proper_distances]

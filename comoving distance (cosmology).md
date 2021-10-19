@@ -1,0 +1,1 @@
+1. comoving distance (cosmology); factors out the expansion of the universe, giving a distance that does not change in time due to the expansion of space (though this may change due to other, local factors, such as the motion of a galaxy within a cluster)^[https://en.wikipedia.org/wiki/Comoving_and_proper_distances]
