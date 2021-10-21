@@ -1,0 +1,1 @@
+1. unihemispheric slow-wave [[sleep]]; sleep where one half of the brain rests while the other half remains alert^[https://en.wikipedia.org/wiki/Unihemispheric_slow-wave_sleep]
