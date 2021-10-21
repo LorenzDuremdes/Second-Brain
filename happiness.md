@@ -37,6 +37,11 @@
 	2. C=sociological
 	3. V=psychological
 
+# [[psychology]]
+## [[habituation]]
+1. how can there be less to none [[habituation]] to your home in relationship to happiness?^[The Happy Brain: The Science of Where Happiness Comes from, and Why, p. 40]
+	1. because it's biologically significant (vital functions e.g. nourishment, sleeping, warmth, plumbing)
+
 # [[neuroscience]]
 ## [[neurophysiology]]
 1. primitive brains → prestige vs. happiness
