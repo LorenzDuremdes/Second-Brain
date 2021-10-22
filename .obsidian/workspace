@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grid cell.md",
+                "file": "simulated annealing.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "grid cell.md",
+                "file": "simulated annealing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.00934466355711279,
+                  "scale": 0.01599133009084906,
                   "close": false
                 }
               }
@@ -59,7 +59,7 @@
         "direction": "horizontal"
       },
       {
-        "id": "1cd5fdfbccc9a355",
+        "id": "354f5c8e38593515",
         "type": "split",
         "children": [
           {
@@ -68,14 +68,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "grid cell.md",
+                "file": "simulated annealing.md",
                 "mode": "preview"
               }
             },
             "group": "70df3f248423c6ea"
           },
           {
-            "id": "c93037f503043cde",
+            "id": "c4e37814890e1bf9",
             "type": "leaf",
             "state": {
               "type": "mindmap",
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "highest response",
+                "query": "random restart",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grid cell.md"
+                "file": "simulated annealing.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "grid cell.md",
+                "file": "simulated annealing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "grid cell.md",
+                "file": "simulated annealing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,17 +193,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "4e4e54869accf445",
+  "active": "b84bda85ffffc712",
   "lastOpenFiles": [
+    "simulated annealing.md",
+    "hill climbing (algorithm).md",
+    "Metropolis-Hastings algorithm.md",
+    "cultural bereavement.md",
+    "neophobia.md",
+    "homesickness.md",
+    "explore-exploit trade-off.md",
     "grid cell.md",
-    "highest response ratio next.md",
-    "unrequited love.md",
-    "unihemispheric slow-wave sleep.md",
-    "first-night effect.md",
-    "Brodmann area 25.md",
-    "happiness.md",
-    "habituation.md",
-    "honey.md",
-    "comoving distance (cosmology).md"
+    "place cell.md",
+    "boundary cell.md"
   ]
 }

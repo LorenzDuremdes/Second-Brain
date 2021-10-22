@@ -1,0 +1,2 @@
+1. homesickness; the distress caused by being away from home.^[https://en.wikipedia.org/wiki/Homesickness#cite_note-:4-1]
+	1. nearly all people miss something about home when they are away, making homesickness a nearly universal experience.^[https://en.wikipedia.org/wiki/Homesickness#cite_note-8]

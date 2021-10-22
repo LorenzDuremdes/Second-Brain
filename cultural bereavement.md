@@ -1,0 +1,4 @@
+1. cultural bereavement; the experience of the uprooted person - or group - resulting from loss of social structures, cultural values and self-identity: the person - or group - continues to live in the past, is visited by supernatural forces from the past while asleep or awake, suffers feelings of guilt over abandoning [[culture]] and homeland, feels pain if memories of the past begin to fade, but finds constant images of the past (including traumatic images) intruding into daily life, yearns to complete obligations to the dead, and feels stricken by anxieties, morbid thoughts, and anger that mar the ability to get on with daily life^[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1414713/]
+
+# related
+1. [[homesickness]]
