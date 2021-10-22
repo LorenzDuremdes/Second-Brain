@@ -3,3 +3,6 @@
 3. do "important and urgent" first makes use of the [[algorithm]] "highest response ratio next"^[Algorithms to Live By: The [[computer science]] of Human Decisions, p. 117]
 4. how does "highest response ratio" handle new incoming tasks?
 	1. each time a new piece of work comes in, divide its importance by the amount of time it will take to complete. If that figure is higher than for the task you’re currently doing, switch to the new one; otherwise stick with the current task^[Algorithms to Live By: The [[computer science]] of Human Decisions, p. 126]
+
+# related
+1. [[weighted shortest remaining time first]]
