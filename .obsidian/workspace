@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shinrin-yoku.md",
+                "file": "thought gap.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "shinrin-yoku.md",
+                "file": "thought gap.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.013369370183441599,
+                  "scale": 0.0078125,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shinrin-yoku.md",
+                "file": "thought gap.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shinrin",
+                "query": "plant",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shinrin-yoku.md"
+                "file": "thought gap.md"
               }
             }
           },
@@ -157,14 +157,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shinrin-yoku.md",
+                "file": "thought gap.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a834b3f3361a68cb",
@@ -176,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shinrin-yoku.md",
+                "file": "thought gap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,17 +192,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "b84bda85ffffc712",
+  "active": "4e4e54869accf445",
   "lastOpenFiles": [
-    "shinrin-yoku.md",
-    "attention restoration theory.md",
+    "thought gap.md",
+    "liking gap.md",
+    "value-action gap.md",
+    "plant.md",
+    "narcissism.md",
+    "depression.md",
     "proxemics.md",
-    "simulated annealing.md",
-    "homesickness.md",
-    "hill climbing (algorithm).md",
-    "Metropolis-Hastings algorithm.md",
-    "cultural bereavement.md",
-    "neophobia.md",
-    "explore-exploit trade-off.md"
+    "self-concept.md",
+    "mere ownership effect.md",
+    "extended mind.md"
   ]
 }

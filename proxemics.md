@@ -9,3 +9,4 @@
 	1. extraverts generally feel more at ease with closer physical distances
 3. stress/anxiety → proxemics^[The Happy Brain: The Science of Where Happiness Comes from, and Why, p. 51]
 	1. the former can expand the latter e.g. being less tolerant of people and things being too close
+	2. ◇can also reduce proxemics e.g. tend and befriend
