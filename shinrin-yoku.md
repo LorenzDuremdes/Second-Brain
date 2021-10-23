@@ -1,1 +1,4 @@
 1. shinrin-yoku; Japanse for "forest bathing"
+2. how could it evolutionarily make sense that (images of) nature can be destressing?^[The Happy Brain: The Science of Where [[Happiness]] Comes from, and Why, p. 53]
+	1. an empty environment is, in nature, a barren one. For a creature hoping to survive, that’s no good. Rich, green environments, full of the resources essential for life; those are where you’ll find what you need. A creature with a brain that responds positively to these environments, that’s drawn to them but isn’t overly stressed by them, has a definite survival advantage.
+		1. could be why women might be more focused on e.g. plants (resources)?

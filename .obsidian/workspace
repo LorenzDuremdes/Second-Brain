@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "simulated annealing.md",
+                "file": "shinrin-yoku.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "simulated annealing.md",
+                "file": "shinrin-yoku.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.01599133009084906,
+                  "scale": 0.013369370183441599,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "simulated annealing.md",
+                "file": "shinrin-yoku.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "random restart",
+                "query": "shinrin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "simulated annealing.md"
+                "file": "shinrin-yoku.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "simulated annealing.md",
+                "file": "shinrin-yoku.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "simulated annealing.md",
+                "file": "shinrin-yoku.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "b84bda85ffffc712",
   "lastOpenFiles": [
+    "shinrin-yoku.md",
+    "attention restoration theory.md",
+    "proxemics.md",
     "simulated annealing.md",
+    "homesickness.md",
     "hill climbing (algorithm).md",
     "Metropolis-Hastings algorithm.md",
     "cultural bereavement.md",
     "neophobia.md",
-    "homesickness.md",
-    "explore-exploit trade-off.md",
-    "grid cell.md",
-    "place cell.md",
-    "boundary cell.md"
+    "explore-exploit trade-off.md"
   ]
 }
