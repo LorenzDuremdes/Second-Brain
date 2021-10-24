@@ -2,6 +2,8 @@
 1. **BIGGEST BANG FOR YOUR BUCK IN [[time trial]] EQUIPMENT**^[https://cyclingtips.com/2010/04/biggest-bang-for-your-buck-in-time-trial-equipment/]
 	1. ![image](https://cdn-ctstaging.pressidium.com/wp-content/uploads/2020/12/ITT-Time-Savings.jpg)
 	2. ![image](https://cdn-ctstaging.pressidium.com/wp-content/uploads/2020/12/ttchart.jpg)
+2. why is it usually cheaper to buy than to build your own bike?^[https://www.reddit.com/r/cycling/comments/qe9y1h/comment/hhrjoxn/?utm_source=share&utm_medium=web2x&context=3]
+	1. because big makers (e.g. Cervelo) get volume discounts
 
 # [[bike fit]]
 1. when does Joe Friel recommend to get a [[bike fit]] for optimal performance + why^[The Cyclist's Training Bible, p. 18]

@@ -90,6 +90,8 @@
 	1. intelligence is like gravity: it emanates from its point(s) of influence and (usually) becomes weaker farther away from them
 		1. analogous to extended [[mind]] thesis
 			1. interference1=[[gravitational potential energy]] → why (not)?
+2. intelligence · Hill sphere (analogy)
+	1. individual intelligence
 
 # related
 1. [[collective intelligence]]

@@ -1,0 +1,2 @@
+1. expiration date; a previously determined date after which something should no longer be used, either by operation of law or by exceeding the anticipated [[shelf life]] for perishable goods^[https://en.wikipedia.org/wiki/Expiration_date]
+	1. most [[food]] is still edible after the expiration date.^[https://en.wikipedia.org/wiki/Shelf_life#cite_note-CA-EXP-5] (shelf life)

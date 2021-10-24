@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thought gap.md",
+                "file": "road bike.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "thought gap.md",
+                "file": "road bike.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thought gap.md",
+                "file": "road bike.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "plant",
+                "query": "bike",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -127,7 +127,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thought gap.md"
+                "file": "road bike.md"
               }
             }
           },
@@ -157,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thought gap.md",
+                "file": "road bike.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -175,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thought gap.md",
+                "file": "road bike.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,15 +195,15 @@
   },
   "active": "4e4e54869accf445",
   "lastOpenFiles": [
+    "road bike.md",
+    "psychological trauma.md",
+    "humor.md",
+    "expiration date.md",
+    "shelf life.md",
+    "whey protein powder.md",
+    "intelligence.md",
     "thought gap.md",
     "liking gap.md",
-    "value-action gap.md",
-    "plant.md",
-    "narcissism.md",
-    "depression.md",
-    "proxemics.md",
-    "self-concept.md",
-    "mere ownership effect.md",
-    "extended mind.md"
+    "value-action gap.md"
   ]
 }

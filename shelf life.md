@@ -1,0 +1,3 @@
+1. shelf life; the length of time that a commodity may be stored without becoming unfit for use, consumption, or sale.^[https://en.wikipedia.org/wiki/Shelf_life#cite_note-1]
+	1. the concept of [[expiration date]] is related but legally distinct in some jurisdictions.^[https://en.wikipedia.org/wiki/Shelf_life#cite_note-2]
+	2. most [[food]] is still edible after the [[expiration date]].^[https://en.wikipedia.org/wiki/Shelf_life#cite_note-CA-EXP-5]
