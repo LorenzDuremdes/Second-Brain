@@ -37,9 +37,18 @@
 	2. C=sociological
 	3. V=psychological
 
+# things influencing happiness
+1. improve the following:
+
+	"X makes us happy."
+	
+	>"X can make it easier to be happy."^[[The Happy [[Brain]]: The Science of Where Happiness Comes from, and Why, p. 59]]
+	1. removes splitting ([[psychology]]) + complex
+1. greater intelligence is more likely to make you happier^[The Happy [[Brain]]: The Science of Where Happiness Comes from, and Why, p. 65]
+
 # [[psychology]]
 ## [[habituation]]
-1. how can there be less to none [[habituation]] to your home in relationship to happiness?^[The Happy Brain: The Science of Where Happiness Comes from, and Why, p. 40]
+1. how can there be less to none [[habituation]] to your home in relationship to happiness?^[The Happy [[Brain]]: The Science of Where Happiness Comes from, and Why, p. 40]
 	1. because it's biologically significant (vital functions e.g. nourishment, sleeping, warmth, plumbing)
 
 # [[neuroscience]]

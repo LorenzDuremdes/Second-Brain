@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "road bike.md",
+                "file": "happiness.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "road bike.md",
+                "file": "happiness.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "road bike.md",
+                "file": "happiness.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bike",
+                "query": "happi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -127,8 +127,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "road bike.md"
+                "file": "happiness.md"
               }
             }
           },
@@ -158,13 +157,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "road bike.md",
+                "file": "happiness.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a834b3f3361a68cb",
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "road bike.md",
+                "file": "happiness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "4e4e54869accf445",
   "lastOpenFiles": [
+    "happiness.md",
+    "neuroenhancement.md",
+    "intelligence amplification.md",
+    "employment.md",
+    "place identity.md",
+    "expected value.md",
+    "Monte Carlo method.md",
     "road bike.md",
     "psychological trauma.md",
-    "humor.md",
-    "expiration date.md",
-    "shelf life.md",
-    "whey protein powder.md",
-    "intelligence.md",
-    "thought gap.md",
-    "liking gap.md",
-    "value-action gap.md"
+    "humor.md"
   ]
 }

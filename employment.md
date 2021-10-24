@@ -1,0 +1,1 @@
+1. the average Westerner typically has around 12 different jobs before they’re fifty – a figure that seems to be rising^[The Happy Brain: The Science of Where [[Happiness]] Comes from, and Why, p. 64]

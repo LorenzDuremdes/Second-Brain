@@ -4,7 +4,7 @@
 		**unexpected** rewards correspond with an increased level of dopamine release for a longer period after the reward is experienced
 		
 		**absence** of an expected reward causes a substantial drop in dopamine
-		>◇can be especially painful in combination with "biological set point (happiness)", which also happens to be 'semi-dynamic (deviations from weighted average time)'
+		>◇can be especially painful in combination with "biological set point ([[happiness]])", which also happens to be 'semi-dynamic (deviations from weighted average time)'
 	1. **related**
 		1. probably makes evolutionarily sense (see: e.g. negativity bias)
 

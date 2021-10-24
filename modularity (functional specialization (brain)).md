@@ -1,3 +1,3 @@
 1. modularity ([[functional specialization (brain)]]); suggests that there are functionally specialized regions in the brain that are domain specific for different cognitive processes.^[https://en.wikipedia.org/wiki/Functional_specialization_(brain)#cite_note-caramazza-4]
-2. modularity ([[functional specialization (brain)]]) ↔ phrenology^[The Happy Brain: The Science of Where Happiness Comes from, and Why, p. 23]
+2. modularity ([[functional specialization (brain)]]) ↔ phrenology^[The Happy Brain: The Science of Where [[happiness]] Comes from, and Why, p. 23]
 	1. positive correlation
