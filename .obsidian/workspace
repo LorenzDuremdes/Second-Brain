@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3096c14d55e183fb",
+        "id": "86b222b74f7525dc",
         "type": "split",
         "children": [
           {
-            "id": "4e4e54869accf445",
+            "id": "ad212d55c0d8b9b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "true self and false self.md",
+                "file": "hypertrophy.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "true self and false self.md",
+                "file": "hypertrophy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.011367344306907194,
+                  "scale": 0.00950353930400361,
                   "close": false
                 }
               }
@@ -59,23 +59,23 @@
         "direction": "horizontal"
       },
       {
-        "id": "354f5c8e38593515",
+        "id": "6b53cb8d3d60203e",
         "type": "split",
         "children": [
           {
-            "id": "ad212d55c0d8b9b4",
+            "id": "4e4e54869accf445",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "true self and false self.md",
+                "file": "hypertrophy.md",
                 "mode": "preview"
               }
             },
             "group": "70df3f248423c6ea"
           },
           {
-            "id": "c4e37814890e1bf9",
+            "id": "b2deac2f15ddfd5b",
             "type": "leaf",
             "state": {
               "type": "mindmap",
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "self concept",
+                "query": "hypertrophy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "true self and false self.md"
+                "file": "hypertrophy.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "true self and false self.md",
+                "file": "hypertrophy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "true self and false self.md",
+                "file": "hypertrophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,17 +193,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "4e4e54869accf445",
+  "active": "0415bd1425af29db",
   "lastOpenFiles": [
-    "true self and false self.md",
-    "self-knowledge (psychology).md",
-    "self-awareness.md",
-    "self.md",
-    "self-concept.md",
-    "contrast effect.md",
-    "ventral striatum.md",
+    "hypertrophy.md",
+    "happiness.md",
     "anterior cingulate gyrus.md",
-    "neuroenhancement.md",
-    "intelligence amplification.md"
+    "ventral striatum.md",
+    "contrast effect.md",
+    "self-concept.md",
+    "self.md",
+    "self-awareness.md",
+    "self-knowledge (psychology).md",
+    "true self and false self.md"
   ]
 }
