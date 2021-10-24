@@ -2,13 +2,6 @@
 2. **One's self-perception is defined by one's self-concept, self-knowledge, [[self-esteem]], and social self.**^[By TGageND - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73936530]
 	1. ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/The_constituent_on_one%27s_self.png/480px-The_constituent_on_one%27s_self.png)
 
-# [[neurophysiology]]
-1. the same brain regions that process our sense of self and [[personality]], are used in recognising our possessions and property^[The Happy Brain: The Science of Where [[happiness]] Comes from, and Why, p. 57]
-	1. e.g. [[medial prefrontal cortex]]
-2. the midline structures of the [[brain]] are involved in the sense of self^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 112]
-3. posterior cingulate → self-concept
-	1. gives a physical sense of where we are^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 112]
-
 # related
 1. [[interoceptive inference]]
 2. [[implicit self-esteem]]

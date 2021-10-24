@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b5cfc64d4c2f70af",
+        "id": "3096c14d55e183fb",
         "type": "split",
         "children": [
           {
@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "happiness.md",
+                "file": "true self and false self.md",
                 "mode": "source"
               }
             },
             "group": "70df3f248423c6ea"
           },
           {
-            "id": "b84bda85ffffc712",
+            "id": "0415bd1425af29db",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "happiness.md",
+                "file": "true self and false self.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.0078125,
+                  "scale": 0.011367344306907194,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "happiness.md",
+                "file": "true self and false self.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "happi",
+                "query": "self concept",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "happiness.md"
+                "file": "true self and false self.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "happiness.md",
+                "file": "true self and false self.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "happiness.md",
+                "file": "true self and false self.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "4e4e54869accf445",
   "lastOpenFiles": [
-    "happiness.md",
+    "true self and false self.md",
+    "self-knowledge (psychology).md",
+    "self-awareness.md",
+    "self.md",
+    "self-concept.md",
+    "contrast effect.md",
+    "ventral striatum.md",
+    "anterior cingulate gyrus.md",
     "neuroenhancement.md",
-    "intelligence amplification.md",
-    "employment.md",
-    "place identity.md",
-    "expected value.md",
-    "Monte Carlo method.md",
-    "road bike.md",
-    "psychological trauma.md",
-    "humor.md"
+    "intelligence amplification.md"
   ]
 }
