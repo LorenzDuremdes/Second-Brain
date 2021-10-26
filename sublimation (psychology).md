@@ -1,0 +1,2 @@
+1. sublimation ([[psychology]]); a mature type of defense mechanism, in which socially unacceptable impulses or idealizations are transformed into socially acceptable actions or behavior, possibly resulting in a long-term conversion of the initial impulse^[https://en.wikipedia.org/wiki/Sublimation_(psychology)]
+	1. e.g. expressing your big ego in a socially acceptable manner

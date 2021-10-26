@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hypertrophy.md",
+                "file": "vertical coherence.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hypertrophy.md",
+                "file": "vertical coherence.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.00950353930400361,
+                  "scale": 0.009503539304003552,
                   "close": false
                 }
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hypertrophy.md",
+                "file": "vertical coherence.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hypertrophy",
+                "query": "vertical",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hypertrophy.md"
+                "file": "vertical coherence.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hypertrophy.md",
+                "file": "vertical coherence.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hypertrophy.md",
+                "file": "vertical coherence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,17 +193,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "ad212d55c0d8b9b4",
+  "active": "0415bd1425af29db",
   "lastOpenFiles": [
-    "hypertrophy.md",
+    "vertical coherence.md",
+    "self-discrepancy theory.md",
+    "motivation.md",
+    "hedonic motivation.md",
+    "productivity.md",
+    "employment.md",
+    "force majeure.md",
     "happiness.md",
-    "anterior cingulate gyrus.md",
-    "ventral striatum.md",
-    "contrast effect.md",
-    "self-concept.md",
-    "self.md",
-    "self-awareness.md",
-    "self-knowledge (psychology).md",
-    "true self and false self.md"
+    "time trial.md",
+    "sublimation (psychology).md"
   ]
 }

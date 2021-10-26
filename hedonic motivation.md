@@ -1,0 +1,1 @@
+1. hedonic [[motivation]]; refers to the influence of a person's pleasure and pain receptors on their willingness to move towards a goal or away from a threat^[https://en.wikipedia.org/wiki/Hedonic_motivation]

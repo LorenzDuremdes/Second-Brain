@@ -8,3 +8,6 @@
 1. how could it make sense that aero overshoes save so many watts relatively?
 	1. ◇exponential air resistance at top of pedal stroke
 		1. same as spokes
+
+# technicalities
+1. [power required for a 40 kph TT (anecdotes)](https://www.trainerroad.com/forum/t/power-required-for-a-40kph-tt/64520)
