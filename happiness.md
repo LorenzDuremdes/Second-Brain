@@ -48,6 +48,9 @@
 2. competence → happiness^[The Happy [[Brain]]: The Science of Where Happiness Comes from, and Why, p. 72]
 	1. when we feel we're competent, we're more likely to be happy
 
+## material
+1. a tendency to focus on financial matters reduces the likelihood that you'll be happy, regardless of income (at least among American [[women]])^[The Happy [[Brain]]: The Science of Where Happiness Comes from, and Why, p. 80]
+
 # [[psychology]]
 ## [[habituation]]
 1. how can there be less to none [[habituation]] to your home in relationship to happiness?^[The Happy [[Brain]]: The Science of Where Happiness Comes from, and Why, p. 40]
