@@ -1,0 +1,1 @@
+1. optimism bias; a cognitive bias that causes someone to believe that they themselves are less likely to experience a negative event^[https://en.wikipedia.org/wiki/Optimism_bias]

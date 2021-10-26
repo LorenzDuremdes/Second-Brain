@@ -1,0 +1,3 @@
+# neurophysiology
+1. addiction/compulsion → frontal cortex^[The Happy Brain: The Science of Where [[Happiness]] Comes from, and Why, p. 80]^[Hyman, S. E. and R. C. Malenka, ‘Addiction and the brain: the neurobiology of compulsion and its persistence’, Nature Reviews [[Neuroscience]], 2001, 2(10), p. 695]
+	1. the former suppresses areas like the frontal cortex, responsible for restraint, logic, and other conscious behavior
