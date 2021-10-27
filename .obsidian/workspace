@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "optimism bias.md",
+                "file": "active recovery.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "optimism bias.md",
+                "file": "active recovery.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "optimism bias.md",
+                "file": "active recovery.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "happi",
+                "query": "active rec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "optimism bias.md"
+                "file": "active recovery.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "optimism bias.md",
+                "file": "active recovery.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "optimism bias.md",
+                "file": "active recovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
-    "optimism bias.md",
-    "compulsion and addiction.md",
-    "happiness.md",
+    "active recovery.md",
+    "honey.md",
     "vertical coherence.md",
     "self-discrepancy theory.md",
     "motivation.md",
     "hedonic motivation.md",
     "productivity.md",
     "employment.md",
-    "force majeure.md"
+    "force majeure.md",
+    "happiness.md"
   ]
 }
