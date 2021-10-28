@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "active recovery.md",
+                "file": "dating.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "active recovery.md",
+                "file": "dating.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "active recovery.md",
+                "file": "dating.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "active rec",
+                "query": "dating",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "active recovery.md"
+                "file": "dating.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "active recovery.md",
+                "file": "dating.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "active recovery.md",
+                "file": "dating.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "dating.md",
+    "passionate love.md",
+    "romance (love).md",
+    "courtship.md",
+    "nutrition (road cycling).md",
+    "self-expansion model.md",
     "active recovery.md",
     "honey.md",
     "vertical coherence.md",
-    "self-discrepancy theory.md",
-    "motivation.md",
-    "hedonic motivation.md",
-    "productivity.md",
-    "employment.md",
-    "force majeure.md",
-    "happiness.md"
+    "self-discrepancy theory.md"
   ]
 }
