@@ -28,7 +28,15 @@
 		1. A standard way of formalising this is to scale the value of rewards so that they decay geometrically into the future at a rate given by a discount parameter γ ∈ (0, 1). For example, with γ = 0.95 a reward of 0.7 that is 10 [[time]] steps into the future would be given a value of 0.7 · (0.95)10 ≈ 0.42. At 100 [[time]] steps into the future a reward of 0.7 would have a value of just over 0.004
 
 ### agent
-#### constant effective horizon
+#### time discounting
+1. how can we get rid (theory reductionism) of time discounting (universal intelligence)?^[Universal Intelligence: A Definition of Machine Intelligence, p. 19]
+	1. require that the total reward returned by the environment can never exceed 1
+		1. the expected value of the sum of rewards is also finite and thus discounting is no longer required
+##### near-harmonic discounting
+1. $$γ^i → 1/i^2$$ and modifying Γ accordingly^[Universal Intelligence: A Definition of Machine Intelligence, p. 19]
+2. agent's age → 1/i<sup>2</sup>^[Universal Intelligence: A Definition of Machine Intelligence, p. 19]
+	1. the agent needs to look forward into the future in a way that is proportional to its current age
+##### constant effective horizon
 1. the agent has a constant effective horizon of^[Universal Intelligence: A Definition of Machine Intelligence, p. 19]: $$1/(1− γ)$$
 	1. e.g. under geometric discounting an agent with γ = 0.95 will not plan further than about 20 cycles ahead
 2. how could "constant effective horizon" + "geometric discounting" not be as efficient to creating "universal intelligence"?^[Universal Intelligence: A Definition of Machine Intelligence, p. 19]
@@ -38,7 +46,7 @@
 		
 	2. it does not solve how to weight "short-term ↮ long-term rewards"
 
-		
+
 
 ### environment
 1. for any k ∈ N the [[probability]] of o<sub>k</sub>r<sub>k</sub>, given the current interaction history o<sub>1</sub>r<sub>1</sub>a<sub>1</sub>o<sub>2</sub>r<sub>2</sub>a<sub>2</sub>...o<sub>k−1</sub>r<sub>k−1</sub>a<sub>k−1</sub>, is given by the [[probability]] measure:
