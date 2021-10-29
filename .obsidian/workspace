@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stimulus delta.md",
+                "file": "anemia.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "stimulus delta.md",
+                "file": "anemia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stimulus delta.md",
+                "file": "anemia.md",
                 "mode": "preview"
               }
             },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stimulus delta.md"
+                "file": "anemia.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stimulus delta.md",
+                "file": "anemia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stimulus delta.md",
+                "file": "anemia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,6 +195,8 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "anemia.md",
+    "melanin.md",
     "stimulus delta.md",
     "discriminative stimulus.md",
     "stimulus control.md",
@@ -202,8 +204,6 @@
     "deconditioning (fitness).md",
     "intelligence.md",
     "P200 (neuroscience).md",
-    "sensory gating.md",
-    "P50 (neuroscience).md",
-    "Markov chain.md"
+    "sensory gating.md"
   ]
 }
