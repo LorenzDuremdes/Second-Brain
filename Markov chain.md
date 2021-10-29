@@ -2,3 +2,4 @@
 
 # related
 1. [[Markov property]]
+	1. [[memorylessness]]

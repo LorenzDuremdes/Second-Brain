@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dating.md",
+                "file": "intelligence.md",
                 "mode": "source"
               }
             },
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dating.md",
+                "file": "intelligence.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -68,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dating.md",
+                "file": "intelligence.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dating",
+                "query": "intelli",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dating.md"
+                "file": "intelligence.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dating.md",
+                "file": "intelligence.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dating.md",
+                "file": "intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +195,15 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "intelligence.md",
+    "P200 (neuroscience).md",
+    "sensory gating.md",
+    "P50 (neuroscience).md",
+    "Markov chain.md",
     "dating.md",
     "passionate love.md",
     "romance (love).md",
     "courtship.md",
-    "nutrition (road cycling).md",
-    "self-expansion model.md",
-    "active recovery.md",
-    "honey.md",
-    "vertical coherence.md",
-    "self-discrepancy theory.md"
+    "nutrition (road cycling).md"
   ]
 }
