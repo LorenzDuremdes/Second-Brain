@@ -10,10 +10,11 @@
           {
             "id": "ad212d55c0d8b9b4",
             "type": "leaf",
+            "dimension": 49.89878542510122,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shame.md",
+                "file": "employment.md",
                 "mode": "source"
               }
             },
@@ -22,10 +23,11 @@
           {
             "id": "0415bd1425af29db",
             "type": "leaf",
+            "dimension": 50.10121457489879,
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "shame.md",
+                "file": "employment.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +50,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.009503539304003552,
+                  "scale": 0.00950353930400344,
                   "close": false
                 }
               }
@@ -59,7 +61,7 @@
         "direction": "horizontal"
       },
       {
-        "id": "6b53cb8d3d60203e",
+        "id": "933472de904cc0d1",
         "type": "split",
         "children": [
           {
@@ -68,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shame.md",
+                "file": "employment.md",
                 "mode": "preview"
               }
             },
@@ -110,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shame",
+                "query": "happi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shame.md"
+                "file": "employment.md"
               }
             }
           },
@@ -157,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shame.md",
+                "file": "employment.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shame.md",
+                "file": "employment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,15 +197,15 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "employment.md",
+    "happiness.md",
+    "explore-exploit trade-off.md",
+    "contrast effect.md",
+    "Trinity study.md",
+    "exponentially weighted moving average.md",
+    "exponential growth.md",
+    "financial independence.md",
     "shame.md",
-    "white lie.md",
-    "breakup.md",
-    "transactionalism.md",
-    "bid (sociology).md",
-    "altercasting.md",
-    "photochromic lens.md",
-    "anemia.md",
-    "melanin.md",
-    "stimulus delta.md"
+    "white lie.md"
   ]
 }

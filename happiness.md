@@ -76,6 +76,12 @@
 		1. same as when building fitness
 		2. variety can also be in terms of intensity? (progressive overload)
 
+# [[sociology]]
+## [[microsociology]]
+1. how could "the pursuit of happiness be **lonely**"?^[https://www.researchgate.net/publication/51631109_The_Pursuit_of_Happiness_Can_Be_Lonely]^[The Happy Brain: The Science of Where Happiness Comes from, and Why, p. 86]
+	1. striving for happiness usually requires striving for personal gains (in western contexts)
+	2. this might damage people's connections with others
+
 # [[women]]
 1. how are [[women]] on average not any happier than [[men]] when experiencing more e.g. [[depression]]?
 	1. [[women]] also experience more intense joy^[The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 100]

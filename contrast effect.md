@@ -2,7 +2,7 @@
 	1. cognition example: a person will appear more or less attractive than that person does in isolation when immediately preceded by, or simultaneously compared to, respectively, a less or more attractive person
 
 # neuroscience
-1. effort evaluation system → contrast effect^[The Happy Brain: The Science of Where Happiness Comes from, and Why, p. 67]
+1. effort evaluation system → contrast effect^[The Happy Brain: The Science of Where [[happiness]] Comes from, and Why, p. 67]
 	1. the former can cause the latter e.g. making less valuable tasks seem even more less valuable (and vice versa)
 
 # examples
