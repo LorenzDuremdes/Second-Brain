@@ -9,3 +9,6 @@
 3. [[knowledge quality]] → transactionalism
 	1. a higher [[knowledge]] quality increases transacton efficiency
 		1. e.g. high time utilized (contact)*low time spent learning ([[trust]])
+
+# related
+1. [[social currency]]

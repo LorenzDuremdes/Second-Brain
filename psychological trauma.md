@@ -134,7 +134,7 @@
 	1. women who were younger at the time of the incident and those who were molested by someone they knew were more likely to have forgotten their abuse
 		1. why? e.g. not seeing it as abuse?
 
-### shame
+### [[shame]]
 1. how can traumas that carry more [[shame]] affect health more?^[The [[Happiness]] Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 157]
 	1. e.g. by not disclosing or keeping things secret due to feeling more shameful
 

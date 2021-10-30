@@ -14,6 +14,10 @@
 		1. Tronick discovered that mothers and their 3-month-old infants were actually miscoordinated a whopping 70% of the time
 
   			Tronick also later discovered that the mothers who noticed this miscoordination and repaired the interaction had infants who were securely attached at one year of age^[The science of [[trust]]: emotional attunement for couples, 289]
+			
+### turning toward
+1. turning toward > depth of intimacy of conversation (priority)
+	<iframe src="https://www.instagram.com/p/CVoLhpZLWsY/" width="300" height="300"></iframe>
 
 # related
 1. [[interpersonal relationship]]
