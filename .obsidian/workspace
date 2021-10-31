@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Butteraugli.md",
+                "file": "panspermia.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Butteraugli.md",
+                "file": "panspermia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Butteraugli.md",
+                "file": "panspermia.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "compress",
+                "query": "space",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Butteraugli.md"
+                "file": "panspermia.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Butteraugli.md",
+                "file": "panspermia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Butteraugli.md",
+                "file": "panspermia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +197,7 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "panspermia.md",
     "Butteraugli.md",
     "romance (love).md",
     "social resonance.md",
@@ -205,7 +206,6 @@
     "explore-exploit trade-off.md",
     "contrast effect.md",
     "Trinity study.md",
-    "exponentially weighted moving average.md",
-    "exponential growth.md"
+    "exponentially weighted moving average.md"
   ]
 }
