@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "social resonance.md",
+                "file": "romance (love).md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "social resonance.md",
+                "file": "romance (love).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "social resonance.md",
+                "file": "romance (love).md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "social resonan",
+                "query": "love",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "social resonance.md"
+                "file": "romance (love).md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "social resonance.md",
+                "file": "romance (love).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "social resonance.md",
+                "file": "romance (love).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +197,7 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "romance (love).md",
     "social resonance.md",
     "employment.md",
     "happiness.md",
@@ -205,7 +206,6 @@
     "Trinity study.md",
     "exponentially weighted moving average.md",
     "exponential growth.md",
-    "financial independence.md",
-    "shame.md"
+    "financial independence.md"
   ]
 }

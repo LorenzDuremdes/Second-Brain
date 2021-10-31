@@ -5,3 +5,7 @@
 # [[psychology]]
 1. humour and [[honesty]] were ranked as the two most important attributes in a significant other.^[https://en.wikipedia.org/wiki/Humour#cite_note-23]
 	1. "[[honesty]]" is closely related to "[[trust]]"
+
+## self
+1. can't have a romantic relationship until emotionally independent (technology analogy)
+	1. that's somewhat like saying you can't use technology until you have shown you can do without (in the wild) for e.g. a month?
