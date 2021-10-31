@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "romance (love).md",
+                "file": "Butteraugli.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "romance (love).md",
+                "file": "Butteraugli.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -50,7 +50,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.00950353930400344,
+                  "scale": 0.019452701957334544,
                   "close": false
                 }
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "romance (love).md",
+                "file": "Butteraugli.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "love",
+                "query": "compress",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "romance (love).md"
+                "file": "Butteraugli.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "romance (love).md",
+                "file": "Butteraugli.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "romance (love).md",
+                "file": "Butteraugli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +197,7 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "Butteraugli.md",
     "romance (love).md",
     "social resonance.md",
     "employment.md",
@@ -205,7 +206,6 @@
     "contrast effect.md",
     "Trinity study.md",
     "exponentially weighted moving average.md",
-    "exponential growth.md",
-    "financial independence.md"
+    "exponential growth.md"
   ]
 }
