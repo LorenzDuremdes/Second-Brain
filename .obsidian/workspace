@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "employment.md",
+                "file": "social resonance.md",
                 "mode": "source"
               }
             },
@@ -23,11 +23,11 @@
           {
             "id": "0415bd1425af29db",
             "type": "leaf",
-            "dimension": 50.10121457489879,
+            "dimension": 50.10121457489878,
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "employment.md",
+                "file": "social resonance.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "employment.md",
+                "file": "social resonance.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "happi",
+                "query": "social resonan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "employment.md"
+                "file": "social resonance.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "employment.md",
+                "file": "social resonance.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "employment.md",
+                "file": "social resonance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +197,7 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "social resonance.md",
     "employment.md",
     "happiness.md",
     "explore-exploit trade-off.md",
@@ -205,7 +206,6 @@
     "exponentially weighted moving average.md",
     "exponential growth.md",
     "financial independence.md",
-    "shame.md",
-    "white lie.md"
+    "shame.md"
   ]
 }
