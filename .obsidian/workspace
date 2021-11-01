@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "panspermia.md",
+                "file": "handicap principle.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "panspermia.md",
+                "file": "handicap principle.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -50,7 +50,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.019452701957334544,
+                  "scale": 0.011367344306906918,
                   "close": false
                 }
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "panspermia.md",
+                "file": "handicap principle.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "space",
+                "query": "sexual sele",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "panspermia.md"
+                "file": "handicap principle.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "panspermia.md",
+                "file": "handicap principle.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "panspermia.md",
+                "file": "handicap principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,15 +197,15 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
-    "panspermia.md",
-    "Butteraugli.md",
+    "handicap principle.md",
+    "Veblen good.md",
+    "rarity (persuasion).md",
+    "sexual selection in humans.md",
+    "genetic load.md",
     "romance (love).md",
-    "social resonance.md",
-    "employment.md",
-    "happiness.md",
-    "explore-exploit trade-off.md",
-    "contrast effect.md",
-    "Trinity study.md",
-    "exponentially weighted moving average.md"
+    "horn effect.md",
+    "balance theory (cognitive dissonance).md",
+    "major histocompatibility complex.md",
+    "panspermia.md"
   ]
 }
