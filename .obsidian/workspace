@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "handicap principle.md",
+                "file": "personal development.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "handicap principle.md",
+                "file": "personal development.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "handicap principle.md",
+                "file": "personal development.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sexual sele",
+                "query": "personal de",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "handicap principle.md"
+                "file": "personal development.md"
               }
             }
           },
@@ -159,14 +159,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "handicap principle.md",
+                "file": "personal development.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a834b3f3361a68cb",
@@ -178,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "handicap principle.md",
+                "file": "personal development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,15 +196,15 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "personal development.md",
+    "self.md",
+    "sexual capital.md",
+    "sexual selection in humans.md",
+    "aphantasia.md",
+    "seduction.md",
     "handicap principle.md",
     "Veblen good.md",
     "rarity (persuasion).md",
-    "sexual selection in humans.md",
-    "genetic load.md",
-    "romance (love).md",
-    "horn effect.md",
-    "balance theory (cognitive dissonance).md",
-    "major histocompatibility complex.md",
-    "panspermia.md"
+    "genetic load.md"
   ]
 }

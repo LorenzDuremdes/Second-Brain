@@ -1,0 +1,1 @@
+1. aphantasia; the inability to voluntarily create mental images in one's mind.^[https://en.wikipedia.org/wiki/Aphantasia#cite_note-1]
