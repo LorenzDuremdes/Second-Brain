@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal development.md",
+                "file": "Xanthippe.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "personal development.md",
+                "file": "Xanthippe.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal development.md",
+                "file": "Xanthippe.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "personal de",
+                "query": "testost",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal development.md"
+                "file": "Xanthippe.md"
               }
             }
           },
@@ -159,13 +159,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal development.md",
+                "file": "Xanthippe.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a834b3f3361a68cb",
@@ -177,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal development.md",
+                "file": "Xanthippe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,15 +197,15 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "Xanthippe.md",
+    "ancient Sparta.md",
+    "testosterone.md",
+    "sexual selection in humans.md",
+    "seduction.md",
     "personal development.md",
     "self.md",
     "sexual capital.md",
-    "sexual selection in humans.md",
     "aphantasia.md",
-    "seduction.md",
-    "handicap principle.md",
-    "Veblen good.md",
-    "rarity (persuasion).md",
-    "genetic load.md"
+    "handicap principle.md"
   ]
 }

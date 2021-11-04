@@ -1,0 +1,3 @@
+1. Xanthippe; an ancient Athenian, the wife of Socrates and mother of their three sons: Lamprocles, Sophroniscus, and Menexenus^[https://en.wikipedia.org/wiki/Xanthippe]
+	1. she was likely much younger than Socrates, perhaps by as much as 40 years.^[https://en.wikipedia.org/wiki/Xanthippe#cite_note-1]
+	2. I know full well, if I can tolerate her spirit, I can with ease attach myself to every human being else.^[https://en.wikipedia.org/wiki/Xanthippe#cite_note-8]
