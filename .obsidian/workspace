@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Xanthippe.md",
+                "file": "emotional safety.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Xanthippe.md",
+                "file": "emotional safety.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Xanthippe.md",
+                "file": "emotional safety.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "testost",
+                "query": "psychological safety",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xanthippe.md"
+                "file": "emotional safety.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Xanthippe.md",
+                "file": "emotional safety.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xanthippe.md",
+                "file": "emotional safety.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +197,8 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "emotional safety.md",
+    "psychological safety.md",
     "Xanthippe.md",
     "ancient Sparta.md",
     "testosterone.md",
@@ -204,8 +206,6 @@
     "seduction.md",
     "personal development.md",
     "self.md",
-    "sexual capital.md",
-    "aphantasia.md",
-    "handicap principle.md"
+    "sexual capital.md"
   ]
 }
