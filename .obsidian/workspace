@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "menstrual cycle.md",
+                "file": "c tactile afferents.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "menstrual cycle.md",
+                "file": "c tactile afferents.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "menstrual cycle.md",
+                "file": "c tactile afferents.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "menstrual",
+                "query": "dopami",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "menstrual cycle.md"
+                "file": "c tactile afferents.md"
               }
             }
           },
@@ -159,13 +159,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "menstrual cycle.md",
+                "file": "c tactile afferents.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a834b3f3361a68cb",
@@ -177,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "menstrual cycle.md",
+                "file": "c tactile afferents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,17 +195,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "4e4e54869accf445",
+  "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "c tactile afferents.md",
+    "somatosensory cortex.md",
+    "reward system.md",
+    "mesolimbic pathway.md",
+    "microsociology.md",
+    "macrosociology.md",
+    "monogamy.md",
     "menstrual cycle.md",
     "estrous cycle.md",
-    "emotional safety.md",
-    "psychological safety.md",
-    "Xanthippe.md",
-    "ancient Sparta.md",
-    "testosterone.md",
-    "sexual selection in humans.md",
-    "seduction.md",
-    "personal development.md"
+    "emotional safety.md"
   ]
 }

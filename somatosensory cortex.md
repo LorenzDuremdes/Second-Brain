@@ -1,0 +1,1 @@
+1. all touch sensations are processed by the [[brain]]'s somatosensory [[cortex]]^[The Happy [[Brain]]: The Science of Where Happiness Comes from, and Why, p. 98]

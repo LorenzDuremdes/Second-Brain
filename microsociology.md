@@ -1,0 +1,2 @@
+# [[neuroscience]]
+1. increasing or decreasing activity in this specific circuit (in mice, admittedly) (nucleus accumbens + inferior frontal regions of the [[brain]]) caused a corresponding increase or decrease in social interaction behavior^[The Happy [[Brain]]: The Science of Where [[Happiness]] Comes from, and Why, p. 98]
