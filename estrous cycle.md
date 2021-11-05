@@ -1,0 +1,1 @@
+1. estrous cycle; the set of recurring physiological changes that are induced by reproductive hormones in most mammalian therian females.^[https://en.wikipedia.org/wiki/Estrous_cycle#cite_note-1]
