@@ -18,5 +18,9 @@
 	1. because there's a weak correlation between [[memory]] span (e.g. digits) and complex cognitive tasks e.g. text comprehension^[https://en.wikipedia.org/wiki/Memory_span#cite_note-34]
 		1. **related**: [[hardware and software]]
 
+# [[developmental neuroscience]]
+1. the capacity of working memory increases gradually over childhood
+	1. why? ◇e.g. more efficient sensory gating
+
 # related
 1. [[neocortex]]

@@ -1,0 +1,1 @@
+1. developmental [[neuroscience]]; describes the cellular and molecular mechanisms by which complex nervous systems emerge during embryonic development and throughout life^[https://en.wikipedia.org/wiki/Category:Developmental_neuroscience]

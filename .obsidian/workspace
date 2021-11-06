@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "c tactile afferents.md",
+                "file": "dual inheritance theory.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "c tactile afferents.md",
+                "file": "dual inheritance theory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "c tactile afferents.md",
+                "file": "dual inheritance theory.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dopami",
+                "query": "culture",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "c tactile afferents.md"
+                "file": "dual inheritance theory.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "c tactile afferents.md",
+                "file": "dual inheritance theory.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "c tactile afferents.md",
+                "file": "dual inheritance theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,17 +195,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "ad212d55c0d8b9b4",
+  "active": "0415bd1425af29db",
   "lastOpenFiles": [
+    "dual inheritance theory.md",
+    "Red Queen hypothesis.md",
+    "culture.md",
+    "developmental neuroscience.md",
+    "working memory.md",
+    "responsibility assumption.md",
+    "inside-out principle.md",
     "c tactile afferents.md",
     "somatosensory cortex.md",
-    "reward system.md",
-    "mesolimbic pathway.md",
-    "microsociology.md",
-    "macrosociology.md",
-    "monogamy.md",
-    "menstrual cycle.md",
-    "estrous cycle.md",
-    "emotional safety.md"
+    "reward system.md"
   ]
 }
