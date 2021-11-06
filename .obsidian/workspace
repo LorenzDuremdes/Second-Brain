@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dual inheritance theory.md",
+                "file": "social anxiety disorder.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dual inheritance theory.md",
+                "file": "social anxiety disorder.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dual inheritance theory.md",
+                "file": "social anxiety disorder.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "culture",
+                "query": "social anxiety",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dual inheritance theory.md"
+                "file": "social anxiety disorder.md"
               }
             }
           },
@@ -159,14 +159,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dual inheritance theory.md",
+                "file": "social anxiety disorder.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a834b3f3361a68cb",
@@ -178,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dual inheritance theory.md",
+                "file": "social anxiety disorder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,17 +194,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "0415bd1425af29db",
+  "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "social anxiety disorder.md",
+    "social grooming.md",
+    "language.md",
     "dual inheritance theory.md",
     "Red Queen hypothesis.md",
     "culture.md",
     "developmental neuroscience.md",
     "working memory.md",
     "responsibility assumption.md",
-    "inside-out principle.md",
-    "c tactile afferents.md",
-    "somatosensory cortex.md",
-    "reward system.md"
+    "inside-out principle.md"
   ]
 }
