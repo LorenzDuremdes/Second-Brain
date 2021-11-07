@@ -4,3 +4,6 @@
 # related
 1. [[liking gap]]
 2. [[microsociology]]
+
+# see also
+1. https://www.reddit.com/r/science/comments/qmnnki/a_new_study_published_in_journal_of_experimental/

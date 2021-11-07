@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "social anxiety disorder.md",
+                "file": "flash lag illusion.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "social anxiety disorder.md",
+                "file": "flash lag illusion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -50,7 +50,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.009503539304003375,
+                  "scale": 0.0078125,
                   "close": false
                 }
               }
@@ -70,8 +70,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "social anxiety disorder.md",
-                "mode": "preview"
+                "file": "flash lag illusion.md",
+                "mode": "source"
               }
             },
             "group": "70df3f248423c6ea"
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "social anxiety",
+                "query": "multi order",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "social anxiety disorder.md"
+                "file": "flash lag illusion.md"
               }
             }
           },
@@ -159,13 +159,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "social anxiety disorder.md",
+                "file": "flash lag illusion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a834b3f3361a68cb",
@@ -177,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "social anxiety disorder.md",
+                "file": "flash lag illusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,15 +197,15 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "flash lag illusion.md",
+    "second-order thinking.md",
+    "phi complex.md",
+    "ventromedial prefrontal cortex.md",
+    "behavioral economics.md",
+    "decoupling (cosmology).md",
+    "thought gap.md",
     "social anxiety disorder.md",
     "social grooming.md",
-    "language.md",
-    "dual inheritance theory.md",
-    "Red Queen hypothesis.md",
-    "culture.md",
-    "developmental neuroscience.md",
-    "working memory.md",
-    "responsibility assumption.md",
-    "inside-out principle.md"
+    "language.md"
   ]
 }
