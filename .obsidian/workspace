@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flash lag illusion.md",
+                "file": "super recogniser.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "flash lag illusion.md",
+                "file": "super recogniser.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -50,7 +50,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.0078125,
+                  "scale": 0.009344663557112873,
                   "close": false
                 }
               }
@@ -70,8 +70,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flash lag illusion.md",
-                "mode": "source"
+                "file": "super recogniser.md",
+                "mode": "preview"
               }
             },
             "group": "70df3f248423c6ea"
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "multi order",
+                "query": "fusi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flash lag illusion.md"
+                "file": "super recogniser.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flash lag illusion.md",
+                "file": "super recogniser.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flash lag illusion.md",
+                "file": "super recogniser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,15 +197,15 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "super recogniser.md",
+    "fusiform face area.md",
+    "fusiform.md",
+    "microsociology.md",
+    "empathy.md",
+    "tactical empathy.md",
+    "bid (sociology).md",
     "flash lag illusion.md",
     "second-order thinking.md",
-    "phi complex.md",
-    "ventromedial prefrontal cortex.md",
-    "behavioral economics.md",
-    "decoupling (cosmology).md",
-    "thought gap.md",
-    "social anxiety disorder.md",
-    "social grooming.md",
-    "language.md"
+    "phi complex.md"
   ]
 }

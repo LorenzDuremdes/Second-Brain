@@ -1,2 +1,2 @@
-1. fusiform muscle → MEV
+1. [[fusiform]] muscle → MEV
 	1. they don’t really put out a ton of force, so they might need a bit more of a stimulus to change, especially when the desired change is their growth^[How Much Should I Train by Dr. Mike Israetel and Dr. James Hoffmann, p. 35]
