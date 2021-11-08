@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "impression management.md",
+                "file": "normative social influence.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "impression management.md",
+                "file": "normative social influence.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "impression management.md",
+                "file": "normative social influence.md",
                 "mode": "preview"
               }
             },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "impression management.md"
+                "file": "normative social influence.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "impression management.md",
+                "file": "normative social influence.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "impression management.md",
+                "file": "normative social influence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +197,8 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "normative social influence.md",
+    "social group.md",
     "impression management.md",
     "persuasion.md",
     "super recogniser.md",
@@ -204,8 +206,6 @@
     "fusiform.md",
     "microsociology.md",
     "empathy.md",
-    "tactical empathy.md",
-    "bid (sociology).md",
-    "flash lag illusion.md"
+    "tactical empathy.md"
   ]
 }
