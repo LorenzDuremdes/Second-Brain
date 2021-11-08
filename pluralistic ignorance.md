@@ -4,7 +4,7 @@
 1. [[bystander effect]]
 
 # examples
-1. observers are less willing to help the married **woman in a public confrontation with a man** ↮ stranger^[Influence, New and Expanded: The Psychology of Persuasion, p. 10]
+1. observers are less willing to help the married **woman in a public confrontation with a man** ↮ stranger^[Influence, New and Expanded: The Psychology of [[persuasion]], p. 10]
 	1. because they thought it was a private matter in which their intervention would be unwanted and embarrassing to all concerned
 	2. what could be good for a woman to do when in a public confrontation with a stranger?
 		1. "I don't know you!"

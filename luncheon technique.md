@@ -1,1 +1,1 @@
-1. luncheon technique; people become [[liking (persuasion)|fonder]] of things they experience while eating e.g. person they are talking to^[Influence, New and Expanded: The Psychology of Persuasion, p. 9]
+1. luncheon technique; people become [[liking (persuasion)|fonder]] of things they experience while eating e.g. person they are talking to^[Influence, New and Expanded: The Psychology of [[persuasion]], p. 9]

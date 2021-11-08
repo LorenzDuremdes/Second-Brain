@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "super recogniser.md",
+                "file": "impression management.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "super recogniser.md",
+                "file": "impression management.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -50,7 +50,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.009344663557112873,
+                  "scale": 0.0078125,
                   "close": false
                 }
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "super recogniser.md",
+                "file": "impression management.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fusi",
+                "query": "persuasion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "super recogniser.md"
+                "file": "impression management.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "super recogniser.md",
+                "file": "impression management.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "super recogniser.md",
+                "file": "impression management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +197,8 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "impression management.md",
+    "persuasion.md",
     "super recogniser.md",
     "fusiform face area.md",
     "fusiform.md",
@@ -204,8 +206,6 @@
     "empathy.md",
     "tactical empathy.md",
     "bid (sociology).md",
-    "flash lag illusion.md",
-    "second-order thinking.md",
-    "phi complex.md"
+    "flash lag illusion.md"
   ]
 }
