@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "normative social influence.md",
+                "file": "co-regulation.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "normative social influence.md",
+                "file": "co-regulation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "normative social influence.md",
+                "file": "co-regulation.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "persuasion",
+                "query": "coregulation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "normative social influence.md"
+                "file": "co-regulation.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "normative social influence.md",
+                "file": "co-regulation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "normative social influence.md",
+                "file": "co-regulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,15 +197,15 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
-    "normative social influence.md",
+    "co-regulation.md",
     "social group.md",
+    "normative social influence.md",
     "impression management.md",
     "persuasion.md",
     "super recogniser.md",
     "fusiform face area.md",
     "fusiform.md",
     "microsociology.md",
-    "empathy.md",
-    "tactical empathy.md"
+    "empathy.md"
   ]
 }

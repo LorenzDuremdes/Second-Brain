@@ -2,4 +2,4 @@
 	1. ventromedial prefrontal cortex +
 	2. anterior cingulate cortex +
 	3. dorsal cingulate cortex
-		1. But these areas also show raised activity when we think about
+		1. but these areas also show raised activity when we think about
