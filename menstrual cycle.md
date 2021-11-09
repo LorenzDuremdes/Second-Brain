@@ -6,6 +6,10 @@
 	2. menstrual cycle → **reduced** sexual desire^[https://en.wikipedia.org/wiki/Menstruation#cite_note-49]
 		1. relatively lower interest directly prior to and during menstruation
 
+## luteal phase
+1. when do most [[women]] tend to have more "intrusive thoughts" (menstruation cycle)?^[https://www.psypost.org/2020/08/study-finds-a-link-between-increased-negative-thoughts-and-a-womans-time-of-the-month-57827]^[https://www.reddit.com/r/YouShouldKnow/comments/j1gi8n/comment/g6zzi6i/?utm_source=share&utm_medium=web2x&context=3]
+	1. after ovulation (luteal phase)
+
 # [[physiology]]
 1. menstrual cycle → basal **body temperature**
 	1. "basal body temperature" is lower during "follicular phase" and higher during "luteal phase"
