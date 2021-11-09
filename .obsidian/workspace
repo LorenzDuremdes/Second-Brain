@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "menstrual cycle.md",
+                "file": "sorites paradox.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "menstrual cycle.md",
+                "file": "sorites paradox.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -50,7 +50,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.0078125,
+                  "scale": 0.015991330090848986,
                   "close": false
                 }
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "menstrual cycle.md",
+                "file": "sorites paradox.md",
                 "mode": "preview"
               }
             },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "menstrual cycle.md"
+                "file": "sorites paradox.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "menstrual cycle.md",
+                "file": "sorites paradox.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "menstrual cycle.md",
+                "file": "sorites paradox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +197,7 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "sorites paradox.md",
     "menstrual cycle.md",
     "co-regulation.md",
     "social group.md",
@@ -205,7 +206,6 @@
     "persuasion.md",
     "super recogniser.md",
     "fusiform face area.md",
-    "fusiform.md",
-    "microsociology.md"
+    "fusiform.md"
   ]
 }
