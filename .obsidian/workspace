@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sorites paradox.md",
+                "file": "microsociology.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sorites paradox.md",
+                "file": "microsociology.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -50,7 +50,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.015991330090848986,
+                  "scale": 0.0078125,
                   "close": false
                 }
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sorites paradox.md",
+                "file": "microsociology.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ovulation",
+                "query": "microso",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sorites paradox.md"
+                "file": "microsociology.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sorites paradox.md",
+                "file": "microsociology.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sorites paradox.md",
+                "file": "microsociology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,8 +195,9 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "ad212d55c0d8b9b4",
+  "active": "0415bd1425af29db",
   "lastOpenFiles": [
+    "microsociology.md",
     "sorites paradox.md",
     "menstrual cycle.md",
     "co-regulation.md",
@@ -205,7 +206,6 @@
     "impression management.md",
     "persuasion.md",
     "super recogniser.md",
-    "fusiform face area.md",
-    "fusiform.md"
+    "fusiform face area.md"
   ]
 }
