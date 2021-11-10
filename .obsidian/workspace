@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "microsociology.md",
+                "file": "sex.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "microsociology.md",
+                "file": "sex.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "microsociology.md",
+                "file": "sex.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "microso",
+                "query": "romance",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "microsociology.md"
+                "file": "sex.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "microsociology.md",
+                "file": "sex.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "microsociology.md",
+                "file": "sex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,17 +195,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "0415bd1425af29db",
+  "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "sex.md",
+    "romance (love).md",
+    "Fisher's principle.md",
     "microsociology.md",
     "sorites paradox.md",
     "menstrual cycle.md",
     "co-regulation.md",
     "social group.md",
     "normative social influence.md",
-    "impression management.md",
-    "persuasion.md",
-    "super recogniser.md",
-    "fusiform face area.md"
+    "impression management.md"
   ]
 }

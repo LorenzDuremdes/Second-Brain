@@ -8,10 +8,14 @@
 	1. needing ↮ wanting each other (respectively)
 	2. dependence ↮ interdependence (respectively)
 
+### unstable
+1. Repeatedly choosing unsuitable partners may not be a sign of one’s misfortune. We’re more likely to be making the same mistakes on purpose — because, **secretly, we believe we’re *unworthy* of love**.^[https://www.youtube.com/watch?v=OfsTJnpRxeg]
+	1. e.g. mean people being closer to your own [[self]]-reflection (e.g. "'I am dismissive of myself and so is he' ↮ 'Why does he like me so much, what's so likeable about me?'"
+
 # [[psychology]]
 1. humour and [[honesty]] were ranked as the two most important attributes in a significant other.^[https://en.wikipedia.org/wiki/Humour#cite_note-23]
 	1. "[[honesty]]" is closely related to "[[trust]]"
 
-## self
+## [[self]]
 1. can't have a romantic relationship until emotionally independent (technology analogy)
 	1. that's somewhat like saying you can't use technology until you have shown you can do without (in the wild) for e.g. a month?
