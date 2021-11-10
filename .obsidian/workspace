@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sex.md",
+                "file": "narcissism.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sex.md",
+                "file": "narcissism.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sex.md",
+                "file": "narcissism.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "romance",
+                "query": "narcissism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sex.md"
+                "file": "narcissism.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sex.md",
+                "file": "narcissism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sex.md",
+                "file": "narcissism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,15 +197,15 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "narcissism.md",
+    "Untitled.md",
+    "hypothalamic–pituitary–gonadal axis.md",
+    "erogenous zone.md",
     "sex.md",
+    "secondary somatosensory cortex.md",
     "romance (love).md",
     "Fisher's principle.md",
     "microsociology.md",
-    "sorites paradox.md",
-    "menstrual cycle.md",
-    "co-regulation.md",
-    "social group.md",
-    "normative social influence.md",
-    "impression management.md"
+    "sorites paradox.md"
   ]
 }
