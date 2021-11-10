@@ -1,0 +1,2 @@
+1. extrastriate body area; a subpart of the extrastriate visual cortex involved in the [[visual perception]] of [[human]] body and body parts^[https://en.wikipedia.org/wiki/Extrastriate_body_area]
+	1. it is insensitive to faces and stimulus categories unrelated to the **[[human]]** body

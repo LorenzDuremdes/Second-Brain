@@ -1,0 +1,5 @@
+1. vaginismus; a condition in which involuntary muscle spasm interferes with vaginal intercourse or other penetration of the [[vagina]].^[https://en.wikipedia.org/wiki/Vaginismus#cite_note-Fer2016-2]
+	1. this often results in pain with attempts at [[sex]].^[https://en.wikipedia.org/wiki/Vaginismus#cite_note-Fer2016-2]
+
+# treatment
+1. Treatment may include behavior therapy such as graduated [[exposure therapy]] and gradual vaginal dilatation.^[https://en.wikipedia.org/wiki/Vaginismus#cite_note-Fer2016-2]^[https://en.wikipedia.org/wiki/Vaginismus#cite_note-Mer2013-3] **Surgery is not generally indicated**.^[https://en.wikipedia.org/wiki/Vaginismus#cite_note-NHS2018-5] Botulinum toxin (botox), a muscle spasm treatment, is being studied.^[https://en.wikipedia.org/wiki/Vaginismus#cite_note-Fer2016-2] Estimates of how common the condition is vary.^[https://en.wikipedia.org/wiki/Vaginismus#cite_note-Lah2010-9] One textbook estimates that 0.5% of [[women]] are affected.^[https://en.wikipedia.org/wiki/Vaginismus#cite_note-Fer2016-2] Outcomes are generally good with treatment.^[https://en.wikipedia.org/wiki/Vaginismus#cite_note-NHS2018-5]
