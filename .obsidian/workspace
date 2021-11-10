@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "narcissism.md",
+                "file": "negative consequentialism.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "narcissism.md",
+                "file": "negative consequentialism.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,8 +70,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "narcissism.md",
-                "mode": "preview"
+                "file": "negative consequentialism.md",
+                "mode": "source"
               }
             },
             "group": "70df3f248423c6ea"
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "narcissism.md"
+                "file": "negative consequentialism.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "narcissism.md",
+                "file": "negative consequentialism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "narcissism.md",
+                "file": "negative consequentialism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,17 +195,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "ad212d55c0d8b9b4",
+  "active": "4e4e54869accf445",
   "lastOpenFiles": [
+    "negative consequentialism.md",
+    "minimax.md",
+    "two-level utilitarianism.md",
+    "rule utilitarianism.md",
+    "consequentialism.md",
+    "act utilitarianism.md",
+    "utilitarianism.md",
     "narcissism.md",
-    "Untitled.md",
     "hypothalamic–pituitary–gonadal axis.md",
-    "erogenous zone.md",
-    "sex.md",
-    "secondary somatosensory cortex.md",
-    "romance (love).md",
-    "Fisher's principle.md",
-    "microsociology.md",
-    "sorites paradox.md"
+    "erogenous zone.md"
   ]
 }

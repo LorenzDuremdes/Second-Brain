@@ -1,0 +1,2 @@
+1. rule utilitarianism; says an action is right as it conforms to a rule that leads to the greatest good
+	1. e.g. **in contrast**, *act* utilitarians judge an act in terms of the consequences of that act alone (such as stopping at a red light), rather than judging whether it faithfully adhered to the rule of which it was an instance (such as, "always stop at red lights")
