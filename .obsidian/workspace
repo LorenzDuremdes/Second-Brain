@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vagina.md",
+                "file": "zone 2 (road cycling).md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "vagina.md",
+                "file": "zone 2 (road cycling).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vagina.md",
+                "file": "zone 2 (road cycling).md",
                 "mode": "preview"
               }
             },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vagina.md"
+                "file": "zone 2 (road cycling).md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vagina.md",
+                "file": "zone 2 (road cycling).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vagina.md",
+                "file": "zone 2 (road cycling).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +197,7 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "zone 2 (road cycling).md",
     "vagina.md",
     "vaginismus.md",
     "sex.md",
@@ -205,7 +206,6 @@
     "minimax.md",
     "two-level utilitarianism.md",
     "rule utilitarianism.md",
-    "consequentialism.md",
-    "act utilitarianism.md"
+    "consequentialism.md"
   ]
 }
