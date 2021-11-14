@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intimate relationship.md",
+                "file": "social proof.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "intimate relationship.md",
+                "file": "social proof.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intimate relationship.md",
+                "file": "social proof.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intimate",
+                "query": "social proof",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intimate relationship.md"
+                "file": "social proof.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intimate relationship.md",
+                "file": "social proof.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intimate relationship.md",
+                "file": "social proof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,15 +197,15 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "social proof.md",
+    "rubber banding.md",
     "intimate relationship.md",
+    "1111321122.md",
     "happiness.md",
     "pacing strategies.md",
     "zone 2 (road cycling).md",
     "vagina.md",
     "vaginismus.md",
-    "sex.md",
-    "extrastriate body area.md",
-    "negative consequentialism.md",
-    "minimax.md"
+    "sex.md"
   ]
 }

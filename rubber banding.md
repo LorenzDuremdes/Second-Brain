@@ -1,0 +1,1 @@
+1. rubber banding; an undesirable effect of latency in which a moving object appears to leap from one place to another without passing through the intervening space; also called "warping" or "teleporting"^[https://en.wikipedia.org/wiki/Rubber_banding]
