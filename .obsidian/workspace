@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "relationship",
+                "query": "intimate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -198,14 +198,14 @@
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
     "intimate relationship.md",
+    "happiness.md",
+    "pacing strategies.md",
     "zone 2 (road cycling).md",
     "vagina.md",
     "vaginismus.md",
     "sex.md",
     "extrastriate body area.md",
     "negative consequentialism.md",
-    "minimax.md",
-    "two-level utilitarianism.md",
-    "rule utilitarianism.md"
+    "minimax.md"
   ]
 }

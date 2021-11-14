@@ -45,6 +45,7 @@
 	>"X can make it easier to be happy."^[[The Happy [[Brain]]: The Science of Where Happiness Comes from, and Why, p. 59]]
 	1. removes splitting ([[psychology]]) + complex
 1. greater intelligence is more likely to make you happier^[The Happy [[Brain]]: The Science of Where Happiness Comes from, and Why, p. 65]
+	1. why? ◇e.g. more freedom of action
 2. competence → happiness^[The Happy [[Brain]]: The Science of Where Happiness Comes from, and Why, p. 72]
 	1. when we feel we're competent, we're more likely to be happy
 
@@ -78,7 +79,7 @@
 
 # [[sociology]]
 ## [[microsociology]]
-1. how could "the pursuit of happiness be **lonely**"?^[https://www.researchgate.net/publication/51631109_The_Pursuit_of_Happiness_Can_Be_Lonely]^[The Happy Brain: The Science of Where Happiness Comes from, and Why, p. 86]
+1. how could "the pursuit of happiness be **lonely**"?^[https://www.researchgate.net/publication/51631109_The_Pursuit_of_Happiness_Can_Be_Lonely]^[The Happy [[Brain]]: The Science of Where Happiness Comes from, and Why, p. 86]
 	1. striving for happiness usually requires striving for personal gains (in western contexts)
 	2. this might damage people's connections with others
 
