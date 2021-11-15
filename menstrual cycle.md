@@ -1,7 +1,7 @@
 # biopsychology
 1. menstrual cycle → **sexual desire** (female)
 	1. many females experience heightened sexual desire in the several days immediately before ovulation.^[https://en.wikipedia.org/wiki/Ovulation#cite_note-pmid15216427-24]
-		1. due to e.g. high levels of estrogen and androgens^[https://en.wikipedia.org/wiki/Menstruation#cite_note-49]
+		1. due to e.g. high levels of [[estrogen]] and androgens^[https://en.wikipedia.org/wiki/Menstruation#cite_note-49]
 		2. one study concluded that females subtly improve their **facial attractiveness** during ovulation.^[https://en.wikipedia.org/wiki/Ovulation#cite_note-25]
 	2. menstrual cycle → **reduced** sexual desire^[https://en.wikipedia.org/wiki/Menstruation#cite_note-49]
 		1. relatively lower interest directly prior to and during menstruation
@@ -14,7 +14,7 @@
 1. menstrual cycle → basal **body temperature**
 	1. "basal body temperature" is lower during "follicular phase" and higher during "luteal phase"
 		
-		Ovulation occurs about midway through the menstrual cycle, after the follicular phase, and is followed by the luteal phase. Note that ovulation is characterized by a sharp spike in levels of luteinizing hormone (LH) and follicle-stimulating hormone (FSH), resulting from the peak of estrogen levels during the follicular phase.^[By Isometrik - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=8703107]
+		Ovulation occurs about midway through the menstrual cycle, after the follicular phase, and is followed by the luteal phase. Note that ovulation is characterized by a sharp spike in levels of luteinizing hormone (LH) and follicle-stimulating hormone (FSH), resulting from the peak of [[estrogen]] levels during the follicular phase.^[By Isometrik - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=8703107]
 		
 		<img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/MenstrualCycle2_en.svg" width="400" />
 2. when does **ovulation** occur in humans?
@@ -34,7 +34,7 @@
 # [[neuroscience]]
 1. menstrual cycle → spatial reasoning ability^[https://en.wikipedia.org/wiki/Menstrual_cycle#cite_note-FOOTNOTEElse-QuestHyde2021258–61-75]
 	1. improvements in spatial reasoning ability during the menstruation phase of the cycle
-		1. probably caused by decreases in levels of estrogen and progesterone.
+		1. probably caused by decreases in levels of [[estrogen]] and progesterone.
 
 # related
 1. [[sexual selection in humans]]

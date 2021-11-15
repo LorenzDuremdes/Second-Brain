@@ -1,0 +1,1 @@
+1. redirect; aids navigation and searching by allowing a page to be reached under alternative titles^[https://en.wikipedia.org/wiki/Wikipedia:Redirect]
