@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "social proof.md",
+                "file": "nudge theory.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "social proof.md",
+                "file": "nudge theory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "social proof.md",
+                "file": "nudge theory.md",
                 "mode": "preview"
               }
             },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "social proof.md"
+                "file": "nudge theory.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "social proof.md",
+                "file": "nudge theory.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "social proof.md",
+                "file": "nudge theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +197,7 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "nudge theory.md",
     "social proof.md",
     "rubber banding.md",
     "intimate relationship.md",
@@ -205,7 +206,6 @@
     "pacing strategies.md",
     "zone 2 (road cycling).md",
     "vagina.md",
-    "vaginismus.md",
-    "sex.md"
+    "vaginismus.md"
   ]
 }
