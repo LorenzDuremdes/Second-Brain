@@ -3,11 +3,11 @@
 	<iframe src="https://www.instagram.com/p/CPy4hcVh_MN/" width="400" height="400" />
 	
 # physiology
-1. testosterone → MEV^[How Much Should I Train by Dr. Mike Israetel and Dr. James Hoffmann, p. 36]
+1. [[testosterone]] → MEV^[How Much Should I Train by Dr. Mike Israetel and Dr. James Hoffmann, p. 36]
 	1. the former decreases the latter
 	2. those taking enough steroids have an MEV of 0
 2. what could cause MEV to increase as one ages?^[How Much Should I Train by Dr. Mike Israetel and Dr. James Hoffmann, p. 36]
-	1. e.g. lower testosterone
+	1. e.g. lower [[testosterone]]
 
 ## [[skeletal muscle fiber types]]
 
