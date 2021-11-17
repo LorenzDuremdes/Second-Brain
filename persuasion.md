@@ -17,7 +17,7 @@
 	2. [[liking (persuasion)|liking]]
 	3. [[social proof]]
 		1. **related**: [[social currency]]
-	4. authority
+	4. [[authority]]
 	5. [[scarcity]]
 	6. commitment
 	7. unity

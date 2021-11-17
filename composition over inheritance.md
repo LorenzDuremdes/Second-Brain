@@ -1,0 +1,2 @@
+1. composition over [[inheritance (object-oriented programming)|inheritance]]; the principle that classes should achieve polymorphic behavior and code reuse by their composition (by containing instances of other classes that implement the desired functionality) rather than inheritance from a base or parent class.^[https://en.wikipedia.org/wiki/Composition_over_inheritance#cite_note-2]
+	1. to favor composition over inheritance is a design principle that gives the design higher flexibility

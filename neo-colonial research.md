@@ -1,0 +1,1 @@
+1. neo-colonial research; when researchers from wealthier countries go to a developing country, collect [[information]], travel back to their country, analyze the data and samples, and publish the results with no or little involvement of local researchers^[https://en.wikipedia.org/wiki/Neo-colonial_science]
