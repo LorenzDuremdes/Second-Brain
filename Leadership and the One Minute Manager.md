@@ -2,7 +2,12 @@
 ## eigenschappen
 1. >doel(en) opzetten^[Leadership and the One Minute Manager, p. 20]
 	1. > weten hoe de processen (bijvoorbeeld mensen) werken die bijdragen (of niet) *naar* die doel(en)
-		1. > weten hoe je die processen het beste kunt beïnvloeden (bijvoorbeeld je leiderschapsstijl aanpassen aan de ander)
+		1. > weten hoe je die processen optimaal kunt beïnvloeden (bijvoorbeeld je leiderschapsstijl aanpassen aan de ander)
+
+### analogie
+1. >doel=naar fysieke bestemming A reizen
+	1. >processen=auto(draagt bij aan het doel (+)) · veel mist(obstakel (-))
+		1. >[metaheuristiek](https://en.wikipedia.org/wiki/Metaheuristic)/leiderschapsstijl=voorzichtig rijden
 
 ## theory X, Y, and Z
 ### minder sturend ([theory Y](https://nl.wikipedia.org/wiki/Theorie_X_en_theorie_Y))
@@ -20,7 +25,6 @@
 # leadership styles
 ## extra
 1. [theory X, Y, en Z](https://nl.wikipedia.org/wiki/Theorie_X_en_theorie_Y) (leadership styles en invloed op anderen)
-	1. de "one-minute manager" is meestal meer gefocust op "theory Y" (meer vrijheid aan anderen geven en minder controlerend)
 
 ## [top-down vs. bottom-up design](https://nl.wikipedia.org/wiki/Top-downdesign_en_bottom-updesign) ([systeemtheorie](https://nl.wikipedia.org/wiki/Systeemtheorie))
 1. een top-down hiërarchie reflecteert meestal "[theory X](https://nl.wikipedia.org/wiki/Theorie_X_en_theorie_Y#Theorie_X)"^[Leadership and the One Minute Manager, p. 11]
