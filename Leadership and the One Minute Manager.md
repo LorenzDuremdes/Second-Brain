@@ -4,6 +4,8 @@
 	1. > weten hoe de processen (bijvoorbeeld mensen) werken die bijdragen (of niet) *naar* die doel(en)
 		1. > weten hoe je die processen optimaal kunt beïnvloeden (bijvoorbeeld je leiderschapsstijl aanpassen aan de ander)
 
+	<img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Practopoietic_cycle_of_causation.gif" width="600" />
+
 ### analogie
 1. >doel=naar fysieke bestemming A reizen
 	1. >processen=auto(draagt bij aan het doel (+)) · veel mist(obstakel (-))
