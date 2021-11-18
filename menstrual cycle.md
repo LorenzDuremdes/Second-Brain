@@ -17,6 +17,7 @@
 		Ovulation occurs about midway through the menstrual cycle, after the follicular phase, and is followed by the luteal phase. Note that ovulation is characterized by a sharp spike in levels of luteinizing hormone (LH) and follicle-stimulating hormone (FSH), resulting from the peak of [[estrogen]] levels during the follicular phase.^[By Isometrik - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=8703107]
 		
 		<img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/MenstrualCycle2_en.svg" width="400" />
+		1. why? ◇e.g. evolutionary sense (e.g. seeking heat (from others))?
 2. when does **ovulation** occur in humans?
 	1. ~midway through the menstrual cycle (day 14)^[https://en.wikipedia.org/wiki/Ovulation]
 3. when does "**menstruation**" occur?

@@ -3,7 +3,7 @@
 	1. those with a higher social status are less likely to reciprocate? e.g. due to less punishment e.g. some attractive girls
 	2. they also can become used to it e.g. streamers getting donations
 2. when a woman allows a man to buy her drinks, she is immediately judged (by both men and [[women]]) as more sexually available to him^[Influence, New and Expanded: The [[psychology]] of [[persuasion]], p. 8]
-	1. e.g. [[sex]]/attention as reciprocation
+	1. e.g. [[sexual intercourse]]/attention as reciprocation
 
 # [[psychology]]
 1. disliking → reciprocity^[Influence, New and Expanded: The [[Psychology]] of [[persuasion]], p. 8]

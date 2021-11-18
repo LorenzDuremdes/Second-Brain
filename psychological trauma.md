@@ -10,12 +10,12 @@
 		1. e.g. theater gave him a chance to deeply and physically experience what it was like to be someone other than the learning-disabled, oversensitive boy that he had gradually become
 
 ## [[psychotherapy]]
-1. which members of the group had benefited from psychological trauma therapy and which had continued to feel suicidal and self-destructive?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 171]
-	1. our TAQ interviews provided some answers. The patients who remained self-destructive had told us that they did not remember [[feeling]] safe with anybody as a child; they had reported being abandoned, shuttled from place to place, and generally left to their own devices
+1. which members of the group had benefited from psychological trauma therapy and which had continued to feel suicidal and [[self]]-destructive?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 171]
+	1. our TAQ interviews provided some answers. The patients who remained [[self]]-destructive had told us that they did not remember [[feeling]] safe with anybody as a child; they had reported being abandoned, shuttled from place to place, and generally left to their own devices
 
 		I concluded that, if you carry a [[memory]] of having felt safe with somebody long ago, the traces of that earlier affection can be reactivated in attuned relationships when you are an adult, whether these occur in daily life or in good therapy. However, if you lack a deep [[memory]] of [[feeling]] loved and safe, the receptors in the [[brain]] that respond to [[human]] kindness may simply fail to develop.
 		
-		This notion found further support in the work of the neuroscientist Jaak Panksepp, who found that young rats that were not licked by their moms during the first week of their lives did not develop opioid receptors in the anterior cingulate cortex, a part of the [[brain]] associated with affiliation and a sense of safety.^[See E. E. Nelson and J. Panksepp, “[[Brain]] Substrates of [[Infant]] Mother Attachment: Contributions of Opioids, Oxytocin, and [[Norepinephrine]],” [[Neuroscience]] & Biobehavioral Reviews 22, no. 3 (1998): 437–52. See also J. Panksepp, et al., “Endogenous Opioids and Social Behavior,” [[Neuroscience]] & Biobehavioral Reviews 4, no. 4 (1981): 473–87; and J. Panksepp, E. Nelson, and S. Siviy, “[[Brain]] Opioids and Mother-[[Infant]] Social [[Motivation]],” Acta paediatrica 83, no. 397 (1994): 40–46.]
+		This notion found further support in the work of the neuroscientist Jaak Panksepp, who found that young rats that were not licked by their moms during the first week of their lives did not develop opioid receptors in the anterior [[cingulate cortex]], a part of the [[brain]] associated with affiliation and a sense of safety.^[See E. E. Nelson and J. Panksepp, “[[Brain]] Substrates of [[Infant]] Mother Attachment: Contributions of Opioids, [[Oxytocin]], and [[Norepinephrine]],” [[Neuroscience]] & Biobehavioral Reviews 22, no. 3 (1998): 437–52. See also J. Panksepp, et al., “Endogenous Opioids and Social Behavior,” [[Neuroscience]] & Biobehavioral Reviews 4, no. 4 (1981): 473–87; and J. Panksepp, E. Nelson, and S. Siviy, “[[Brain]] Opioids and Mother-[[Infant]] Social [[Motivation]],” Acta paediatrica 83, no. 397 (1994): 40–46.]
 
 1. psychological trauma (chameleon analogy)^[Alok Kanojia, Wednesday 23/06/2021]
 	1. trauma tends to "disguise" itself as other mental illnesses (e.g. [[depression]], anxiety) fixing e.g. [[depression]] brings [[anxiety disorder]], which brings something else once 'cured'
@@ -56,9 +56,9 @@
 	2. you may realize that your fear of intimacy has something to do with your mother’s postpartum [[depression]] or with the fact that she herself was molested as a child, but that alone is unlikely to open you to happy, trusting engagement with others
 
 ## [[developmental psychology]]
-1. consistent ↮ erratic caregiving → self-regulation (kids)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 194]
+1. consistent ↮ erratic caregiving → [[self]]-regulation (kids)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 194]
 	1. the children who received consistent caregiving became well-regulated kids, while erratic caregiving produced kids who were chronically physiologically aroused (e.g. anxious)
-	2. e.g. autism can cause the kid to be more likely to see their (neurotypical) caregiving as erratic?
+	2. e.g. [[autism]] can cause the kid to be more likely to see their (neurotypical) caregiving as erratic?
 
 ## [[psychosomatic]]
 1. how can there be a mismatch between "[[brain]]" and "body" in people with psychological trauma?
@@ -101,13 +101,13 @@
 
 ### child
 1. psychological trauma → child · mirror^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 128]
-	1. some children with psychological trauma are unable to recognize themselves in the mirror at an appropriate age and also have an underdeveloped sense of self
+	1. some children with psychological trauma are unable to recognize themselves in the mirror at an appropriate age and also have an underdeveloped sense of [[self]]
 
 ### [[comorbidity]]
 1. many people with [[bipolar personality disorder|BPD]] also have psychological trauma^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 170]
 
 ## [[interpersonal relationship|interpersonal]]
-1. any sort of deep intimacy—a close embrace, sleeping with a mate, and [[sex]]—requires allowing oneself to experience immobilization without fear^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma]
+1. any sort of deep intimacy—a close embrace, sleeping with a mate, and [[sexual intercourse]]—requires allowing oneself to experience immobilization without fear^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma]
 
 ### treatment
 1. complexity · [[human]]-dog relationship → psychological trauma (treatment)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 99]
@@ -117,7 +117,7 @@
 ### [[microsociology]]
 1. how are adverse experiences interrelated?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 176]
 	1. People typically don’t grow up in a household where one brother is in prison but everything else is fine. They don’t live in families where their mother is regularly beaten but life is otherwise hunky-dory
-2. psychological trauma → eye contact^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 125]
+2. psychological trauma → [[eye contact]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 125]
 	1. to former usually finds it difficult to initiate/maintain the latter
 3. what does Bessel van der Kolk think about the following answers to the question "*who provides you with emotional and practical support?*"
 
@@ -125,22 +125,22 @@
 	1. surprising (why?)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 168]
 
 #### [[neurophysiology]]
-1. psychological trauma · eye contact ([[neurophysiology]])^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 126]
+1. psychological trauma · [[eye contact]] ([[neurophysiology]])^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 126]
 	1. no activation in the [[frontal lobe]]
 	2. activation in the [[periaqueductal gray]]
 
 #### [[human memory]]
 1. (familiar ↮ stranger) · abuse → [[memory]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 227]
-	1. women who were younger at the time of the incident and those who were molested by someone they knew were more likely to have forgotten their abuse
+	1. women who were younger at the [[time]] of the incident and those who were molested by someone they knew were more likely to have forgotten their abuse
 		1. why? e.g. not seeing it as abuse?
 
 ### [[shame]]
 1. how can traumas that carry more [[shame]] affect health more?^[The [[Happiness]] Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 157]
-	1. e.g. by not disclosing or keeping things secret due to feeling more shameful
+	1. e.g. by not disclosing or keeping things secret due to [[feeling]] more shameful
 
 ### [[culture]]
-1. culture → psychological trauma^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 222–223]
-	1. culture shapes the expression of traumatic [[stress]] e.g. while the World War I soldiers flail, have facial tics, and collapse with paralyzed bodies, the following generation talks and cringe
+1. [[culture]] → psychological trauma^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 222–223]
+	1. [[culture]] shapes the expression of traumatic [[stress]] e.g. while the World War I soldiers flail, have facial tics, and collapse with paralyzed bodies, the following generation talks and cringe
 
 ## [[trauma trigger]]
 1. how could "[[thematic apperception test]]" indicate that people with psychological trauma see triggers everywhere?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 133]
@@ -196,7 +196,7 @@
 ## treatment
 1. **first step** to psychological trauma recovery (physiological)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 84]
 	1. sensing and identifying to later gain more control/redirect those bodily sensations
-2. “the pleasure of completed action” (psychological trauma)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 255]
+2. “the [[pleasure]] of completed action” (psychological trauma)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 255]
 	1. when patients can physically experience what it would have felt like to fight back or run away, they relax, smile, and express a sense of completion
 
 # [[neuroscience]]
@@ -261,7 +261,7 @@
 	2. ◇[[amygdala]] storing memories longer than cortex
 2. it is enormously difficult to organize one’s traumatic experiences into a coherent account—a narrative with a beginning, a middle, and an end^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 58]
 3. age · abuse → [[memory]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 227]
-	1. women who were younger at the time of the incident and those who were molested by someone they knew were more likely to have forgotten their abuse
+	1. women who were younger at the [[time]] of the incident and those who were molested by someone they knew were more likely to have forgotten their abuse
 
 ### [[thalamus]]
 1. why is a traumatic [[memory]] "fragmented" at its creation ([[neurophysiology]])?
@@ -297,6 +297,11 @@
 	1. [[brain]] activation remains for a much longer [[time]] after the original experience of the trauma. We were witnessing a [[brain]] region rekindled as if the trauma were actually occurring.
 
 # [[psychiatry]]
+1. psychological trauma vs. anxiety
+	1. ◇[[Zeigarnik effect]]
+		1. the [[brain]] thinking something is still going on vs. not necessarily (respectively) (might be on a continuum as well with weighted averages)
+	2. being traumatized means continuing to organize your life as if the trauma were still going on^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 66] (probably less the case with "anxiety")
+
 ## treatment
 1. how do doctors shape how their patients communicate their distress?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 223]
 	1. whatever the patient thinks draws attention to himself e.g. when a patient complains about terrifying nightmares and his doctor orders a chest X-ray, the patient realizes that he’ll get better care if he focuses on his physical problem

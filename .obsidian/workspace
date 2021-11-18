@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "polymorphism (computer science).md",
+                "file": "Leadership and the One Minute Manager.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "polymorphism (computer science).md",
+                "file": "Leadership and the One Minute Manager.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -50,7 +50,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.011367344306906918,
+                  "scale": 0.009344663557112838,
                   "close": false
                 }
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "polymorphism (computer science).md",
+                "file": "Leadership and the One Minute Manager.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reciprocity",
+                "query": "psychological trauma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "polymorphism (computer science).md"
+                "file": "Leadership and the One Minute Manager.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "polymorphism (computer science).md",
+                "file": "Leadership and the One Minute Manager.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "polymorphism (computer science).md",
+                "file": "Leadership and the One Minute Manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,15 +197,15 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
-    "polymorphism (computer science).md",
-    "composition over inheritance.md",
-    "associative learning.md",
-    "conditioning.md",
-    "stimulus control.md",
-    "reciprocity (social psychology).md",
-    "authority.md",
-    "persuasion.md",
-    "neo-colonial research.md",
-    "testosterone.md"
+    "Leadership and the One Minute Manager.md",
+    "psychological trauma.md",
+    "acute stress response.md",
+    "sex.md",
+    "vaginismus.md",
+    "sexual intercourse.md",
+    "desire path (technology).md",
+    "generativity (technology).md",
+    "amplitude of motion.md",
+    "stimulus-to-fatigue ratio.md"
   ]
 }

@@ -1,1 +1,1 @@
-*redirect: [[sex]]*
+*redirect: [[sexual intercourse]]*
