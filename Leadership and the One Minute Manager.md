@@ -1,5 +1,10 @@
-# one-minute manager
-##  situationeel leiderschap
+#  situationeel leiderschap
+## eigenschappen
+1. >doel(en) opzetten^[Leadership and the One Minute Manager, p. 20]
+	1. > weten hoe de processen (bijvoorbeeld mensen) werken die bijdragen (of niet) *naar* die doel(en)
+		1. > weten hoe je die processen het beste kunt beïnvloeden (bijvoorbeeld je leiderschapsstijl aanpassen aan de ander)
+
+## theory X, Y, and Z
 ### minder sturend ([theory Y](https://nl.wikipedia.org/wiki/Theorie_X_en_theorie_Y))
 1. probeert anderen **zelf**-regulerend te maken (en daardoor o.a. tijd en energie vrij te maken)^[Leadership and the One Minute Manager, p. 16]
 	1. dit doet ie door o.a. veel vragen te stellen en suggesties te geven (i.p.v. commando's)
@@ -17,12 +22,12 @@
 1. [theory X, Y, en Z](https://nl.wikipedia.org/wiki/Theorie_X_en_theorie_Y) (leadership styles en invloed op anderen)
 	1. de "one-minute manager" is meestal meer gefocust op "theory Y" (meer vrijheid aan anderen geven en minder controlerend)
 
-## top-down vs. bottom-up hiërarchie
+## [top-down vs. bottom-up design](https://nl.wikipedia.org/wiki/Top-downdesign_en_bottom-updesign) ([systeemtheorie](https://nl.wikipedia.org/wiki/Systeemtheorie))
 1. een top-down hiërarchie reflecteert meestal "[theory X](https://nl.wikipedia.org/wiki/Theorie_X_en_theorie_Y#Theorie_X)"^[Leadership and the One Minute Manager, p. 11]
-	1. dit reflecteert meestal de lagere lagen van "Maslow's dynamic hierarchy of needs"
+	1. dit reflecteert meestal de lagere lagen van "Maslow's dynamic hierarchy of needs" (en theorie Y de hogere lagen)
 
 		<img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Expanded_Maslow%27s_Needs.webp" width="500" />
-	2. **extra**: [zelfbeschikkingstheorie](https://nl.wikipedia.org/wiki/Zelfbeschikkingstheorie) (wat kan mensen gemotiveerd maken?)
+	2. **extra**: [zelfbeschikkingstheorie](https://nl.wikipedia.org/wiki/Zelfbeschikkingstheorie) (wat kan mensen gemotiveerder maken?)
 
 		<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Zelfdeterminatietheorie.png" width="300" />
 
