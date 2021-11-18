@@ -7,7 +7,10 @@
 ### analogie
 1. >doel=naar fysieke bestemming A reizen
 	1. >processen=auto(draagt bij aan het doel (+)) · veel mist(obstakel (-))
-		1. >[metaheuristiek](https://en.wikipedia.org/wiki/Metaheuristic)/leiderschapsstijl=voorzichtig rijden
+		1. >[metaheuristiek](https://en.wikipedia.org/wiki/Metaheuristic)/leiderschapsstijl=bijvoorbeeld voorzichtig rijden met lichten aan
+
+## [metaheuristiek](https://en.wikipedia.org/wiki/Metaheuristic)/leiderschapsstijl
+1. velen stellen doelen en evalueren aan het eind, maar vergeten (of doen het niet vaak/gedetailleerd genoeg) het proces ertussenin (bijvoorbeeld bijsturingen)^[Leadership and the One Minute Manager, p. 23]
 
 ## theory X, Y, and Z
 ### minder sturend ([theory Y](https://nl.wikipedia.org/wiki/Theorie_X_en_theorie_Y))
