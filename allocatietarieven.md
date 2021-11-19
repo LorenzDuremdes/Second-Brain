@@ -1,0 +1,2 @@
+1. allocatietarieven; rente over geld lenen dat van te voren gealloceerd is^[https://www.reddit.com/r/DutchFIRE/comments/qxaqxl/comment/hl8d8yg/?utm_source=share&utm_medium=web2x&context=3]
+	1. Je kunt geld lenen op twee manieren. Rood staan of een rond bedrag voor langere tijd tegen een gunstigere rente. Dat laatste is allocatie.

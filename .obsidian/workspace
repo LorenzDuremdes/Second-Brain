@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leadership and the One Minute Manager.md",
+                "file": "allocatietarieven.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Leadership and the One Minute Manager.md",
+                "file": "allocatietarieven.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leadership and the One Minute Manager.md",
+                "file": "allocatietarieven.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "psychological trauma",
+                "query": "counterco",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leadership and the One Minute Manager.md"
+                "file": "allocatietarieven.md"
               }
             }
           },
@@ -159,13 +159,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leadership and the One Minute Manager.md",
+                "file": "allocatietarieven.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a834b3f3361a68cb",
@@ -177,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leadership and the One Minute Manager.md",
+                "file": "allocatietarieven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,6 +197,8 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "allocatietarieven.md",
+    "counterconditioning.md",
     "Leadership and the One Minute Manager.md",
     "psychological trauma.md",
     "acute stress response.md",
@@ -203,8 +206,6 @@
     "vaginismus.md",
     "sexual intercourse.md",
     "desire path (technology).md",
-    "generativity (technology).md",
-    "amplitude of motion.md",
-    "stimulus-to-fatigue ratio.md"
+    "generativity (technology).md"
   ]
 }
