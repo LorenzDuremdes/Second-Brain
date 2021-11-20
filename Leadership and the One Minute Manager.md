@@ -1,4 +1,4 @@
-#  situationeel leiderschap
+# situationeel leiderschap
 ## eigenschappen
 1. >doel(en) opzetten^[Leadership and the One Minute Manager, p. 20]
 	1. > weten hoe de processen (bijvoorbeeld mensen) werken die bijdragen (of niet) *naar* die doel(en)
@@ -9,7 +9,7 @@
 ### analogie
 1. >doel=naar fysieke bestemming A reizen
 	1. >processen=auto(draagt bij aan het doel (+)) · veel mist(obstakel (-))
-		1. >[metaheuristiek](https://en.wikipedia.org/wiki/Metaheuristic)/leiderschapsstijl=bijvoorbeeld voorzichtig rijden met lichten aan
+		1. >[metaheuristiek](https://en.wikipedia.org/wiki/Metaheuristic)/leiderschapsstijl=bijvoorbeeld met lichten aan en op sommige stukken voorzichtiger rijden
 
 ## [metaheuristiek](https://en.wikipedia.org/wiki/Metaheuristic)/leiderschapsstijl
 1. velen stellen doelen en evalueren aan het eind, maar vergeten (of doen het niet vaak/gedetailleerd genoeg) het proces ertussenin (bijvoorbeeld bijsturingen)^[Leadership and the One Minute Manager, p. 23]
@@ -27,6 +27,10 @@
 2. is meer sturend bij andermans zwakkere punten (meer compensaties voor nodig)^[Leadership and the One Minute Manager, p. 19]
 	1. en waarschijnlijk ook minder bij andermans sterkere eigenschappen
 
+# menselijk kapitaal
+1. hoe competenter iemand is, hoe meer verantwoordelijkheid diegene krijgt in bijvoorbeeld het opstellen van doelen en hoe ze optimaal bereikt kunnen worden^[Leadership and the One Minute Manager, p. 26]
+	1. responsibility → response-ability → the ability to respond
+
 # leadership styles
 ## extra
 1. [theory X, Y, en Z](https://nl.wikipedia.org/wiki/Theorie_X_en_theorie_Y) (leadership styles en invloed op anderen)
@@ -41,6 +45,6 @@
 		<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Zelfdeterminatietheorie.png" width="300" />
 
 ## prioritizatie
-1. tijd vrij maken (e.g. via delegatie naar anderen) om dan de vrijgemaakte tijd ergens anders aan te besteden
+1. tijd en energie vrij maken (e.g. via delegatie naar anderen) om dan de vrijgemaakte tijd en energie ergens anders aan te besteden (minimalizeren van [alternatieve kosten](https://nl.wikipedia.org/wiki/Alternatieve_kosten))
 
 	<img src="https://www.artra.nl/wp-content/uploads/2020/10/coveys-time-management-matrix.jpg" width="500" />
