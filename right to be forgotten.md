@@ -1,0 +1,1 @@
+1. right to be forgotten; the right to have private [[information]] about a person be removed from Internet searches and other directories under some circumstances^[https://en.wikipedia.org/wiki/Right_to_be_forgotten]
