@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "randonneuring.md",
+                "file": "bulking.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "randonneuring.md",
+                "file": "bulking.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "randonneuring.md",
+                "file": "bulking.md",
                 "mode": "preview"
               }
             },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "randonneuring.md"
+                "file": "bulking.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "randonneuring.md",
+                "file": "bulking.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "randonneuring.md",
+                "file": "bulking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +197,8 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "bulking.md",
+    "minicut.md",
     "randonneuring.md",
     "right to be forgotten.md",
     "Leadership and the One Minute Manager.md",
@@ -204,8 +206,6 @@
     "SMART criteria.md",
     "eye movement desensitization and reprocessing.md",
     "allocatietarieven.md",
-    "counterconditioning.md",
-    "psychological trauma.md",
-    "acute stress response.md"
+    "counterconditioning.md"
   ]
 }
