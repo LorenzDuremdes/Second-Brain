@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bulking.md",
+                "file": "marketing mix.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "bulking.md",
+                "file": "marketing mix.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bulking.md",
+                "file": "marketing mix.md",
                 "mode": "preview"
               }
             },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bulking.md"
+                "file": "marketing mix.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bulking.md",
+                "file": "marketing mix.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bulking.md",
+                "file": "marketing mix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,15 +197,15 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
-    "bulking.md",
+    "marketing mix.md",
     "minicut.md",
+    "bulking.md",
     "randonneuring.md",
     "right to be forgotten.md",
     "Leadership and the One Minute Manager.md",
     "human capital.md",
     "SMART criteria.md",
     "eye movement desensitization and reprocessing.md",
-    "allocatietarieven.md",
-    "counterconditioning.md"
+    "allocatietarieven.md"
   ]
 }
