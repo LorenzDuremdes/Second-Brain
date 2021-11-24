@@ -32,8 +32,7 @@
 	1. responsibility → response-ability → the ability to respond
 
 # leadership styles
-**Image:** Leadership and the One Minute Manager, p. 55
-![[Situational Leadership II Model.png]]
+<img src="https://guntergroup.com/wp-content/uploads/2019/10/Situational-Leadership-1-1.png" width="700" />
 
 1. **STYLE 1—DIRECTING** *High Directive Behavior and Low Supportive Behavior* 
 	The leader provides specific direction about goals, shows and tells how, and closely monitors the individual’s performance in order to provide frequent feedback on results.
