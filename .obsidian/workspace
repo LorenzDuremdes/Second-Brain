@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "marketing mix.md",
+                "file": "Leadership and the One Minute Manager.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "marketing mix.md",
+                "file": "Leadership and the One Minute Manager.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "marketing mix.md",
+                "file": "Leadership and the One Minute Manager.md",
                 "mode": "preview"
               }
             },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "marketing mix.md"
+                "file": "Leadership and the One Minute Manager.md"
               }
             }
           },
@@ -159,14 +159,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "marketing mix.md",
+                "file": "Leadership and the One Minute Manager.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a834b3f3361a68cb",
@@ -178,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "marketing mix.md",
+                "file": "Leadership and the One Minute Manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,15 +196,15 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "Leadership and the One Minute Manager.md",
+    "Situational Leadership II Model.png",
     "marketing mix.md",
     "minicut.md",
     "bulking.md",
     "randonneuring.md",
     "right to be forgotten.md",
-    "Leadership and the One Minute Manager.md",
     "human capital.md",
     "SMART criteria.md",
-    "eye movement desensitization and reprocessing.md",
-    "allocatietarieven.md"
+    "eye movement desensitization and reprocessing.md"
   ]
 }

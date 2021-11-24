@@ -32,6 +32,25 @@
 	1. responsibility → response-ability → the ability to respond
 
 # leadership styles
+**Image:** Leadership and the One Minute Manager, p. 55
+![[Situational Leadership II Model.png]]
+
+1. **STYLE 1—DIRECTING** *High Directive Behavior and Low Supportive Behavior* 
+	The leader provides specific direction about goals, shows and tells how, and closely monitors the individual’s performance in order to provide frequent feedback on results.
+1. **STYLE 2—COACHING** *High Directive Behavior and High Supportive Behavior* 
+	The leader continues to direct goal or task accomplishment but also explains why, solicits suggestions, and begins to encourage involvement in decision making.
+1. **STYLE 3—SUPPORTING** *Low Directive Behavior and High Supportive Behavior* 
+	The leader and the individual make decisions together. The role of the leader is to facilitate, listen, draw out, encourage, and support.
+1. **STYLE 4—DELEGATING** *Low Directive Behavior and Low Supportive Behavior* 
+	The individual makes most of the decisions about what, how, and when. The role of the leader is to value the individual’s contributions and support his or her growth.
+
+	**source**: Leadership and the One Minute Manager, p. 37
+1. >hoe hoger de competentie, hoe effectiever dichterbij style 4 is
+	1. mensen naar D4 brengen via [associative learning](https://en.wikipedia.org/wiki/Learning#Associative_learning) door bijvoorbeeld goed processen te belonen
+		1. degene met de meeste competentie heeft ook de meeste verantwoordelijkheid en als er **fouten** worden gemaakt, neemt diegene de verantwoordelijkheid tot zich i.p.v. anderen te bestraffen^[Leadership and the One Minute Manager, p. 60]
+
+			_"Waarom de leraar niet bestraffen als de leerling zich misdraagt?" —Diogenes of Sinope_
+
 ## extra
 1. [theory X, Y, en Z](https://nl.wikipedia.org/wiki/Theorie_X_en_theorie_Y) (leadership styles en invloed op anderen)
 
