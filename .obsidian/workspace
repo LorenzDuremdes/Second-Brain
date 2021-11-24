@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leadership and the One Minute Manager.md",
+                "file": "time trial bike.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Leadership and the One Minute Manager.md",
+                "file": "time trial bike.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leadership and the One Minute Manager.md",
+                "file": "time trial bike.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "emdr",
+                "query": "time trial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leadership and the One Minute Manager.md"
+                "file": "time trial bike.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leadership and the One Minute Manager.md",
+                "file": "time trial bike.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leadership and the One Minute Manager.md",
+                "file": "time trial bike.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,6 +196,8 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "time trial bike.md",
+    "time trial.md",
     "Leadership and the One Minute Manager.md",
     "marketing mix.md",
     "Situational Leadership II Model.png",
@@ -203,8 +205,6 @@
     "bulking.md",
     "randonneuring.md",
     "right to be forgotten.md",
-    "human capital.md",
-    "SMART criteria.md",
-    "eye movement desensitization and reprocessing.md"
+    "human capital.md"
   ]
 }
