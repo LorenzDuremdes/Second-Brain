@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "time trial.md",
+                "file": "empirical influence function.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "time trial.md",
+                "file": "empirical influence function.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "time trial.md",
+                "file": "empirical influence function.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "time trial",
+                "query": "empirical",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "time trial.md"
+                "file": "empirical influence function.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "time trial.md",
+                "file": "empirical influence function.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "time trial.md",
+                "file": "empirical influence function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +197,8 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "empirical influence function.md",
+    "mediation (statistics).md",
     "time trial.md",
     "time trial bike.md",
     "Leadership and the One Minute Manager.md",
@@ -204,8 +206,6 @@
     "Situational Leadership II Model.png",
     "minicut.md",
     "bulking.md",
-    "randonneuring.md",
-    "right to be forgotten.md",
-    "human capital.md"
+    "randonneuring.md"
   ]
 }
