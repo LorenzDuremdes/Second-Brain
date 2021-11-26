@@ -8,11 +8,16 @@
 5. cyclists who were provided no knowledge that they would be riding a 4-kilometer [[time trial]] and were given no feedback throughout improved their times exponentially with each performance, such that their performance was identical to the full-feedback group by the fourth [[time trial]]
 	1. The rapid learning of a performance appears to occur even with longer [[time]] trials, in which day-to-day [[motivation]] and variability may be greater. A rapid plateau in performance occurred in 30K (Abbiss et al. 2008) and 40K [[time]] trials (Laursen et al. 2003) following a familiarization trial.^[Cutting-Edge Cycling, p. 185]
 6. Stable performance of a learned strategy is also difficult to disrupt e.g. when subjects were enticed with financial rewards for a faster performance (Hulleman et al. 2007).^[Cutting-Edge Cycling, p. 185]
-## J-curve pacing profile
+
+# resistance
+1. what type of resistance do you usually want to dominate? + why ([[road cycling]])
+	1. air resistance, because you can do something about it (e.g. aero positions)
+
+# J-curve pacing profile
 1. J-curve pacing profile; we start out a bit harder than our sustainable workload and then drop below that workload for most of the event because of accumulated fatigue from the early effort (and likely from lack of focus and other psychological obstacles). Then we realize that the finish [[line]] is close and we still have a lot to give, so we try to make up for lost [[time]] by pushing hard during the final quarter or so of the event.
 2. about five minutes normally passes before perceived exertion catches up to actual exertion, and by then it’s too late; having maintained too high a level for that [[time]], you have little choice but to reduce your intensity and underperform.^[Cutting-Edge Cycling, p. 174]
 
-## double peak pacing strategy
+# double peak pacing strategy
 1. double peak pacing strategy; a little above sustainable → sustainable → above sustainable (e.g. end sprint)
 2. **double-peak pacing profile for a track pursuit**^[Cutting-Edge Cycling, p. 176]
 	1. ![[double-peak pacing profile for a track pursuit.jpg]]
@@ -32,10 +37,10 @@
 **goal** → being most efficient/highest average [[speed]]
 1. try to cycle in open terrain when having tailwind and closed terrain when having headwind
 	1. if unable to change terrains (e.g. same road(s)), try to cycle with the wind "neutral" (from the side)
-2. try to cycle uphill with a headwind (and reduce exponential air resistance)
+2. try to cycle uphill with a headwind (and reduce quadratic air resistance)
 	1. avoid downhill and headwind (same reason)
 3. try to account for dynamic/variable wind [[speed]] (e.g. when going in the same direction back and forth, try to have a higher tailwind [[speed]])
-4. try to not cycle directly/straight into a headwind (exponential air resistance)
+4. try to not cycle directly/straight into a headwind (quadratic air resistance)
 5. try to be in a terrain where you can use aerobars/Graeme Obree's superman as long as possible
 
 # climbing strategies
