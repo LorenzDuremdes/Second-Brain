@@ -8,3 +8,11 @@
 3. can effective recovery rides feel challenging? + why^[https://www.trainerroad.com/blog/recovery-for-cyclists-why-its-important-and-how-to-improve-it/]
 	1. yes due to being in a fatigued state
 		1. "Though they can feel challenging when you’re in a fatigued state, these workouts aren’t strenuous and should promote recovery."
+
+# nutrition
+1. is "nutrient timing · composition" important for "active recovery"? + why^[https://youtu.be/tz7vvvnzU4w?t=420, TrainerRoad with Chad Timmerman]
+	1. can be, because e.g. insulin sensitivity increases (and e.g. allows for quicker [[glycogen]] replenishment)
+
+# possible mistakes
+1. should you skip "active recovery" if noticing that it impaired your recovery/next workout(s)? + what^[https://www.youtube.com/watch?v=tz7vvvnzU4w (13:00), TrainerRoad with Chad Timmerman]
+	1. no, then you might simply have to decrease intensity (or you went harder than planned/recommended)

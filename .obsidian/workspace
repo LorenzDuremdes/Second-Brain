@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cutting (diet).md",
+                "file": "active recovery.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cutting (diet).md",
+                "file": "active recovery.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cutting (diet).md",
+                "file": "active recovery.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cutting",
+                "query": "active",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cutting (diet).md"
+                "file": "active recovery.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cutting (diet).md",
+                "file": "active recovery.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cutting (diet).md",
+                "file": "active recovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,8 +195,9 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "ad212d55c0d8b9b4",
+  "active": "4e4e54869accf445",
   "lastOpenFiles": [
+    "active recovery.md",
     "cutting (diet).md",
     "minicut.md",
     "bulking.md",
@@ -205,7 +206,6 @@
     "3 lagen systeem (wielrennen).md",
     "empirical influence function.md",
     "mediation (statistics).md",
-    "time trial bike.md",
-    "Leadership and the One Minute Manager.md"
+    "time trial bike.md"
   ]
 }
