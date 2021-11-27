@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "active recovery.md",
+                "file": "road cycling (equipment).md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "active recovery.md",
+                "file": "road cycling (equipment).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "active recovery.md",
+                "file": "road cycling (equipment).md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "active",
+                "query": "road cycling",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "active recovery.md"
+                "file": "road cycling (equipment).md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "active recovery.md",
+                "file": "road cycling (equipment).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "active recovery.md",
+                "file": "road cycling (equipment).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,8 +195,10 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "4e4e54869accf445",
+  "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "road cycling (equipment).md",
+    "road cycling.md",
     "active recovery.md",
     "cutting (diet).md",
     "minicut.md",
@@ -204,8 +206,6 @@
     "pacing strategies.md",
     "time trial.md",
     "3 lagen systeem (wielrennen).md",
-    "empirical influence function.md",
-    "mediation (statistics).md",
-    "time trial bike.md"
+    "empirical influence function.md"
   ]
 }
