@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pacing strategies.md",
+                "file": "cutting (diet).md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pacing strategies.md",
+                "file": "cutting (diet).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pacing strategies.md",
+                "file": "cutting (diet).md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "time trial",
+                "query": "cutting",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pacing strategies.md"
+                "file": "cutting (diet).md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pacing strategies.md",
+                "file": "cutting (diet).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pacing strategies.md",
+                "file": "cutting (diet).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,15 +197,15 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "cutting (diet).md",
+    "minicut.md",
+    "bulking.md",
     "pacing strategies.md",
     "time trial.md",
     "3 lagen systeem (wielrennen).md",
     "empirical influence function.md",
     "mediation (statistics).md",
     "time trial bike.md",
-    "Leadership and the One Minute Manager.md",
-    "marketing mix.md",
-    "Situational Leadership II Model.png",
-    "minicut.md"
+    "Leadership and the One Minute Manager.md"
   ]
 }

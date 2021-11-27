@@ -1,4 +1,4 @@
-1. minicut (duration); ≤6 weeks
+1. [[cutting (diet)|minicut]] (duration); ≤6 weeks
 	1. Why the 6 week definition? Because the amount of weight and fat you usually lose in 6 weeks or less isn't huge^[https://renaissanceperiodization.com/minicuts-dr-mike-israetel/]
 		1. with a usual **minimum** of 2 weeks (even when enhanced)
 	3. ratio=2:1 or 3:1
