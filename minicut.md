@@ -4,3 +4,6 @@
 	3. ratio=2:1 or 3:1
 		1. so if you mass for 6 weeks, you might cut for 3 weeks or 2 weeks depending on your current body fat levels, shooting to make room for the next mass such at it ends below 15% fat in most cases
 3. minicut (purpose); resensitize [[muscle tissue]]'s sensitivity to nutrients^[https://renaissanceperiodization.com/minicuts-dr-mike-israetel/]
+	1. can you do "minicuts" forever to resensitize?^[https://youtu.be/1FDGwP0v-rE?t=2040, Dr. Mike Israetel]
+		1. no, only about 2–3 in any mass phase
+			1. you need to do a cut afterward (≥6 weeks)

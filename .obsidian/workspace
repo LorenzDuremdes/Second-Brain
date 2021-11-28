@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quantified self.md",
+                "file": "maintenance volume (sports science).md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "quantified self.md",
+                "file": "maintenance volume (sports science).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quantified self.md",
+                "file": "maintenance volume (sports science).md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "road cycling",
+                "query": "maintenance",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "quantified self.md"
+                "file": "maintenance volume (sports science).md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "quantified self.md",
+                "file": "maintenance volume (sports science).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "quantified self.md",
+                "file": "maintenance volume (sports science).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,15 +197,15 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
-    "quantified self.md",
-    "road cycling (equipment).md",
-    "road cycling.md",
-    "active recovery.md",
+    "maintenance volume (sports science).md",
+    "fietsbeveiliging.md",
+    "post-exercise recovery.md",
     "cutting (diet).md",
     "minicut.md",
     "bulking.md",
-    "pacing strategies.md",
-    "time trial.md",
-    "3 lagen systeem (wielrennen).md"
+    "active recovery.md",
+    "quantified self.md",
+    "road cycling (equipment).md",
+    "road cycling.md"
   ]
 }
