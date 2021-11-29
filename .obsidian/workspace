@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "maintenance volume (sports science).md",
+                "file": "maximum recoverable volume.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "maintenance volume (sports science).md",
+                "file": "maximum recoverable volume.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "maintenance volume (sports science).md",
+                "file": "maximum recoverable volume.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "maintenance",
+                "query": "mrv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "maintenance volume (sports science).md"
+                "file": "maximum recoverable volume.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "maintenance volume (sports science).md",
+                "file": "maximum recoverable volume.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "maintenance volume (sports science).md",
+                "file": "maximum recoverable volume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +197,7 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "maximum recoverable volume.md",
     "maintenance volume (sports science).md",
     "fietsbeveiliging.md",
     "post-exercise recovery.md",
@@ -205,7 +206,6 @@
     "bulking.md",
     "active recovery.md",
     "quantified self.md",
-    "road cycling (equipment).md",
-    "road cycling.md"
+    "road cycling (equipment).md"
   ]
 }
