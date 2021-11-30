@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "maximum recoverable volume.md",
+                "file": "intelligence amplification.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "maximum recoverable volume.md",
+                "file": "intelligence amplification.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "maximum recoverable volume.md",
+                "file": "intelligence amplification.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mrv",
+                "query": "intelligence",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "maximum recoverable volume.md"
+                "file": "intelligence amplification.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "maximum recoverable volume.md",
+                "file": "intelligence amplification.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "maximum recoverable volume.md",
+                "file": "intelligence amplification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +197,8 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "intelligence amplification.md",
+    "intelligence.md",
     "maximum recoverable volume.md",
     "maintenance volume (sports science).md",
     "fietsbeveiliging.md",
@@ -204,8 +206,6 @@
     "cutting (diet).md",
     "minicut.md",
     "bulking.md",
-    "active recovery.md",
-    "quantified self.md",
-    "road cycling (equipment).md"
+    "active recovery.md"
   ]
 }
