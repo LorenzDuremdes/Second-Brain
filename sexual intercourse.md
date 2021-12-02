@@ -19,9 +19,19 @@
 1. [[pleasure]] · [[brain]] networks · method ↔ state^[https://link.springer.com/chapter/10.1007/978-1-4939-6418-5_18]
 
 	<img src="https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-1-4939-6418-5_18/MediaObjects/307504_1_En_18_Fig1_HTML.gif" width="500" />
+2. can sexual triggers (e.g. erection) becaused without involvement of the [[brain]]? + how^[The Happy [[Brain]]: The Science of Where [[Happiness]] Comes from, and Why, p. 126]
+	1. yes e.g. the spinal cord
+
+		the thrumming vibrations experienced while sitting on a bus may set off these reflexive [[arousal]] systems, which process them as a form of intimate touch from an interested partner, rather than the inevitable result of a large vehicle’s internal combustion engine
 
 ## [[neuropsychology]]
 1. [[secondary somatosensory cortex]] (physical intimacy) (([[neurophysiology]])); adds the 'pleasurable' element^[The Happy [[Brain]]: The Science of Where [[Happiness]] Comes from, and Why, p. 122]^[Cazala, F., N. Vienney and S. Stoléru, ‘The cortical sensory representation of genitalia in [[women]] and [[men]]: a systematic review’, Socioaffective [[Neuroscience]] and [[Psychology]], 2015, 5, p. 10.3402/snp. v5.26428.]
+
+### sexual desire
+1. sexual desire ([[neurophysiology]], major)^[The Happy [[Brain]]: The Science of Where [[Happiness]] Comes from, and Why, p. 126]
+	1. mostly processed in the temporal lobe
+
+		because much of the [[limbic system]] is comprised of temporal lobe areas, especially the [[amygdala]] and [[hippocampus]]
 
 ### sexual [[arousal]]
 1. if the cause of [[arousal]] is something we see, there’s corresponding activity in the **[[extrastriate body area]]**^[The Happy [[Brain]]: The Science of Where [[Happiness]] Comes from, and Why, p. 122–123]
