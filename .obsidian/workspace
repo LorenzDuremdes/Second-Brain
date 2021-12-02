@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intelligence amplification.md",
+                "file": "blue light.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "intelligence amplification.md",
+                "file": "blue light.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intelligence amplification.md",
+                "file": "blue light.md",
                 "mode": "preview"
               }
             },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intelligence amplification.md"
+                "file": "blue light.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intelligence amplification.md",
+                "file": "blue light.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intelligence amplification.md",
+                "file": "blue light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +197,7 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "blue light.md",
     "intelligence amplification.md",
     "intelligence.md",
     "maximum recoverable volume.md",
@@ -205,7 +206,6 @@
     "post-exercise recovery.md",
     "cutting (diet).md",
     "minicut.md",
-    "bulking.md",
-    "active recovery.md"
+    "bulking.md"
   ]
 }
