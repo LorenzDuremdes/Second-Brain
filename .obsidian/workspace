@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "limbic system.md",
+                "file": "halo effect.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "limbic system.md",
+                "file": "halo effect.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "limbic system.md",
+                "file": "halo effect.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "limbic",
+                "query": "halo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "limbic system.md"
+                "file": "halo effect.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "limbic system.md",
+                "file": "halo effect.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "limbic system.md",
+                "file": "halo effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,15 +197,15 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
-    "limbic system.md",
+    "halo effect.md",
     "sexual intercourse.md",
+    "limbic system.md",
     "arousal.md",
     "orbitofrontal cortex.md",
     "blue light.md",
     "intelligence amplification.md",
     "intelligence.md",
     "maximum recoverable volume.md",
-    "maintenance volume (sports science).md",
-    "fietsbeveiliging.md"
+    "maintenance volume (sports science).md"
   ]
 }
