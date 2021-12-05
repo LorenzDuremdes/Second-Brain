@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "megascale engineering.md",
+                "file": "irony.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "megascale engineering.md",
+                "file": "irony.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "megascale engineering.md",
+                "file": "irony.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "halo",
+                "query": "irony",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "megascale engineering.md"
+                "file": "irony.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "megascale engineering.md",
+                "file": "irony.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "megascale engineering.md",
+                "file": "irony.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +197,7 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "irony.md",
     "megascale engineering.md",
     "halo effect.md",
     "sexual intercourse.md",
@@ -205,7 +206,6 @@
     "orbitofrontal cortex.md",
     "blue light.md",
     "intelligence amplification.md",
-    "intelligence.md",
-    "maximum recoverable volume.md"
+    "intelligence.md"
   ]
 }
