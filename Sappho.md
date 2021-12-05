@@ -1,0 +1,1 @@
+1. Sappho; she is well known as a symbol of love and desire between [[women]],^[https://en.wikipedia.org/wiki/Sappho#cite_note-FOOTNOTERayorLardinois20142-9-3] with the English words sapphic and [[lesbian]] being derived from her own name and the name of her home island respectively

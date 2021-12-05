@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "irony.md",
+                "file": "Sappho.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "irony.md",
+                "file": "Sappho.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "irony.md",
+                "file": "Sappho.md",
                 "mode": "preview"
               }
             },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "irony.md"
+                "file": "Sappho.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "irony.md",
+                "file": "Sappho.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "irony.md",
+                "file": "Sappho.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,15 +197,15 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "Sappho.md",
+    "lesbian.md",
+    "flat design.md",
     "irony.md",
     "megascale engineering.md",
     "halo effect.md",
     "sexual intercourse.md",
     "limbic system.md",
     "arousal.md",
-    "orbitofrontal cortex.md",
-    "blue light.md",
-    "intelligence amplification.md",
-    "intelligence.md"
+    "orbitofrontal cortex.md"
   ]
 }
