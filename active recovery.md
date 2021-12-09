@@ -16,3 +16,6 @@
 # possible mistakes
 1. should you skip "active recovery" if noticing that it impaired your recovery/next workout(s)? + what^[https://www.youtube.com/watch?v=tz7vvvnzU4w (13:00), TrainerRoad with Chad Timmerman]
 	1. no, then you might simply have to decrease intensity (or you went harder than planned/recommended)
+
+# sources
+1. [What do pro riders do on Tour de France rest days?](https://road.cc/content/feature/what-do-pro-riders-do-tour-de-france-rest-days-284687#:~:text=%E2%80%9CIt's%20feeding%20their%20body%20after,sponsored%20products%20to%20good%20use.)

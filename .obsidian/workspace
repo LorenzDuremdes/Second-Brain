@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sappho.md",
+                "file": "active recovery.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sappho.md",
+                "file": "active recovery.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sappho.md",
+                "file": "active recovery.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "irony",
+                "query": "active recovery",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sappho.md"
+                "file": "active recovery.md"
               }
             }
           },
@@ -159,14 +159,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sappho.md",
+                "file": "active recovery.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a834b3f3361a68cb",
@@ -178,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sappho.md",
+                "file": "active recovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +196,7 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "active recovery.md",
     "Sappho.md",
     "lesbian.md",
     "flat design.md",
@@ -205,7 +205,6 @@
     "halo effect.md",
     "sexual intercourse.md",
     "limbic system.md",
-    "arousal.md",
-    "orbitofrontal cortex.md"
+    "arousal.md"
   ]
 }
