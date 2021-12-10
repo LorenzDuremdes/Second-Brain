@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "active recovery.md",
+                "file": "blood flow restriction training.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "active recovery.md",
+                "file": "blood flow restriction training.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "active recovery.md",
+                "file": "blood flow restriction training.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "active recovery",
+                "query": "occlusion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "active recovery.md"
+                "file": "blood flow restriction training.md"
               }
             }
           },
@@ -159,13 +159,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "active recovery.md",
+                "file": "blood flow restriction training.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a834b3f3361a68cb",
@@ -177,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "active recovery.md",
+                "file": "blood flow restriction training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,15 +197,15 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "blood flow restriction training.md",
+    "bulking.md",
+    "cutting (diet).md",
     "active recovery.md",
     "Sappho.md",
     "lesbian.md",
     "flat design.md",
     "irony.md",
     "megascale engineering.md",
-    "halo effect.md",
-    "sexual intercourse.md",
-    "limbic system.md",
-    "arousal.md"
+    "halo effect.md"
   ]
 }
