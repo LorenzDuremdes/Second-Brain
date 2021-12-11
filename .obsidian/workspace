@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "normative negotiation leverage.md",
+                "file": "cognitive fusion.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "normative negotiation leverage.md",
+                "file": "cognitive fusion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "normative negotiation leverage.md",
+                "file": "cognitive fusion.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "occlusion",
+                "query": "cognitive fusion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "normative negotiation leverage.md"
+                "file": "cognitive fusion.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "normative negotiation leverage.md",
+                "file": "cognitive fusion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "normative negotiation leverage.md",
+                "file": "cognitive fusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +197,8 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "cognitive fusion.md",
+    "mean free path.md",
     "normative negotiation leverage.md",
     "negative leverage (sociology).md",
     "positive leverage (sociology).md",
@@ -204,8 +206,6 @@
     "bulking.md",
     "cutting (diet).md",
     "active recovery.md",
-    "Sappho.md",
-    "lesbian.md",
-    "flat design.md"
+    "Sappho.md"
   ]
 }
