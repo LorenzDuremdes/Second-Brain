@@ -1,0 +1,2 @@
+1. [[normative]] [[negotiation]] leverage; when you use someone’s own norms and standards against them^[https://www.shortform.com/blog/negotiation-leverage/]
+	1. something like, “You say that you value transparency and openness, but it seems like you’re being evasive and indirect with your answers to my questions,”
