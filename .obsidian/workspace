@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "maltodextrine.md",
+                "file": "uplift (science fiction).md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "maltodextrine.md",
+                "file": "uplift (science fiction).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,8 +70,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "maltodextrine.md",
-                "mode": "source"
+                "file": "uplift (science fiction).md",
+                "mode": "preview"
               }
             },
             "group": "70df3f248423c6ea"
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "maltodextrine.md"
+                "file": "uplift (science fiction).md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "maltodextrine.md",
+                "file": "uplift (science fiction).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "maltodextrine.md",
+                "file": "uplift (science fiction).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,15 +197,15 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "uplift (science fiction).md",
+    "computing overhang.md",
+    "instrumental convergence.md",
+    "amorality.md",
     "maltodextrine.md",
     "dextrose.md",
     "Minecraft.md",
     "IQ.md",
     "positive leverage (negotiation).md",
-    "negative leverage (negotiation).md",
-    "normative negotiation leverage.md",
-    "cognitive fusion.md",
-    "mean free path.md",
-    "blood flow restriction training.md"
+    "negative leverage (negotiation).md"
   ]
 }

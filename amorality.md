@@ -1,0 +1,1 @@
+1. amorality; an absence of, indifference towards, disregard for, or incapacity for morality.^[https://en.wikipedia.org/wiki/Amorality#cite_note-Johnstone_2008-1]^[https://en.wikipedia.org/wiki/Amorality#cite_note-Superson_2009-2]^[https://en.wikipedia.org/wiki/Amorality#cite_note-Dictionary.com-3]

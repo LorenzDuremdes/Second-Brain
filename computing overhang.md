@@ -1,0 +1,1 @@
+1. computing overhang; refers to a situation where new algorithms can exploit existing computing power far more efficiently than before^[https://www.lesswrong.com/tag/computing-overhang]

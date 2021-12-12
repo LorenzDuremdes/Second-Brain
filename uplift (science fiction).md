@@ -1,0 +1,1 @@
+1. uplift (science fiction); a developmental process to transform a certain species of animals into more intelligent beings by other, already-intelligent beings^[https://en.wikipedia.org/wiki/Uplift_(science_fiction)]
