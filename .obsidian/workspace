@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IQ.md",
+                "file": "Minecraft.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "IQ.md",
+                "file": "Minecraft.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IQ.md",
+                "file": "Minecraft.md",
                 "mode": "preview"
               }
             },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IQ.md"
+                "file": "Minecraft.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IQ.md",
+                "file": "Minecraft.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IQ.md",
+                "file": "Minecraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +197,7 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "Minecraft.md",
     "IQ.md",
     "positive leverage (negotiation).md",
     "negative leverage (negotiation).md",
@@ -205,7 +206,6 @@
     "mean free path.md",
     "blood flow restriction training.md",
     "bulking.md",
-    "cutting (diet).md",
-    "active recovery.md"
+    "cutting (diet).md"
   ]
 }
