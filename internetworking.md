@@ -1,0 +1,2 @@
+1. internetworking; the practice of interconnecting multiple computer networks,^[https://en.wikipedia.org/wiki/Internetworking#cite_note-PD2012-1]: 169  such that any pair of hosts in the connected networks can exchange messages irrespective of their hardware-level networking technology
+	1. the resulting [[system]] of interconnected networks are called an _internetwork_, or simply an _internet_

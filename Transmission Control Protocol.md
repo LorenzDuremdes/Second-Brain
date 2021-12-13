@@ -1,0 +1,1 @@
+1. Transmission Control Protocol; provides reliable, ordered, and error-checked delivery of a stream of octets (bytes) between applications running on hosts communicating via an IP network^[https://en.wikipedia.org/wiki/Transmission_Control_Protocol]
