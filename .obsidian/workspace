@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "darknet.md",
+                "file": "star lifting.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "darknet.md",
+                "file": "star lifting.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "darknet.md",
+                "file": "star lifting.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "maltode",
+                "query": "communication",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "darknet.md"
+                "file": "star lifting.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "darknet.md",
+                "file": "star lifting.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "darknet.md",
+                "file": "star lifting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,15 +197,15 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "star lifting.md",
+    "Dyson sphere.md",
+    "futuristic communication.md",
+    "neutrino.md",
     "darknet.md",
     "dark web.md",
     "deep web.md",
     "internetworking.md",
     "Transmission Control Protocol.md",
-    "Internet Protocol.md",
-    "IPv4 address exhaustion.md",
-    "uplift (science fiction).md",
-    "computing overhang.md",
-    "instrumental convergence.md"
+    "Internet Protocol.md"
   ]
 }

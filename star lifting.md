@@ -1,0 +1,1 @@
+1. star lifting; any of several hypothetical processes by which a sufficiently advanced [[civilization]] (specifically, one of Kardashev-II or higher) could remove a substantial portion of a star's matter which can then be re-purposed, while possibly optimizing the star's [[energy]] output and lifespan at the same time^[https://en.wikipedia.org/wiki/Star_lifting]
