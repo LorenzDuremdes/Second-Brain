@@ -4,7 +4,7 @@
 
 # [[psychiatry]]
 ## [[continuum|spectrum]]
-1. Autism has long been thought to cover a wide spectrum, ranging from individuals with severe impairments—who may be silent, developmentally disabled, and prone to frequent repetitive behavior such as hand flapping and rocking—to high functioning individuals who may have active but distinctly odd social approaches, narrowly focused interests, and verbose, pedantic communication.^[https://en.wikipedia.org/wiki/Autism#cite_note-113] Because the behavior spectrum is continuous, boundaries between diagnostic categories are necessarily somewhat arbitrary.^[https://en.wikipedia.org/wiki/Autism#cite_note-Geschwind-2009-52]
+1. Autism has long been thought to cover a wide spectrum, ranging from individuals with severe impairments—who may be silent, developmentally disabled, and prone to frequent repetitive behavior such as hand flapping and rocking—to high functioning individuals who may have active but distinctly odd social approaches, narrowly focused interests, and verbose, pedantic [[communication]].^[https://en.wikipedia.org/wiki/Autism#cite_note-113] Because the behavior spectrum is continuous, boundaries between diagnostic categories are necessarily somewhat arbitrary.^[https://en.wikipedia.org/wiki/Autism#cite_note-Geschwind-2009-52]
 ## classification
 1. why did "DSM-V" compress "DSM-IV autism subgroups"? (treatment)
 	1. researchers found that these separate diagnoses were not **consistently** applied across different clinics and treatment centers^[https://web.archive.org/web/20131006210933/http://www.dsm5.org/Documents/Autism Spectrum Disorder Fact Sheet.pdf]
@@ -27,7 +27,7 @@
 1. the latter contains the former _and_ a restricted pattern of behavior
 	1. the diagnosis of SCD can only be given if autism has been ruled out.^[https://en.wikipedia.org/wiki/Social_communication_disorder#cite_note-DSM5-6]
 2. did the generalization of autism in DSM-V cause it to be less specific? + why
-	1. no e.g. some people are now getting the diagnosis of social communication disorder (instead of e.g. PDD-NOS) → the specificity of classification increased, in this example^[https://www.autismspeaks.org/dsm-5-and-autism-frequently-asked-questions]
+	1. no e.g. some people are now getting the diagnosis of social [[communication]] disorder (instead of e.g. PDD-NOS) → the specificity of classification increased, in this example^[https://www.autismspeaks.org/dsm-5-and-autism-frequently-asked-questions]
 # [[neuroscience]]
 ## [[neurophysiology]]
 1. autism → fusiform gyrus · difficulties

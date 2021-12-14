@@ -1,0 +1,3 @@
+1. circuit switching; a method of implementing a telecommunications network in which two network nodes establish a dedicated communications channel (circuit) through the network before the nodes may communicate^[https://en.wikipedia.org/wiki/Circuit_switching]
+	1. pre-allocates dedicated network bandwidth specifically for each [[communication]] session, each having a constant bit rate and latency between nodes
+2. reliability of "circuit switching" decreases exponentially with size^[Algorithms to Live By: The [[Computer Science]] of Human Decisions, p. 220]

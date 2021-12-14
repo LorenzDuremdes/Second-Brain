@@ -1,9 +1,9 @@
 1. spaced repetition → [[repetition suppression]]
 	1. a (too) short interval might induce [[repetition suppression]] and reduce [[Levels of Processing model|levels-of-processing effect]]
 2. images → spaced repetition
-	1. adding images to items can help with ordering knowledge (and make you feel like you haven't learned nothing)
+	1. adding images to items can help with ordering [[knowledge]] (and make you feel like you haven't learned nothing)
 	2. increases [[germane cognitive load]] efficiency, allowing this process to happen more easily? e.g. minimizing the minimum required extracted synaptic patterns
-3. spaced repetition → more complex knowledge
+3. spaced repetition → more complex [[knowledge]]
 	1. A more recent study has shown that spaced repetition can benefit tasks such as solving math problems. In a study conducted by Pashler, Rohrer, Cepeda, and Carpenter, participants had to learn a simple math principle in either a spaced or massed retrieval schedule. The participants given the spaced repetition learning tasks showed higher scores on a final test distributed after their final practice session.
 		1.  Pashler, H., Rohrer, D., Cepeda, N., & Carpenter, S. (2007). Enhancing learning and retarding forgetting: Choices and consequences. Psychonomic Bulletin & Review, 14(2), 187–193.
 		2.  https://en.wikipedia.org/wiki/Spaced_repetition#cite_note-PRCC-12

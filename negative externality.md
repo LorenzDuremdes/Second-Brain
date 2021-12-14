@@ -1,0 +1,1 @@
+1. occurs when the consumption of a [[good]] has measurable negative consequences on others who do not consume the [[good]] themselves.^[https://en.wikipedia.org/wiki/Demerit_good#cite_note-5]

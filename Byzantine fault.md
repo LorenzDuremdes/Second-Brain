@@ -1,0 +1,1 @@
+1. Byzantine fault; a condition of a computer [[system]], particularly distributed computing systems, where components may fail and there is imperfect [[information]] on whether a component has failed^[https://en.wikipedia.org/wiki/Byzantine_fault]

@@ -1,3 +1,3 @@
-1. science communication; the practice of informing, educating, raising awareness of science-related topics, and increasing the sense of wonder about scientific discoveries and arguments^[https://en.wikipedia.org/wiki/Science_communication]
-2. schematic overview of the field and the actors of science communication according to Carsten Könneker^[By Spektrumdw - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73611142]
+1. science [[communication]]; the practice of informing, educating, raising awareness of science-related topics, and increasing the sense of wonder about scientific discoveries and arguments^[https://en.wikipedia.org/wiki/Science_communication]
+2. schematic overview of the field and the actors of science [[communication]] according to Carsten Könneker^[By Spektrumdw - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=73611142]
 	<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Science_Communication_%E2%80%93_schematic_overview.png" width="500" />

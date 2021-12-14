@@ -1,1 +1,1 @@
-1. darknet; an overlay network within the Internet that can only be accessed with specific software, configurations, or authorization,^[https://en.wikipedia.org/wiki/Darknet#cite_note-:0-1] and often uses a unique customized communication protocol
+1. darknet; an overlay network within the Internet that can only be accessed with specific software, configurations, or authorization,^[https://en.wikipedia.org/wiki/Darknet#cite_note-:0-1] and often uses a unique customized [[communication]] protocol

@@ -9,7 +9,7 @@
 	1. trying to recall the whole note
 3. age → accuracy of answer on a cloze + why
 	1. the less you used a cloze elsewhere*the older the cloze/note, the less accurate you need to answer it due to high [[opportunity cost]]
-		1. high [[opportunity cost]] → would be more efficient to spend your time and energy on clozes you are more likely to use (in the future)
+		1. high [[opportunity cost]] → would be more efficient to spend your [[time]] and energy on clozes you are more likely to use (in the future)
 		2. age → determines "confidence interval" alongside "frequency"
 
 # adding notes
@@ -34,12 +34,22 @@
 	4. low enough [[interference theory|interference]]
 	5. note:card ratio=1
 
-## cloze (knowledge formulation)
+## data compression
+1. comparison (SRS compression)
+	1. comparisons between items can reduce the quantity of notes e.g. the following compresses it to 50%:
+
+		A; B + C; D
+
+		→ "A ↮ C
+
+		B ↮ D (respectively)"
+
+## cloze ([[knowledge]] formulation)
 1. what [[algorithm]] can you use to determine what to cloze? (Anki)
 	1. [[adaptive replacement cache]] → whatever you cloze, you bring to a higher [[cache]] hierachy
 2. which of the following notes could be more effective + why (Anki)
 
-	static [[IQ]] test; they test an individual’s knowledge and ability to solve one-off problems they do not directly measure the ability to learn and adapt over time[Universal [[Intelligence]]: A Definition of Machine [[Intelligence]], p. 9]
+	static [[IQ]] test; they test an individual’s [[knowledge]] and ability to solve one-off problems they do not directly measure the ability to learn and adapt over [[time]]^[Universal [[Intelligence]]: A [[Definition]] of Machine [[Intelligence]], p. 9]
 
 	↮
 

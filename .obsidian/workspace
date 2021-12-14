@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "baryon.md",
+                "file": "semantic relatedness.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "baryon.md",
+                "file": "semantic relatedness.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -50,7 +50,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.013369370183441602,
+                  "scale": 0.009344663557112741,
                   "close": false
                 }
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "baryon.md",
+                "file": "semantic relatedness.md",
                 "mode": "preview"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "communication",
+                "query": "semantic relatedness",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "baryon.md"
+                "file": "semantic relatedness.md"
               }
             }
           },
@@ -159,10 +159,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "baryon.md",
+                "file": "semantic relatedness.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
+            }
+          },
+          {
+            "id": "ce56d58bd2b9a35d",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
             }
           }
         ],
@@ -178,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "baryon.md",
+                "file": "semantic relatedness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,15 +205,15 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
-    "baryon.md",
-    "star lifting.md",
-    "Dyson sphere.md",
-    "futuristic communication.md",
-    "neutrino.md",
-    "darknet.md",
-    "dark web.md",
-    "deep web.md",
-    "internetworking.md",
-    "Transmission Control Protocol.md"
+    "semantic relatedness.md",
+    "communication.md",
+    "autoassociative memory.md",
+    "sparse distributed memory.md",
+    "locality-sensitive hashing.md",
+    "Jaccard index.md",
+    "Hyperlink-Induced Topic Search.md",
+    "anxiety disorder.md",
+    "feeling.md",
+    "science communication.md"
   ]
 }

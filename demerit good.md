@@ -1,0 +1,1 @@
+1. demerit [[good]]; a [[good]] or service whose consumption is considered unhealthy, degrading, or otherwise socially undesirable due to the perceived negative effects on the consumers themselves^[https://en.wikipedia.org/wiki/Demerit_good#cite_note-1]^[https://en.wikipedia.org/wiki/Demerit_good#cite_note-2]^[https://en.wikipedia.org/wiki/Demerit_good#cite_note-3]

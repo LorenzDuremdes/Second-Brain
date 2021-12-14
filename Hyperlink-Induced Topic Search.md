@@ -1,0 +1,1 @@
+1. Hyperlink-Induced Topic Search (HITS); a link analysis [[algorithm]] that rates Web pages (hubs and authorities)

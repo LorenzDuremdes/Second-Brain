@@ -1,4 +1,4 @@
-1. network topology; the arrangement of the elements (links, nodes, etc.) of a communication network.^[https://en.wikipedia.org/wiki/Network_topology#cite_note-Groth-1]^[https://en.wikipedia.org/wiki/Network_topology#cite_note-atis-2]
+1. network topology; the arrangement of the elements (links, nodes, etc.) of a [[communication]] network.^[https://en.wikipedia.org/wiki/Network_topology#cite_note-Groth-1]^[https://en.wikipedia.org/wiki/Network_topology#cite_note-atis-2]
 2. **Diagram of different network topologies.**^[By NetworkTopologies.png: Maksimderivative work: Malyszkz (talk) - NetworkTopologies.png, Public Domain, https://commons.wikimedia.org/w/index.php?curid=15006915]
 	1. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/NetworkTopologies.svg/1920px-NetworkTopologies.svg.png" width="600" />
 3. **The image was developed by Paul Baran in 1964 to show three separate network topologies and their levels of vulnerability in the case of a nuclear attack.**^[https://forum.obsidian.md/t/a-case-for-mocs/2418]
