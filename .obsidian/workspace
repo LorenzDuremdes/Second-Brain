@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semantic relatedness.md",
+                "file": "recovery position.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "semantic relatedness.md",
+                "file": "recovery position.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "semantic relatedness.md",
+                "file": "recovery position.md",
                 "mode": "preview"
               }
             },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "semantic relatedness.md"
+                "file": "recovery position.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "semantic relatedness.md",
+                "file": "recovery position.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "semantic relatedness.md",
+                "file": "recovery position.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,6 +205,8 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "recovery position.md",
+    "rigor mortis.md",
     "semantic relatedness.md",
     "communication.md",
     "autoassociative memory.md",
@@ -212,8 +214,6 @@
     "locality-sensitive hashing.md",
     "Jaccard index.md",
     "Hyperlink-Induced Topic Search.md",
-    "anxiety disorder.md",
-    "feeling.md",
-    "science communication.md"
+    "anxiety disorder.md"
   ]
 }

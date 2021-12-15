@@ -1,0 +1,3 @@
+1. All forms of the recovery position share basic principles. The mouth is downward so that fluid can drain from the patient's airway; the chin is well up to keep the epiglottis opened. Arms and legs are locked to stabilize the position of the patient^[By Rama, CC BY-SA 3.0 fr, https://commons.wikimedia.org/w/index.php?curid=8164944]
+
+	<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Recovery_position.svg" width="400" />
