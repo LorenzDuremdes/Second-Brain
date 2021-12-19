@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recovery position.md",
+                "file": "romance (love).md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "recovery position.md",
+                "file": "romance (love).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,8 +70,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recovery position.md",
-                "mode": "preview"
+                "file": "romance (love).md",
+                "mode": "source"
               }
             },
             "group": "70df3f248423c6ea"
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "semantic relatedness",
+                "query": "roman",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "recovery position.md"
+                "file": "romance (love).md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "recovery position.md",
+                "file": "romance (love).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recovery position.md",
+                "file": "romance (love).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,15 +205,15 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "romance (love).md",
+    "microcycle (sports periodization).md",
+    "heat shock proteins.md",
     "recovery position.md",
     "rigor mortis.md",
     "semantic relatedness.md",
     "communication.md",
     "autoassociative memory.md",
     "sparse distributed memory.md",
-    "locality-sensitive hashing.md",
-    "Jaccard index.md",
-    "Hyperlink-Induced Topic Search.md",
-    "anxiety disorder.md"
+    "locality-sensitive hashing.md"
   ]
 }

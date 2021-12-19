@@ -12,6 +12,17 @@
 1. Repeatedly choosing unsuitable partners may not be a sign of one’s misfortune. We’re more likely to be making the same mistakes on purpose — because, **secretly, we believe we’re *unworthy* of love**.^[https://www.youtube.com/watch?v=OfsTJnpRxeg]
 	1. e.g. mean people being closer to your own [[self]]-reflection (e.g. "'I am dismissive of myself and so is he' ↮ 'Why does he like me so much, what's so likeable about me?'"
 
+## [[macrosociology]]
+### [[men]] ↮ [[women]]
+1. it's usually harder for [[women]] to be single
+	1. [[Society]] is lot more judge mental if a woman over a certain age is still unmarried.  
+		
+		“Something must be wrong with her”, “she probably has a terrible [[personality]]”,”she is too picky” and the list is endless.  
+		
+		A woman’s identity and value is often times linked to whether she has a man and whether she reproduced.  
+		
+		Meanwhile, single [[men]] over a certain age are told: “He simply hasn’t met the one yet”
+
 # [[psychology]]
 1. humour and [[honesty]] were ranked as the two most important attributes in a significant other.^[https://en.wikipedia.org/wiki/Humour#cite_note-23]
 	1. "[[honesty]]" is closely related to "[[trust]]"
