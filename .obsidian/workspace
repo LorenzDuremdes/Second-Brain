@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "romance (love).md",
+                "file": "aanloopperiodiek.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "romance (love).md",
+                "file": "aanloopperiodiek.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "romance (love).md",
+                "file": "aanloopperiodiek.md",
                 "mode": "source"
               }
             },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "romance (love).md"
+                "file": "aanloopperiodiek.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "romance (love).md",
+                "file": "aanloopperiodiek.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "romance (love).md",
+                "file": "aanloopperiodiek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,6 +205,7 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "aanloopperiodiek.md",
     "romance (love).md",
     "microcycle (sports periodization).md",
     "heat shock proteins.md",
@@ -213,7 +214,6 @@
     "semantic relatedness.md",
     "communication.md",
     "autoassociative memory.md",
-    "sparse distributed memory.md",
-    "locality-sensitive hashing.md"
+    "sparse distributed memory.md"
   ]
 }

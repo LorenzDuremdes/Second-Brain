@@ -1,0 +1,1 @@
+1. aanloopperiodiek; een tijdje onderbetalen voor iemand die niet 100% gekwalificeerd is, maar ze toch willen aannemen^[https://www.reddit.com/r/thenetherlands/comments/rj50uv/comment/hp25yzb/?utm_source=share&utm_medium=web2x&context=3]
