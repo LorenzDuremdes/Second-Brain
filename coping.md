@@ -4,8 +4,8 @@
 # [[male and female]]
 ## [[tend and befriend]] ↮ [[acute stress response]]
 1. male ↮ female · [[tend and befriend]] ↮ [[acute stress response]]^[https://en.wikipedia.org/wiki/Coping#cite_note-Washburn-52]
-	1. In general, such differences as exist indicate that women tend to employ [[emotion]]-focused coping and the "tend-and-befriend" response to [[stress]], whereas men tend to use problem-focused coping and the "fight-or-flight" response, perhaps because societal standards encourage men to be more individualistic, while women are often expected to be interpersonal. An alternative explanation for the aforementioned differences involves genetic factors. The degree to which genetic factors and social conditioning influence behavior, is the subject of ongoing debate.
-2. why do women have the inclination for "[[tend and befriend]]" reaction to [[psychological stress]]?^[https://en.wikipedia.org/wiki/Coping#Physiological_basis]
+	1. In general, such differences as exist indicate that [[women]] tend to employ [[emotion]]-focused coping and the "tend-and-befriend" response to [[stress]], whereas men tend to use problem-focused coping and the "fight-or-flight" response, perhaps because societal standards encourage men to be more individualistic, while [[women]] are often expected to be interpersonal. An alternative explanation for the aforementioned differences involves genetic factors. The degree to which genetic factors and social conditioning influence behavior, is the subject of ongoing debate.
+2. why do [[women]] have the inclination for "[[tend and befriend]]" reaction to [[psychological stress]]?^[https://en.wikipedia.org/wiki/Coping#Physiological_basis]
 	1. e.g. protect their offspring and relatives
 
 ### physiology

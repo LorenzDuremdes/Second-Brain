@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aanloopperiodiek.md",
+                "file": "strategic pluralism.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "aanloopperiodiek.md",
+                "file": "strategic pluralism.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aanloopperiodiek.md",
+                "file": "strategic pluralism.md",
                 "mode": "source"
               }
             },
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "roman",
+                "query": "sexual",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aanloopperiodiek.md"
+                "file": "strategic pluralism.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aanloopperiodiek.md",
+                "file": "strategic pluralism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aanloopperiodiek.md",
+                "file": "strategic pluralism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,15 +205,15 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "strategic pluralism.md",
+    "human sexuality.md",
+    "women.md",
     "aanloopperiodiek.md",
     "romance (love).md",
     "microcycle (sports periodization).md",
     "heat shock proteins.md",
     "recovery position.md",
     "rigor mortis.md",
-    "semantic relatedness.md",
-    "communication.md",
-    "autoassociative memory.md",
-    "sparse distributed memory.md"
+    "semantic relatedness.md"
   ]
 }
