@@ -71,7 +71,7 @@
               "type": "markdown",
               "state": {
                 "file": "posthuman.md",
-                "mode": "source"
+                "mode": "preview"
               }
             },
             "group": "70df3f248423c6ea"
@@ -206,6 +206,7 @@
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
     "posthuman.md",
+    "superhuman.md",
     "transhumanism.md",
     "strategic pluralism.md",
     "human sexuality.md",
@@ -213,7 +214,6 @@
     "aanloopperiodiek.md",
     "romance (love).md",
     "microcycle (sports periodization).md",
-    "heat shock proteins.md",
-    "recovery position.md"
+    "heat shock proteins.md"
   ]
 }
