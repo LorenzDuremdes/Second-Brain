@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "strategic pluralism.md",
+                "file": "transhumanism.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "strategic pluralism.md",
+                "file": "transhumanism.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -50,7 +50,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.009344663557112741,
+                  "scale": 0.011177310335441093,
                   "close": false
                 }
               }
@@ -70,8 +70,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "strategic pluralism.md",
-                "mode": "source"
+                "file": "transhumanism.md",
+                "mode": "preview"
               }
             },
             "group": "70df3f248423c6ea"
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sexual",
+                "query": "transhuman",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "strategic pluralism.md"
+                "file": "transhumanism.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "strategic pluralism.md",
+                "file": "transhumanism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "strategic pluralism.md",
+                "file": "transhumanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,6 +205,7 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "transhumanism.md",
     "strategic pluralism.md",
     "human sexuality.md",
     "women.md",
@@ -213,7 +214,6 @@
     "microcycle (sports periodization).md",
     "heat shock proteins.md",
     "recovery position.md",
-    "rigor mortis.md",
-    "semantic relatedness.md"
+    "rigor mortis.md"
   ]
 }
