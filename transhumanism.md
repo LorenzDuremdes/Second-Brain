@@ -15,3 +15,6 @@
 		I explained it like this: the last time you did your laundry you committed genocide. You annihilated billions of lives who were merrily going about their business in your underwear, growing their “[[society]]”… and you just murdered them all using a Tide Pod. You heartless bastard!
 		
 		It’s the same thing, really.
+		
+		1. **related**
+			[[posthuman]]

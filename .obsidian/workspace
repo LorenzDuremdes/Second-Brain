@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "transhumanism.md",
+                "file": "posthuman.md",
                 "mode": "source"
               }
             },
@@ -27,7 +27,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "transhumanism.md",
+                "file": "posthuman.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -70,8 +70,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "transhumanism.md",
-                "mode": "preview"
+                "file": "posthuman.md",
+                "mode": "source"
               }
             },
             "group": "70df3f248423c6ea"
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "transhumanism.md"
+                "file": "posthuman.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "transhumanism.md",
+                "file": "posthuman.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "transhumanism.md",
+                "file": "posthuman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,6 +205,7 @@
   },
   "active": "ad212d55c0d8b9b4",
   "lastOpenFiles": [
+    "posthuman.md",
     "transhumanism.md",
     "strategic pluralism.md",
     "human sexuality.md",
@@ -213,7 +214,6 @@
     "romance (love).md",
     "microcycle (sports periodization).md",
     "heat shock proteins.md",
-    "recovery position.md",
-    "rigor mortis.md"
+    "recovery position.md"
   ]
 }
