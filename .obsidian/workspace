@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "toxic relationships.md",
+                "file": "Research Domain Criteria.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "toxic relationships.md",
+                    "file": "Research Domain Criteria.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "toxic",
+                "query": "research domain",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "toxic relationships.md"
+                "file": "Research Domain Criteria.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "toxic relationships.md",
+                "file": "Research Domain Criteria.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "toxic relationships.md",
+                "file": "Research Domain Criteria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +190,7 @@
   },
   "active": "da1daec1d7409ded",
   "lastOpenFiles": [
+    "Research Domain Criteria.md",
     "toxic relationships.md",
     "financial independence.md",
     "posthuman.md",
@@ -198,7 +199,6 @@
     "strategic pluralism.md",
     "human sexuality.md",
     "women.md",
-    "aanloopperiodiek.md",
-    "romance (love).md"
+    "aanloopperiodiek.md"
   ]
 }
