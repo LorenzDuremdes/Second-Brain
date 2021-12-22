@@ -11,5 +11,7 @@
     "margin": "2",
     "downscalePercent": 100
   },
-  "communityPluginSortOrder": "download"
+  "communityPluginSortOrder": "download",
+  "legacyEditor": false,
+  "livePreview": true
 }

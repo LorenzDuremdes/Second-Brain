@@ -4,85 +4,70 @@
     "type": "split",
     "children": [
       {
-        "id": "86b222b74f7525dc",
+        "id": "4ac93cd0f52e0573",
         "type": "split",
         "children": [
           {
-            "id": "ad212d55c0d8b9b4",
+            "id": "da1daec1d7409ded",
             "type": "leaf",
-            "dimension": 49.89878542510122,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posthuman.md",
-                "mode": "source"
+                "file": "toxic relationships.md",
+                "mode": "source",
+                "source": false
               }
-            },
-            "group": "70df3f248423c6ea"
+            }
           },
           {
-            "id": "0415bd1425af29db",
-            "type": "leaf",
-            "dimension": 50.10121457489878,
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "posthuman.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 5,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": true,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0,
-                  "repelStrength": 20,
-                  "linkStrength": 1,
-                  "linkDistance": 30,
-                  "scale": 0.011177310335441093,
-                  "close": false
+            "id": "a5ba8bc94fcbb9e7",
+            "type": "split",
+            "children": [
+              {
+                "id": "0415bd1425af29db",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "toxic relationships.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 5,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": false,
+                      "showAttachments": true,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": -3,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0,
+                      "repelStrength": 20,
+                      "linkStrength": 1,
+                      "linkDistance": 30,
+                      "scale": 0.011177310335441093,
+                      "close": false
+                    }
+                  }
+                }
+              },
+              {
+                "id": "bd40bc667845215f",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
                 }
               }
-            },
-            "group": "70df3f248423c6ea"
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "933472de904cc0d1",
-        "type": "split",
-        "children": [
-          {
-            "id": "4e4e54869accf445",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posthuman.md",
-                "mode": "preview"
-              }
-            },
-            "group": "70df3f248423c6ea"
-          },
-          {
-            "id": "b2deac2f15ddfd5b",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
+            ],
+            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
@@ -112,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transhuman",
+                "query": "toxic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -149,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posthuman.md"
+                "file": "toxic relationships.md"
               }
             }
           },
@@ -159,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posthuman.md",
+                "file": "toxic relationships.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posthuman.md",
+                "file": "toxic relationships.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,8 +188,10 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "ad212d55c0d8b9b4",
+  "active": "da1daec1d7409ded",
   "lastOpenFiles": [
+    "toxic relationships.md",
+    "financial independence.md",
     "posthuman.md",
     "superhuman.md",
     "transhumanism.md",
@@ -212,8 +199,6 @@
     "human sexuality.md",
     "women.md",
     "aanloopperiodiek.md",
-    "romance (love).md",
-    "microcycle (sports periodization).md",
-    "heat shock proteins.md"
+    "romance (love).md"
   ]
 }
