@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Domain Criteria.md",
+                "file": "purple heart (emoji).md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Research Domain Criteria.md",
+                    "file": "purple heart (emoji).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research Domain Criteria.md"
+                "file": "purple heart (emoji).md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research Domain Criteria.md",
+                "file": "purple heart (emoji).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research Domain Criteria.md",
+                "file": "purple heart (emoji).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +190,7 @@
   },
   "active": "da1daec1d7409ded",
   "lastOpenFiles": [
+    "purple heart (emoji).md",
     "Research Domain Criteria.md",
     "toxic relationships.md",
     "financial independence.md",
@@ -198,7 +199,6 @@
     "transhumanism.md",
     "strategic pluralism.md",
     "human sexuality.md",
-    "women.md",
-    "aanloopperiodiek.md"
+    "women.md"
   ]
 }

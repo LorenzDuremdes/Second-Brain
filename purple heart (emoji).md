@@ -1,0 +1,1 @@
+1. This is a purple [[heart]]. Purple is somewhat mysterious. It can be used to express sensitive and inclusive feelings, and can also be used to express emotions between parents and children. It also means calm, noble, like, and admiration.^[https://www.emojiall.com/en/emoji/💜]
