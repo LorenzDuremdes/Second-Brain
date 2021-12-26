@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "minimal techno.md",
+                "file": "von Neumann's saddle point.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "minimal techno.md",
+                    "file": "von Neumann's saddle point.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "research domain",
+                "query": "saddle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "minimal techno.md"
+                "file": "von Neumann's saddle point.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "minimal techno.md",
+                "file": "von Neumann's saddle point.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "minimal techno.md",
+                "file": "von Neumann's saddle point.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +190,7 @@
   },
   "active": "da1daec1d7409ded",
   "lastOpenFiles": [
+    "von Neumann's saddle point.md",
     "minimal techno.md",
     "purple heart (emoji).md",
     "Research Domain Criteria.md",
@@ -198,7 +199,6 @@
     "posthuman.md",
     "superhuman.md",
     "transhumanism.md",
-    "strategic pluralism.md",
-    "human sexuality.md"
+    "strategic pluralism.md"
   ]
 }
