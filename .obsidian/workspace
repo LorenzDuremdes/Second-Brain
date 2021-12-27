@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "von Neumann's saddle point.md",
+                "file": "jaliefgevoel.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "von Neumann's saddle point.md",
+                    "file": "jaliefgevoel.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "saddle",
+                "query": "comparison level",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "von Neumann's saddle point.md"
+                "file": "jaliefgevoel.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "von Neumann's saddle point.md",
+                "file": "jaliefgevoel.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "von Neumann's saddle point.md",
+                "file": "jaliefgevoel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,15 +190,15 @@
   },
   "active": "da1daec1d7409ded",
   "lastOpenFiles": [
+    "jaliefgevoel.md",
+    "comparison level for alternatives.md",
+    "value-action gap.md",
     "von Neumann's saddle point.md",
     "minimal techno.md",
     "purple heart (emoji).md",
     "Research Domain Criteria.md",
     "toxic relationships.md",
     "financial independence.md",
-    "posthuman.md",
-    "superhuman.md",
-    "transhumanism.md",
-    "strategic pluralism.md"
+    "posthuman.md"
   ]
 }
