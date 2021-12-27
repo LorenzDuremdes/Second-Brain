@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jaliefgevoel.md",
+                "file": "Minecraft.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "jaliefgevoel.md",
+                    "file": "Minecraft.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "comparison level",
+                "query": "minecraft",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jaliefgevoel.md"
+                "file": "Minecraft.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "jaliefgevoel.md",
+                "file": "Minecraft.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jaliefgevoel.md",
+                "file": "Minecraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,15 +190,15 @@
   },
   "active": "da1daec1d7409ded",
   "lastOpenFiles": [
-    "jaliefgevoel.md",
+    "Minecraft.md",
+    "oligopoly.md",
     "comparison level for alternatives.md",
+    "temporal motivation formula.md",
+    "jaliefgevoel.md",
     "value-action gap.md",
     "von Neumann's saddle point.md",
     "minimal techno.md",
     "purple heart (emoji).md",
-    "Research Domain Criteria.md",
-    "toxic relationships.md",
-    "financial independence.md",
-    "posthuman.md"
+    "Research Domain Criteria.md"
   ]
 }
