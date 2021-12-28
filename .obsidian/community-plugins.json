@@ -1,9 +1,9 @@
 [
   "maximise-active-pane-obsidian",
   "obsidian-journey-plugin",
-  "obsidian-advanced-appearance",
   "obsidian-related-notes-finder",
   "adjacency-matrix-maker",
   "obsidian-mind-map",
-  "graph-analysis"
+  "graph-analysis",
+  "obsidian-minimal-settings"
 ]
