@@ -131,11 +131,11 @@
 
 #### [[human memory]]
 1. (familiar ↮ stranger) · abuse → [[memory]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 227]
-	1. women who were younger at the [[time]] of the incident and those who were molested by someone they knew were more likely to have forgotten their abuse
+	1. [[women]] who were younger at the [[time]] of the incident and those who were molested by someone they knew were more likely to have forgotten their abuse
 		1. why? e.g. not seeing it as abuse?
 
 ### [[shame]]
-1. how can traumas that carry more [[shame]] affect health more?^[The [[Happiness]] Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 157]
+1. how can traumas that carry more [[shame]] affect [[health]] more?^[The [[Happiness]] Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 157]
 	1. e.g. by not disclosing or keeping things secret due to [[feeling]] more shameful
 
 ### [[culture]]
@@ -187,7 +187,7 @@
 2. what can cause people with psychological trauma to experience severe bodily reactions e.g. asthma attacks?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 120]
 	1. them trying to ignore other bodily reactions
 	2. suppressing our inner cries for help does not stop our [[stress]] hormones from mobilizing the body
-		1. other: fibromyalgia, back and neck pain, migraines, digestive problems, irritable bowel syndrome, chronic fatigue
+		1. other: fibromyalgia, back and neck pain, migraines, digestive problems, irritable bowel [[syndrome]], chronic fatigue
 3. psychological trauma → [[subjective vitality]]
 	1. traumatized people keep secreting large amounts of [[stress]] hormones long after the actual danger has passed^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma], which can reduce [[subjective vitality]]
 4. psychological trauma → proprioception
@@ -258,10 +258,10 @@
 ## [[human memory]]
 1. what can cause psychological trauma memories to remain unchanged?
 	1. it's not being retrieved by the [[consciousness]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 227]
-	2. ◇[[amygdala]] storing memories longer than cortex
+	2. ◇[[amygdala]] storing memories longer than [[cortex]]
 2. it is enormously difficult to organize one’s traumatic experiences into a coherent account—a narrative with a beginning, a middle, and an end^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 58]
 3. age · abuse → [[memory]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 227]
-	1. women who were younger at the [[time]] of the incident and those who were molested by someone they knew were more likely to have forgotten their abuse
+	1. [[women]] who were younger at the [[time]] of the incident and those who were molested by someone they knew were more likely to have forgotten their abuse
 
 ### [[thalamus]]
 1. why is a traumatic [[memory]] "fragmented" at its creation ([[neurophysiology]])?

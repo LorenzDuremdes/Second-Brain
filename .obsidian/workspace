@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minecraft.md",
+                "file": "psychological trauma.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Minecraft.md",
+                    "file": "psychological trauma.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -52,7 +52,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.011177310335441093,
+                      "scale": 0.0078125,
                       "close": false
                     }
                   }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "minecraft",
+                "query": "trauma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minecraft.md"
+                "file": "psychological trauma.md"
               }
             }
           },
@@ -144,14 +144,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minecraft.md",
+                "file": "psychological trauma.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "ce56d58bd2b9a35d",
+            "id": "7312b002f7baea20",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minecraft.md",
+                "file": "psychological trauma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,17 +188,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "0415bd1425af29db",
+  "active": "da1daec1d7409ded",
   "lastOpenFiles": [
-    "Minecraft.md",
+    "psychological trauma.md",
+    "financial independence.md",
+    "minimal techno.md",
+    "Research Domain Criteria.md",
     "oligopoly.md",
+    "Minecraft.md",
     "comparison level for alternatives.md",
     "temporal motivation formula.md",
     "jaliefgevoel.md",
-    "value-action gap.md",
-    "von Neumann's saddle point.md",
-    "minimal techno.md",
-    "purple heart (emoji).md",
-    "Research Domain Criteria.md"
+    "value-action gap.md"
   ]
 }
