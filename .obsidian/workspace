@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "multivariate random variable.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "psychological trauma.md",
+                    "file": "multivariate random variable.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trauma",
+                "query": "explore",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychological trauma.md"
+                "file": "multivariate random variable.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "multivariate random variable.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "multivariate random variable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +190,8 @@
   },
   "active": "da1daec1d7409ded",
   "lastOpenFiles": [
+    "multivariate random variable.md",
+    "explore-exploit trade-off.md",
     "psychological trauma.md",
     "financial independence.md",
     "minimal techno.md",
@@ -197,8 +199,6 @@
     "oligopoly.md",
     "Minecraft.md",
     "comparison level for alternatives.md",
-    "temporal motivation formula.md",
-    "jaliefgevoel.md",
-    "value-action gap.md"
+    "temporal motivation formula.md"
   ]
 }
