@@ -10,7 +10,7 @@
 # [[emotional self-regulation]]
 1. how can the following increase a child's tolerance?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 137]
 	1. If that gnawing sensation in his belly makes a baby cry, the breast or bottle arrives. If he’s scared, someone holds and rocks him until he calms down. If his bowels erupt, someone comes to make him clean and dry.
-		1. associating intense sensations with safety, comfort, and mastery is the foundation of self-regulation, self-soothing, and self-nurture
+		1. associating intense sensations with safety, comfort, and mastery is the foundation of [[self]]-regulation, [[self]]-soothing, and [[self]]-nurture
 
 # animal
 1. peer-raised monkeys → cortisol^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 186]

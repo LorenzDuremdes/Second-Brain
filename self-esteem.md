@@ -4,8 +4,8 @@ Vulnerability is courage in you and inadequacy in me.
 
 I’m drawn to your vulnerability but repelled by mine.
 
-- is analogous to a lack of self-esteem
-- self-esteem; self-love; self-[[trust]]
+- is analogous to a lack of [[self]]-esteem
+- [[self]]-esteem; [[self]]-love; [[self]]-[[trust]]
 
 —Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead, 32
 

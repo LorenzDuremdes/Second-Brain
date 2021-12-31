@@ -1,1 +1,1 @@
-1. self-knowledge (psychology); the _desire_ to seek such knowledge that guide the development of the [[self-concept]] even if that concept is flawed^[https://en.wikipedia.org/wiki/Self-knowledge_(psychology)] 
+1. [[self]]-knowledge (psychology); the _desire_ to seek such knowledge that guide the development of the [[self-concept]] even if that concept is flawed^[https://en.wikipedia.org/wiki/Self-knowledge_(psychology)] 

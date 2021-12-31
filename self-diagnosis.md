@@ -1,1 +1,1 @@
-1. all over-the-counter (non-prescription) [[medication|medications]] are offered on the assumption that people are capable of self-diagnosis^[https://en.wikipedia.org/wiki/Self-diagnosis#cite_note-isbn0-471-98655-0-6]
+1. all over-the-counter (non-prescription) [[medication|medications]] are offered on the assumption that people are capable of [[self]]-diagnosis^[https://en.wikipedia.org/wiki/Self-diagnosis#cite_note-isbn0-471-98655-0-6]
