@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "multivariate random variable.md",
+                "file": "psychotherapy.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "multivariate random variable.md",
+                    "file": "psychotherapy.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "explore",
+                "query": "psychotherapy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "multivariate random variable.md"
+                "file": "psychotherapy.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "multivariate random variable.md",
+                "file": "psychotherapy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "multivariate random variable.md",
+                "file": "psychotherapy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +190,7 @@
   },
   "active": "da1daec1d7409ded",
   "lastOpenFiles": [
+    "psychotherapy.md",
     "multivariate random variable.md",
     "explore-exploit trade-off.md",
     "psychological trauma.md",
@@ -198,7 +199,6 @@
     "Research Domain Criteria.md",
     "oligopoly.md",
     "Minecraft.md",
-    "comparison level for alternatives.md",
-    "temporal motivation formula.md"
+    "comparison level for alternatives.md"
   ]
 }
