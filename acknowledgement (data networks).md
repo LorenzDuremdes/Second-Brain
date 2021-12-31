@@ -1,0 +1,1 @@
+1. acknowledgement (data networks); a signal that is passed between communicating processes, computers, or devices to signify acknowledgment, or receipt of message, as part of a communications protocol^[https://en.wikipedia.org/wiki/Acknowledgement_(data_networks)]

@@ -1,0 +1,2 @@
+1. checksum; a small-sized block of data derived from another block of digital data for the purpose of detecting errors that may have been introduced during its transmission or storage^[https://en.wikipedia.org/wiki/Checksum]
+	1. if the computed checksum for the current data input matches the stored value of a previously computed checksum, there is a very high [[probability]] the data has not been accidentally altered or corrupted

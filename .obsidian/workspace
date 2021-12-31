@@ -4,32 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "4ac93cd0f52e0573",
+        "id": "557f53dea4af6d27",
         "type": "split",
         "children": [
           {
-            "id": "da1daec1d7409ded",
+            "id": "800a1026925a4b1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "self.md",
+                "file": "symmetry breaking.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "000454eb2d190c96"
           },
           {
-            "id": "a5ba8bc94fcbb9e7",
+            "id": "c90ea8d5224110a9",
             "type": "split",
             "children": [
               {
-                "id": "0415bd1425af29db",
+                "id": "fcd4be548f68134d",
                 "type": "leaf",
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "self.md",
+                    "file": "symmetry breaking.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -52,11 +53,12 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.0078125,
+                      "scale": 0.013596673034996468,
                       "close": false
                     }
                   }
-                }
+                },
+                "group": "000454eb2d190c96"
               },
               {
                 "id": "bd40bc667845215f",
@@ -97,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "self",
+                "query": "exponentially weighted",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "self.md"
+                "file": "symmetry breaking.md"
               }
             }
           },
@@ -144,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "self.md",
+                "file": "symmetry breaking.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "self.md",
+                "file": "symmetry breaking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,17 +190,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "da1daec1d7409ded",
+  "active": "800a1026925a4b1e",
   "lastOpenFiles": [
-    "self.md",
-    "psychotherapy.md",
-    "multivariate random variable.md",
-    "explore-exploit trade-off.md",
-    "psychological trauma.md",
+    "symmetry breaking.md",
+    "tit for two tats.md",
+    "Transmission Control Protocol.md",
+    "exponentially weighted moving average.md",
+    "Trinity study.md",
     "financial independence.md",
-    "minimal techno.md",
-    "Research Domain Criteria.md",
-    "oligopoly.md",
-    "Minecraft.md"
+    "ilunga (Luba-Kasai).md",
+    "exponential growth.md",
+    "checksum.md",
+    "acknowledgement (data networks).md"
   ]
 }
