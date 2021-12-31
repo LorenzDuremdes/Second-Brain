@@ -1,0 +1,2 @@
+# [[neuropsychology]]
+1. striatum; compels us to seek out and enjoy interpersonal interactions, also seems to play a key role in [[emotion]] and [[motivation]] in a specifically sexual scenario^[The Happy [[Brain]]: The Science of Where [[Happiness]] Comes from, and Why, p. 127]
