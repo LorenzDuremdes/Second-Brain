@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exponentially weighted moving average.md",
+                "file": "road bike.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "exponentially weighted moving average.md",
+                    "file": "road bike.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "exponentially",
+                "query": "bike",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -116,7 +116,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exponentially weighted moving average.md"
+                "file": "road bike.md"
               }
             }
           },
@@ -146,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exponentially weighted moving average.md",
+                "file": "road bike.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exponentially weighted moving average.md",
+                "file": "road bike.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +193,7 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "road bike.md",
     "exponentially weighted moving average.md",
     "contention (telecommunications).md",
     "collision (telecommunications).md",
@@ -200,7 +202,6 @@
     "place identity.md",
     "algorithmic efficiency.md",
     "sexual intercourse.md",
-    "sex.md",
-    "dating.md"
+    "sex.md"
   ]
 }
