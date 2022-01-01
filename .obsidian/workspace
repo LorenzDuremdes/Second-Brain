@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sexual intercourse.md",
+                "file": "exponentially weighted moving average.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "sexual intercourse.md",
+                    "file": "exponentially weighted moving average.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sex",
+                "query": "exponentially",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -116,8 +116,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sexual intercourse.md"
+                "file": "exponentially weighted moving average.md"
               }
             }
           },
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sexual intercourse.md",
+                "file": "exponentially weighted moving average.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +160,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a834b3f3361a68cb",
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sexual intercourse.md",
+                "file": "exponentially weighted moving average.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +192,15 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "exponentially weighted moving average.md",
+    "contention (telecommunications).md",
+    "collision (telecommunications).md",
+    "exponential backoff.md",
+    "seduction.md",
+    "place identity.md",
+    "algorithmic efficiency.md",
     "sexual intercourse.md",
     "sex.md",
-    "dating.md",
-    "\"Play chess, not checkers.\".md",
-    "powergaming.md",
-    "multi-boxing.md",
-    "adversity hypothesis.md",
-    "pharmacology.md",
-    "antidepressant.md",
-    "orbitofrontal cortex.md"
+    "dating.md"
   ]
 }
