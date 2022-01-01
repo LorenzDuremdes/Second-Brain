@@ -1,3 +1,7 @@
+# microsociology
+1. 'good' sexual intercourse is all about communication (rather than e.g. techniques)^[https://qr.ae/pGzyut, Franklin Veaux]
+	1. e.g. each other's desires, bodies, turn-offs
+
 # biopsychology
 1. sexual [[arousal]] ↮ sexual desire^[The Happy [[Brain]]: The Science of Where [[Happiness]] Comes from, and Why, p. 121]
 	1. the former means we are physically and mentally able to have [[sex]], the latter means we want to

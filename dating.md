@@ -1,3 +1,10 @@
+# improving
+1. does Mark Manson believe you necessarily need to learn a "skill-set" to have a conversation with a woman? + why^[Models: Attract Women Through Honesty, Mark Manson]
+	1. If you can have a conversation with a friend or family member, then you already possess the only “skill-set” required in attracting a woman. There’s nothing to learn, only things to do. And the fear doesn’t go away, you learn to hone it to help you.
+	2. **see also**
+		1. you don't need "dating experience from high school"^[https://www.reddit.com/r/unpopularopinion/comments/rt9e0j/dating_in_high_school_is_important_even_if_you/]
+		2. 'good' sex is all about communication (rather than techniques)^[https://qr.ae/pGzyut, Franklin Veaux]
+
 # modern dating [[culture]]
 1. why probably did "being too available" became a thing?^[https://www.reddit.com/r/dating_advice/comments/i6ldhp/comment/g0wpgcu/?utm_source=share&utm_medium=web2x&context=3]
 	1. people who want the chase they want it because that's what makes them able to lie to themselves that they like the person, but when what they actually like, is to win
