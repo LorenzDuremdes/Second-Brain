@@ -1,0 +1,1 @@
+1. compatibilism ([[philosophy]]); the belief that free will and determinism are mutually compatible and that it is possible to believe in both without being logically inconsistent.^[https://en.wikipedia.org/wiki/Compatibilism#cite_note-1]

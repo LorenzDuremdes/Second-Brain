@@ -29,6 +29,7 @@
 	1. for a 1x system, put rear on biggest cog
 	2. front cassette chain to underneath
 	3. bring together and +4 rivets as cutting point
+4. fietsketting (levensduur, persoonlijk)≈3000 km^[Strava, Lorenz Duremdes]
 
 # related
 1. [[road cycling]]

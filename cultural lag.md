@@ -1,0 +1,1 @@
+1. cultural lag; refers to the notion that [[culture]] takes [[time]] to catch up with technological innovations, and the resulting social problems that are caused by this lag^[https://en.wikipedia.org/wiki/Cultural_lag]
