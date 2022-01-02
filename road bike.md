@@ -25,6 +25,10 @@
 ## chain
 1. low ↮ high gear → chain life span^[https://www.bicycling.com/repair/a20022235/6-things-you-might-not-know-about-your-bike-chain/]
 	1. pedaling in a tougher gear puts more [[stress]] on the chain, significantly shortening its lifespan
+2. chain length sizing without old chain as reference^[https://www.parktool.com/blog/repair-help/chain-length-sizing]
+	1. for a 1x system, put rear on biggest cog
+	2. front cassette chain to underneath
+	3. bring together and +4 rivets as cutting point
 
 # related
 1. [[road cycling]]
