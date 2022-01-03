@@ -1,0 +1,1 @@
+1. Ferdinand Demara; posed as a surgeon aboard a Navy destroyer in the Korean War and was forced to perform surgery on 16 people. He proceeded to speed-read a textbook on general surgery and was able to successfully perform all the surgeries without anyone dying.^[https://www.reddit.com/r/todayilearned/comments/eyrz50/til_the_great_impostor_ferdinand_demara_posed_as/]

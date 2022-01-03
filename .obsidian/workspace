@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "informed optimism.md",
+                "file": "vicarious embarrassment.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "informed optimism.md",
+                    "file": "vicarious embarrassment.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "informed optimism.md"
+                "file": "vicarious embarrassment.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "informed optimism.md",
+                "file": "vicarious embarrassment.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "informed optimism.md",
+                "file": "vicarious embarrassment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +192,8 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "vicarious embarrassment.md",
+    "Ferdinand Demara.md",
     "informed optimism.md",
     "Frankfurt cases.md",
     "semicompatibilism (philosophy).md",
@@ -199,8 +201,6 @@
     "cultural lag.md",
     "technological somnambulism.md",
     "technological reductionism.md",
-    "road bike.md",
-    "exponentially weighted moving average.md",
-    "contention (telecommunications).md"
+    "road bike.md"
   ]
 }
