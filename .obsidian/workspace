@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frankfurt cases.md",
+                "file": "informed optimism.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Frankfurt cases.md",
+                    "file": "informed optimism.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frankfurt cases.md"
+                "file": "informed optimism.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frankfurt cases.md",
+                "file": "informed optimism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frankfurt cases.md",
+                "file": "informed optimism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +192,7 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "informed optimism.md",
     "Frankfurt cases.md",
     "semicompatibilism (philosophy).md",
     "compatibilism (philosophy).md",
@@ -200,7 +201,6 @@
     "technological reductionism.md",
     "road bike.md",
     "exponentially weighted moving average.md",
-    "contention (telecommunications).md",
-    "collision (telecommunications).md"
+    "contention (telecommunications).md"
   ]
 }
