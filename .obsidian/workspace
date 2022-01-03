@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vicarious embarrassment.md",
+                "file": "road bike.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "vicarious embarrassment.md",
+                    "file": "road bike.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bike",
+                "query": "road bike",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -116,7 +116,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vicarious embarrassment.md"
+                "file": "road bike.md"
               }
             }
           },
@@ -146,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vicarious embarrassment.md",
+                "file": "road bike.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -160,8 +161,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a834b3f3361a68cb",
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vicarious embarrassment.md",
+                "file": "road bike.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +192,8 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "road bike.md",
+    "bike fit.md",
     "vicarious embarrassment.md",
     "Ferdinand Demara.md",
     "informed optimism.md",
@@ -199,8 +201,6 @@
     "semicompatibilism (philosophy).md",
     "compatibilism (philosophy).md",
     "cultural lag.md",
-    "technological somnambulism.md",
-    "technological reductionism.md",
-    "road bike.md"
+    "technological somnambulism.md"
   ]
 }

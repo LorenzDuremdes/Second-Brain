@@ -22,6 +22,35 @@
 	1. there comes a [[trade-off]] between aerodynamics and loss in muscular power output ([[optimization]]) and also being able to have the strength to hold a lower position
 
 # parts
+## achterderailleur
+### kabelspanning
+1. naar rechts draaien = minder kabelspanning (derailleur)^[https://www.12gobiking.nl/blog/achterderailleur-afstellen]
+	1. dezelfde richting als je de fiets op hebt gehang of ondersteboven hebt
+2. als je derailleur geen tandje hoger wilt schakelen, draai dan meer spanning op de kabel^[https://www.mantel.com/blog/derailleur-afstellen]
+	1. schakel nu helemaal de cassette op, dus steeds naar een lichter verzet. Draai zoveel spanning bij totdat dit helemaal soepel gaat.
+	2. als je de ketting niet op het kleinste tandwiel krijgt dan is waarschijnlijk de kabelspanning van de versnelling te hoog^[https://www.12gobiking.nl/blog/achterderailleur-afstellen]
+
+### H-, L-, en B-schroef
+1. waarom gaan de H- en L-schroeven naar buiten als je de schroef uitdraait?
+	1. omdat de kabel/veer dan wat minder strak gaat staan^[https://www.12gobiking.nl/blog/achterderailleur-afstellen]
+	2. als de achterderailleur te ver van de cassette staat zoals in de afbeelding hieronder dan schakelt de derailleur bij de meeste tandwielen niet goed
+		<img src="https://www.12gobiking.nl/media/wysiwyg/Positie_achterderailleur.jpg" width="300" />
+	3. niet goed naar het grootste tandwiel, want niet 'hoog' genoeg (te dicht tegen de cassette)
+	4. vaak weet je dat je de hoogte moet afstellen als de L-schroef (helemaal) is uitgedraaid maar alsnog niet op het grootste tandwiel komt of als de L- en H-schroef ongeveer goed zijn afgesteld, maar niet bij de meeste tandwielen goed schakelt
+2. met de derde stelschroef kan de hoogte van de achterderailleur aangepast worden^[https://www.12gobiking.nl/blog/achterderailleur-afstellen]
+	1. derde stelschroef; B-schroef
+3. de H-schroef stel je het beste af tijdens de kleinste achtertandwiel, want H-schroef stelt de buitenste limiet af^[https://www.mantel.com/blog/derailleur-afstellen]
+	1. de L-schroef het beste op het grootste achtertandwiel
+2. als je ketting op deze manier op het kleinste tandwiel staat, dan is je buitenste limiet niet goed afgesteld^[https://www.mantel.com/blog/derailleur-afstellen]
+	<img src="https://d2gqkshisthvn1.cloudfront.net/blog/wp-content/uploads/2020_10_Techdoc-derailleurs-afstellen-Shimano-Ultregra-7O7A0547.jpg" width="300" />
+3. de buitenste limiet stel je af met de H-schroef (racefiets)^[https://www.mantel.com/blog/derailleur-afstellen]
+	1. buitenste limiet=hoogste versnelling
+	2. de binnenste met de L-schroef
+	3. H=high gear^[https://youtu.be/_85UXovJUNQ?t=90]
+4. met de L-schroef gaat de **voorderailleur** naar binnen of buiten^[https://www.12gobiking.nl/blog/achterderailleur-afstellen]
+	1. naar binnen als je het losdraait
+	2. de H-schroef uitdraaien zet de achterderailleur meer naar buiten
+
 ## chain
 1. low ↮ high gear → chain life span^[https://www.bicycling.com/repair/a20022235/6-things-you-might-not-know-about-your-bike-chain/]
 	1. pedaling in a tougher gear puts more [[stress]] on the chain, significantly shortening its lifespan
