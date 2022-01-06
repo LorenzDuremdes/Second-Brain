@@ -1,0 +1,1 @@
+1. startle reflex; a largely unconscious defensive response to sudden or threatening stimuli, such as sudden noise or sharp movement, and is associated with negative affect.^[https://en.wikipedia.org/wiki/Startle_response#cite_note-1]

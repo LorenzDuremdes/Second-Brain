@@ -1,0 +1,1 @@
+1. orienting response; an organism's immediate response to a change in its environment, when that change is not sudden enough to elicit the [[startle reflex]]

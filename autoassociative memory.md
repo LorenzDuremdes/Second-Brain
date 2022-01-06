@@ -2,3 +2,4 @@
 
 # applicabilities
 1. they are very effective in de-noising or removing interference from the input (how?)^[https://en.wikipedia.org/wiki/Autoassociative_memory]
+	1. less possible interference due to less items?

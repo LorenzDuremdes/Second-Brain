@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "road bike.md",
+                "file": "image compression.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "road bike.md",
+                    "file": "image compression.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -53,7 +53,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.007945326266563529,
+                      "scale": 0.016263210881038017,
                       "close": false
                     }
                   }
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "road bike",
+                "query": "compress",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -116,8 +116,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "road bike.md"
+                "file": "image compression.md"
               }
             }
           },
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "road bike.md",
+                "file": "image compression.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +160,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a834b3f3361a68cb",
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "road bike.md",
+                "file": "image compression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +192,15 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
-    "road bike.md",
-    "bike fit.md",
-    "vicarious embarrassment.md",
-    "Ferdinand Demara.md",
-    "informed optimism.md",
-    "Frankfurt cases.md",
-    "semicompatibilism (philosophy).md",
-    "compatibilism (philosophy).md",
-    "cultural lag.md",
-    "technological somnambulism.md"
+    "image compression.md",
+    "squoosh.app.md",
+    "chroma subsampling.md",
+    "advanced audio coding.md",
+    "orienting response.md",
+    "startle reflex.md",
+    "intimate relationship.md",
+    "psychological trauma.md",
+    "activation (Boltzmann machine).md",
+    "locality-sensitive hashing.md"
   ]
 }

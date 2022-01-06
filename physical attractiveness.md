@@ -9,6 +9,10 @@
 # face
 2. the left side of the face is typically found to be more attractive^[https://blogs.unimelb.edu.au/sciencecommunication/2020/09/25/whats-your-best-side]
 
+## improve
+1. wat kun je het beste op lange termijn gebruiken tegen rimpels?^[https://www.reddit.com/r/thenetherlands/comments/ruiz80/comment/hqzxniu/?utm_source=share&utm_medium=web2x&context=3]
+	1. zonnebrand
+
 ## [[neuroscience]]
 1. studies consistently find that activity in certain parts of the [[orbitofrontal cortex]] increases with increasing attractiveness of **faces**.^[https://en.wikipedia.org/wiki/Physical_attractiveness#cite_note-250]^[https://en.wikipedia.org/wiki/Physical_attractiveness#cite_note-251]^[https://en.wikipedia.org/wiki/Physical_attractiveness#cite_note-:0-247]^[https://en.wikipedia.org/wiki/Physical_attractiveness#cite_note-252]^[https://en.wikipedia.org/wiki/Physical_attractiveness#cite_note-:1-253]
 2. with regard to [[brain]] activation related to the perception of attractive **bodies**, one study with heterosexual participants suggests that activity in the nucleus accumbens and the anterior cingulate [[cortex]] increases with increasing attractiveness
