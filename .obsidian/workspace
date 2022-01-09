@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "image compression.md",
+                "file": "sweatshop.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "image compression.md",
+                    "file": "sweatshop.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "compress",
+                "query": "one minute",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "image compression.md"
+                "file": "sweatshop.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "image compression.md",
+                "file": "sweatshop.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "image compression.md",
+                "file": "sweatshop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +192,15 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "sweatshop.md",
+    "fiets van de zaak.md",
+    "werkkostenregeling.md",
+    "Individueel Keuzebudget.md",
+    "Leadership and the One Minute Manager.md",
     "image compression.md",
     "squoosh.app.md",
     "chroma subsampling.md",
     "advanced audio coding.md",
-    "orienting response.md",
-    "startle reflex.md",
-    "intimate relationship.md",
-    "psychological trauma.md",
-    "activation (Boltzmann machine).md",
-    "locality-sensitive hashing.md"
+    "orienting response.md"
   ]
 }

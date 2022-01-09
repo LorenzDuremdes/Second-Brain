@@ -1,2 +1,2 @@
-1. Sharp RGB ↮ YUV (image compression)^[https://www.ctrl.blog/entry/webp-sharp-yuv.html]^[https://en.wikipedia.org/wiki/Chroma_subsampling#Gamma_error]
+1. Sharp RGB ↮ YUV ([[image compression]])^[https://www.ctrl.blog/entry/webp-sharp-yuv.html]^[https://en.wikipedia.org/wiki/Chroma_subsampling#Gamma_error]
 	1. YUV (conversion) might be better at higher compression especially with higher "Passes"

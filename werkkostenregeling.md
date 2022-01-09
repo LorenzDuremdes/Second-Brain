@@ -1,0 +1,2 @@
+1. werkkostenregeling (WKR); kunt u als werkgever onbelaste vergoedingen aan uw werknemers geven^[https://www.gazelle.nl/zakelijk/fietsplan/wkr]
+	1. u mag ook zaken vergoeden waar een werknemer privé voordeel van kan hebben e.g. e-bike

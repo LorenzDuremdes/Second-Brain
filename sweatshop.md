@@ -1,0 +1,1 @@
+1. sweatshop; a crowded^[https://en.wikipedia.org/wiki/Sweatshop#cite_note-1] workplace with very poor, socially unacceptable or illegal working conditions
