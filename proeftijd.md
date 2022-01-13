@@ -1,0 +1,1 @@
+1. proeftijd; een soort kennismakingsperiode. Tijdens deze periode kunnen u en uw werkgever de arbeidsovereenkomst direct opzeggen.^[https://www.rijksoverheid.nl/onderwerpen/arbeidsovereenkomst-en-cao/vraag-en-antwoord/hoelang-duurt-een-proeftijd]

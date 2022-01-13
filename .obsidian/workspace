@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sweatshop.md",
+                "file": "lumen∥lux.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "sweatshop.md",
+                    "file": "lumen∥lux.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "one minute",
+                "query": "lumen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sweatshop.md"
+                "file": "lumen∥lux.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sweatshop.md",
+                "file": "lumen∥lux.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sweatshop.md",
+                "file": "lumen∥lux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +192,8 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "lumen∥lux.md",
+    "proeftijd.md",
     "sweatshop.md",
     "fiets van de zaak.md",
     "werkkostenregeling.md",
@@ -199,8 +201,6 @@
     "Leadership and the One Minute Manager.md",
     "image compression.md",
     "squoosh.app.md",
-    "chroma subsampling.md",
-    "advanced audio coding.md",
-    "orienting response.md"
+    "chroma subsampling.md"
   ]
 }
