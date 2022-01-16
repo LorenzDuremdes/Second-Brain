@@ -3,3 +3,6 @@
 
 # neurophysiology
 1. the brain processes social approval and financial gain in roughly the same way^[The Happy Brain: The Science of Where[[happiness| Happines]]s Comes from, and Why, p. 109]
+
+# related
+1. [[organismic integration theory]]

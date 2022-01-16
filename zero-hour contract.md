@@ -1,0 +1,1 @@
+1. zero-hour contract; a term used to describe a type of [[employment]] contract between an employer and an employee whereby the employer is not obliged to provide any minimum number of working hours to the employee^[https://en.wikipedia.org/wiki/Zero-hour_contract]

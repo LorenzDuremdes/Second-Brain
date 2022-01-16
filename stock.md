@@ -1,0 +1,2 @@
+1. the market usually shows 'bear' during open hours^[https://www.reddit.com/r/Superstonk/comments/s2a8fh/comment/hsdr5lr/?utm_source=share&utm_medium=web2x&context=3]
+	1. best to buy during the dip that usually shows during open hours (and hold)

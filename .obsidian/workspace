@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lumen∥lux.md",
+                "file": "human sexuality.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "lumen∥lux.md",
+                    "file": "human sexuality.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -53,7 +53,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.016263210881038017,
+                      "scale": 0.011367344306907034,
                       "close": false
                     }
                   }
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lumen",
+                "query": "sexuality",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lumen∥lux.md"
+                "file": "human sexuality.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lumen∥lux.md",
+                "file": "human sexuality.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lumen∥lux.md",
+                "file": "human sexuality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +192,15 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "human sexuality.md",
+    "zero-hour contract.md",
+    "organismic integration theory.md",
+    "normative social influence.md",
+    "stock.md",
     "lumen∥lux.md",
     "proeftijd.md",
     "sweatshop.md",
     "fiets van de zaak.md",
-    "werkkostenregeling.md",
-    "Individueel Keuzebudget.md",
-    "Leadership and the One Minute Manager.md",
-    "image compression.md",
-    "squoosh.app.md",
-    "chroma subsampling.md"
+    "werkkostenregeling.md"
   ]
 }
