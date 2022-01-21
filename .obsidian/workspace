@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "human sexuality.md",
+                "file": "GW501516.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "human sexuality.md",
+                    "file": "GW501516.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sexuality",
+                "query": "gw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "human sexuality.md"
+                "file": "GW501516.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "human sexuality.md",
+                "file": "GW501516.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "human sexuality.md",
+                "file": "GW501516.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +192,15 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "GW501516.md",
+    "Untitled.md",
+    "Schwerpunkt.md",
     "human sexuality.md",
     "zero-hour contract.md",
     "organismic integration theory.md",
     "normative social influence.md",
     "stock.md",
     "lumen∥lux.md",
-    "proeftijd.md",
-    "sweatshop.md",
-    "fiets van de zaak.md",
-    "werkkostenregeling.md"
+    "proeftijd.md"
   ]
 }
