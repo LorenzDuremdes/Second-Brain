@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GW501516.md",
+                "file": "symmetry breaking.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "GW501516.md",
+                    "file": "symmetry breaking.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -53,7 +53,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.011367344306907034,
+                      "scale": 0.009503539304003477,
                       "close": false
                     }
                   }
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gw",
+                "query": "symmetry",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GW501516.md"
+                "file": "symmetry breaking.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GW501516.md",
+                "file": "symmetry breaking.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GW501516.md",
+                "file": "symmetry breaking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +192,7 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "symmetry breaking.md",
     "GW501516.md",
     "agonist.md",
     "Schwerpunkt.md",
@@ -200,7 +201,6 @@
     "organismic integration theory.md",
     "normative social influence.md",
     "stock.md",
-    "lumen∥lux.md",
-    "proeftijd.md"
+    "lumen∥lux.md"
   ]
 }

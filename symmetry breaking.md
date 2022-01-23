@@ -2,3 +2,5 @@
 2. A ball is initially located at the top of the central hill (C). This position is an unstable equilibrium: a very small perturbation will cause it to fall to one of the two stable wells left (L) or right (R). Even if the hill is symmetric and there is no reason for the ball to fall on either side, the observed final state is not symmetric.^[By Tigraan - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=48446175]
 
 	<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Spontaneous_symmetry_breaking_from_an_instable_equilibrium.svg" width="200" />
+3. in his 1972 Science paper titled "More is different"^[https://en.wikipedia.org/wiki/Symmetry_breaking#cite_note-1] Nobel laureate P.W. Anderson used the idea of symmetry breaking to show that even if reductionism is true, its converse, constructionism, which is the idea that scientists can easily predict complex phenomena given theories describing their components, is not
+	1. how? ◇'ball fallen in symmetrical cliff → easy to retrace' but not its process itself ("theories describing their components")
