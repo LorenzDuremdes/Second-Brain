@@ -4,7 +4,7 @@
 		1. **related**: [[dynamic functional connectivity]]
 
 # neurophysiology
-1. most of the limbic system is compromised of the [[temporal lobe]] especially the [[amygdala]] [[hippocampus|and hippoca]]mpus^[The Happy Brain: The Science of Where Happiness Comes from, and Why, p. 126]
+1. most of the limbic system is compromised of the [[temporal lobe]] especially the [[amygdala]] [[hippocampus|and hippoca]]mpus^[The Happy Brain: The Science of Where [[happiness]] Comes from, and Why, p. 126]
 
 # [[ontogenesis]]
 1. the limbic system is organized mainly during the first 6 years of life but continues to evolve in a use-dependent manner (Hebbian theory)^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 75]

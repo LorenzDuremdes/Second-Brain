@@ -44,7 +44,7 @@
 	
 	>"X can make it easier to be happy."^[[The Happy [[Brain]]: The Science of Where Happiness Comes from, and Why, p. 59]]
 	1. removes splitting ([[psychology]]) + complex
-1. greater intelligence is more likely to make you happier^[The Happy [[Brain]]: The Science of Where Happiness Comes from, and Why, p. 65]
+1. greater [[intelligence]] is more likely to make you happier^[The Happy [[Brain]]: The Science of Where Happiness Comes from, and Why, p. 65]
 	1. why? ◇e.g. more freedom of action
 2. competence → happiness^[The Happy [[Brain]]: The Science of Where Happiness Comes from, and Why, p. 72]
 	1. when we feel we're competent, we're more likely to be happy
@@ -53,6 +53,8 @@
 1. a tendency to focus on financial matters reduces the likelihood that you'll be happy, regardless of income (at least among American [[women]])^[The Happy [[Brain]]: The Science of Where Happiness Comes from, and Why, p. 80]
 
 # [[psychology]]
+1. how can the pursuit of happiness be [[self]]-defeating?^[The Happy [[Brain]]: The Science of Where Happiness Comes from, and Why, p. 155]
+	1. these things that everyone assumes will make us happy, namely [[sex]], love and romance, can make us seriously unhappy if our brains are too focused on them, at the expense of other things that likely would make us happy e.g. focusing on other things e.g. laughing
 ## [[habituation]]
 1. how can there be less to none [[habituation]] to your home in relationship to happiness?^[The Happy [[Brain]]: The Science of Where Happiness Comes from, and Why, p. 40]
 	1. because it's biologically significant (vital functions e.g. nourishment, sleeping, warmth, plumbing)

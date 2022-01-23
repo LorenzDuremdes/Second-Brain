@@ -5,4 +5,4 @@
 	<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Hypothalamic%E2%80%93pituitary%E2%80%93gonadal_axis.svg" width="500" />
 	
 # functional specialization
-1. hypothalamic-pituitary-gonadal axis; stimulates and modulates sexual desire via release of [[sexual intercourse]] hormones, namely [[testosterone]] from the testes for men and oestrogen from the ovaries for women^[The Happy Brain: The Science of Where Happiness Comes from, and Why, p. 123]^[Goldstein, J. M., ‘[[sexual intercourse]], hormones and affective arousal circuitry dysfunction in schizophrenia’, Hormones and Behavior, 2006, 50(4), pp. 612–22]
+1. hypothalamic-pituitary-gonadal axis; stimulates and modulates sexual desire via release of [[sexual intercourse]] hormones, namely [[testosterone]] from the testes for men and oestrogen from the ovaries for women^[The Happy Brain: The Science of Where [[happiness]] Comes from, and Why, p. 123]^[Goldstein, J. M., ‘[[sexual intercourse]], hormones and affective arousal circuitry dysfunction in schizophrenia’, Hormones and Behavior, 2006, 50(4), pp. 612–22]

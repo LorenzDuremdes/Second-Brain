@@ -1,0 +1,1 @@
+1. vicar; in the Church of England, the priest of a parish, receiving a salary or stipend but not tithes^[https://en.wiktionary.org/wiki/vicar]

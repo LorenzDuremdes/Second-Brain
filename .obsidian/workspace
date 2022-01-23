@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "symmetry breaking.md",
+                "file": "tickling.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "symmetry breaking.md",
+                    "file": "tickling.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "symmetry",
+                "query": "laughter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "symmetry breaking.md"
+                "file": "tickling.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "symmetry breaking.md",
+                "file": "tickling.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "symmetry breaking.md",
+                "file": "tickling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +192,15 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "tickling.md",
+    "gargalesis.md",
+    "C tactile afferents.md",
+    "knismesis.md",
+    "laughter.md",
+    "vicar.md",
+    "happiness.md",
+    "technological reductionism.md",
     "symmetry breaking.md",
-    "GW501516.md",
-    "agonist.md",
-    "Schwerpunkt.md",
-    "human sexuality.md",
-    "zero-hour contract.md",
-    "organismic integration theory.md",
-    "normative social influence.md",
-    "stock.md",
-    "lumen∥lux.md"
+    "GW501516.md"
   ]
 }

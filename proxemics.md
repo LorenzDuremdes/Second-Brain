@@ -7,6 +7,6 @@
 	1. the proxemics zones might be smaller when alongside another, because when you are alongside someone, it is easier to use other aspects of [[body language]], such as turning away or avoiding [[eye contact]], to 'limit' your level of involvement with the other person
 2. introversion ↮ extraversion → proxemics^[http://www.sirc.org/publik/flirt.html]
 	1. extraverts generally feel more at ease with closer physical distances
-3. stress/anxiety → proxemics^[The Happy Brain: The Science of Where Happiness Comes from, and Why, p. 51]
+3. stress/anxiety → proxemics^[The Happy Brain: The Science of Where [[happiness]] Comes from, and Why, p. 51]
 	1. the former can expand the latter e.g. being less tolerant of people and things being too close
 	2. ◇can also reduce proxemics e.g. tend and befriend
