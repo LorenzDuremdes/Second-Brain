@@ -1,0 +1,1 @@
+1. cabin fever; refers to the distressing claustrophobic irritability or restlessness experienced when a person, or group, is stuck at an isolated location or in confined quarters for an extended time.^[https://en.wikipedia.org/wiki/Cabin_fever#cite_note-1]
