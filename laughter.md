@@ -6,3 +6,7 @@
 # [[neurophysiology]]
 1. doral upper pons ([[neurophysiology]]); laughter-coordinating center^[The Happy [[Brain]]: The Science of Where [[Happiness]] Comes from, and Why, p. 157]^[Wild, B., et al., ‘Neural correlates of laughter and humour’, [[Brain]], 2003, 126(10), pp. 2121–38]
 	1. it processes all the neurological activity that leads to the physiological process of laughter
+
+# miscellaneous
+1. why is a false smile called "'cheesy'"?^[The Happy [[Brain]]: The Science of Where [[Happiness]] Comes from, and Why, p. 159]
+	1. because of saying "cheese" when smiling on pictures

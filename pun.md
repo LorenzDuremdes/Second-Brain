@@ -1,0 +1,1 @@
+1. pun; a form of word play that exploits multiple meanings of a term, or of similar-sounding words, for an intended humorous or rhetorical effect.^[https://en.wikipedia.org/wiki/Pun#cite_note-1]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GW501516.md",
+                "file": "visual pun.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "GW501516.md",
+                    "file": "visual pun.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GW501516.md"
+                "file": "visual pun.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GW501516.md",
+                "file": "visual pun.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GW501516.md",
+                "file": "visual pun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +192,15 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "visual pun.md",
+    "rebus.md",
+    "pun.md",
+    "laughter.md",
+    "zygomaticus major muscle.md",
+    "Duchenne smile.md",
+    "orbicularis oculi muscle.md",
     "GW501516.md",
     "Individueel Keuzebudget.md",
-    "agonist.md",
-    "MK-677.md",
-    "cabin fever.md",
-    "peroxisome proliferator-activated receptor.md",
-    "tickling.md",
-    "gargalesis.md",
-    "C tactile afferents.md",
-    "knismesis.md"
+    "agonist.md"
   ]
 }
