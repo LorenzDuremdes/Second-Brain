@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "technological determinism.md",
+                "file": "GW501516.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "technological determinism.md",
+                    "file": "GW501516.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "technological determinism.md"
+                "file": "GW501516.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "technological determinism.md",
+                "file": "GW501516.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "technological determinism.md",
+                "file": "GW501516.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,10 +192,10 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "GW501516.md",
     "technological determinism.md",
     "MK-677.md",
     "Untitled.md",
-    "GW501516.md",
     "visual pun.md",
     "rebus.md",
     "pun.md",
