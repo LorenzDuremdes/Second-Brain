@@ -3,4 +3,4 @@
 	2. why "18th/19th century" + "German"?
 
 # related
-1. [[technological reductionism]]
+1. [[technological determinism]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MK-677.md",
+                "file": "technological determinism.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "MK-677.md",
+                    "file": "technological determinism.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "laughter",
+                "query": "technological",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MK-677.md"
+                "file": "technological determinism.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MK-677.md",
+                "file": "technological determinism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MK-677.md",
+                "file": "technological determinism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +192,7 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "technological determinism.md",
     "MK-677.md",
     "Untitled.md",
     "GW501516.md",
@@ -200,7 +201,6 @@
     "pun.md",
     "laughter.md",
     "zygomaticus major muscle.md",
-    "Duchenne smile.md",
-    "orbicularis oculi muscle.md"
+    "Duchenne smile.md"
   ]
 }
