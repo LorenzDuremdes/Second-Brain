@@ -1,0 +1,1 @@
+1. axial fatigue; results from loading weight onto the spine and is an intersection between local and systemic fatigue^[https://www.instagram.com/p/CZR-ZSGpOKZ/]

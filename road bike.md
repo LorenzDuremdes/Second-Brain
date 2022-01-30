@@ -24,7 +24,7 @@
 # parts
 ## achterderailleur
 ### kabelspanning
-1. naar rechts draaien = minder kabelspanning (derailleur)^[https://www.12gobiking.nl/blog/achterderailleur-afstellen]
+1. naar rechts draaien = ~~minder~~ kabelspanning (derailleur)^[https://www.12gobiking.nl/blog/achterderailleur-afstellen]
 	1. dezelfde richting als je de fiets op hebt gehang of ondersteboven hebt
 2. als je derailleur geen tandje hoger wilt schakelen, draai dan meer spanning op de kabel^[https://www.mantel.com/blog/derailleur-afstellen]
 	1. schakel nu helemaal de cassette op, dus steeds naar een lichter verzet. Draai zoveel spanning bij totdat dit helemaal soepel gaat.
@@ -47,7 +47,7 @@
 	1. buitenste limiet=hoogste versnelling
 	2. de binnenste met de L-schroef
 	3. H=high gear^[https://youtu.be/_85UXovJUNQ?t=90]
-4. met de L-schroef gaat de **voorderailleur** naar binnen of buiten^[https://www.12gobiking.nl/blog/achterderailleur-afstellen]
+4. ~~met de L-schroef gaat de **voorderailleur** naar binnen of buiten~~^[https://www.12gobiking.nl/blog/achterderailleur-afstellen]
 	1. naar binnen als je het losdraait
 	2. de H-schroef uitdraaien zet de achterderailleur meer naar buiten
 

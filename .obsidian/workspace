@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "performance-enhancing substance.md",
+                "file": "conflict (process).md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "performance-enhancing substance.md",
+                    "file": "conflict (process).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "performance enhancing",
+                "query": "conflict",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "performance-enhancing substance.md"
+                "file": "conflict (process).md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "performance-enhancing substance.md",
+                "file": "conflict (process).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "performance-enhancing substance.md",
+                "file": "conflict (process).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +192,15 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "conflict (process).md",
+    "Minecraft.md",
+    "axial fatigue.md",
+    "Lagrangian relaxation.md",
+    "constrained optimization.md",
+    "road bike.md",
+    "low intensity steady state.md",
     "performance-enhancing substance.md",
     "GW501516.md",
-    "technological determinism.md",
-    "MK-677.md",
-    "Untitled.md",
-    "visual pun.md",
-    "rebus.md",
-    "pun.md",
-    "laughter.md",
-    "zygomaticus major muscle.md"
+    "technological determinism.md"
   ]
 }

@@ -11,6 +11,9 @@
 1. what can you do to make an underwater tunnel more easily (Minecraft)?^[https://gaming.stackexchange.com/questions/21197/how-can-i-build-an-underwater-tunnel]
 	1. use doors to keep water outside while allowing you to work externally (from inside)
 
+## megastructures
+1. [Minewind DonFuer branch - Library of the Sun!](https://www.youtube.com/watch?v=UfrWJOwQ84Y)
+
 # enhancing experience
 ## visual
 1. optimal **screenshot** FOV (Minecraft)=30^[https://www.reddit.com/r/Minecraft/comments/ku6pxt/few_tips_on_how_to_make_screenshots_look_better/]
