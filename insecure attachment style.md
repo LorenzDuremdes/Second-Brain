@@ -1,4 +1,4 @@
-# interpersonal relationships
+# [[microsociology]]
 1. improve the following:
 
 	when someone really likes you, it's effortless

@@ -1,3 +1,11 @@
+# [[psychology]]
+1. are people always aware when they start turning into a taker (e.g. after honeymoon phase)?
+	1. not always
+
+		after the honeymoon phase he started being a taker and I continued being a giver
+
+		the problem wasn't that he didn't want to do those things for me, he just didn't realize that he had stopped doing them^[https://www.reddit.com/r/relationships/comments/q529b/comment/c3uuc07/?utm_source=share&utm_medium=web2x&context=3]
+
 # [[neuroscience]]
 1. what could cause people with many social connections to be more aloof with some?^[The Happy [[Brain]]: The Science of Where [[Happiness]] Comes from, and Why, p. 113]
 	1. ◇Dunbar's number

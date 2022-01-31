@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "insecure attachment style.md",
+                "file": "microsociology.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "insecure attachment style.md",
+                    "file": "microsociology.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "romance",
+                "query": "microsocio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "insecure attachment style.md"
+                "file": "microsociology.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "insecure attachment style.md",
+                "file": "microsociology.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "insecure attachment style.md",
+                "file": "microsociology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +192,15 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "microsociology.md",
     "insecure attachment style.md",
-    "secure attachment style.md",
     "conflict (process).md",
+    "secure attachment style.md",
     "matte painting.md",
     "Minecraft.md",
     "axial fatigue.md",
     "Lagrangian relaxation.md",
     "constrained optimization.md",
-    "road bike.md",
-    "low intensity steady state.md"
+    "road bike.md"
   ]
 }
