@@ -1,0 +1,4 @@
+1. matte painting; a painted representation of a landscape, set, or distant location that allows filmmakers to create the illusion of an environment that is not present at the filming location^[https://en.wikipedia.org/wiki/Matte_painting]
+2. the government warehouse in Raiders of the Lost Ark (1981) was painted on glass by Michael Pangrazio at Industrial Light & Magic, and combined with live-action footage of a government worker, pushing his cargo up the center aisle^[By Posted on Wikipedia to illustrate Government warehouse article., Fair use, https://en.wikipedia.org/w/index.php?curid=3587186]
+
+	<img src="https://upload.wikimedia.org/wikipedia/en/d/d5/Government_Warehouse.jpg" width="300" />

@@ -15,3 +15,4 @@
 # taken for granted
 1. everytime I brought it up "oh you're right" and things would better for 3 weeks till I chilled out and he (SO) could stop again^[https://www.reddit.com/r/AskWomen/comments/fx1dyx/comment/fmrx8js/?utm_source=share&utm_medium=web2x&context=3]
 2. If people aren’t made to EARN this kindness, they quickly learn to EXPECT and not APPRECIATE it.^[https://www.reddit.com/r/socialskills/comments/ey7tf5/comment/fggffad/?utm_source=share&utm_medium=web2x&context=3]
+3. When you realize they take but don’t give^[https://www.reddit.com/r/AskReddit/comments/qcqfz4/comment/hhhdjap/?utm_source=share&utm_medium=web2x&context=3]
