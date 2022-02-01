@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "microsociology.md",
+                "file": "MK-677.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "microsociology.md",
+                    "file": "MK-677.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "microsociology.md"
+                "file": "MK-677.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "microsociology.md",
+                "file": "MK-677.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "microsociology.md",
+                "file": "MK-677.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +192,7 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "MK-677.md",
     "microsociology.md",
     "insecure attachment style.md",
     "conflict (process).md",
@@ -200,7 +201,6 @@
     "Minecraft.md",
     "axial fatigue.md",
     "Lagrangian relaxation.md",
-    "constrained optimization.md",
-    "road bike.md"
+    "constrained optimization.md"
   ]
 }
