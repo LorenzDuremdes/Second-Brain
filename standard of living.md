@@ -1,0 +1,1 @@
+1. standard of living; the level of income, comforts and services available, generally applied to a society or location, rather than to an individual.^[https://en.wikipedia.org/wiki/Standard_of_living#cite_note-1]

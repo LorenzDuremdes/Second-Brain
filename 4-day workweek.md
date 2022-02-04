@@ -1,0 +1,2 @@
+# sources
+1. [We zijn echt geïndoctrineerd om 40 uur per dag te werken, en als je dat niet doet dan draag je niet mee. Ik werk zelf 20 uur (al wil ik waarschijnlijk wel iets meer), en voel soms een soort oordeel.](https://www.reddit.com/r/thenetherlands/comments/sharvl/comment/hv2i4s5/?utm_source=share&utm_medium=web2x&context=3)

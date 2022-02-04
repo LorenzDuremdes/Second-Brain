@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MK-677.md",
+                "file": "leisure.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "MK-677.md",
+                    "file": "leisure.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "microsocio",
+                "query": "social status",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MK-677.md"
+                "file": "leisure.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MK-677.md",
+                "file": "leisure.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MK-677.md",
+                "file": "leisure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +192,15 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
-    "MK-677.md",
-    "microsociology.md",
-    "insecure attachment style.md",
-    "conflict (process).md",
-    "secure attachment style.md",
-    "matte painting.md",
-    "Minecraft.md",
-    "axial fatigue.md",
-    "Lagrangian relaxation.md",
-    "constrained optimization.md"
+    "leisure.md",
+    "standard of living.md",
+    "self-sufficient home.md",
+    "social status.md",
+    "Your Money or Your Life by Vicki Robin, Joe Dominguez.md",
+    "jobism.md",
+    "mental capital.md",
+    "codependency.md",
+    "4-day workweek.md",
+    "task failure (physiology).md"
   ]
 }

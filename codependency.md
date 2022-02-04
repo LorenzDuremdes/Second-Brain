@@ -1,0 +1,5 @@
+# examples
+1. ‘I’ll change him (or her) to do what I want, and then I’ll be happy.’^[https://www.gottman.com/blog/how-i-stopped-trying-to-control-my-partner-and-took-responsibility-for-my-own-happiness/]
+2. Now, instead of playing therapist without their consent, I say, “What you’re describing sounds like something I’ve been reading about lately. Do you want to hear the connection?” or “I found an article that describes the type of family you grew up in. Do you want me to send it to you?”
+
+	At first, their refusal baffled and insulted me. _They have no idea how much this information could_ help _them!_ I’d fume silently. _They must not care about their healing or personal growth. They must not [[trust]] that I know what I’m talking about._^[[https://www.gottman.com/blog/how-i-stopped-trying-to-control-my-partner-and-took-responsibility-for-my-own-happiness/]]

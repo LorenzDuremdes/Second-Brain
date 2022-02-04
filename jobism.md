@@ -1,0 +1,1 @@
+1. jobism; our society has a hidden hierarchy based on what you do for money^[Your Money or Your Life by Vicki Robin, Joe Dominguez, p. 31]
