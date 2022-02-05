@@ -1,0 +1,2 @@
+1. recrimination; a defense in an action for divorce in which the accused party makes a similar accusation against the plaintiff^[https://en.wikipedia.org/wiki/Recrimination]
+	1. to put it simply, it is the defense of "you, too."

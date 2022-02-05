@@ -1,0 +1,1 @@
+1. conspicuous [[leisure]]; [[leisure]] is engaged in for the sake of displaying and attaining social status.^[https://en.wikipedia.org/wiki/Conspicuous_leisure#cite_note-:1-1]

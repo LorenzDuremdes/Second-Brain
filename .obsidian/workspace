@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leisure.md",
+                "file": "Your Money or Your Life by Vicki Robin · Joe Dominguez.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "leisure.md",
+                    "file": "Your Money or Your Life by Vicki Robin · Joe Dominguez.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -53,7 +53,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.009503539304003477,
+                      "scale": 0.0078125,
                       "close": false
                     }
                   }
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "social status",
+                "query": "book",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leisure.md"
+                "file": "Your Money or Your Life by Vicki Robin · Joe Dominguez.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leisure.md",
+                "file": "Your Money or Your Life by Vicki Robin · Joe Dominguez.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leisure.md",
+                "file": "Your Money or Your Life by Vicki Robin · Joe Dominguez.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +192,15 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "Your Money or Your Life by Vicki Robin · Joe Dominguez.md",
+    "companionate love.md",
+    "books.md",
+    "explore-exploit trade-off.md",
+    "recrimination.md",
+    "conspicuous leisure.md",
     "leisure.md",
-    "standard of living.md",
-    "self-sufficient home.md",
-    "social status.md",
-    "Your Money or Your Life by Vicki Robin, Joe Dominguez.md",
-    "jobism.md",
-    "mental capital.md",
-    "codependency.md",
-    "4-day workweek.md",
-    "task failure (physiology).md"
+    "consumerism.md",
+    "'gazingus pins'.md",
+    "standard of living.md"
   ]
 }
