@@ -6,12 +6,18 @@
 	3. [[financial independence]]
 	4. financial interdependence
 
-# life
+# life ([[energy]])
 1. improve the following:
 	1. money/hour
 
 	>life/hour
-		1. this accounts e.g. commuting (if you don't like that), [[stress]], job-related expenditures (e.g. coffee)...^[Your Money or Your Life by Vicki Robin · Joe Dominguez, p. 72]
+		1. this accounts e.g. commuting (if you don't like that), [[stress}], job-related expenditures (e.g. coffee)...^[Your Money or Your Life by Vicki Robin · Joe Dominguez, p. 72]
+2. how can you improve the following:  
+  
+	the things I buy all have a use
+
+	>try to buy things with the same amount of life [[energy]] with _even more_ use
+	1.  **related**: [[adaptive replacement cache]]
 
 # [[psychology]]
 1. how could "imposing limits (e.g. budgetting)" be less effective than "striving for [[good]] enough"?^[Your Money or Your Life by Vicki Robin · Joe Dominguez, p. 92]

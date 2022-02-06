@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MK-677.md",
+                "file": "Your Money or Your Life by Vicki Robin · Joe Dominguez.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "MK-677.md",
+                    "file": "Your Money or Your Life by Vicki Robin · Joe Dominguez.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MK-677.md"
+                "file": "Your Money or Your Life by Vicki Robin · Joe Dominguez.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MK-677.md",
+                "file": "Your Money or Your Life by Vicki Robin · Joe Dominguez.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MK-677.md",
+                "file": "Your Money or Your Life by Vicki Robin · Joe Dominguez.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,8 +192,8 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
-    "MK-677.md",
     "Your Money or Your Life by Vicki Robin · Joe Dominguez.md",
+    "MK-677.md",
     "companionate love.md",
     "books.md",
     "explore-exploit trade-off.md",
