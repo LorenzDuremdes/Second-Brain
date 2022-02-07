@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Your Money or Your Life by Vicki Robin · Joe Dominguez.md",
+                "file": "low intensity steady state.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Your Money or Your Life by Vicki Robin · Joe Dominguez.md",
+                    "file": "low intensity steady state.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "book",
+                "query": "low intensity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Your Money or Your Life by Vicki Robin · Joe Dominguez.md"
+                "file": "low intensity steady state.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Your Money or Your Life by Vicki Robin · Joe Dominguez.md",
+                "file": "low intensity steady state.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Your Money or Your Life by Vicki Robin · Joe Dominguez.md",
+                "file": "low intensity steady state.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +192,7 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "low intensity steady state.md",
     "Your Money or Your Life by Vicki Robin · Joe Dominguez.md",
     "MK-677.md",
     "companionate love.md",
@@ -200,7 +201,6 @@
     "recrimination.md",
     "conspicuous leisure.md",
     "leisure.md",
-    "consumerism.md",
-    "'gazingus pins'.md"
+    "consumerism.md"
   ]
 }
