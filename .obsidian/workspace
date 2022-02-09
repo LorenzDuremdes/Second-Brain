@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "low intensity steady state.md",
+                "file": "parametricism.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "low intensity steady state.md",
+                    "file": "parametricism.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "low intensity steady state.md"
+                "file": "parametricism.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "low intensity steady state.md",
+                "file": "parametricism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "low intensity steady state.md",
+                "file": "parametricism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +192,7 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "parametricism.md",
     "low intensity steady state.md",
     "Your Money or Your Life by Vicki Robin · Joe Dominguez.md",
     "MK-677.md",
@@ -200,7 +201,6 @@
     "explore-exploit trade-off.md",
     "recrimination.md",
     "conspicuous leisure.md",
-    "leisure.md",
-    "consumerism.md"
+    "leisure.md"
   ]
 }
