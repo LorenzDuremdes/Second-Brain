@@ -24,3 +24,5 @@
 	1. since feelings are [[information]] and signals our body sends to us, and since we don’t have direct control over them, the way we have control over words and our actions, they have no moral weight
 2. what could be a better question than "How did that feel?"
 	1. "What feelings came up?"^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 401] e.g. the other could have been angry and respond "That felt good" to the former question
+3. negative feelings/emotions ([[coping]] with bad weather (analogy))
+	1. e.g. putting on a rain jacket to cope with rain → e.g. Woebot

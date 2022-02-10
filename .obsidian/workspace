@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "parametricism.md",
+                "file": "feeling.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "parametricism.md",
+                    "file": "feeling.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "low intensity",
+                "query": "feeling",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "parametricism.md"
+                "file": "feeling.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "parametricism.md",
+                "file": "feeling.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "parametricism.md",
+                "file": "feeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +192,15 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "feeling.md",
+    "codependency.md",
+    "persuasion.md",
     "parametricism.md",
     "low intensity steady state.md",
     "Your Money or Your Life by Vicki Robin · Joe Dominguez.md",
     "MK-677.md",
     "companionate love.md",
     "books.md",
-    "explore-exploit trade-off.md",
-    "recrimination.md",
-    "conspicuous leisure.md",
-    "leisure.md"
+    "explore-exploit trade-off.md"
   ]
 }

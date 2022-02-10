@@ -7,7 +7,7 @@
 
 # intention
 1. adversity → coherence^[The [[Happiness]] Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 155]
-	1. adapting to/after adversity can increase one's (feeling of) [[vertical coherence]] (e.g. short- and long-term life goals)
+	1. adapting to/after adversity can increase one's ([[feeling]] of) [[vertical coherence]] (e.g. short- and long-term life goals)
 		
 		this coherence might not be visible to one’s friends, but it feels like growth, strength, maturity, and wisdom from the inside^[The [[Happiness]] Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 155]^[See King, 2001, on the “hard road to the good life.”]
 		

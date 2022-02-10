@@ -57,10 +57,16 @@
 1. "persuasion" makes use of "unconditioned behavior"^[Influence, New and Expanded: The [[Psychology]] of Persuasion, p. 7]
 	1. and potentially "conditioned behavior" in the long term or knowing someone well enough
 
+## [[psychotherapy]]
+1. how can you make people who are likely to deny something relate to something (e.g. you thinking they are codependent)^[Codependency For Dummies by Darlene Lancer, p. 17]
+	1. tell a story
+
+		they are less likely to relate to it (or deny it (subconsciously)) if you tell it straightforward/logically
+
 # [[entrepreneurship]]
 1. what do most people do to estimate (sometimes wrongly) the quality of an item?^[Influence, New and Expanded: The [[Psychology]] of Persuasion, p. 7]
 	1. expensive=good
-		1. human analog → hard-to-get=good? and other related things e.g. not texting too frequently
+		1. [[human]] [[analog]] → hard-to-get=good? and other related things e.g. not texting too frequently
 	2. cheap=bad
 2. how do some charity organizations try to persuade people to donate?^[Influence, New and Expanded: The [[Psychology]] of Persuasion, p. 8]
 	1. recruit volunteers close to the targets' own homes
