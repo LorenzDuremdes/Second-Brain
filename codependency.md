@@ -1,13 +1,31 @@
 # [[psychology]]
-1. codependency → [[looking-glass self]]^[Codependency For Dummies by Darlene Lancer, p. 23]
+1. codependency emanates from low [[self-esteem]] (e.g. [[guilt]], fear, insecurity...) while kidness from [[self-esteem]]^[Codependency For Dummies by Darlene Lancer, p. 50]
+2. codependency → [[looking-glass self]]^[Codependency For Dummies by Darlene Lancer, p. 23]
 	1. codependents develop a persona in the world that reacts to others, to their own [[self]]-criticism, and to their imagined ideal of who they should be. To be acceptable to others and to themselves, you hide who you are and become who you aren’t
+
+## [[self]]
+1. codependents usually don't know well why they are e.g. upset^[Codependency For Dummies by Darlene Lancer, p. 38]
 
 # [[microsociology]]
 1. how do codependents usually feel they are being treated as in relationships?^[Codependency For Dummies by Darlene Lancer, p. 23]
 	1. ...many codependents tolerate being treated without respect, because they lack [[self]]-worth. They don’t feel entitled to compliments, to be truly loved, or to set limits. They might do more than their share at work or in a relationship to earn acceptance, but they end up [[feeling]] unappreciated, used, or resentful.
 
 		to cope, they sometimes disregard what’s actually happening, ruminate with worry or resentment, or finally explode
+2. partner [[feeling]] negative (e.g. anger or sad) → codependent>usual first thoughts^[Codependency For Dummies by Darlene Lancer, p. 59]
+	1. "what did I do wrong?"
 
+		rather than e.g. staying neutral or realizing it might not be because of you (mostly)
+## [[personal boundaries]]
+1. **example**
+
+	she felt guilty taking time for herself or refusing to discuss her therapy with her husband
+
+	why? e.g.:
+	1. her parents violated her boundaries^[Codependency For Dummies by Darlene Lancer, p. 61]
+		1. e.g. "taking time for herself" → boundary
+
+# [[biology]]
+1. [[women]] are more likely to develop codependency^[Codependency For Dummies by Darlene Lancer, p. 48]
 # examples
 1. ‘I’ll change him (or her) to do what I want, and then I’ll be happy.’^[https://www.gottman.com/blog/how-i-stopped-trying-to-control-my-partner-and-took-responsibility-for-my-own-happiness/]
 2. Now, instead of playing therapist without their consent, I say, “What you’re describing sounds like something I’ve been reading about lately. Do you want to hear the connection?” or “I found an article that describes the type of family you grew up in. Do you want me to send it to you?”

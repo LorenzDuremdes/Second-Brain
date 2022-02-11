@@ -1,0 +1,1 @@
+1. servant leadership; a leadership [[philosophy]] in which the [[goal]] of the leader is to serve^[https://en.wikipedia.org/wiki/Servant_leadership]

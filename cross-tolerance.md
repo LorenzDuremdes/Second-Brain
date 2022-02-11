@@ -1,0 +1,1 @@
+1. cross-tolerance; a phenomenon that occurs when tolerance to the effects of a certain [[drug]] produces tolerance to another [[drug]]^[https://en.wikipedia.org/wiki/Cross-tolerance]

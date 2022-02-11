@@ -1,0 +1,2 @@
+1. chronemics; the role of [[time]] in [[communication]]^[https://en.wikipedia.org/wiki/Chronemics#Control_of_time_in_power_relationships]
+	1. the way someone values and perceives [[time]] plays a considerable role on his or her [[communication]] process e.g. arriving early ↮ late

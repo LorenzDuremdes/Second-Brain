@@ -1,0 +1,1 @@
+1. psychic numbing; a tendency for individuals or societies to withdraw attention from past experiences that were traumatic, or from future threats that are perceived to have massive consequences but low probability.^[https://en.wikipedia.org/wiki/Psychic_numbing#cite_note-lifton-1]^[https://en.wikipedia.org/wiki/Psychic_numbing#cite_note-slovic-2]

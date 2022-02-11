@@ -1,6 +1,6 @@
 # application
 1. should you always try to mirror the other? + why
-	1. no, sometimes you should try to make the other mirror you (e.g. vulnerability)
+	1. no, sometimes you should try to make the other mirror you (e.g. [[vulnerability]])
 
 1. in a massive study of 421 million potential [[intimate relationship|romantic]] matches from an online [[dating]] site, the factor that best predicted [[liking (persuasion)|favorability]] toward a partner was similarity^[Influence, New and Expanded: The Psychology of [[persuasion]], p. 9]
 2. is "social mirroring" only "physical"? + why^[Influence, New and Expanded: The Psychology of [[persuasion]], p. 9]

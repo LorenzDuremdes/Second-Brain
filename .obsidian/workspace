@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "feeling.md",
+                "file": "servant leadership.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "feeling.md",
+                    "file": "servant leadership.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "feeling",
+                "query": "self esteem",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "feeling.md"
+                "file": "servant leadership.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "feeling.md",
+                "file": "servant leadership.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "feeling.md",
+                "file": "servant leadership.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +192,15 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
-    "feeling.md",
+    "servant leadership.md",
+    "chronemics.md",
     "codependency.md",
-    "persuasion.md",
-    "parametricism.md",
-    "low intensity steady state.md",
-    "Your Money or Your Life by Vicki Robin · Joe Dominguez.md",
-    "MK-677.md",
-    "companionate love.md",
-    "books.md",
-    "explore-exploit trade-off.md"
+    "personal boundaries.md",
+    "vulnerability.md",
+    "self-esteem.md",
+    "psychic numbing.md",
+    "cross-addiction.md",
+    "cross-tolerance.md",
+    "feeling.md"
   ]
 }
