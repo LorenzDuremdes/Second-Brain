@@ -24,6 +24,17 @@
 	1. her parents violated her boundaries^[Codependency For Dummies by Darlene Lancer, p. 61]
 		1. e.g. "taking time for herself" → boundary
 
+## maladaptive [[coping]]
+1. recall some 'soft' methods people use to gain control when being afraid of being direct^[Codependency For Dummies by Darlene Lancer, p. 74]:
+	1. ✓ Helplessness or passivity  
+	2. ✓ Withholding  
+	3. ✓ Isolating  
+	4. ✓ Talking  
+	5. ✓ Silence  
+	6. ✓ Gifts and favors  
+	7. ✓ [[Seduction]]  
+	8. ✓ Pleasing and caretaking
+
 # [[biology]]
 1. [[women]] are more likely to develop codependency^[Codependency For Dummies by Darlene Lancer, p. 48]
 # examples
