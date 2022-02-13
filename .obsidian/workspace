@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "codependency.md",
+                "file": "resentment.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "codependency.md",
+                    "file": "resentment.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "self esteem",
+                "query": "anger",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "codependency.md"
+                "file": "resentment.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "codependency.md",
+                "file": "resentment.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codependency.md",
+                "file": "resentment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +192,15 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "resentment.md",
+    "anger.md",
+    "mathematics.md",
+    "stochastic optimization.md",
+    "psychopathy.md",
+    "romance (love).md",
+    "microsociology.md",
     "codependency.md",
     "enmeshment (psychology).md",
-    "servant leadership.md",
-    "chronemics.md",
-    "personal boundaries.md",
-    "vulnerability.md",
-    "self-esteem.md",
-    "psychic numbing.md",
-    "cross-addiction.md",
-    "cross-tolerance.md"
+    "servant leadership.md"
   ]
 }

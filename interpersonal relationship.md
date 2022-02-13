@@ -15,7 +15,7 @@
 	1. what matters is not solving perpetual problems, but rather the affect with which they are discussed.
 
 # [[emotion]]
-1. the face is showing 50% [[happiness]] and anger (neutral)^[https://youtu.be/5n6lDNacfk0?t=360, Alok Kanojia]
+1. the face is showing 50% [[happiness]] and [[anger]] (neutral)^[https://youtu.be/5n6lDNacfk0?t=360, Alok Kanojia]
 
 # [[sociology]]
 1. why is saying "we need to teach young people to become independent" somewhat wrong?^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 397]

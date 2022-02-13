@@ -1,0 +1,1 @@
+1. resentment; inherent is a perception of unfairness directed toward a higher-status individual^[https://en.wikipedia.org/wiki/Resentment#cite_note-Stosny-3]^[https://en.wikipedia.org/wiki/Resentment#cite_note-Solomon-17]

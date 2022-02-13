@@ -12,6 +12,17 @@
 	1. needing ↮ wanting each other (respectively)
 	2. dependence ↮ interdependence (respectively)
 
+### right person, wrong [[time]]
+1. is it possible to meet the **right person at the wrong [[time]]**? + example^[https://www.reddit.com/r/AskMen/comments/8fswgl/comment/dy67ahr/?utm_source=share&utm_medium=web2x&context=3]
+	1. yes e.g. too young (e.g. lack of effective [[communication]], which can be learned)
+
+		of course. thats happen a good few times. one of my ex's that i still love dearly and have for many many years dropped this line when we were breaking up that i still remember. "I think we meet each other to young". that will always get me.
+	2. **other**
+		1. [Bout 5 years later we caught up and things rekindled... By then he was the right guy right [[time]] and here we are 3 years later. + other comments](https://www.reddit.com/r/AskWomen/comments/pvgqp2/why_do_you_believe_in_right_person_wrong_time/)
+		2. But I really wasn’t ready for everything I knew the relationship would need (like commitment and [[communication]], sharing my feels) and he wasn’t either, but to a lesser extent. so we broke up.
+
+			When the timing was “right”, we just reconnected after not talking for awhile and now we’re married and happy af.^[https://www.reddit.com/r/AskWomen/comments/gc8oyl/comment/fpa30om/?utm_source=share&utm_medium=web2x&context=3]
+
 ## [[macrosociology]]
 ### [[men]] ↮ [[women]]
 1. it's usually harder for [[women]] to be single
@@ -29,7 +40,7 @@
 
 	they weed out the actual good [[men]]
 
-	good [[men]] don't spend too much time/energy on [[women]] not showing much interest^[https://www.reddit.com/r/dating_advice/comments/shipix/the_best_advice_i_can_give_women_about_dating/]
+	good [[men]] don't spend too much [[time]]/[[energy]] on [[women]] not showing much interest^[https://www.reddit.com/r/dating_advice/comments/shipix/the_best_advice_i_can_give_women_about_dating/]
 
 # [[psychology]]
 1. humour and [[honesty]] were ranked as the two most important attributes in a significant other.^[https://en.wikipedia.org/wiki/Humour#cite_note-23]
@@ -41,7 +52,7 @@
 
 # [[developmental psychology]]
 ## 'chemistry (love)' doesn't have to be present in the beginning
-1. e.g. it fluctuates over time^[https://www.reddit.com/r/datingoverthirty/comments/8kxhvn/comment/dzbcblg/?utm_source=share&utm_medium=web2x&context=3]^[https://www.reddit.com/r/AskWomen/comments/1ksle6/comment/cbs9y9s/?utm_source=share&utm_medium=web2x&context=3]
+1. e.g. it fluctuates over [[time]]^[https://www.reddit.com/r/datingoverthirty/comments/8kxhvn/comment/dzbcblg/?utm_source=share&utm_medium=web2x&context=3]^[https://www.reddit.com/r/AskWomen/comments/1ksle6/comment/cbs9y9s/?utm_source=share&utm_medium=web2x&context=3]
 2. I fell for someone I didn’t have initial chemistry with and almost rejected. I’ve come to the conclusion that first date “sparks” are overrated.^[https://www.reddit.com/r/datingoverthirty/comments/hv7a84/i_fell_for_someone_i_didnt_have_initial_chemistry/]
 	1. When people talk about things like 'Chemistry' and 'Sparks' all I hear is "Magic Sparkles". I'm convinced it's 100% the territory of disney and rom-com bullshit.
 3. she should have continued to date them to see if they were good relationship material and MAKE her own chemistry^[https://www.reddit.com/r/WhereAreAllTheGoodMen/comments/r0lv4b/comment/hltk2da/?utm_source=share&utm_medium=web2x&context=3]
