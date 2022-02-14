@@ -1,0 +1,1 @@
+1. felicitas; a condition of divinely inspired [[productivity]], blessedness, or [[happiness]]^[https://en.wikipedia.org/wiki/Felicitas]

@@ -4,3 +4,4 @@
 	<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Spontaneous_symmetry_breaking_from_an_instable_equilibrium.svg" width="200" />
 3. in his 1972 Science paper titled "More is different"^[https://en.wikipedia.org/wiki/Symmetry_breaking#cite_note-1] Nobel laureate P.W. Anderson used the idea of symmetry breaking to show that even if reductionism is true, its converse, constructionism, which is the idea that scientists can easily predict complex phenomena given theories describing their components, is not
 	1. how? ◇'ball fallen in symmetrical cliff → easy to retrace' but not its process itself ("theories describing their components")
+		1. **related**: [[one-way function]]

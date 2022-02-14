@@ -1,0 +1,1 @@
+1. _mulier equitans_; riding ([[sexual intercourse]] position)^[https://en.wikipedia.org/wiki/Sexuality_in_ancient_Rome#Mulier_equitans]

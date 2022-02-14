@@ -58,7 +58,7 @@
 	1. and potentially "conditioned behavior" in the long term or knowing someone well enough
 
 ## [[psychotherapy]]
-1. how can you make people who are likely to deny something relate to something (e.g. you thinking they are codependent)^[Codependency For Dummies by Darlene Lancer, p. 17]
+1. how can you make people who are likely to deny something relate to something (e.g. you thinking they are codependent)^[[[Codependency]] For Dummies by Darlene Lancer, p. 17]
 	1. tell a story
 
 		they are less likely to relate to it (or deny it (subconsciously)) if you tell it straightforward/logically

@@ -6,6 +6,10 @@
 ## [[self]]
 1. codependents usually don't know well why they are e.g. upset^[Codependency For Dummies by Darlene Lancer, p. 38]
 
+## [[depression]]
+1. peaceful relationship → [[depression]] · codependency^[Codependency For Dummies by Darlene Lancer, p. 83]
+	1. the underlying [[depression]] can be unmasked as e.g. melodramatic relationships provided distraction
+
 # [[microsociology]]
 1. how do codependents usually feel they are being treated as in relationships?^[Codependency For Dummies by Darlene Lancer, p. 23]
 	1. ...many codependents tolerate being treated without respect, because they lack [[self]]-worth. They don’t feel entitled to compliments, to be truly loved, or to set limits. They might do more than their share at work or in a relationship to earn acceptance, but they end up [[feeling]] unappreciated, used, or resentful.
