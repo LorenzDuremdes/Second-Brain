@@ -3,7 +3,7 @@
 	1. If you can have a conversation with a friend or family member, then you already possess the only “skill-set” required in attracting a woman. There’s nothing to learn, only things to do. And the fear doesn’t go away, you learn to hone it to help you.
 	2. **see also**
 		1. you don't need "dating experience from high school"^[https://www.reddit.com/r/unpopularopinion/comments/rt9e0j/dating_in_high_school_is_important_even_if_you/]
-		2. 'good' sex is all about communication (rather than techniques)^[https://qr.ae/pGzyut, Franklin Veaux]
+		2. 'good' sex is all about communication (rather than techniques)^[https://qr.ae/pGzyut, [[Franklin Veaux]]]
 
 # modern dating [[culture]]
 1. why probably did "being too available" became a thing?^[https://www.reddit.com/r/dating_advice/comments/i6ldhp/comment/g0wpgcu/?utm_source=share&utm_medium=web2x&context=3]
@@ -16,7 +16,7 @@
 	1. yes, they are usually insecure if they have enough to offer themselves (e.g. physique wise)
 
 # rejection
-1. Franklin Veaux' perspective on "rejection"
+1. [[Franklin Veaux]]' perspective on "rejection"
 	1. A lot of folks are frightened that if they talk about their fantasies, they might scare off their date. Well, duh. That’s the point! You don’t want to be with someone who is not compatible with you! If someone has totally different tastes and interests, scaring them off is *exactly* what you want to do.^[https://qr.ae/pGA8iP]
 
 # miscellaneous

@@ -46,7 +46,7 @@
 		1. [[Henneman's size principle]]
 		2. [[block training]] · [[pre-exhaust training]] → having to do less to (more quickly) stimulate slower-twitch muscle fibers?
 
-## mesocycle
+## [[mesocycle]]
 ### [[resistance training]]
 1. legs ([[resistance training]]) → MEV → endurance (road cycling)
 	1. ◇the first might reduce the 2nd, which can make it easier to cause overload for endurance?
@@ -56,3 +56,13 @@
 1. what does Joe Friel mean with "limiters"?^[The Cyclist's Training Bible, p. 18]
 	1. limiting factors (required for e.g. an upcoming race)
 		1. e.g. a [[mesocycle]]/block is aimed at targetting specific [[limiting factor]](s)
+
+# miscellaneous
+1. what makes road cycling one of the toughest [[sport]]?^[https://www.cyclingweekly.com/fitness/training/cycling-toughest-sport-264258]
+	1. “What makes cycling uniquely difficult on a psychological level are the uncontrollable conditions which most other sports don’t have,” says sports psychologist Dr Josephine Perry.
+
+		“The majority of sports are played out in more controlled and routine environments, but cyclists have to contend with weather, spectators, crashes, mechanicals and the constant threat of attacks or missing a potentially race-winning move by another team or rider.”
+
+		Even so, winning in cycling isn’t determined solely by fitness, he points out: “In a rowing race, the best rower in that race will win. In cycling, the rider who has peaked perfectly for a specific race could come last.”
+
+		A similar point was made by Michael Woods, an elite runner turned Cannondale pro, in a previous interview with Cycling Weekly, in which he described having earned a deep respect for the multi-faceted, multi-skilled nature of cycling — that is, compared to distance running, in which, aside from fitness and determination, not much else matters.

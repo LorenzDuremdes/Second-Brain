@@ -19,6 +19,10 @@
 		most people are being extremely flippants these days → once it gets hard, they just quit
 
 		1. bad [[communication]] skills can make things unnecessarily difficult^[https://www.reddit.com/r/unpopularopinion/comments/jd50dx/comment/g95hgau/?utm_source=share&utm_medium=web2x&context=3]
+	2. **other**
+		1. [Some people are willing to leave a relationship at even the slightest inconvenience](https://www.reddit.com/r/AskWomen/comments/roowr1/comment/hpzu3c2/?utm_source=share&utm_medium=web2x&context=3)
+		2. [LPT: Stop looking for "the one", that's a made-up concept to sell romantic novels & movies. A real relationship needs work, commitment, compromise, understanding & willingness to have a two-way trade on every level & meet you halfway.](https://www.reddit.com/r/LifeProTips/comments/src0ro/lpt_stop_looking_for_the_one_thats_a_madeup/)
+		3. [There's a lot of work to be done in becoming a decent [[human]] being: developing integrity, [[empathy]], kindness, [[communication]] skills, expectation management skills, [[confidence]], courage, and respect for other people's autonomy. You have to learn what you want and need, how to talk openly to other people, how to be vulnerable, how not to be controlling or manipulative, how not to be selfish, how to choose compatible partners., [[Franklin Veaux]]](https://qr.ae/pGjSGe)
 
 # [[emotion]]
 1. the face is showing 50% [[happiness]] and [[anger]] (neutral)^[https://youtu.be/5n6lDNacfk0?t=360, Alok Kanojia]

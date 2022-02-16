@@ -1,5 +1,5 @@
 # microsociology
-1. 'good' sexual intercourse is all about communication (rather than e.g. techniques)^[https://qr.ae/pGzyut, Franklin Veaux]
+1. 'good' sexual intercourse is all about communication (rather than e.g. techniques)^[https://qr.ae/pGzyut, [[Franklin Veaux]]]
 	1. e.g. each other's desires, bodies, turn-offs
 
 # biopsychology

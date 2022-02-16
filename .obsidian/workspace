@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interpersonal relationship.md",
+                "file": "lectori salutem.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "interpersonal relationship.md",
+                    "file": "lectori salutem.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inter",
+                "query": "road",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -116,8 +116,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interpersonal relationship.md"
+                "file": "lectori salutem.md"
               }
             }
           },
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interpersonal relationship.md",
+                "file": "lectori salutem.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interpersonal relationship.md",
+                "file": "lectori salutem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,15 +192,15 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "lectori salutem.md",
+    "road cycling.md",
+    "Franklin Veaux.md",
     "interpersonal relationship.md",
     "mind.md",
     "symmetry breaking.md",
-    "Franklin Veaux.md",
     "romance (love).md",
     "mulier equitans.md",
     "felicitas.md",
-    "\"Jekyll and Hyde\".md",
-    "codependency.md",
-    "resentment.md"
+    "\"Jekyll and Hyde\".md"
   ]
 }
