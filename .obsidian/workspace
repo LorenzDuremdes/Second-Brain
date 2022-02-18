@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lectori salutem.md",
+                "file": "frugality.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "lectori salutem.md",
+                    "file": "frugality.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lectori salutem.md"
+                "file": "frugality.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lectori salutem.md",
+                "file": "frugality.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lectori salutem.md",
+                "file": "frugality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +192,15 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "frugality.md",
+    "wasmachine en droger.md",
+    "koelkast.md",
     "lectori salutem.md",
     "road cycling.md",
     "Franklin Veaux.md",
     "interpersonal relationship.md",
     "mind.md",
     "symmetry breaking.md",
-    "romance (love).md",
-    "mulier equitans.md",
-    "felicitas.md",
-    "\"Jekyll and Hyde\".md"
+    "romance (love).md"
   ]
 }

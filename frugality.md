@@ -1,0 +1,2 @@
+1. frugality (game analogy)^[https://www.reddit.com/r/Frugal/comments/suqy2v/what_are_your_fuckit_this_makes_me_happy/]
+	1. This is why I love being frugal. It's kinda like min-maxing my enjoyment. Some people think being frugal is being cheap on everything and thus is an unhappy lifestyle.

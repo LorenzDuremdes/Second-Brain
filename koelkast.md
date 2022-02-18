@@ -1,0 +1,1 @@
+1. de koelkast moet een stukje van de muur af om de warme lucht makkelijker af te voeren^[https://www.unitedconsumers.com/blog/energie/energie-besparen-met-koelkast-en-vriezer.jsp]
