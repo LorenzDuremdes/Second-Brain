@@ -1,0 +1,1 @@
+1. U-value; the overall heat transfer coefficient that describes how well a building element conducts heat or the rate of transfer of heat (in watts) through one square metre of a structure divided by the difference in temperature across the structure.^[https://en.wikipedia.org/wiki/R-value_(insulation)#U-factor.2FU-value]
