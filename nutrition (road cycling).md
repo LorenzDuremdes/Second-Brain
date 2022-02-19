@@ -7,6 +7,8 @@
 
 # macronutrients
 1. recommended carbohydrates for optimal endurance performance ≈ 6–10g per kg of bodyweight^[https://www.trainerroad.com/blog/cycling-nutrition-everything-you-need-to-know/]
+2. can a high carb intake make you at risk for diabetes type 2?^[https://www.trainerroad.com/forum/t/high-carb-intake-a-risk-for-diabetes/61428/2?u=lorenz_duremdes]^[https://www.trainerroad.com/forum/t/high-carb-intake-a-risk-for-diabetes/61428/9]
+	1. not as much if it's centered around [[physical exercise]]
 
 # intra-workout
 1. max carbohydrates per hour (under research) ≈ 140g/hour^[https://www.trainerroad.com/forum/t/140g-carbs-per-hour/51650/]

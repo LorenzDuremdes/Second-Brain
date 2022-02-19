@@ -1,0 +1,2 @@
+1. softphone; a software program for making telephone calls over the Internet using a general purpose computer rather than dedicated hardware
+	1. the softphone can be installed on a piece of equipment such as a desktop, mobile device, or other computer and allows the user to place and receive calls without requiring an actual telephone set^[https://en.wikipedia.org/wiki/Softphone#cite_note-1]
