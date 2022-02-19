@@ -7,7 +7,7 @@
 	1. isolerende gordijnen
 4. alternatief voor "dubbel glas" (duurzame huis)^[https://www.duurzaamthuis.nl/huis-isoleren/isolerend-raamfolie]
 	1. isolerende raamfolie
-5. [[thermische isolerende verf]]; deze verf zorgt ervoor dat de warmte in huis wordt vastgehouden
+5. [[thermische isolerende verf]]; deze verf zorgt ervoor dat de warmte in huis wordt vastgehouden^[https://www.duurzaamthuis.nl/huis-isoleren/muren-isoleren/isolerende-muurverf]
 6. De radiator in je huis warmt aan de achterkant namelijk vooral je buitenmuur op. Veel van deze warmte lekt naar buiten. Je verbruikt daardoor veel meer energie om je huis op te warmen.^[https://www.duurzaamthuis.nl/huis-isoleren/radiatorfolie-besparing]
 	1. **mogelijke oplossing**: radiatorfolie
 7. buizen die naar ruimtes gaan die jij niet of nauwelijks gebruikt stralen nodeloos warmte uit^[https://www.duurzaamthuis.nl/huis-isoleren/buisisolatie-plaatsen]
