@@ -1,0 +1,1 @@
+1. semi-vegetarianism; one that is centered on plant foods with the occasional inclusion of meat.^[https://en.wikipedia.org/wiki/Semi-vegetarianism#cite_note-2]^[https://en.wikipedia.org/wiki/Semi-vegetarianism#cite_note-3]^[https://en.wikipedia.org/wiki/Semi-vegetarianism#cite_note-4]^[https://en.wikipedia.org/wiki/Semi-vegetarianism#cite_note-5]

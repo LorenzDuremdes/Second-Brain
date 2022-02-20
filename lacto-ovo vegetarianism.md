@@ -1,0 +1,1 @@
+1. lacto-ovo vegetarianism; a type of vegetarianism which allows for the consumption of animal products that do not involve slaughter, such as eggs and dairy

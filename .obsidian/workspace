@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "duurzame en slimme huis.md",
+                "file": "employment.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "duurzame en slimme huis.md",
+                    "file": "employment.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bupropion",
+                "query": "occupation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "duurzame en slimme huis.md"
+                "file": "employment.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "duurzame en slimme huis.md",
+                "file": "employment.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "duurzame en slimme huis.md",
+                "file": "employment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +192,15 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "employment.md",
     "duurzame en slimme huis.md",
+    "thermische isolerende verf.md",
+    "lacto-ovo vegetarianism.md",
+    "semi-vegetarianism.md",
     "softphone.md",
     "bupropion.md",
     "nutrition (road cycling).md",
     "sacharose.md",
-    "surplus fats.md",
-    "U-value.md",
-    "thermische isolerende verf.md",
-    "infrarood kachel.md",
-    "frugality.md"
+    "surplus fats.md"
   ]
 }
