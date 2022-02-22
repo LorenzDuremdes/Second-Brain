@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "employment.md",
+                "file": "right temporal lobe.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "employment.md",
+                    "file": "right temporal lobe.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "occupation",
+                "query": "right temporal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "employment.md"
+                "file": "right temporal lobe.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "employment.md",
+                "file": "right temporal lobe.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "employment.md",
+                "file": "right temporal lobe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +192,15 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "right temporal lobe.md",
+    "loss aversion.md",
+    "negative leverage (negotiation).md",
     "employment.md",
     "duurzame en slimme huis.md",
     "thermische isolerende verf.md",
     "lacto-ovo vegetarianism.md",
     "semi-vegetarianism.md",
     "softphone.md",
-    "bupropion.md",
-    "nutrition (road cycling).md",
-    "sacharose.md",
-    "surplus fats.md"
+    "bupropion.md"
   ]
 }
