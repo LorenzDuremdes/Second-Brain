@@ -1,1 +1,0 @@
-1. "Jekyll and Hyde"; referring to people with an unpredictably dual nature: outwardly [[good]], but sometimes shockingly [[evil]].^[https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde#cite_note-Saposnik-5]^[https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde#cite_note-6]
