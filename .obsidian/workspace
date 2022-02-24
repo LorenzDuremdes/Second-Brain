@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "right temporal lobe.md",
+                "file": "dating.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "right temporal lobe.md",
+                    "file": "dating.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "right temporal",
+                "query": "more difficult for women",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -116,7 +116,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "right temporal lobe.md"
+                "file": "dating.md"
               }
             }
           },
@@ -146,14 +147,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "right temporal lobe.md",
+                "file": "dating.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "7312b002f7baea20",
+            "id": "77e8e2cf27925acf",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -173,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "right temporal lobe.md",
+                "file": "dating.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +193,8 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "dating.md",
+    "romance (love).md",
     "right temporal lobe.md",
     "loss aversion.md",
     "negative leverage (negotiation).md",
@@ -199,8 +202,6 @@
     "duurzame en slimme huis.md",
     "thermische isolerende verf.md",
     "lacto-ovo vegetarianism.md",
-    "semi-vegetarianism.md",
-    "softphone.md",
-    "bupropion.md"
+    "semi-vegetarianism.md"
   ]
 }
