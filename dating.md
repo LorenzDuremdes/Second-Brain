@@ -5,6 +5,12 @@
 		1. you don't need "dating experience from high school"^[https://www.reddit.com/r/unpopularopinion/comments/rt9e0j/dating_in_high_school_is_important_even_if_you/]
 		2. 'good' [[sex]] is all about [[communication]] (rather than techniques)^[https://qr.ae/pGzyut, [[Franklin Veaux]]]
 
+## analogs
+1. dating (game analogy)^[https://www.reddit.com/r/seduction/comments/t0ui98/comment/hycalry/?utm_source=share&utm_medium=web2x&context=3]
+	1. Hey,
+
+		The best players are quite meticulous when it comes to their game. Ponder on ways to improve and execute.
+
 # modern dating [[culture]]
 1. why probably did "being too available" became a thing?^[https://www.reddit.com/r/dating_advice/comments/i6ldhp/comment/g0wpgcu/?utm_source=share&utm_medium=web2x&context=3]
 	1. people who want the chase they want it because that's what makes them able to lie to themselves that they like the person, but when what they actually like, is to win

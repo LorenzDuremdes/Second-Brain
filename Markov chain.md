@@ -3,3 +3,4 @@
 # related
 1. [[Markov property]]
 	1. [[memorylessness]]
+2. [[greedy algorithm]]
