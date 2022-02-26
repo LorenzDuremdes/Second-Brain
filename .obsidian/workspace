@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "codependency.md",
+                "file": "cadence (road cycling).md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "codependency.md",
+                    "file": "cadence (road cycling).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "codep",
+                "query": "cadence",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "codependency.md"
+                "file": "cadence (road cycling).md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "codependency.md",
+                "file": "cadence (road cycling).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codependency.md",
+                "file": "cadence (road cycling).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +192,7 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "cadence (road cycling).md",
     "codependency.md",
     "dating.md",
     "Markov chain.md",
@@ -200,7 +201,6 @@
     "loss aversion.md",
     "negative leverage (negotiation).md",
     "employment.md",
-    "duurzame en slimme huis.md",
-    "thermische isolerende verf.md"
+    "duurzame en slimme huis.md"
   ]
 }
