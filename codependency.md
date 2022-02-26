@@ -5,6 +5,8 @@
 
 ## [[self]]
 1. codependents usually don't know well why they are e.g. upset^[Codependency For Dummies by Darlene Lancer, p. 38]
+2. the following can be a characteristic of codependency^[Codependency For Dummies by Darlene Lancer, p. 102]:
+	1. do you feel more alive in the midst of a crisis?
 
 ## [[depression]]
 1. peaceful relationship → [[depression]] · codependency^[Codependency For Dummies by Darlene Lancer, p. 83]

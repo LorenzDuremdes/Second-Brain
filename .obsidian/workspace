@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cadence (road cycling).md",
+                "file": "codependency.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "cadence (road cycling).md",
+                    "file": "codependency.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cadence",
+                "query": "relation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cadence (road cycling).md"
+                "file": "codependency.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cadence (road cycling).md",
+                "file": "codependency.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cadence (road cycling).md",
+                "file": "codependency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +192,15 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
-    "cadence (road cycling).md",
     "codependency.md",
+    "interpersonal relationship.md",
     "dating.md",
+    "vertical coherence.md",
+    "cadence (road cycling).md",
     "Markov chain.md",
     "romance (love).md",
     "right temporal lobe.md",
     "loss aversion.md",
-    "negative leverage (negotiation).md",
-    "employment.md",
-    "duurzame en slimme huis.md"
+    "negative leverage (negotiation).md"
   ]
 }

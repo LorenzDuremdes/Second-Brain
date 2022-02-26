@@ -2,3 +2,7 @@
 
 # [[employment]]
 1. "where do you see yourself in 5 years' [[time]]?" e.g. during a job interview is related to "vertical coherence"
+
+# related
+1. [[instrumental convergence]]
+2. [[neural competition]]

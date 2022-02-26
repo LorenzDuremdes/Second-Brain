@@ -2,6 +2,10 @@
 	1. yes e.g. a [[human]] being knows/is capable of knowing how a monkey functions (e.g. behavior) more than the monkey itself is
 2. steady states tend to be stable when they have a lower level of influence and a lower level of inertia^[The science of [[trust]]: emotional attunement for couples, p. 466]
 
+# improvements
+1. using skills (e.g. effective [[communication]]) to attract girls (fishing analogy)
+	1. You're just selecting for the easiest wins. It's like telling guys to only go fishing with their biggest, loudest lure and then saying "If they're gonna bite, they're gonna bite." Yes, you will periodically catch fish and then apparently leap to the conclusion that it's not helpful to carry multiple kinds of lures to match different fish and fishing conditions.^[https://www.reddit.com/r/seduction/comments/t1cxou/comment/hyhk3ng/?utm_source=share&utm_medium=web2x&context=3] or any type of relationship
+
 # [[psychology]]
 1. people who cannot connect through work, friendships, or family usually find other ways of bonding, as through illnesses, lawsuits, or family feud^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 140]
 
