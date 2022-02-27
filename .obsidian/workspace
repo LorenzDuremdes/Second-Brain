@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slinky.md",
+                "file": "integrative psychotherapy.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Slinky.md",
+                    "file": "integrative psychotherapy.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slinky.md"
+                "file": "integrative psychotherapy.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slinky.md",
+                "file": "integrative psychotherapy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slinky.md",
+                "file": "integrative psychotherapy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +192,15 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "integrative psychotherapy.md",
+    "codependency.md",
     "Slinky.md",
     "United Nations.md",
-    "codependency.md",
     "interpersonal relationship.md",
     "dating.md",
     "vertical coherence.md",
     "cadence (road cycling).md",
     "Markov chain.md",
-    "romance (love).md",
-    "right temporal lobe.md"
+    "romance (love).md"
   ]
 }

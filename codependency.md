@@ -3,6 +3,10 @@
 2. codependency → [[looking-glass self]]^[Codependency For Dummies by Darlene Lancer, p. 23]
 	1. codependents develop a persona in the world that reacts to others, to their own [[self]]-criticism, and to their imagined ideal of who they should be. To be acceptable to others and to themselves, you hide who you are and become who you aren’t
 
+## [[psychotherapy]]
+1. it could be best for codependents to seek help beyond their family
+	1. Codependent relationships and families tend to be closed, meaning that you become isolated from outside information and the [[community]]. The best way to recover is to step beyond the family, because those relationships are restrictive for reasons more fully explained in Chapter 7.^[Codependency For Dummies by Darlene Lancer, p. 108]
+
 ## [[self]]
 1. codependents usually don't know well why they are e.g. upset^[Codependency For Dummies by Darlene Lancer, p. 38]
 2. the following can be a characteristic of codependency^[Codependency For Dummies by Darlene Lancer, p. 102]:

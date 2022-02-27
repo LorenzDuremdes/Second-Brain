@@ -1,0 +1,3 @@
+1. integrative [[psychotherapy]]; the integration of elements from different schools of [[psychotherapy]] in the treatment of a client^[https://en.wikipedia.org/wiki/Integrative_psychotherapy]
+2. integrative [[psychotherapy]] ↮ eclectic [[psychotherapy]]
+	1. integration suggests that the elements are part of one combined approach to theory and practice, as opposed to eclecticism which draws ad hoc from several approaches in the approach to a particular case^[https://en.wikipedia.org/wiki/Integrative_psychotherapy]
