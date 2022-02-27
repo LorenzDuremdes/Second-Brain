@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "codependency.md",
+                "file": "Slinky.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "codependency.md",
+                    "file": "Slinky.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "relation",
+                "query": "united nations",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "codependency.md"
+                "file": "Slinky.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "codependency.md",
+                "file": "Slinky.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codependency.md",
+                "file": "Slinky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +192,8 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "Slinky.md",
+    "United Nations.md",
     "codependency.md",
     "interpersonal relationship.md",
     "dating.md",
@@ -199,8 +201,6 @@
     "cadence (road cycling).md",
     "Markov chain.md",
     "romance (love).md",
-    "right temporal lobe.md",
-    "loss aversion.md",
-    "negative leverage (negotiation).md"
+    "right temporal lobe.md"
   ]
 }
