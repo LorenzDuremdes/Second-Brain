@@ -1,0 +1,1 @@
+1. scorched-earth policy; a military strategy that aims to destroy anything that might be useful to the enemy^[https://en.wikipedia.org/wiki/Scorched_earth]

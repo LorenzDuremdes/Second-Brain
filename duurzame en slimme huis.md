@@ -1,3 +1,7 @@
+# duurzame methodes + geld besparen
+1. wanneer daluren (elektriciteit)?^[https://www.pricewise.nl/energie-vergelijken/veelgestelde-vragen/piek-en-daluren/]
+	1. grootste deel van Nederland 23:00–7:00 + weekend + feestdagen
+
 # daarzame huis
 1. alternatief als je niet al te veel geld hebt of eerst zonnepanelen wilt uitproberen^[https://www.duurzaamthuis.nl/zonnepanelen-huren-vergelijking-bedrijven]
 	1. zonnepanelen huren
