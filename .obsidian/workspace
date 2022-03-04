@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "romance (love).md",
+                "file": "breakup.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "romance (love).md",
+                    "file": "breakup.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "love",
+                "query": "breakup",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "romance (love).md"
+                "file": "breakup.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "romance (love).md",
+                "file": "breakup.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "romance (love).md",
+                "file": "breakup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +192,7 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "breakup.md",
     "romance (love).md",
     "interpersonal relationship.md",
     "duurzame en slimme huis.md",
@@ -200,7 +201,6 @@
     "Armageddon (chess).md",
     "integrative psychotherapy.md",
     "codependency.md",
-    "Slinky.md",
-    "United Nations.md"
+    "Slinky.md"
   ]
 }
