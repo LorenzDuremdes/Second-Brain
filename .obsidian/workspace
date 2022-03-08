@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "breakup.md",
+                "file": "serre (bouwwerk).md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "breakup.md",
+                    "file": "serre (bouwwerk).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "breakup",
+                "query": "serre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "breakup.md"
+                "file": "serre (bouwwerk).md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "breakup.md",
+                "file": "serre (bouwwerk).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "breakup.md",
+                "file": "serre (bouwwerk).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +192,15 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
-    "breakup.md",
-    "romance (love).md",
-    "interpersonal relationship.md",
-    "duurzame en slimme huis.md",
-    "wasmachine en droger.md",
-    "scorched-earth policy.md",
-    "Armageddon (chess).md",
+    "serre (bouwwerk).md",
+    "serre (bouwwerk).md",
     "integrative psychotherapy.md",
     "codependency.md",
-    "Slinky.md"
+    "Slinky.md",
+    "United Nations.md",
+    "interpersonal relationship.md",
+    "dating.md",
+    "vertical coherence.md",
+    "cadence (road cycling).md"
   ]
 }

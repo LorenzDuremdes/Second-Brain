@@ -1,0 +1,2 @@
+1. A German "Wintergarten" with open blinds and anemometer (top left)^[CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=87711]
+	<img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Wintergarten_%28Eingefahrener_Sonnenschutz%29_%28Anemometer%29.jpg" width="300" />
