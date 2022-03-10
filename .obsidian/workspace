@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "duurzame en slimme huis.md",
+                "file": "additive increase - multiplicative decrease.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "duurzame en slimme huis.md",
+                    "file": "additive increase - multiplicative decrease.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "duurzame en slimme huis.md"
+                "file": "additive increase - multiplicative decrease.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "duurzame en slimme huis.md",
+                "file": "additive increase - multiplicative decrease.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "duurzame en slimme huis.md",
+                "file": "additive increase - multiplicative decrease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,8 +190,10 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "800a1026925a4b1e",
+  "active": "fcd4be548f68134d",
   "lastOpenFiles": [
+    "additive increase - multiplicative decrease.md",
+    "Scoupy.md",
     "duurzame en slimme huis.md",
     "koelkast.md",
     "serre (bouwwerk).md",
@@ -199,8 +201,6 @@
     "codependency.md",
     "Slinky.md",
     "United Nations.md",
-    "interpersonal relationship.md",
-    "dating.md",
-    "vertical coherence.md"
+    "interpersonal relationship.md"
   ]
 }

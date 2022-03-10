@@ -1,0 +1,1 @@
+1. additive increase/multiplicative decrease (AIMD); combines linear growth of the congestion window when there is no congestion with an [[exponential]] reduction when congestion is detected^[https://en.wikipedia.org/wiki/Additive_increase/multiplicative_decrease]
