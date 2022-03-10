@@ -1,6 +1,8 @@
 # duurzame methodes + geld besparen
 1. wanneer daluren (elektriciteit)?^[https://www.pricewise.nl/energie-vergelijken/veelgestelde-vragen/piek-en-daluren/]
 	1. grootste deel van Nederland 23:00–7:00 + weekend + feestdagen
+2. hoe kun je luchtverfrisser besparen in e.g. badkamer?
+	1. gebruik je parfum op jezelf in de badkamer en andere dingen e.g. deodorant spray en roller
 
 # daarzame huis
 1. alternatief als je niet al te veel geld hebt of eerst zonnepanelen wilt uitproberen^[https://www.duurzaamthuis.nl/zonnepanelen-huren-vergelijking-bedrijven]

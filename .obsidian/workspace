@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "serre (bouwwerk).md",
+                "file": "duurzame en slimme huis.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "serre (bouwwerk).md",
+                    "file": "duurzame en slimme huis.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "serre",
+                "query": "duurzam",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "serre (bouwwerk).md"
+                "file": "duurzame en slimme huis.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "serre (bouwwerk).md",
+                "file": "duurzame en slimme huis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "serre (bouwwerk).md",
+                "file": "duurzame en slimme huis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,8 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
-    "serre (bouwwerk).md",
+    "duurzame en slimme huis.md",
+    "koelkast.md",
     "serre (bouwwerk).md",
     "integrative psychotherapy.md",
     "codependency.md",
@@ -200,7 +201,6 @@
     "United Nations.md",
     "interpersonal relationship.md",
     "dating.md",
-    "vertical coherence.md",
-    "cadence (road cycling).md"
+    "vertical coherence.md"
   ]
 }
