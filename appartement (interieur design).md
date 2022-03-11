@@ -1,0 +1,1 @@
+1. het kan beter zijn om de bank tegenover een raam te zetten^[https://www.wooninspiratie.nu/kamer-groter-laten-lijken-tips/]

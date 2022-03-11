@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "additive increase - multiplicative decrease.md",
+                "file": "poly(methyl methacrylate).md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "additive increase - multiplicative decrease.md",
+                    "file": "poly(methyl methacrylate).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "duurzam",
+                "query": "genetic load",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "additive increase - multiplicative decrease.md"
+                "file": "poly(methyl methacrylate).md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "additive increase - multiplicative decrease.md",
+                "file": "poly(methyl methacrylate).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "additive increase - multiplicative decrease.md",
+                "file": "poly(methyl methacrylate).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,17 +190,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "fcd4be548f68134d",
+  "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "poly(methyl methacrylate).md",
+    "appartement (interieur design).md",
+    "loss (machine learning).md",
+    "genetic load.md",
+    "neophobia.md",
     "additive increase - multiplicative decrease.md",
     "Scoupy.md",
     "duurzame en slimme huis.md",
     "koelkast.md",
-    "serre (bouwwerk).md",
-    "integrative psychotherapy.md",
-    "codependency.md",
-    "Slinky.md",
-    "United Nations.md",
-    "interpersonal relationship.md"
+    "serre (bouwwerk).md"
   ]
 }
