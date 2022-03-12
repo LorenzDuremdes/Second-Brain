@@ -1,0 +1,2 @@
+1. bucket priority queue; has the form of an array of buckets: an array data structure, indexed by the priorities, whose cells contain collections of items with the same priority as each other^[https://en.wikipedia.org/wiki/Bucket_queue]
+	1. the bucket queue is the priority-queue analogue of pigeonhole sort (also called [[bucket sort]]), a [[sorting algorithm]] that places elements into buckets indexed by their priorities and then concatenates the buckets

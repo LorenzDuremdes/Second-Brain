@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "poly(methyl methacrylate).md",
+                "file": "bucket priority queue.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "poly(methyl methacrylate).md",
+                    "file": "bucket priority queue.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "poly(methyl methacrylate).md"
+                "file": "bucket priority queue.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "poly(methyl methacrylate).md",
+                "file": "bucket priority queue.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "poly(methyl methacrylate).md",
+                "file": "bucket priority queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +192,7 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "bucket priority queue.md",
     "poly(methyl methacrylate).md",
     "appartement (interieur design).md",
     "loss (machine learning).md",
@@ -200,7 +201,6 @@
     "additive increase - multiplicative decrease.md",
     "Scoupy.md",
     "duurzame en slimme huis.md",
-    "koelkast.md",
-    "serre (bouwwerk).md"
+    "koelkast.md"
   ]
 }
