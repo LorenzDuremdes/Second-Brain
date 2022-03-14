@@ -1,0 +1,1 @@
+1. synaptic plasticity; the ability of synapses to strengthen or weaken over [[time]], in response to increases or decreases in their activity.^[https://en.wikipedia.org/wiki/Synaptic_plasticity#cite_note-1]
