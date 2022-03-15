@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "synaptic plasticity.md",
+                "file": "arterial occlusion pressure.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "synaptic plasticity.md",
+                    "file": "arterial occlusion pressure.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "synaptic plasticity.md"
+                "file": "arterial occlusion pressure.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "synaptic plasticity.md",
+                "file": "arterial occlusion pressure.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "synaptic plasticity.md",
+                "file": "arterial occlusion pressure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +192,7 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "arterial occlusion pressure.md",
     "synaptic plasticity.md",
     "Markov chain.md",
     "bucket priority queue.md",
@@ -200,7 +201,6 @@
     "appartement (interieur design).md",
     "loss (machine learning).md",
     "genetic load.md",
-    "neophobia.md",
-    "additive increase - multiplicative decrease.md"
+    "neophobia.md"
   ]
 }
