@@ -1,3 +1,6 @@
+# how
+1. [[arterial occlusion pressure]] (BFR) ≈ 30–80%^[https://www.bicycling.com/training/a37980332/blood-flow-restriction-training/]
+
 # sources
 1. Hypothetical schematic diagram of the potential for [[blood]] flow restriction (BFR) to augment the molecular signals and associated physiological adaptations with repeated bouts of exercise training.
 

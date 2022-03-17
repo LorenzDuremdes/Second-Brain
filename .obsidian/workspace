@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arterial occlusion pressure.md",
+                "file": "blood flow restriction training.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "arterial occlusion pressure.md",
+                    "file": "blood flow restriction training.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arterial occlusion pressure.md"
+                "file": "blood flow restriction training.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arterial occlusion pressure.md",
+                "file": "blood flow restriction training.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arterial occlusion pressure.md",
+                "file": "blood flow restriction training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +192,7 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "blood flow restriction training.md",
     "arterial occlusion pressure.md",
     "synaptic plasticity.md",
     "Markov chain.md",
@@ -200,7 +201,6 @@
     "poly(methyl methacrylate).md",
     "appartement (interieur design).md",
     "loss (machine learning).md",
-    "genetic load.md",
-    "neophobia.md"
+    "genetic load.md"
   ]
 }
