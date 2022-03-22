@@ -1,0 +1,1 @@
+1. LED (acronym); light-emitting diode^[https://en.wikipedia.org/wiki/Light-emitting_diode]

@@ -8,9 +8,10 @@
 		rather than just transparently/honestly/trustfully saying e.g. "I couldn't do it, let's try perhaps something else."
 
 # [[neuroscience]]
-1. punishment-based [[motivation]] (neurophysiology)
-	1. might reduce activity in e.g. frontal lobe and makes it less likely someone will actually do something (as opposed to 'positive' counterconditioning)?
+1. punishment-based [[motivation]] ([[neurophysiology]])
+	1. might reduce activity in e.g. [[frontal lobe]] and makes it less likely someone will actually do something (as opposed to 'positive' counterconditioning)?
 
 # related
 1. [[cognitive behavioral therapy]]
 2. [[dialectical behavior therapy]]
+3. [[exposure and response prevention]]
