@@ -1,0 +1,1 @@
+1. [[exponentially weighted moving average]] reciprocation; e.g. only retaliating 40% of the [[time]] someone makes a mistake (baseline) with higher values the more someone made a mistake within a shorter [[time]] interval

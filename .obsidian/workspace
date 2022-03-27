@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interior design.md",
+                "file": "exponentially weighted moving average reciprocation.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "interior design.md",
+                    "file": "exponentially weighted moving average reciprocation.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interior design.md"
+                "file": "exponentially weighted moving average reciprocation.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interior design.md",
+                "file": "exponentially weighted moving average reciprocation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interior design.md",
+                "file": "exponentially weighted moving average reciprocation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +192,7 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "exponentially weighted moving average reciprocation.md",
     "interior design.md",
     "light-emitting diode.md",
     "exposure and response prevention.md",
@@ -200,7 +201,6 @@
     "arterial occlusion pressure.md",
     "synaptic plasticity.md",
     "Markov chain.md",
-    "bucket priority queue.md",
-    "vertical coherence.md"
+    "bucket priority queue.md"
   ]
 }
