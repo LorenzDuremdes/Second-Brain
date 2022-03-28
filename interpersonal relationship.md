@@ -5,6 +5,9 @@
 # improvements
 1. using skills (e.g. effective [[communication]]) to attract girls (fishing analogy)
 	1. You're just selecting for the easiest wins. It's like telling guys to only go fishing with their biggest, loudest lure and then saying "If they're gonna bite, they're gonna bite." Yes, you will periodically catch fish and then apparently leap to the conclusion that it's not helpful to carry multiple kinds of lures to match different fish and fishing conditions.^[https://www.reddit.com/r/seduction/comments/t1cxou/comment/hyhk3ng/?utm_source=share&utm_medium=web2x&context=3] or any type of relationship
+2. **why is it that most of the [[time]], the people that give the best [[dating]] advice are always single?**
+	1. maybe they’re single because they don’t date just anyone and have high standards 🤷🏼‍♀️ just because you’re not actively in a relationship doesn’t mean you lose all concept of them^[https://www.reddit.com/r/dating/comments/tq3h44/comment/i2ew37f/?utm_source=share&utm_medium=web2x&context=3]
+		1. this is my take, too. If you’re brave enough to choose being single over a bad relationship, you’re likely to have your priorities straight - and thus give [[good]] advice
 
 ## complimenting
 1. possibly improve the following^[https://www.instagram.com/p/CakjchqPsL4/]:
