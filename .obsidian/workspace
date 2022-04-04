@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interpersonal relationship.md",
+                "file": "developmental psychology.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "interpersonal relationship.md",
+                    "file": "developmental psychology.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "relationship",
+                "query": "developmental",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -116,7 +116,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interpersonal relationship.md"
+                "file": "developmental psychology.md"
               }
             }
           },
@@ -146,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interpersonal relationship.md",
+                "file": "developmental psychology.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interpersonal relationship.md",
+                "file": "developmental psychology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +193,15 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "developmental psychology.md",
+    "[Codependency.md",
+    "Bauhaus.md",
     "interpersonal relationship.md",
     "non-linear neural networks.md",
     "romance (love).md",
     "multipolar neuron.md",
     "exponentially weighted moving average reciprocation.md",
     "interior design.md",
-    "light-emitting diode.md",
-    "exposure and response prevention.md",
-    "counterconditioning.md",
-    "blood flow restriction training.md"
+    "light-emitting diode.md"
   ]
 }
