@@ -30,5 +30,5 @@
 
 # processes
 1. happy vs. unhappy couples → [[information]] pool^[The science of [[trust]]: emotional attunement for couples, p. 459]
-	1. there is more new [[information]] in every behavior in well-functioning family [[system]]
+	1. there is more new [[information]] in every behavior in well-functioning [[family]] [[system]]
 		1. the system is also more flexible because it is less time-locked

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "developmental psychology.md",
-                "mode": "source",
+                "file": "repetition compulsion.md",
+                "mode": "preview",
                 "source": false
               }
             },
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "developmental psychology.md",
+                    "file": "repetition compulsion.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "developmental",
+                "query": "family",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -116,8 +116,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "developmental psychology.md"
+                "file": "repetition compulsion.md"
               }
             }
           },
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "developmental psychology.md",
+                "file": "repetition compulsion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "developmental psychology.md",
+                "file": "repetition compulsion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,15 +192,15 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "repetition compulsion.md",
+    "codependency.md",
+    "genogram.md",
+    "family.md",
     "developmental psychology.md",
     "[Codependency.md",
     "Bauhaus.md",
     "interpersonal relationship.md",
     "non-linear neural networks.md",
-    "romance (love).md",
-    "multipolar neuron.md",
-    "exponentially weighted moving average reciprocation.md",
-    "interior design.md",
-    "light-emitting diode.md"
+    "romance (love).md"
   ]
 }

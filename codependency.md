@@ -4,8 +4,8 @@
 	1. codependents develop a persona in the world that reacts to others, to their own [[self]]-criticism, and to their imagined ideal of who they should be. To be acceptable to others and to themselves, you hide who you are and become who you aren’t
 
 ## [[psychotherapy]]
-1. it could be best for codependents to seek help beyond their family
-	1. Codependent relationships and families tend to be closed, meaning that you become isolated from outside information and the [[community]]. The best way to recover is to step beyond the family, because those relationships are restrictive for reasons more fully explained in Chapter 7.^[Codependency For Dummies by Darlene Lancer, p. 108]
+1. it could be best for codependents to seek help beyond their [[family]]
+	1. Codependent relationships and families tend to be closed, meaning that you become isolated from outside information and the [[community]]. The best way to recover is to step beyond the [[family]], because those relationships are restrictive for reasons more fully explained in Chapter 7.^[Codependency For Dummies by Darlene Lancer, p. 108]
 
 ## [[self]]
 1. codependents usually don't know well why they are e.g. upset^[Codependency For Dummies by Darlene Lancer, p. 38]
@@ -61,7 +61,7 @@
 1. [[women]] are more likely to develop codependency^[Codependency For Dummies by Darlene Lancer, p. 48]
 # examples
 1. ‘I’ll change him (or her) to do what I want, and then I’ll be happy.’^[https://www.gottman.com/blog/how-i-stopped-trying-to-control-my-partner-and-took-responsibility-for-my-own-happiness/]
-2. Now, instead of playing therapist without their consent, I say, “What you’re describing sounds like something I’ve been reading about lately. Do you want to hear the connection?” or “I found an article that describes the type of family you grew up in. Do you want me to send it to you?”
+2. Now, instead of playing therapist without their consent, I say, “What you’re describing sounds like something I’ve been reading about lately. Do you want to hear the connection?” or “I found an article that describes the type of [[family]] you grew up in. Do you want me to send it to you?”
 
 	At first, their refusal baffled and insulted me. _They have no idea how much this information could_ help _them!_ I’d fume silently. _They must not care about their healing or personal growth. They must not [[trust]] that I know what I’m talking about._^[[https://www.gottman.com/blog/how-i-stopped-trying-to-control-my-partner-and-took-responsibility-for-my-own-happiness/]]
 

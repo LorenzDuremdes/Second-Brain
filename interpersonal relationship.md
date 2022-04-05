@@ -16,7 +16,7 @@
 	1. add an example: "...like last week when you..."
 
 # [[psychology]]
-1. people who cannot connect through work, friendships, or family usually find other ways of bonding, as through illnesses, lawsuits, or family feud^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 140]
+1. people who cannot connect through work, friendships, or [[family]] usually find other ways of bonding, as through illnesses, lawsuits, or [[family]] feud^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 140]
 
 # [[microsociology]]
 1. the most natural way for [[human]] beings to calm themselves when they are upset is by clinging to another person^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 125]

@@ -1,0 +1,3 @@
+1. repetition compulsion; a psychological phenomenon in which a person repeats an event or its circumstances over and over again^[https://en.wikipedia.org/wiki/Repetition_compulsion]
+	1. This includes re-enacting the event or putting oneself in situations where the event is likely to happen again. This "re-living" can also take the form of dreams in which memories and feelings of what happened are repeated, and even hallucinated.
+	2. an attempt to master it or find a solution^[[[Codependency]] For Dummies by Darlene Lancer, p. 115]

@@ -22,4 +22,4 @@
 
 # genetics ↮ environment
 1. are "adoptive parents" a "random sample" for e.g. estimating influence of "genetics ↮ environment" on IQ? + why^[https://www.reddit.com/r/science/comments/pmds85/comment/hchwt1s/?utm_source=share&utm_medium=web2x&context=3]
-	1. no, they are highly screened and middle class or affluent. These kids are getting better quality care than average. This doesn’t mean there is no effect from the family they’re in - these families are similar to each other in crucial ways.
+	1. no, they are highly screened and middle class or affluent. These kids are getting better quality care than average. This doesn’t mean there is no effect from the [[family]] they’re in - these families are similar to each other in crucial ways.
