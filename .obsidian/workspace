@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "repetition compulsion.md",
-                "mode": "preview",
+                "file": "telecommunications network.md",
+                "mode": "source",
                 "source": false
               }
             },
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "repetition compulsion.md",
+                    "file": "telecommunications network.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "repetition compulsion.md"
+                "file": "telecommunications network.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "repetition compulsion.md",
+                "file": "telecommunications network.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "repetition compulsion.md",
+                "file": "telecommunications network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +192,7 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "telecommunications network.md",
     "repetition compulsion.md",
     "codependency.md",
     "genogram.md",
@@ -200,7 +201,6 @@
     "[Codependency.md",
     "Bauhaus.md",
     "interpersonal relationship.md",
-    "non-linear neural networks.md",
-    "romance (love).md"
+    "non-linear neural networks.md"
   ]
 }
