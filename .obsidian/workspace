@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "telecommunications network.md",
+                "file": "additive increase - multiplicative decrease.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "telecommunications network.md",
+                    "file": "additive increase - multiplicative decrease.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -53,7 +53,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.0078125,
+                      "scale": 0.01095299138887586,
                       "close": false
                     }
                   }
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "family",
+                "query": "additive ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "telecommunications network.md"
+                "file": "additive increase - multiplicative decrease.md"
               }
             }
           },
@@ -146,14 +146,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "telecommunications network.md",
+                "file": "additive increase - multiplicative decrease.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "77e8e2cf27925acf",
+            "id": "5fdfe8e62338ab22",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "telecommunications network.md",
+                "file": "additive increase - multiplicative decrease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +192,7 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "additive increase - multiplicative decrease.md",
     "telecommunications network.md",
     "repetition compulsion.md",
     "codependency.md",
@@ -200,7 +201,6 @@
     "developmental psychology.md",
     "[Codependency.md",
     "Bauhaus.md",
-    "interpersonal relationship.md",
-    "non-linear neural networks.md"
+    "interpersonal relationship.md"
   ]
 }
