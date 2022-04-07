@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCP global synchronization.md",
+                "file": "retrofuturism.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "TCP global synchronization.md",
+                    "file": "retrofuturism.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCP global synchronization.md"
+                "file": "retrofuturism.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCP global synchronization.md",
+                "file": "retrofuturism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCP global synchronization.md",
+                "file": "retrofuturism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +192,15 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "retrofuturism.md",
+    "anachronism.md",
+    "bufferbloat.md",
+    "data buffer.md",
     "TCP global synchronization.md",
     "[Codependency.md",
     "random early detection.md",
     "tail drop.md",
-    "bufferbloat.md",
     "backchannel.md",
-    "maisonnette.md",
-    "flat organization.md",
-    "white-shoe firm.md",
-    "Dilbert principle.md"
+    "maisonnette.md"
   ]
 }

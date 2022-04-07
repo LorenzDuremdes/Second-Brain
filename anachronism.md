@@ -1,0 +1,4 @@
+1. anachronism; a chronological inconsistency in some arrangement, especially a juxtaposition of people, events, objects, language terms and customs from different [[time]] periods^[https://en.wikipedia.org/wiki/Anachronism]
+2. Lawrence Alma-Tadema (1868). Flower market in Roman times, with a cactus and two agaves.^[https://en.wikipedia.org/wiki/Anachronism#cite_note-2] Cacti and agaves are originally American plants.^[By WikiArt - WikiArt, CC0, https://commons.wikimedia.org/w/index.php?curid=105759821]
+   
+   <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Alma-Tadema_The-flower-market-1868.jpg" width="500" />

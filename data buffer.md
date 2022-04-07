@@ -1,0 +1,2 @@
+1. do data buffers always work + why
+	1. no e.g. when average workload exceeds average work rate, then the size of the data buffer probably won't matter^[Algorithms to Live By The [[Computer Science]] of Human Decisions by Brian Christian, Tom Griffiths, Christian etc, p. 182]
