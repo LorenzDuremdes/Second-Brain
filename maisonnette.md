@@ -1,0 +1,2 @@
+1. maisonnette; een woning in een groter gebouw, zoals een flat, met twee verdiepingen per woning, bijvoorbeeld een slaapverdieping boven de woonverdieping^[https://nl.wikipedia.org/wiki/Maisonnette]
+	1. in tegenstelling tot een appartement, dat maar één verdieping heeft

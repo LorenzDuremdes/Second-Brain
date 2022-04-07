@@ -1,0 +1,1 @@
+1. flat organization; an organizational structure with few or no levels of middle management between staff and executives^[https://en.wikipedia.org/wiki/Flat_organization]

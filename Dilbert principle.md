@@ -1,0 +1,1 @@
+1. Dilbert principle; employees who were never competent are promoted to management to limit the damage they can do^[https://en.wikipedia.org/wiki/Dilbert_principle]

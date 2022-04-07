@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "additive increase - multiplicative decrease.md",
+                "file": "bufferbloat.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "additive increase - multiplicative decrease.md",
+                    "file": "bufferbloat.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "additive increase - multiplicative decrease.md"
+                "file": "bufferbloat.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "additive increase - multiplicative decrease.md",
+                "file": "bufferbloat.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "additive increase - multiplicative decrease.md",
+                "file": "bufferbloat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +192,15 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "bufferbloat.md",
+    "backchannel.md",
+    "maisonnette.md",
+    "flat organization.md",
+    "white-shoe firm.md",
+    "Dilbert principle.md",
+    "Peter principle.md",
     "additive increase - multiplicative decrease.md",
     "telecommunications network.md",
-    "repetition compulsion.md",
-    "codependency.md",
-    "genogram.md",
-    "family.md",
-    "developmental psychology.md",
-    "[Codependency.md",
-    "Bauhaus.md",
-    "interpersonal relationship.md"
+    "repetition compulsion.md"
   ]
 }

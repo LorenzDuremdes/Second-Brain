@@ -1,0 +1,1 @@
+1. white-shoe firm; the term is sometimes used in a general sense to refer to firms that are perceived as prestigious or high-quality^[https://en.wikipedia.org/wiki/White-shoe_firm]

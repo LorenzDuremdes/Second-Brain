@@ -1,0 +1,1 @@
+1. bufferbloat; a cause of high latency and [[jitter]] in packet-switched networks caused by excess buffering of packets^[https://en.wikipedia.org/wiki/Bufferbloat]
