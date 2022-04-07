@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bufferbloat.md",
+                "file": "TCP global synchronization.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "bufferbloat.md",
+                    "file": "TCP global synchronization.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bufferbloat.md"
+                "file": "TCP global synchronization.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bufferbloat.md",
+                "file": "TCP global synchronization.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bufferbloat.md",
+                "file": "TCP global synchronization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +192,15 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "TCP global synchronization.md",
+    "[Codependency.md",
+    "random early detection.md",
+    "tail drop.md",
     "bufferbloat.md",
     "backchannel.md",
     "maisonnette.md",
     "flat organization.md",
     "white-shoe firm.md",
-    "Dilbert principle.md",
-    "Peter principle.md",
-    "additive increase - multiplicative decrease.md",
-    "telecommunications network.md",
-    "repetition compulsion.md"
+    "Dilbert principle.md"
   ]
 }
