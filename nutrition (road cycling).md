@@ -1,9 +1,9 @@
 1. post-workout nutrition > intra-workout nutrition > pre-workout nutrition
-	1. All of the nutrition and hydration choices you make in the 18–48-hour period between your workouts determine whether you have the carbohydrate stores necessary for a high-quality training session. In contrast, your immediate pre-workout nutrition choices don’t do much to change your [[glycogen]] stores; they have more impact on how energized you feel.^[The Time-Crunched Cyclist: Race-Winning Fitness in 6 Hours a Week, 3rd Edition, p. 22]
+	1. All of the nutrition and hydration choices you make in the 18–48-hour period between your workouts determine whether you have the carbohydrate stores necessary for a high-quality training session. In contrast, your immediate pre-workout nutrition choices don’t do much to change your [[glycogen]] stores; they have more impact on how energized you feel.^[The [[Time]]-Crunched Cyclist: Race-Winning Fitness in 6 Hours a Week, 3rd Edition, p. 22]
 
 # [[recovery (road cycling)]]
 1. how can [[sodium]] help with [[physical exercise]] recovery?
-	1. [[sodium]] plays an important role in transporting carbohydrate out of the gut and into the bloodstream^[The Time-Crunched Cyclist: Race-Winning Fitness in 6 Hours a Week, 3rd Edition, p. 22]
+	1. [[sodium]] plays an important role in transporting carbohydrate out of the gut and into the bloodstream^[The [[Time]]-Crunched Cyclist: Race-Winning Fitness in 6 Hours a Week, 3rd Edition, p. 22]
 
 # macronutrients
 1. recommended carbohydrates for optimal endurance performance ≈ 6–10g per kg of bodyweight^[https://www.trainerroad.com/blog/cycling-nutrition-everything-you-need-to-know/]
@@ -13,6 +13,8 @@
 # intra-workout
 1. max carbohydrates per hour (under research) ≈ 140g/hour^[https://www.trainerroad.com/forum/t/140g-carbs-per-hour/51650/]
 	1. 1:1 glucose-fructose ratio
+2. _Figure 1: Relationship between the drop in CP/"Threshold" power as a result of different levels of carbohydrate intake. Note that the drop is both steeper and deeper with decreasing carbohydrate intake._
+   <img src="https://cdn.shopify.com/s/files/1/0537/6311/3136/files/OTS_power_decline_1024x1024.png?v=1649683696" width="600" />
 
 # pre-workout
 1. optimal timing of pre-workout nutrition^[https://youtu.be/o0S5iPm-hjs?t=360, TrainerRoad]

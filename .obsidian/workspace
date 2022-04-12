@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "human memory.md",
+                "file": "nutrition (road cycling).md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "human memory.md",
+                    "file": "nutrition (road cycling).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "human memory",
+                "query": "nutrition",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "human memory.md"
+                "file": "nutrition (road cycling).md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "human memory.md",
+                "file": "nutrition (road cycling).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "human memory.md",
+                "file": "nutrition (road cycling).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +192,8 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "nutrition (road cycling).md",
+    "time.md",
     "human memory.md",
     "retrofuturism.md",
     "anachronism.md",
@@ -199,8 +201,6 @@
     "data buffer.md",
     "TCP global synchronization.md",
     "[Codependency.md",
-    "random early detection.md",
-    "tail drop.md",
-    "backchannel.md"
+    "random early detection.md"
   ]
 }
