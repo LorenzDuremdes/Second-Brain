@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nutrition (road cycling).md",
+                "file": "horizontal market.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "nutrition (road cycling).md",
+                    "file": "horizontal market.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nutrition",
+                "query": "horizontal market",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nutrition (road cycling).md"
+                "file": "horizontal market.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nutrition (road cycling).md",
+                "file": "horizontal market.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nutrition (road cycling).md",
+                "file": "horizontal market.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +192,8 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "horizontal market.md",
+    "floating-point arithmetic.md",
     "nutrition (road cycling).md",
     "time.md",
     "human memory.md",
@@ -199,8 +201,6 @@
     "anachronism.md",
     "bufferbloat.md",
     "data buffer.md",
-    "TCP global synchronization.md",
-    "[Codependency.md",
-    "random early detection.md"
+    "TCP global synchronization.md"
   ]
 }

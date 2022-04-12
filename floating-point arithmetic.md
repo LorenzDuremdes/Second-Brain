@@ -3,3 +3,6 @@
 2. floating-point arithmetic makes use of minima and maxima
 	1. space-[[time]] tradeoff:
 		1. change in space - change in [[time]] = 0
+
+# related
+1. [[algorithmic efficiency]]
