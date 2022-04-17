@@ -4,16 +4,75 @@
     "type": "split",
     "children": [
       {
-        "id": "f6a9b12910347927",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "rolled homogeneous armor.md",
-            "mode": "source",
-            "source": false
+        "id": "b61dc85aff6f6c81",
+        "type": "split",
+        "children": [
+          {
+            "id": "f6a9b12910347927",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "approximation algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "1248eaabdc46a439"
+          },
+          {
+            "id": "e2ec5aa4d14d65c3",
+            "type": "split",
+            "children": [
+              {
+                "id": "23e82deb2f7b30aa",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "approximation algorithm.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 5,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": false,
+                      "showAttachments": true,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": -3,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0,
+                      "repelStrength": 20,
+                      "linkStrength": 1,
+                      "linkDistance": 30,
+                      "scale": 0.010952991388875793,
+                      "close": false
+                    }
+                  }
+                },
+                "group": "1248eaabdc46a439"
+              },
+              {
+                "id": "5dfc91360a61aeb5",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ],
+            "direction": "vertical"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -72,41 +131,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0c952a541eef089e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "rolled homogeneous armor.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "4991e78a8f13979d",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "rolled homogeneous armor.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "cb0acfa68d139b8b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "rolled homogeneous armor.md"
+                "file": "approximation algorithm.md"
               }
             }
           },
@@ -117,16 +147,59 @@
               "type": "graph-analysis",
               "state": {}
             }
+          },
+          {
+            "id": "96c5791f8f3590bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "approximation algorithm.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "928695a49a920971",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfd5951df523bde4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "approximation algorithm.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "f6a9b12910347927",
   "lastOpenFiles": [
+    "approximation algorithm.md",
+    "sharing economy.md",
+    "quadratic voting.md",
+    "algorithmic mechanism design.md",
+    "Price of Anarchy.md",
+    "algorithmic game theory.md",
+    "floating-point arithmetic.md",
+    "horizontal market.md",
     "rolled homogeneous armor.md"
   ]
 }

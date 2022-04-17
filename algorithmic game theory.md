@@ -1,0 +1,1 @@
+1. algorithmic game theory; an area in the intersection of game theory and [[computer science]], with the objective of understanding and design of algorithms in strategic environments^[https://en.wikipedia.org/wiki/Algorithmic_game_theory]
