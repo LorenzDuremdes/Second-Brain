@@ -1,100 +1,29 @@
 {
   "main": {
-    "id": "c9cd4af5bf7f2c5c",
+    "id": "ce23b9467d6b3992",
     "type": "split",
     "children": [
       {
-        "id": "557f53dea4af6d27",
-        "type": "split",
-        "children": [
-          {
-            "id": "800a1026925a4b1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "horizontal market.md",
-=======
-                "file": "rolled homogeneous armor.md",
->>>>>>> Stashed changes
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "000454eb2d190c96"
-          },
-          {
-            "id": "c90ea8d5224110a9",
-            "type": "split",
-            "children": [
-              {
-                "id": "fcd4be548f68134d",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-<<<<<<< Updated upstream
-                    "file": "horizontal market.md",
-=======
-                    "file": "rolled homogeneous armor.md",
->>>>>>> Stashed changes
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 5,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": true,
-                      "showTags": false,
-                      "showAttachments": true,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": true,
-                      "textFadeMultiplier": -3,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0,
-                      "repelStrength": 20,
-                      "linkStrength": 1,
-                      "linkDistance": 30,
-                      "scale": 0.01095299138887586,
-                      "close": false
-                    }
-                  }
-                },
-                "group": "000454eb2d190c96"
-              },
-              {
-                "id": "bd40bc667845215f",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
-              }
-            ],
-            "direction": "vertical"
-          }
-        ],
-        "direction": "horizontal"
+        "id": "f6a9b12910347927",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8a012222e6865499",
+    "id": "43e7dbc62b5e56dd",
     "type": "split",
     "children": [
       {
-        "id": "f969c1c5d0a9d0f3",
+        "id": "9c896f5a702bca91",
         "type": "tabs",
         "children": [
           {
-            "id": "94ed3e06539faa16",
+            "id": "448b8eef11845aa3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -102,22 +31,22 @@
             }
           },
           {
-            "id": "60fe29566a98ccef",
+            "id": "b63695e1e06ae736",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "horizontal market",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "e3952c24477e87f1",
+            "id": "ecc47b042db5fee7",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -131,105 +60,63 @@
     "width": 300
   },
   "right": {
-    "id": "ced66b4a15c4f05a",
+    "id": "af3ec2b20204b684",
     "type": "split",
     "children": [
       {
-        "id": "24ebe64b4c498720",
+        "id": "1cc09708b6f2d1d2",
         "type": "tabs",
         "children": [
           {
-            "id": "a7edfc8468363e71",
+            "id": "0c952a541eef089e",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "horizontal market.md"
-=======
-                "file": "rolled homogeneous armor.md"
->>>>>>> Stashed changes
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "718556910646278b",
+            "id": "4991e78a8f13979d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "horizontal market.md",
-=======
-                "file": "rolled homogeneous armor.md",
->>>>>>> Stashed changes
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5fdfe8e62338ab22",
+            "id": "cb0acfa68d139b8b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "e3837afdf2ae358d",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "a834b3f3361a68cb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "23fa12597d0a6822",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "horizontal market.md",
-=======
-                "file": "rolled homogeneous armor.md",
->>>>>>> Stashed changes
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
-          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 276
+    "width": 300,
+    "collapsed": true
   },
-  "active": "800a1026925a4b1e",
-  "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "horizontal market.md",
-    "floating-point arithmetic.md",
-=======
-    "rolled homogeneous armor.md",
->>>>>>> Stashed changes
-    "nutrition (road cycling).md",
-    "time.md",
-    "human memory.md",
-    "retrofuturism.md",
-    "anachronism.md",
-    "bufferbloat.md",
-    "data buffer.md",
-<<<<<<< Updated upstream
-    "TCP global synchronization.md"
-=======
-    "TCP global synchronization.md",
-    "[Codependency.md"
->>>>>>> Stashed changes
-  ]
+  "active": "f6a9b12910347927",
+  "lastOpenFiles": []
 }
