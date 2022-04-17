@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "horizontal market.md",
+=======
+                "file": "rolled homogeneous armor.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +34,11 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+<<<<<<< Updated upstream
                     "file": "horizontal market.md",
+=======
+                    "file": "rolled homogeneous armor.md",
+>>>>>>> Stashed changes
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -136,7 +144,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "horizontal market.md"
+=======
+                "file": "rolled homogeneous armor.md"
+>>>>>>> Stashed changes
               }
             }
           },
@@ -146,7 +158,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "horizontal market.md",
+=======
+                "file": "rolled homogeneous armor.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +189,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "horizontal market.md",
+=======
+                "file": "rolled homogeneous armor.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,8 +212,12 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "horizontal market.md",
     "floating-point arithmetic.md",
+=======
+    "rolled homogeneous armor.md",
+>>>>>>> Stashed changes
     "nutrition (road cycling).md",
     "time.md",
     "human memory.md",
@@ -201,6 +225,11 @@
     "anachronism.md",
     "bufferbloat.md",
     "data buffer.md",
+<<<<<<< Updated upstream
     "TCP global synchronization.md"
+=======
+    "TCP global synchronization.md",
+    "[Codependency.md"
+>>>>>>> Stashed changes
   ]
 }

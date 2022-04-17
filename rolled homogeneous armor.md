@@ -1,0 +1,2 @@
+1. rolled homogeneous armor; a type of armour made of a single steel composition hot-rolled to improve its material characteristics, as opposed to layered or cemented armour^[https://en.wikipedia.org/wiki/Rolled_homogeneous_armour]
+	1. today, the term is primarily used as a unit of [[measurement]] of the protection offered by armor on a vehicle (often composed of materials that may not actually contain steel, or even contain any metals) in equivalent "millimeters of RHA", referring to the thickness of RHA that would provide the same protection
