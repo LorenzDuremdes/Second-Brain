@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "approximation algorithm.md",
+                "file": "bicycle commuting.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "approximation algorithm.md",
+                    "file": "bicycle commuting.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "approximation algorithm.md"
+                "file": "bicycle commuting.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "approximation algorithm.md",
+                "file": "bicycle commuting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "approximation algorithm.md",
+                "file": "bicycle commuting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +192,7 @@
   },
   "active": "f6a9b12910347927",
   "lastOpenFiles": [
+    "bicycle commuting.md",
     "approximation algorithm.md",
     "sharing economy.md",
     "quadratic voting.md",
