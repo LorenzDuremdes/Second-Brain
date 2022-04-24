@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skeuomorph.md",
+                "file": "adaptive simulated annealing.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "skeuomorph.md",
+                    "file": "adaptive simulated annealing.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "skeuomorph.md"
+                "file": "adaptive simulated annealing.md"
               }
             }
           },
@@ -152,13 +152,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "skeuomorph.md",
+                "file": "adaptive simulated annealing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "928695a49a920971",
@@ -170,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "skeuomorph.md",
+                "file": "adaptive simulated annealing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,15 +190,15 @@
   },
   "active": "b396164bd26ec21c",
   "lastOpenFiles": [
+    "adaptive simulated annealing.md",
+    "simulated annealing.md",
+    "relaxation (physics).md",
     "skeuomorph.md",
     "interpersonal relationship.md",
     "intimate relationship.md",
     "unstable human relationships.md",
     "Theory X and Theory Y.md",
     "external regulation.md",
-    "autoassociative memory.md",
-    "bike fit.md",
-    "haute couture.md",
-    "tyre (road bike).md"
+    "autoassociative memory.md"
   ]
 }

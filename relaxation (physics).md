@@ -1,0 +1,1 @@
+1. relaxation ([[physics]]); usually means the return of a perturbed [[system]] into equilibrium^[https://en.wikipedia.org/wiki/Relaxation_(physics)]
