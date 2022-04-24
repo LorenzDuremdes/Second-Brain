@@ -15,9 +15,14 @@
 		too low saddle = dorsiflexion
 2. Serotta's first saddle iteration
 	1. saddle selection (contact points)^[Cutting-Edge Cycling, p. 205]
-3. ankling → saddle height
+3. 
+
+## [[physiology]]
+1. too forward saddle → downward force duration^[https://youtu.be/aOkM0-ugwjI?t=90]
+	1. less downward force duration
+2. ankling → saddle height
 	1. ankling (dorsiflexion/plantar flexion) needs to be accounted for when determining optimal saddle height^[Cutting-Edge Cycling, p. 206]
-4. saddle fore/aft → [[patella]]
+3. saddle fore/aft → [[patella]]
 	1. can prevent injury to the kneecap^[Cutting-Edge Cycling, p. 210]
 	2. one of BikeFit's configurations
 

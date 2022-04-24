@@ -1,0 +1,1 @@
+1. *haute couture*; refers to the creation of exclusive custom-fitted high-end fashion design that is constructed by hand from start-to-finish^[https://en.wikipedia.org/wiki/Haute_couture]

@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "bicycle commuting.md",
+=======
+                "file": "autoassociative memory.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +34,11 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+<<<<<<< Updated upstream
                     "file": "bicycle commuting.md",
+=======
+                    "file": "autoassociative memory.md",
+>>>>>>> Stashed changes
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +107,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "autoassociative",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +144,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "bicycle commuting.md"
+=======
+                "file": "autoassociative memory.md"
+>>>>>>> Stashed changes
               }
             }
           },
@@ -154,7 +166,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "bicycle commuting.md",
+=======
+                "file": "autoassociative memory.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,13 +189,17 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "bicycle commuting.md",
+=======
+                "file": "autoassociative memory.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -192,15 +212,19 @@
   },
   "active": "f6a9b12910347927",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "bicycle commuting.md",
+=======
+    "autoassociative memory.md",
+    "bike fit.md",
+    "haute couture.md",
+    "tyre (road bike).md",
+>>>>>>> Stashed changes
     "approximation algorithm.md",
     "sharing economy.md",
     "quadratic voting.md",
     "algorithmic mechanism design.md",
     "Price of Anarchy.md",
-    "algorithmic game theory.md",
-    "floating-point arithmetic.md",
-    "horizontal market.md",
-    "rolled homogeneous armor.md"
+    "algorithmic game theory.md"
   ]
 }
