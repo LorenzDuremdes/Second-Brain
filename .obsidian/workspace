@@ -4,28 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b61dc85aff6f6c81",
+        "id": "0957240415a06daf",
         "type": "split",
         "children": [
           {
-            "id": "f6a9b12910347927",
+            "id": "b396164bd26ec21c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "bicycle commuting.md",
-=======
-                "file": "autoassociative memory.md",
->>>>>>> Stashed changes
+                "file": "interpersonal relationship.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "1248eaabdc46a439"
+            }
           },
           {
-            "id": "e2ec5aa4d14d65c3",
+            "id": "ab82f480afa3667a",
             "type": "split",
             "children": [
               {
@@ -34,11 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-<<<<<<< Updated upstream
-                    "file": "bicycle commuting.md",
-=======
-                    "file": "autoassociative memory.md",
->>>>>>> Stashed changes
+                    "file": "interpersonal relationship.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -61,15 +52,14 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.010952991388875793,
+                      "scale": 0.015355906606692764,
                       "close": false
                     }
                   }
-                },
-                "group": "1248eaabdc46a439"
+                }
               },
               {
-                "id": "5dfc91360a61aeb5",
+                "id": "dcbedd1412c12a8f",
                 "type": "leaf",
                 "state": {
                   "type": "mindmap",
@@ -107,10 +97,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "autoassociative",
+                "query": "relationship",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -124,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,11 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
-                "file": "bicycle commuting.md"
-=======
-                "file": "autoassociative memory.md"
->>>>>>> Stashed changes
+                "file": "interpersonal relationship.md"
               }
             }
           },
@@ -166,18 +153,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "bicycle commuting.md",
-=======
-                "file": "autoassociative memory.md",
->>>>>>> Stashed changes
+                "file": "interpersonal relationship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "928695a49a920971",
@@ -189,11 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "bicycle commuting.md",
-=======
-                "file": "autoassociative memory.md",
->>>>>>> Stashed changes
+                "file": "interpersonal relationship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,21 +188,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f6a9b12910347927",
+  "active": "b396164bd26ec21c",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "bicycle commuting.md",
-=======
+    "interpersonal relationship.md",
+    "intimate relationship.md",
+    "unstable human relationships.md",
+    "Theory X and Theory Y.md",
+    "external regulation.md",
     "autoassociative memory.md",
     "bike fit.md",
     "haute couture.md",
     "tyre (road bike).md",
->>>>>>> Stashed changes
-    "approximation algorithm.md",
-    "sharing economy.md",
-    "quadratic voting.md",
-    "algorithmic mechanism design.md",
-    "Price of Anarchy.md",
-    "algorithmic game theory.md"
+    "approximation algorithm.md"
   ]
 }

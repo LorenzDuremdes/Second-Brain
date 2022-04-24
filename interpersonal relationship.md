@@ -23,6 +23,10 @@
 2. adversity → interpersonal relationships^[The [[Happiness]] Hypothesis: Finding Modern Truth in Ancient Wisdom, p. 149]
 	1. adversity can strenghten (some) interpersonal relationships e.g. more appreciation or filtering out those who do not care as much
 
+# unstable
+1. unstable couples have a lower turning toward ratio due to lower sensitivity or due to e.g. "negative sentiment override"?
+	1. ◇e.g. people with psychopathy or autism might have a lower sensitivity (at least affective empathy, at the beginning especially)
+
 ## dynamics
 1. 69% of relationship problems are 'perpetual'^[https://www.instagram.com/p/CVLL4_rD3MF/]^[https://www.gottman.com/blog/managing-conflict-solvable-vs-perpetual-problems/]
 	1. what matters is not solving perpetual problems, but rather the affect with which they are discussed.
