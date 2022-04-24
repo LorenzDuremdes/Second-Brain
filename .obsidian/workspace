@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interpersonal relationship.md",
+                "file": "skeuomorph.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "interpersonal relationship.md",
+                    "file": "skeuomorph.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -114,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interpersonal relationship.md"
+                "file": "skeuomorph.md"
               }
             }
           },
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interpersonal relationship.md",
+                "file": "skeuomorph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interpersonal relationship.md",
+                "file": "skeuomorph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +189,7 @@
   },
   "active": "b396164bd26ec21c",
   "lastOpenFiles": [
+    "skeuomorph.md",
     "interpersonal relationship.md",
     "intimate relationship.md",
     "unstable human relationships.md",
@@ -198,7 +198,6 @@
     "autoassociative memory.md",
     "bike fit.md",
     "haute couture.md",
-    "tyre (road bike).md",
-    "approximation algorithm.md"
+    "tyre (road bike).md"
   ]
 }
