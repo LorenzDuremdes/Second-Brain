@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "genogram.md",
+                "file": "stenography.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "genogram.md",
+                    "file": "stenography.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "genogram.md"
+                "file": "stenography.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "genogram.md",
+                "file": "stenography.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "genogram.md",
+                "file": "stenography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,6 +189,7 @@
   },
   "active": "b396164bd26ec21c",
   "lastOpenFiles": [
+    "stenography.md",
     "genogram.md",
     "flirting.md",
     "sexual intercourse.md",
@@ -197,7 +198,6 @@
     "condom.md",
     "adaptive simulated annealing.md",
     "simulated annealing.md",
-    "relaxation (physics).md",
-    "skeuomorph.md"
+    "relaxation (physics).md"
   ]
 }
