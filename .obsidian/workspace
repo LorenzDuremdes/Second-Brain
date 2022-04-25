@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flirting.md",
+                "file": "genogram.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "flirting.md",
+                    "file": "genogram.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flirting",
+                "query": "genogram",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -114,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flirting.md"
+                "file": "genogram.md"
               }
             }
           },
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flirting.md",
+                "file": "genogram.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flirting.md",
+                "file": "genogram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +189,7 @@
   },
   "active": "b396164bd26ec21c",
   "lastOpenFiles": [
+    "genogram.md",
     "flirting.md",
     "sexual intercourse.md",
     "birth control.md",
@@ -198,7 +198,6 @@
     "adaptive simulated annealing.md",
     "simulated annealing.md",
     "relaxation (physics).md",
-    "skeuomorph.md",
-    "interpersonal relationship.md"
+    "skeuomorph.md"
   ]
 }
