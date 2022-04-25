@@ -1,5 +1,5 @@
-# microsociology
-1. 'good' sexual intercourse is all about communication (rather than e.g. techniques)^[https://qr.ae/pGzyut, [[Franklin Veaux]]]
+# [[microsociology]]
+1. 'good' sexual intercourse is all about [[communication]] (rather than e.g. techniques)^[https://qr.ae/pGzyut, [[Franklin Veaux]]]
 	1. e.g. each other's desires, bodies, turn-offs
 
 # biopsychology
@@ -44,8 +44,8 @@
 3. [[amygdala]] (specialization during sexual [[arousal]]); determine whether sexual [[arousal]] is 'warranted'^[The Happy [[Brain]]: The Science of Where [[Happiness]] Comes from, and Why, p. 123]
 	1. A beautiful man or woman lying naked on your bed? Potentially very arousing. Same person lying naked on an operating table, because you’re their surgeon? The [[amygdala]] is what (hopefully) would determine that [[arousal]] is not warranted in this context, despite the similar visual cues.
 
-## hippocampus
-1. what could be the advantage of the hippocampus causing memories of sexual intercourse to be more vivid?^[The Happy [[Brain]]: The Science of Where [[Happiness]] Comes from, and Why, p. 127]
+## [[hippocampus]]
+1. what could be the advantage of the [[hippocampus]] causing memories of sexual intercourse to be more vivid?^[The Happy [[Brain]]: The Science of Where [[Happiness]] Comes from, and Why, p. 127]
 	1. ensuring we have potentially helpful prior experiences fresh in our [[mind]]
 
 # sexual dysfunction
@@ -53,3 +53,7 @@
 
 	  increasing [[testosterone]] artificially doesn’t seem to fix the problem^[The Happy [[Brain]]: The Science of Where [[Happiness]] Comes from, and Why, p. 124]
 	  1. why?
+
+# history
+## personal lubricant
+1. the Greeks used to use oil for intercourse^[https://www.reddit.com/r/sex/comments/ub3f09/comment/i62e476/?utm_source=share&utm_medium=web2x&context=3]
