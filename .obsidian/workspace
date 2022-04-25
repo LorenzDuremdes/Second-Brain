@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sexual intercourse.md",
+                "file": "flirting.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "sexual intercourse.md",
+                    "file": "flirting.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sexual inter",
+                "query": "flirting",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sexual intercourse.md"
+                "file": "flirting.md"
               }
             }
           },
@@ -152,14 +153,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sexual intercourse.md",
+                "file": "flirting.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "928695a49a920971",
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sexual intercourse.md",
+                "file": "flirting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +190,7 @@
   },
   "active": "b396164bd26ec21c",
   "lastOpenFiles": [
+    "flirting.md",
     "sexual intercourse.md",
     "birth control.md",
     "sexual selection in humans.md",
@@ -198,7 +199,6 @@
     "simulated annealing.md",
     "relaxation (physics).md",
     "skeuomorph.md",
-    "interpersonal relationship.md",
-    "intimate relationship.md"
+    "interpersonal relationship.md"
   ]
 }
