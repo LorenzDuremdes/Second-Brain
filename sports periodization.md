@@ -11,6 +11,10 @@
 	1. the MAV→MRV gap becomes less with more training experience (e.g. advanced)^[https://youtu.be/YTOfkJ2WsPk?t=540]
 		1. e.g. making it less forgivable/difficult to stop at MAV
 
+## mesocycle
+1. what could be the issue of ending a mesocycle earlier than MRV to make a deload shorter?^[How Much Should I Train by Dr. Mike Israetel and Dr. James Hoffmann, p. 40]
+	1. practical issues (e.g deloads are usually a week long)
+
 # [[bulking]] vs. cutting
 1. should I cut or mass?
 
