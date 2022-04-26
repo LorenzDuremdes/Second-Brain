@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cycling economy.md",
+                "file": "bicycle pedal.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "cycling economy.md",
+                    "file": "bicycle pedal.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -52,7 +52,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.007812500000000007,
+                      "scale": 0.01535590660669281,
                       "close": false
                     }
                   }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pedaling",
+                "query": "pedal",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cycling economy.md"
+                "file": "bicycle pedal.md"
               }
             }
           },
@@ -153,13 +153,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cycling economy.md",
+                "file": "bicycle pedal.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "928695a49a920971",
@@ -171,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cycling economy.md",
+                "file": "bicycle pedal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,15 +191,15 @@
   },
   "active": "b396164bd26ec21c",
   "lastOpenFiles": [
+    "bicycle pedal.md",
+    "fast fashion.md",
     "cycling economy.md",
     "physiology.md",
-    "bicycle pedal.md",
     "additive increase - multiplicative decrease.md",
     "shareholder rights plan.md",
     "stenography.md",
     "genogram.md",
     "flirting.md",
-    "sexual intercourse.md",
-    "birth control.md"
+    "sexual intercourse.md"
   ]
 }
