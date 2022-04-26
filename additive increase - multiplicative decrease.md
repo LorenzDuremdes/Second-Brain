@@ -21,3 +21,4 @@
 2. [[exponentially weighted moving average]]
 	1. e.g. reading a book
 		1. takes longer to go from "exploit" to "explore" for a book having a higher desired percentage read already
+2. [[exponential backoff]]

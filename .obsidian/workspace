@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stenography.md",
+                "file": "additive increase - multiplicative decrease.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "stenography.md",
+                    "file": "additive increase - multiplicative decrease.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -52,7 +52,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.015355906606692764,
+                      "scale": 0.007812500000000007,
                       "close": false
                     }
                   }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "genogram",
+                "query": "additive",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stenography.md"
+                "file": "additive increase - multiplicative decrease.md"
               }
             }
           },
@@ -152,13 +152,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stenography.md",
+                "file": "additive increase - multiplicative decrease.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "928695a49a920971",
@@ -170,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stenography.md",
+                "file": "additive increase - multiplicative decrease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,6 +190,8 @@
   },
   "active": "b396164bd26ec21c",
   "lastOpenFiles": [
+    "additive increase - multiplicative decrease.md",
+    "shareholder rights plan.md",
     "stenography.md",
     "genogram.md",
     "flirting.md",
@@ -196,8 +199,6 @@
     "birth control.md",
     "sexual selection in humans.md",
     "condom.md",
-    "adaptive simulated annealing.md",
-    "simulated annealing.md",
-    "relaxation (physics).md"
+    "adaptive simulated annealing.md"
   ]
 }
