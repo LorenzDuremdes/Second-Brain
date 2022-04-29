@@ -1,0 +1,1 @@
+1. superfood; a marketing term for [[food]] claimed to confer [[health]] benefits resulting from an exceptional nutrient density.^[https://en.wikipedia.org/wiki/Superfood#cite_note-ufic-1]^[https://en.wikipedia.org/wiki/Superfood#cite_note-fitz-2]

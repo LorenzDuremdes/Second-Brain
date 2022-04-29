@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sports periodization.md",
+                "file": "superfood.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "sports periodization.md",
+                    "file": "superfood.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -52,7 +52,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.01535590660669281,
+                      "scale": 0.01095299138887579,
                       "close": false
                     }
                   }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "periodization",
+                "query": "adaptation",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -114,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sports periodization.md"
+                "file": "superfood.md"
               }
             }
           },
@@ -153,13 +152,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sports periodization.md",
+                "file": "superfood.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "928695a49a920971",
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sports periodization.md",
+                "file": "superfood.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +190,8 @@
   },
   "active": "b396164bd26ec21c",
   "lastOpenFiles": [
+    "superfood.md",
+    "adaptation curve.md",
     "sports periodization.md",
     "bicycle pedal.md",
     "fast fashion.md",
@@ -197,8 +199,6 @@
     "physiology.md",
     "additive increase - multiplicative decrease.md",
     "shareholder rights plan.md",
-    "stenography.md",
-    "genogram.md",
-    "flirting.md"
+    "stenography.md"
   ]
 }
