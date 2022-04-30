@@ -26,6 +26,7 @@
 		For [[men]], dating is like dying of thirst in the desert. Not a drop of water in sight.
 
 		For [[women]], it’s like dying of thirst in the ocean. Water is everywhere but it’s mostly toxic and full of salt.^[https://www.reddit.com/r/seduction/comments/sztg39/comment/hy6d3rm/?utm_source=share&utm_medium=web2x&context=3]
+	2. For woman I think it’s probably exhausting to try and find someone who will actually be interested in something more than [[sex]].^[https://www.reddit.com/r/dating/comments/uezsrp/comment/i6r7dqq/?utm_source=share&utm_medium=web2x&context=3]
 
 # rejection
 1. [[Franklin Veaux]]' perspective on "rejection"

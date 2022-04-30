@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "superfood.md",
+                "file": "dating.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "superfood.md",
+                    "file": "dating.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adaptation",
+                "query": "dating",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "superfood.md"
+                "file": "dating.md"
               }
             }
           },
@@ -152,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "superfood.md",
+                "file": "dating.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "superfood.md",
+                "file": "dating.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +191,7 @@
   },
   "active": "b396164bd26ec21c",
   "lastOpenFiles": [
+    "dating.md",
     "superfood.md",
     "adaptation curve.md",
     "sports periodization.md",
@@ -198,7 +200,6 @@
     "cycling economy.md",
     "physiology.md",
     "additive increase - multiplicative decrease.md",
-    "shareholder rights plan.md",
-    "stenography.md"
+    "shareholder rights plan.md"
   ]
 }
