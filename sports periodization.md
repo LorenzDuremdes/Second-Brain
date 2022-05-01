@@ -14,6 +14,8 @@
 ## mesocycle
 1. what could be the issue of ending a mesocycle earlier than MRV to make a deload shorter?^[How Much Should I Train by Dr. Mike Israetel and Dr. James Hoffmann, p. 40]
 	1. practical issues (e.g deloads are usually a week long) + might also make you prevent PRs  e.g. due to improvement of technique
+2. starting a bit higher than MEV → deload
+	1. the deload probably doesn't reduce in length due to the beginning near MEV not being much fatiguing
 
 # [[bulking]] vs. cutting
 1. should I cut or mass?

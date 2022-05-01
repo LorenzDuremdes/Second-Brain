@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anaerobic capacity.md",
+                "file": "sports periodization.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "anaerobic capacity.md",
+                    "file": "sports periodization.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "anaerobic",
+                "query": "volume landmark",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "anaerobic capacity.md"
+                "file": "sports periodization.md"
               }
             }
           },
@@ -153,14 +153,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "anaerobic capacity.md",
+                "file": "sports periodization.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "928695a49a920971",
@@ -172,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anaerobic capacity.md",
+                "file": "sports periodization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,11 +190,11 @@
   },
   "active": "b396164bd26ec21c",
   "lastOpenFiles": [
+    "sports periodization.md",
     "anaerobic capacity.md",
     "dating.md",
     "superfood.md",
     "adaptation curve.md",
-    "sports periodization.md",
     "bicycle pedal.md",
     "fast fashion.md",
     "cycling economy.md",
