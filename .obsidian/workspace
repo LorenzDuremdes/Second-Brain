@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dating.md",
+                "file": "anaerobic capacity.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "dating.md",
+                    "file": "anaerobic capacity.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dating",
+                "query": "anaerobic",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dating.md"
+                "file": "anaerobic capacity.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dating.md",
+                "file": "anaerobic capacity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dating.md",
+                "file": "anaerobic capacity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,6 +191,7 @@
   },
   "active": "b396164bd26ec21c",
   "lastOpenFiles": [
+    "anaerobic capacity.md",
     "dating.md",
     "superfood.md",
     "adaptation curve.md",
@@ -199,7 +200,6 @@
     "fast fashion.md",
     "cycling economy.md",
     "physiology.md",
-    "additive increase - multiplicative decrease.md",
-    "shareholder rights plan.md"
+    "additive increase - multiplicative decrease.md"
   ]
 }

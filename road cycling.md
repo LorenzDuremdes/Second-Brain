@@ -2,10 +2,10 @@
 ## [[physiology]]
 1. why isn't VO<sub>2</sub> max not everything when it comes to road cycling?
 	1. it also depends on e.g. pedaling efficiency^[The Cyclist's Training Bible, p. 19]
-	2. The two other physiological factors—[[anaerobic threshold|anaerobic threshold]] and [[cycling economy|economy]]—also play a major role in race outcomes. One of these three by itself does not constitute all it takes to race fast. And of course, this doesn’t include other critical race determiners such as strategy, tactics, pacing, nutrition, heat adaptation, and lots more.
-2. FTP vs. [[anaerobic threshold]] → road racing + example
-	1. for the most part, road race results are greatly dependent on what happens above the [[anaerobic threshold]] e.g. sprinting
-	2. Creating or responding to a breakaway in a road race usually means riding at or near aerobic capacity for a few minutes. Race-winning sprints that last only a few seconds are done at about anaerobic capacity, which is well above aerobic capacity. But there are times when the [[anaerobic threshold]] also plays a determining role in the outcome of a road race. For example, a long, steady, high-intensity climb is often done at or near FTP, much as in a [[time trial]]. And once a break is formed, it typically proceeds at around FTP. So having a high FTP is certainly also beneficial for road racing. But for the most part, road race results are greatly dependent on what happens above the [[anaerobic threshold]].
+	2. The two other physiological factors—[[anaerobic capacity|anaerobic threshold]] and [[cycling economy|economy]]—also play a major role in race outcomes. One of these three by itself does not constitute all it takes to race fast. And of course, this doesn’t include other critical race determiners such as strategy, tactics, pacing, nutrition, heat adaptation, and lots more.
+2. FTP vs. [[anaerobic capacity]] → road racing + example
+	1. for the most part, road race results are greatly dependent on what happens above the [[anaerobic capacity]] e.g. sprinting
+	2. Creating or responding to a breakaway in a road race usually means riding at or near aerobic capacity for a few minutes. Race-winning sprints that last only a few seconds are done at about anaerobic capacity, which is well above aerobic capacity. But there are times when the [[anaerobic capacity]] also plays a determining role in the outcome of a road race. For example, a long, steady, high-intensity climb is often done at or near FTP, much as in a [[time trial]]. And once a break is formed, it typically proceeds at around FTP. So having a high FTP is certainly also beneficial for road racing. But for the most part, road race results are greatly dependent on what happens above the [[anaerobic capacity]].
 
 ## technique
 1. "weakness" vs. "[[limiting factor]]"
