@@ -15,5 +15,24 @@
 ### quotes
 1. _"To heal a wound, you need to stop touching it."_
 
+## problems
+1. What was the worst thing your ex said to you while they were breaking up with you?
+	1. That I was an amazing person.
+
+	The reasons he listed were non issues, he just never talked to me about them. And he complimented me and said I deserve to be with someone better for me.
+
+	I know it sounds ridiculous but it would be so much easier to move on if he were mean, rude, or gave me a reason to hate him.^[https://www.reddit.com/r/BreakUps/comments/tvo2rp/comment/i3ahyc3/?utm_source=share&utm_medium=web2x&context=3]
+2. That I was an amazing person.
+
+The reasons he listed were non issues, he just never talked to me about them. And he complimented me and said I deserve to be with someone better for me.
+
+I know it sounds ridiculous but it would be so much easier to move on if he were mean, rude, or gave me a reason to hate him.[https://www.reddit.com/r/BreakUps/comments/tvo2rp/comment/i3ahyc3/?utm_source=share&utm_medium=web2x&context=3]
+That I was an amazing person.
+
+The reasons he listed were non issues, he just never talked to me about them. And he complimented me and said I deserve to be with someone better for me.
+
+I know it sounds ridiculous but it would be so much easier to move on if he were mean, rude, or gave me a reason to hate him.[https://www.reddit.com/r/BreakUps/comments/tvo2rp/comment/i3ahyc3/?utm_source=share&utm_medium=web2x&context=3]
+2. Healthy breakups are so painful&[https://www.reddit.com/r/BreakUps/comments/sip38y/healthy_breakups_are_so_painful/]
+
 # related
 1. [[intimate relationship]]

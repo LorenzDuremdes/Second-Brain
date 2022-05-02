@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sports periodization.md",
+                "file": "breakup.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "sports periodization.md",
+                    "file": "breakup.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "volume landmark",
+                "query": "break ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sports periodization.md"
+                "file": "breakup.md"
               }
             }
           },
@@ -153,13 +153,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sports periodization.md",
+                "file": "breakup.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "928695a49a920971",
@@ -171,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sports periodization.md",
+                "file": "breakup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +191,7 @@
   },
   "active": "b396164bd26ec21c",
   "lastOpenFiles": [
+    "breakup.md",
     "sports periodization.md",
     "anaerobic capacity.md",
     "dating.md",
@@ -198,7 +200,6 @@
     "bicycle pedal.md",
     "fast fashion.md",
     "cycling economy.md",
-    "physiology.md",
-    "additive increase - multiplicative decrease.md"
+    "physiology.md"
   ]
 }
