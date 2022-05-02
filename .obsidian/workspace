@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "breakup.md",
+                "file": "lamotrigine.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "breakup.md",
+                    "file": "lamotrigine.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -114,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "breakup.md"
+                "file": "lamotrigine.md"
               }
             }
           },
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "breakup.md",
+                "file": "lamotrigine.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -172,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "breakup.md",
+                "file": "lamotrigine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,6 +190,7 @@
   },
   "active": "b396164bd26ec21c",
   "lastOpenFiles": [
+    "lamotrigine.md",
     "breakup.md",
     "sports periodization.md",
     "anaerobic capacity.md",
@@ -199,7 +199,6 @@
     "adaptation curve.md",
     "bicycle pedal.md",
     "fast fashion.md",
-    "cycling economy.md",
-    "physiology.md"
+    "cycling economy.md"
   ]
 }
