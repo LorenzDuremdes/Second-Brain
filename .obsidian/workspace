@@ -4,23 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0957240415a06daf",
+        "id": "b61dc85aff6f6c81",
         "type": "split",
         "children": [
           {
-            "id": "b396164bd26ec21c",
+            "id": "f6a9b12910347927",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "codependency.md",
+                "file": "psychological trauma.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "1248eaabdc46a439"
           },
           {
-            "id": "ab82f480afa3667a",
+            "id": "e2ec5aa4d14d65c3",
             "type": "split",
             "children": [
               {
@@ -29,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "codependency.md",
+                    "file": "psychological trauma.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -52,14 +53,15 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.01095299138887579,
+                      "scale": 0.010952991388875793,
                       "close": false
                     }
                   }
-                }
+                },
+                "group": "1248eaabdc46a439"
               },
               {
-                "id": "dcbedd1412c12a8f",
+                "id": "5dfc91360a61aeb5",
                 "type": "leaf",
                 "state": {
                   "type": "mindmap",
@@ -97,11 +99,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "codepe",
-                "matchingCase": true,
+                "query": "trauma",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -114,7 +116,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "codependency.md"
+                "file": "psychological trauma.md"
               }
             }
           },
@@ -152,14 +155,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "codependency.md",
-                "linksCollapsed": true,
+                "file": "psychological trauma.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "928695a49a920971",
@@ -171,13 +173,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "codependency.md",
+                "file": "psychological trauma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -188,17 +190,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "b396164bd26ec21c",
+  "active": "f6a9b12910347927",
   "lastOpenFiles": [
-    "codependency.md",
-    "developmental psychology.md",
-    "family.md",
-    "happiness.md",
-    "[Codependency.md",
-    "reverse salient.md",
-    "Liebig's law of the minimum.md",
-    "lamotrigine.md",
-    "breakup.md",
-    "sports periodization.md"
+    "psychological trauma.md",
+    "bicycle commuting.md",
+    "approximation algorithm.md",
+    "sharing economy.md",
+    "quadratic voting.md",
+    "algorithmic mechanism design.md",
+    "Price of Anarchy.md",
+    "algorithmic game theory.md",
+    "floating-point arithmetic.md",
+    "horizontal market.md"
   ]
 }

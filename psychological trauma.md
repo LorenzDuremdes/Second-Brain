@@ -16,17 +16,20 @@
 		I concluded that, if you carry a [[memory]] of having felt safe with somebody long ago, the traces of that earlier affection can be reactivated in attuned relationships when you are an adult, whether these occur in daily life or in good therapy. However, if you lack a deep [[memory]] of [[feeling]] loved and safe, the receptors in the [[brain]] that respond to [[human]] kindness may simply fail to develop.
 		
 		This notion found further support in the work of the neuroscientist Jaak Panksepp, who found that young rats that were not licked by their moms during the first week of their lives did not develop opioid receptors in the anterior [[cingulate cortex]], a part of the [[brain]] associated with affiliation and a sense of safety.^[See E. E. Nelson and J. Panksepp, “[[Brain]] Substrates of [[Infant]] Mother Attachment: Contributions of Opioids, [[Oxytocin]], and [[Norepinephrine]],” [[Neuroscience]] & Biobehavioral Reviews 22, no. 3 (1998): 437–52. See also J. Panksepp, et al., “Endogenous Opioids and Social Behavior,” [[Neuroscience]] & Biobehavioral Reviews 4, no. 4 (1981): 473–87; and J. Panksepp, E. Nelson, and S. Siviy, “[[Brain]] Opioids and Mother-[[Infant]] Social [[Motivation]],” Acta paediatrica 83, no. 397 (1994): 40–46.]
-
-1. psychological trauma (chameleon analogy)^[Alok Kanojia, Wednesday 23/06/2021]
+2. . psychological trauma (chameleon analogy)^[Alok Kanojia, Wednesday 23/06/2021]
 	1. trauma tends to "disguise" itself as other mental illnesses (e.g. [[depression]], anxiety) fixing e.g. [[depression]] brings [[anxiety disorder]], which brings something else once 'cured'
 	2. *I didnt even know about cptsd and, for such a long [[time]], tried to tackle my anxiety and [[depression]] instead. I really thought I was creating my own problems subconsciously. While that might hold some truth, I am making leaps of progress just by understanding my cptsd and how it changed my [[brain]].*^[https://www.reddit.com/r/CPTSD/comments/o6kkkx/if_you_said_to_someone_my_parents_broke_my/h2tdrqb?utm_source=share&utm_medium=web2x&context=3]
-2. what could be better than saying things like "You are good enough"?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 334]
+3. what could be better than saying things like "You are good enough"?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 334]
 	1. teaching them (catalyzing) how to feel good enough
 		1. instead of giving fish, teaching them to fish
 		2. how? e.g. letting them experience things like your acceptance of them?
-3. can you process psychological trauma if it overwhelms you?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 260]
+4. can you process psychological trauma if it overwhelms you?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 260]
 	1. probably not
 		1. why? e.g. lack of positive replacement
+
+# ultimate goal
+1. is trusting the other required for forgiveness?
+	1. not per se^[Codependency For Dummies by Darlene Lancer, p. 133]
 
 ### [[flooding (psychology)]]
 1. how long does "[[flooding (psychology)]]" have to take place for it to reduce psychological trauma anxiety?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 258]^[T. M. Keane, “The Role of [[Exposure Therapy]] in the Psychological Treatment of PTSD,” National Center for PTSD Clinical Quarterly 5, no. 4 (1995): 1–6.]
