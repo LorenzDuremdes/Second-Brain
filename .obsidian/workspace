@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lamotrigine.md",
+                "file": "reverse salient.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "lamotrigine.md",
+                    "file": "reverse salient.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lamotrigine.md"
+                "file": "reverse salient.md"
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lamotrigine.md",
+                "file": "reverse salient.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lamotrigine.md",
+                "file": "reverse salient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +190,8 @@
   },
   "active": "b396164bd26ec21c",
   "lastOpenFiles": [
+    "reverse salient.md",
+    "Liebig's law of the minimum.md",
     "lamotrigine.md",
     "breakup.md",
     "sports periodization.md",
@@ -197,8 +199,6 @@
     "dating.md",
     "superfood.md",
     "adaptation curve.md",
-    "bicycle pedal.md",
-    "fast fashion.md",
-    "cycling economy.md"
+    "bicycle pedal.md"
   ]
 }

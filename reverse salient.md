@@ -1,0 +1,1 @@
+1. reverse salient; refers to a component of a technological system that, due to its insufficient development, prevents the system in its entirety from achieving its development goals^[https://en.wikipedia.org/wiki/Reverse_salient]
