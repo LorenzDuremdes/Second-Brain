@@ -8,9 +8,9 @@
 	1. by keeping responsibility to oneself, the young [[human]] can learn basic skills better/faster e.g. falling when learning how to walk and blaming oneself rather than their parent(s) (due to a lack of "theory of [[mind]]")
 
 ## [[individuation]]-separation process
-1. when do humans start to form individuality?^[Codependency For Dummies by Darlene Lancer, p. 100]
+1. when do humans start to form individuality?^[[[Codependency]] For Dummies by Darlene Lancer, p. 100]
 	1. 4–6+ months
-2. what's the role of the mother during the "separation-[[individuation]] process" of a [[human]]?^[Codependency For Dummies by Darlene Lancer, p. 100]
+2. what's the role of the mother during the "separation-[[individuation]] process" of a [[human]]?^[[Codependency]] For Dummies by Darlene Lancer, p. 100]
 	1. feedback while acknowledging the child has [[cognition]] different from hers
 
 # [[emotional self-regulation]]

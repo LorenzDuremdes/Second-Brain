@@ -1,1 +1,1 @@
-1. healthier families usually are more open than unhealthier ones^[Codependency For Dummies by Darlene Lancer, p. 104]
+1. healthier families usually are more open than unhealthier ones ^[[[Codependency]] For Dummies by Darlene Lancer, p. 104]

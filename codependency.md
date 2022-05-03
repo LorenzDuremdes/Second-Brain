@@ -11,6 +11,7 @@
 1. codependents usually don't know well why they are e.g. upset^[Codependency For Dummies by Darlene Lancer, p. 38]
 2. the following can be a characteristic of codependency^[Codependency For Dummies by Darlene Lancer, p. 102]:
 	1. do you feel more alive in the midst of a crisis?
+2. many codependents feel sad when they're angry especially [[women]]^[Codependency For Dummies by Darlene Lancer, p. 132]
 
 ## [[depression]]
 1. peaceful relationship → [[depression]] · codependency^[Codependency For Dummies by Darlene Lancer, p. 83]
@@ -40,11 +41,11 @@
 ## [[personal boundaries]]
 1. **example**
 
-	she felt guilty taking time for herself or refusing to discuss her therapy with her husband
+	she felt guilty taking [[time]] for herself or refusing to discuss her therapy with her husband
 
 	why? e.g.:
 	1. her parents violated her boundaries^[Codependency For Dummies by Darlene Lancer, p. 61]
-		1. e.g. "taking time for herself" → boundary
+		1. e.g. "taking [[time]] for herself" → boundary
 
 ## maladaptive [[coping]]
 1. recall some 'soft' methods people use to gain control when being afraid of being direct^[Codependency For Dummies by Darlene Lancer, p. 74]:
