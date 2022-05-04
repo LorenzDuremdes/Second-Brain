@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "authority bias.md",
+                "file": "male and female.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "authority bias.md",
+                    "file": "male and female.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "authority",
+                "query": "male",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "authority bias.md"
+                "file": "male and female.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "authority bias.md",
+                "file": "male and female.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "authority bias.md",
+                "file": "male and female.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,6 +193,7 @@
   },
   "active": "f6a9b12910347927",
   "lastOpenFiles": [
+    "male and female.md",
     "authority bias.md",
     "psychological trauma.md",
     "shame.md",
@@ -201,7 +202,6 @@
     "sharing economy.md",
     "quadratic voting.md",
     "algorithmic mechanism design.md",
-    "Price of Anarchy.md",
-    "algorithmic game theory.md"
+    "Price of Anarchy.md"
   ]
 }
