@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "authority bias.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "psychological trauma.md",
+                    "file": "authority bias.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trauma",
+                "query": "authority",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychological trauma.md"
+                "file": "authority bias.md"
               }
             }
           },
@@ -155,13 +155,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychological trauma.md",
-                "linksCollapsed": false,
+                "file": "authority bias.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "928695a49a920971",
@@ -173,13 +174,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "authority bias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -192,15 +193,15 @@
   },
   "active": "f6a9b12910347927",
   "lastOpenFiles": [
+    "authority bias.md",
     "psychological trauma.md",
+    "shame.md",
     "bicycle commuting.md",
     "approximation algorithm.md",
     "sharing economy.md",
     "quadratic voting.md",
     "algorithmic mechanism design.md",
     "Price of Anarchy.md",
-    "algorithmic game theory.md",
-    "floating-point arithmetic.md",
-    "horizontal market.md"
+    "algorithmic game theory.md"
   ]
 }
