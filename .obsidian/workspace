@@ -1,36 +1,36 @@
 {
   "main": {
-    "id": "ce23b9467d6b3992",
+    "id": "c9cd4af5bf7f2c5c",
     "type": "split",
     "children": [
       {
-        "id": "b61dc85aff6f6c81",
+        "id": "557f53dea4af6d27",
         "type": "split",
         "children": [
           {
-            "id": "f6a9b12910347927",
+            "id": "800a1026925a4b1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "male and female.md",
+                "file": "codependency.md",
                 "mode": "source",
                 "source": false
               }
             },
-            "group": "1248eaabdc46a439"
+            "group": "000454eb2d190c96"
           },
           {
-            "id": "e2ec5aa4d14d65c3",
+            "id": "c90ea8d5224110a9",
             "type": "split",
             "children": [
               {
-                "id": "23e82deb2f7b30aa",
+                "id": "fcd4be548f68134d",
                 "type": "leaf",
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "male and female.md",
+                    "file": "codependency.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -44,7 +44,7 @@
                       "collapse-color-groups": true,
                       "colorGroups": [],
                       "collapse-display": true,
-                      "showArrow": false,
+                      "showArrow": true,
                       "textFadeMultiplier": -3,
                       "nodeSizeMultiplier": 1,
                       "lineSizeMultiplier": 1,
@@ -53,15 +53,15 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.010952991388875793,
+                      "scale": 0.0078125,
                       "close": false
                     }
                   }
                 },
-                "group": "1248eaabdc46a439"
+                "group": "000454eb2d190c96"
               },
               {
-                "id": "5dfc91360a61aeb5",
+                "id": "bd40bc667845215f",
                 "type": "leaf",
                 "state": {
                   "type": "mindmap",
@@ -78,15 +78,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "43e7dbc62b5e56dd",
+    "id": "8a012222e6865499",
     "type": "split",
     "children": [
       {
-        "id": "9c896f5a702bca91",
+        "id": "f969c1c5d0a9d0f3",
         "type": "tabs",
         "children": [
           {
-            "id": "448b8eef11845aa3",
+            "id": "94ed3e06539faa16",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -94,87 +94,86 @@
             }
           },
           {
-            "id": "b63695e1e06ae736",
+            "id": "60fe29566a98ccef",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "male",
+                "query": "fear of miss",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
-                "extraContext": true,
-                "sortOrder": "alphabetical"
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
               }
             }
           },
           {
-            "id": "ecc47b042db5fee7",
+            "id": "e3952c24477e87f1",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "af3ec2b20204b684",
+    "id": "ced66b4a15c4f05a",
     "type": "split",
     "children": [
       {
-        "id": "1cc09708b6f2d1d2",
+        "id": "24ebe64b4c498720",
         "type": "tabs",
         "children": [
           {
-            "id": "cb0acfa68d139b8b",
+            "id": "a7edfc8468363e71",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "male and female.md"
+                "file": "codependency.md"
               }
             }
           },
           {
-            "id": "e3837afdf2ae358d",
+            "id": "718556910646278b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "codependency.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "77e8e2cf27925acf",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
               "state": {}
             }
-          },
-          {
-            "id": "96c5791f8f3590bc",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "male and female.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
-        "id": "928695a49a920971",
+        "id": "a834b3f3361a68cb",
         "type": "tabs",
         "children": [
           {
-            "id": "dfd5951df523bde4",
+            "id": "23fa12597d0a6822",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "male and female.md",
+                "file": "codependency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,19 +188,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 276
   },
-  "active": "f6a9b12910347927",
+  "active": "800a1026925a4b1e",
   "lastOpenFiles": [
-    "male and female.md",
-    "authority bias.md",
-    "psychological trauma.md",
-    "shame.md",
-    "bicycle commuting.md",
-    "approximation algorithm.md",
-    "sharing economy.md",
-    "quadratic voting.md",
-    "algorithmic mechanism design.md",
-    "Price of Anarchy.md"
+    "codependency.md",
+    "developmental psychology.md",
+    "breakup.md",
+    "romance (love).md",
+    "interpersonal relationship.md",
+    "duurzame en slimme huis.md",
+    "wasmachine en droger.md",
+    "scorched-earth policy.md",
+    "Armageddon (chess).md",
+    "integrative psychotherapy.md"
   ]
 }

@@ -13,6 +13,11 @@
 	1. do you feel more alive in the midst of a crisis?
 2. many codependents feel sad when they're angry especially [[women]]^[Codependency For Dummies by Darlene Lancer, p. 132]
 
+### fear of missing out
+1. **fear of missing out can look like**^[https://www.reddit.com/r/Codependency/comments/uitck4/fomo/]
+	<img src="https://i.redd.it/nb4emvhhimx81.jpg" width="300" />
+2. Thanks for your share! Yes I had a lot of those thoughts and they were crippling when I wasn’t in recovery. Basically everything everyone else was doing seemed better than me and I automatically assumed I couldn’t fit in or that people didn’t want me. After working the steps in CoDA I learned that my old ideas about myself and others needed to be replaced with new ones that actually were true and useful. I had no idea i lived so deep in my head and how much I obsessed about trying to manage and control life and myself. Today I don’t have to live in that world anymore, and I’ve had a lot of close relationships restored and a newfound sense of purpose and [[happiness]]. I’d be happy to share my experience with you anytime if you’d like to talk. Feel free to DM me. Glad you’re here.^[https://www.reddit.com/r/Codependency/comments/qncqgi/comment/hjfm3pj/?utm_source=share&utm_medium=web2x&context=3]
+
 ## [[depression]]
 1. peaceful relationship → [[depression]] · codependency^[Codependency For Dummies by Darlene Lancer, p. 83]
 	1. the underlying [[depression]] can be unmasked as e.g. melodramatic relationships provided distraction
