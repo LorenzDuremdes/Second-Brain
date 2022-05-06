@@ -1,0 +1,2 @@
+1. survivor guilt; a mental condition that occurs when a person believes they have done something wrong by surviving a traumatic or tragic event when others could not.^[https://en.wikipedia.org/wiki/Survivor_guilt#cite_note-1]
+	1. when the Diagnostic and Statistical Manual of Mental Disorders IV (DSM-IV) was published, survivor guilt was removed as a recognized specific diagnosis, and redefined as a significant symptom of post-traumatic stress disorder (PTSD)

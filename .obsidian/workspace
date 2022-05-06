@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "romance (love).md",
+                "file": "survivor guilt.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "romance (love).md",
+                    "file": "survivor guilt.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "romance (love).md"
+                "file": "survivor guilt.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "romance (love).md",
+                "file": "survivor guilt.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "romance (love).md",
+                "file": "survivor guilt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,6 +191,7 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "survivor guilt.md",
     "romance (love).md",
     "forgiveness.md",
     "avoidant attachment style.md",
@@ -199,7 +200,6 @@
     "breakup.md",
     "interpersonal relationship.md",
     "duurzame en slimme huis.md",
-    "wasmachine en droger.md",
-    "scorched-earth policy.md"
+    "wasmachine en droger.md"
   ]
 }
