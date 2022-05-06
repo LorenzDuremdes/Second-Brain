@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "survivor guilt.md",
+                "file": "somatic experiencing.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "survivor guilt.md",
+                    "file": "somatic experiencing.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "survivor guilt.md"
+                "file": "somatic experiencing.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "survivor guilt.md",
+                "file": "somatic experiencing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -160,7 +160,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a834b3f3361a68cb",
@@ -172,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "survivor guilt.md",
+                "file": "somatic experiencing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,6 +192,7 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "somatic experiencing.md",
     "survivor guilt.md",
     "romance (love).md",
     "forgiveness.md",
@@ -199,7 +201,6 @@
     "developmental psychology.md",
     "breakup.md",
     "interpersonal relationship.md",
-    "duurzame en slimme huis.md",
-    "wasmachine en droger.md"
+    "duurzame en slimme huis.md"
   ]
 }
