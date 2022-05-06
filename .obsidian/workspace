@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "avoidant attachment style.md",
+                "file": "forgiveness.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "avoidant attachment style.md",
+                    "file": "forgiveness.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "avoidant",
+                "query": "forgiveness",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -116,8 +116,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "avoidant attachment style.md"
+                "file": "forgiveness.md"
               }
             }
           },
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "avoidant attachment style.md",
+                "file": "forgiveness.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "avoidant attachment style.md",
+                "file": "forgiveness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,6 +192,7 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "forgiveness.md",
     "avoidant attachment style.md",
     "codependency.md",
     "developmental psychology.md",
@@ -201,7 +201,6 @@
     "interpersonal relationship.md",
     "duurzame en slimme huis.md",
     "wasmachine en droger.md",
-    "scorched-earth policy.md",
-    "Armageddon (chess).md"
+    "scorched-earth policy.md"
   ]
 }
