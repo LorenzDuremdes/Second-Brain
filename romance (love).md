@@ -6,6 +6,7 @@
 ## [[microsociology]]
 1. Athena Walker on "seeing love as an action rather than just a [[feeling]]"
 	1. I think of love as action. I think ascribing it to [[feeling]] alone is laziness. You can feel wonderfully for a person and treat them terribly. I see nothing about the [[feeling]] that is love that provides for good relationships. That part—real love—comes from action.^[https://qr.ae/pGVZvo]
+2. "People don't love you the way they should, or the way you want them to, but the way they can."^[https://www.reddit.com/r/AskReddit/comments/47v7tm/comment/d0fy112/?utm_source=share&utm_medium=web2x&context=3]
 
 ### unstable
 1. Repeatedly choosing unsuitable partners may not be a sign of one’s misfortune. We’re more likely to be making the same mistakes on purpose — because, **secretly, we believe we’re *unworthy* of love**.^[https://www.youtube.com/watch?v=OfsTJnpRxeg]

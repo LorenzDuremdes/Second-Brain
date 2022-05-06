@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "forgiveness.md",
+                "file": "romance (love).md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "forgiveness.md",
+                    "file": "romance (love).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "forgiveness",
+                "query": "love",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -116,7 +116,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "forgiveness.md"
+                "file": "romance (love).md"
               }
             }
           },
@@ -146,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "forgiveness.md",
+                "file": "romance (love).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -160,8 +161,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a834b3f3361a68cb",
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "forgiveness.md",
+                "file": "romance (love).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,12 +192,12 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "romance (love).md",
     "forgiveness.md",
     "avoidant attachment style.md",
     "codependency.md",
     "developmental psychology.md",
     "breakup.md",
-    "romance (love).md",
     "interpersonal relationship.md",
     "duurzame en slimme huis.md",
     "wasmachine en droger.md",
