@@ -14,6 +14,9 @@
 	1. touch the arms **again, but a little longer or more intense**
 	2. You will have noticed that we advise performing each touch two times before progressing to the next level. This is because repeating the same touch, perhaps with a slightly longer duration, allows you to check that reactions are still positive, that you were not mistaken in your judgement that the touch was acceptable. The repetition also tells your companion that the first touch was not accidental or unconscious, that you are consciously negotiating for an increase in intimacy. Repeating the same touch before moving to the next level is a non-verbal way of saying "Are you sure?".
 
+#### attractive
+1. There was a great comment from one of the Redditors whose best friend was like a top guy. The things [[women]] let him do and behave was unreal, from cold approach to [[sex]]. All the defenses fall when the guy is 10 or so. If you are not attractive, then cold approach makes you a creep.^[https://www.reddit.com/r/dating_advice/comments/uk26t4/comment/i7n29kr/?utm_source=share&utm_medium=web2x&context=3]
+
 ### [[women]]
 1. how could saying "Wow! You are beautiful!" as a compliment be ineffective to an attractive girl?^[https://www.youtube.com/watch?v=F4Zu5ZZAG7I]
 	1. she's probably heard it a hundred thousand times today
@@ -49,7 +52,7 @@
 	
 	Generally: say something observational or something the two of you could have in common just from the first impression: her outfit ("You look like you're ready to party/kick some ass/impress someone"), a pet she's walking ("Cute dog") or the ingredients in her grocery basket ("Hey, making taco's tonight?")
 
-	Any of these openers can spark a conversation in which you can feel out if she might be interested in going on a date with you. **Honestly, even asking for directions or the time can work, as long as you can continue the conversation beyond the initial approach**.
+	Any of these openers can spark a conversation in which you can feel out if she might be interested in going on a date with you. **Honestly, even asking for directions or the [[time]] can work, as long as you can continue the conversation beyond the initial approach**.
 	
 	After that you just have to improvise based on her reaction. You can stay on the same topic if she reacted positively - for example if you complimented her outfit, ask her what the occasion is that she got dressed up for...? Questions like these might give you insight in whether or not she's single as well.
 
@@ -96,8 +99,8 @@
 1. how is approaching girls comparable to gaming?
 	1. you don't always win either, which can make you angry sometimes but that doesn't mean you should give up. In fact, you became very good in most games despite being angry/disappointed
 
-# sociology
-1. Franklin Veaux on "flirting"^[https://qr.ae/pv2obZ]
+# [[sociology]]
+1. [[Franklin Veaux]] on "flirting"^[https://qr.ae/pv2obZ]
 	1. Just because you enjoy flirting with someone doesn’t mean you can’t flirt with other people. Flirting is fun. Flirting doesn’t necessarily mean you want to date someone. A key part of developing basic social skills is understanding this.
 
 # related

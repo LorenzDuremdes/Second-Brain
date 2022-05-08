@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "somatic experiencing.md",
+                "file": "exposure and response prevention.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "somatic experiencing.md",
+                    "file": "exposure and response prevention.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "love",
+                "query": "exposure and",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "somatic experiencing.md"
+                "file": "exposure and response prevention.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "somatic experiencing.md",
+                "file": "exposure and response prevention.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -160,8 +160,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a834b3f3361a68cb",
@@ -173,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "somatic experiencing.md",
+                "file": "exposure and response prevention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,15 +191,15 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "exposure and response prevention.md",
+    "flirting.md",
+    "seduction.md",
     "somatic experiencing.md",
     "survivor guilt.md",
     "romance (love).md",
     "forgiveness.md",
     "avoidant attachment style.md",
     "codependency.md",
-    "developmental psychology.md",
-    "breakup.md",
-    "interpersonal relationship.md",
-    "duurzame en slimme huis.md"
+    "developmental psychology.md"
   ]
 }
