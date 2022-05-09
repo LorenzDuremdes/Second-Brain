@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exposure and response prevention.md",
+                "file": "interpersonal relationship.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "exposure and response prevention.md",
+                    "file": "interpersonal relationship.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -53,7 +53,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.0078125,
+                      "scale": 0.015355906606692764,
                       "close": false
                     }
                   }
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "exposure and",
+                "query": "relationship",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -116,7 +116,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exposure and response prevention.md"
+                "file": "interpersonal relationship.md"
               }
             }
           },
@@ -146,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exposure and response prevention.md",
+                "file": "interpersonal relationship.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -172,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exposure and response prevention.md",
+                "file": "interpersonal relationship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,6 +192,7 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "interpersonal relationship.md",
     "exposure and response prevention.md",
     "flirting.md",
     "seduction.md",
@@ -199,7 +201,6 @@
     "romance (love).md",
     "forgiveness.md",
     "avoidant attachment style.md",
-    "codependency.md",
-    "developmental psychology.md"
+    "codependency.md"
   ]
 }
