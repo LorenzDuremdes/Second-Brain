@@ -1,0 +1,1 @@
+1. delicacy; usually a rare and expensive food item that is considered highly desirable, sophisticated or peculiarly distinctive, within a given culture^[https://en.wikipedia.org/wiki/Delicacy]

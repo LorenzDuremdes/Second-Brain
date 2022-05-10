@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "phase space.md",
+                "file": "delicacy.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "phase space.md",
+                    "file": "delicacy.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "phase space",
+                "query": "mean free",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "phase space.md"
+                "file": "delicacy.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "phase space.md",
+                "file": "delicacy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "phase space.md",
+                "file": "delicacy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,15 +191,15 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
-    "phase space.md",
+    "delicacy.md",
     "5th dimension.md",
+    "phase space.md",
     "interpersonal relationship.md",
     "exposure and response prevention.md",
     "flirting.md",
     "seduction.md",
     "somatic experiencing.md",
     "survivor guilt.md",
-    "romance (love).md",
-    "forgiveness.md"
+    "romance (love).md"
   ]
 }
