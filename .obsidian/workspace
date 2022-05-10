@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interpersonal relationship.md",
+                "file": "phase space.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "interpersonal relationship.md",
+                    "file": "phase space.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "relationship",
+                "query": "phase space",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -116,8 +116,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interpersonal relationship.md"
+                "file": "phase space.md"
               }
             }
           },
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interpersonal relationship.md",
+                "file": "phase space.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interpersonal relationship.md",
+                "file": "phase space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +191,8 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "phase space.md",
+    "5th dimension.md",
     "interpersonal relationship.md",
     "exposure and response prevention.md",
     "flirting.md",
@@ -199,8 +200,6 @@
     "somatic experiencing.md",
     "survivor guilt.md",
     "romance (love).md",
-    "forgiveness.md",
-    "avoidant attachment style.md",
-    "codependency.md"
+    "forgiveness.md"
   ]
 }
