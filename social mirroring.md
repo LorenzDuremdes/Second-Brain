@@ -9,5 +9,12 @@
 	1. people are even more likely to purchase a product if its brand name shares initial letters with their own name
 4. people are more likely to identify separations^[Influence, New and Expanded: The Psychology of [[persuasion]], p. 9]
 
+# problems
+1. how did they try to solve the following?^[Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini, p. 89–90]
+   
+   white college students who anticipated a conversation with a black student and then actually engaged in the conversation had underestimated their true enjoyment of the conversation itself because, beforehand, they’d focused too much on perceived differences from their partner
+   
+   when, in exactly the same experimental situation, a different sample of students was asked to pay attention to any similarities with their future conversation partners, everything changed. This strategic focus on genuine similarities corrected the negative outlook white students carried into their conversations.
+
 # related
 1. [[familiarity heuristic]]

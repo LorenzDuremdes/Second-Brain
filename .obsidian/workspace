@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "delicacy.md",
+                "file": "social mirroring.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "delicacy.md",
+                    "file": "social mirroring.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mean free",
+                "query": "mirror",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -116,7 +116,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "delicacy.md"
+                "file": "social mirroring.md"
               }
             }
           },
@@ -146,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "delicacy.md",
+                "file": "social mirroring.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -172,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "delicacy.md",
+                "file": "social mirroring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,6 +192,7 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "social mirroring.md",
     "delicacy.md",
     "5th dimension.md",
     "phase space.md",
@@ -199,7 +201,6 @@
     "flirting.md",
     "seduction.md",
     "somatic experiencing.md",
-    "survivor guilt.md",
-    "romance (love).md"
+    "survivor guilt.md"
   ]
 }
