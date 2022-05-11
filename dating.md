@@ -31,6 +31,10 @@
 # rejection
 1. [[Franklin Veaux]]' perspective on "rejection"
 	1. A lot of folks are frightened that if they talk about their fantasies, they might scare off their date. Well, duh. That’s the point! You don’t want to be with someone who is not compatible with you! If someone has totally different tastes and interests, scaring them off is *exactly* what you want to do.^[https://qr.ae/pGA8iP]
+2. Question: Do dumpers realized they've dumped a good person who genuinely loved you?
+	1. Hi there. Dumper here.
+	   
+	   Yes to both. It takes a minute. In my experience, it was more delayed than anything. Kinda like in the cartoons when the coyote doesn't realize he ran off a cliff and keeps going until he looks down. Well, that's what happened. I ran with it, and didn't look down until months after the fact. But I promise, the realization that I broke up with someone who cared about me and the regret that follows is there.^[https://www.reddit.com/r/BreakUps/comments/un9wco/comment/i86lpph/?utm_source=share&utm_medium=web2x&context=3]
 
 # miscellaneous
 1. what's an important question when seeing a loser being successful with girls?^[https://www.reddit.com/r/dating/comments/oc33ge/what_am_i_doing_wrong/]

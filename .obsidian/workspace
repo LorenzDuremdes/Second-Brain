@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "social mirroring.md",
+                "file": "dating.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "social mirroring.md",
+                    "file": "dating.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mirror",
+                "query": "dating",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -116,8 +116,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "social mirroring.md"
+                "file": "dating.md"
               }
             }
           },
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "social mirroring.md",
+                "file": "dating.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -161,7 +160,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a834b3f3361a68cb",
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "social mirroring.md",
+                "file": "dating.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +192,7 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "dating.md",
     "social mirroring.md",
     "delicacy.md",
     "5th dimension.md",
@@ -200,7 +201,6 @@
     "exposure and response prevention.md",
     "flirting.md",
     "seduction.md",
-    "somatic experiencing.md",
-    "survivor guilt.md"
+    "somatic experiencing.md"
   ]
 }
