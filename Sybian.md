@@ -1,0 +1,3 @@
+1. a Sybian with attached electric wire and switch board^[By The original uploader was Buttysquirrel at English Wikipedia. - Transferred from en.wikipedia to Commons. Buttysquirrel, the original uploader&#039;s version had a digital watermark &quot;toyslove.com&quot;. On checking this commercial site (as of 2008-05-04) I find the above announcement legitimating their uploads is still at the top of the page. I have reverted the license from PD to their original tag. --Simonxag 13:19, 4 May 2008 (UTC), Copyrighted free use, https://commons.wikimedia.org/w/index.php?curid=3990138]
+
+	<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Tn_sybian_gmax1.jpg" width="300" />

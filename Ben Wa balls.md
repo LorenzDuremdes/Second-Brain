@@ -1,0 +1,3 @@
+1. Ben Wa balls;  small, marble-sized balls, usually hollow and containing a small weight, that roll around and are used for sexual stimulation by insertion into the [[vagina]]^[https://en.wikipedia.org/wiki/Ben_Wa_balls]
+2. Ben-wa-eggs traditional form, without a ribbon^[By Jadeeggs - using a D90, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25448304]
+	<img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Jade_Eggs_usually_come_in_3_different_sizes.jpg" width="200" />
