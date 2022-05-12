@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dating.md",
+                "file": "women.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "dating.md",
+                    "file": "women.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dating",
+                "query": "female",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dating.md"
+                "file": "women.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dating.md",
+                "file": "women.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dating.md",
+                "file": "women.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +192,8 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "women.md",
+    "nutritional neuroscience.md",
     "dating.md",
     "social mirroring.md",
     "delicacy.md",
@@ -199,8 +201,6 @@
     "phase space.md",
     "interpersonal relationship.md",
     "exposure and response prevention.md",
-    "flirting.md",
-    "seduction.md",
-    "somatic experiencing.md"
+    "flirting.md"
   ]
 }
