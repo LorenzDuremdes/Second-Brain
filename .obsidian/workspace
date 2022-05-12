@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "precursor (chemistry).md",
+                "file": "place cell.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "precursor (chemistry).md",
+                    "file": "place cell.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "precursor",
+                "query": "place cell",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "precursor (chemistry).md"
+                "file": "place cell.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "precursor (chemistry).md",
+                "file": "place cell.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "precursor (chemistry).md",
+                "file": "place cell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +192,7 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "place cell.md",
     "precursor (chemistry).md",
     "reagent.md",
     "attention restoration theory.md",
@@ -200,7 +201,6 @@
     "dating.md",
     "social mirroring.md",
     "delicacy.md",
-    "5th dimension.md",
-    "phase space.md"
+    "5th dimension.md"
   ]
 }
