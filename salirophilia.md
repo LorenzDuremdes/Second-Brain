@@ -1,0 +1,2 @@
+1. salirophilia; it may involve tearing or damaging their clothing, covering them in mud or filth, or messing their hair or makeup^[https://en.wikipedia.org/wiki/Salirophilia]
+	1. the fetish does not involve harming or injuring the subject, only their appearance

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "place cell.md",
+                "file": "salirophilia.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "place cell.md",
+                    "file": "salirophilia.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "place cell.md"
+                "file": "salirophilia.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "place cell.md",
+                "file": "salirophilia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "place cell.md",
+                "file": "salirophilia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +192,7 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "salirophilia.md",
     "place cell.md",
     "precursor (chemistry).md",
     "reagent.md",
@@ -200,7 +201,6 @@
     "nutritional neuroscience.md",
     "dating.md",
     "social mirroring.md",
-    "delicacy.md",
-    "5th dimension.md"
+    "delicacy.md"
   ]
 }
