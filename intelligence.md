@@ -28,10 +28,10 @@
 		1. A standard way of formalising this is to scale the value of rewards so that they decay geometrically into the future at a rate given by a discount parameter γ ∈ (0, 1). For example, with γ = 0.95 a reward of 0.7 that is 10 [[time]] steps into the future would be given a value of 0.7 · (0.95)10 ≈ 0.42. At 100 [[time]] steps into the future a reward of 0.7 would have a value of just over 0.004
 
 ### agent
-#### time discounting
-1. how can we get rid (theory reductionism) of time discounting (universal intelligence)?^[Universal Intelligence: A Definition of Machine Intelligence, p. 19]
+#### [[time]] discounting
+1. how can we get rid (theory reductionism) of [[time]] discounting (universal intelligence)?^[Universal Intelligence: A Definition of Machine Intelligence, p. 19]
 	1. require that the total reward returned by the environment can never exceed 1
-		1. the expected value of the sum of rewards is also finite and thus discounting is no longer required
+		1. the [[expected value]] of the sum of rewards is also finite and thus discounting is no longer required
 ##### near-harmonic discounting
 1. $$γ^i → 1/i^2$$ and modifying Γ accordingly^[Universal Intelligence: A Definition of Machine Intelligence, p. 19]
 2. agent's age → 1/i<sup>2</sup>^[Universal Intelligence: A Definition of Machine Intelligence, p. 19]
@@ -49,10 +49,10 @@
 
 
 ### environment
-1. for any k ∈ N the [[probability]] of o<sub>k</sub>r<sub>k</sub>, given the current interaction history o<sub>1</sub>r<sub>1</sub>a<sub>1</sub>o<sub>2</sub>r<sub>2</sub>a<sub>2</sub>...o<sub>k−1</sub>r<sub>k−1</sub>a<sub>k−1</sub>, is given by the [[probability]] measure:
+1. for any k ∈ N the [[probability]] of o<sub>k</sub>r<sub>k</sub>, given the current interaction [[history]] o<sub>1</sub>r<sub>1</sub>a<sub>1</sub>o<sub>2</sub>r<sub>2</sub>a<sub>2</sub>...o<sub>k−1</sub>r<sub>k−1</sub>a<sub>k−1</sub>, is given by the [[probability]] measure:
 
 	µ(o<sub>k</sub>r<sub>k</sub>|o<sub>1</sub>r<sub>1</sub>a<sub>1</sub>o<sub>2</sub>r<sub>2</sub>a<sub>2</sub>...o<sub>k−1</sub>r<sub>k−1</sub>a<sub>k−1</sub>)
-	1. why "<sub>k−1</sub>"? current interaction history=1 → ¬?
+	1. why "<sub>k−1</sub>"? current interaction [[history]]=1 → ¬?
 
 ### [[computer science]]
 1. what does the following depict? (universal intelligence)
@@ -60,7 +60,7 @@
 		1. the first part describes what the agent observes (cold, warm or hot) and the second part describes the reward (0.0, 1.0, or 0.3)^[Universal Intelligence: A Definition of Machine Intelligence, p. 17]
 2. what does the following denote? (universal intelligence)
 	1. π(a<sub>3</sub>|o<sub>1</sub>r<sub>1</sub>a<sub>1</sub>o<sub>2</sub>r<sub>2</sub>)
-		1. the [[probability]] of action a 3 in the third cycle, given that the current history is o<sub>1</sub>r<sub>1</sub>a<sub>1</sub>o<sub>2</sub>r<sub>2</sub>^[Universal Intelligence: A Definition of Machine Intelligence, p. 17]
+		1. the [[probability]] of action a 3 in the third cycle, given that the current [[history]] is o<sub>1</sub>r<sub>1</sub>a<sub>1</sub>o<sub>2</sub>r<sub>2</sub>^[Universal Intelligence: A Definition of Machine Intelligence, p. 17]
 
 ## process
 1. maximizing intelligence → converging criticalities
@@ -80,8 +80,9 @@
 
 # [[information]]
 1. heavy weighing factors causing external [[information]] (not stored in one's long-term [[human memory]]) to not contribute much to one's intelligence
-	1. high latency
+	1. [[cache hierarchy]] (higher latency)
 	2. less quantity of [[information]] (e.g. [[brain]] makes from "A" and "B" → "AB")
+	3. lower [[adaptive replacement cache]] e.g. due to higher latency rather than because you need it less
 3. do you have to know beforehand why you want to ask something? + why
 	1. not necessarily → sometimes just increasing the quantity/accuracy of manipulable [[information]] is enough → increase future freedom of action
 		1. e.g. you don't know (everything) either what you can do with the [[knowledge]] you acquire (in [[spaced repetition|SRS]])

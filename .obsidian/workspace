@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sybian.md",
+                "file": "intelligence.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Sybian.md",
+                    "file": "intelligence.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "place cell",
+                "query": "intelligence",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -116,7 +116,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sybian.md"
+                "file": "intelligence.md"
               }
             }
           },
@@ -146,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sybian.md",
+                "file": "intelligence.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sybian.md",
+                "file": "intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +193,7 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "intelligence.md",
     "Sybian.md",
     "Ben Wa balls.md",
     "salirophilia.md",
@@ -200,7 +202,6 @@
     "reagent.md",
     "attention restoration theory.md",
     "women.md",
-    "nutritional neuroscience.md",
-    "dating.md"
+    "nutritional neuroscience.md"
   ]
 }
