@@ -1,0 +1,2 @@
+1. why do [[men]] outnumber [[women]] on [[dating]] apps?^[https://www.reddit.com/r/OnlineDating/comments/p44awl/why_do_men_outnumber_women_on_dating_apps/]
+	1. due to the majority of [[men]] being bad and ruining their experience
