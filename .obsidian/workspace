@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intelligence.md",
+                "file": "Extreme Low Motion Blur.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "intelligence.md",
+                    "file": "Extreme Low Motion Blur.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -53,7 +53,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.007812500000000007,
+                      "scale": 0.04231590268975922,
                       "close": false
                     }
                   }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intelligence.md"
+                "file": "Extreme Low Motion Blur.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intelligence.md",
+                "file": "Extreme Low Motion Blur.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intelligence.md",
+                "file": "Extreme Low Motion Blur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,17 +190,17 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "800a1026925a4b1e",
+  "active": "fcd4be548f68134d",
   "lastOpenFiles": [
+    "Extreme Low Motion Blur.md",
+    "FreeSync™.md",
+    "ASUS Smart Contrast Ratio.md",
+    "ASUS.md",
     "intelligence.md",
     "Sybian.md",
     "Ben Wa balls.md",
     "salirophilia.md",
     "place cell.md",
-    "precursor (chemistry).md",
-    "reagent.md",
-    "attention restoration theory.md",
-    "women.md",
-    "nutritional neuroscience.md"
+    "precursor (chemistry).md"
   ]
 }

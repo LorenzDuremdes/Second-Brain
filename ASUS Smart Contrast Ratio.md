@@ -1,0 +1,1 @@
+1. [[ASUS]] Smart Contrast Ratio; enhances the display’s dynamic contrast ratio up to 100,000,000:1, which adjusts the brightness according to the content so that the picture will be displayed with better dark levels and more vivid colors, creating sharper and brighter images, especially during video and movie playback^[https://www.asus.com/us/support/FAQ/1009178/]

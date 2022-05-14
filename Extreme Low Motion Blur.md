@@ -1,0 +1,1 @@
+1. Extreme Low Motion Blur; [[ASUS]]’ proprietary technology made to reduce eye tracking motion blur. It is a form of backlight strobing technology, made to eliminate any blur on the display by turning off the backlight of the monitor between refreshes^[https://www.asus.com/us/support/FAQ/1045888/]
