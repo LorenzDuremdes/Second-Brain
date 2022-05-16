@@ -1,0 +1,1 @@
+1. circulair ondernemerschap; ‘zo lang mogelijk doen met wat je al hebt’ en ‘niets verloren laten gaan’^[https://www.evofenedex.nl/kennisvervoercirculair-ondernemen/wat-circulair-ondernemen]
