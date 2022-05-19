@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "circulair ondernemerschap.md",
+                "file": "quantified self.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "circulair ondernemerschap.md",
+                    "file": "quantified self.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flirting",
+                "query": "self",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "circulair ondernemerschap.md"
+                "file": "quantified self.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "circulair ondernemerschap.md",
+                "file": "quantified self.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "circulair ondernemerschap.md",
+                "file": "quantified self.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +192,7 @@
   },
   "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "quantified self.md",
     "circulair ondernemerschap.md",
     "flirting.md",
     "online dating service.md",
@@ -200,7 +201,6 @@
     "ASUS Smart Contrast Ratio.md",
     "ASUS.md",
     "intelligence.md",
-    "Sybian.md",
-    "Ben Wa balls.md"
+    "Sybian.md"
   ]
 }
