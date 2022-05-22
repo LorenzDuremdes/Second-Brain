@@ -26,3 +26,8 @@
 	1. "What feelings came up?"^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 401] e.g. the other could have been angry and respond "That felt good" to the former question
 3. negative feelings/emotions ([[coping]] with bad weather (analogy))
 	1. e.g. putting on a rain jacket to cope with rain → e.g. Woebot
+
+## [[self]]
+1. how can being unaware of your needs and feelings cause negative feelings?
+	1. e.g. your actions won't meet your needs^[Codependency For Dummies by Darlene Lancer, p. 161]
+		1. e.g. by learning to communicate in the 'language' of your [[amygdala]]
