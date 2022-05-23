@@ -53,7 +53,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.01095299138887579,
+                      "scale": 0.010952991388875835,
                       "close": false
                     }
                   }
@@ -116,8 +116,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,7 +190,7 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "800a1026925a4b1e",
+  "active": "fcd4be548f68134d",
   "lastOpenFiles": [
     "feeling.md",
     "crab mentality.md",
