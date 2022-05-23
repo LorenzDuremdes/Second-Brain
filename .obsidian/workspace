@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "feeling.md",
+                "file": "allopathic medicine.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "feeling.md",
+                    "file": "allopathic medicine.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "feeling.md"
+                "file": "allopathic medicine.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "feeling.md",
+                "file": "allopathic medicine.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "feeling.md",
+                "file": "allopathic medicine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,8 +190,9 @@
     "direction": "horizontal",
     "width": 276
   },
-  "active": "fcd4be548f68134d",
+  "active": "800a1026925a4b1e",
   "lastOpenFiles": [
+    "allopathic medicine.md",
     "feeling.md",
     "crab mentality.md",
     "male and female.md",
@@ -200,7 +201,6 @@
     "flirting.md",
     "online dating service.md",
     "Extreme Low Motion Blur.md",
-    "FreeSync™.md",
-    "ASUS Smart Contrast Ratio.md"
+    "FreeSync™.md"
   ]
 }

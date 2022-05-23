@@ -1,0 +1,1 @@
+1. allopathic medicine; an archaic term used to define science-based, modern medicine.^[https://en.wikipedia.org/wiki/Allopathic_medicine#cite_note-Weatherall-1996-1]^[https://en.wikipedia.org/wiki/Allopathic_medicine#cite_note-FREEDICT-2]
