@@ -4,16 +4,75 @@
     "type": "split",
     "children": [
       {
-        "id": "257f2c7c388f0ea0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "allopathic medicine.md",
-            "mode": "source",
-            "source": false
+        "id": "2ec21f87d9b16cf2",
+        "type": "split",
+        "children": [
+          {
+            "id": "257f2c7c388f0ea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "secure attachment style.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "b71a3db8d824a7ba"
+          },
+          {
+            "id": "825dd02ebb0a9278",
+            "type": "split",
+            "children": [
+              {
+                "id": "4aa698f7baa5097c",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "secure attachment style.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 5,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": true,
+                      "showAttachments": true,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": -3,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0,
+                      "repelStrength": 20,
+                      "linkStrength": 1,
+                      "linkDistance": 30,
+                      "scale": 0.014292824006037194,
+                      "close": false
+                    }
+                  }
+                },
+                "group": "b71a3db8d824a7ba"
+              },
+              {
+                "id": "fd4996ad1f9e9306",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ],
+            "direction": "vertical"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -40,10 +99,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "secure attach",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -77,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "allopathic medicine.md",
+                "file": "secure attachment style.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "allopathic medicine.md",
+                "file": "secure attachment style.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "allopathic medicine.md"
+                "file": "secure attachment style.md"
               }
             }
           },
@@ -125,8 +184,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "257f2c7c388f0ea0",
+  "active": "4aa698f7baa5097c",
   "lastOpenFiles": [
+    "secure attachment style.md",
+    "attachment style.md",
     "allopathic medicine.md",
     "quantified self.md",
     "locality-sensitive hashing.md"
