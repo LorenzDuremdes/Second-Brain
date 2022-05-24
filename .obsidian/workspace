@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "quantified self.md",
+            "file": "allopathic medicine.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "quantified self.md",
+                "file": "allopathic medicine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "quantified self.md",
+                "file": "allopathic medicine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "quantified self.md"
+                "file": "allopathic medicine.md"
               }
             }
           },
@@ -127,6 +127,7 @@
   },
   "active": "257f2c7c388f0ea0",
   "lastOpenFiles": [
+    "allopathic medicine.md",
     "quantified self.md",
     "locality-sensitive hashing.md"
   ]
