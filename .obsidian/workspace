@@ -13,24 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "secure attachment style.md",
+                "file": "phantom ex.md",
                 "mode": "source",
                 "source": false
               }
             },
-            "group": "b71a3db8d824a7ba"
+            "group": "3ef02b21262b6bd0"
           },
           {
-            "id": "825dd02ebb0a9278",
+            "id": "e1676c0ebfee3da4",
             "type": "split",
             "children": [
               {
-                "id": "4aa698f7baa5097c",
+                "id": "e96e2413aba9b797",
                 "type": "leaf",
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "secure attachment style.md",
+                    "file": "phantom ex.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -53,12 +53,12 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.014292824006037194,
+                      "scale": 0.024130661200497252,
                       "close": false
                     }
                   }
                 },
-                "group": "b71a3db8d824a7ba"
+                "group": "3ef02b21262b6bd0"
               },
               {
                 "id": "fd4996ad1f9e9306",
@@ -115,8 +115,38 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "241243e7a6d541ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "phantom ex.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "3ed076714d7ed0ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "phantom ex.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -136,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "secure attachment style.md",
+                "file": "phantom ex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "secure attachment style.md",
+                "file": "phantom ex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "secure attachment style.md"
+                "file": "phantom ex.md"
               }
             }
           },
@@ -178,18 +208,59 @@
             }
           }
         ]
+      },
+      {
+        "id": "fb51217635543c04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9aaef29f4be410c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "phantom ex.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9bd474922abdc2c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc91b64fe1eb5dcd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "phantom ex.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "4aa698f7baa5097c",
+  "active": "257f2c7c388f0ea0",
   "lastOpenFiles": [
-    "secure attachment style.md",
-    "attachment style.md",
-    "allopathic medicine.md",
+    "phantom ex.md",
+    "feeling.md",
     "quantified self.md",
+    "attachment style.md",
+    "secure attachment style.md",
+    "allopathic medicine.md",
     "locality-sensitive hashing.md"
   ]
 }
