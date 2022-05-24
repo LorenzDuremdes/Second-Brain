@@ -1,92 +1,33 @@
 {
   "main": {
-    "id": "c9cd4af5bf7f2c5c",
+    "id": "6ad89599cb60b6c1",
     "type": "split",
     "children": [
       {
-        "id": "557f53dea4af6d27",
-        "type": "split",
-        "children": [
-          {
-            "id": "800a1026925a4b1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "allopathic medicine.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "000454eb2d190c96"
-          },
-          {
-            "id": "c90ea8d5224110a9",
-            "type": "split",
-            "children": [
-              {
-                "id": "fcd4be548f68134d",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "allopathic medicine.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 5,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": true,
-                      "showTags": false,
-                      "showAttachments": true,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": true,
-                      "textFadeMultiplier": -3,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0,
-                      "repelStrength": 20,
-                      "linkStrength": 1,
-                      "linkDistance": 30,
-                      "scale": 0.010952991388875835,
-                      "close": false
-                    }
-                  }
-                },
-                "group": "000454eb2d190c96"
-              },
-              {
-                "id": "bd40bc667845215f",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
-              }
-            ],
-            "direction": "vertical"
+        "id": "257f2c7c388f0ea0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "quantified self.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "8a012222e6865499",
+    "id": "540ae829f86d4719",
     "type": "split",
     "children": [
       {
-        "id": "f969c1c5d0a9d0f3",
+        "id": "4ab54739b3758b67",
         "type": "tabs",
         "children": [
           {
-            "id": "94ed3e06539faa16",
+            "id": "9490fb8b79a68c15",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -94,22 +35,22 @@
             }
           },
           {
-            "id": "60fe29566a98ccef",
+            "id": "4d4a428fe92040eb",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "feeling",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "e3952c24477e87f1",
+            "id": "969c5e386b55f158",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -123,84 +64,70 @@
     "width": 300
   },
   "right": {
-    "id": "ced66b4a15c4f05a",
+    "id": "2c9b2ef4c720e71c",
     "type": "split",
     "children": [
       {
-        "id": "24ebe64b4c498720",
+        "id": "0510b489f24f34f0",
         "type": "tabs",
         "children": [
           {
-            "id": "a7edfc8468363e71",
+            "id": "6602122d9bf23bf9",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "backlink",
               "state": {
-                "file": "allopathic medicine.md"
+                "file": "quantified self.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "718556910646278b",
+            "id": "fad596ccf792b11a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "allopathic medicine.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "file": "quantified self.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "77e8e2cf27925acf",
+            "id": "58ff382428739c27",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "quantified self.md"
+              }
+            }
+          },
+          {
+            "id": "a32c8d5cf79290aa",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "a834b3f3361a68cb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "23fa12597d0a6822",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "allopathic medicine.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
-          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 276
+    "width": 300,
+    "collapsed": true
   },
-  "active": "800a1026925a4b1e",
+  "active": "257f2c7c388f0ea0",
   "lastOpenFiles": [
-    "allopathic medicine.md",
-    "feeling.md",
-    "crab mentality.md",
-    "male and female.md",
     "quantified self.md",
-    "circulair ondernemerschap.md",
-    "flirting.md",
-    "online dating service.md",
-    "Extreme Low Motion Blur.md",
-    "FreeSync™.md"
+    "locality-sensitive hashing.md"
   ]
 }
