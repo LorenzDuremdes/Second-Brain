@@ -1,0 +1,1 @@
+1. perjury; the intentional act of swearing a false oath or falsifying an affirmation to tell the truth, whether spoken or in writing, concerning matters material to an official proceeding.^[https://en.wikipedia.org/wiki/Perjury#cite_note-1]
