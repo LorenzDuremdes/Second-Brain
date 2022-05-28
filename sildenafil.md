@@ -1,0 +1,1 @@
+1. sildenafil ([[onset of action]]); when taken by mouth sildenafil for erectile dysfunction results in an average time to onset of erections of 27 minutes (ranging from 12 to 70 minutes).^[https://en.wikipedia.org/wiki/Sildenafil#cite_note-51]
