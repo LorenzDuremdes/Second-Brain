@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 dimensions.md",
+                "file": "compactification (physics).md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "11 dimensions.md",
+                    "file": "compactification (physics).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 dimensions.md",
+                "file": "compactification (physics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11 dimensions.md",
+                "file": "compactification (physics).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 dimensions.md",
+                "file": "compactification (physics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11 dimensions.md",
+                "file": "compactification (physics).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11 dimensions.md"
+                "file": "compactification (physics).md"
               }
             }
           },
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 dimensions.md",
+                "file": "compactification (physics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11 dimensions.md"
+                "file": "compactification (physics).md"
               }
             }
           }
@@ -257,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 dimensions.md",
+                "file": "compactification (physics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,6 +278,7 @@
   },
   "active": "257f2c7c388f0ea0",
   "lastOpenFiles": [
+    "compactification (physics).md",
     "11 dimensions.md",
     "two-state vector formalism.md",
     "retrocausality.md",
@@ -286,7 +287,6 @@
     "subpoena.md",
     "secure attachment style.md",
     "locality-sensitive hashing.md",
-    "phantom ex.md",
-    "feeling.md"
+    "phantom ex.md"
   ]
 }
