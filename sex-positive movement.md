@@ -1,0 +1,2 @@
+1. alcohol → sex-positive people
+	1. In my experience and observation, alcohol doesn’t make sex-positive people more likely to have sex. In fact, it may do the opposite. (Both I and my girlfriend Maxine have a policy: we won’t have sex with a new lover for the first time if they’ve been drinking.)^[Franklin Veaux, https://qr.ae/pvCVhT]
