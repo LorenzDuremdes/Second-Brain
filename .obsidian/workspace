@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retrocausality.md",
+                "file": "11 dimensions.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "retrocausality.md",
+                    "file": "11 dimensions.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -53,7 +53,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.0078125,
+                      "scale": 0.015355906606692771,
                       "close": false
                     }
                   }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retrocausality.md",
+                "file": "11 dimensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,13 +139,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retrocausality.md",
+                "file": "11 dimensions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -165,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retrocausality.md",
+                "file": "11 dimensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retrocausality.md",
+                "file": "11 dimensions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retrocausality.md"
+                "file": "11 dimensions.md"
               }
             }
           },
@@ -218,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retrocausality.md",
+                "file": "11 dimensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retrocausality.md"
+                "file": "11 dimensions.md"
               }
             }
           }
@@ -257,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retrocausality.md",
+                "file": "11 dimensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,15 +279,15 @@
   },
   "active": "257f2c7c388f0ea0",
   "lastOpenFiles": [
+    "11 dimensions.md",
+    "two-state vector formalism.md",
     "retrocausality.md",
     "[.md",
-    "two-state vector formalism.md",
     "perjury.md",
     "subpoena.md",
     "secure attachment style.md",
     "locality-sensitive hashing.md",
     "phantom ex.md",
-    "feeling.md",
-    "quantified self.md"
+    "feeling.md"
   ]
 }
