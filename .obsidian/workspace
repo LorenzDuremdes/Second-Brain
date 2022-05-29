@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sex-positive movement.md",
+                "file": "authority bias.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "sex-positive movement.md",
+                    "file": "authority bias.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -53,7 +53,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.015355906606692771,
+                      "scale": 0.0109529913888758,
                       "close": false
                     }
                   }
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "secure attach",
+                "query": "authority",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sex-positive movement.md",
+                "file": "authority bias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,13 +139,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sex-positive movement.md",
+                "file": "authority bias.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sex-positive movement.md",
+                "file": "authority bias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sex-positive movement.md",
+                "file": "authority bias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sex-positive movement.md"
+                "file": "authority bias.md"
               }
             }
           },
@@ -218,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sex-positive movement.md",
+                "file": "authority bias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sex-positive movement.md"
+                "file": "authority bias.md"
               }
             }
           }
@@ -257,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sex-positive movement.md",
+                "file": "authority bias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,6 +279,8 @@
   },
   "active": "257f2c7c388f0ea0",
   "lastOpenFiles": [
+    "authority bias.md",
+    "microsociology.md",
     "sex-positive movement.md",
     "sildenafil.md",
     "onset of action.md",
@@ -285,8 +288,6 @@
     "compactification (physics).md",
     "11 dimensions.md",
     "retrocausality.md",
-    "[.md",
-    "perjury.md",
-    "subpoena.md"
+    "[.md"
   ]
 }
