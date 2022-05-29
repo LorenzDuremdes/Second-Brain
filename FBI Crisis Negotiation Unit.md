@@ -1,0 +1,1 @@
+1. resolution through dialogue (FBI Crisis Negotiation Unit); pax per conloquium^[https://en.wikipedia.org/wiki/FBI_Crisis_Negotiation_Unit]
