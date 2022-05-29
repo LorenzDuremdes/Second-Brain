@@ -1,0 +1,1 @@
+1. gray sexuality; the spectrum between asexuality and sexuality.^[https://en.wikipedia.org/wiki/Gray_asexuality#cite_note-:0-1]^[https://en.wikipedia.org/wiki/Gray_asexuality#cite_note-Decker-2]

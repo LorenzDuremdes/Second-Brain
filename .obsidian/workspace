@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "authority bias.md",
+                "file": "gray sexuality.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "authority bias.md",
+                    "file": "gray sexuality.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "authority bias.md",
+                "file": "gray sexuality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,14 +139,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "authority bias.md",
+                "file": "gray sexuality.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "authority bias.md",
+                "file": "gray sexuality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "authority bias.md",
+                "file": "gray sexuality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "authority bias.md"
+                "file": "gray sexuality.md"
               }
             }
           },
@@ -219,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "authority bias.md",
+                "file": "gray sexuality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "authority bias.md"
+                "file": "gray sexuality.md"
               }
             }
           }
@@ -258,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "authority bias.md",
+                "file": "gray sexuality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,6 +278,8 @@
   },
   "active": "257f2c7c388f0ea0",
   "lastOpenFiles": [
+    "gray sexuality.md",
+    "demisexuality.md",
     "authority bias.md",
     "microsociology.md",
     "sex-positive movement.md",
@@ -286,8 +287,6 @@
     "onset of action.md",
     "two-state vector formalism.md",
     "compactification (physics).md",
-    "11 dimensions.md",
-    "retrocausality.md",
-    "[.md"
+    "11 dimensions.md"
   ]
 }

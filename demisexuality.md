@@ -1,0 +1,1 @@
+1. demisexuality; does not experience sexual attraction until they have formed a strong emotional connection with a prospective partner.^[https://en.wikipedia.org/wiki/Gray_asexuality#cite_note-Decker-2]^[https://en.wikipedia.org/wiki/Gray_asexuality#cite_note-Buyantueva-5]
