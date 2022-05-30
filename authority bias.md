@@ -25,3 +25,9 @@
 ### trustworthiness
 1. what is meant with "trustworthiness" (credible [[authority]])?
 	1. we want to believe they are offering their expert advice in an honest and impartial fashion—that is, attempting to depict reality accurately rather than to serve their self-interests^[Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini, p. 209]
+2. it could be better to mention negatives before positives (trustworthiness (credible [[authority]]))^[Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini, p. 209]
+	1. a communicator who references a weakness early on is seen as more honest
+	   
+	   the advantage of this sequence is that, with perceived truthfulness already in place, when the major strengths of the case are then advanced, the audience is more likely to believe them
+	1. **related**
+		1. [[contrast effect]]

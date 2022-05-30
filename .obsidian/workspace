@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "authority bias.md",
+                "file": "ex (relationship).md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "authority bias.md",
+                    "file": "ex (relationship).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "authority bias.md"
+                "file": "ex (relationship).md"
               }
             },
             "group": "3ef02b21262b6bd0"
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "authority bias.md",
+                "file": "ex (relationship).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,14 +150,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "authority bias.md",
+                "file": "ex (relationship).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "authority bias.md",
+                "file": "ex (relationship).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "authority bias.md",
+                "file": "ex (relationship).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "authority bias.md"
+                "file": "ex (relationship).md"
               }
             }
           },
@@ -230,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "authority bias.md",
+                "file": "ex (relationship).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "authority bias.md"
+                "file": "ex (relationship).md"
               }
             }
           }
@@ -269,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "authority bias.md",
+                "file": "ex (relationship).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,6 +289,7 @@
   },
   "active": "257f2c7c388f0ea0",
   "lastOpenFiles": [
+    "ex (relationship).md",
     "authority bias.md",
     "FBI Crisis Negotiation Unit.md",
     "planned obsolescence.md",
@@ -298,7 +298,6 @@
     "microsociology.md",
     "sex-positive movement.md",
     "sildenafil.md",
-    "onset of action.md",
-    "two-state vector formalism.md"
+    "onset of action.md"
   ]
 }
