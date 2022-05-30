@@ -9,10 +9,19 @@
 	1. studies investigating the way [[authority]] status affects perceptions of size have found that prestigious titles lead to height distortions^[Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini, p. 199]
 		1. with higher statuses leading to higher height estimates
 
-## applications
+# applications
 1. does someone have to be an actual [[authority]] for [[authority]] bias to occur? + how
 	1. usually not e.g. the other just has to 'look' and behave authoritative e.g. a doctor's coat^[Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini, p. 198]
 2. [[authority]] bias · quantity → [[persuasion]]
 	1. audiences [[trust]] and follow the advice of a set of experts more than that of any one of them (Mannes, Soll, & Larrick, 2014)^[Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini, p. 207]
 3. does the authoritative figure have to be physically present for [[authority]] bias to occur?
 	1. no, people still seem to comply (95% of individuals, ◇1 call) if they only heard instructions from the 'authoritative' figure (e.g. they only know it has a (fake) doctor title)^[Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini, p. 202]
+
+## credible [[authority]]
+1. credible [[authority]] (features)^[Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini, p. 208]:
+	1. expertise
+	2. trustworthiness
+
+### trustworthiness
+1. what is meant with "trustworthiness" (credible [[authority]])?
+	1. we want to believe they are offering their expert advice in an honest and impartial fashion—that is, attempting to depict reality accurately rather than to serve their self-interests^[Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini, p. 209]

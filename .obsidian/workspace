@@ -117,6 +117,17 @@
             }
           },
           {
+            "id": "e54a73dfdf9fde82",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "authority bias.md"
+              }
+            },
+            "group": "3ef02b21262b6bd0"
+          },
+          {
             "id": "241243e7a6d541ce",
             "type": "leaf",
             "state": {
@@ -145,7 +156,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
