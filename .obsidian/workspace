@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FBI Crisis Negotiation Unit.md",
+                "file": "authority bias.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "FBI Crisis Negotiation Unit.md",
+                    "file": "authority bias.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FBI Crisis Negotiation Unit.md",
+                "file": "authority bias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FBI Crisis Negotiation Unit.md",
+                "file": "authority bias.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FBI Crisis Negotiation Unit.md",
+                "file": "authority bias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FBI Crisis Negotiation Unit.md",
+                "file": "authority bias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FBI Crisis Negotiation Unit.md"
+                "file": "authority bias.md"
               }
             }
           },
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FBI Crisis Negotiation Unit.md",
+                "file": "authority bias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FBI Crisis Negotiation Unit.md"
+                "file": "authority bias.md"
               }
             }
           }
@@ -257,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FBI Crisis Negotiation Unit.md",
+                "file": "authority bias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,8 +278,8 @@
   },
   "active": "257f2c7c388f0ea0",
   "lastOpenFiles": [
-    "FBI Crisis Negotiation Unit.md",
     "authority bias.md",
+    "FBI Crisis Negotiation Unit.md",
     "planned obsolescence.md",
     "gray sexuality.md",
     "demisexuality.md",
