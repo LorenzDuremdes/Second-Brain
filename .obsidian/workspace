@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "digital marketing.md",
+                "file": "authority bias.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "digital marketing.md",
+                    "file": "authority bias.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "authority",
+                "query": "behavioral",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "digital marketing.md"
+                "file": "authority bias.md"
               }
             },
             "group": "3ef02b21262b6bd0"
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "digital marketing.md",
+                "file": "authority bias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,14 +150,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "digital marketing.md",
+                "file": "authority bias.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "digital marketing.md",
+                "file": "authority bias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "digital marketing.md",
+                "file": "authority bias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "digital marketing.md"
+                "file": "authority bias.md"
               }
             }
           },
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "digital marketing.md",
+                "file": "authority bias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "digital marketing.md"
+                "file": "authority bias.md"
               }
             }
           }
@@ -269,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "digital marketing.md",
+                "file": "authority bias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,15 +290,15 @@
   },
   "active": "257f2c7c388f0ea0",
   "lastOpenFiles": [
+    "authority bias.md",
+    "behavioral economics.md",
     "digital marketing.md",
     "ex (relationship).md",
-    "authority bias.md",
     "FBI Crisis Negotiation Unit.md",
     "planned obsolescence.md",
     "gray sexuality.md",
     "demisexuality.md",
     "microsociology.md",
-    "sex-positive movement.md",
-    "sildenafil.md"
+    "sex-positive movement.md"
   ]
 }
