@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ex (relationship).md",
+                "file": "digital marketing.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "ex (relationship).md",
+                    "file": "digital marketing.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ex (relationship).md"
+                "file": "digital marketing.md"
               }
             },
             "group": "3ef02b21262b6bd0"
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ex (relationship).md",
+                "file": "digital marketing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,13 +150,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ex (relationship).md",
+                "file": "digital marketing.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -176,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ex (relationship).md",
+                "file": "digital marketing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ex (relationship).md",
+                "file": "digital marketing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ex (relationship).md"
+                "file": "digital marketing.md"
               }
             }
           },
@@ -229,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ex (relationship).md",
+                "file": "digital marketing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ex (relationship).md"
+                "file": "digital marketing.md"
               }
             }
           }
@@ -268,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ex (relationship).md",
+                "file": "digital marketing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,6 +290,7 @@
   },
   "active": "257f2c7c388f0ea0",
   "lastOpenFiles": [
+    "digital marketing.md",
     "ex (relationship).md",
     "authority bias.md",
     "FBI Crisis Negotiation Unit.md",
@@ -297,7 +299,6 @@
     "demisexuality.md",
     "microsociology.md",
     "sex-positive movement.md",
-    "sildenafil.md",
-    "onset of action.md"
+    "sildenafil.md"
   ]
 }
