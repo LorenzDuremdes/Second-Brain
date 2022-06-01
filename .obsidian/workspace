@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "authority bias.md",
+                "file": "trust.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "authority bias.md",
+                    "file": "trust.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "behavioral",
+                "query": "trust",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "authority bias.md"
+                "file": "trust.md"
               }
             },
             "group": "3ef02b21262b6bd0"
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "authority bias.md",
+                "file": "trust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "authority bias.md",
+                "file": "trust.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "authority bias.md",
+                "file": "trust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "authority bias.md",
+                "file": "trust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "authority bias.md"
+                "file": "trust.md"
               }
             }
           },
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "authority bias.md",
+                "file": "trust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "authority bias.md"
+                "file": "trust.md"
               }
             }
           }
@@ -269,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "authority bias.md",
+                "file": "trust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,6 +290,7 @@
   },
   "active": "257f2c7c388f0ea0",
   "lastOpenFiles": [
+    "trust.md",
     "authority bias.md",
     "behavioral economics.md",
     "digital marketing.md",
@@ -298,7 +299,6 @@
     "planned obsolescence.md",
     "gray sexuality.md",
     "demisexuality.md",
-    "microsociology.md",
-    "sex-positive movement.md"
+    "microsociology.md"
   ]
 }

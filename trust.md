@@ -1,3 +1,5 @@
+**trust permits action with incomplete information, which allows for an increase in the maximum maintainable complexity of a relationship**
+
 1. trust → [[scarcity]]
 	1. the more we trust ourselves and others, the lower the [[probability]] of experiencing [[scarcity]]
 		1. with exception of trusting nonbeneficial people (e.g. untrustworthy people)
