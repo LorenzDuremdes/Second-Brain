@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "traumatic bonding.md",
+                "file": "superficial charm.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "traumatic bonding.md",
+                    "file": "superficial charm.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "traumatic bonding.md"
+                "file": "superficial charm.md"
               }
             },
             "group": "3ef02b21262b6bd0"
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "traumatic bonding.md",
+                "file": "superficial charm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "traumatic bonding.md",
+                "file": "superficial charm.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "traumatic bonding.md",
+                "file": "superficial charm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "traumatic bonding.md",
+                "file": "superficial charm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "traumatic bonding.md"
+                "file": "superficial charm.md"
               }
             }
           },
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "traumatic bonding.md",
+                "file": "superficial charm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "traumatic bonding.md"
+                "file": "superficial charm.md"
               }
             }
           }
@@ -268,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "traumatic bonding.md",
+                "file": "superficial charm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,6 +289,7 @@
   },
   "active": "257f2c7c388f0ea0",
   "lastOpenFiles": [
+    "superficial charm.md",
     "traumatic bonding.md",
     "trust.md",
     "authority bias.md",
@@ -297,7 +298,6 @@
     "ex (relationship).md",
     "FBI Crisis Negotiation Unit.md",
     "planned obsolescence.md",
-    "gray sexuality.md",
-    "demisexuality.md"
+    "gray sexuality.md"
   ]
 }
