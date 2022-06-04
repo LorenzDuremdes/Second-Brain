@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "superficial charm.md",
+                "file": "loss aversion.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "superficial charm.md",
+                    "file": "loss aversion.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trust",
+                "query": "loss aversion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "superficial charm.md"
+                "file": "loss aversion.md"
               }
             },
             "group": "3ef02b21262b6bd0"
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "superficial charm.md",
+                "file": "loss aversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,13 +150,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "superficial charm.md",
+                "file": "loss aversion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -176,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "superficial charm.md",
+                "file": "loss aversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "superficial charm.md",
+                "file": "loss aversion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "superficial charm.md"
+                "file": "loss aversion.md"
               }
             }
           },
@@ -229,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "superficial charm.md",
+                "file": "loss aversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "superficial charm.md"
+                "file": "loss aversion.md"
               }
             }
           }
@@ -268,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "superficial charm.md",
+                "file": "loss aversion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,6 +290,7 @@
   },
   "active": "257f2c7c388f0ea0",
   "lastOpenFiles": [
+    "loss aversion.md",
     "superficial charm.md",
     "traumatic bonding.md",
     "trust.md",
@@ -297,7 +299,6 @@
     "digital marketing.md",
     "ex (relationship).md",
     "FBI Crisis Negotiation Unit.md",
-    "planned obsolescence.md",
-    "gray sexuality.md"
+    "planned obsolescence.md"
   ]
 }
