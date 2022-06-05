@@ -1,0 +1,1 @@
+1. RTX ([[graphics processing unit|GPU]]); Ray Tracing Texel eXtreme^[https://www.reddit.com/r/buildapc/comments/stzx2n/comment/hx6ueqf/?utm_source=share&utm_medium=web2x&context=3]

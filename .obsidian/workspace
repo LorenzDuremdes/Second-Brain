@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "loss aversion.md",
+                "file": "RTX (GPU).md",
                 "mode": "source",
                 "source": false
               }
             },
             "group": "3ef02b21262b6bd0"
+          },
+          {
+            "id": "18668ca6bf3297bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GTX (GPU).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           },
           {
             "id": "e1676c0ebfee3da4",
@@ -30,7 +42,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "loss aversion.md",
+                    "file": "RTX (GPU).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -122,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "loss aversion.md"
+                "file": "RTX (GPU).md"
               }
             },
             "group": "3ef02b21262b6bd0"
@@ -133,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "loss aversion.md",
+                "file": "RTX (GPU).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,14 +162,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "loss aversion.md",
+                "file": "RTX (GPU).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "loss aversion.md",
+                "file": "RTX (GPU).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "loss aversion.md",
+                "file": "RTX (GPU).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "loss aversion.md"
+                "file": "RTX (GPU).md"
               }
             }
           },
@@ -230,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "loss aversion.md",
+                "file": "RTX (GPU).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "loss aversion.md"
+                "file": "RTX (GPU).md"
               }
             }
           }
@@ -269,7 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "loss aversion.md",
+                "file": "RTX (GPU).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,15 +301,15 @@
   },
   "active": "257f2c7c388f0ea0",
   "lastOpenFiles": [
+    "RTX (GPU).md",
+    "GTX (GPU).md",
+    "graphics processing unit.md",
     "loss aversion.md",
     "superficial charm.md",
     "traumatic bonding.md",
     "trust.md",
     "authority bias.md",
     "behavioral economics.md",
-    "digital marketing.md",
-    "ex (relationship).md",
-    "FBI Crisis Negotiation Unit.md",
-    "planned obsolescence.md"
+    "digital marketing.md"
   ]
 }
