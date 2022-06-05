@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RTX (GPU).md",
+                "file": "Amazon's Choice.md",
                 "mode": "source",
                 "source": false
               }
             },
             "group": "3ef02b21262b6bd0"
-          },
-          {
-            "id": "18668ca6bf3297bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GTX (GPU).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           },
           {
             "id": "e1676c0ebfee3da4",
@@ -42,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "RTX (GPU).md",
+                    "file": "Amazon's Choice.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -134,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RTX (GPU).md"
+                "file": "Amazon's Choice.md"
               }
             },
             "group": "3ef02b21262b6bd0"
@@ -145,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RTX (GPU).md",
+                "file": "Amazon's Choice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RTX (GPU).md",
+                "file": "Amazon's Choice.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -188,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RTX (GPU).md",
+                "file": "Amazon's Choice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RTX (GPU).md",
+                "file": "Amazon's Choice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RTX (GPU).md"
+                "file": "Amazon's Choice.md"
               }
             }
           },
@@ -241,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RTX (GPU).md",
+                "file": "Amazon's Choice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RTX (GPU).md"
+                "file": "Amazon's Choice.md"
               }
             }
           }
@@ -280,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RTX (GPU).md",
+                "file": "Amazon's Choice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,6 +289,8 @@
   },
   "active": "257f2c7c388f0ea0",
   "lastOpenFiles": [
+    "Amazon's Choice.md",
+    "deep learning super sampling.md",
     "RTX (GPU).md",
     "GTX (GPU).md",
     "graphics processing unit.md",
@@ -308,8 +298,6 @@
     "superficial charm.md",
     "traumatic bonding.md",
     "trust.md",
-    "authority bias.md",
-    "behavioral economics.md",
-    "digital marketing.md"
+    "authority bias.md"
   ]
 }

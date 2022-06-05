@@ -1,0 +1,1 @@
+1. Amazon's Choice; whichever version of the item you searched for that had the best combination of "low price" and "good ratings."^[https://www.reddit.com/r/savedyouaclick/comments/bx2dti/comment/eq2t3hf/?utm_source=share&utm_medium=web2x&context=3]

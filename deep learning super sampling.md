@@ -1,0 +1,1 @@
+1. deep learning super sampling; the goal of these technologies is to allow the majority of the graphics pipeline to run at a lower resolution for increased performance, and then infer a higher resolution image from this that contains the same level of detail as if the image had been rendered at this higher resolution^[https://en.wikipedia.org/wiki/Deep_learning_super_sampling]
