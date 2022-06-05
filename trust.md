@@ -1,7 +1,7 @@
 **trust permits action with incomplete information, which allows for an increase in the maximum maintainable complexity of a relationship**
 
-1. trust → [[scarcity]]
-	1. the more we trust ourselves and others, the lower the [[probability]] of experiencing [[scarcity]]
+1. trust → [[scarcity (persuasion)]]
+	1. the more we trust ourselves and others, the lower the [[probability]] of experiencing [[scarcity (persuasion)]]
 		1. with exception of trusting nonbeneficial people (e.g. untrustworthy people)
 2. [[vulnerability]] ↔ trust (chicken-or-the-egg analogy)
 	1. we need to feel trust to be vulnerable and we need to be vulnerable in order to trust

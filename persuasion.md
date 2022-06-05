@@ -18,7 +18,7 @@
 	3. [[social proof]]
 		1. **related**: [[social currency]]
 	4. [[authority]]
-	5. [[scarcity]]
+	5. [[scarcity (persuasion)]]
 	6. commitment
 	7. unity
 		1. **related**: [[social resonance]]
@@ -42,8 +42,8 @@
 ## motivating action
 1. motivating action (persuasion principles)^[Influence, New and Expanded: The [[Psychology]] of Persuasion, p. 6]:
 	1. [[consistency bias|consistency]]
-	2. [[scarcity]]
-		1. [[scarcity]] → [[negativity bias]] e.g. "you will **lose** this if you do/don't do this"
+	2. [[scarcity (persuasion)]]
+		1. [[scarcity (persuasion)]] → [[negativity bias]] e.g. "you will **lose** this if you do/don't do this"
 # [[fixed action pattern]]
 1. improve the following^[Influence, New and Expanded: The [[Psychology]] of Persuasion, p. 7]:
 

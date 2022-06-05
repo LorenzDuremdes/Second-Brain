@@ -1,0 +1,2 @@
+1. what [[persuasion]] principle can you use after "[[scarcity (persuasion)|scarcity]]" + why?^[Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini, p. 229]
+	1. commitment and consistency e.g. when you faked scarcity
