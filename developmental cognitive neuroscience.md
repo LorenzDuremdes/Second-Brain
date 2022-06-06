@@ -1,0 +1,1 @@
+1. developmental cognitive [[neuroscience]]; examines how the [[mind]] changes as children grow up, interrelations between that and how the [[brain]] is changing, and environmental and biological influences on the developing [[mind]] and [[brain]]^[https://en.wikipedia.org/wiki/Developmental_cognitive_neuroscience]

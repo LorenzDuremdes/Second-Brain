@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychological reactance.md",
+                "file": "developmental cognitive neuroscience.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "psychological reactance.md",
+                    "file": "developmental cognitive neuroscience.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychological reactance.md"
+                "file": "developmental cognitive neuroscience.md"
               }
             },
             "group": "3ef02b21262b6bd0"
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychological reactance.md",
+                "file": "developmental cognitive neuroscience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,13 +150,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychological reactance.md",
+                "file": "developmental cognitive neuroscience.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -176,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychological reactance.md",
+                "file": "developmental cognitive neuroscience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychological reactance.md",
+                "file": "developmental cognitive neuroscience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychological reactance.md"
+                "file": "developmental cognitive neuroscience.md"
               }
             }
           },
@@ -229,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychological reactance.md",
+                "file": "developmental cognitive neuroscience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychological reactance.md"
+                "file": "developmental cognitive neuroscience.md"
               }
             }
           }
@@ -268,7 +269,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychological reactance.md",
+                "file": "developmental cognitive neuroscience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,6 +290,7 @@
   },
   "active": "257f2c7c388f0ea0",
   "lastOpenFiles": [
+    "developmental cognitive neuroscience.md",
     "psychological reactance.md",
     "scarcity (persuasion).md",
     "commitment and consistency (persuasion).md",
@@ -297,7 +299,6 @@
     "RTX (GPU).md",
     "GTX (GPU).md",
     "graphics processing unit.md",
-    "loss aversion.md",
-    "superficial charm.md"
+    "loss aversion.md"
   ]
 }
