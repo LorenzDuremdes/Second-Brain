@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scarcity (persuasion).md",
+                "file": "psychological reactance.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "scarcity (persuasion).md",
+                    "file": "psychological reactance.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "commitment",
+                "query": "psychological rea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scarcity (persuasion).md"
+                "file": "psychological reactance.md"
               }
             },
             "group": "3ef02b21262b6bd0"
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scarcity (persuasion).md",
+                "file": "psychological reactance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scarcity (persuasion).md",
+                "file": "psychological reactance.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scarcity (persuasion).md",
+                "file": "psychological reactance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scarcity (persuasion).md",
+                "file": "psychological reactance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scarcity (persuasion).md"
+                "file": "psychological reactance.md"
               }
             }
           },
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scarcity (persuasion).md",
+                "file": "psychological reactance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scarcity (persuasion).md"
+                "file": "psychological reactance.md"
               }
             }
           }
@@ -268,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scarcity (persuasion).md",
+                "file": "psychological reactance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,6 +289,7 @@
   },
   "active": "257f2c7c388f0ea0",
   "lastOpenFiles": [
+    "psychological reactance.md",
     "scarcity (persuasion).md",
     "commitment and consistency (persuasion).md",
     "deep learning super sampling.md",
@@ -297,7 +298,6 @@
     "GTX (GPU).md",
     "graphics processing unit.md",
     "loss aversion.md",
-    "superficial charm.md",
-    "traumatic bonding.md"
+    "superficial charm.md"
   ]
 }
