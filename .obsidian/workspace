@@ -157,7 +157,11 @@
             }
           }
         ],
+<<<<<<< Updated upstream
         "currentTab": 5
+=======
+        "currentTab": 4
+>>>>>>> Stashed changes
       }
     ],
     "direction": "horizontal",
