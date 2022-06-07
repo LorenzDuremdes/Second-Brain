@@ -1,0 +1,1 @@
+1. compute unit ([[Graphics Core Next]]); combines 64 shader processors with 4 texture mapping units (TMUs).^[https://en.wikipedia.org/wiki/Graphics_Core_Next#cite_note-12]^[https://en.wikipedia.org/wiki/Graphics_Core_Next#cite_note-cu_anand-13]

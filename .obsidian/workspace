@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "multisample anti-aliasing.md",
+                "file": "compute unit (Graphics Core Next).md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "multisample anti-aliasing.md",
+                "file": "compute unit (Graphics Core Next).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "multisample anti-aliasing.md",
+                "file": "compute unit (Graphics Core Next).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,14 +124,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "multisample anti-aliasing.md",
+                "file": "compute unit (Graphics Core Next).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "multisample anti-aliasing.md",
+                "file": "compute unit (Graphics Core Next).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "multisample anti-aliasing.md",
+                "file": "compute unit (Graphics Core Next).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "multisample anti-aliasing.md"
+                "file": "compute unit (Graphics Core Next).md"
               }
             }
           },
@@ -201,6 +201,10 @@
   },
   "active": "d9a4eb30dc6214e5",
   "lastOpenFiles": [
+    "compute unit (Graphics Core Next).md",
+    "Graphics Core Next.md",
+    "thermal design power.md",
+    "Advanced Micro Devices.md",
     "multisample anti-aliasing.md",
     "manufacturer's suggested retail price.md",
     "two-state vector formalism.md",
