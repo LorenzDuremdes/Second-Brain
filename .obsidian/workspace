@@ -1,92 +1,33 @@
 {
   "main": {
-    "id": "6ad89599cb60b6c1",
+    "id": "d111a1df9a6916f0",
     "type": "split",
     "children": [
       {
-        "id": "2ec21f87d9b16cf2",
-        "type": "split",
-        "children": [
-          {
-            "id": "257f2c7c388f0ea0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "developmental cognitive neuroscience.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "3ef02b21262b6bd0"
-          },
-          {
-            "id": "e1676c0ebfee3da4",
-            "type": "split",
-            "children": [
-              {
-                "id": "e96e2413aba9b797",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "developmental cognitive neuroscience.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 5,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": true,
-                      "showTags": true,
-                      "showAttachments": true,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": true,
-                      "textFadeMultiplier": -3,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0,
-                      "repelStrength": 20,
-                      "linkStrength": 1,
-                      "linkDistance": 30,
-                      "scale": 0.0078125,
-                      "close": false
-                    }
-                  }
-                },
-                "group": "3ef02b21262b6bd0"
-              },
-              {
-                "id": "fd4996ad1f9e9306",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
-              }
-            ],
-            "direction": "vertical"
+        "id": "d9a4eb30dc6214e5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "scarcity (persuasion).md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "540ae829f86d4719",
+    "id": "03b48d331ab4a7a0",
     "type": "split",
     "children": [
       {
-        "id": "4ab54739b3758b67",
+        "id": "1c66ab92264beaef",
         "type": "tabs",
         "children": [
           {
-            "id": "9490fb8b79a68c15",
+            "id": "145c438594fb3686",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -94,94 +35,49 @@
             }
           },
           {
-            "id": "4d4a428fe92040eb",
+            "id": "131a80e14f7cdd95",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "psychological rea",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "969c5e386b55f158",
+            "id": "a3b398ca49a68236",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "e54a73dfdf9fde82",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "developmental cognitive neuroscience.md"
-              }
-            },
-            "group": "3ef02b21262b6bd0"
-          },
-          {
-            "id": "241243e7a6d541ce",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "developmental cognitive neuroscience.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "3ed076714d7ed0ae",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "developmental cognitive neuroscience.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
           }
-        ],
-<<<<<<< Updated upstream
-        "currentTab": 5
-=======
-        "currentTab": 4
->>>>>>> Stashed changes
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "2c9b2ef4c720e71c",
+    "id": "b5ca97176849c162",
     "type": "split",
     "children": [
       {
-        "id": "0510b489f24f34f0",
+        "id": "8f016a9deddf0870",
         "type": "tabs",
         "children": [
           {
-            "id": "6602122d9bf23bf9",
+            "id": "747650685e81a61a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "developmental cognitive neuroscience.md",
+                "file": "scarcity (persuasion).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,97 +89,34 @@
             }
           },
           {
-            "id": "fad596ccf792b11a",
+            "id": "3006857d862b62aa",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "developmental cognitive neuroscience.md",
+                "file": "scarcity (persuasion).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "58ff382428739c27",
+            "id": "718b2188b12256fe",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "developmental cognitive neuroscience.md"
+                "file": "scarcity (persuasion).md"
               }
             }
           },
           {
-            "id": "a32c8d5cf79290aa",
+            "id": "cab64364ef58b935",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "fb51217635543c04",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9aaef29f4be410c1",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "developmental cognitive neuroscience.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9bd474922abdc2c8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fc91b64fe1eb5dcd",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "developmental cognitive neuroscience.md"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4aade593cf2f99f7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a6719a3e51449c0d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "developmental cognitive neuroscience.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            },
-            "group": "3ef02b21262b6bd0"
           }
         ]
       }
@@ -292,17 +125,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "257f2c7c388f0ea0",
+  "active": "d9a4eb30dc6214e5",
   "lastOpenFiles": [
-    "developmental cognitive neuroscience.md",
-    "psychological reactance.md",
-    "scarcity (persuasion).md",
-    "commitment and consistency (persuasion).md",
-    "deep learning super sampling.md",
-    "Amazon's Choice.md",
-    "RTX (GPU).md",
-    "GTX (GPU).md",
-    "graphics processing unit.md",
-    "loss aversion.md"
+    "scarcity (persuasion).md"
   ]
 }
