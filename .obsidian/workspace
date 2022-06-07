@@ -4,16 +4,60 @@
     "type": "split",
     "children": [
       {
-        "id": "d9a4eb30dc6214e5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "scarcity (persuasion).md",
-            "mode": "source",
-            "source": false
+        "id": "3dabb12bccf2de15",
+        "type": "split",
+        "children": [
+          {
+            "id": "d9a4eb30dc6214e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "multisample anti-aliasing.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "947a511fac101077"
+          },
+          {
+            "id": "317438b0b635e51b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "multisample anti-aliasing.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "947a511fac101077"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -56,8 +100,38 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "cf5a0a85f5240eff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "multisample anti-aliasing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "63c41187ccf072b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "multisample anti-aliasing.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -77,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scarcity (persuasion).md",
+                "file": "multisample anti-aliasing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scarcity (persuasion).md",
+                "file": "multisample anti-aliasing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scarcity (persuasion).md"
+                "file": "multisample anti-aliasing.md"
               }
             }
           },
@@ -127,6 +201,9 @@
   },
   "active": "d9a4eb30dc6214e5",
   "lastOpenFiles": [
+    "multisample anti-aliasing.md",
+    "manufacturer's suggested retail price.md",
+    "two-state vector formalism.md",
     "scarcity (persuasion).md"
   ]
 }

@@ -1,0 +1,2 @@
+1. multisample anti-aliasing (MSAA); a technique of collecting data points at a greater resolution (usually by a power of two) than the final data resolution. These data points are then combined (down-sampled) to the desired resolution, often just by a simple average. The combined data points have less visible aliasing artifacts (or moiré patterns)^[https://en.wikipedia.org/wiki/Spatial_anti-aliasing#Super_sampling_/_full-scene_anti-aliasing]
+2. somewhat the opposite of "[[deep learning super sampling]]"
