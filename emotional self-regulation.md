@@ -5,4 +5,5 @@
 # reducing emotional [[self]]-regulation
 1. gaming → emotional [[self]]-regulation
 	1. (too much) gaming might decrease [[emotion]] regulation (or increase emotional reactivity)^[Dr. Alok Kanojia, Wednesday 8 June 2022]
-		1. e.g. Dr. K had nights where his emotions flooded him (he was dependent on games for emotional regulation)
+		1. can be negated by other factors e.g. taking a walk or mindfulness
+		2. e.g. Dr. K had nights where his emotions flooded him (he was dependent on games for emotional regulation)
