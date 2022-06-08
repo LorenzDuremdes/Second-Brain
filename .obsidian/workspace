@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "compute unit (Graphics Core Next).md",
+                "file": "self-awareness.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,30 +26,30 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "compute unit (Graphics Core Next).md",
+                "file": "self-awareness.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 5,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
+                  "localInterlinks": true,
+                  "showTags": true,
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
+                  "showArrow": true,
+                  "textFadeMultiplier": -3,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
+                  "centerStrength": 0,
+                  "repelStrength": 20,
                   "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
+                  "linkDistance": 30,
+                  "scale": 0.012369287773296442,
                   "close": false
                 }
               }
@@ -84,10 +84,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "self awareness",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "compute unit (Graphics Core Next).md",
+                "file": "self-awareness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,14 +124,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "compute unit (Graphics Core Next).md",
+                "file": "self-awareness.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "compute unit (Graphics Core Next).md",
+                "file": "self-awareness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "compute unit (Graphics Core Next).md",
+                "file": "self-awareness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "compute unit (Graphics Core Next).md"
+                "file": "self-awareness.md"
               }
             }
           },
@@ -199,8 +198,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d9a4eb30dc6214e5",
+  "active": "317438b0b635e51b",
   "lastOpenFiles": [
+    "self-awareness.md",
+    "medial prefrontal cortex.md",
     "compute unit (Graphics Core Next).md",
     "Graphics Core Next.md",
     "thermal design power.md",
