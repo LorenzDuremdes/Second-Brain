@@ -2,6 +2,9 @@
 	1. one way of summarizing this result is to say that there is generally more [[time]] linkage or temporal structure in the interaction of distressed marriages and families
 
 # improving stability
+1. what does Dr. Alok Kanojia think is a heavy factor for successful relationships?^[Wednesday 8 June 2022]
+	1. effective communication
+
 ## 1:20 ratio
 1. What I see a lot in my practice is that couples usually do love, respect, and appreciate one another but neither partner actually _feels_ this in the relationship. Often this is because there is not enough positivity in the relationship. Dr. Gottman’s research on thousands of couples showed, for your partner to _feel_ loved, respected, and appreciated, there must be 20 positive interactions for any one negative interaction.^[https://www.gottman.com/blog/fondness-admiration-and-intimacy/]
 	1. This means that every [[time]] you accidentally hurt your partner’s feelings, miss a bid, or have an otherwise tense moment in the relationship, you will need to balance that with 20 positive interactions for your partner to continue to feel loved, respected, and admired. (Editor’s Note: the other commonly referenced ratio is 5:1, which applies specifically to interactions within conflict—learn more here)
