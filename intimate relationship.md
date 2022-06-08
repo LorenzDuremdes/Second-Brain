@@ -3,7 +3,7 @@
 
 # improving stability
 1. what does Dr. Alok Kanojia think is a heavy factor for successful relationships?^[Wednesday 8 June 2022]
-	1. effective communication
+	1. effective [[communication]]
 
 ## 1:20 ratio
 1. What I see a lot in my practice is that couples usually do love, respect, and appreciate one another but neither partner actually _feels_ this in the relationship. Often this is because there is not enough positivity in the relationship. Dr. Gottman’s research on thousands of couples showed, for your partner to _feel_ loved, respected, and appreciated, there must be 20 positive interactions for any one negative interaction.^[https://www.gottman.com/blog/fondness-admiration-and-intimacy/]
@@ -13,6 +13,10 @@
 		2. positive bids
 2. why is the "1:20 ratio (intimate relationship)" so 'high'?^[https://www.gottman.com/blog/fondness-admiration-and-intimacy/]
 	1. the [[brain]] is wired to notice and respond to the negative. It is necessary for survival. What this means in relationships is that any negative interaction you have with your partner will stick out in your [[mind]].
+
+# (potential) instabilities
+1. commute → romantic relationships^[Dr. Alok Kanojia, Wednesday 8 June 2022]
+	1. a longer commute (especially ≥45 minutes) increases likelihood of a break-up
 
 # [[microsociology]]
 1. what does Dr. Alok Kanojia think about "you need to love yourself first before you can love someone else"?

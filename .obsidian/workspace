@@ -21,40 +21,55 @@
             "group": "947a511fac101077"
           },
           {
-            "id": "317438b0b635e51b",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "intimate relationship.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 5,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0,
-                  "repelStrength": 20,
-                  "linkStrength": 1,
-                  "linkDistance": 30,
-                  "scale": 0.0078125,
-                  "close": false
+            "id": "bb30cd168812f8b9",
+            "type": "split",
+            "children": [
+              {
+                "id": "317438b0b635e51b",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "intimate relationship.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 5,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": true,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": -3,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0,
+                      "repelStrength": 20,
+                      "linkStrength": 1,
+                      "linkDistance": 30,
+                      "scale": 0.0078125,
+                      "close": false
+                    }
+                  }
+                },
+                "group": "947a511fac101077"
+              },
+              {
+                "id": "d248f48495b5a619",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
                 }
               }
-            },
-            "group": "947a511fac101077"
+            ],
+            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
@@ -141,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
