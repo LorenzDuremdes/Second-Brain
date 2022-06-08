@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "self-awareness.md",
+                "file": "intimate relationship.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "self-awareness.md",
+                "file": "intimate relationship.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.012369287773296442,
+                  "scale": 0.0078125,
                   "close": false
                 }
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "self awareness",
+                "query": "romantic rel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "self-awareness.md",
+                "file": "intimate relationship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,9 +124,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "self-awareness.md",
+                "file": "intimate relationship.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d4381fcfd672bba8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "intimate relationship.md"
               }
             }
           }
@@ -150,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "self-awareness.md",
+                "file": "intimate relationship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "self-awareness.md",
+                "file": "intimate relationship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "self-awareness.md"
+                "file": "intimate relationship.md"
               }
             }
           },
@@ -198,8 +208,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "317438b0b635e51b",
+  "active": "d9a4eb30dc6214e5",
   "lastOpenFiles": [
+    "intimate relationship.md",
+    "interpersonal relationship.md",
     "self-awareness.md",
     "medial prefrontal cortex.md",
     "compute unit (Graphics Core Next).md",
@@ -207,8 +219,6 @@
     "thermal design power.md",
     "Advanced Micro Devices.md",
     "multisample anti-aliasing.md",
-    "manufacturer's suggested retail price.md",
-    "two-state vector formalism.md",
-    "scarcity (persuasion).md"
+    "manufacturer's suggested retail price.md"
   ]
 }
