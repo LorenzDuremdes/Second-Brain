@@ -1,0 +1,2 @@
+1. differential diagnosis; it involves distinguishing a particular [[disease]] or condition from others that present with similar clinical features.^[https://en.wikipedia.org/wiki/Differential_diagnosis#cite_note-1]
+	1. often, each individual option of a possible [[disease]] is called a differential diagnosis (e.g., acute bronchitis could be a differential diagnosis in the evaluation of a cough, even if the final diagnosis is common cold)

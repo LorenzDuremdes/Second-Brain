@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "emotional self-regulation.md",
+                "file": "differential diagnosis.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "emotional self-regulation.md",
+                    "file": "differential diagnosis.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "emotional self-regulation.md",
+                "file": "differential diagnosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "emotional self-regulation.md",
+                "file": "differential diagnosis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "emotional self-regulation.md"
+                "file": "differential diagnosis.md"
               }
             }
           }
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "emotional self-regulation.md",
+                "file": "differential diagnosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "emotional self-regulation.md",
+                "file": "differential diagnosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "emotional self-regulation.md"
+                "file": "differential diagnosis.md"
               }
             }
           },
@@ -225,15 +225,15 @@
   },
   "active": "d9a4eb30dc6214e5",
   "lastOpenFiles": [
+    "differential diagnosis.md",
+    "tardive dyskinesia.md",
+    "myoclonus.md",
+    "Tourette syndrome.md",
     "emotional self-regulation.md",
     "intimate relationship.md",
     "interpersonal relationship.md",
     "self-awareness.md",
     "medial prefrontal cortex.md",
-    "compute unit (Graphics Core Next).md",
-    "Graphics Core Next.md",
-    "thermal design power.md",
-    "Advanced Micro Devices.md",
-    "multisample anti-aliasing.md"
+    "compute unit (Graphics Core Next).md"
   ]
 }

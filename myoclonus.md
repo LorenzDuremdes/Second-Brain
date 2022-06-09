@@ -1,0 +1,1 @@
+1. myoclonus; a brief, involuntary, irregular (lacking rhythm) twitching of a muscle or a group of muscles^[https://en.wikipedia.org/wiki/Myoclonus]
