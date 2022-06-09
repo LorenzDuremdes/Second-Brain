@@ -1,6 +1,6 @@
 1. [[fractal learning]] is from higher- to lower-level construals with exception of the subcomponent "hypothetical" and "informational"
 	1. lower hypothetical distance → higher [[probability]] of occurrence
-	2. lower informational distance → more pre-stored knowledge
+	2. lower informational distance → more pre-stored [[knowledge]]
 2. "low construal level" leads to "further lowering of CLT?" e.g. cognitive biases
 	1. **related** [[self-organized criticality]]
 
@@ -32,13 +32,17 @@
 		1. e.g. can be connected (more easily) with other concepts
 
 ## [[adaptive replacement cache]]
-1. adaptive replacement cache → construal level theory
+1. [[adaptive replacement cache]] → construal level theory
 	1. the lower the former (less LFU/LRU), the higher the latter (∥) or the lower the latter (·)
 
 # [[entropy (information theory)]]
 1. construal level theory → [[entropy]] ([[information]] theory)
 	1. positive correlation
 	2. could be relative? → e.g. dependent on [[goal]] → e.g. higher construals would increase [[learning rate]] → increase certainty → lower [[entropy]]
+
+# [[psychology]]
+1. CLT → inconsistent behavior
+	1. inconsistent behavior might become more consistent at a higher-level construal
 
 # related
 1. [[maps of content]]
