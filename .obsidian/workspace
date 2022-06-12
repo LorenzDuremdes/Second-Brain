@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nvidia.md",
+                "file": "infidelity.md",
                 "mode": "source",
                 "source": false
               }
@@ -21,7 +21,7 @@
             "group": "947a511fac101077"
           },
           {
-            "id": "bb30cd168812f8b9",
+            "id": "59bfc0d4b1e218a8",
             "type": "split",
             "children": [
               {
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Nvidia.md",
+                    "file": "infidelity.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -61,7 +61,7 @@
                 "group": "947a511fac101077"
               },
               {
-                "id": "d248f48495b5a619",
+                "id": "ae6500759865bb0e",
                 "type": "leaf",
                 "state": {
                   "type": "mindmap",
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "construal",
+                "query": "infidelity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nvidia.md",
+                "file": "infidelity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nvidia.md",
+                "file": "infidelity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nvidia.md"
+                "file": "infidelity.md"
               }
             }
           }
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nvidia.md",
+                "file": "infidelity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nvidia.md",
+                "file": "infidelity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,12 +204,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nvidia.md"
+                "file": "infidelity.md"
               }
             }
           },
           {
             "id": "cab64364ef58b935",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "13f3dfa2e991901a",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -225,6 +233,8 @@
   },
   "active": "d9a4eb30dc6214e5",
   "lastOpenFiles": [
+    "infidelity.md",
+    "Ἠθικὰ Νικομάχεια.md",
     "Nvidia.md",
     "construal level theory.md",
     "differential diagnosis.md",
@@ -232,8 +242,6 @@
     "myoclonus.md",
     "Tourette syndrome.md",
     "emotional self-regulation.md",
-    "intimate relationship.md",
-    "interpersonal relationship.md",
-    "self-awareness.md"
+    "intimate relationship.md"
   ]
 }
