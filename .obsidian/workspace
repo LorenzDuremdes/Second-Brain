@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "infidelity.md",
+                "file": "patience.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "infidelity.md",
+                    "file": "patience.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "infidelity.md",
+                "file": "patience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "infidelity.md",
+                "file": "patience.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "infidelity.md"
+                "file": "patience.md"
               }
             }
           }
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "infidelity.md",
+                "file": "patience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "infidelity.md",
+                "file": "patience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "infidelity.md"
+                "file": "patience.md"
               }
             }
           },
@@ -233,6 +233,7 @@
   },
   "active": "d9a4eb30dc6214e5",
   "lastOpenFiles": [
+    "patience.md",
     "infidelity.md",
     "Ἠθικὰ Νικομάχεια.md",
     "Nvidia.md",
@@ -241,7 +242,6 @@
     "tardive dyskinesia.md",
     "myoclonus.md",
     "Tourette syndrome.md",
-    "emotional self-regulation.md",
-    "intimate relationship.md"
+    "emotional self-regulation.md"
   ]
 }
