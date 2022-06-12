@@ -8,17 +8,16 @@
         "type": "split",
         "children": [
           {
-            "id": "d9a4eb30dc6214e5",
+            "id": "2343214b95f7ee7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "patience.md",
+                "file": "self-fulfilling prophecy.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "947a511fac101077"
+            }
           },
           {
             "id": "59bfc0d4b1e218a8",
@@ -30,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "patience.md",
+                    "file": "self-fulfilling prophecy.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -57,8 +56,7 @@
                       "close": false
                     }
                   }
-                },
-                "group": "947a511fac101077"
+                }
               },
               {
                 "id": "ae6500759865bb0e",
@@ -99,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "infidelity",
+                "query": "self fulfi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -122,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patience.md",
+                "file": "self-fulfilling prophecy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patience.md",
+                "file": "self-fulfilling prophecy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patience.md"
+                "file": "self-fulfilling prophecy.md"
               }
             }
           }
@@ -175,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patience.md",
+                "file": "self-fulfilling prophecy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "patience.md",
+                "file": "self-fulfilling prophecy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "patience.md"
+                "file": "self-fulfilling prophecy.md"
               }
             }
           },
@@ -231,17 +229,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d9a4eb30dc6214e5",
+  "active": "2343214b95f7ee7f",
   "lastOpenFiles": [
+    "self-fulfilling prophecy.md",
+    "self-defeating prophecy.md",
+    "Osborne effect.md",
+    "vaporwave.md",
     "patience.md",
     "infidelity.md",
     "Ἠθικὰ Νικομάχεια.md",
     "Nvidia.md",
     "construal level theory.md",
-    "differential diagnosis.md",
-    "tardive dyskinesia.md",
-    "myoclonus.md",
-    "Tourette syndrome.md",
-    "emotional self-regulation.md"
+    "differential diagnosis.md"
   ]
 }

@@ -1,0 +1,1 @@
+1. vaporwave; a product, typically computer hardware or software, that is announced to the general public but is late or never actually manufactured nor officially cancelled^[https://en.wikipedia.org/wiki/Vaporware]

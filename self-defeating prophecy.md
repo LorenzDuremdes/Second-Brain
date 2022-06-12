@@ -1,0 +1,2 @@
+1. self-defeating prophecy; the complementary opposite of a [[self-fulfilling prophecy]]; a prediction that prevents what it predicts from happening^[https://en.wikipedia.org/wiki/Self-defeating_prophecy]
+	1. A self-defeating prophecy can be the result of rebellion to the prediction. If the audience of a prediction has an interest in seeing it falsified, and its fulfillment depends on their actions or inaction, their actions upon hearing it will make the prediction less plausible
