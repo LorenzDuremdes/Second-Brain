@@ -8,12 +8,12 @@
         "type": "split",
         "children": [
           {
-            "id": "2343214b95f7ee7f",
+            "id": "4d8510a7bcd45b84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "human brain.md",
+                "file": "11 dimensions (physics).md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "human brain.md",
+                    "file": "11 dimensions (physics).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "human brain",
+                "query": "metaphysics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "human brain.md",
+                "file": "11 dimensions (physics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "human brain.md",
+                "file": "11 dimensions (physics).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "human brain.md"
+                "file": "11 dimensions (physics).md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "human brain.md",
+                "file": "11 dimensions (physics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "human brain.md",
+                "file": "11 dimensions (physics).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "human brain.md"
+                "file": "11 dimensions (physics).md"
               }
             }
           },
@@ -229,17 +229,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2343214b95f7ee7f",
+  "active": "4d8510a7bcd45b84",
   "lastOpenFiles": [
+    "11 dimensions (physics).md",
+    "ontology.md",
+    "metaphysics.md",
+    "Untitled.md",
     "human brain.md",
     "self-fulfilling prophecy.md",
     "self-defeating prophecy.md",
     "Osborne effect.md",
     "vaporwave.md",
-    "patience.md",
-    "infidelity.md",
-    "Ἠθικὰ Νικομάχεια.md",
-    "Nvidia.md",
-    "construal level theory.md"
+    "patience.md"
   ]
 }
