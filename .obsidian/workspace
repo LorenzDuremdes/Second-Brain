@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 dimensions (physics).md",
+                "file": "dating.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "11 dimensions (physics).md",
+                    "file": "dating.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "metaphysics",
+                "query": "dating",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 dimensions (physics).md",
+                "file": "dating.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11 dimensions (physics).md",
+                "file": "dating.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11 dimensions (physics).md"
+                "file": "dating.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 dimensions (physics).md",
+                "file": "dating.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11 dimensions (physics).md",
+                "file": "dating.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11 dimensions (physics).md"
+                "file": "dating.md"
               }
             }
           },
@@ -231,6 +231,7 @@
   },
   "active": "4d8510a7bcd45b84",
   "lastOpenFiles": [
+    "dating.md",
     "11 dimensions (physics).md",
     "ontology.md",
     "metaphysics.md",
@@ -239,7 +240,6 @@
     "self-fulfilling prophecy.md",
     "self-defeating prophecy.md",
     "Osborne effect.md",
-    "vaporwave.md",
-    "patience.md"
+    "vaporwave.md"
   ]
 }

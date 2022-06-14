@@ -1,5 +1,7 @@
 # improving
-1. does Mark Manson believe you necessarily need to learn a "skill-set" to have a conversation with a woman? + why^[Models: Attract [[Women]] Through [[Honesty]], Mark Manson]
+1. how can you 'spread the risk' of building a relationship with someone new?
+	1. spread the 'workload' over a longer range of [[time]]
+2. does Mark Manson believe you necessarily need to learn a "skill-set" to have a conversation with a woman? + why^[Models: Attract [[Women]] Through [[Honesty]], Mark Manson]
 	1. If you can have a conversation with a friend or family member, then you already possess the only “skill-set” required in attracting a woman. There’s nothing to learn, only things to do. And the fear doesn’t go away, you learn to hone it to help you.
 	2. **see also**
 		1. you don't need "dating experience from high school"^[https://www.reddit.com/r/unpopularopinion/comments/rt9e0j/dating_in_high_school_is_important_even_if_you/]
