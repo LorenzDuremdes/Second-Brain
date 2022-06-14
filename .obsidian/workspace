@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "self-fulfilling prophecy.md",
+                "file": "human brain.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "self-fulfilling prophecy.md",
+                    "file": "human brain.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "self fulfi",
+                "query": "human brain",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "self-fulfilling prophecy.md",
+                "file": "human brain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "self-fulfilling prophecy.md",
+                "file": "human brain.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "self-fulfilling prophecy.md"
+                "file": "human brain.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "self-fulfilling prophecy.md",
+                "file": "human brain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "self-fulfilling prophecy.md",
+                "file": "human brain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "self-fulfilling prophecy.md"
+                "file": "human brain.md"
               }
             }
           },
@@ -231,6 +231,7 @@
   },
   "active": "2343214b95f7ee7f",
   "lastOpenFiles": [
+    "human brain.md",
     "self-fulfilling prophecy.md",
     "self-defeating prophecy.md",
     "Osborne effect.md",
@@ -239,7 +240,6 @@
     "infidelity.md",
     "Ἠθικὰ Νικομάχεια.md",
     "Nvidia.md",
-    "construal level theory.md",
-    "differential diagnosis.md"
+    "construal level theory.md"
   ]
 }
