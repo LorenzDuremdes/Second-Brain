@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fabian strategy.md",
+                "file": "transhumanism.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Fabian strategy.md",
+                    "file": "transhumanism.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "transhuman",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fabian strategy.md",
+                "file": "transhumanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fabian strategy.md",
+                "file": "transhumanism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,12 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fabian strategy.md"
+                "file": "transhumanism.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fabian strategy.md",
+                "file": "transhumanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fabian strategy.md",
+                "file": "transhumanism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fabian strategy.md"
+                "file": "transhumanism.md"
               }
             }
           },
@@ -232,6 +232,7 @@
   },
   "active": "4d8510a7bcd45b84",
   "lastOpenFiles": [
+    "transhumanism.md",
     "Fabian strategy.md",
     "agnomen.md",
     "metaphysics.md",
@@ -240,7 +241,6 @@
     "Nvidia.md",
     "恭喜發財.md",
     "ontology.md",
-    "two-state vector formalism.md",
-    "11 dimensions (physics).md"
+    "two-state vector formalism.md"
   ]
 }

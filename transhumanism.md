@@ -18,3 +18,6 @@
 		
 		1. **related**
 			[[posthuman]]
+
+# quotes
+1. “It's amazing how once the [[mind]] is free of emotional pollution, logic and clarity emerge.” —Clyde Dsouza, Memories With Maya
