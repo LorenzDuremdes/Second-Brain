@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dating.md",
+                "file": "Fabian strategy.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "dating.md",
+                    "file": "Fabian strategy.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dating",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dating.md",
+                "file": "Fabian strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dating.md",
+                "file": "Fabian strategy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,11 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dating.md"
+                "file": "Fabian strategy.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -173,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dating.md",
+                "file": "Fabian strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dating.md",
+                "file": "Fabian strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dating.md"
+                "file": "Fabian strategy.md"
               }
             }
           },
@@ -231,15 +232,15 @@
   },
   "active": "4d8510a7bcd45b84",
   "lastOpenFiles": [
-    "dating.md",
-    "11 dimensions (physics).md",
-    "ontology.md",
+    "Fabian strategy.md",
+    "agnomen.md",
     "metaphysics.md",
-    "Untitled.md",
-    "human brain.md",
-    "self-fulfilling prophecy.md",
-    "self-defeating prophecy.md",
-    "Osborne effect.md",
-    "vaporwave.md"
+    "dating.md",
+    "ἆθλον.md",
+    "Nvidia.md",
+    "恭喜發財.md",
+    "ontology.md",
+    "two-state vector formalism.md",
+    "11 dimensions (physics).md"
   ]
 }

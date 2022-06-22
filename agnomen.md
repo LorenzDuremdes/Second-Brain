@@ -1,0 +1,2 @@
+1. agnomen; was a nickname in the Roman naming convention^[https://en.wikipedia.org/wiki/Agnomen]
+	1. just as the cognomen was initially. However, the cognomina eventually became [[family]] names, so agnomina were needed to distinguish between similarly named persons
