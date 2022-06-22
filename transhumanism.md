@@ -22,3 +22,4 @@
 # quotes
 1. “It's amazing how once the [[mind]] is free of emotional pollution, logic and clarity emerge.” —Clyde Dsouza, Memories With Maya
 2. It may be that our role on this planet is not to worship God - but to create him. -   Arthur C. Clarke
+3. To be what you want to be: isn't this the essence of being human? - David Zindell (1988) _Neverness_.
