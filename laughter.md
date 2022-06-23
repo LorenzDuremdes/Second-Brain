@@ -1,5 +1,7 @@
 # [[microsociology]]
-1. how do humans differentiate between playful behavior and a genuine physical attack?^[The Happy [[Brain]]: The Science of Where [[Happiness]] Comes from, and Why, p. 157]
+1. ◇laughter can function as "positive reinforcement"
+	1. e.g. giving the other a good [[feeling]] and reinforcing them to do more of that
+2. how do humans differentiate between playful behavior and a genuine physical attack?^[The Happy [[Brain]]: The Science of Where [[Happiness]] Comes from, and Why, p. 157]
 	1. e.g. laughter
 	2. it also explains why we enjoy laughter so much; it means more play, which is beneficial, so we’ve evolved to experience reward when we laugh
 

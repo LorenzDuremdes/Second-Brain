@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "transhumanism.md",
+                "file": "laughter.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "transhumanism.md",
+                    "file": "laughter.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transhuman",
+                "query": "laughter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "transhumanism.md",
+                "file": "laughter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "transhumanism.md",
+                "file": "laughter.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,11 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "transhumanism.md"
+                "file": "laughter.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -173,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "transhumanism.md",
+                "file": "laughter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "transhumanism.md",
+                "file": "laughter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "transhumanism.md"
+                "file": "laughter.md"
               }
             }
           },
@@ -231,6 +232,7 @@
   },
   "active": "4d8510a7bcd45b84",
   "lastOpenFiles": [
+    "laughter.md",
     "transhumanism.md",
     "Fabian strategy.md",
     "agnomen.md",
@@ -239,7 +241,6 @@
     "ἆθλον.md",
     "Nvidia.md",
     "恭喜發財.md",
-    "ontology.md",
-    "two-state vector formalism.md"
+    "ontology.md"
   ]
 }
