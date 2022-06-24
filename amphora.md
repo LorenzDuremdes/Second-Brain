@@ -1,0 +1,5 @@
+1. amphora; a type of container^[https://en.wikipedia.org/wiki/Amphora#cite_note-1] with a pointed bottom and characteristic shape and size which fit tightly (and therefore safely) against each other in storage rooms and packages, tied together with rope and delivered by land or sea
+2. Amphorae designed for marine transport, taken from shipwrecks of the Bronze Age, on display in the Museum of Underwater Archaeology at Bodrum Castle, Turkey. The museum archaeologists have devised a rack and roping device to illustrate how the cargo might have been kept from shifting.
+	
+	Below: Panathenaic prize amphora in the black-figure style, showing the goddess Athena^[By Ad Meskens - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5661567]
+	<img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Amphorae_stacking.jpg" width="300" />

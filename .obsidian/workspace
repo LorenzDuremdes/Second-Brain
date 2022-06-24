@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "laughter.md",
+                "file": "amphora.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "laughter.md",
+                    "file": "amphora.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "laughter.md",
+                "file": "amphora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "laughter.md",
+                "file": "amphora.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,12 +149,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "laughter.md"
+                "file": "amphora.md"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "laughter.md",
+                "file": "amphora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "laughter.md",
+                "file": "amphora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "laughter.md"
+                "file": "amphora.md"
               }
             }
           },
@@ -232,6 +231,7 @@
   },
   "active": "4d8510a7bcd45b84",
   "lastOpenFiles": [
+    "amphora.md",
     "laughter.md",
     "transhumanism.md",
     "Fabian strategy.md",
@@ -240,7 +240,6 @@
     "dating.md",
     "ἆθλον.md",
     "Nvidia.md",
-    "恭喜發財.md",
-    "ontology.md"
+    "恭喜發財.md"
   ]
 }
