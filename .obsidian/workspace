@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post-exercise recovery.md",
+                "file": "active recovery.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "post-exercise recovery.md",
+                    "file": "active recovery.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "post workout",
+                "query": "active rec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "post-exercise recovery.md",
+                "file": "active recovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "post-exercise recovery.md",
+                "file": "active recovery.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "post-exercise recovery.md"
+                "file": "active recovery.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "post-exercise recovery.md",
+                "file": "active recovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "post-exercise recovery.md",
+                "file": "active recovery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "post-exercise recovery.md"
+                "file": "active recovery.md"
               }
             }
           },
@@ -231,15 +231,15 @@
   },
   "active": "4d8510a7bcd45b84",
   "lastOpenFiles": [
+    "active recovery.md",
     "post-exercise recovery.md",
+    "aerobic exercise.md",
+    "sports adrenal medulla.md",
     "amphora.md",
     "laughter.md",
     "transhumanism.md",
     "Fabian strategy.md",
     "agnomen.md",
-    "metaphysics.md",
-    "dating.md",
-    "ἆθλον.md",
-    "Nvidia.md"
+    "metaphysics.md"
   ]
 }

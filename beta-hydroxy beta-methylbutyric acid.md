@@ -1,7 +1,7 @@
 # mechanism
 ## positive
 1. is HMB scientifically proven to be [[performance-enhancing substance|performance enhancing]]?
-	1. In healthy adults, supplementation with HMB has been shown to increase exercise-induced gains in muscle size, muscle strength, and lean body mass, reduce [[skeletal muscle]] damage from exercise, improve aerobic exercise performance, and expedite [[post-exercise recovery|recovery from exercise]].^[https://en.wikipedia.org/wiki/Beta-Hydroxy_beta-methylbutyric_acid#cite_note-Enhancing_performance-13]
+	1. In healthy adults, supplementation with HMB has been shown to increase exercise-induced gains in muscle size, muscle strength, and lean body mass, reduce [[skeletal muscle]] damage from exercise, improve [[aerobic exercise]] performance, and expedite [[post-exercise recovery|recovery from exercise]].^[https://en.wikipedia.org/wiki/Beta-Hydroxy_beta-methylbutyric_acid#cite_note-Enhancing_performance-13]
 4. main function^[https://examine.com/supplements/hmb/]
 	1. anti-catabolic
 	2. less effective than [[leucine]] in inducing MPS

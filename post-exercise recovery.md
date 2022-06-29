@@ -9,3 +9,17 @@
 ## recovery shake
 1. recovery shake (macronutrient ratio)^[https://www.trainerroad.com/blog/timing-your-recovery-drink-what-and-when-to-drink/]
 	1. 4:1 (carbohydrate:[[protein]])
+
+# biopsychology
+1. what facilitates the transition between [[parasympathetic nervous system]] and sympathetic?
+	1. (nor)epinephrine^[https://youtu.be/xuBsqTJcRqc?t=2700, Chad Timmerman (TrainerRoad)]
+
+## catecholamines
+1. how long does high-intensity endurance exercise increase (nor)epinephrine?
+	1. 2 days (and potentially longer due to study limitations)^[https://youtu.be/xuBsqTJcRqc?t=2760, Chad Timmerman (TrainerRoad)]
+2. [[hypoglycemia]] → catecholamines
+	1. the former can increase the latter[https://youtu.be/xuBsqTJcRqc?t=2860, Chad Timmerman (TrainerRoad)]
+		1. [[hypoglycemia]] can e.g. increase [[stress]]
+3. hypoxia → catecholamines
+	1. the former can increase the latter^[https://youtu.be/xuBsqTJcRqc?t=2850, Chad Timmerman (TrainerRoad)]
+4. [[physical exercise]] **characteristics** can elevate (nor)epinephrine levels by 1.5–20x basal rates^[https://youtu.be/xuBsqTJcRqc?t=2910, Chad Timmerman (TrainerRoad)]

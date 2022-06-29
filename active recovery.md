@@ -9,6 +9,11 @@
 	1. yes due to being in a fatigued state
 		1. "Though they can feel challenging when you’re in a fatigued state, these workouts aren’t strenuous and should promote recovery."
 
+## biopsychology
+1. active recovery → (para)[[sympathetic nervous system]]
+	1. the former might increase the switch from sympathetic to parasympathetic^[https://youtu.be/xuBsqTJcRqc?t=3180, Chad Timmerman (TrainerRoad)]
+		1. including everything else e.g. cooling down temperature (◇+ melatonin)
+
 # nutrition
 1. is "nutrient timing · composition" important for "active recovery"? + why^[https://youtu.be/tz7vvvnzU4w?t=420, TrainerRoad with Chad Timmerman]
 	1. can be, because e.g. insulin sensitivity increases (and e.g. allows for quicker [[glycogen]] replenishment)
