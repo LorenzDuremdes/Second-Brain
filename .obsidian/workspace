@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "active recovery.md",
+                "file": "psychological reactance.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "active recovery.md",
+                    "file": "psychological reactance.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "active rec",
+                "query": "psychological rea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "active recovery.md",
+                "file": "psychological reactance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "active recovery.md",
+                "file": "psychological reactance.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "active recovery.md"
+                "file": "psychological reactance.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "active recovery.md",
+                "file": "psychological reactance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "active recovery.md",
+                "file": "psychological reactance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "active recovery.md"
+                "file": "psychological reactance.md"
               }
             }
           },
@@ -231,6 +231,7 @@
   },
   "active": "4d8510a7bcd45b84",
   "lastOpenFiles": [
+    "psychological reactance.md",
     "active recovery.md",
     "post-exercise recovery.md",
     "aerobic exercise.md",
@@ -239,7 +240,6 @@
     "laughter.md",
     "transhumanism.md",
     "Fabian strategy.md",
-    "agnomen.md",
-    "metaphysics.md"
+    "agnomen.md"
   ]
 }
