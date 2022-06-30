@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychological reactance.md",
+                "file": "doula.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "psychological reactance.md",
+                    "file": "doula.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "self defe",
+                "query": "autoasso",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychological reactance.md",
+                "file": "doula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychological reactance.md",
+                "file": "doula.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychological reactance.md"
+                "file": "doula.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychological reactance.md",
+                "file": "doula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychological reactance.md",
+                "file": "doula.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychological reactance.md"
+                "file": "doula.md"
               }
             }
           },
@@ -231,15 +231,15 @@
   },
   "active": "4d8510a7bcd45b84",
   "lastOpenFiles": [
+    "doula.md",
+    "autoassociative memory.md",
+    "empirical influence function.md",
     "psychological reactance.md",
     "active recovery.md",
     "post-exercise recovery.md",
     "aerobic exercise.md",
     "sports adrenal medulla.md",
     "amphora.md",
-    "laughter.md",
-    "transhumanism.md",
-    "Fabian strategy.md",
-    "agnomen.md"
+    "laughter.md"
   ]
 }

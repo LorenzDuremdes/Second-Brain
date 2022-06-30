@@ -5,3 +5,4 @@
 1. [[statistics]]
 2. [[mediation (statistics)]]
 3. [[Granger causality]]
+4. [[IQ]]
