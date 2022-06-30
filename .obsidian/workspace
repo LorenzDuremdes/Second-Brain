@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "doula.md",
+                "file": "Mining Simulator 2 (Roblox).md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "doula.md",
+                    "file": "Mining Simulator 2 (Roblox).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "doula.md",
+                "file": "Mining Simulator 2 (Roblox).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "doula.md",
+                "file": "Mining Simulator 2 (Roblox).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "doula.md"
+                "file": "Mining Simulator 2 (Roblox).md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "doula.md",
+                "file": "Mining Simulator 2 (Roblox).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "doula.md",
+                "file": "Mining Simulator 2 (Roblox).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "doula.md"
+                "file": "Mining Simulator 2 (Roblox).md"
               }
             }
           },
@@ -231,6 +231,7 @@
   },
   "active": "4d8510a7bcd45b84",
   "lastOpenFiles": [
+    "Mining Simulator 2 (Roblox).md",
     "doula.md",
     "autoassociative memory.md",
     "empirical influence function.md",
@@ -239,7 +240,6 @@
     "post-exercise recovery.md",
     "aerobic exercise.md",
     "sports adrenal medulla.md",
-    "amphora.md",
-    "laughter.md"
+    "amphora.md"
   ]
 }
