@@ -1,0 +1,2 @@
+1. what does e.g. "L3" mean
+	1. most CPUs have a hierarchy of [[cache hierarchy|multiple cache levels]] (L1, L2, often L3, and rarely even L4), with different instruction-specific and data-specific caches at level 1^[https://en.wikipedia.org/wiki/CPU_cache]
