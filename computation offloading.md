@@ -1,0 +1,1 @@
+1. computation offloading; the transfer of resource intensive computational tasks to a separate processor, such as a hardware accelerator, or an external platform, such as a cluster, grid, or a cloud^[https://en.wikipedia.org/wiki/Computation_offloading]

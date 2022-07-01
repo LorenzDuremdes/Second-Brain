@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPU cache.md",
+                "file": "computation offloading.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "CPU cache.md",
+                    "file": "computation offloading.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPU cache.md",
+                "file": "computation offloading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPU cache.md",
+                "file": "computation offloading.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPU cache.md"
+                "file": "computation offloading.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPU cache.md",
+                "file": "computation offloading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPU cache.md",
+                "file": "computation offloading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPU cache.md"
+                "file": "computation offloading.md"
               }
             }
           },
@@ -231,6 +231,7 @@
   },
   "active": "4d8510a7bcd45b84",
   "lastOpenFiles": [
+    "computation offloading.md",
     "CPU cache.md",
     "Intel.md",
     "autoassociative memory.md",
@@ -239,7 +240,6 @@
     "empirical influence function.md",
     "psychological reactance.md",
     "active recovery.md",
-    "post-exercise recovery.md",
-    "aerobic exercise.md"
+    "post-exercise recovery.md"
   ]
 }
