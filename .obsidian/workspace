@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computation offloading.md",
+                "file": "intra-workout (road cycling).md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "computation offloading.md",
+                    "file": "intra-workout (road cycling).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "autoasso",
+                "query": "intrawork",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computation offloading.md",
+                "file": "intra-workout (road cycling).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computation offloading.md",
+                "file": "intra-workout (road cycling).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computation offloading.md"
+                "file": "intra-workout (road cycling).md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computation offloading.md",
+                "file": "intra-workout (road cycling).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computation offloading.md",
+                "file": "intra-workout (road cycling).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computation offloading.md"
+                "file": "intra-workout (road cycling).md"
               }
             }
           },
@@ -231,6 +231,7 @@
   },
   "active": "4d8510a7bcd45b84",
   "lastOpenFiles": [
+    "intra-workout (road cycling).md",
     "computation offloading.md",
     "CPU cache.md",
     "Intel.md",
@@ -239,7 +240,6 @@
     "Mining Simulator 2 (Roblox).md",
     "empirical influence function.md",
     "psychological reactance.md",
-    "active recovery.md",
-    "post-exercise recovery.md"
+    "active recovery.md"
   ]
 }
