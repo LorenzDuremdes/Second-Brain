@@ -1,0 +1,1 @@
+1. kapstok (Nederlands); coat rack (English)
