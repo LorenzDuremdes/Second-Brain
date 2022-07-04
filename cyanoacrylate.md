@@ -1,0 +1,1 @@
+1. secondelijm (Nederlands); cyanoacrylate (English)

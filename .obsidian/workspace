@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bicycle Manufacturing Company (BMC).md",
+                "file": "cyanoacrylate.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Bicycle Manufacturing Company (BMC).md",
+                    "file": "cyanoacrylate.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bicycle Manufacturing Company (BMC).md",
+                "file": "cyanoacrylate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bicycle Manufacturing Company (BMC).md",
+                "file": "cyanoacrylate.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bicycle Manufacturing Company (BMC).md"
+                "file": "cyanoacrylate.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bicycle Manufacturing Company (BMC).md",
+                "file": "cyanoacrylate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bicycle Manufacturing Company (BMC).md",
+                "file": "cyanoacrylate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bicycle Manufacturing Company (BMC).md"
+                "file": "cyanoacrylate.md"
               }
             }
           },
@@ -231,6 +231,7 @@
   },
   "active": "4d8510a7bcd45b84",
   "lastOpenFiles": [
+    "cyanoacrylate.md",
     "Bicycle Manufacturing Company (BMC).md",
     "intra-workout (road cycling).md",
     "computation offloading.md",
@@ -239,7 +240,6 @@
     "autoassociative memory.md",
     "doula.md",
     "Mining Simulator 2 (Roblox).md",
-    "empirical influence function.md",
-    "psychological reactance.md"
+    "empirical influence function.md"
   ]
 }
