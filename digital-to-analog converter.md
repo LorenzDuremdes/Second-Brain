@@ -1,0 +1,1 @@
+1. digital-to-analog converter;  a system that converts a digital signal into an analog signal^[https://en.wikipedia.org/wiki/Digital-to-analog_converter]
