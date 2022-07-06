@@ -1,0 +1,1 @@
+1. domotics; building automation for a home, called a smart home or smart house^[https://en.wikipedia.org/wiki/Home_automation]
