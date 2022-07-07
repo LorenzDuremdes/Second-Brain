@@ -1,0 +1,1 @@
+1. GSM (acronym); Global System for Mobile Communications^[https://en.wikipedia.org/wiki/GSM]

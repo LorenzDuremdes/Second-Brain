@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "domotics.md",
+                "file": "audiobook.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "domotics.md",
+                    "file": "audiobook.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "domotics.md",
+                "file": "audiobook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "domotics.md",
+                "file": "audiobook.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,11 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "domotics.md"
+                "file": "audiobook.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -173,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "domotics.md",
+                "file": "audiobook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "domotics.md",
+                "file": "audiobook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "domotics.md"
+                "file": "audiobook.md"
               }
             }
           },
@@ -231,6 +232,8 @@
   },
   "active": "4d8510a7bcd45b84",
   "lastOpenFiles": [
+    "audiobook.md",
+    "GSM.md",
     "domotics.md",
     "digital-to-analog converter.md",
     "coat rack.md",
@@ -238,8 +241,6 @@
     "Bicycle Manufacturing Company (BMC).md",
     "intra-workout (road cycling).md",
     "computation offloading.md",
-    "CPU cache.md",
-    "Intel.md",
-    "autoassociative memory.md"
+    "CPU cache.md"
   ]
 }
