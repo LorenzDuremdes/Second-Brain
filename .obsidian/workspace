@@ -8,12 +8,12 @@
         "type": "split",
         "children": [
           {
-            "id": "4d8510a7bcd45b84",
+            "id": "502049e01872c813",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "audiobook.md",
+                "file": "Z-Library.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "audiobook.md",
+                    "file": "Z-Library.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "audiobook.md",
+                "file": "Z-Library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "audiobook.md",
+                "file": "Z-Library.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,12 +149,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "audiobook.md"
+                "file": "Z-Library.md"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "audiobook.md",
+                "file": "Z-Library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "audiobook.md",
+                "file": "Z-Library.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "audiobook.md"
+                "file": "Z-Library.md"
               }
             }
           },
@@ -230,8 +229,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4d8510a7bcd45b84",
+  "active": "502049e01872c813",
   "lastOpenFiles": [
+    "Z-Library.md",
+    "shadow library.md",
     "audiobook.md",
     "GSM.md",
     "domotics.md",
@@ -239,8 +240,6 @@
     "coat rack.md",
     "cyanoacrylate.md",
     "Bicycle Manufacturing Company (BMC).md",
-    "intra-workout (road cycling).md",
-    "computation offloading.md",
-    "CPU cache.md"
+    "intra-workout (road cycling).md"
   ]
 }

@@ -1,0 +1,2 @@
+1. how does Z-Library prevent blacklisting (by internet providers)?
+	1. Z-Library uses a homepage at a memorable domain. The homepage does not contain any infringing content, but instead lists many working mirror domains for different regions. These domains can be switched and do not need to be as memorable. For instance, some include numbers^[https://en.wikipedia.org/wiki/Z-Library#cite_note-14]
