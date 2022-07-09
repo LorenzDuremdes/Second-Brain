@@ -5,3 +5,4 @@
 # oleophobic coating
 1. oleophobic coating; used by many phones to repel fingerprint oil, which aids in preventing and cleaning fingerprint marks^[https://en.wikipedia.org/wiki/Lipophobicity]
 2. alcohol might remove this layer^[https://www.reddit.com/r/Android/comments/rg377s/dont_clean_your_smartphone_too_much_using_alcohol/]
+3. https://www.amazon.nl/-/en/dp/B00DX7GLW8/?coliid=I31QAEN7XH0JC4&colid=16RVQ3SJ5RTEU&psc=1&ref_=lv_ov_lig_dp_it - The Ecomoist screen cleaner is ideally suited for cleaning all smooth and highly sensitive surfaces and displays such as iPhone, iPad, iMac, LCD, TFT, Plasma, LED, laptop, notebook, TV, touchscreen, smartphones and tablets etc.
