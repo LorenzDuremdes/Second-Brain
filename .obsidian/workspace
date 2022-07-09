@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bokeh.md",
+                "file": "smartphone.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "bokeh.md",
+                    "file": "smartphone.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intrawork",
+                "query": "smartphone",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bokeh.md",
+                "file": "smartphone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bokeh.md",
+                "file": "smartphone.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bokeh.md"
+                "file": "smartphone.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bokeh.md",
+                "file": "smartphone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bokeh.md",
+                "file": "smartphone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bokeh.md"
+                "file": "smartphone.md"
               }
             }
           },
@@ -231,6 +231,8 @@
   },
   "active": "502049e01872c813",
   "lastOpenFiles": [
+    "smartphone.md",
+    "Untitled.md",
     "bokeh.md",
     "pie chart.md",
     "Z-Library.md",
@@ -238,8 +240,6 @@
     "audiobook.md",
     "GSM.md",
     "domotics.md",
-    "digital-to-analog converter.md",
-    "coat rack.md",
-    "cyanoacrylate.md"
+    "digital-to-analog converter.md"
   ]
 }
