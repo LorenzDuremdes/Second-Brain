@@ -1,0 +1,1 @@
+1. bokeh; the aesthetic quality of the blur produced in out-of-focus parts of an image.^[https://en.wikipedia.org/wiki/Bokeh#cite_note-Gerry_Kopelow_1998_118–119-2]^[https://en.wikipedia.org/wiki/Bokeh#cite_note-3]^[https://en.wikipedia.org/wiki/Bokeh#cite_note-4]
