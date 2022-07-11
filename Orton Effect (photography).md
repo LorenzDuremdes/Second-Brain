@@ -1,0 +1,1 @@
+1. Orton Effect ([[photography]]); a [[photography]] technique which blends two completely different photos of the same scene, resulting in a distinctive mix of high and low detail areas within the same photo.^[https://en.wikipedia.org/wiki/Orton_(photography)#cite_note-1]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "photography.md",
+                "file": "Orton Effect (photography).md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "photography.md",
+                    "file": "Orton Effect (photography).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "photography.md",
+                "file": "Orton Effect (photography).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "photography.md",
+                "file": "Orton Effect (photography).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "photography.md"
+                "file": "Orton Effect (photography).md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "photography.md",
+                "file": "Orton Effect (photography).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "photography.md",
+                "file": "Orton Effect (photography).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "photography.md"
+                "file": "Orton Effect (photography).md"
               }
             }
           },
@@ -231,8 +231,8 @@
   },
   "active": "502049e01872c813",
   "lastOpenFiles": [
+    "Orton Effect (photography).md",
     "photography.md",
-    "Untitled.md",
     "ant colony optimization algorithms.md",
     "smartphone.md",
     "bokeh.md",
