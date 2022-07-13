@@ -1,0 +1,1 @@
+1. forfait; termen in het Nederlands belastingrecht die worden gebruikt om aan te duiden dat in een bepaald geval niet de werkelijke situatie, maar een veronderstelde situatie de heffingsgrondslag vormt voor belasting^[https://nl.wikipedia.org/wiki/Forfait]

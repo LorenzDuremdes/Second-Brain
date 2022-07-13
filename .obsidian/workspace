@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orton Effect (photography).md",
+                "file": "forfait.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Orton Effect (photography).md",
+                    "file": "forfait.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orton Effect (photography).md",
+                "file": "forfait.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orton Effect (photography).md",
+                "file": "forfait.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orton Effect (photography).md"
+                "file": "forfait.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orton Effect (photography).md",
+                "file": "forfait.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orton Effect (photography).md",
+                "file": "forfait.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orton Effect (photography).md"
+                "file": "forfait.md"
               }
             }
           },
@@ -231,6 +231,7 @@
   },
   "active": "502049e01872c813",
   "lastOpenFiles": [
+    "forfait.md",
     "Orton Effect (photography).md",
     "photography.md",
     "ant colony optimization algorithms.md",
@@ -239,7 +240,6 @@
     "pie chart.md",
     "Z-Library.md",
     "shadow library.md",
-    "audiobook.md",
-    "GSM.md"
+    "audiobook.md"
   ]
 }
