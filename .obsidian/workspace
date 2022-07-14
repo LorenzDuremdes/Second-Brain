@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recursion (computer science).md",
+                "file": "John von Neumann.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "recursion (computer science).md",
+                    "file": "John von Neumann.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "photogra",
+                "query": "john",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recursion (computer science).md",
+                "file": "John von Neumann.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "recursion (computer science).md",
+                "file": "John von Neumann.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "recursion (computer science).md"
+                "file": "John von Neumann.md"
               }
             }
           }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "recursion (computer science).md",
+                "file": "John von Neumann.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "recursion (computer science).md",
+                "file": "John von Neumann.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "recursion (computer science).md"
+                "file": "John von Neumann.md"
               }
             }
           },
@@ -232,6 +232,8 @@
   },
   "active": "63c41187ccf072b6",
   "lastOpenFiles": [
+    "Nash equilibrium.md",
+    "recursion (computer science).md",
     "halting problem.md",
     "photography.md",
     "forfait.md",
@@ -239,8 +241,6 @@
     "ant colony optimization algorithms.md",
     "smartphone.md",
     "bokeh.md",
-    "pie chart.md",
-    "Z-Library.md",
-    "shadow library.md"
+    "pie chart.md"
   ]
 }
