@@ -1,0 +1,1 @@
+1. recursion ([[computer science]]); a method of solving a [[computational problem]] where the solution depends on solutions to smaller instances of the same problem.^[https://en.wikipedia.org/wiki/Recursion_(computer_science)#cite_note-1]^[https://en.wikipedia.org/wiki/Recursion_(computer_science)#cite_note-2]

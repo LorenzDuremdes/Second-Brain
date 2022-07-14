@@ -1,0 +1,1 @@
+1. halting problem; the problem of determining, from a description of an arbitrary computer program and an input, whether the program will finish running, or continue to run forever^[https://en.wikipedia.org/wiki/Halting_problem]
