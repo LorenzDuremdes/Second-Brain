@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cryotherapy.md",
+                "file": "cardiac output.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "cryotherapy.md",
+                    "file": "cardiac output.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cryotherapy",
+                "query": "cardiac output",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cryotherapy.md",
+                "file": "cardiac output.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cryotherapy.md",
+                "file": "cardiac output.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cryotherapy.md"
+                "file": "cardiac output.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cryotherapy.md",
+                "file": "cardiac output.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cryotherapy.md",
+                "file": "cardiac output.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cryotherapy.md"
+                "file": "cardiac output.md"
               }
             }
           },
@@ -231,6 +231,8 @@
   },
   "active": "145c438594fb3686",
   "lastOpenFiles": [
+    "intelligence.md",
+    "cryotherapy.md",
     "recursion (computer science).md",
     "Nash equilibrium.md",
     "John von Neumann.md",
@@ -238,8 +240,6 @@
     "photography.md",
     "forfait.md",
     "Orton Effect (photography).md",
-    "ant colony optimization algorithms.md",
-    "smartphone.md",
-    "bokeh.md"
+    "ant colony optimization algorithms.md"
   ]
 }
