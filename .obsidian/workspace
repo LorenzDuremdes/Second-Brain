@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "organic personality disorder.md",
+                "file": "recursion (computer science).md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "organic personality disorder.md",
+                    "file": "recursion (computer science).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "psychotherapist",
+                "query": "price of",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "organic personality disorder.md",
+                "file": "recursion (computer science).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "organic personality disorder.md",
+                "file": "recursion (computer science).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,12 +149,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "organic personality disorder.md"
+                "file": "recursion (computer science).md"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "organic personality disorder.md",
+                "file": "recursion (computer science).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "organic personality disorder.md",
+                "file": "recursion (computer science).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "organic personality disorder.md"
+                "file": "recursion (computer science).md"
               }
             }
           },
@@ -232,6 +231,8 @@
   },
   "active": "502049e01872c813",
   "lastOpenFiles": [
+    "recursion (computer science).md",
+    "Price of Anarchy.md",
     "organic personality disorder.md",
     "psychotherapy.md",
     "autogenic training.md",
@@ -239,8 +240,6 @@
     "systemic therapy (psychotherapy).md",
     "therapy.md",
     "thermoplastic polyurethane.md",
-    "intractability.md",
-    "electrolyte.md",
-    "cardiac output.md"
+    "intractability.md"
   ]
 }
