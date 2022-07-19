@@ -12,7 +12,7 @@
 
 ### [[women]]
 1. [[testosterone]] → [[arousal]] ([[women]])^[The Happy [[Brain]]: The Science of Where [[Happiness]] Comes from, and Why, p. 124]^[Sarrel, P. M., ‘Effects of hormone replacement therapy on sexual psychophysiology and behavior in postmenopause’, Journal of [[Women]]’s [[Health]] and Gender-Based Medicine, 2000, 9(1, Supplement 1), pp. 25–32]
-	1. menopausal [[women]] undergoing hormone replacement therapy, which involves [[testosterone]], regularly report increased [[arousal]]
+	1. menopausal [[women]] undergoing hormone replacement [[therapy]], which involves [[testosterone]], regularly report increased [[arousal]]
 
 # [[men]] + [[women]]
 ## [[men]] ↮ [[women]]

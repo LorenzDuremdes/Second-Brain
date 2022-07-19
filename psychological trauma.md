@@ -6,14 +6,14 @@
 # [[psychology]]
 ## [[expressive therapies]]
 1. is "[[expressive therapies]]" effective for "psychological trauma"?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 386]
-	1. yes, especially drama therapy
+	1. yes, especially drama [[therapy]]
 		1. e.g. theater gave him a chance to deeply and physically experience what it was like to be someone other than the learning-disabled, oversensitive boy that he had gradually become
 
 ## [[psychotherapy]]
-1. which members of the group had benefited from psychological trauma therapy and which had continued to feel suicidal and [[self]]-destructive?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 171]
+1. which members of the group had benefited from psychological trauma [[therapy]] and which had continued to feel suicidal and [[self]]-destructive?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 171]
 	1. our TAQ interviews provided some answers. The patients who remained [[self]]-destructive had told us that they did not remember [[feeling]] safe with anybody as a child; they had reported being abandoned, shuttled from place to place, and generally left to their own devices
 
-		I concluded that, if you carry a [[memory]] of having felt safe with somebody long ago, the traces of that earlier affection can be reactivated in attuned relationships when you are an adult, whether these occur in daily life or in good therapy. However, if you lack a deep [[memory]] of [[feeling]] loved and safe, the receptors in the [[brain]] that respond to [[human]] kindness may simply fail to develop.
+		I concluded that, if you carry a [[memory]] of having felt safe with somebody long ago, the traces of that earlier affection can be reactivated in attuned relationships when you are an adult, whether these occur in daily life or in good [[therapy]]. However, if you lack a deep [[memory]] of [[feeling]] loved and safe, the receptors in the [[brain]] that respond to [[human]] kindness may simply fail to develop.
 		
 		This notion found further support in the work of the neuroscientist Jaak Panksepp, who found that young rats that were not licked by their moms during the first week of their lives did not develop opioid receptors in the anterior [[cingulate cortex]], a part of the [[brain]] associated with affiliation and a sense of safety.^[See E. E. Nelson and J. Panksepp, “[[Brain]] Substrates of [[Infant]] Mother Attachment: Contributions of Opioids, [[Oxytocin]], and [[Norepinephrine]],” [[Neuroscience]] & Biobehavioral Reviews 22, no. 3 (1998): 437–52. See also J. Panksepp, et al., “Endogenous Opioids and Social Behavior,” [[Neuroscience]] & Biobehavioral Reviews 4, no. 4 (1981): 473–87; and J. Panksepp, E. Nelson, and S. Siviy, “[[Brain]] Opioids and Mother-[[Infant]] Social [[Motivation]],” Acta paediatrica 83, no. 397 (1994): 40–46.]
 2. . psychological trauma (chameleon analogy)^[Alok Kanojia, Wednesday 23/06/2021]
@@ -181,7 +181,7 @@
 	1. the acting-out kids tend to get attention; the blanked-out ones don’t bother anybody and are left to lose their future bit by bit^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 90–91]
 
 ### treatment
-1. conventional talk therapy → psychological trauma · [[depersonalization]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 90]
+1. conventional talk [[therapy]] → psychological trauma · [[depersonalization]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 90]
 	1. former is not as effective in treating psychological trauma
 		1. severely traumatized people may get more out of simply helping to arrange chairs before a meeting than they would from sitting in those same chairs and discussing the failures in their life^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 106]
 	2. a bottom-up approach is more effective e.g. acupressure, tossing a ball, Pilates, dancing

@@ -1,1 +1,1 @@
-1. craniosacral therapy; a form of alternative therapy that uses gentle touch to palpate the synarthrodial joints of the cranium^[https://en.wikipedia.org/wiki/Craniosacral_therapy]
+1. craniosacral [[therapy]]; a form of alternative [[therapy]] that uses gentle touch to palpate the synarthrodial joints of the cranium^[https://en.wikipedia.org/wiki/Craniosacral_therapy]

@@ -1,3 +1,3 @@
-1. sequela; a pathological condition resulting from a [[disease]], injury, therapy, or other trauma^[https://en.wikipedia.org/wiki/Sequela]
+1. sequela; a pathological condition resulting from a [[disease]], injury, [[therapy]], or other trauma^[https://en.wikipedia.org/wiki/Sequela]
 	1. a typical sequela is a chronic complication of an acute condition—in other words, a long-term effect of a temporary [[disease]] or injury—which follows immediately from the condition
 	2. sequelae differ from late effects, which can appear long after—even several decades after—the original condition has resolved

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thermoplastic polyurethane.md",
+                "file": "therapy.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "thermoplastic polyurethane.md",
+                    "file": "therapy.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "electr",
+                "query": "therapy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thermoplastic polyurethane.md",
+                "file": "therapy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thermoplastic polyurethane.md",
+                "file": "therapy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thermoplastic polyurethane.md"
+                "file": "therapy.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "thermoplastic polyurethane.md",
+                "file": "therapy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "thermoplastic polyurethane.md",
+                "file": "therapy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "thermoplastic polyurethane.md"
+                "file": "therapy.md"
               }
             }
           },
@@ -231,15 +231,15 @@
   },
   "active": "502049e01872c813",
   "lastOpenFiles": [
-    "electrolyte.md",
+    "therapy.md",
     "thermoplastic polyurethane.md",
+    "intractability.md",
+    "electrolyte.md",
     "cardiac output.md",
     "intelligence.md",
     "cryotherapy.md",
     "recursion (computer science).md",
     "Nash equilibrium.md",
-    "John von Neumann.md",
-    "halting problem.md",
-    "photography.md"
+    "John von Neumann.md"
   ]
 }

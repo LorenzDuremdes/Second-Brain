@@ -1,2 +1,2 @@
-1. pendulation ([[psychological trauma]] therapy); gently moving in and out of accessing internal sensations and traumatic memories^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 255]
+1. pendulation ([[psychological trauma]] [[therapy]]); gently moving in and out of accessing internal sensations and traumatic memories^[The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma, p. 255]
 	1. in this way patients are helped to gradually expand their window of tolerance

@@ -46,7 +46,7 @@
 ## [[personal boundaries]]
 1. **example**
 
-	she felt guilty taking [[time]] for herself or refusing to discuss her therapy with her husband
+	she felt guilty taking [[time]] for herself or refusing to discuss her [[therapy]] with her husband
 
 	why? e.g.:
 	1. her parents violated her boundaries^[Codependency For Dummies by Darlene Lancer, p. 61]
