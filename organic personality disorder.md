@@ -1,0 +1,1 @@
+1. organic [[personality]] disorder; characterized by a significant [[personality]] change featuring abnormal behavior due to an underlying traumatic [[brain]] injury or another pathophysiological medical condition affecting the [[brain]]^[https://en.wikipedia.org/wiki/Organic_personality_disorder]
