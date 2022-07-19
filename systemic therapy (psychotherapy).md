@@ -1,0 +1,1 @@
+1. systemic [[therapy]] ([[psychotherapy]]); seeks to address people not only on the individual level, as had been the focus of earlier forms of [[therapy]], but also as people in relationships, dealing with the interactions of groups and their interactional patterns and dynamics^[https://en.wikipedia.org/wiki/Systemic_therapy_(psychotherapy)]

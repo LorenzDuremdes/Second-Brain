@@ -3,7 +3,7 @@
 		1. how? e.g. no connections?
 			1. examples?
 
-# psychotherapy
+# [[psychotherapy]]
 1. how can "subpersonalities" be used to your advantage? ([[psychotherapy]])^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 332]
 	1. e.g. the part that's hateful asking the part that's protective what it thinks of each other
 

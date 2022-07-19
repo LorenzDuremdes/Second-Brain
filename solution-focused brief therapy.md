@@ -1,0 +1,1 @@
+1. solution-focused brief [[therapy]]; a [[goal]]-directed collaborative approach to psychotherapeutic change that is conducted through direct observation of clients' responses to a series of precisely constructed questions.^[https://en.wikipedia.org/wiki/Solution-focused_brief_therapy#cite_note-de_Shazer_&_Dolan-3]
