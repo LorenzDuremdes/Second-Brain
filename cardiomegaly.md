@@ -1,0 +1,2 @@
+1. cardiomegaly; a medical condition in which the [[heart]] is enlarged^[https://en.wikipedia.org/wiki/Cardiomegaly]
+	1. Within the [[heart]], the working fibers of the myocardial tissue increase in size. As the [[heart]] works harder the actin and myosin filaments experience less overlap which increases the size of the myocardial fibers.
