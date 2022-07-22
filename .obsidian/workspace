@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cardiomegaly.md",
+                "file": "intellectual giftedness.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "cardiomegaly.md",
+                    "file": "intellectual giftedness.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cardiomegaly.md",
+                "file": "intellectual giftedness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cardiomegaly.md",
+                "file": "intellectual giftedness.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cardiomegaly.md"
+                "file": "intellectual giftedness.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cardiomegaly.md",
+                "file": "intellectual giftedness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cardiomegaly.md",
+                "file": "intellectual giftedness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cardiomegaly.md"
+                "file": "intellectual giftedness.md"
               }
             }
           },
@@ -231,6 +231,8 @@
   },
   "active": "145c438594fb3686",
   "lastOpenFiles": [
+    "air circulation (home).md",
+    "cardiomegaly.md",
     "autogenic training.md",
     "recursion (computer science).md",
     "Price of Anarchy.md",
@@ -238,8 +240,6 @@
     "psychotherapy.md",
     "solution-focused brief therapy.md",
     "systemic therapy (psychotherapy).md",
-    "therapy.md",
-    "thermoplastic polyurethane.md",
-    "intractability.md"
+    "therapy.md"
   ]
 }
