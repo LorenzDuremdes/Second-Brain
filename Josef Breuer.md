@@ -1,4 +1,4 @@
-1. Josef Breuer; developed the talking cure (cathartic method) and laid the foundation to [[psychoanalysis]] as developed by his protégé Sigmund Freud.^[https://en.wikipedia.org/wiki/Josef_Breuer#cite_note-1]
+1. Josef Breuer; developed the talking cure (cathartic method) and laid the foundation to [[psychoanalysis]] as developed by his protégé [[Sigmund Freud]].^[https://en.wikipedia.org/wiki/Josef_Breuer#cite_note-1]
 2. Josef Breuer 1877 (35 years old). Published in his Curriculum vitae. Reproduction from the archive of Institute for the History of Medicine, Vienna, Austria.^[By Albrecht Hirschmüller: Physiologie und Psychoanalyse im Leben und Werk Josef Breuers. Jahrbuch der Psychoanalyse, Beiheft Nr. 4. Verlag Hans Huber, Bern 1978. ISBN 3456806094., Public Domain, https://commons.wikimedia.org/w/index.php?curid=2547712]
 
 	<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Jozef_Breuer%2C_1877.jpg" width="200" />

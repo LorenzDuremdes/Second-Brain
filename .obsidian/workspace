@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anki.md",
+                "file": "psychoanalysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Anki.md",
+                    "file": "psychoanalysis.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "anki",
+                "query": "psychoa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anki.md",
+                "file": "psychoanalysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anki.md",
+                "file": "psychoanalysis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anki.md"
+                "file": "psychoanalysis.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anki.md",
+                "file": "psychoanalysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anki.md",
+                "file": "psychoanalysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anki.md"
+                "file": "psychoanalysis.md"
               }
             }
           },
@@ -231,15 +231,15 @@
   },
   "active": "145c438594fb3686",
   "lastOpenFiles": [
+    "Oedipus complex.md",
+    "sexual intercours.md",
+    "psychoanalysis.md",
+    "Sigmund Freud.md",
+    "Anki.md",
     "polyamory.md",
     "antidepressant.md",
     "intellectual giftedness.md",
     "air circulation (home).md",
-    "cardiomegaly.md",
-    "autogenic training.md",
-    "recursion (computer science).md",
-    "Price of Anarchy.md",
-    "organic personality disorder.md",
-    "psychotherapy.md"
+    "cardiomegaly.md"
   ]
 }

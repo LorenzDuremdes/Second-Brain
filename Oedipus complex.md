@@ -1,0 +1,1 @@
+1. Oedipus complex; in Freud's original formulation, is a purportedly universal phase in the life of a young boy in which he hates his father and wishes to have [[sexual intercourse|sex]] with his mother^[https://en.wikipedia.org/wiki/Oedipus_complex]
