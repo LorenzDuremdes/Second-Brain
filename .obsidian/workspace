@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "antidepressant.md",
+                "file": "polyamory.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "antidepressant.md",
+                    "file": "polyamory.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "antidepre",
+                "query": "POLYAM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "antidepressant.md",
+                "file": "polyamory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "antidepressant.md",
+                "file": "polyamory.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "antidepressant.md"
+                "file": "polyamory.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "antidepressant.md",
+                "file": "polyamory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "antidepressant.md",
+                "file": "polyamory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "antidepressant.md"
+                "file": "polyamory.md"
               }
             }
           },
@@ -231,6 +231,7 @@
   },
   "active": "145c438594fb3686",
   "lastOpenFiles": [
+    "antidepressant.md",
     "intellectual giftedness.md",
     "air circulation (home).md",
     "cardiomegaly.md",
@@ -239,7 +240,6 @@
     "Price of Anarchy.md",
     "organic personality disorder.md",
     "psychotherapy.md",
-    "solution-focused brief therapy.md",
-    "systemic therapy (psychotherapy).md"
+    "solution-focused brief therapy.md"
   ]
 }

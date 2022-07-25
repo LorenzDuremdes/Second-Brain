@@ -1,1 +1,1 @@
-1. asterisk (polyamory); where on person has 3 (or more) partners not involved with each other^[More Than Two: A Practical Guide to Ethical Polyamory, p. 44]
+1. asterisk ([[polyamory]]); where on person has 3 (or more) partners not involved with each other^[More Than Two: A Practical Guide to Ethical Polyamory, p. 44]
