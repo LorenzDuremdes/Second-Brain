@@ -10,7 +10,7 @@
 3. age → accuracy of answer on a cloze + why
 	1. the less you used a cloze elsewhere*the older the cloze/note, the less accurate you need to answer it due to high [[opportunity cost]]
 		1. high [[opportunity cost]] → would be more efficient to spend your [[time]] and energy on clozes you are more likely to use (in the future)
-		2. age → determines "confidence interval" alongside "frequency"
+		2. age → determines "[[confidence interval]]" alongside "frequency"
 
 # adding notes
 1. how could it be a *good* phenomenon to add something to Anki that's "obvious"?
@@ -62,12 +62,12 @@
 	1. [[social learning theory]] → [[social currency]]
 
 
-		social learning increases social currency (usually)
-		1. no, because it's redundant (you already stored it by expanding the content of "social learning theory → social currency")
+		social learning increases [[social currency]] (usually)
+		1. no, because it's redundant (you already stored it by expanding the content of "[[social learning theory]] → [[social currency]]")
 			1. **related**: [[interference theory]]
 1. why did you decide to only cloze 1 component + what
-	1. mathematical model; a description of a system using mathematical concepts and [[language]]
-		1. only clozed the latter → I will rarely use the term "mathematical model", but it's description might make me remind of this concept
+	1. [[mathematical model]]; a description of a [[system]] using mathematical concepts and [[language]]
+		1. only clozed the latter → I will rarely use the term "[[mathematical model]]", but it's description might make me remind of this concept
 			1. clozing the latter has a larger "area of effect"
 # stats
 1. how to view how many past reviews you did in e.g. a month?
@@ -84,3 +84,6 @@
 	1. nid:*n*
 2. how to search for the specific phrase e.g. "dog" (and not e.g. "doggy"?) (Anki)
 	1. Browse → w:dog
+
+# examples
+1. student acing exam in absentia using Anki^[https://www.reddit.com/r/Anki/comments/w3u737/comment/igz46mm/?utm_source=share&utm_medium=web2x&context=3]
