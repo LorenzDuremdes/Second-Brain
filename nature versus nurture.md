@@ -1,0 +1,3 @@
+# examples
+1. “The pendulum of the [[mind]] alternates between sense and nonsense, not between right and wrong.” - Carl Jung
+2. They're people just like all of us, the only difference is circumstance. In fact, if most of you all were put in the same context, most of you could probably have tossed a baby into a fire as well.^[https://www.reddit.com/r/MorbidReality/comments/w73sej/comment/ihhuhew/?utm_source=share&utm_medium=web2x&context=3]
