@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "psychoa",
+                "query": "psychodynamics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -231,15 +231,15 @@
   },
   "active": "502049e01872c813",
   "lastOpenFiles": [
-    "Oedipus complex.md",
+    "psychoanalytic theory.md",
+    "humanistic psychology.md",
     "psychoanalysis.md",
+    "psychodynamics.md",
+    "neurosis.md",
+    "Oedipus complex.md",
     "sexual intercours.md",
     "Sigmund Freud.md",
     "Anki.md",
-    "polyamory.md",
-    "antidepressant.md",
-    "intellectual giftedness.md",
-    "air circulation (home).md",
-    "cardiomegaly.md"
+    "polyamory.md"
   ]
 }
