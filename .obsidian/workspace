@@ -153,7 +153,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -229,7 +230,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "145c438594fb3686",
+  "active": "63c41187ccf072b6",
   "lastOpenFiles": [
     "nature versus nurture.md",
     "tabula rasa.md",

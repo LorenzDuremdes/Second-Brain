@@ -4,5 +4,5 @@
 
 # maximin
 1. how can one maximin Nash equilibrium?
-	1. via positive [[minimax]] (worsening it for everyone involved) → it might shift the Nash equilibrium to something more positive
+	1. lowering the maximum gain → it might shift the Nash equilibrium to something more positive
 		1. ...But they might be able to act as their own don by signing a legally binding contract to the effect that, say, any proceeds earned by either shop on a Sunday go to the other shop. By worsening the unsatisfactory equilibrium, they’d make a new and better one...^[Algorithms to Live By The Computer Science of Human Decisions by Brian Christian, Tom Griffiths, p. 193]
