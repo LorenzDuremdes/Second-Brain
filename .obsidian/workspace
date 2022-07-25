@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nature versus nurture.md",
+                "file": "Nash equilibrium.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "nature versus nurture.md",
+                    "file": "Nash equilibrium.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "psychology",
+                "query": "nash eq",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nature versus nurture.md",
+                "file": "Nash equilibrium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nature versus nurture.md",
+                "file": "Nash equilibrium.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,12 +149,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nature versus nurture.md"
+                "file": "Nash equilibrium.md"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nature versus nurture.md",
+                "file": "Nash equilibrium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nature versus nurture.md",
+                "file": "Nash equilibrium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nature versus nurture.md"
+                "file": "Nash equilibrium.md"
               }
             }
           },
@@ -230,8 +229,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "63c41187ccf072b6",
+  "active": "145c438594fb3686",
   "lastOpenFiles": [
+    "nature versus nurture.md",
+    "tabula rasa.md",
     "developmental psychology.md",
     "psychodynamics.md",
     "psychoanalysis.md",
@@ -239,8 +240,6 @@
     "humanistic psychology.md",
     "neurosis.md",
     "Oedipus complex.md",
-    "sexual intercours.md",
-    "Sigmund Freud.md",
-    "Anki.md"
+    "sexual intercours.md"
   ]
 }

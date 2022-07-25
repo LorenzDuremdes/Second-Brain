@@ -1,0 +1,4 @@
+1. tabula rasa; the theory that individuals are born without built-in mental content, and therefore all [[knowledge]] comes from experience or perception^[https://en.wikipedia.org/wiki/Tabula_rasa]
+2. Tabula rasa is a Latin phrase often translated as clean slate in English and originates from the Roman tabula, a wax-covered tablet used for notes, which was blanked (rasa) by heating the wax and then smoothing it.^[https://en.wikipedia.org/wiki/Tabula_rasa#cite_note-Smith-1]
+3. Roman tabula or wax tablet with stylus^[By Sippel2707, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=17729778]
+	<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Wachstafel.jpg" width="300" />
