@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nash equilibrium.md",
+                "file": "over-under intervals.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Nash equilibrium.md",
+                    "file": "over-under intervals.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nash eq",
+                "query": "over under interval",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nash equilibrium.md",
+                "file": "over-under intervals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nash equilibrium.md",
+                "file": "over-under intervals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,12 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nash equilibrium.md"
+                "file": "over-under intervals.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nash equilibrium.md",
+                "file": "over-under intervals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nash equilibrium.md",
+                "file": "over-under intervals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nash equilibrium.md"
+                "file": "over-under intervals.md"
               }
             }
           },
@@ -230,8 +230,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "63c41187ccf072b6",
+  "active": "cf5a0a85f5240eff",
   "lastOpenFiles": [
+    "Nash equilibrium.md",
     "nature versus nurture.md",
     "tabula rasa.md",
     "developmental psychology.md",
@@ -240,7 +241,6 @@
     "psychoanalytic theory.md",
     "humanistic psychology.md",
     "neurosis.md",
-    "Oedipus complex.md",
-    "sexual intercours.md"
+    "Oedipus complex.md"
   ]
 }
