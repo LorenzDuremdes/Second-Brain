@@ -11,4 +11,4 @@
 	1. could be, because a PRC shows all the possible states of a system, ≤4-dimensional
 	2. 5-dimensional → not related
 2. [[Granger causality]] → e.g. the curve of "melatonin" and its history predicts the future of "[[sleep]] pressure" more than the history of "[[sleep]] pressure" itself does to its future
-3. [[functional connectivity]] → deviation from statistical independence + temporal correlation
+3. [[functional connectivity]] → deviation from statistical independence + temporal [[correlation]]

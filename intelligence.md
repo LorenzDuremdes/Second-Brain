@@ -90,7 +90,7 @@
 # high intelligence
 1. high intelligence → "simple" questions are complicated
 	1. This is why high+ gifted people often seem so out of sync with those around them. The question “how are you today?” can feel extremely complex (How am I about which aspect of my life? Why are you asking? How should I be? and so on)
-2. positive correlation between [[emotion|emotional]] intensity and intelligence (especially in girls)?
+2. positive [[correlation]] between [[emotion|emotional]] intensity and intelligence (especially in girls)?
 	1. e.g. ProjektMelody, Hanna Freriks, yourself, Anne-Lynn de Kock
 	2. better [[neurophysiology|hardware]] → increases intensity of all?
 

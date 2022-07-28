@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "over-under intervals.md",
+                "file": "correlation.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "over-under intervals.md",
+                    "file": "correlation.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "over under interval",
+                "query": "correlation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "over-under intervals.md",
+                "file": "correlation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "over-under intervals.md",
+                "file": "correlation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,12 +149,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "over-under intervals.md"
+                "file": "correlation.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "over-under intervals.md",
+                "file": "correlation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "over-under intervals.md",
+                "file": "correlation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "over-under intervals.md"
+                "file": "correlation.md"
               }
             }
           },
@@ -230,17 +229,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cf5a0a85f5240eff",
+  "active": "145c438594fb3686",
   "lastOpenFiles": [
+    "entropy (information theory).md",
+    "correlation.md",
+    "over-under intervals.md",
     "Nash equilibrium.md",
     "nature versus nurture.md",
     "tabula rasa.md",
     "developmental psychology.md",
     "psychodynamics.md",
     "psychoanalysis.md",
-    "psychoanalytic theory.md",
-    "humanistic psychology.md",
-    "neurosis.md",
-    "Oedipus complex.md"
+    "psychoanalytic theory.md"
   ]
 }
