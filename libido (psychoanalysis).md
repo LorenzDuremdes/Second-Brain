@@ -1,0 +1,1 @@
+1. libido ([[psychoanalysis]]); drift to live ↮ die^[Psychotherapie en Psychiatrie, 2.5]

@@ -1,0 +1,2 @@
+1. genital stage ([[psychoanalysis]]); the individual develops a strong sexual interest in people outside of the [[family]]^[https://en.wikipedia.org/wiki/Genital_stage]
+	1. the genital stage coincides with the phallic stage, in that its main concern is the genitalia; however, this concern is now conscious

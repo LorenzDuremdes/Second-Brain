@@ -1,0 +1,2 @@
+1. latency stage ([[psychoanalysis]]); the child realizes that their wishes and longings for the parent of the opposite [[sex]] cannot be fulfilled and will turn away from these desires. The libido is transferred from parents to friends of the same [[sex]], clubs, and hero/role-model figures^[https://en.wikipedia.org/wiki/Latency_stage]
+	1. the latency stage may begin around the age of 7 (the end of early childhood) and may continue until puberty, which happens around the age of 13

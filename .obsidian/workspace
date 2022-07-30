@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "correlation.md",
+                "file": "Sigmund Freud.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "correlation.md",
+                    "file": "Sigmund Freud.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "correlation",
+                "query": "hypnos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "correlation.md",
+                "file": "Sigmund Freud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "correlation.md",
+                "file": "Sigmund Freud.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "correlation.md"
+                "file": "Sigmund Freud.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "correlation.md",
+                "file": "Sigmund Freud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "correlation.md",
+                "file": "Sigmund Freud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "correlation.md"
+                "file": "Sigmund Freud.md"
               }
             }
           },
@@ -231,15 +231,15 @@
   },
   "active": "145c438594fb3686",
   "lastOpenFiles": [
-    "entropy (information theory).md",
+    "genital stage (psychoanalysis).md",
+    "latency stage (psychoanalysis).md",
+    "anal stage (psychoanalysis).md",
+    "oral stage (psychoanalysis).md",
+    "libido (psychoanalysis).md",
+    "id, ego, super-ego.md",
+    "functional threshold power.md",
     "correlation.md",
-    "over-under intervals.md",
-    "Nash equilibrium.md",
-    "nature versus nurture.md",
-    "tabula rasa.md",
-    "developmental psychology.md",
-    "psychodynamics.md",
-    "psychoanalysis.md",
-    "psychoanalytic theory.md"
+    "entropy (information theory).md",
+    "over-under intervals.md"
   ]
 }

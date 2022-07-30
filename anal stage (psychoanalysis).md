@@ -1,0 +1,1 @@
+1. anal stage ([[psychoanalysis]]); according to Freud, the anus is the primary erogenous zone and pleasure is derived from controlling bladder and bowel movement (~18–36 months)^[https://en.wikipedia.org/wiki/Anal_stage]

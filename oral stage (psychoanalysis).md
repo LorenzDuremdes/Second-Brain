@@ -1,0 +1,2 @@
+1. oral stage ([[psychoanalysis]]); denotes the first psychosexual development stage wherein the mouth of the [[infant]] is their primary erogenous zone (from birth to ~18 months)^[https://en.wikipedia.org/wiki/Oral_stage]
+	1. because it is the [[infant]]'s first [[human]] relationship—biological (nutritive) and psychological (emotional)—its duration depends upon the child-rearing mores of the mother's [[society]]
