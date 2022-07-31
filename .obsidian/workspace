@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sigmund Freud.md",
+                "file": "souplesse (road cycling).md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Sigmund Freud.md",
+                    "file": "souplesse (road cycling).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hypnos",
+                "query": "souplesse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sigmund Freud.md",
+                "file": "souplesse (road cycling).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sigmund Freud.md",
+                "file": "souplesse (road cycling).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sigmund Freud.md"
+                "file": "souplesse (road cycling).md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sigmund Freud.md",
+                "file": "souplesse (road cycling).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sigmund Freud.md",
+                "file": "souplesse (road cycling).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sigmund Freud.md"
+                "file": "souplesse (road cycling).md"
               }
             }
           },
@@ -229,8 +229,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "145c438594fb3686",
+  "active": "502049e01872c813",
   "lastOpenFiles": [
+    "aerodynamics (road cycling).md",
+    "Sigmund Freud.md",
     "genital stage (psychoanalysis).md",
     "latency stage (psychoanalysis).md",
     "anal stage (psychoanalysis).md",
@@ -238,8 +240,6 @@
     "libido (psychoanalysis).md",
     "id, ego, super-ego.md",
     "functional threshold power.md",
-    "correlation.md",
-    "entropy (information theory).md",
-    "over-under intervals.md"
+    "correlation.md"
   ]
 }
