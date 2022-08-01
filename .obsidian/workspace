@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "souplesse (road cycling).md",
+                "file": "'the ultimate pill'.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "souplesse (road cycling).md",
+                    "file": "'the ultimate pill'.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "souplesse (road cycling).md",
+                "file": "'the ultimate pill'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "souplesse (road cycling).md",
+                "file": "'the ultimate pill'.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "souplesse (road cycling).md"
+                "file": "'the ultimate pill'.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "souplesse (road cycling).md",
+                "file": "'the ultimate pill'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "souplesse (road cycling).md",
+                "file": "'the ultimate pill'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "souplesse (road cycling).md"
+                "file": "'the ultimate pill'.md"
               }
             }
           },
@@ -231,15 +231,15 @@
   },
   "active": "502049e01872c813",
   "lastOpenFiles": [
+    "the ultimate pill (resistance training).webp",
+    "'the ultimate pill'.md",
+    "souplesse (road cycling).md",
     "aerodynamics (road cycling).md",
     "Sigmund Freud.md",
     "genital stage (psychoanalysis).md",
     "latency stage (psychoanalysis).md",
     "anal stage (psychoanalysis).md",
     "oral stage (psychoanalysis).md",
-    "libido (psychoanalysis).md",
-    "id, ego, super-ego.md",
-    "functional threshold power.md",
-    "correlation.md"
+    "libido (psychoanalysis).md"
   ]
 }
