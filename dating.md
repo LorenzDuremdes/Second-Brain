@@ -12,6 +12,7 @@
 	1. Hey,
 
 		The best players are quite meticulous when it comes to their game. Ponder on ways to improve and execute.
+2. And while playing poker, if you play consistently, there's the well-understood notion that no matter how well you play the odds, there will be times, maybe even a string of times where you lose.^[https://www.reddit.com/r/dating/comments/wdishv/something_that_everyone_needs_to_hear_at_some/?utm_source=share&utm_medium=web2x&context=3]
 
 # modern dating [[culture]]
 1. why probably did "being too available" became a thing?^[https://www.reddit.com/r/dating_advice/comments/i6ldhp/comment/g0wpgcu/?utm_source=share&utm_medium=web2x&context=3]

@@ -8,7 +8,7 @@
 		1. evolutionarily advantageous e.g. quicker decision-making
 
 # biopsychology
-1. Dr. David McPhee's response on "I always feel when I go out in public, my experiences with the general public feel negative. **Is it just in my head**? I have social anxiety."^[https://qr.ae/pGD2aW]
+1. [[Dr. David McPhee]]'s response on "I always feel when I go out in public, my experiences with the general public feel negative. **Is it just in my head**? I have social anxiety."^[https://qr.ae/pGD2aW]
 	1. **No**, it’s not just in your head. Anxiety is very real and can cause a lot of suffering, and it is very **physical**.
 
 # [[interpersonal relationship]]

@@ -1,0 +1,1 @@
+1. identification ([[psychology]]); a psychological process whereby the individual assimilates an aspect, property, or attribute of the other and is transformed wholly or partially by the model that other provides^[https://en.wikipedia.org/wiki/Identification_(psychology)]
