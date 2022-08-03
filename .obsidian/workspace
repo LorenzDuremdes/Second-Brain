@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dr. David McPhee.md",
+                "file": "dementia.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Dr. David McPhee.md",
+                    "file": "dementia.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "freud",
+                "query": "dementia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dr. David McPhee.md",
+                "file": "dementia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dr. David McPhee.md",
+                "file": "dementia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dr. David McPhee.md"
+                "file": "dementia.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dr. David McPhee.md",
+                "file": "dementia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dr. David McPhee.md",
+                "file": "dementia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dr. David McPhee.md"
+                "file": "dementia.md"
               }
             }
           },
@@ -231,15 +231,15 @@
   },
   "active": "502049e01872c813",
   "lastOpenFiles": [
+    "cronyism.md",
+    "conversion disorder.md",
+    "isolation (psychology).md",
+    "psychological projection.md",
+    "Dr. David McPhee.md",
     "regression (psychology).md",
     "identification (psychology).md",
     "repression (psychoanalysis).md",
     "dating.md",
-    "'the ultimate pill'.md",
-    "the ultimate pill (resistance training).webp",
-    "souplesse (road cycling).md",
-    "aerodynamics (road cycling).md",
-    "Sigmund Freud.md",
-    "genital stage (psychoanalysis).md"
+    "'the ultimate pill'.md"
   ]
 }

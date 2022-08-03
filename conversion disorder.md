@@ -1,0 +1,2 @@
+1. conversion disorder; it is sometimes applied to patients who present with neurological symptoms, such as numbness, blindness, paralysis, or fits, which are not consistent with a well-established organic cause, which cause significant distress, and can be traced back to a psychological trigger^[https://en.wikipedia.org/wiki/Conversion_disorder]
+2. ICD-10 classifies conversion disorder as a dissociative disorder^[https://en.wikipedia.org/wiki/Conversion_disorder#cite_note-1] while DSM-IV classifies it as a somatoform disorder

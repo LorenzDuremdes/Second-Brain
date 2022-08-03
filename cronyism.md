@@ -1,0 +1,2 @@
+1. cronyism; the practice of partiality in awarding jobs and other advantages to friends or trusted colleagues, especially in politics and between politicians and supportive organizations.^[https://en.wikipedia.org/wiki/Cronyism#cite_note-1]
+2. nepotism is more toward relatives (see: https://en.wikipedia.org/wiki/Favoritism)
