@@ -153,8 +153,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -230,7 +229,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "63c41187ccf072b6",
+  "active": "145c438594fb3686",
   "lastOpenFiles": [
     "dementia.md",
     "cronyism.md",
