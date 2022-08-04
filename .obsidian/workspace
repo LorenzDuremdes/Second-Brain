@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dementia.md",
+                "file": "companionate love.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "dementia.md",
+                    "file": "companionate love.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dementia",
+                "query": "love",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dementia.md",
+                "file": "companionate love.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dementia.md",
+                "file": "companionate love.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,11 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dementia.md"
+                "file": "companionate love.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -173,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dementia.md",
+                "file": "companionate love.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dementia.md",
+                "file": "companionate love.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dementia.md"
+                "file": "companionate love.md"
               }
             }
           },
@@ -229,8 +230,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "502049e01872c813",
+  "active": "63c41187ccf072b6",
   "lastOpenFiles": [
+    "dementia.md",
     "cronyism.md",
     "conversion disorder.md",
     "isolation (psychology).md",
@@ -239,7 +241,6 @@
     "regression (psychology).md",
     "identification (psychology).md",
     "repression (psychoanalysis).md",
-    "dating.md",
-    "'the ultimate pill'.md"
+    "dating.md"
   ]
 }
