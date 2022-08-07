@@ -1,0 +1,1 @@
+1. injunction; a legal and equitable remedy in the form of a special court order that compels a party to do or refrain from specific acts.^[https://en.wikipedia.org/wiki/Injunction#cite_note-injunctive_relief-1]

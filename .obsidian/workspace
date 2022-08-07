@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unconscious mind.md",
+                "file": "injunction.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "unconscious mind.md",
+                    "file": "injunction.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "unconscious",
+                "query": "mechanism design",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unconscious mind.md",
+                "file": "injunction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unconscious mind.md",
+                "file": "injunction.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,11 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unconscious mind.md"
+                "file": "injunction.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -173,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unconscious mind.md",
+                "file": "injunction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unconscious mind.md",
+                "file": "injunction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unconscious mind.md"
+                "file": "injunction.md"
               }
             }
           },
@@ -229,17 +230,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "145c438594fb3686",
+  "active": "63c41187ccf072b6",
   "lastOpenFiles": [
+    "mechanism design.md",
+    "backward induction.md",
+    "algorithmic mechanism design.md",
+    "unconscious mind.md",
     "undoing (psychology).md",
     "psychoanalysis.md",
     "psychosociale afweer.md",
     "reaction formation.md",
     "defense mechanism.md",
-    "futurism fashion.md",
-    "companionate love.md",
-    "dementia.md",
-    "cronyism.md",
-    "conversion disorder.md"
+    "futurism fashion.md"
   ]
 }
