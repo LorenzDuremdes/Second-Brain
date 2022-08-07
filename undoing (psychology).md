@@ -1,0 +1,2 @@
+1. undoing ([[psychology]]); a [[defense mechanism]] in which a person tries to cancel out or remove an unhealthy, destructive or otherwise threatening thought or action by engaging in contrary behavior^[https://en.wikipedia.org/wiki/Undoing_(psychology)]
+	1. for example, after thinking about being violent with someone, one would then be overly nice or accommodating to them

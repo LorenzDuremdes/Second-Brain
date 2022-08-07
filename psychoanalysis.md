@@ -13,5 +13,12 @@
 1. [[developmental psychology]] (psychoanalysis > [[Sigmund Freud]])
 	1. Freud presumed that the sexual wishes and fantasies of the child to their father/mother could lead to psychological disorders^[Psychotherapie en Psychiatrie, 2.2]
 
+# contraindications
+1. can psychoanalysis be applied to acute [[depression]] + psychoses? why?
+	1. probably not, because the acute symptoms are the main priority (e.g. through medication)^[Psychotherapie en Psychiatrie, 3.3.3]
+		1. what could happen if you do try this?
+			1. e.g. the patient can't handle the recollection of [[psychological trauma]]
+			2. those suffering from a psychosis (mostly) cannot engage in [[self]]-reflection (high priority for psychoanalysis)
+
 # related
 1. [[psychotherapy]]
