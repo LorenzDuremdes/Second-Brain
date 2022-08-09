@@ -1,0 +1,1 @@
+1. fractional utilization; the percentage of VO2max that can be sustained during an event, it doesn't matter whether it's bike, run, swim or skipping for that matter^[https://www.intelligent-triathlon-training.com/articles/fractional-utilisation-whats-is-it-and-why-you-need-to-know-about-it]

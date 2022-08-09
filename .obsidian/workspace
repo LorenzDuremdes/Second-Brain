@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "elegant variation.md",
+                "file": "fractional utilization.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "elegant variation.md",
+                    "file": "fractional utilization.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "elegant variation.md",
+                "file": "fractional utilization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "elegant variation.md",
+                "file": "fractional utilization.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "elegant variation.md"
+                "file": "fractional utilization.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "elegant variation.md",
+                "file": "fractional utilization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "elegant variation.md",
+                "file": "fractional utilization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "elegant variation.md"
+                "file": "fractional utilization.md"
               }
             }
           },
@@ -229,8 +229,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "145c438594fb3686",
+  "active": "502049e01872c813",
   "lastOpenFiles": [
+    "peloton (road bicycle racing).md",
+    "elegant variation.md",
     "Wikipedia.md",
     "injunction.md",
     "mechanism design.md",
@@ -238,8 +240,6 @@
     "algorithmic mechanism design.md",
     "unconscious mind.md",
     "undoing (psychology).md",
-    "psychoanalysis.md",
-    "psychosociale afweer.md",
-    "reaction formation.md"
+    "psychoanalysis.md"
   ]
 }
