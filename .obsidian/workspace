@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mechanism design",
+                "query": "recursion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
