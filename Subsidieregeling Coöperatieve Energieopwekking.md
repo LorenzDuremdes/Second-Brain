@@ -1,0 +1,2 @@
+1. Subsidieregeling Coöperatieve Energieopwekking; kun je als energiecoöperatie of Vereniging van Eigenaren (VvE) gezamenlijk investeren in een productie-installatie om duurzame energie mee op te wekken^[https://www.hieropgewekt.nl/SCE]
+	1. denk aan zonnepanelen, windmolens of waterkracht
