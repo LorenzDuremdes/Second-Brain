@@ -1,0 +1,1 @@
+1. _Übertragung_ (transference); a phenomenon within psychotherapy in which the feelings a person had about one thing are unconsciously redirected or transferred to the present situation^[https://en.wikipedia.org/wiki/Transference]

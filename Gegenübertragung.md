@@ -1,0 +1,1 @@
+1. _Gegenübertragung_ (countertransference); defined as redirection of a psychotherapist's feelings toward a client – or, more generally, as a therapist's emotional entanglement with a client^[https://en.wikipedia.org/wiki/Countertransference]

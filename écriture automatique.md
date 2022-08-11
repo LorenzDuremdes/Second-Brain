@@ -1,0 +1,1 @@
+1. écriture automatique; schrijven zonder vooropgezet idee, met het doel de tekst te gebruiken voor een literair doel^[https://nl.wikipedia.org/wiki/Automatisch_schrijven]

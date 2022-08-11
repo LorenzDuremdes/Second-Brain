@@ -1,0 +1,1 @@
+1. body-centred countertransference; involves a psychotherapist's experiencing the physical state of the patient in a clinical context.^[https://en.wikipedia.org/wiki/Body-centred_countertransference#cite_note-1]

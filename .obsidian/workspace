@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subsidieregeling Coöperatieve Energieopwekking.md",
+                "file": "transference neurosis.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Subsidieregeling Coöperatieve Energieopwekking.md",
+                    "file": "transference neurosis.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subsidieregeling Coöperatieve Energieopwekking.md",
+                "file": "transference neurosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subsidieregeling Coöperatieve Energieopwekking.md",
+                "file": "transference neurosis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,12 +149,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subsidieregeling Coöperatieve Energieopwekking.md"
+                "file": "transference neurosis.md"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subsidieregeling Coöperatieve Energieopwekking.md",
+                "file": "transference neurosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Subsidieregeling Coöperatieve Energieopwekking.md",
+                "file": "transference neurosis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Subsidieregeling Coöperatieve Energieopwekking.md"
+                "file": "transference neurosis.md"
               }
             }
           },
@@ -230,17 +229,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "63c41187ccf072b6",
+  "active": "145c438594fb3686",
   "lastOpenFiles": [
+    "body-centred countertransference.md",
+    "Gegenübertragung.md",
+    "Übertragung.md",
+    "écriture automatique.md",
+    "Subsidieregeling Coöperatieve Energieopwekking.md",
     "fractional utilization.md",
     "peloton (road bicycle racing).md",
     "elegant variation.md",
     "Wikipedia.md",
-    "injunction.md",
-    "mechanism design.md",
-    "backward induction.md",
-    "algorithmic mechanism design.md",
-    "unconscious mind.md",
-    "undoing (psychology).md"
+    "injunction.md"
   ]
 }
