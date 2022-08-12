@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "transference neurosis.md",
+                "file": "exotic food.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "transference neurosis.md",
+                    "file": "exotic food.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "transference neurosis.md",
+                "file": "exotic food.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "transference neurosis.md",
+                "file": "exotic food.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "transference neurosis.md"
+                "file": "exotic food.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "transference neurosis.md",
+                "file": "exotic food.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "transference neurosis.md",
+                "file": "exotic food.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "transference neurosis.md"
+                "file": "exotic food.md"
               }
             }
           },
@@ -229,17 +229,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "145c438594fb3686",
+  "active": "502049e01872c813",
   "lastOpenFiles": [
+    "exotic food.md",
+    "Untitled 1.md",
+    "transference neurosis.md",
     "body-centred countertransference.md",
     "Gegenübertragung.md",
     "Übertragung.md",
     "écriture automatique.md",
     "Subsidieregeling Coöperatieve Energieopwekking.md",
     "fractional utilization.md",
-    "peloton (road bicycle racing).md",
-    "elegant variation.md",
-    "Wikipedia.md",
-    "injunction.md"
+    "peloton (road bicycle racing).md"
   ]
 }
