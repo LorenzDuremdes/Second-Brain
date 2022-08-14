@@ -1,0 +1,2 @@
+1. abstinence ([[psychoanalysis]]); the principle of analytic reticence and/or frustration within a clinical situation
+	1. the concept of optimal responsiveness – balancing frustration and [[gratification]] from moment to moment – offers some [[mediation]] in the dispute.^[https://en.wikipedia.org/wiki/Abstinence_(psychoanalysis)#cite_note-9]

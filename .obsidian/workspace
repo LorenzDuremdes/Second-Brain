@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minecraft.md",
+                "file": "wet geneeskundige behandelingsovereenkomst.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Minecraft.md",
+                    "file": "wet geneeskundige behandelingsovereenkomst.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minecraft.md",
+                "file": "wet geneeskundige behandelingsovereenkomst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minecraft.md",
+                "file": "wet geneeskundige behandelingsovereenkomst.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minecraft.md"
+                "file": "wet geneeskundige behandelingsovereenkomst.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minecraft.md",
+                "file": "wet geneeskundige behandelingsovereenkomst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minecraft.md",
+                "file": "wet geneeskundige behandelingsovereenkomst.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minecraft.md"
+                "file": "wet geneeskundige behandelingsovereenkomst.md"
               }
             }
           },
@@ -231,15 +231,15 @@
   },
   "active": "502049e01872c813",
   "lastOpenFiles": [
-    "bulking.md",
+    "wet op de beroepen in de individuele gezondheidszorg.md",
+    "wet geneeskundige behandelingsovereenkomst.md",
+    "abstinence (psychoanalysis).md",
+    "resistance (psychoanalysis).md",
     "Minecraft.md",
+    "bulking.md",
     "Franklin Veaux.md",
     "exotic food.md",
     "Untitled 1.md",
-    "transference neurosis.md",
-    "body-centred countertransference.md",
-    "Gegenübertragung.md",
-    "Übertragung.md",
-    "écriture automatique.md"
+    "transference neurosis.md"
   ]
 }

@@ -1,0 +1,1 @@
+1. resistance ([[psychoanalysis]]); refers to oppositional behavior when an individual's unconscious defenses of the ego are threatened by an external source^[https://en.wikipedia.org/wiki/Resistance_(psychoanalysis)]

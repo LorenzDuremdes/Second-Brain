@@ -1,0 +1,1 @@
+1. wet op de beroepen in de individuele gezondheidszorg (Wet BIG); een van de Nederlandse wetten waarmee is vastgelegd op welke manier personen tot handelingen op het gebied van de individuele gezondheidszorg bevoegd zijn^[https://nl.wikipedia.org/wiki/Wet_op_de_beroepen_in_de_individuele_gezondheidszorg]
