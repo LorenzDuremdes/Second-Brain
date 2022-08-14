@@ -1,3 +1,4 @@
+# [[personality]]
 1. how was Franklin Veaux when he was younger?^[https://qr.ae/pNyfyf]
 	1. I was shy. I didn't know how to talk to people. I didn't know how to make friends. Everyone around me seemed to just naturally know how to do all those things that I couldn't do. You can imagine how overwhelmed I felt.
 
@@ -8,6 +9,8 @@
 
 # secure attachment
 1. [How would you react if you saw your significant other kissing someone else in a bar?](https://qr.ae/pv5qYN)
+2. How do I cope with my significant other kissing and acting romantically with another person on a break? I told him I'll still be faithful in this situation but he didn't do the same. He regrets it now
+	1. You’re on a break. Not together. Not [[dating]], not shagging, not knocking boots, not doing the deed. From the instant the break starts you are both free agents.^[https://qr.ae/pv5qFC]
 
 ## ex
 1. [Can you stay friends with an ex?](https://qr.ae/pNspjH)
@@ -19,3 +22,7 @@
 7. [I personally have found that the ability to be friends with exes correlates strongly with emotional maturity.](https://qr.ae/pGSK5z)
 8. [No. If you are friends with your ex, it means you understand that love does not conquer all, that you can be in love with someone and still not be the right person for them, and that being in love does not mean you must be in a relationship.](https://qr.ae/pGSKwi)
 9. [If someone tells you that your ex would only do this to keep you as a backup plan, they haven't told you anything about your ex, but they have told you a lot about themselves.](https://qr.ae/pGSKbD) 
+
+# porn
+1. Why do I feel jealous and hurt knowing that my boyfriend watches porn?^[https://qr.ae/pv5qC1]
+	1. When you truly understand that, the [[jealousy]] evaporates like morning dew.
