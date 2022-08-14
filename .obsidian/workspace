@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Franklin Veaux.md",
+                "file": "Minecraft.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Franklin Veaux.md",
+                    "file": "Minecraft.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "franklin",
+                "query": "minecraft",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Franklin Veaux.md",
+                "file": "Minecraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Franklin Veaux.md",
+                "file": "Minecraft.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Franklin Veaux.md"
+                "file": "Minecraft.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Franklin Veaux.md",
+                "file": "Minecraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Franklin Veaux.md",
+                "file": "Minecraft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Franklin Veaux.md"
+                "file": "Minecraft.md"
               }
             }
           },
@@ -231,6 +231,7 @@
   },
   "active": "145c438594fb3686",
   "lastOpenFiles": [
+    "Franklin Veaux.md",
     "exotic food.md",
     "Untitled 1.md",
     "transference neurosis.md",
@@ -239,7 +240,6 @@
     "Übertragung.md",
     "écriture automatique.md",
     "Subsidieregeling Coöperatieve Energieopwekking.md",
-    "fractional utilization.md",
-    "peloton (road bicycle racing).md"
+    "fractional utilization.md"
   ]
 }

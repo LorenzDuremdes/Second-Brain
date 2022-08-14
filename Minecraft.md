@@ -14,6 +14,12 @@
 ## megastructures
 1. [Minewind DonFuer branch - Library of the Sun!](https://www.youtube.com/watch?v=UfrWJOwQ84Y)
 
+## griefing
+1. how much TNT do griefers perhaps have? (Minecraft)^[https://www.youtube.com/watch?v=E-42_-jy05M]
+	1. there's at least a video where you can make ~600 TNT per hour (you also have to craft it and mine sand, so perhaps more like ~400/h)
+2. 1 TNT can destroy 16 blocks with 0 blast resistance maximum
+	1. placing 1 block every second is probably good enough to build faster than they can grief
+
 # enhancing experience
 ## visual
 1. optimal **screenshot** FOV (Minecraft)=30^[https://www.reddit.com/r/Minecraft/comments/ku6pxt/few_tips_on_how_to_make_screenshots_look_better/]
