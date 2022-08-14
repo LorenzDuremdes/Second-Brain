@@ -12,7 +12,9 @@
 	1. use doors to keep water outside while allowing you to work externally (from inside)
 
 ## megastructures
-1. [Minewind DonFuer branch - Library of the Sun!](https://www.youtube.com/watch?v=UfrWJOwQ84Y)
+1. how long does it usually take Minecraft players for a megabuild?
+	1. months^[https://www.reddit.com/r/Minecraftbuilds/comments/wmq49s/hey_guys_check_out_the_castle_i_built_over_the/]
+2. [Minewind DonFuer branch - Library of the Sun!](https://www.youtube.com/watch?v=UfrWJOwQ84Y)
 
 ## griefing
 1. how much TNT do griefers perhaps have? (Minecraft)^[https://www.youtube.com/watch?v=E-42_-jy05M]
