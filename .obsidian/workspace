@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minecraft.md",
+                "file": "psychoanalysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Minecraft.md",
+                    "file": "psychoanalysis.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bulking",
+                "query": "psychoana",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minecraft.md",
+                "file": "psychoanalysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minecraft.md",
+                "file": "psychoanalysis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minecraft.md"
+                "file": "psychoanalysis.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minecraft.md",
+                "file": "psychoanalysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minecraft.md",
+                "file": "psychoanalysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minecraft.md"
+                "file": "psychoanalysis.md"
               }
             }
           },
@@ -229,10 +229,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "502049e01872c813",
+  "active": "145c438594fb3686",
   "lastOpenFiles": [
-    "dementia.md",
     "Minecraft.md",
+    "dementia.md",
     "wet geneeskundige behandelingsovereenkomst.md",
     "wet op de beroepen in de individuele gezondheidszorg.md",
     "abstinence (psychoanalysis).md",
