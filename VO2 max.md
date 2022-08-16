@@ -4,3 +4,7 @@
 3. body weight → VO2 max
 	1. reducing your body weight increases VO2 max (if you don't lose/less proportional reduction in VO2 max)
 4. high-level amateur (VO2max) ≈ 70 ml/kg/min^[Laursen et al. (2002)]^[The Time-Crunched Cyclist: Race-Winning Fitness in 6 Hours a Week, 3rd Edition, p. 11]
+
+# Z5 training
+1. ◇it could perhaps be better to increase duration (VO2 max)
+	1. e.g. being able to hold Z5 longer due to e.g. more replenished [[glycogen]] + less SNS fatigue (latter exponential decay)

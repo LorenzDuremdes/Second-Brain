@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fractional utilization.md",
+                "file": "VO2 max.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "fractional utilization.md",
+                    "file": "VO2 max.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fractional",
+                "query": "vo2 max",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fractional utilization.md",
+                "file": "VO2 max.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fractional utilization.md",
+                "file": "VO2 max.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fractional utilization.md"
+                "file": "VO2 max.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fractional utilization.md",
+                "file": "VO2 max.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fractional utilization.md",
+                "file": "VO2 max.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fractional utilization.md"
+                "file": "VO2 max.md"
               }
             }
           },
@@ -231,6 +231,7 @@
   },
   "active": "145c438594fb3686",
   "lastOpenFiles": [
+    "fractional utilization.md",
     "Minecraft.md",
     "psychoanalysis.md",
     "dementia.md",
@@ -239,7 +240,6 @@
     "abstinence (psychoanalysis).md",
     "resistance (psychoanalysis).md",
     "bulking.md",
-    "Franklin Veaux.md",
-    "exotic food.md"
+    "Franklin Veaux.md"
   ]
 }
