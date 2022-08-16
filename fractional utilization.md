@@ -1,1 +1,2 @@
 1. fractional utilization; the percentage of VO2max that can be sustained during an event, it doesn't matter whether it's bike, run, swim or skipping for that matter^[https://www.intelligent-triathlon-training.com/articles/fractional-utilisation-whats-is-it-and-why-you-need-to-know-about-it]
+2. ...the one athlete can maintain a power of, for example, 150 percent of FTP for about 4 minutes, while the other athlete can do so for only about one minute.^[https://www.trainerroad.com/forum/t/vo2-max-intervals-and-ftp/48272/3?u=lorenz_duremdes]
