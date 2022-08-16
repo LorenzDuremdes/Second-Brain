@@ -14,8 +14,11 @@
 ## megastructures
 1. how long does it usually take Minecraft players for a megabuild?
 	1. months^[https://www.reddit.com/r/Minecraftbuilds/comments/wmq49s/hey_guys_check_out_the_castle_i_built_over_the/]
-2. [Minewind DonFuer branch - Library of the Sun!](https://www.youtube.com/watch?v=UfrWJOwQ84Y)
-3. ruins of Space Valkyria (2b2t < Minecraft)^[https://www.youtube.com/watch?v=zJI0iaxoPf0]^[https://www.youtube.com/watch?v=4bAeuh0yX74]
+2. how could you perhaps best visualize (the feeling) of megastructures (Minecraft)?
+	1. compare it with yourself
+	2. from afar (with comparisons)
+3. [Minewind DonFuer branch - Library of the Sun!](https://www.youtube.com/watch?v=UfrWJOwQ84Y)
+4. ruins of Space Valkyria (2b2t < Minecraft)^[https://www.youtube.com/watch?v=zJI0iaxoPf0]^[https://www.youtube.com/watch?v=4bAeuh0yX74]
 	1. [Jacktherippa's YouTube channel](https://www.youtube.com/c/Jacktherippa84)
 
 ## griefing
