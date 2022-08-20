@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VO2 max.md",
+                "file": "discriminative stimulus.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "VO2 max.md",
+                    "file": "discriminative stimulus.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vo2 max",
+                "query": "discriminative stimulus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VO2 max.md",
+                "file": "discriminative stimulus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VO2 max.md",
+                "file": "discriminative stimulus.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VO2 max.md"
+                "file": "discriminative stimulus.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VO2 max.md",
+                "file": "discriminative stimulus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VO2 max.md",
+                "file": "discriminative stimulus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VO2 max.md"
+                "file": "discriminative stimulus.md"
               }
             }
           },
@@ -231,6 +231,8 @@
   },
   "active": "145c438594fb3686",
   "lastOpenFiles": [
+    "noncontingent reinforcement.md",
+    "VO2 max.md",
     "fractional utilization.md",
     "Minecraft.md",
     "psychoanalysis.md",
@@ -238,8 +240,6 @@
     "wet geneeskundige behandelingsovereenkomst.md",
     "wet op de beroepen in de individuele gezondheidszorg.md",
     "abstinence (psychoanalysis).md",
-    "resistance (psychoanalysis).md",
-    "bulking.md",
-    "Franklin Veaux.md"
+    "resistance (psychoanalysis).md"
   ]
 }
