@@ -1,0 +1,3 @@
+1. is [[Sigmund Freud]]'s model "id / ego / superego" deprecated + why?
+	1. not per se when changing their interpretations
+		1. But if you want to look at research looking at the idea of an unconscious, not directly like freuds id, but some similarities try looking at research that looks at the idea of "implicit" versus "explicit" [[memory]] as conscious versus unconscious. Not 100% the same but there's a relationship between them.^[https://www.reddit.com/r/psychology/comments/fzfjn/comment/c1js42w/?utm_source=share&utm_medium=web2x&context=3]
