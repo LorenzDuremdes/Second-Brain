@@ -1,0 +1,1 @@
+1. token economy (psychology); can be exchanged for other reinforcers.^[https://en.wikipedia.org/wiki/Token_economy#cite_note-1]

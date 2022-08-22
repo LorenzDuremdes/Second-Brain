@@ -1,0 +1,1 @@
+1. aversion [[therapy]]; a form of psychological treatment in which the patient is exposed to a stimulus while simultaneously being subjected to some form of discomfort^[https://en.wikipedia.org/wiki/Aversion_therapy]

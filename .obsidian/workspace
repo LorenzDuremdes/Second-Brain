@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "id, ego, superego.md",
+                "file": "aversion therapy.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "id, ego, superego.md",
+                    "file": "aversion therapy.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "superego",
+                "query": "imagery desensitization",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "id, ego, superego.md",
+                "file": "aversion therapy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "id, ego, superego.md",
+                "file": "aversion therapy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "id, ego, superego.md"
+                "file": "aversion therapy.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "id, ego, superego.md",
+                "file": "aversion therapy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "id, ego, superego.md",
+                "file": "aversion therapy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "id, ego, superego.md"
+                "file": "aversion therapy.md"
               }
             }
           },
@@ -231,15 +231,15 @@
   },
   "active": "145c438594fb3686",
   "lastOpenFiles": [
+    "verborgen conditionering.md",
+    "token economy (psychology).md",
+    "implosive therapy.md",
+    "id, ego, superego.md",
     "unconscious mind.md",
     "discriminative stimulus.md",
     "noncontingent reinforcement.md",
     "VO2 max.md",
     "fractional utilization.md",
-    "Minecraft.md",
-    "psychoanalysis.md",
-    "dementia.md",
-    "wet geneeskundige behandelingsovereenkomst.md",
-    "wet op de beroepen in de individuele gezondheidszorg.md"
+    "Minecraft.md"
   ]
 }

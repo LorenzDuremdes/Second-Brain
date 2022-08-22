@@ -1,0 +1,1 @@
+1. verborgen conditionering; baseert zich op een gedragsverandering door intensieve, abstracte discussies, die in de plaats van echt, uitgevoerd gedrag voorkomen^[Psychotherapie en Psychiatrie, 5.5.2]
