@@ -22,6 +22,8 @@
 1. what does Dr. Alok Kanojia think about "you need to love yourself first before you can love someone else"?
 	1. he disagrees, because it's generally more easy to love someone else than yourself^[Wednesday 8 June 2022]
 	2. "you need to love yourself first before you can love someone else" can also be interpreted as a semi-prerequisite for a stable relationship
+3. can you 'not miss' your partner(s) without it meaning you don't like them?^[https://www.reddit.com/r/dating/comments/wuibdv/i_dont_miss_my_girlfriend_when_we_are_apart/]
+	1. yes
 
 # [[interpersonal neurobiology]]
 1. an **introvert** [[dating]]/having a romantic relationship with an extravert can lead to a mismatch in intimacy needs

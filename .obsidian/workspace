@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aversion therapy.md",
+                "file": "intimate relationship.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "aversion therapy.md",
+                    "file": "intimate relationship.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "imagery desensitization",
+                "query": "love",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aversion therapy.md",
+                "file": "intimate relationship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aversion therapy.md",
+                "file": "intimate relationship.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aversion therapy.md"
+                "file": "intimate relationship.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aversion therapy.md",
+                "file": "intimate relationship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aversion therapy.md",
+                "file": "intimate relationship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aversion therapy.md"
+                "file": "intimate relationship.md"
               }
             }
           },
@@ -231,6 +231,8 @@
   },
   "active": "145c438594fb3686",
   "lastOpenFiles": [
+    "romance (love).md",
+    "aversion therapy.md",
     "verborgen conditionering.md",
     "token economy (psychology).md",
     "implosive therapy.md",
@@ -238,8 +240,6 @@
     "unconscious mind.md",
     "discriminative stimulus.md",
     "noncontingent reinforcement.md",
-    "VO2 max.md",
-    "fractional utilization.md",
-    "Minecraft.md"
+    "VO2 max.md"
   ]
 }
