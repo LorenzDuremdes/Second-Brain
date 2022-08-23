@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intimate relationship.md",
+                "file": "Vickrey-Clarke-Groves auction.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "intimate relationship.md",
+                    "file": "Vickrey-Clarke-Groves auction.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intimate relationship.md",
+                "file": "Vickrey-Clarke-Groves auction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intimate relationship.md",
+                "file": "Vickrey-Clarke-Groves auction.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intimate relationship.md"
+                "file": "Vickrey-Clarke-Groves auction.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intimate relationship.md",
+                "file": "Vickrey-Clarke-Groves auction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intimate relationship.md",
+                "file": "Vickrey-Clarke-Groves auction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intimate relationship.md"
+                "file": "Vickrey-Clarke-Groves auction.md"
               }
             }
           },
@@ -229,17 +229,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "502049e01872c813",
+  "active": "145c438594fb3686",
   "lastOpenFiles": [
+    "incentive compatibility.md",
+    "Vickrey auction.md",
+    "intimate relationship.md",
     "romance (love).md",
     "aversion therapy.md",
     "verborgen conditionering.md",
     "token economy (psychology).md",
     "implosive therapy.md",
     "id, ego, superego.md",
-    "unconscious mind.md",
-    "discriminative stimulus.md",
-    "noncontingent reinforcement.md",
-    "VO2 max.md"
+    "unconscious mind.md"
   ]
 }

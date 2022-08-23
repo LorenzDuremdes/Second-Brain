@@ -1,0 +1,1 @@
+1. incentive compatibility; if every participant can achieve the best outcome to themselves just by acting according to their true preferences.^[https://en.wikipedia.org/wiki/Incentive_compatibility#cite_note-agt07-1]: 225 ^[https://en.wikipedia.org/wiki/Incentive_compatibility#cite_note-2]
