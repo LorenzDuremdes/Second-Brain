@@ -1,0 +1,1 @@
+1. Coandă effect; the tendency of a fluid jet to stay attached to a convex surface.^[https://en.wikipedia.org/wiki/Coandă_effect#cite_note-1]

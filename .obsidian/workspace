@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vickrey-Clarke-Groves auction.md",
+                "file": "Dreo Pilot Max.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Vickrey-Clarke-Groves auction.md",
+                    "file": "Dreo Pilot Max.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vickrey-Clarke-Groves auction.md",
+                "file": "Dreo Pilot Max.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vickrey-Clarke-Groves auction.md",
+                "file": "Dreo Pilot Max.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vickrey-Clarke-Groves auction.md"
+                "file": "Dreo Pilot Max.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vickrey-Clarke-Groves auction.md",
+                "file": "Dreo Pilot Max.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vickrey-Clarke-Groves auction.md",
+                "file": "Dreo Pilot Max.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vickrey-Clarke-Groves auction.md"
+                "file": "Dreo Pilot Max.md"
               }
             }
           },
@@ -229,8 +229,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "145c438594fb3686",
+  "active": "502049e01872c813",
   "lastOpenFiles": [
+    "Coandă effect.md",
+    "Vickrey-Clarke-Groves auction.md",
     "incentive compatibility.md",
     "Vickrey auction.md",
     "intimate relationship.md",
@@ -238,8 +240,6 @@
     "aversion therapy.md",
     "verborgen conditionering.md",
     "token economy (psychology).md",
-    "implosive therapy.md",
-    "id, ego, superego.md",
-    "unconscious mind.md"
+    "implosive therapy.md"
   ]
 }
