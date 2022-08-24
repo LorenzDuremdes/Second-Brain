@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dreo Pilot Max.md",
+                "file": "Bézier curve.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Dreo Pilot Max.md",
+                    "file": "Bézier curve.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dreo Pilot Max.md",
+                "file": "Bézier curve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dreo Pilot Max.md",
+                "file": "Bézier curve.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dreo Pilot Max.md"
+                "file": "Bézier curve.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dreo Pilot Max.md",
+                "file": "Bézier curve.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dreo Pilot Max.md",
+                "file": "Bézier curve.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dreo Pilot Max.md"
+                "file": "Bézier curve.md"
               }
             }
           },
@@ -229,8 +229,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "502049e01872c813",
+  "active": "145c438594fb3686",
   "lastOpenFiles": [
+    "Dreo Pilot Max.md",
     "Coandă effect.md",
     "Vickrey-Clarke-Groves auction.md",
     "incentive compatibility.md",
@@ -239,7 +240,6 @@
     "romance (love).md",
     "aversion therapy.md",
     "verborgen conditionering.md",
-    "token economy (psychology).md",
-    "implosive therapy.md"
+    "token economy (psychology).md"
   ]
 }
