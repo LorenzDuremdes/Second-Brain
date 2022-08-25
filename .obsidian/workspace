@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bézier curve.md",
+                "file": "optimistic nihilism.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Bézier curve.md",
+                    "file": "optimistic nihilism.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bézier curve.md",
+                "file": "optimistic nihilism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bézier curve.md",
+                "file": "optimistic nihilism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bézier curve.md"
+                "file": "optimistic nihilism.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bézier curve.md",
+                "file": "optimistic nihilism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bézier curve.md",
+                "file": "optimistic nihilism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bézier curve.md"
+                "file": "optimistic nihilism.md"
               }
             }
           },
@@ -232,6 +232,7 @@
   "active": "145c438594fb3686",
   "lastOpenFiles": [
     "Dreo Pilot Max.md",
+    "Bézier curve.md",
     "Coandă effect.md",
     "Vickrey-Clarke-Groves auction.md",
     "incentive compatibility.md",
@@ -239,7 +240,6 @@
     "intimate relationship.md",
     "romance (love).md",
     "aversion therapy.md",
-    "verborgen conditionering.md",
-    "token economy (psychology).md"
+    "verborgen conditionering.md"
   ]
 }

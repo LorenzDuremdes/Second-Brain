@@ -1,0 +1,1 @@
+1. optimistic nihilism; what's the point of not doing things if it won't matter in the end?^[https://www.youtube.com/watch?v=MBRqu0YOH14]

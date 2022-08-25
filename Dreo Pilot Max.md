@@ -1,3 +1,4 @@
-1. [DREO Pilot Max - 2022 Best New Tower Fan on Amazon Review](https://www.youtube.com/watch?v=em5t6aCBjlc)
-2. 3 Tower Fans Tested, One Clear Winner ! Dyson 400$ vs Dreo 130$ vs Honeywell 65$^[https://www.youtube.com/watch?v=k0e7vdphUi8]
-3. Whisper Quiet: The [[Bézier curve]] and Coanda effect reduce the running noise of this cooling fan down to 35dB. With display auto off, auto mute, 8h timer, and soothing airflow, this fan makes sure you have a restful sleep all night.^[https://www.amazon.com/Dreo-Velocity-Powerful-Bladeless-Oscillating/dp/B09Q6DNWRK]
+1. [Dreo Pilot Max 42'' Tower Fan (advertisement)](https://www.youtube.com/watch?v=IkHW6AqYCXU)
+2. [DREO Pilot Max - 2022 Best New Tower Fan on Amazon Review](https://www.youtube.com/watch?v=em5t6aCBjlc)
+3. 3 Tower Fans Tested, One Clear Winner ! Dyson 400$ vs Dreo 130$ vs Honeywell 65$^[https://www.youtube.com/watch?v=k0e7vdphUi8]
+4. Whisper Quiet: The [[Bézier curve]] and Coanda effect reduce the running noise of this cooling fan down to 35dB. With display auto off, auto mute, 8h timer, and soothing airflow, this fan makes sure you have a restful sleep all night.^[https://www.amazon.com/Dreo-Velocity-Powerful-Bladeless-Oscillating/dp/B09Q6DNWRK]
