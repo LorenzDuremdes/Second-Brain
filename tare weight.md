@@ -1,0 +1,2 @@
+1. tare weight; the weight of an empty vehicle or container.^[https://en.wikipedia.org/wiki/Tare_weight#cite_note-1]
+2. the word tare originates from the Middle French word tare 'wastage in goods, deficiency, imperfection' (15th c.), from Italian tara, from Arabic طرح ṭarḥ, lit. 'thing deducted or rejected', from taraha 'to reject'.^[https://en.wikipedia.org/wiki/Tare_weight#cite_note-2]

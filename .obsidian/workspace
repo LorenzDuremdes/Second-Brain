@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "optimistic nihilism.md",
+                "file": "tare weight.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "optimistic nihilism.md",
+                    "file": "tare weight.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "optimistic nihilism.md",
+                "file": "tare weight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "optimistic nihilism.md",
+                "file": "tare weight.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "optimistic nihilism.md"
+                "file": "tare weight.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "optimistic nihilism.md",
+                "file": "tare weight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "optimistic nihilism.md",
+                "file": "tare weight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "optimistic nihilism.md"
+                "file": "tare weight.md"
               }
             }
           },
@@ -231,6 +231,7 @@
   },
   "active": "145c438594fb3686",
   "lastOpenFiles": [
+    "optimistic nihilism.md",
     "Dreo Pilot Max.md",
     "Bézier curve.md",
     "Coandă effect.md",
@@ -239,7 +240,6 @@
     "Vickrey auction.md",
     "intimate relationship.md",
     "romance (love).md",
-    "aversion therapy.md",
-    "verborgen conditionering.md"
+    "aversion therapy.md"
   ]
 }
