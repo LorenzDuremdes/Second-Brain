@@ -20,6 +20,8 @@
 			[[posthuman]]
 
 # quotes
-1. “It's amazing how once the [[mind]] is free of emotional pollution, logic and clarity emerge.” —Clyde Dsouza, Memories With Maya
-2. It may be that our role on this planet is not to worship God - but to create him. -   Arthur C. Clarke
-3. To be what you want to be: isn't this the essence of being [[human]]? - David Zindell (1988) _Neverness_.
+1. ...to grow physically and mentally so powerful as to appear possibly god-like by present-day [[human]] standards.
+2. “It's amazing how once the [[mind]] is free of emotional pollution, logic and clarity emerge.” —Clyde Dsouza, Memories With Maya
+3. It may be that our role on this planet is not to worship God - but to create him. -   Arthur C. Clarke
+4. To be what you want to be: isn't this the essence of being [[human]]? - David Zindell (1988) _Neverness_.
+5. "And then, the Earth being small, mankind will migrate into space, and will cross the airless Saharas which separate planet from planet and sun from sun. The Earth will become a Holy Land which will be visited by pilgrims from all the quarters of the Universe. Finally, men will master the forces of Nature; they will become themselves architects of systems, manufacturers of worlds." — Winwood Reade, The Martyrdom of Man, 1872.

@@ -1,0 +1,3 @@
+1. enfilade; if weapon fire can be directed along its longest axis.^[https://en.wikipedia.org/wiki/Enfilade_and_defilade#cite_note-3]
+	1. enfilade fire takes advantage of the fact that it is usually easier to aim laterally (traversing the weapon) than to correctly estimate the range to avoid shooting too long or short
+2. defilade; if it uses natural or artificial obstacles to shield or conceal^[https://en.wikipedia.org/wiki/Enfilade_and_defilade]

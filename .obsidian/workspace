@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tare weight.md",
+                "file": "transhumanism.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "tare weight.md",
+                    "file": "transhumanism.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "love",
+                "query": "transhumanism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tare weight.md",
+                "file": "transhumanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tare weight.md",
+                "file": "transhumanism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tare weight.md"
+                "file": "transhumanism.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tare weight.md",
+                "file": "transhumanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tare weight.md",
+                "file": "transhumanism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tare weight.md"
+                "file": "transhumanism.md"
               }
             }
           },
@@ -231,6 +231,8 @@
   },
   "active": "145c438594fb3686",
   "lastOpenFiles": [
+    "enfilade and defilade.md",
+    "tare weight.md",
     "optimistic nihilism.md",
     "Dreo Pilot Max.md",
     "Bézier curve.md",
@@ -238,8 +240,6 @@
     "Vickrey-Clarke-Groves auction.md",
     "incentive compatibility.md",
     "Vickrey auction.md",
-    "intimate relationship.md",
-    "romance (love).md",
-    "aversion therapy.md"
+    "intimate relationship.md"
   ]
 }
