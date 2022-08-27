@@ -1,0 +1,1 @@
+1. medium-chain triglyceride; are not a storeable fatty [[acid]], so the liver immediately begins turning them into ketone bodies^[https://www.trainerroad.com/forum/t/anyone-take-bubs-mct-oil-powder/30459/6?u=lorenz_duremdes]
