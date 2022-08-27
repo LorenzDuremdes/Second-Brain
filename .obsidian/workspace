@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "transhumanism.md",
+                "file": "post-exercise recovery.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "transhumanism.md",
+                    "file": "post-exercise recovery.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transhumanism",
+                "query": "recovery",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "transhumanism.md",
+                "file": "post-exercise recovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "transhumanism.md",
+                "file": "post-exercise recovery.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "transhumanism.md"
+                "file": "post-exercise recovery.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "transhumanism.md",
+                "file": "post-exercise recovery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "transhumanism.md",
+                "file": "post-exercise recovery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "transhumanism.md"
+                "file": "post-exercise recovery.md"
               }
             }
           },
@@ -231,15 +231,15 @@
   },
   "active": "145c438594fb3686",
   "lastOpenFiles": [
+    "Acute Post-Exercise Recovery Strategies in Cycling, A Review.md",
+    "post-exercise recovery.md",
+    "ketogenic diet.md",
+    "transhumanism.md",
     "enfilade and defilade.md",
     "tare weight.md",
     "optimistic nihilism.md",
     "Dreo Pilot Max.md",
     "Bézier curve.md",
-    "Coandă effect.md",
-    "Vickrey-Clarke-Groves auction.md",
-    "incentive compatibility.md",
-    "Vickrey auction.md",
-    "intimate relationship.md"
+    "Coandă effect.md"
   ]
 }

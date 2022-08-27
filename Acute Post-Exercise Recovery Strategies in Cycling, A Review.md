@@ -1,4 +1,4 @@
-# [(PDF) Acute post-exercise recovery Strategies in Cycling: A Review (researchgate.net)](https://www.researchgate.net/publication/331035116_Acute_Post-Exercise_Recovery_Strategies_in_Cycling_A_Review)
+# [(PDF) Acute [[post-exercise recovery]] Strategies in Cycling: A Review (researchgate.net)](https://www.researchgate.net/publication/331035116_Acute_Post-Exercise_Recovery_Strategies_in_Cycling_A_Review)
 ## compression garments
 1. The use of COMP (compression garments) between 12 – 80mins has been shown to improve subsequent 5-min maximal cycling mean and max power output, 30s cycling mean power and 30-min cycling mean power (Argus et al. 2013; Chatard et al. 2004; Driller and Halson 2013; Ménétrier et al. 2013)
 ## cold [[water]] immersion
