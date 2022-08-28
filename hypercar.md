@@ -1,0 +1,1 @@
+1. hypercar; used to describe the highest performing supercars.^[https://en.wikipedia.org/wiki/Supercar#cite_note-16]
