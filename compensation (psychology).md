@@ -1,0 +1,1 @@
+1. compensation ([[psychology]]); a strategy whereby one covers up, consciously or unconsciously, weaknesses, frustrations, desires, or feelings of inadequacy or incompetence in one life area through the [[gratification]] or (drive towards) excellence in another area^[https://en.wikipedia.org/wiki/Compensation_(psychology)]
