@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beta-hydroxy beta-methylbutyric acid.md",
+                "file": "hour record (time trial (cycling)).md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "beta-hydroxy beta-methylbutyric acid.md",
+                    "file": "hour record (time trial (cycling)).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hydroxy",
+                "query": "hour record",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "beta-hydroxy beta-methylbutyric acid.md",
+                "file": "hour record (time trial (cycling)).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "beta-hydroxy beta-methylbutyric acid.md",
+                "file": "hour record (time trial (cycling)).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "beta-hydroxy beta-methylbutyric acid.md"
+                "file": "hour record (time trial (cycling)).md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "beta-hydroxy beta-methylbutyric acid.md",
+                "file": "hour record (time trial (cycling)).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "beta-hydroxy beta-methylbutyric acid.md",
+                "file": "hour record (time trial (cycling)).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "beta-hydroxy beta-methylbutyric acid.md"
+                "file": "hour record (time trial (cycling)).md"
               }
             }
           },
@@ -231,6 +231,7 @@
   },
   "active": "145c438594fb3686",
   "lastOpenFiles": [
+    "beta-hydroxy beta-methylbutyric acid.md",
     "dietary supplement.md",
     "exogenous ketones.md",
     "medium-chain triglyceride.md",
@@ -239,7 +240,6 @@
     "Acute Post-Exercise Recovery Strategies in Cycling, A Review.md",
     "transhumanism.md",
     "enfilade and defilade.md",
-    "tare weight.md",
-    "optimistic nihilism.md"
+    "tare weight.md"
   ]
 }
