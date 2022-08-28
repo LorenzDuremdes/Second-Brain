@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hypercar.md",
+                "file": "clipping (photography).md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "hypercar.md",
+                    "file": "clipping (photography).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hypercar.md",
+                "file": "clipping (photography).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hypercar.md",
+                "file": "clipping (photography).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hypercar.md"
+                "file": "clipping (photography).md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hypercar.md",
+                "file": "clipping (photography).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hypercar.md",
+                "file": "clipping (photography).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hypercar.md"
+                "file": "clipping (photography).md"
               }
             }
           },
@@ -229,8 +229,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "145c438594fb3686",
+  "active": "502049e01872c813",
   "lastOpenFiles": [
+    "hypercar.md",
     "compensation (psychology).md",
     "psychopathy.md",
     "hour record (time trial (cycling)).md",
@@ -239,7 +240,6 @@
     "exogenous ketones.md",
     "medium-chain triglyceride.md",
     "ketogenic diet.md",
-    "post-exercise recovery.md",
-    "Acute Post-Exercise Recovery Strategies in Cycling, A Review.md"
+    "post-exercise recovery.md"
   ]
 }
