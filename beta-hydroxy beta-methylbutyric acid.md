@@ -1,3 +1,5 @@
+*It’s important to note that this is actually a patented ingredient and studies have found that some products promoting themselves as containing HMB in fact contain none of the active ingredient. The only way to know if you’ve bought the right stuff is to check that it mentions the patent holder (Metabolic Technologies) on the website or label.*^[https://www.bicycling.com/training/a20005131/-3/]
+
 # mechanism
 ## positive
 1. is HMB scientifically proven to be [[performance-enhancing substance|performance enhancing]]?
@@ -12,7 +14,7 @@
 1. does HMB reduce [[muscle hypertrophy|hypertrophy]] (by possibly reducing [[inflammation]]) like [[cryotherapy]]?
 # how to take
 1. optimal time of ingestion
-	1. the greatest reduction in skeletal muscle damage from a single bout of exercise has been shown to occur when HMB-Ca is ingested 1–2 hours prior to exercise or HMB-FA is ingested 30–60 minutes prior to exercise^[https://en.wikipedia.org/wiki/Beta-Hydroxy_beta-methylbutyric_acid#cite_note-ISSN_position_stand_2013-1]
+	1. the greatest reduction in [[skeletal muscle]] damage from a single bout of exercise has been shown to occur when HMB-Ca is ingested 1–2 hours prior to exercise or HMB-FA is ingested 30–60 minutes prior to exercise^[https://en.wikipedia.org/wiki/Beta-Hydroxy_beta-methylbutyric_acid#cite_note-ISSN_position_stand_2013-1]
 		1. HMB is said to be 20-fold more potent than [[leucine]] for this purpose (anti-catabolic)^[https://examine.com/supplements/hmb/]
 2. dosage
 	1. 1–3 grams daily^[https://examine.com/supplements/hmb/]

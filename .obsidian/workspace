@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dietary supplement.md",
+                "file": "beta-hydroxy beta-methylbutyric acid.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "dietary supplement.md",
+                    "file": "beta-hydroxy beta-methylbutyric acid.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "exogenous",
+                "query": "hydroxy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dietary supplement.md",
+                "file": "beta-hydroxy beta-methylbutyric acid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dietary supplement.md",
+                "file": "beta-hydroxy beta-methylbutyric acid.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dietary supplement.md"
+                "file": "beta-hydroxy beta-methylbutyric acid.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dietary supplement.md",
+                "file": "beta-hydroxy beta-methylbutyric acid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dietary supplement.md",
+                "file": "beta-hydroxy beta-methylbutyric acid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dietary supplement.md"
+                "file": "beta-hydroxy beta-methylbutyric acid.md"
               }
             }
           },
@@ -229,11 +229,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "502049e01872c813",
+  "active": "145c438594fb3686",
   "lastOpenFiles": [
+    "dietary supplement.md",
     "exogenous ketones.md",
     "medium-chain triglyceride.md",
-    "dietary supplement.md",
     "ketogenic diet.md",
     "post-exercise recovery.md",
     "Acute Post-Exercise Recovery Strategies in Cycling, A Review.md",

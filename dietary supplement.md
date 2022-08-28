@@ -1,7 +1,7 @@
 # personal (prioritized)
 1. creatine
 2. multivitamins
-3. HMB
+3. [[beta-hydroxy beta-methylbutyric acid|HMB]]
 4. Vitamin C
 5. exogenous ketones (Jumbo-Visma)
 	1. MCT
