@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Seedfeeder (Wikipedia).md",
+                "file": "exogenous ketones.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Seedfeeder (Wikipedia).md",
+                    "file": "exogenous ketones.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "histogram",
+                "query": "exogenous ketones",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seedfeeder (Wikipedia).md",
+                "file": "exogenous ketones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seedfeeder (Wikipedia).md",
+                "file": "exogenous ketones.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,11 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seedfeeder (Wikipedia).md"
+                "file": "exogenous ketones.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Seedfeeder (Wikipedia).md",
+                "file": "exogenous ketones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Seedfeeder (Wikipedia).md",
+                "file": "exogenous ketones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Seedfeeder (Wikipedia).md"
+                "file": "exogenous ketones.md"
               }
             }
           },
@@ -229,8 +230,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "145c438594fb3686",
+  "active": "502049e01872c813",
   "lastOpenFiles": [
+    "Seedfeeder (Wikipedia).md",
     "image histogram.md",
     "clipping (photography).md",
     "hypercar.md",
@@ -239,7 +241,6 @@
     "hour record (time trial (cycling)).md",
     "beta-hydroxy beta-methylbutyric acid.md",
     "dietary supplement.md",
-    "exogenous ketones.md",
-    "medium-chain triglyceride.md"
+    "exogenous ketones.md"
   ]
 }
