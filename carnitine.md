@@ -1,0 +1,2 @@
+1. current research consensus on carnitine (physical performance enhancement)
+	1. the quality of research for these possible benefits has been low, prohibiting any conclusion of effect.^[https://en.wikipedia.org/wiki/Carnitine#cite_note-lpi-1]^[https://en.wikipedia.org/wiki/Carnitine#cite_note-ods-3]
