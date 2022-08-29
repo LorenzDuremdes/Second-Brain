@@ -1,2 +1,2 @@
-1. clipping (photography); a result of capturing or processing an image where the intensity in a certain area falls outside the minimum and maximum intensity which can be represented^[https://en.wikipedia.org/wiki/Clipping_(photography)]
+1. clipping ([[photography]]); a result of capturing or processing an image where the intensity in a certain area falls outside the minimum and maximum intensity which can be represented^[https://en.wikipedia.org/wiki/Clipping_(photography)]
 	1. can be seen in the histogram^[https://www.reddit.com/r/photography/comments/hmlbbg/the_histogram_explained_how_understanding_it_can/]

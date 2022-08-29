@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clipping (photography).md",
+                "file": "Seedfeeder (Wikipedia).md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "clipping (photography).md",
+                    "file": "Seedfeeder (Wikipedia).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "psychopathy",
+                "query": "histogram",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "clipping (photography).md",
+                "file": "Seedfeeder (Wikipedia).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "clipping (photography).md",
+                "file": "Seedfeeder (Wikipedia).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "clipping (photography).md"
+                "file": "Seedfeeder (Wikipedia).md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "clipping (photography).md",
+                "file": "Seedfeeder (Wikipedia).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "clipping (photography).md",
+                "file": "Seedfeeder (Wikipedia).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "clipping (photography).md"
+                "file": "Seedfeeder (Wikipedia).md"
               }
             }
           },
@@ -229,8 +229,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "502049e01872c813",
+  "active": "145c438594fb3686",
   "lastOpenFiles": [
+    "image histogram.md",
+    "clipping (photography).md",
     "hypercar.md",
     "compensation (psychology).md",
     "psychopathy.md",
@@ -238,8 +240,6 @@
     "beta-hydroxy beta-methylbutyric acid.md",
     "dietary supplement.md",
     "exogenous ketones.md",
-    "medium-chain triglyceride.md",
-    "ketogenic diet.md",
-    "post-exercise recovery.md"
+    "medium-chain triglyceride.md"
   ]
 }
