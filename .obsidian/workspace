@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "carnitine.md",
+                "file": "exogenous ketones.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "carnitine.md",
+                    "file": "exogenous ketones.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "carnitine.md",
+                "file": "exogenous ketones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "carnitine.md",
+                "file": "exogenous ketones.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "carnitine.md"
+                "file": "exogenous ketones.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "carnitine.md",
+                "file": "exogenous ketones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "carnitine.md",
+                "file": "exogenous ketones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "carnitine.md"
+                "file": "exogenous ketones.md"
               }
             }
           },
@@ -229,8 +229,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "145c438594fb3686",
+  "active": "502049e01872c813",
   "lastOpenFiles": [
+    "carnitine.md",
     "dietary supplement.md",
     "exogenous ketones.md",
     "Graeme Obree's Superman position.md",
@@ -239,7 +240,6 @@
     "post-exercise recovery.md",
     "recovery (road cycling).md",
     "Team Jumbo-Visma.md",
-    "medium-chain triglyceride.md",
-    "photography.md"
+    "medium-chain triglyceride.md"
   ]
 }
