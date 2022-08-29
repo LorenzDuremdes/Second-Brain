@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "medium-chain triglyceride.md",
+                "file": "Graeme Obree's Superman position.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "medium-chain triglyceride.md",
+                    "file": "Graeme Obree's Superman position.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mct",
+                "query": "superman",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "medium-chain triglyceride.md",
+                "file": "Graeme Obree's Superman position.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "medium-chain triglyceride.md",
+                "file": "Graeme Obree's Superman position.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,12 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "medium-chain triglyceride.md"
+                "file": "Graeme Obree's Superman position.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "medium-chain triglyceride.md",
+                "file": "Graeme Obree's Superman position.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "medium-chain triglyceride.md",
+                "file": "Graeme Obree's Superman position.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "medium-chain triglyceride.md"
+                "file": "Graeme Obree's Superman position.md"
               }
             }
           },
@@ -230,17 +230,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cf5a0a85f5240eff",
+  "active": "63c41187ccf072b6",
   "lastOpenFiles": [
+    "Chris Boardman.md",
+    "antioxidant.md",
+    "post-exercise recovery.md",
+    "recovery (road cycling).md",
+    "Team Jumbo-Visma.md",
+    "medium-chain triglyceride.md",
     "photography.md",
     "exogenous ketones.md",
     "Seedfeeder (Wikipedia).md",
-    "image histogram.md",
-    "clipping (photography).md",
-    "hypercar.md",
-    "compensation (psychology).md",
-    "psychopathy.md",
-    "hour record (time trial (cycling)).md",
-    "beta-hydroxy beta-methylbutyric acid.md"
+    "image histogram.md"
   ]
 }
