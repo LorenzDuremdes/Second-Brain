@@ -24,6 +24,8 @@
 ## aperture
 1. a higher aperture can make focusing easier[https://youtu.be/Se1WzQLyldk?t=480]
 	1. e.g. due to higher DoF
+2. aperture → light
+	1. a higher aperture enables less light to enter the camera^[https://www.google.com/search?client=opera-gx&q=higher+vs+lower+aperture+dark&sourceid=opera&ie=UTF-8&oe=UTF-8]
 
 ## ISO
 1. ISO; sensor sensitivity to light^[https://youtu.be/s2ruUomo77s?t=480]

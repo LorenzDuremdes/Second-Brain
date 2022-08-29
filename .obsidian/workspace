@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exogenous ketones.md",
+                "file": "medium-chain triglyceride.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "exogenous ketones.md",
+                    "file": "medium-chain triglyceride.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "exogenous ketones",
+                "query": "mct",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exogenous ketones.md",
+                "file": "medium-chain triglyceride.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exogenous ketones.md",
+                "file": "medium-chain triglyceride.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,12 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exogenous ketones.md"
+                "file": "medium-chain triglyceride.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exogenous ketones.md",
+                "file": "medium-chain triglyceride.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exogenous ketones.md",
+                "file": "medium-chain triglyceride.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exogenous ketones.md"
+                "file": "medium-chain triglyceride.md"
               }
             }
           },
@@ -230,8 +230,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "502049e01872c813",
+  "active": "cf5a0a85f5240eff",
   "lastOpenFiles": [
+    "photography.md",
+    "exogenous ketones.md",
     "Seedfeeder (Wikipedia).md",
     "image histogram.md",
     "clipping (photography).md",
@@ -239,8 +241,6 @@
     "compensation (psychology).md",
     "psychopathy.md",
     "hour record (time trial (cycling)).md",
-    "beta-hydroxy beta-methylbutyric acid.md",
-    "dietary supplement.md",
-    "exogenous ketones.md"
+    "beta-hydroxy beta-methylbutyric acid.md"
   ]
 }
