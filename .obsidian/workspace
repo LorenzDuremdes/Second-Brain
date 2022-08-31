@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dietary supplement.md",
+                "file": "sodium bicarbonate.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "dietary supplement.md",
+                    "file": "sodium bicarbonate.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dietary supplement.md",
+                "file": "sodium bicarbonate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dietary supplement.md",
+                "file": "sodium bicarbonate.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dietary supplement.md"
+                "file": "sodium bicarbonate.md"
               }
             }
           }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dietary supplement.md",
+                "file": "sodium bicarbonate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dietary supplement.md",
+                "file": "sodium bicarbonate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dietary supplement.md"
+                "file": "sodium bicarbonate.md"
               }
             }
           },
@@ -232,13 +232,13 @@
   },
   "active": "63c41187ccf072b6",
   "lastOpenFiles": [
+    "dietary supplement.md",
     "sodium bicarbonate.md",
     "Untitled.md",
     "beta alanine.md",
     "recovery (road cycling).md",
     "exogenous ketones.md",
     "carnitine.md",
-    "dietary supplement.md",
     "Graeme Obree's Superman position.md",
     "Chris Boardman.md",
     "antioxidant.md"
