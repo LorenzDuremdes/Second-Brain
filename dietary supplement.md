@@ -2,11 +2,11 @@
 1. creatine
 2. multivitamins
 3. [[beta-hydroxy beta-methylbutyric acid|HMB]]
-4. exogenous ketones (Jumbo-Visma)
+4. [[exogenous ketones]] (Jumbo-Visma)
 	1. MCT
 5. Vitamin C
-6. beta alanine
-7. sodium bicarbonate
+6. [[beta alanine]]
+7. [[sodium bicarbonate]]
 8. melatonine
 
 # miscellaneous
