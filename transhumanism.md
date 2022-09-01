@@ -25,3 +25,12 @@
 3. It may be that our role on this planet is not to worship God - but to create him. -   Arthur C. Clarke
 4. To be what you want to be: isn't this the essence of being [[human]]? - David Zindell (1988) _Neverness_.
 5. "And then, the Earth being small, mankind will migrate into space, and will cross the airless Saharas which separate planet from planet and sun from sun. The Earth will become a Holy Land which will be visited by pilgrims from all the quarters of the Universe. Finally, men will master the forces of Nature; they will become themselves architects of systems, manufacturers of worlds." — Winwood Reade, The Martyrdom of Man, 1872.
+
+# miscellaneous
+1. [What's a tell-tale sign you're in front of a very intelligent person?](https://qr.ae/pvg2Eg)
+	1. The rat race holds no appeal to the best and brightest. They know they could win it if they wanted. They spend almost no energy on competing with others, and focus on loftier goals or non-work aspects of their life.
+	   
+	   ...
+	   
+	   But the top dog would be happy about that, because the world would be better if everyone could run faster.
+	3. *noblesse oblige*

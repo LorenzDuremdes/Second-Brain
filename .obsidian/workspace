@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sodium bicarbonate.md",
+                "file": "transhumanism.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "sodium bicarbonate.md",
+                    "file": "transhumanism.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "supplements",
+                "query": "transhuman",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sodium bicarbonate.md",
+                "file": "transhumanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sodium bicarbonate.md",
+                "file": "transhumanism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,12 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sodium bicarbonate.md"
+                "file": "transhumanism.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sodium bicarbonate.md",
+                "file": "transhumanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sodium bicarbonate.md",
+                "file": "transhumanism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sodium bicarbonate.md"
+                "file": "transhumanism.md"
               }
             }
           },
@@ -230,17 +230,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "63c41187ccf072b6",
+  "active": "502049e01872c813",
   "lastOpenFiles": [
-    "dietary supplement.md",
+    "posthuman.md",
     "sodium bicarbonate.md",
+    "dietary supplement.md",
     "Untitled.md",
     "beta alanine.md",
     "recovery (road cycling).md",
     "exogenous ketones.md",
     "carnitine.md",
     "Graeme Obree's Superman position.md",
-    "Chris Boardman.md",
-    "antioxidant.md"
+    "Chris Boardman.md"
   ]
 }
