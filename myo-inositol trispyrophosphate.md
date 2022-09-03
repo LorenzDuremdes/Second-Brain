@@ -1,2 +1,3 @@
 1. ITPP; a putative [[performance-enhancing substance]], which exerts its biological effects by increasing tissue oxygenation.^[https://en.wikipedia.org/wiki/Myo-inositol_trispyrophosphate#cite_note-pmid19204295-1]
-2. does not suppress testosterone? (not enough data as of ~2021)
+2. ITPP (dosage) ≈ 300–500 mg once per week^[https://www.reddit.com/r/Nootropics/comments/7p4m8n/comment/dsenlcm/?utm_source=share&utm_medium=web2x&context=3]
+3. does not suppress [[testosterone]]? (not enough data as of ~2021)
