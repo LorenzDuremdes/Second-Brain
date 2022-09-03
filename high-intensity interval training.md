@@ -1,0 +1,2 @@
+1. passive ↮ active recovery between intervals
+	1. active recovery might be better due to keeping the aerobic system more active and making it contribute more in further intervals^[https://youtu.be/pPc8qnIkhsg?t=1800]

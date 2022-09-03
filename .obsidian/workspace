@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "transhumanism.md",
+                "file": "high-intensity interval training.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "transhumanism.md",
+                    "file": "high-intensity interval training.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transhuman",
+                "query": "high intensity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "transhumanism.md",
+                "file": "high-intensity interval training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "transhumanism.md",
+                "file": "high-intensity interval training.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,12 +149,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "transhumanism.md"
+                "file": "high-intensity interval training.md"
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "transhumanism.md",
+                "file": "high-intensity interval training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "transhumanism.md",
+                "file": "high-intensity interval training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "transhumanism.md"
+                "file": "high-intensity interval training.md"
               }
             }
           },
@@ -230,17 +229,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d4381fcfd672bba8",
+  "active": "145c438594fb3686",
   "lastOpenFiles": [
+    "citrate synthase.md",
+    "high-intensity interval training.md",
+    "transhumanism.md",
     "posthuman.md",
     "superhuman.md",
     "myo-inositol trispyrophosphate.md",
     "GW501516.md",
     "Mircera.md",
-    "transhumanism.md",
     "sodium bicarbonate.md",
-    "dietary supplement.md",
-    "beta alanine.md",
-    "recovery (road cycling).md"
+    "dietary supplement.md"
   ]
 }
