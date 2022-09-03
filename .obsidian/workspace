@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "transhumanism.md",
+                "file": "Mircera.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "transhumanism.md",
+                    "file": "Mircera.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "transhumanism.md",
+                "file": "Mircera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "transhumanism.md",
+                "file": "Mircera.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,12 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "transhumanism.md"
+                "file": "Mircera.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "transhumanism.md",
+                "file": "Mircera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "transhumanism.md",
+                "file": "Mircera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "transhumanism.md"
+                "file": "Mircera.md"
               }
             }
           },
@@ -230,17 +230,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "502049e01872c813",
+  "active": "63c41187ccf072b6",
   "lastOpenFiles": [
+    "transhumanism.md",
     "posthuman.md",
     "sodium bicarbonate.md",
     "dietary supplement.md",
-    "Untitled.md",
+    "Mircera.md",
     "beta alanine.md",
     "recovery (road cycling).md",
     "exogenous ketones.md",
     "carnitine.md",
-    "Graeme Obree's Superman position.md",
-    "Chris Boardman.md"
+    "Graeme Obree's Superman position.md"
   ]
 }
