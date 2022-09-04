@@ -1,0 +1,2 @@
+1. free association is less relevant in Gestalt [[therapy]]^[Psychotherapie en Psychiatrie, 7.2.1]
+2. direct confrontations and provocations are used in Gestalt therapy^[Psychotherapie en Psychiatrie, 7.2.1]

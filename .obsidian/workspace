@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "peloton (road bicycle racing).md",
+                "file": "psychodrama.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "peloton (road bicycle racing).md",
+                    "file": "psychodrama.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -52,7 +52,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.007812500000000066,
+                      "scale": 0.02152871844243049,
                       "close": false
                     }
                   }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pacing",
+                "query": "psychodrama",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "peloton (road bicycle racing).md",
+                "file": "psychodrama.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "peloton (road bicycle racing).md",
+                "file": "psychodrama.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "peloton (road bicycle racing).md"
+                "file": "psychodrama.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "peloton (road bicycle racing).md",
+                "file": "psychodrama.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "peloton (road bicycle racing).md",
+                "file": "psychodrama.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "peloton (road bicycle racing).md"
+                "file": "psychodrama.md"
               }
             }
           },
@@ -229,17 +229,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "145c438594fb3686",
+  "active": "317438b0b635e51b",
   "lastOpenFiles": [
+    "Gestalt therapy.md",
+    "humanistic psychology.md",
+    "peloton (road bicycle racing).md",
     "pacing strategies.md",
     "sports supplement.md",
     "vitamin D.md",
     "sodium bicarbonate.md",
     "ephedra.md",
     "beta-hydroxy beta-methylbutyric acid.md",
-    "beta alanine.md",
-    "high-intensity interval training.md",
-    "citrate synthase.md",
-    "transhumanism.md"
+    "beta alanine.md"
   ]
 }
