@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dietary supplement.md",
+                "file": "sports supplement.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "dietary supplement.md",
+                    "file": "sports supplement.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "supplements",
+                "query": "phenylpiracetam",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dietary supplement.md",
+                "file": "sports supplement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dietary supplement.md",
+                "file": "sports supplement.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dietary supplement.md"
+                "file": "sports supplement.md"
               }
             }
           }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dietary supplement.md",
+                "file": "sports supplement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dietary supplement.md",
+                "file": "sports supplement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dietary supplement.md"
+                "file": "sports supplement.md"
               }
             }
           },
@@ -230,17 +230,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "502049e01872c813",
+  "active": "63c41187ccf072b6",
   "lastOpenFiles": [
+    "vitamin D.md",
+    "sports supplement.md",
+    "sodium bicarbonate.md",
+    "ephedra.md",
+    "beta-hydroxy beta-methylbutyric acid.md",
+    "beta alanine.md",
     "high-intensity interval training.md",
     "citrate synthase.md",
     "transhumanism.md",
-    "posthuman.md",
-    "superhuman.md",
-    "myo-inositol trispyrophosphate.md",
-    "GW501516.md",
-    "Mircera.md",
-    "sodium bicarbonate.md",
-    "dietary supplement.md"
+    "posthuman.md"
   ]
 }
