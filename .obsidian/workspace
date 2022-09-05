@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychodrama.md",
+                "file": "dialectical behavior therapy.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +29,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "psychodrama.md",
+                    "file": "dialectical behavior therapy.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -52,7 +52,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.02152871844243049,
+                      "scale": 0.010952991388875897,
                       "close": false
                     }
                   }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "psychodrama",
+                "query": "dialectical",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychodrama.md",
+                "file": "dialectical behavior therapy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychodrama.md",
+                "file": "dialectical behavior therapy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychodrama.md"
+                "file": "dialectical behavior therapy.md"
               }
             }
           }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychodrama.md",
+                "file": "dialectical behavior therapy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychodrama.md",
+                "file": "dialectical behavior therapy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychodrama.md"
+                "file": "dialectical behavior therapy.md"
               }
             }
           },
@@ -229,8 +229,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "317438b0b635e51b",
+  "active": "145c438594fb3686",
   "lastOpenFiles": [
+    "psychodrama.md",
     "Gestalt therapy.md",
     "humanistic psychology.md",
     "peloton (road bicycle racing).md",
@@ -239,7 +240,6 @@
     "vitamin D.md",
     "sodium bicarbonate.md",
     "ephedra.md",
-    "beta-hydroxy beta-methylbutyric acid.md",
-    "beta alanine.md"
+    "beta-hydroxy beta-methylbutyric acid.md"
   ]
 }
