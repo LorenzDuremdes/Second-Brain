@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "exotic food.md",
+=======
+                "file": "Trellis quantization.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +33,11 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+<<<<<<< Updated upstream
                     "file": "exotic food.md",
+=======
+                    "file": "Trellis quantization.md",
+>>>>>>> Stashed changes
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -120,7 +128,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "exotic food.md",
+=======
+                "file": "Trellis quantization.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "exotic food.md",
+=======
+                "file": "Trellis quantization.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +165,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "exotic food.md"
+=======
+                "file": "Trellis quantization.md"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -174,7 +194,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "exotic food.md",
+=======
+                "file": "Trellis quantization.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +215,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "exotic food.md",
+=======
+                "file": "Trellis quantization.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +231,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "exotic food.md"
+=======
+                "file": "Trellis quantization.md"
+>>>>>>> Stashed changes
               }
             }
           },
@@ -232,7 +264,10 @@
   },
   "active": "63c41187ccf072b6",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "psychological trauma.md",
+=======
+>>>>>>> Stashed changes
     "dialectical behavior therapy.md",
     "psychodrama.md",
     "Gestalt therapy.md",
@@ -241,6 +276,11 @@
     "pacing strategies.md",
     "sports supplement.md",
     "vitamin D.md",
+<<<<<<< Updated upstream
     "sodium bicarbonate.md"
+=======
+    "sodium bicarbonate.md",
+    "ephedra.md"
+>>>>>>> Stashed changes
   ]
 }

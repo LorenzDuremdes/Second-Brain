@@ -1,0 +1,1 @@
+1. Trellis quantization; an [[algorithm]] that can improve data compression in DCT-based encoding methods^[https://en.wikipedia.org/wiki/Trellis_quantization]
