@@ -79,7 +79,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -91,13 +91,13 @@
               "type": "outgoing-link",
               "state": {
                 "file": "antioxidant.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -165,8 +165,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c43b0a99429956f3",
+  "active": "951b3520a05b9921",
   "lastOpenFiles": [
+    "sports science.md",
+    "antioxidant.md",
     "toxic relationships.md",
     "microsociology.md",
     "sexual intercourse.md",
