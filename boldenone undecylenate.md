@@ -1,0 +1,1 @@
+1. boldenone undecylenate (equipoise) > (dosage + duration); 200–600 mg once a week for 8–12 weeks

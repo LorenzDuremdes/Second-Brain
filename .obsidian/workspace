@@ -7,8 +7,17 @@
         "id": "c43b0a99429956f3",
         "type": "leaf",
         "state": {
+<<<<<<< Updated upstream
           "type": "empty",
           "state": {}
+=======
+          "type": "markdown",
+          "state": {
+            "file": "boldenone undecylenate.md",
+            "mode": "source",
+            "source": false
+          }
+>>>>>>> Stashed changes
         }
       }
     ],
@@ -58,7 +67,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< Updated upstream
               "state": {}
+=======
+              "state": {
+                "file": "boldenone undecylenate.md"
+              }
+>>>>>>> Stashed changes
             }
           },
           {
@@ -67,6 +82,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
+=======
+                "file": "boldenone undecylenate.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +102,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
+=======
+                "file": "boldenone undecylenate.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,6 +131,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
+=======
+                "file": "boldenone undecylenate.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +151,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
+=======
+                "file": "boldenone undecylenate.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +165,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< Updated upstream
               "state": {}
+=======
+              "state": {
+                "file": "boldenone undecylenate.md"
+              }
+>>>>>>> Stashed changes
             }
           },
           {
@@ -154,7 +191,10 @@
   },
   "active": "c43b0a99429956f3",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "boldenone undecylenate.md",
+=======
+>>>>>>> Stashed changes
     "toxic relationships.md",
     "microsociology.md",
     "sexual intercourse.md",
