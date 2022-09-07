@@ -7,17 +7,12 @@
         "id": "c43b0a99429956f3",
         "type": "leaf",
         "state": {
-<<<<<<< Updated upstream
-          "type": "empty",
-          "state": {}
-=======
           "type": "markdown",
           "state": {
-            "file": "boldenone undecylenate.md",
+            "file": "GW501516.md",
             "mode": "source",
             "source": false
           }
->>>>>>> Stashed changes
         }
       }
     ],
@@ -45,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "boldenone undecylenate",
+                "query": "gw50",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -67,13 +62,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< Updated upstream
-              "state": {}
-=======
               "state": {
-                "file": "boldenone undecylenate.md"
+                "file": "GW501516.md"
               }
->>>>>>> Stashed changes
             }
           },
           {
@@ -82,16 +73,13 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-=======
-                "file": "boldenone undecylenate.md",
->>>>>>> Stashed changes
+                "file": "GW501516.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -102,12 +90,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-=======
-                "file": "boldenone undecylenate.md",
->>>>>>> Stashed changes
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "GW501516.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -131,10 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-=======
-                "file": "boldenone undecylenate.md",
->>>>>>> Stashed changes
+                "file": "GW501516.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,10 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-=======
-                "file": "boldenone undecylenate.md",
->>>>>>> Stashed changes
+                "file": "GW501516.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,13 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< Updated upstream
-              "state": {}
-=======
               "state": {
-                "file": "boldenone undecylenate.md"
+                "file": "GW501516.md"
               }
->>>>>>> Stashed changes
             }
           },
           {
@@ -189,12 +164,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c43b0a99429956f3",
+  "active": "d026f9b3bef2ffee",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
     "boldenone undecylenate.md",
-=======
->>>>>>> Stashed changes
+    "antioxidant.md",
     "toxic relationships.md",
     "microsociology.md",
     "sexual intercourse.md",
