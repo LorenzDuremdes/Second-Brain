@@ -1,98 +1,33 @@
 {
   "main": {
-    "id": "d111a1df9a6916f0",
+    "id": "ea16740b05efdd1b",
     "type": "split",
     "children": [
       {
-        "id": "3dabb12bccf2de15",
-        "type": "split",
-        "children": [
-          {
-            "id": "502049e01872c813",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "exotic food.md",
-=======
-                "file": "Trellis quantization.md",
->>>>>>> Stashed changes
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59bfc0d4b1e218a8",
-            "type": "split",
-            "children": [
-              {
-                "id": "317438b0b635e51b",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-<<<<<<< Updated upstream
-                    "file": "exotic food.md",
-=======
-                    "file": "Trellis quantization.md",
->>>>>>> Stashed changes
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 5,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": true,
-                      "showTags": true,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": true,
-                      "textFadeMultiplier": -3,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0,
-                      "repelStrength": 20,
-                      "linkStrength": 1,
-                      "linkDistance": 30,
-                      "scale": 0.010952991388875897,
-                      "close": false
-                    }
-                  }
-                }
-              },
-              {
-                "id": "ae6500759865bb0e",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
-              }
-            ],
-            "direction": "vertical"
+        "id": "c43b0a99429956f3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "toxic relationships.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "03b48d331ab4a7a0",
+    "id": "a12456599c8cd908",
     "type": "split",
     "children": [
       {
-        "id": "1c66ab92264beaef",
+        "id": "5bec346c2ab56a78",
         "type": "tabs",
         "children": [
           {
-            "id": "145c438594fb3686",
+            "id": "d026f9b3bef2ffee",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -100,12 +35,12 @@
             }
           },
           {
-            "id": "131a80e14f7cdd95",
+            "id": "79636afbfefa9e35",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "exotic",
+                "query": "toxic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -115,7 +50,7 @@
             }
           },
           {
-            "id": "a3b398ca49a68236",
+            "id": "96f4f9f6120336bc",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -123,53 +58,41 @@
             }
           },
           {
-            "id": "cf5a0a85f5240eff",
+            "id": "ff93ca08cdd736b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "toxic relationships.md"
+              }
+            }
+          },
+          {
+            "id": "951b3520a05b9921",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "exotic food.md",
-=======
-                "file": "Trellis quantization.md",
->>>>>>> Stashed changes
+                "file": "toxic relationships.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "63c41187ccf072b6",
+            "id": "68d3a34f2b835537",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "exotic food.md",
-=======
-                "file": "Trellis quantization.md",
->>>>>>> Stashed changes
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "d4381fcfd672bba8",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "exotic food.md"
-=======
-                "file": "Trellis quantization.md"
->>>>>>> Stashed changes
+                "file": "toxic relationships.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -181,24 +104,20 @@
     "width": 300
   },
   "right": {
-    "id": "b5ca97176849c162",
+    "id": "3b4bf11366d40e96",
     "type": "split",
     "children": [
       {
-        "id": "8f016a9deddf0870",
+        "id": "2cfc70753f8cbe6d",
         "type": "tabs",
         "children": [
           {
-            "id": "747650685e81a61a",
+            "id": "aca6b470f6369290",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "exotic food.md",
-=======
-                "file": "Trellis quantization.md",
->>>>>>> Stashed changes
+                "file": "toxic relationships.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,45 +129,29 @@
             }
           },
           {
-            "id": "3006857d862b62aa",
+            "id": "6cde713009565772",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "exotic food.md",
-=======
-                "file": "Trellis quantization.md",
->>>>>>> Stashed changes
+                "file": "toxic relationships.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "718b2188b12256fe",
+            "id": "3fe82eef20f4525d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
-                "file": "exotic food.md"
-=======
-                "file": "Trellis quantization.md"
->>>>>>> Stashed changes
+                "file": "toxic relationships.md"
               }
             }
           },
           {
-            "id": "cab64364ef58b935",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "13f3dfa2e991901a",
+            "id": "acb4c006756f0557",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -262,25 +165,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "63c41187ccf072b6",
+  "active": "951b3520a05b9921",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "psychological trauma.md",
-=======
->>>>>>> Stashed changes
-    "dialectical behavior therapy.md",
-    "psychodrama.md",
-    "Gestalt therapy.md",
-    "humanistic psychology.md",
-    "peloton (road bicycle racing).md",
-    "pacing strategies.md",
-    "sports supplement.md",
-    "vitamin D.md",
-<<<<<<< Updated upstream
-    "sodium bicarbonate.md"
-=======
-    "sodium bicarbonate.md",
-    "ephedra.md"
->>>>>>> Stashed changes
+    "microsociology.md",
+    "sexual intercourse.md",
+    "toxic relationships.md",
+    "intimate relationship.md"
   ]
 }

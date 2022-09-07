@@ -1,4 +1,7 @@
-1. why could [[sexual intercourse]] be 'better' with toxic partners?
+1. I had amazing ex boyfriend who was everything I could wish for, but there was no butterflies
+   
+   Since I broke it off with him I haven’t met man even comparable to him. I wish I could go back and tell my 20 years old self that later on I will mature and appreciate different things in life than stupid butterflies in stomach.^[https://www.reddit.com/r/dating/comments/x79v55/comment/ind4hq8/?utm_source=share&utm_medium=web2x&context=3]
+2. why could [[sexual intercourse]] be 'better' with toxic partners?
 	1. The best sex I have ever had was with someone who I had very little connection with outside the bedroom.
 
 		It was not enough to sustain a relationship.
