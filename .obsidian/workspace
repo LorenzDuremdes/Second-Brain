@@ -4,16 +4,60 @@
     "type": "split",
     "children": [
       {
-        "id": "c43b0a99429956f3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SR9011.md",
-            "mode": "source",
-            "source": false
+        "id": "b6fb1d19ae3b18c7",
+        "type": "split",
+        "children": [
+          {
+            "id": "c43b0a99429956f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dr. David McPhee.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "7983486ea5eb625d"
+          },
+          {
+            "id": "f5230f24e3190fa2",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Dr. David McPhee.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0,
+                  "repelStrength": 20,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 0.012369287773296593,
+                  "close": false
+                }
+              }
+            },
+            "group": "7983486ea5eb625d"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -40,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sr9011",
+                "query": "david mcphee",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -56,48 +100,8 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "ff93ca08cdd736b8",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "SR9011.md"
-              }
-            }
-          },
-          {
-            "id": "951b3520a05b9921",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "SR9011.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "68d3a34f2b835537",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "SR9011.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -117,14 +121,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SR9011.md",
+                "file": "Dr. David McPhee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -134,9 +138,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SR9011.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Dr. David McPhee.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -146,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SR9011.md"
+                "file": "Dr. David McPhee.md"
               }
             }
           },
@@ -158,15 +162,16 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "951b3520a05b9921",
+  "active": "d026f9b3bef2ffee",
   "lastOpenFiles": [
+    "SR9011.md",
     "GW501516.md",
     "boldenone undecylenate.md",
     "antioxidant.md",
