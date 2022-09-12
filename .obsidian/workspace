@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "racing thoughts.md",
+                "file": "Dr. David McPhee.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "racing thoughts.md",
+                "file": "Dr. David McPhee.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "racing thoughts.md",
+                "file": "Dr. David McPhee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "racing thoughts.md",
+                "file": "Dr. David McPhee.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "racing thoughts.md"
+                "file": "Dr. David McPhee.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   },
   "active": "aca6b470f6369290",
   "lastOpenFiles": [
+    "racing thoughts.md",
     "Dr. David McPhee.md",
     "SR9011.md",
     "GW501516.md",
