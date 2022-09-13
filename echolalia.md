@@ -1,0 +1,1 @@
+1. echolalia; used as a [[coping]] mechanism allowing an autistic person to contribute to a conversation when unable to produce spontaneous speech.^[https://en.wikipedia.org/wiki/Echolalia#cite_note-Volkmar-2] ([[autism]])

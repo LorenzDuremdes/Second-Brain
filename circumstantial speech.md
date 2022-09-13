@@ -1,0 +1,2 @@
+1. circumstantial speech; the result of a so-called "non-linear thought pattern" and occurs when the focus of a conversation drifts, but often comes back to the point.^[https://en.wikipedia.org/wiki/Circumstantial_speech#cite_note-BG-1]
+	1. omslachtigheid (Nederlands)

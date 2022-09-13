@@ -1,0 +1,1 @@
+1. incoherence / world salad ([[psychology]]); speech that is unintelligible because, though the individual words are real words, the manner in which they are strung together results in incoherent gibberish^[https://en.wikipedia.org/wiki/Thought_disorder#cite_note-Videbeck-61]

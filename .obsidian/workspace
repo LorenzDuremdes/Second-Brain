@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MK-677.md",
+                "file": "neologism (thought disorder).md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MK-677.md",
+                "file": "neologism (thought disorder).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mk 677",
+                "query": "echolalia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MK-677.md",
+                "file": "neologism (thought disorder).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MK-677.md",
+                "file": "neologism (thought disorder).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MK-677.md"
+                "file": "neologism (thought disorder).md"
               }
             }
           },
@@ -163,23 +163,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3fe82eef20f4525d",
+  "active": "6cde713009565772",
   "lastOpenFiles": [
-    "Venturi effect.md",
+    "incoherence or world salad (psychology).md",
+    "circumstantial speech.md",
+    "echolalia.md",
     "MK-677.md",
+    "Venturi effect.md",
     "Dr. David McPhee.md",
     "racing thoughts.md",
     "SR9011.md",
     "GW501516.md",
-    "boldenone undecylenate.md",
-    "antioxidant.md",
-    "toxic relationships.md",
-    "microsociology.md"
+    "boldenone undecylenate.md"
   ]
 }
