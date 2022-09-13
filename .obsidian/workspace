@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Venturi effect.md",
+                "file": "MK-677.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Venturi effect.md",
+                "file": "MK-677.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Venturi effect.md",
+                "file": "MK-677.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Venturi effect.md",
+                "file": "MK-677.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Venturi effect.md"
+                "file": "MK-677.md"
               }
             }
           },
@@ -162,14 +162,16 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c43b0a99429956f3",
+  "active": "3fe82eef20f4525d",
   "lastOpenFiles": [
+    "Venturi effect.md",
     "MK-677.md",
     "Dr. David McPhee.md",
     "racing thoughts.md",
@@ -178,7 +180,6 @@
     "boldenone undecylenate.md",
     "antioxidant.md",
     "toxic relationships.md",
-    "microsociology.md",
-    "sexual intercourse.md"
+    "microsociology.md"
   ]
 }
