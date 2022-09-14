@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MK-677.md",
+                "file": "Janoshik.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MK-677.md",
+                "file": "Janoshik.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gw501516",
+                "query": "selective and",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MK-677.md",
+                "file": "Janoshik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MK-677.md",
+                "file": "Janoshik.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MK-677.md"
+                "file": "Janoshik.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "6cde713009565772",
   "lastOpenFiles": [
+    "SARMS.md",
     "GW501516.md",
     "MK-677.md",
     "neologism (thought disorder).md",
@@ -179,7 +180,6 @@
     "echolalia.md",
     "Venturi effect.md",
     "Dr. David McPhee.md",
-    "racing thoughts.md",
-    "SR9011.md"
+    "racing thoughts.md"
   ]
 }
