@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "echolalia",
+                "query": "gw501516",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -162,23 +162,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "aca6b470f6369290",
+  "active": "6cde713009565772",
   "lastOpenFiles": [
+    "GW501516.md",
+    "MK-677.md",
     "neologism (thought disorder).md",
     "incoherence or world salad (psychology).md",
     "circumstantial speech.md",
     "echolalia.md",
-    "MK-677.md",
     "Venturi effect.md",
     "Dr. David McPhee.md",
     "racing thoughts.md",
-    "SR9011.md",
-    "GW501516.md"
+    "SR9011.md"
   ]
 }
