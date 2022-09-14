@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Janoshik.md",
+                "file": "SARMS.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Janoshik.md",
+                "file": "SARMS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Janoshik.md",
+                "file": "SARMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Janoshik.md",
+                "file": "SARMS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Janoshik.md"
+                "file": "SARMS.md"
               }
             }
           },
@@ -169,8 +169,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6cde713009565772",
+  "active": "c43b0a99429956f3",
   "lastOpenFiles": [
+    "Janoshik.md",
     "SARMS.md",
     "GW501516.md",
     "MK-677.md",
@@ -179,7 +180,6 @@
     "circumstantial speech.md",
     "echolalia.md",
     "Venturi effect.md",
-    "Dr. David McPhee.md",
-    "racing thoughts.md"
+    "Dr. David McPhee.md"
   ]
 }
