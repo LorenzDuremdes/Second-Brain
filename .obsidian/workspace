@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "querulous paranoia.md",
+                "file": "scarcity (persuasion).md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "querulous paranoia.md",
+                "file": "scarcity (persuasion).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "selective and",
+                "query": "scarcity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "querulous paranoia.md",
+                "file": "scarcity (persuasion).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "querulous paranoia.md",
+                "file": "scarcity (persuasion).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "querulous paranoia.md"
+                "file": "scarcity (persuasion).md"
               }
             }
           },
@@ -169,17 +169,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c43b0a99429956f3",
+  "active": "d026f9b3bef2ffee",
   "lastOpenFiles": [
-    "archaic (Wiktionary).md",
+    "censorship.md",
+    "persuasion.md",
     "querulous paranoia.md",
+    "archaic (Wiktionary).md",
     "persecutory delusion.md",
     "benadelingswaan.md",
     "ideas and delusions of reference.md",
     "overvalued idea.md",
     "SARMS.md",
-    "Janoshik.md",
-    "GW501516.md",
-    "MK-677.md"
+    "Janoshik.md"
   ]
 }
