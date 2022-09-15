@@ -1,0 +1,2 @@
+1. an archaic term names a still-extant thing or non-outdated concept (Wiktionary)^[https://kpop.get-home.live/host-https-en.wiktionary.org/wiki/Appendix:Glossary]
+	1. obsolete refers to an outdated concept

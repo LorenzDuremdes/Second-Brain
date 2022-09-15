@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SARMS.md",
+                "file": "querulous paranoia.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SARMS.md",
+                "file": "querulous paranoia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.012369287773296593,
+                  "scale": 0.0078125,
                   "close": false
                 }
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SARMS.md",
+                "file": "querulous paranoia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SARMS.md",
+                "file": "querulous paranoia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SARMS.md"
+                "file": "querulous paranoia.md"
               }
             }
           },
@@ -171,15 +171,15 @@
   },
   "active": "c43b0a99429956f3",
   "lastOpenFiles": [
-    "Janoshik.md",
+    "archaic (Wiktionary).md",
+    "querulous paranoia.md",
+    "persecutory delusion.md",
+    "benadelingswaan.md",
+    "ideas and delusions of reference.md",
+    "overvalued idea.md",
     "SARMS.md",
+    "Janoshik.md",
     "GW501516.md",
-    "MK-677.md",
-    "neologism (thought disorder).md",
-    "incoherence or world salad (psychology).md",
-    "circumstantial speech.md",
-    "echolalia.md",
-    "Venturi effect.md",
-    "Dr. David McPhee.md"
+    "MK-677.md"
   ]
 }
