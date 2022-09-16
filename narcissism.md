@@ -33,7 +33,7 @@
 6. **[[self]] perception**: disdainful toward others
 
 ## sources
-1. https://qr.ae/pGDeCc (Dr. David McPhee)
+1. https://qr.ae/pGDeCc ([[Dr. David McPhee]])
 2. https://www.psychologytoday.com/intl/blog/when-disaster-strikes-inside-disaster-psychology/201907/the-three-faces-narcissism-new-look-old
 
 # related

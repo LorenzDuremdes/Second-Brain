@@ -1,0 +1,2 @@
+1. neologism (thought disorder); forms completely new words or phrases whose origins and meanings are usually unrecognizable^[https://en.wikipedia.org/wiki/Thought_disorder]
+	1. e.g. "I got so angry I picked up a dish and threw it at the geshinker."^[https://en.wikipedia.org/wiki/Thought_disorder#cite_note-74]

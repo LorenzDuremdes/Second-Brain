@@ -1,0 +1,2 @@
+1. benadelingswaan; de persoon heeft hier in het bijzonder de overtuiging dat de gebeurtenis nadelig, dreigend of vijandig is en speciaal tegen hem of haar is gericht^[Psychotherapie en Psychiatrie, 8.3.2.2]
+	1. een karakteristieke gedachte is dat alles tegenzit en moedwillig gedwarsboomd wordt

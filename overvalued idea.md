@@ -1,0 +1,2 @@
+1. overvalued idea; exaggerated beliefs that a person sustains beyond reasons, but are not as unbelievable and are not as persistently held as delusions.^[https://en.wikipedia.org/wiki/Glossary_of_psychiatry#cite_note-Disturbances_in_Thought_Contents_2017-27]^[https://en.wikipedia.org/wiki/Glossary_of_psychiatry#cite_note-28]
+	1. preoccupation with spouse's possible [[infidelity]] can be an overvalued idea if no evidence exists to arouse suspicion

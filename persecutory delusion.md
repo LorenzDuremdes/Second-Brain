@@ -1,0 +1,1 @@
+1. persecutory [[delusion]] (vervolgingswaan (Nederlands)); a set of delusional conditions in which the affected persons believe they are being persecuted, despite a lack of evidence
