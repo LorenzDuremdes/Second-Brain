@@ -1,88 +1,33 @@
 {
   "main": {
-    "id": "ea16740b05efdd1b",
+    "id": "02afbb585f6fc672",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "c43b0a99429956f3",
+        "id": "04c564bc7d4bd010",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Scoville scale.md",
+            "file": "secure attachment style.md",
             "mode": "source",
             "source": false
-=======
-        "id": "b6fb1d19ae3b18c7",
-        "type": "split",
-        "children": [
-          {
-            "id": "c43b0a99429956f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scarcity (persuasion).md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "7983486ea5eb625d"
-          },
-          {
-            "id": "f5230f24e3190fa2",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "scarcity (persuasion).md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 5,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": true,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0,
-                  "repelStrength": 20,
-                  "linkStrength": 1,
-                  "linkDistance": 30,
-                  "scale": 0.0078125,
-                  "close": false
-                }
-              }
-            },
-            "group": "7983486ea5eb625d"
->>>>>>> cf81e6dc8d5aea3c897303604e73f73b68a273f0
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a12456599c8cd908",
+    "id": "6e173cdc1dfcaf3b",
     "type": "split",
     "children": [
       {
-        "id": "5bec346c2ab56a78",
+        "id": "dc5e709cc2af1594",
         "type": "tabs",
         "children": [
           {
-            "id": "d026f9b3bef2ffee",
+            "id": "d73c47e0f266f9bf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -90,12 +35,12 @@
             }
           },
           {
-            "id": "79636afbfefa9e35",
+            "id": "29316e87b9ef3589",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "scarcity",
+                "query": "secure attachment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -105,51 +50,35 @@
             }
           },
           {
-            "id": "96f4f9f6120336bc",
+            "id": "352b51f2e9329f4f",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
-<<<<<<< HEAD
-          },
-          {
-            "id": "ff93ca08cdd736b8",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Scoville scale.md"
-              }
-            }
-=======
->>>>>>> cf81e6dc8d5aea3c897303604e73f73b68a273f0
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "3b4bf11366d40e96",
+    "id": "6b2b3a431e4e2c08",
     "type": "split",
     "children": [
       {
-        "id": "2cfc70753f8cbe6d",
+        "id": "c55bc7dff4219ba2",
         "type": "tabs",
         "children": [
           {
-            "id": "aca6b470f6369290",
+            "id": "a0388debb4b5c4fa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Scoville scale.md",
-=======
-                "file": "scarcity (persuasion).md",
->>>>>>> cf81e6dc8d5aea3c897303604e73f73b68a273f0
+                "file": "secure attachment style.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,37 +90,29 @@
             }
           },
           {
-            "id": "6cde713009565772",
+            "id": "3b9d73c55e0a4fdb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Scoville scale.md",
-=======
-                "file": "scarcity (persuasion).md",
->>>>>>> cf81e6dc8d5aea3c897303604e73f73b68a273f0
+                "file": "secure attachment style.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "3fe82eef20f4525d",
+            "id": "34f471c842f5b31b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Scoville scale.md"
-=======
-                "file": "scarcity (persuasion).md"
->>>>>>> cf81e6dc8d5aea3c897303604e73f73b68a273f0
+                "file": "secure attachment style.md"
               }
             }
           },
           {
-            "id": "acb4c006756f0557",
+            "id": "9a4bac64f82db7ef",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -199,36 +120,14 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-<<<<<<< HEAD
-  "active": "aca6b470f6369290",
+  "active": "04c564bc7d4bd010",
   "lastOpenFiles": [
-    "SR9011.md",
-    "GW501516.md",
-    "boldenone undecylenate.md",
-    "antioxidant.md",
-    "toxic relationships.md",
-    "microsociology.md",
-    "sexual intercourse.md",
     "intimate relationship.md"
-=======
-  "active": "d026f9b3bef2ffee",
-  "lastOpenFiles": [
-    "censorship.md",
-    "persuasion.md",
-    "querulous paranoia.md",
-    "archaic (Wiktionary).md",
-    "persecutory delusion.md",
-    "benadelingswaan.md",
-    "ideas and delusions of reference.md",
-    "overvalued idea.md",
-    "SARMS.md",
-    "Janoshik.md"
->>>>>>> cf81e6dc8d5aea3c897303604e73f73b68a273f0
   ]
 }
