@@ -1,0 +1,1 @@
+1. Scoville scale; a [[measurement]] of the pungency (spiciness or "heat") of chili peppers, based on the concentration of capsaicinoids, among which capsaicin is the predominant component.^[https://en.wikipedia.org/wiki/Scoville_scale#cite_note-twi-3]

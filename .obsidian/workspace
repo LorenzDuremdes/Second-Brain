@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SR9011.md",
+            "file": "Scoville scale.md",
             "mode": "source",
             "source": false
           }
@@ -63,41 +63,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SR9011.md"
-              }
-            }
-          },
-          {
-            "id": "951b3520a05b9921",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "SR9011.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "68d3a34f2b835537",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "SR9011.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "file": "Scoville scale.md"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -117,14 +87,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SR9011.md",
+                "file": "Scoville scale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -134,9 +104,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SR9011.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Scoville scale.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -146,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SR9011.md"
+                "file": "Scoville scale.md"
               }
             }
           },
@@ -162,11 +132,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "951b3520a05b9921",
+  "active": "aca6b470f6369290",
   "lastOpenFiles": [
+    "SR9011.md",
     "GW501516.md",
     "boldenone undecylenate.md",
     "antioxidant.md",
