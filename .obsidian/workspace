@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moravec's paradox.md",
+                "file": "buy and hold.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Moravec's paradox.md",
+                "file": "buy and hold.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "moravec paradox",
+                "query": "time in the market",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Moravec's paradox.md",
+                "file": "buy and hold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Moravec's paradox.md",
+                "file": "buy and hold.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Moravec's paradox.md"
+                "file": "buy and hold.md"
               }
             }
           },
@@ -162,14 +162,16 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "23373970f0dc87f1",
+  "active": "3b9d73c55e0a4fdb",
   "lastOpenFiles": [
+    "Moravec's paradox.md",
     "secure attachment style.md",
     "intimate relationship.md"
   ]
