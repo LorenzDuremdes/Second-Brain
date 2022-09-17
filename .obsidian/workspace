@@ -4,16 +4,60 @@
     "type": "split",
     "children": [
       {
-        "id": "04c564bc7d4bd010",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "secure attachment style.md",
-            "mode": "source",
-            "source": false
+        "id": "99318681ec0bdc5e",
+        "type": "split",
+        "children": [
+          {
+            "id": "04c564bc7d4bd010",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Moravec's paradox.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "5adf30168115792e"
+          },
+          {
+            "id": "23373970f0dc87f1",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Moravec's paradox.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0,
+                  "repelStrength": 20,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 0.010952991388875845,
+                  "close": false
+                }
+              }
+            },
+            "group": "5adf30168115792e"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -40,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "secure attachment",
+                "query": "moravec paradox",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -57,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "secure attachment style.md",
+                "file": "Moravec's paradox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "secure attachment style.md",
+                "file": "Moravec's paradox.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -107,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "secure attachment style.md"
+                "file": "Moravec's paradox.md"
               }
             }
           },
@@ -119,15 +162,15 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "04c564bc7d4bd010",
+  "active": "23373970f0dc87f1",
   "lastOpenFiles": [
+    "secure attachment style.md",
     "intimate relationship.md"
   ]
 }
