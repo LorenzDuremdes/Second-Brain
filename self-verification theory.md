@@ -1,0 +1,2 @@
+1. [[self]]-verification theory; a social psychological theory that asserts people want to be known and understood by others according to their firmly held beliefs and feelings about themselves^[https://en.wikipedia.org/wiki/Self-verification_theory]
+	1. the self-verification theory explains how individuals use selfies to gain verification from others through likes and comments^[https://en.wikipedia.org/wiki/Body_dysmorphic_disorder#Social_media]
