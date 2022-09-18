@@ -162,15 +162,17 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a0388debb4b5c4fa",
+  "active": "04c564bc7d4bd010",
   "lastOpenFiles": [
     "GW501516.md",
+    "MK-677.md",
     "self-verification theory.md",
     "unconditional positive regard.md",
     "as a therapist (unconditional positive regard).jpg",
