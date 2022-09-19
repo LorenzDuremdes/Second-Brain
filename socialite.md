@@ -1,0 +1,1 @@
+1. socialite; generally spends a significant amount of time attending various fashionable social gatherings, instead of having traditional [[employment]].^[https://en.wikipedia.org/wiki/Socialite#cite_note-Dictionary-1]^[https://en.wikipedia.org/wiki/Socialite#cite_note-Merriam-Webster-2]^[https://en.wikipedia.org/wiki/Socialite#cite_note-Heather_Nunn_2013-3]
