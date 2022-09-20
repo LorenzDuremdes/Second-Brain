@@ -1,0 +1,1 @@
+1. begripsverlies (denkstoornis); begrippen verliezen hun betekenis en kunnen niet meer door andere begrippen worden afgegrensd^[Psychotherapie en Psychiatrie, 8.3.1.13]

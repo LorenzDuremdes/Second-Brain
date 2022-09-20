@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "socialite.md",
+=======
+                "file": "begripsverlies (denkstoornis).md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +30,11 @@
             "state": {
               "type": "localgraph",
               "state": {
+<<<<<<< Updated upstream
                 "file": "socialite.md",
+=======
+                "file": "begripsverlies (denkstoornis).md",
+>>>>>>> Stashed changes
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -121,7 +129,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "socialite.md",
+=======
+                "file": "begripsverlies (denkstoornis).md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "socialite.md",
+=======
+                "file": "begripsverlies (denkstoornis).md",
+>>>>>>> Stashed changes
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +166,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "socialite.md"
+=======
+                "file": "begripsverlies (denkstoornis).md"
+>>>>>>> Stashed changes
               }
             }
           },
@@ -162,13 +182,13 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
+<<<<<<< Updated upstream
   "active": "3b9d73c55e0a4fdb",
   "lastOpenFiles": [
     "MK-677.md",
@@ -181,5 +201,19 @@
     "Moravec's paradox.md",
     "secure attachment style.md",
     "intimate relationship.md"
+=======
+  "active": "c43b0a99429956f3",
+  "lastOpenFiles": [
+    "contaminatie (denkstoornis).md",
+    "neologism (thought disorder).md",
+    "incoherence or world salad (psychology).md",
+    "circumstantial speech.md",
+    "echolalia.md",
+    "MK-677.md",
+    "Venturi effect.md",
+    "Dr. David McPhee.md",
+    "racing thoughts.md",
+    "SR9011.md"
+>>>>>>> Stashed changes
   ]
 }

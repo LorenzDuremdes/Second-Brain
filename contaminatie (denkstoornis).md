@@ -1,0 +1,1 @@
+1. contaminatie (denkstoornis); het verbinden van onzinnige of zinloze woordcombinaties^[Psychotherapie en Psychiatrie, 8.3.1.12]
