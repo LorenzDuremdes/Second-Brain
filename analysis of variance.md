@@ -1,0 +1,1 @@
+1. analysis of variance (ANOVA); a collection of statistical models and their associated estimation procedures (such as the "variation" among and between groups) used to analyze the differences among means
