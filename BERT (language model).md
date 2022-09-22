@@ -1,0 +1,1 @@
+1. BERT ([[language]] model); a transformer-based [[machine learning]] technique for natural [[language]] processing (NLP) pre-training developed by Google. Was created and published in 2018 by Jacob Devlin and his colleagues from Google.^[https://en.wikipedia.org/wiki/BERT_(language_model)#cite_note-:0-1]^[https://en.wikipedia.org/wiki/BERT_(language_model)#cite_note-2]
