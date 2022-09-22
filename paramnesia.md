@@ -1,0 +1,1 @@
+1. paramnesia; [[memory]]-based [[delusion]] or confabulation, or an inability to distinguish between real and fantasy memories e.g. déjà vu

@@ -1,0 +1,1 @@
+1. dyschronometria; a condition of cerebellar dysfunction in which an individual cannot accurately estimate the amount of [[time]] that has passed (i.e., distorted [[time]] perception)^[https://en.wikipedia.org/wiki/Dyschronometria]

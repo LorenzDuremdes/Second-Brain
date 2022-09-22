@@ -1,0 +1,1 @@
+1. ekmnesie; het verleden wordt als het heden beleefd^[Psychotherapie en Psychiatrie, 9.2]
