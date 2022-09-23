@@ -4,16 +4,60 @@
     "type": "split",
     "children": [
       {
-        "id": "de385c76dffdad8b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ΛCDM model.md",
-            "mode": "source",
-            "source": false
+        "id": "cbd8f5dbecebd3be",
+        "type": "split",
+        "children": [
+          {
+            "id": "de385c76dffdad8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "praise.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "e534918e94ba69f7"
+          },
+          {
+            "id": "9765d578750fa738",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "praise.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0,
+                  "repelStrength": 20,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 0.008822709458808132,
+                  "close": false
+                }
+              }
+            },
+            "group": "e534918e94ba69f7"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -77,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ΛCDM model.md",
+                "file": "praise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ΛCDM model.md",
+                "file": "praise.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ΛCDM model.md"
+                "file": "praise.md"
               }
             }
           },
@@ -125,8 +169,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2a698de66b32dcf1",
+  "active": "9765d578750fa738",
   "lastOpenFiles": [
+    "ΛCDM model.md",
     "fuzzy logic.md",
     "gamut.md",
     "BERT (language model).md",
@@ -135,7 +180,6 @@
     "ekmnesie.md",
     "paramnesia.md",
     "multivariate analysis of variance.md",
-    "analysis of variance.md",
-    "guesstimate.md"
+    "analysis of variance.md"
   ]
 }
