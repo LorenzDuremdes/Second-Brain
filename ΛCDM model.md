@@ -1,0 +1,2 @@
+1. Lambda cold dark matter (ΛCDM) model; a parameterization of the Big Bang cosmological model in which the universe contains three major components: first, a cosmological constant associated with dark [[energy]]; second, the postulated cold dark matter; and third, ordinary matter^[https://en.wikipedia.org/wiki/Lambda-CDM_model]
+	1. cosmological constant (Λ) associated with dark [[energy]]

@@ -1,0 +1,4 @@
+1. gamut (computer graphics); a certain complete subset of colors
+2. Typical cathode-ray tube (CRT) gamut
+The grayed-out horseshoe shape is the entire range of possible chromaticities, displayed in the CIE 1931 chromaticity diagram format (see below). The colored triangle is the gamut available to the sRGB color space typically used in computer monitors; it does not cover the entire space. The corners of the triangle are the primary colors for this gamut; in the case of a CRT, they depend on the colors of the phosphors of the monitor. At each point, the brightest possible RGB color of that chromaticity is shown, resulting in the bright Mach band stripes corresponding to the edges of the RGB color cube.^[By Hankwang at English Wikipedia - Transferred from en.wikipedia to Commons by Aboalbiss., Public Domain, https://commons.wikimedia.org/w/index.php?curid=8284581]
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/CIExy1931_srgb_gamut.png" width="400" />
