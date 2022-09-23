@@ -1,0 +1,3 @@
+1. embarrassingly parallel; one where little or no effort is needed to separate the problem into a number of parallel tasks.^[https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_note-1]
+2. a common example of an embarrassingly parallel problem is 3D video rendering handled by a [[graphics processing unit]], where each frame (forward method) or pixel (ray tracing method) can be handled with no interdependency.^[https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_note-ChalmersReinhard2011-3]
+3. "embarrassingly" is used here in the same sense as in the phrase "an embarrassment of riches", meaning an overabundance—here referring to parallelization problems which are "embarrassingly easy".^[https://en.wikipedia.org/wiki/Embarrassingly_parallel#cite_note-4]
