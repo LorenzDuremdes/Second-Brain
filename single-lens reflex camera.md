@@ -1,0 +1,1 @@
+1. single-lens reflex (SLR) camera; a camera that typically uses a mirror and prism system (hence "reflex" from the mirror's reflection) that permits the photographer to view through the lens and see exactly what will be captured^[https://en.wikipedia.org/wiki/Single-lens_reflex_camera]

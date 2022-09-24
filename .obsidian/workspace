@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topaz Labs.md",
+                "file": "single-lens reflex camera.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Topaz Labs.md",
+                "file": "single-lens reflex camera.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topaz Labs.md",
+                "file": "single-lens reflex camera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Topaz Labs.md",
+                "file": "single-lens reflex camera.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Topaz Labs.md"
+                "file": "single-lens reflex camera.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   },
   "active": "76599448807bd7bd",
   "lastOpenFiles": [
+    "Topaz Labs.md",
     "embarrassingly parallel.md",
     "praise.md",
     "ΛCDM model.md",
@@ -178,7 +179,6 @@
     "BERT (language model).md",
     "RoBERTa.md",
     "dyschronometria.md",
-    "ekmnesie.md",
-    "paramnesia.md"
+    "ekmnesie.md"
   ]
 }
