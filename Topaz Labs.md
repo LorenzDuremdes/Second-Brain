@@ -1,0 +1,3 @@
+1. Topaz Labs workflow (personal preference) + why
+	1. Denoise > Gigapixel > Sharpen (doing Sharpen before Gigapixel results in too many artifacts (e.g. around tree tops))
+	2. What no one discusses is that Gigapixel sharpens the photo, so my advice is run it through Gigapixel first before considering Sharpen^[https://www.reddit.com/r/photography/comments/wjg4t5/comment/ijlpfjt/?utm_source=share&utm_medium=web2x&context=3]

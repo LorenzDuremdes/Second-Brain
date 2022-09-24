@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "embarrassingly parallel.md",
+                "file": "Topaz Labs.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "embarrassingly parallel.md",
+                "file": "Topaz Labs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "topaz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "embarrassingly parallel.md",
+                "file": "Topaz Labs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "embarrassingly parallel.md",
+                "file": "Topaz Labs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "embarrassingly parallel.md"
+                "file": "Topaz Labs.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   },
   "active": "76599448807bd7bd",
   "lastOpenFiles": [
+    "embarrassingly parallel.md",
     "praise.md",
     "ΛCDM model.md",
     "fuzzy logic.md",
@@ -178,7 +179,6 @@
     "RoBERTa.md",
     "dyschronometria.md",
     "ekmnesie.md",
-    "paramnesia.md",
-    "multivariate analysis of variance.md"
+    "paramnesia.md"
   ]
 }
