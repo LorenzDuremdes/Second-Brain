@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "single-lens reflex camera.md",
+                "file": "sopor (sleep).md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "single-lens reflex camera.md",
+                "file": "sopor (sleep).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "single-lens reflex camera.md",
+                "file": "sopor (sleep).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "single-lens reflex camera.md",
+                "file": "sopor (sleep).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "single-lens reflex camera.md"
+                "file": "sopor (sleep).md"
               }
             }
           },
@@ -162,23 +162,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "76599448807bd7bd",
+  "active": "2a698de66b32dcf1",
   "lastOpenFiles": [
+    "somnolence.md",
+    "kwantitatieve bewustzijnsstoornis.md",
+    "pseudohallucination.md",
+    "gustatory system.md",
+    "Akoasma.md",
+    "single-lens reflex camera.md",
     "Topaz Labs.md",
     "embarrassingly parallel.md",
     "praise.md",
-    "ΛCDM model.md",
-    "fuzzy logic.md",
-    "gamut.md",
-    "BERT (language model).md",
-    "RoBERTa.md",
-    "dyschronometria.md",
-    "ekmnesie.md"
+    "ΛCDM model.md"
   ]
 }

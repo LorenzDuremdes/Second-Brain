@@ -1,0 +1,2 @@
+1. sopor ([[sleep]]); a condition of abnormally deep [[sleep]] or a stupor from which it is difficult to rouse a person.^[https://en.wikipedia.org/wiki/Sopor_(sleep)#cite_note-1]
+	1. a stupor is more severe than a sopor

@@ -1,0 +1,2 @@
+1. wat veroorzaakt "kwantitatieve bewustzijnsstoornis"?
+	1. organische stoornissen die medisch moeten worden behandeld (niet (op de eerste plaats) psychotherapeutisch)^[Psychotherapie en Psychiatrie, 9.4.1]

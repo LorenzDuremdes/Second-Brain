@@ -1,0 +1,1 @@
+1. pseudohallucination; an involuntary sensory experience vivid enough to be regarded as a hallucination, but which is recognised by the person experiencing it as being subjective and unreal^[https://en.wikipedia.org/wiki/Pseudohallucination]

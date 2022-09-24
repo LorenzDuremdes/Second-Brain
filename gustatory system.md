@@ -1,0 +1,1 @@
+1. gustatory [[system]]; the sensory [[system]] that is partially responsible for the perception of taste (flavor).^[https://en.wikipedia.org/wiki/Taste#cite_note-Trivedi-1]
