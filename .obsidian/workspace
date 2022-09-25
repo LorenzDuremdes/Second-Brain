@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sopor (sleep).md",
+                "file": "linguistic relativity.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sopor (sleep).md",
+                "file": "linguistic relativity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sopor (sleep).md",
+                "file": "linguistic relativity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sopor (sleep).md",
+                "file": "linguistic relativity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sopor (sleep).md"
+                "file": "linguistic relativity.md"
               }
             }
           },
@@ -169,8 +169,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2a698de66b32dcf1",
+  "active": "de385c76dffdad8b",
   "lastOpenFiles": [
+    "sopor (sleep).md",
     "somnolence.md",
     "kwantitatieve bewustzijnsstoornis.md",
     "pseudohallucination.md",
@@ -179,7 +180,6 @@
     "single-lens reflex camera.md",
     "Topaz Labs.md",
     "embarrassingly parallel.md",
-    "praise.md",
-    "ΛCDM model.md"
+    "praise.md"
   ]
 }

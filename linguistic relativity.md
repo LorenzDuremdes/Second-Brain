@@ -1,0 +1,1 @@
+1. linguistic relativity; a principle suggesting that the structure of a [[language]] affects its speakers' worldview or [[cognition]], and thus people's perceptions are relative to their spoken [[language]]
