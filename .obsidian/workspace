@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linguistic relativity.md",
+                "file": "bewustzijnsbeneveling.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "linguistic relativity.md",
+                "file": "bewustzijnsbeneveling.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linguistic relativity.md",
+                "file": "bewustzijnsbeneveling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linguistic relativity.md",
+                "file": "bewustzijnsbeneveling.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linguistic relativity.md"
+                "file": "bewustzijnsbeneveling.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "de385c76dffdad8b",
   "lastOpenFiles": [
+    "linguistic relativity.md",
     "sopor (sleep).md",
     "somnolence.md",
     "kwantitatieve bewustzijnsstoornis.md",
@@ -179,7 +180,6 @@
     "Akoasma.md",
     "single-lens reflex camera.md",
     "Topaz Labs.md",
-    "embarrassingly parallel.md",
-    "praise.md"
+    "embarrassingly parallel.md"
   ]
 }
