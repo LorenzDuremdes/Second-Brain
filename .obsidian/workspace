@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bewustzijnsbeneveling.md",
+                "file": "social grooming.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "bewustzijnsbeneveling.md",
+                "file": "social grooming.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -84,10 +84,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "topaz",
+                "query": "social grooming",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bewustzijnsbeneveling.md",
+                "file": "social grooming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bewustzijnsbeneveling.md",
+                "file": "social grooming.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bewustzijnsbeneveling.md"
+                "file": "social grooming.md"
               }
             }
           },
@@ -162,15 +162,15 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "de385c76dffdad8b",
+  "active": "d929ecde9ab5377d",
   "lastOpenFiles": [
+    "bewustzijnsbeneveling.md",
     "linguistic relativity.md",
     "sopor (sleep).md",
     "somnolence.md",
@@ -179,7 +179,6 @@
     "gustatory system.md",
     "Akoasma.md",
     "single-lens reflex camera.md",
-    "Topaz Labs.md",
-    "embarrassingly parallel.md"
+    "Topaz Labs.md"
   ]
 }
