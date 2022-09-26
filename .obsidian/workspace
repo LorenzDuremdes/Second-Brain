@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dr. David McPhee.md",
+                "file": "Bayesian-Nash incentive-compatibility.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dr. David McPhee.md",
+                "file": "Bayesian-Nash incentive-compatibility.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -49,7 +49,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.008822709458808132,
+                  "scale": 0.0078125,
                   "close": false
                 }
               }
@@ -101,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dr. David McPhee.md",
+                "file": "Bayesian-Nash incentive-compatibility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dr. David McPhee.md",
+                "file": "Bayesian-Nash incentive-compatibility.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dr. David McPhee.md"
+                "file": "Bayesian-Nash incentive-compatibility.md"
               }
             }
           },
@@ -163,15 +162,16 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2a698de66b32dcf1",
+  "active": "76599448807bd7bd",
   "lastOpenFiles": [
+    "social choice theory.md",
+    "Dr. David McPhee.md",
     "social grooming.md",
     "bewustzijnsbeneveling.md",
     "linguistic relativity.md",
@@ -179,8 +179,6 @@
     "somnolence.md",
     "kwantitatieve bewustzijnsstoornis.md",
     "pseudohallucination.md",
-    "gustatory system.md",
-    "Akoasma.md",
-    "single-lens reflex camera.md"
+    "gustatory system.md"
   ]
 }

@@ -1,0 +1,1 @@
+1. social choice theory; concerned with how to translate the preferences of individuals into the preferences of a group^[https://en.wikipedia.org/wiki/Social_choice_theory]

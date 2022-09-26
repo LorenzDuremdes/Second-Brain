@@ -1,0 +1,1 @@
+1. Bayesian-Nash incentive-compatibility; means that there is a Bayesian [[Nash equilibrium]] in which all participants reveal their true preferences. I.e, if all the others act truthfully, then it is also best or at least not worse for you to be truthful.^[https://en.wikipedia.org/wiki/Incentive_compatibility#cite_note-agt07-1]: 234 
