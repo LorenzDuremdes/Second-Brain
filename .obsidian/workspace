@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bayesian-Nash incentive-compatibility.md",
+                "file": "rational number.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bayesian-Nash incentive-compatibility.md",
+                "file": "rational number.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bayesian-Nash incentive-compatibility.md",
+                "file": "rational number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bayesian-Nash incentive-compatibility.md",
+                "file": "rational number.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bayesian-Nash incentive-compatibility.md"
+                "file": "rational number.md"
               }
             }
           },
@@ -162,14 +162,16 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "76599448807bd7bd",
+  "active": "2a698de66b32dcf1",
   "lastOpenFiles": [
+    "Bayesian-Nash incentive-compatibility.md",
     "social choice theory.md",
     "Dr. David McPhee.md",
     "social grooming.md",
@@ -178,7 +180,6 @@
     "sopor (sleep).md",
     "somnolence.md",
     "kwantitatieve bewustzijnsstoornis.md",
-    "pseudohallucination.md",
-    "gustatory system.md"
+    "pseudohallucination.md"
   ]
 }
