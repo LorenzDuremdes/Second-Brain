@@ -10,7 +10,7 @@
 	1. ◇as long as the histogram doesn't show all/partially at being on one spot (e.g. extreme edges) with exception of rare cases e.g. something with a lot of the same color · brightness
 
 ## exposure value (EV)
-1. what could cause being unable to adjust "EV" (Photo Pro (Sony Xperia))?
+1. what could cause being unable to adjust "EV" (Photo Pro ([[Sony Xperia]]))?
 	1. EV is a measure of the total light exposed to the sensor during the exposure, so is the sum of all 3 settings. By changing the exposure compensation (+/- ev in intervals of 0.3), you are effectively telling the camera you want more or less total light than it's automatic meter is telling you. It will do this by adjusting whichever setting is not prioritised (eg shutter speed when in aperture priority mode).
 
 		there is no exposure compensation in Manual mode, as you are not using the automatic metering.^[https://www.reddit.com/r/photography/comments/m54tp/comment/c2y639t/?utm_source=share&utm_medium=web2x&context=3]
@@ -36,7 +36,7 @@
 
 ## design
 1. Dual Pixel AutoFocus (DPAF); means that every single pixel on the camera’s sensor has two separate, light-sensitive photodiodes, each one hosting its own micro lens, capable of working together or individually^[https://www.digitalcameraworld.com/features/what-is-dual-pixel-af-and-why-is-it-important]
-2. what could make a separate shutter button effective (Sony Xperia 1 III)?
+2. what could make a separate shutter button effective ([[Sony Xperia]] 1 III)?
 	1. e.g. touching the screen doesn't always work with a screen protector^[https://youtu.be/CnTkheIe07w?t=240]
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intelligence.md",
+                "file": "Sony Xperia.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "intelligence.md",
+                "file": "Sony Xperia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intelligence.md",
+                "file": "Sony Xperia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intelligence.md",
+                "file": "Sony Xperia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intelligence.md"
+                "file": "Sony Xperia.md"
               }
             }
           },
@@ -162,23 +162,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "76599448807bd7bd",
+  "active": "2a698de66b32dcf1",
   "lastOpenFiles": [
+    "photography.md",
+    "Sony Xperia.md",
+    "intelligence.md",
     "principle of maximum entropy.md",
     "integer.md",
     "rational number.md",
     "Bayesian-Nash incentive-compatibility.md",
     "social choice theory.md",
     "Dr. David McPhee.md",
-    "social grooming.md",
-    "bewustzijnsbeneveling.md",
-    "linguistic relativity.md",
-    "sopor (sleep).md"
+    "social grooming.md"
   ]
 }
