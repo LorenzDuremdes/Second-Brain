@@ -46,8 +46,6 @@
 		
 	2. it does not solve how to weight "short-term ↮ long-term rewards"
 
-
-
 ### environment
 1. for any k ∈ N the [[probability]] of o<sub>k</sub>r<sub>k</sub>, given the current interaction [[history]] o<sub>1</sub>r<sub>1</sub>a<sub>1</sub>o<sub>2</sub>r<sub>2</sub>a<sub>2</sub>...o<sub>k−1</sub>r<sub>k−1</sub>a<sub>k−1</sub>, is given by the [[probability]] measure:
 
@@ -94,8 +92,6 @@
 	1. e.g. ProjektMelody, Hanna Freriks, yourself, Anne-Lynn de Kock
 	2. better [[neurophysiology|hardware]] → increases intensity of all?
 
-
-
 # [[IQ]]
 1. article + video you can show people when they think "[[IQ]]=intelligence" (or to a large degree) and can't be increased
 
@@ -114,6 +110,11 @@
 			1. interference1=[[gravitational potential energy]] → why (not)?
 2. intelligence · Hill sphere (analogy)
 	1. individual intelligence
+
+# misconceptions
+1. is "intelligence g is the ability to deal with cognitive complexity — in particular complex [[information]] processing" 100% accurate + why?
+	1. not if the reward signal is always maximal no matter what the agent does despite a very complex environment with a rich set of relationships between the agent’s actions and observations^[Universal Intelligence - A Definition of Machine Intelligence, p. 22]
+		1. if the output is the same multidimensionally, then one agent isn't per se more intelligent just because it can deal with more complex [[information]]
 
 # related
 1. [[collective intelligence]]

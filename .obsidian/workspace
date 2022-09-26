@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "principle of maximum entropy.md",
+                "file": "intelligence.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "principle of maximum entropy.md",
+                "file": "intelligence.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "principle of maximum",
+                "query": "intelligence",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "principle of maximum entropy.md",
+                "file": "intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "principle of maximum entropy.md",
+                "file": "intelligence.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "principle of maximum entropy.md"
+                "file": "intelligence.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   },
   "active": "76599448807bd7bd",
   "lastOpenFiles": [
+    "principle of maximum entropy.md",
     "integer.md",
     "rational number.md",
     "Bayesian-Nash incentive-compatibility.md",
@@ -178,7 +179,6 @@
     "social grooming.md",
     "bewustzijnsbeneveling.md",
     "linguistic relativity.md",
-    "sopor (sleep).md",
-    "somnolence.md"
+    "sopor (sleep).md"
   ]
 }
