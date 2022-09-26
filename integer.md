@@ -1,0 +1,1 @@
+1. integer (Z); the number zero (0), a positive natural number (1, 2, 3, etc.) or with a minus sign (−1, −2, −3, etc.).^[https://en.wikipedia.org/wiki/Integer#cite_note-1]
