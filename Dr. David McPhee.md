@@ -6,6 +6,8 @@
 	1. he doesn't initiate them but he does accept them
 	   
 	   I was always taught, as a psychologist, not to touch. Fortunately I was also trained as a priest, notably a hospital chaplain, where the right kind of touching is an essential part of the job^[https://qr.ae/pvODWZ]
+3. what does Dr. David McPhee think of "Is it possible for a psychotherapist and client to be friends?"
+	1. it can be in a therapeutic manner (e.g. resembling them and catalyzing developments/insights...)^[https://qr.ae/pviJzj]
 
 # miscellaneous
 1. what does Dr. David McPhee think of [[Sigmund Freud]]?
