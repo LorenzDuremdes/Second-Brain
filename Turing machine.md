@@ -1,0 +1,1 @@
+1. Turing machine; a general example of a [[central processing unit]] (CPU) that controls all data manipulation done by a computer, with the canonical machine using sequential [[memory]] to store data^[https://en.wikipedia.org/wiki/Turing_machine]
