@@ -1,0 +1,2 @@
+1. revenue equivalence; a concept in auction theory that states that given certain conditions, any mechanism that results in the same outcomes (i.e. allocates items to the same bidders) also has the same expected revenue^[https://en.wikipedia.org/wiki/Revenue_equivalence]
+	1. e.g. [[Vickrey auction]]^[Algorithms to Live By: The Computer Science of Human Decisions, p. 202]

@@ -3,3 +3,4 @@
 	2. can result in "[[halting problem]]"
 3. strategic dominance → recursion ([[computer science]])
 	1. the former 'solves' the latter e.g. not having to consider the moves of the other (anymore)^[Algorithms to Live By The Computer Science of Human Decisions by Brian Christian, Tom Griffiths, p. 190]
+	2. e.g. by designing a game where being truthful is the dominant strategy (you no longer have to compute others (as much))
