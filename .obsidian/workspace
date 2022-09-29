@@ -101,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,7 +168,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "76599448807bd7bd",
+  "active": "d929ecde9ab5377d",
   "lastOpenFiles": [
     "Dr. David McPhee.md",
     "compression garment.md",
