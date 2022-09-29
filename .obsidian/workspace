@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dr. David McPhee.md",
+                "file": "John von Neumann.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dr. David McPhee.md",
+                "file": "John von Neumann.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dr david mcphee",
+                "query": "john von neumann",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -101,7 +101,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dr. David McPhee.md",
+                "file": "John von Neumann.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dr. David McPhee.md",
+                "file": "John von Neumann.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dr. David McPhee.md"
+                "file": "John von Neumann.md"
               }
             }
           },
@@ -162,15 +163,15 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2a698de66b32dcf1",
+  "active": "76599448807bd7bd",
   "lastOpenFiles": [
+    "Dr. David McPhee.md",
     "compression garment.md",
     "Sony Xperia.md",
     "photography.md",
@@ -179,7 +180,6 @@
     "integer.md",
     "rational number.md",
     "Bayesian-Nash incentive-compatibility.md",
-    "social choice theory.md",
-    "Dr. David McPhee.md"
+    "social choice theory.md"
   ]
 }

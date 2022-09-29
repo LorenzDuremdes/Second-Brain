@@ -2,3 +2,6 @@
 	1. Von Neumann was sitting at an enormous desk, looking more like a prosperous bank president than an academic in his expensive three-piece suit, silk tie, and jaunty pocket handkerchief. He had the preoccupied air of a busy executive. At the time, he was holding a dozen consultancies, “arguing the ear off Robert Oppenheimer” over the development of the H-bomb, and overseeing the construction and programming of two prototype computers. He gestured Nash to sit down. He knew who Nash was, of course, but seemed a bit puzzled by his visit.
 
 		He listened carefully, with his head cocked slightly to one side and his fingers tapping. Nash started to describe the proof he had in [[mind]]… But before he had gotten out more than a few disjointed sentences, von Neumann interrupted, jumped ahead to the as yet unstated conclusion of Nash’s argument, and said abruptly, “That’s trivial, you know. That’s just a fixed point theorem.”^[https://mattbaker.blog/2015/05/26/john-nash-and-the-theory-of-games/]
+
+# [[personality]]
+1. John von Neumann was a quick speaker^[https://en.wikipedia.org/wiki/John_von_Neumann#Personality]
