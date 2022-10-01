@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychopathy.md",
+                "file": "Peripheral Component Interconnect.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "psychopathy.md",
+                "file": "Peripheral Component Interconnect.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -99,8 +99,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychopathy.md",
+                "file": "Peripheral Component Interconnect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychopathy.md",
+                "file": "Peripheral Component Interconnect.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychopathy.md"
+                "file": "Peripheral Component Interconnect.md"
               }
             }
           },
@@ -170,6 +169,7 @@
   },
   "active": "c62466e964cc6f7e",
   "lastOpenFiles": [
+    "psychopathy.md",
     "emotional lability.md",
     "pseudobulbar effect.md",
     "episodic dyscontrol syndrome.md",
@@ -178,7 +178,6 @@
     "romantic relationship.md",
     "romance (love).md",
     "a posteriori.md",
-    "revenue equivalence.md",
-    "recursion (computer science).md"
+    "revenue equivalence.md"
   ]
 }

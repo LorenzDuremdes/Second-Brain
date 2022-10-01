@@ -1,0 +1,1 @@
+1. Peripheral Component Interconnect (PCI); a local computer bus for attaching hardware devices in a computer and is part of the PCI Local Bus standard^[https://en.wikipedia.org/wiki/Peripheral_Component_Interconnect]
