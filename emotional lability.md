@@ -1,0 +1,1 @@
+1. emotional lability; a sign or symptom typified by exaggerated changes in mood or affect in quick succession.^[https://en.wikipedia.org/wiki/Emotional_lability#cite_note-qld-1]^[https://en.wikipedia.org/wiki/Emotional_lability#cite_note-Posner-2]

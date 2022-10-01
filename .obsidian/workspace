@@ -8,17 +8,16 @@
         "type": "split",
         "children": [
           {
-            "id": "de385c76dffdad8b",
+            "id": "c62466e964cc6f7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "United Nations.md",
+                "file": "psychopathy.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "e534918e94ba69f7"
+            }
           },
           {
             "id": "9765d578750fa738",
@@ -26,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "United Nations.md",
+                "file": "psychopathy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -53,8 +52,7 @@
                   "close": false
                 }
               }
-            },
-            "group": "e534918e94ba69f7"
+            }
           }
         ],
         "direction": "horizontal"
@@ -84,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "united nations",
+                "query": "athena wa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -101,7 +99,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "United Nations.md",
+                "file": "psychopathy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "United Nations.md",
+                "file": "psychopathy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "United Nations.md"
+                "file": "psychopathy.md"
               }
             }
           },
@@ -169,17 +168,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d929ecde9ab5377d",
+  "active": "c62466e964cc6f7e",
   "lastOpenFiles": [
+    "emotional lability.md",
+    "pseudobulbar effect.md",
+    "episodic dyscontrol syndrome.md",
+    "mood incongruence.md",
+    "United Nations.md",
     "romantic relationship.md",
     "romance (love).md",
     "a posteriori.md",
     "revenue equivalence.md",
-    "recursion (computer science).md",
-    "Turing machine.md",
-    "Kolmogorov complexity.md",
-    "environmental complexity.md",
-    "John von Neumann.md",
-    "Dr. David McPhee.md"
+    "recursion (computer science).md"
   ]
 }
