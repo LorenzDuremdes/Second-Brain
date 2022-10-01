@@ -1,1 +1,4 @@
 1. Peripheral Component Interconnect (PCI); a local computer bus for attaching hardware devices in a computer and is part of the PCI Local Bus standard^[https://en.wikipedia.org/wiki/Peripheral_Component_Interconnect]
+	1. The first version of PCI found in retail desktop computers was a 32-bit bus using a 33 MHz bus clock and 5 V signalling, although the PCI 1.0 standard provided for a 64-bit variant as well.<sup>[clarification needed]</sup>
+2. three 5-volt 32-bit PCI expansion slots on a motherboard (PC bracket on left side)^[By I, Jonathan Zander, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=5000215]
+   <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/PCI_Slots_Digon3.JPG" width="300" />
