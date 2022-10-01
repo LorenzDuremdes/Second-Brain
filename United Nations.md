@@ -1,3 +1,5 @@
+*'The United Nations was not created in order to bring us to heaven, but in order to save us from hell. ' second Secretary-General of the United Nations, Dag Hammarskjöld* (**see also**: https://www.reddit.com/r/worldnews/comments/xsk61k/russia_vetoes_un_security_council_resolution_on/)
+
 1. why is the United Nations not entirely a 'peace organization'?^[https://www.reddit.com/r/explainlikeimfive/comments/34tt7j/comment/cqxzoqb/?utm_source=share&utm_medium=web2x&context=3]
 	1. because it has to be 'realistic' and e.g. allow war between countries
 	2. 'realistic'=having as many people agree and reduce spillover of war
