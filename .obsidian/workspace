@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lordosis behavior.md",
+                "file": "isotope.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "lordosis behavior.md",
+                "file": "isotope.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.11660891579457411,
+                  "scale": 0.3213363860503614,
                   "close": false
                 }
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lordosis behavior.md",
+                "file": "isotope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lordosis behavior.md",
+                "file": "isotope.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lordosis behavior.md"
+                "file": "isotope.md"
               }
             }
           },
@@ -160,14 +160,17 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9765d578750fa738",
+  "active": "2a698de66b32dcf1",
   "lastOpenFiles": [
+    "island of stability.md",
+    "lordosis behavior.md",
     "polling (computer science).md",
     "Peripheral Component Interconnect.md",
     "psychopathy.md",
@@ -175,8 +178,6 @@
     "pseudobulbar effect.md",
     "episodic dyscontrol syndrome.md",
     "mood incongruence.md",
-    "United Nations.md",
-    "romantic relationship.md",
-    "romance (love).md"
+    "United Nations.md"
   ]
 }
