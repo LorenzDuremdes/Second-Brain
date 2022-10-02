@@ -1,0 +1,1 @@
+1. polling ([[computer science]]); refers to actively sampling the status of an external device by a client program as a synchronous activity^[https://en.wikipedia.org/wiki/Polling_(computer_science)]

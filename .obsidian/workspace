@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Peripheral Component Interconnect.md",
+                "file": "polling (computer science).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,11 +25,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Peripheral Component Interconnect.md",
+                "file": "polling (computer science).md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 5,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.0078125,
+                  "scale": 0.22920135941749484,
                   "close": false
                 }
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Peripheral Component Interconnect.md",
+                "file": "polling (computer science).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Peripheral Component Interconnect.md",
+                "file": "polling (computer science).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Peripheral Component Interconnect.md"
+                "file": "polling (computer science).md"
               }
             }
           },
@@ -160,15 +160,15 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2a698de66b32dcf1",
+  "active": "9765d578750fa738",
   "lastOpenFiles": [
+    "Peripheral Component Interconnect.md",
     "psychopathy.md",
     "emotional lability.md",
     "pseudobulbar effect.md",
@@ -177,7 +177,6 @@
     "United Nations.md",
     "romantic relationship.md",
     "romance (love).md",
-    "a posteriori.md",
-    "revenue equivalence.md"
+    "a posteriori.md"
   ]
 }
