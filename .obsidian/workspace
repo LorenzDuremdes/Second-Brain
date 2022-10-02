@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "polling (computer science).md",
+                "file": "lordosis behavior.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,9 +25,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "polling (computer science).md",
+                "file": "lordosis behavior.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.22920135941749484,
+                  "scale": 0.11660891579457411,
                   "close": false
                 }
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "polling (computer science).md",
+                "file": "lordosis behavior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "polling (computer science).md",
+                "file": "lordosis behavior.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "polling (computer science).md"
+                "file": "lordosis behavior.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "9765d578750fa738",
   "lastOpenFiles": [
+    "polling (computer science).md",
     "Peripheral Component Interconnect.md",
     "psychopathy.md",
     "emotional lability.md",
@@ -176,7 +177,6 @@
     "mood incongruence.md",
     "United Nations.md",
     "romantic relationship.md",
-    "romance (love).md",
-    "a posteriori.md"
+    "romance (love).md"
   ]
 }

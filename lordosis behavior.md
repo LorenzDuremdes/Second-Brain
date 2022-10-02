@@ -1,0 +1,5 @@
+1. lordosis behavior; the naturally occurring body posture for sexual receptivity to copulation present in most mammals including rodents, elephants, and cats^[https://en.wikipedia.org/wiki/Lordosis_behavior]
+
+# humans
+1. anthropologist Helen Fisher also speculated that when a [[human]] female wears high-heeled footwear the buttocks thrusts out and the back arches into a pose that simulates lordosis behavior, which is why high heels are considered "sexy".^[https://en.wikipedia.org/wiki/Lordosis_behavior#cite_note-14]
+	1. nonetheless, recent evidence has extended the effect of lordosis pose beyond a standing posture and high-heels, as it is indicated a sexual receptivity signal in other than standing postures of quadruped and supine in [[women]].^[https://en.wikipedia.org/wiki/Lordosis_behavior#cite_note-15]
