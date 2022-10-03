@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "isotope.md",
+                "file": "backward induction.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "isotope.md",
+                "file": "backward induction.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.3213363860503614,
+                  "scale": 0.8854989543150481,
                   "close": false
                 }
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "athena wa",
+                "query": "backward induction",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "isotope.md",
+                "file": "backward induction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "isotope.md",
+                "file": "backward induction.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "isotope.md"
+                "file": "backward induction.md"
               }
             }
           },
@@ -167,8 +167,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2a698de66b32dcf1",
+  "active": "9765d578750fa738",
   "lastOpenFiles": [
+    "Untitled.md",
+    "isotope.md",
     "island of stability.md",
     "lordosis behavior.md",
     "polling (computer science).md",
@@ -176,8 +178,6 @@
     "psychopathy.md",
     "emotional lability.md",
     "pseudobulbar effect.md",
-    "episodic dyscontrol syndrome.md",
-    "mood incongruence.md",
-    "United Nations.md"
+    "episodic dyscontrol syndrome.md"
   ]
 }
