@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "backward induction.md",
+                "file": "digital camera images (DCIM).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "backward induction.md",
+                "file": "digital camera images (DCIM).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backward induction.md",
+                "file": "digital camera images (DCIM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backward induction.md",
+                "file": "digital camera images (DCIM).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backward induction.md"
+                "file": "digital camera images (DCIM).md"
               }
             }
           },
@@ -160,16 +160,16 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9765d578750fa738",
+  "active": "76599448807bd7bd",
   "lastOpenFiles": [
-    "Untitled.md",
+    "backward induction.md",
+    "digital camera images (DCIM).md",
     "isotope.md",
     "island of stability.md",
     "lordosis behavior.md",
@@ -177,7 +177,6 @@
     "Peripheral Component Interconnect.md",
     "psychopathy.md",
     "emotional lability.md",
-    "pseudobulbar effect.md",
-    "episodic dyscontrol syndrome.md"
+    "pseudobulbar effect.md"
   ]
 }
