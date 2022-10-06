@@ -1,0 +1,1 @@
+1. echopraxia; the involuntary repetition or imitation of another person's actions.^[https://en.wikipedia.org/wiki/Echopraxia#cite_note-Ganos-1]
