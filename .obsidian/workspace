@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "precedence constraint.md",
+                "file": "psychotherapy.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "precedence constraint.md",
+                "file": "psychotherapy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "precedence constraint",
+                "query": "psychotherapy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "precedence constraint.md",
+                "file": "psychotherapy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "precedence constraint.md",
+                "file": "psychotherapy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "precedence constraint.md"
+                "file": "psychotherapy.md"
               }
             }
           },
@@ -166,8 +166,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "76599448807bd7bd",
+  "active": "d929ecde9ab5377d",
   "lastOpenFiles": [
+    "precedence constraint.md",
     "catatonia.md",
     "akathisia.md",
     "clonazepam.md",
@@ -176,7 +177,6 @@
     "ambitendency.md",
     "psychology.md",
     "faxen-syndroom.md",
-    "apophenia.md",
-    "noncontingent reinforcement.md"
+    "apophenia.md"
   ]
 }
