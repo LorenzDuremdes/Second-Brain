@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "catatonia.md",
+                "file": "precedence constraint.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "catatonia.md",
+                "file": "precedence constraint.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.0831742783592763,
+                  "scale": 0.11660891579457458,
                   "close": false
                 }
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "noncon",
+                "query": "precedence constraint",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "catatonia.md",
+                "file": "precedence constraint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "catatonia.md",
+                "file": "precedence constraint.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "catatonia.md"
+                "file": "precedence constraint.md"
               }
             }
           },
@@ -160,15 +160,15 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2a698de66b32dcf1",
+  "active": "76599448807bd7bd",
   "lastOpenFiles": [
+    "catatonia.md",
     "akathisia.md",
     "clonazepam.md",
     "echopraxia.md",
@@ -177,7 +177,6 @@
     "psychology.md",
     "faxen-syndroom.md",
     "apophenia.md",
-    "noncontingent reinforcement.md",
-    "backward induction.md"
+    "noncontingent reinforcement.md"
   ]
 }

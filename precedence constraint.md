@@ -4,3 +4,8 @@
 # related
 1. [[sequential algorithm]]
 2. [[limiting factor]]
+
+# examples
+1. 11 dimensions → level of measurement
+	1. what happens if you remove "11 dimensions" vs. "level of measurement"?
+		1. removing "11 dimensions" also results in removing "level of measurement" but not vice versa (only removing the latter)
