@@ -85,5 +85,6 @@
 2. how to search for the specific phrase e.g. "dog" (and not e.g. "doggy"?) (Anki)
 	1. Browse → w:dog
 
-# examples
-1. student acing exam in absentia using Anki^[https://www.reddit.com/r/Anki/comments/w3u737/comment/igz46mm/?utm_source=share&utm_medium=web2x&context=3]
+# examples + how to use Anki + learning curve
+1. I've struggled using anki in other subjects because honestly, learning not just how to make cards, but how to make _good_ cards is a skill in and of itself.^[https://www.reddit.com/r/Anki/comments/xdfwda/why_anki_is_not_wellknown_an_educated_guess/]
+2. student acing exam in absentia using Anki^[https://www.reddit.com/r/Anki/comments/w3u737/comment/igz46mm/?utm_source=share&utm_medium=web2x&context=3]
