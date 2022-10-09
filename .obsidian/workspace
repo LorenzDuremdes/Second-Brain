@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "psychotherapy.md",
-                "mode": "source",
+                "file": "spotlight effect.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "psychotherapy.md",
+                "file": "spotlight effect.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.11660891579457458,
+                  "scale": 0.22920135941749709,
                   "close": false
                 }
               }
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "psychotherapy",
+                "query": "ideas and",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychotherapy.md",
+                "file": "spotlight effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychotherapy.md",
+                "file": "spotlight effect.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychotherapy.md"
+                "file": "spotlight effect.md"
               }
             }
           },
@@ -166,8 +166,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d929ecde9ab5377d",
+  "active": "9765d578750fa738",
   "lastOpenFiles": [
+    "ideas and delusions of reference.md",
+    "psychotherapy.md",
     "precedence constraint.md",
     "catatonia.md",
     "akathisia.md",
@@ -175,8 +177,6 @@
     "echopraxia.md",
     "logorrhea (psychology).md",
     "ambitendency.md",
-    "psychology.md",
-    "faxen-syndroom.md",
-    "apophenia.md"
+    "psychology.md"
   ]
 }
