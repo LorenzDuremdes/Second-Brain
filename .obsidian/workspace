@@ -27,7 +27,7 @@
               "state": {
                 "file": "Anki.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
@@ -160,13 +160,14 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9765d578750fa738",
+  "active": "c62466e964cc6f7e",
   "lastOpenFiles": [
     "hardware and software.md",
     "Anki.md",
