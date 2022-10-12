@@ -9,6 +9,9 @@
 3. what does Dr. David McPhee think of "Is it possible for a psychotherapist and client to be friends?"
 	1. it can be in a therapeutic manner (e.g. resembling them and catalyzing developments/insights...)^[https://qr.ae/pviJzj]
 
+## anecdotes
+1. [I had a client once who didn’t speak for 4 months](https://qr.ae/pvS4j3)
+
 # miscellaneous
 1. what does Dr. David McPhee think of [[Sigmund Freud]]?
 	1. Freud was a brilliantly original thinker, but the product of his times^[https://qr.ae/pvu47I]

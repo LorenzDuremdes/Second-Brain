@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anki.md",
+                "file": "Dr. David McPhee.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Anki.md",
+                "file": "Dr. David McPhee.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "anki",
+                "query": "david mcphee",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anki.md",
+                "file": "Dr. David McPhee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anki.md",
+                "file": "Dr. David McPhee.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anki.md"
+                "file": "Dr. David McPhee.md"
               }
             }
           },
@@ -160,17 +160,16 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c62466e964cc6f7e",
+  "active": "76599448807bd7bd",
   "lastOpenFiles": [
-    "hardware and software.md",
     "Anki.md",
+    "hardware and software.md",
     "spotlight effect.md",
     "ideas and delusions of reference.md",
     "psychotherapy.md",
