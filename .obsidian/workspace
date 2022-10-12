@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dr. David McPhee.md",
+                "file": "Athena Walker.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dr. David McPhee.md",
+                "file": "Athena Walker.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "david mcphee",
+                "query": "athena",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dr. David McPhee.md",
+                "file": "Athena Walker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dr. David McPhee.md",
+                "file": "Athena Walker.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dr. David McPhee.md"
+                "file": "Athena Walker.md"
               }
             }
           },
@@ -160,14 +160,16 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "76599448807bd7bd",
+  "active": "d929ecde9ab5377d",
   "lastOpenFiles": [
+    "Dr. David McPhee.md",
     "Anki.md",
     "hardware and software.md",
     "spotlight effect.md",
@@ -176,7 +178,6 @@
     "precedence constraint.md",
     "catatonia.md",
     "akathisia.md",
-    "clonazepam.md",
-    "echopraxia.md"
+    "clonazepam.md"
   ]
 }
