@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anki.md",
+                "file": "maladaptive daydreaming.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Anki.md",
+                "file": "maladaptive daydreaming.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anki.md",
+                "file": "maladaptive daydreaming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anki.md",
+                "file": "maladaptive daydreaming.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anki.md"
+                "file": "maladaptive daydreaming.md"
               }
             }
           },
@@ -167,11 +167,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9765d578750fa738",
+  "active": "2a698de66b32dcf1",
   "lastOpenFiles": [
+    "Anki.md",
     "1.md",
     "psychotherapy.md",
-    "Anki.md",
     "ideas and delusions of reference.md",
     "Athena Walker.md",
     "dating (persuasion).md",

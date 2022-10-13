@@ -1,0 +1,1 @@
+1. maladaptive daydreaming; when an individual experiences so much daydreaming that it interferes with daily life. It is a proposed diagnosis of a disordered form of dissociative absorption associated with excessive fantasy that is not recognized by any major medical or psychological criteria^[https://en.wikipedia.org/wiki/Maladaptive_daydreaming]
