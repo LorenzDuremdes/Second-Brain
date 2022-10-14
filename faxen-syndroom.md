@@ -1,0 +1,1 @@
+1. faxen-syndroom; patiënten met een psychiatrische stoornis die als een clown ronddraaien, met grimassen op het gezicht^[https://www.dokterdokter.nl/encyclopedie/faxen-syndroom/item36582]

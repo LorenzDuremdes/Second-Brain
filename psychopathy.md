@@ -15,5 +15,8 @@
 	
 	I have not zero emotions, but it's easy for me to "stop them" if it's a necessity^[https://www.reddit.com/r/AskReddit/comments/wzeb1c/comment/im3n9uy/?utm_source=share&utm_medium=web2x&context=3]
 
+# experience
+1. [Athena Walker's answer to: What does it feel like to not have empathy specifically while someone is suffering? Do you feel nothing, do you feel pleasure? Do you feel content?](https://qr.ae/pNskqc)
+
 # related
 1. [[psychology]]

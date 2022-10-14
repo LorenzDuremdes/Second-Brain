@@ -1,0 +1,2 @@
+1. [Athena Walker on "your caring for that other person, ultimately is a self serving act."](https://athenawalker.substack.com/p/psychopaths-friends-and-questionable)
+	1. all friendships are based on you and the other person getting something out of one another

@@ -4,6 +4,7 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "11b787468c0fab86",
         "type": "leaf",
         "state": {
@@ -12,6 +13,57 @@
             "file": "John von Neumann.md",
             "mode": "source",
             "source": false
+=======
+        "id": "cbd8f5dbecebd3be",
+        "type": "split",
+        "children": [
+          {
+            "id": "c62466e964cc6f7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "maladaptive daydreaming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9765d578750fa738",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "maladaptive daydreaming.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0,
+                  "repelStrength": 20,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 0.05932617187500221,
+                  "close": false
+                }
+              }
+            }
+>>>>>>> 8d568b413037cf92f26b0191140f55bab80d6b7e
           }
         }
       }
@@ -40,7 +92,11 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "john von",
+=======
+                "query": "persuas",
+>>>>>>> 8d568b413037cf92f26b0191140f55bab80d6b7e
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -77,7 +133,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "John von Neumann.md",
+=======
+                "file": "maladaptive daydreaming.md",
+>>>>>>> 8d568b413037cf92f26b0191140f55bab80d6b7e
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +154,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "John von Neumann.md",
+=======
+                "file": "maladaptive daydreaming.md",
+>>>>>>> 8d568b413037cf92f26b0191140f55bab80d6b7e
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -106,7 +170,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "John von Neumann.md"
+=======
+                "file": "maladaptive daydreaming.md"
+>>>>>>> 8d568b413037cf92f26b0191140f55bab80d6b7e
               }
             }
           },
@@ -125,11 +193,26 @@
     "direction": "horizontal",
     "width": 300
   },
+<<<<<<< HEAD
   "active": "11b787468c0fab86",
   "lastOpenFiles": [
     "ACE-031.md",
     "GW501516.md",
     "bemethyl.md",
     "Natalia Perevalova.md"
+=======
+  "active": "2a698de66b32dcf1",
+  "lastOpenFiles": [
+    "Anki.md",
+    "1.md",
+    "psychotherapy.md",
+    "ideas and delusions of reference.md",
+    "Athena Walker.md",
+    "dating (persuasion).md",
+    "Dr. David McPhee.md",
+    "hardware and software.md",
+    "spotlight effect.md",
+    "precedence constraint.md"
+>>>>>>> 8d568b413037cf92f26b0191140f55bab80d6b7e
   ]
 }

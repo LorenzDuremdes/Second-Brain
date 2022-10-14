@@ -1,0 +1,1 @@
+1. logorrhea ([[psychology]]); a [[communication]] disorder that causes excessive wordiness and repetitiveness, which can cause incoherency^[https://en.wikipedia.org/wiki/Logorrhea_(psychology)]

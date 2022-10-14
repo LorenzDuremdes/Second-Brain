@@ -1,0 +1,1 @@
+1. island of stability; a predicted set of isotopes of superheavy elements that may have considerably longer half-lives than known isotopes of these elements^[https://en.wikipedia.org/wiki/Island_of_stability]

@@ -26,7 +26,7 @@
 	1. yes
 
 # [[interpersonal neurobiology]]
-1. an **introvert** [[dating]]/having a romantic relationship with an extravert can lead to a mismatch in intimacy needs
+1. an **introvert** [[dating]]/having a [[romantic relationship]] with an extravert can lead to a mismatch in intimacy needs
 
 	I'm pretty introverted. My first divorce was from being married to an extrovert wherein our levels of socialization needs directly led to 90% of our troubles. Thankfully it led to an easy divorce cause we simply both knew we didn't match and grew apart as we matured.
 

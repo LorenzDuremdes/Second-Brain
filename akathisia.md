@@ -1,0 +1,1 @@
+1. akathisia; a movement disorder^[https://en.wikipedia.org/wiki/Akathisia#cite_note-Poyurovsky2020-5] characterized by a subjective [[feeling]] of inner restlessness accompanied by mental distress and an inability to sit still.^[https://en.wikipedia.org/wiki/Akathisia#cite_note-For2016-6]^[https://en.wikipedia.org/wiki/Akathisia#cite_note-La2014-4]

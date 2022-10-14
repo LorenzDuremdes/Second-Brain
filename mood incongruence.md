@@ -1,0 +1,1 @@
+1. mood incongruence; occurs when the individual's reactions or emotional state appear to be in conflict with the situation^[https://en.wikipedia.org/wiki/Mood_congruence]

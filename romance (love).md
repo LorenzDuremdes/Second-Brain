@@ -50,7 +50,7 @@
 	1. "[[honesty]]" is closely related to "[[trust]]"
 
 ## [[self]]
-1. can't have a romantic relationship until emotionally independent (technology analogy)
+1. can't have a [[romantic relationship]] until emotionally independent (technology analogy)
 	1. that's somewhat like saying you can't use technology until you have shown you can do without (in the wild) for e.g. a month?
 
 # [[developmental psychology]]

@@ -13,6 +13,12 @@
 2. an emotionally-grounded therapist would take an insult in stride and explore the client’s [[motivation]] for making it.^[https://qr.ae/pG6NMq]
 3. People don’t come to [[therapy]] because they are happy and everything is going well in their life. They have patterns of [[communication]] that are often dysfunctional, and we get that.^[https://qr.ae/pG6NuC]
 
+## physical touching
+1. none of the professional organizations code of ethics (i.e., APA, ApA, ACA, NASW, CAMFT) view touch as unethical[https://www.zurinstitute.com/clinical-updates/touch-in-therapy/]
+
+### see also
+1. https://www.reddit.com/r/TalkTherapy/comments/xyfzsn/comment/irhd06z/?utm_source=share&utm_medium=web2x&context=3
+
 # psychotherapist
 1. can a psychotherapist treat people with psychosis + who
 	1. no, they have to be redirected to a doctor or psychiatrist (unless they are one themselves as well)^[Psychotherapie en Psychiatrie, Laudius, 1.8]

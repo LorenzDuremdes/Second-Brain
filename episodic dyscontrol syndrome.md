@@ -1,0 +1,1 @@
+**redirect**: [[intermittent explosive disorder]]^[https://en.wikipedia.org/wiki/Episodic_dyscontrol_syndrome]

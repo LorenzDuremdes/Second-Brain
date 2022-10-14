@@ -3,3 +3,6 @@
 # examples
 1. teddy bear · kid falling
 2. generalization of anxiety e.g. car accident → anxiety for all public transports^[Psychotherapie en Psychiatrie, 5.3.2]
+
+# related
+1. [[apophenia]]
