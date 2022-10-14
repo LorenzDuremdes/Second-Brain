@@ -5,3 +5,7 @@
 
 # [[personality]]
 1. John von Neumann was a quick speaker^[https://en.wikipedia.org/wiki/John_von_Neumann#Personality]
+
+# negatives
+1. how was John von Neumann with topics he was less prepared for?
+	1. Another factor was that he did not find it easy to discuss a topic formally in writing to others unless it was already mature in his [[mind]]. If it was, he could talk freely and without hesitation, but if it was not, he would, in his own words, "develop the worst traits of pedantism and inefficiency".^[https://en.wikipedia.org/wiki/John_von_Neumann#cite_note-FOOTNOTER%C3%A9deiSt%C3%B6ltzner2001168-439]
