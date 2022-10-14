@@ -1,0 +1,2 @@
+1. is it common for patients to perceive a psychotherapist's questioning as being 'offensive' + why?
+	1. perhaps e.g.  they easily interpret a therapist’s genuine “what makes you ask?” as a “you mustn’t be asking this/how dare you asking me this/this is completely inappropriate”, and they interpret me, the therapist, looking for a meaning, as me looking for a fault^[https://qr.ae/pvJ2XP]

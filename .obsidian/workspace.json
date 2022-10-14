@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "84f409ae5eaffaf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "df0e12229d042096",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3047dfae0b8efc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Natalia Perevalova.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "508bf9ff0014939e",
+    "type": "split",
+    "children": [
+      {
+        "id": "38039a267f5b6b55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81065ebe05c5628d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "af85040be2987b2e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "natalia perevalova",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6921b51c1d97f8ea",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "09df37641eb4fecc",
+    "type": "split",
+    "children": [
+      {
+        "id": "564cb645e3a7abe3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d65b6c08e42b3aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Natalia Perevalova.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "fe30d9f2d6ec44fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Natalia Perevalova.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ce784ace2f127b3f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Natalia Perevalova.md"
+              }
+            }
+          },
+          {
+            "id": "4e97b8a071980c60",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "4d65b6c08e42b3aa",
+  "lastOpenFiles": [
+    "Dr. David McPhee.md",
+    "Natalia Perevalova.md"
+  ]
+}
