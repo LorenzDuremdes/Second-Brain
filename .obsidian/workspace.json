@@ -4,22 +4,72 @@
     "type": "split",
     "children": [
       {
-        "id": "df0e12229d042096",
-        "type": "tabs",
+        "id": "a8a6bb8570d4bd37",
+        "type": "split",
         "children": [
           {
-            "id": "28971e4c34fb7e11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dr. David McPhee.md",
-                "mode": "source",
-                "source": false
+            "id": "b84a79556c284fff",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "40eddafc2a8b4346",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "psychotherapy.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "7da74632997ec4c4"
               }
-            }
+            ]
+          },
+          {
+            "id": "0146e21a59c2b2f1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c33e3549459e1ccb",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "psychotherapy.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": true,
+                      "showAttachments": true,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": -3,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0,
+                      "repelStrength": 20,
+                      "linkStrength": 1,
+                      "linkDistance": 30,
+                      "scale": 0.03408574896700086,
+                      "close": false
+                    }
+                  }
+                },
+                "group": "7da74632997ec4c4"
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -48,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "natalia perevalova",
+                "query": "psychotherapy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dr. David McPhee.md",
+                "file": "psychotherapy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dr. David McPhee.md",
+                "file": "psychotherapy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dr. David McPhee.md"
+                "file": "psychotherapy.md"
               }
             }
           },
@@ -126,7 +176,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -135,10 +186,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4d65b6c08e42b3aa",
+  "active": "c33e3549459e1ccb",
   "lastOpenFiles": [
+    "psychotherapy.md",
+    "Dr. David McPhee.md",
     "John von Neumann.md",
-    "Natalia Perevalova.md",
-    "Dr. David McPhee.md"
+    "Natalia Perevalova.md"
   ]
 }

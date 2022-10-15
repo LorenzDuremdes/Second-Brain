@@ -27,3 +27,7 @@
 1. why does "Alok Kanojia" often ask "how does that make you feel?"
 	1. more [[information]] that you might be able to do something with?
 	2. **personal preference**: asking both the rational and emotional [[brain]]
+
+# post-[[therapy]]
+1. Would a Therapist Like to Hear From a Former Patient?
+	1. most do^[https://www.reddit.com/r/TalkTherapy/comments/y3ujs9/would_a_therapist_like_to_hear_from_a_former/]
