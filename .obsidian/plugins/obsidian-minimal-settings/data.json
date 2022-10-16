@@ -3,7 +3,7 @@
   "lightStyle": "minimal-light-white",
   "darkStyle": "minimal-dark",
   "lightScheme": "minimal-macos-light",
-  "darkScheme": "minimal-default-dark",
+  "darkScheme": "minimal-macos-dark",
   "editorFont": "Ubuntu",
   "lineHeight": 1.5,
   "lineWidth": 40,

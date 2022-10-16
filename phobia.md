@@ -1,0 +1,2 @@
+1. what's the most common type of phobia?^[Heimberg, R. G., Social Phobia: Diagnosis, Assessment, and Treatment, Guilford Press, 1995]^[The Happy Brain The Science of Where Happiness Comes from, and Why by Dean Burnett, p. 178]
+	1. social phobias

@@ -3,5 +3,7 @@
   "obsidian-journey-plugin",
   "obsidian-related-notes-finder",
   "obsidian-mind-map",
-  "graph-analysis"
+  "graph-analysis",
+  "obsidian-hider",
+  "obsidian-minimal-settings"
 ]

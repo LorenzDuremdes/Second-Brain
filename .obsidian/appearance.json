@@ -3,5 +3,7 @@
   "translucency": false,
   "baseFontSize": 16,
   "cssTheme": "Minimal",
-  "accentColor": ""
+  "accentColor": "",
+  "interfaceFontFamily": "Ubuntu",
+  "textFontFamily": "Ubuntu"
 }

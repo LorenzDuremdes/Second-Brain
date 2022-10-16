@@ -1,10 +1,14 @@
 {
-  "frameless": true,
   "hideRibbon": false,
   "hideStatus": false,
+  "hideTabs": false,
   "hideScroll": false,
+  "hideSidebarButtons": false,
   "hideTooltips": true,
   "hideSearchSuggestions": false,
+  "hideSearchCounts": false,
   "hideInstructions": true,
-  "hideMeta": false
+  "hideMeta": false,
+  "hideVault": false,
+  "frameless": true
 }
