@@ -1,0 +1,2 @@
+1. **formula**: 2<sup>−K(µ)</sup>^[Universal Intelligence - A Definition of Machine Intelligence, p. 23]
+	1. if we consider that each environment µi is described by a minimal length program that is a binary string, then the natural way to do this is to consider each additional bit of program length to reduce the environment’s [[probability]] by one half, reflecting the fact that each bit has two possible states
