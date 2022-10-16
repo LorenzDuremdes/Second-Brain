@@ -12,7 +12,7 @@
 2. can '[[communication]] lines' be open (no contact (breakup))?
 	1. yes, but only if both are disciplined enough
 
-### quotes
+### [[quotes]]
 1. _"To heal a wound, you need to stop touching it."_
 
 ## problems

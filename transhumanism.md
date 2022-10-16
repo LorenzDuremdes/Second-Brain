@@ -19,7 +19,7 @@
 		1. **related**
 			[[posthuman]]
 
-# quotes
+# [[quotes]]
 1. ...to grow physically and mentally so powerful as to appear possibly god-like by present-day [[human]] standards.
 2. “It's amazing how once the [[mind]] is free of emotional pollution, logic and clarity emerge.” —Clyde Dsouza, Memories With Maya
 3. It may be that our role on this planet is not to worship God - but to create him. -   Arthur C. Clarke

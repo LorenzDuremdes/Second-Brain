@@ -1,0 +1,1 @@
+1. emotional exhaustion; a chronic state of physical and emotional depletion that results from excessive job, personal demands, and/or continuous [[stress]].^[https://en.wikipedia.org/wiki/Emotional_exhaustion#cite_note-Wright98-1]
