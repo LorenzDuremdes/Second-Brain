@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "phobia.md",
+                    "file": "Dr. David McPhee.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "phobia.md",
+                    "file": "Dr. David McPhee.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -58,7 +58,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.3628873693012146,
+                      "scale": 0.2588386562181656,
                       "close": false
                     }
                   }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "phobia.md",
+                "file": "Dr. David McPhee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "phobia.md",
+                "file": "Dr. David McPhee.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "phobia.md"
+                "file": "Dr. David McPhee.md"
               }
             }
           },
@@ -174,7 +174,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,8 +184,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4d65b6c08e42b3aa",
+  "active": "c33e3549459e1ccb",
   "lastOpenFiles": [
+    "phobia.md",
     "algorithmic probability distribution.md",
     "derealization.md",
     "quotes.md",
