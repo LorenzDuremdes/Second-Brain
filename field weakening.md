@@ -1,0 +1,2 @@
+1. field weakening; the motor controller will send a reverse current through the motor to counteract the magnetic field which is induced above its maximum rated speed (e-bike)^[https://www.reddit.com/r/cowboybikes/comments/ml7ep4/comment/gtl0b34/?utm_source=share&utm_medium=web2x&context=3]
+	1. this will drain extra battery power

@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "fc18cf63a49afc80",
+                "id": "ff792e4b8ceb4200",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Dr. David McPhee.md",
+                    "file": "field weakening.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Dr. David McPhee.md",
+                    "file": "field weakening.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dr. David McPhee.md",
+                "file": "field weakening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dr. David McPhee.md",
+                "file": "field weakening.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dr. David McPhee.md"
+                "file": "field weakening.md"
               }
             }
           },
@@ -174,8 +174,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,15 +183,15 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c33e3549459e1ccb",
+  "active": "4d65b6c08e42b3aa",
   "lastOpenFiles": [
+    "Dr. David McPhee.md",
     "phobia.md",
     "algorithmic probability distribution.md",
     "derealization.md",
     "quotes.md",
     "psychotherapy.md",
     "emotional exhaustion.md",
-    "Dr. David McPhee.md",
     "John von Neumann.md",
     "Natalia Perevalova.md"
   ]
