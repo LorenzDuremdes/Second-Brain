@@ -22,6 +22,8 @@
 # psychotherapist
 1. can a psychotherapist treat people with psychosis + who
 	1. no, they have to be redirected to a doctor or psychiatrist (unless they are one themselves as well)^[Psychotherapie en Psychiatrie, Laudius, 1.8]
+2. how can being a psychotherapist affect e.g. small talk?
+	1. I feel like my social skills are unbalanced in terms of small talk with strangers or acquaintances lmao. I’m so used to having deep conversations with people I barely know 😬^[https://www.reddit.com/r/therapists/comments/y7b8iw/comment/isu897m/?utm_source=share&utm_medium=web2x&context=3]
 
 ## Alok Kanojia
 1. why does "Alok Kanojia" often ask "how does that make you feel?"

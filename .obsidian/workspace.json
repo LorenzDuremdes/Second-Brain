@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "field weakening.md",
+                    "file": "psychotherapy.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "field weakening.md",
+                    "file": "psychotherapy.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -58,7 +58,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.2588386562181656,
+                      "scale": 0.03408574896700125,
                       "close": false
                     }
                   }
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "derealization",
+                "query": "psychotherapy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "field weakening.md",
+                "file": "psychotherapy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "field weakening.md",
+                "file": "psychotherapy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "field weakening.md"
+                "file": "psychotherapy.md"
               }
             }
           },
@@ -185,6 +185,7 @@
   },
   "active": "4d65b6c08e42b3aa",
   "lastOpenFiles": [
+    "field weakening.md",
     "Dr. David McPhee.md",
     "phobia.md",
     "algorithmic probability distribution.md",
