@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "average treatment effect.md",
+                    "file": "self-awareness.md",
                     "mode": "source",
                     "source": false
                   }
@@ -36,7 +36,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "average treatment effect.md",
+                    "file": "self-awareness.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "natalia perevalova",
+                "query": "self awareness",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -115,7 +115,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "average treatment effect.md",
+                "file": "self-awareness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "average treatment effect.md",
+                "file": "self-awareness.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -164,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "average treatment effect.md"
+                "file": "self-awareness.md"
               }
             }
           },
@@ -176,7 +177,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,12 +187,12 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0eb64e080490088e",
+  "active": "54520c9a5b2243be",
   "lastOpenFiles": [
-    "faxen-syndroom.md",
+    "Dr. David McPhee.md",
     "average treatment effect.md",
+    "faxen-syndroom.md",
     "Untitled.md",
-    "Natalia Perevalova.md",
-    "Dr. David McPhee.md"
+    "Natalia Perevalova.md"
   ]
 }
