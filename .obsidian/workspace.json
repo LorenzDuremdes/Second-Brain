@@ -4,52 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "d653fb74718115d5",
+        "id": "2f6fbbff3da83bce",
         "type": "split",
         "children": [
           {
-            "id": "b84a79556c284fff",
+            "id": "df0e12229d042096",
             "type": "tabs",
             "children": [
               {
-                "id": "ff792e4b8ceb4200",
+                "id": "54520c9a5b2243be",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "principle of maximum entropy.md",
+                    "file": "average treatment effect.md",
                     "mode": "source",
                     "source": false
                   }
-                }
+                },
+                "group": "75bdf131b21688ee"
               }
             ]
           },
           {
-            "id": "408d63c9e671ce60",
+            "id": "3f5e453d7b2d6af7",
             "type": "tabs",
             "children": [
               {
-                "id": "c33e3549459e1ccb",
+                "id": "0eb64e080490088e",
                 "type": "leaf",
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "principle of maximum entropy.md",
+                    "file": "average treatment effect.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
                       "localJumps": 2,
                       "localBacklinks": true,
                       "localForelinks": true,
-                      "localInterlinks": true,
-                      "showTags": true,
-                      "showAttachments": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
                       "hideUnresolved": false,
                       "collapse-color-groups": true,
                       "colorGroups": [],
                       "collapse-display": true,
-                      "showArrow": true,
+                      "showArrow": false,
                       "textFadeMultiplier": -3,
                       "nodeSizeMultiplier": 1,
                       "lineSizeMultiplier": 1,
@@ -57,12 +58,13 @@
                       "centerStrength": 0,
                       "repelStrength": 20,
                       "linkStrength": 1,
-                      "linkDistance": 30,
-                      "scale": 0.03408574896700125,
+                      "linkDistance": 42,
+                      "scale": 0.48854597807787403,
                       "close": false
                     }
                   }
-                }
+                },
+                "group": "75bdf131b21688ee"
               }
             ]
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "principle of maximum entropy",
+                "query": "natalia perevalova",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "principle of maximum entropy.md",
+                "file": "average treatment effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "principle of maximum entropy.md",
+                "file": "average treatment effect.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "principle of maximum entropy.md"
+                "file": "average treatment effect.md"
               }
             }
           },
@@ -174,8 +176,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,17 +185,12 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "81065ebe05c5628d",
+  "active": "0eb64e080490088e",
   "lastOpenFiles": [
-    "psychotherapy.md",
-    "field weakening.md",
-    "Dr. David McPhee.md",
-    "phobia.md",
-    "algorithmic probability distribution.md",
-    "derealization.md",
-    "quotes.md",
-    "emotional exhaustion.md",
-    "John von Neumann.md",
-    "Natalia Perevalova.md"
+    "faxen-syndroom.md",
+    "average treatment effect.md",
+    "Untitled.md",
+    "Natalia Perevalova.md",
+    "Dr. David McPhee.md"
   ]
 }
