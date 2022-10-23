@@ -15,17 +15,12 @@
                 "id": "7f3fcb9c819d01f1",
                 "type": "leaf",
                 "state": {
-<<<<<<< Updated upstream
-                  "type": "empty",
-                  "state": {}
-=======
                   "type": "markdown",
                   "state": {
                     "file": "therapist friend.md",
                     "mode": "source",
                     "source": false
                   }
->>>>>>> Stashed changes
                 }
               }
             ]
@@ -40,10 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-<<<<<<< Updated upstream
-=======
                     "file": "therapist friend.md",
->>>>>>> Stashed changes
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -141,10 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-=======
                 "file": "therapist friend.md",
->>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,10 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-=======
                 "file": "therapist friend.md",
->>>>>>> Stashed changes
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -175,13 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< Updated upstream
-              "state": {}
-=======
               "state": {
                 "file": "therapist friend.md"
               }
->>>>>>> Stashed changes
             }
           },
           {
@@ -202,12 +184,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fe30d9f2d6ec44fa",
+  "active": "7f3fcb9c819d01f1",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
     "therapist friend.md",
-=======
->>>>>>> Stashed changes
     "principle of maximum entropy.md",
     "psychotherapy.md",
     "field weakening.md",
@@ -216,11 +195,6 @@
     "algorithmic probability distribution.md",
     "derealization.md",
     "quotes.md",
-<<<<<<< Updated upstream
     "emotional exhaustion.md"
-=======
-    "emotional exhaustion.md",
-    "John von Neumann.md"
->>>>>>> Stashed changes
   ]
 }
