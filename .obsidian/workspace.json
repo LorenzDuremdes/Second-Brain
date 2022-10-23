@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "7f3fcb9c819d01f1",
+                "id": "3958550e2e9ca92a",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "therapist friend.md",
+                    "file": "Shanghai Cooperation Organisation.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "therapist friend.md",
+                    "file": "Shanghai Cooperation Organisation.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "therapist friend.md",
+                "file": "Shanghai Cooperation Organisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "therapist friend.md",
+                "file": "Shanghai Cooperation Organisation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "therapist friend.md"
+                "file": "Shanghai Cooperation Organisation.md"
               }
             }
           },
@@ -174,8 +174,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,7 +183,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7f3fcb9c819d01f1",
+  "active": "4d65b6c08e42b3aa",
   "lastOpenFiles": [
     "therapist friend.md",
     "principle of maximum entropy.md",
