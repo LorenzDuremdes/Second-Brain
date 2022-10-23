@@ -17,13 +17,26 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "selective mutism.md",
+                    "file": "intelligence.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "3bb4c97843616a71",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "intelligence.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "408d63c9e671ce60",
@@ -35,7 +48,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "selective mutism.md",
+                    "file": "intelligence.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -96,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kolmogo",
+                "query": "intelligence",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "selective mutism.md",
+                "file": "intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "selective mutism.md",
+                "file": "intelligence.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "selective mutism.md"
+                "file": "intelligence.md"
               }
             }
           },
@@ -174,8 +187,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,17 +196,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fe30d9f2d6ec44fa",
+  "active": "4d65b6c08e42b3aa",
   "lastOpenFiles": [
+    "universal intelligence.png",
+    "intelligence.md",
+    "universal intelligence.jpg",
+    "selective mutism.md",
     "Athena Walker.md",
     "Shanghai Cooperation Organisation.md",
     "therapist friend.md",
     "principle of maximum entropy.md",
     "psychotherapy.md",
-    "field weakening.md",
-    "Dr. David McPhee.md",
-    "phobia.md",
-    "algorithmic probability distribution.md",
-    "derealization.md"
+    "field weakening.md"
   ]
 }

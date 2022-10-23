@@ -13,7 +13,8 @@
 	2. the more options you can eliminate (not necessarily future ones), the faster one can go from exploration to exploitation e.g. [[dating]]
 
 ## universal intelligence
-1. ![[universal intelligence.jpg]]^[https://arxiv.org/abs/0712.3329]
+1. **Universal Intelligence - A Definition of Machine Intelligence, p. 23**
+   ![[universal intelligence.png]]
 2. 3 basic components of "universal intelligence formula": agent · environment · [[goal]]^[Universal Intelligence: A Definition of Machine Intelligence, p. 15–16]
 
 ### formula
