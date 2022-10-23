@@ -1,0 +1,1 @@
+1. therapist friend; that one friend that willingly and wants to listens to you and your problems and things going on in your life that you need and want to vent to someone about^[https://www.urbandictionary.com/define.php?term=therapist%20friend]
