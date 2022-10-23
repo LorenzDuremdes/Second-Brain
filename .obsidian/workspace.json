@@ -4,53 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "2f6fbbff3da83bce",
+        "id": "d653fb74718115d5",
         "type": "split",
         "children": [
           {
-            "id": "df0e12229d042096",
+            "id": "b84a79556c284fff",
             "type": "tabs",
             "children": [
               {
-                "id": "54520c9a5b2243be",
+                "id": "7f3fcb9c819d01f1",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "self-awareness.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                },
-                "group": "75bdf131b21688ee"
+                  "type": "empty",
+                  "state": {}
+                }
               }
             ]
           },
           {
-            "id": "3f5e453d7b2d6af7",
+            "id": "408d63c9e671ce60",
             "type": "tabs",
             "children": [
               {
-                "id": "0eb64e080490088e",
+                "id": "c33e3549459e1ccb",
                 "type": "leaf",
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "self-awareness.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
                       "localJumps": 2,
                       "localBacklinks": true,
                       "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
+                      "localInterlinks": true,
+                      "showTags": true,
+                      "showAttachments": true,
                       "hideUnresolved": false,
                       "collapse-color-groups": true,
                       "colorGroups": [],
                       "collapse-display": true,
-                      "showArrow": false,
+                      "showArrow": true,
                       "textFadeMultiplier": -3,
                       "nodeSizeMultiplier": 1,
                       "lineSizeMultiplier": 1,
@@ -58,13 +52,12 @@
                       "centerStrength": 0,
                       "repelStrength": 20,
                       "linkStrength": 1,
-                      "linkDistance": 42,
-                      "scale": 0.48854597807787403,
+                      "linkDistance": 30,
+                      "scale": 0.03408574896700125,
                       "close": false
                     }
                   }
-                },
-                "group": "75bdf131b21688ee"
+                }
               }
             ]
           }
@@ -98,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "self awareness",
+                "query": "kolmogo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -115,8 +108,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -136,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "self-awareness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "self-awareness.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -164,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "self-awareness.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,12 +175,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "54520c9a5b2243be",
+  "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
+    "therapist friend.md",
+    "principle of maximum entropy.md",
+    "psychotherapy.md",
+    "field weakening.md",
     "Dr. David McPhee.md",
-    "average treatment effect.md",
-    "faxen-syndroom.md",
-    "Untitled.md",
-    "Natalia Perevalova.md"
+    "phobia.md",
+    "algorithmic probability distribution.md",
+    "derealization.md",
+    "quotes.md",
+    "emotional exhaustion.md"
   ]
 }
