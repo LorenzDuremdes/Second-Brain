@@ -1,0 +1,1 @@
+1. cyclothymia; a mental and behavioural disorder^[https://en.wikipedia.org/wiki/Cyclothymia#cite_note-9] that involves numerous periods of symptoms of [[depression]] and periods of symptoms of elevated mood.^[https://en.wikipedia.org/wiki/Cyclothymia#cite_note-9]

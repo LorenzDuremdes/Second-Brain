@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "2df779e989ce132f",
+                "id": "c562e01a06ac0c4e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "sapiosexual.md",
+                    "file": "cyclothymia.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "sapiosexual.md",
+                    "file": "cyclothymia.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -58,7 +58,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.03408574896700154,
+                      "scale": 0.09392927902847174,
                       "close": false
                     }
                   }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sapiosexual.md",
+                "file": "cyclothymia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sapiosexual.md",
+                "file": "cyclothymia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sapiosexual.md"
+                "file": "cyclothymia.md"
               }
             }
           },
@@ -183,8 +183,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4d65b6c08e42b3aa",
+  "active": "c33e3549459e1ccb",
   "lastOpenFiles": [
+    "dysthymia.md",
+    "sapiosexual.md",
     "Anki.md",
     "biological specificity.md",
     "intelligence.md",
@@ -192,8 +194,6 @@
     "universal intelligence.jpg",
     "selective mutism.md",
     "Athena Walker.md",
-    "Shanghai Cooperation Organisation.md",
-    "therapist friend.md",
-    "principle of maximum entropy.md"
+    "Shanghai Cooperation Organisation.md"
   ]
 }
