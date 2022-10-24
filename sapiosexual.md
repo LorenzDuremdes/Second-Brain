@@ -1,0 +1,1 @@
+1. sapiosexual; (adjective) sexually attracted to intellectual or mental qualities over appearance^[https://en.wiktionary.org/wiki/sapiosexual]

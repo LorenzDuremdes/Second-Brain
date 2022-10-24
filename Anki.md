@@ -1,3 +1,12 @@
+# future
+1. how could Anki still be applicable in the future (when having a "perfect" [[memory]])?
+	1. asking questions unable to (immediately) answer ([[computation offloading]])
+	2.  detecting interference and organizing [[knowledge]] ([[prioritization]])
+	3.  reducing [[intrinsic cognitive load]] (e.g. through spacing effect + [[computation offloading]])
+	4.  [[adaptive replacement cache]] (would still be required with finite [[speed]] → [[cache]] hierarchy)
+	5.  creativity
+	6. trying to optimize between "storage" and "retrieval" strength (the former without the latter would be like rote memorization, but too much of the latter makes the higher [[cache]] hierarchies too quickly full / with less desirable items)
+
 # Anki [[hardware and software]]
 1. what could cause high CPU usage in Anki?
 	1. hardware acceleration is off (by default)
@@ -90,4 +99,4 @@
 2. student acing exam in absentia using Anki^[https://www.reddit.com/r/Anki/comments/w3u737/comment/igz46mm/?utm_source=share&utm_medium=web2x&context=3]
 
 # miscellaneous
-1. beta versions (https://apps.ankiweb.net/downloads/beta/?C=N&O=D)
+2. beta versions (https://apps.ankiweb.net/downloads/beta/?C=N&O=D)

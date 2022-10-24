@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "c2e3b9a4c94ebc66",
+                "id": "2df779e989ce132f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "biological specificity.md",
+                    "file": "sapiosexual.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "biological specificity.md",
+                    "file": "sapiosexual.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -58,7 +58,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.09392927902847145,
+                      "scale": 0.03408574896700154,
                       "close": false
                     }
                   }
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "biological speci",
+                "query": "anki",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biological specificity.md",
+                "file": "sapiosexual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biological specificity.md",
+                "file": "sapiosexual.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biological specificity.md"
+                "file": "sapiosexual.md"
               }
             }
           },
@@ -183,8 +183,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c33e3549459e1ccb",
+  "active": "4d65b6c08e42b3aa",
   "lastOpenFiles": [
+    "Anki.md",
+    "biological specificity.md",
     "intelligence.md",
     "universal intelligence.png",
     "universal intelligence.jpg",
@@ -192,8 +194,6 @@
     "Athena Walker.md",
     "Shanghai Cooperation Organisation.md",
     "therapist friend.md",
-    "principle of maximum entropy.md",
-    "psychotherapy.md",
-    "field weakening.md"
+    "principle of maximum entropy.md"
   ]
 }
