@@ -17,26 +17,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "intelligence.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "3bb4c97843616a71",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "intelligence.md",
+                    "file": "biological specificity.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "408d63c9e671ce60",
@@ -48,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "intelligence.md",
+                    "file": "biological specificity.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -71,7 +58,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.03408574896700125,
+                      "scale": 0.09392927902847145,
                       "close": false
                     }
                   }
@@ -109,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intelligence",
+                "query": "biological speci",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -146,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intelligence.md",
+                "file": "biological specificity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intelligence.md",
+                "file": "biological specificity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -175,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intelligence.md"
+                "file": "biological specificity.md"
               }
             }
           },
@@ -196,10 +183,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4d65b6c08e42b3aa",
+  "active": "c33e3549459e1ccb",
   "lastOpenFiles": [
-    "universal intelligence.png",
     "intelligence.md",
+    "universal intelligence.png",
     "universal intelligence.jpg",
     "selective mutism.md",
     "Athena Walker.md",
