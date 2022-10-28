@@ -1,0 +1,2 @@
+1. *laissez-faire*; an economic [[system]] in which transactions between private groups of people are free from any form of economic interventionism (such as subsidies) deriving from special interest groups^[https://en.wikipedia.org/wiki/Laissez-faire]
+	1. while associated with capitalism in common usage, there are also non-capitalist forms of laissez-faire, including some forms of market socialism
