@@ -58,7 +58,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.19226292558588892,
+                      "scale": 0.13438421776453957,
                       "close": false
                     }
                   }
@@ -184,7 +184,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "81065ebe05c5628d",
+  "active": "1f7b673ed6b06572",
   "lastOpenFiles": [
     "laissez-faire.md",
     "information superhighway.md",

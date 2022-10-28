@@ -18,3 +18,6 @@
 2. Kolmogorov complexity → truth
 	1. the lower the former, the closer to the truth
 		1. e.g. Arabic numerals has a lower Kolmogorov complexity (e.g. requires less bits to represent numbers) than e.g. Roman numerals
+
+# related
+1. [[least absolute shrinkage and selection operator]]
