@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "laissez-faire.md",
+                    "file": "Kolmogorov complexity.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "laissez-faire.md",
+                    "file": "Kolmogorov complexity.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -58,7 +58,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.09392927902847174,
+                      "scale": 0.19226292558588892,
                       "close": false
                     }
                   }
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "extensional",
+                "query": "kolmogorov",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "laissez-faire.md",
+                "file": "Kolmogorov complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "laissez-faire.md",
+                "file": "Kolmogorov complexity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "laissez-faire.md"
+                "file": "Kolmogorov complexity.md"
               }
             }
           },
@@ -184,8 +184,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fe30d9f2d6ec44fa",
+  "active": "81065ebe05c5628d",
   "lastOpenFiles": [
+    "laissez-faire.md",
     "information superhighway.md",
     "extensional definition.md",
     "principle of maximum entropy.md",
@@ -194,7 +195,6 @@
     "GitHub.md",
     "cyclothymia.md",
     "dysthymia.md",
-    "sapiosexual.md",
-    "Anki.md"
+    "sapiosexual.md"
   ]
 }
