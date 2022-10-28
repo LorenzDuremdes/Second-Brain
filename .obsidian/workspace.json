@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "672a7532f14fae3e",
+                "id": "62d7ad6c9a9ed1f2",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "extensional definition.md",
+                    "file": "information superhighway.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "extensional definition.md",
+                    "file": "information superhighway.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "extensional definition.md",
+                "file": "information superhighway.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "extensional definition.md",
+                "file": "information superhighway.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "extensional definition.md"
+                "file": "information superhighway.md"
               }
             }
           },
@@ -183,10 +183,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "81065ebe05c5628d",
+  "active": "4d65b6c08e42b3aa",
   "lastOpenFiles": [
-    "principle of maximum entropy.md",
     "extensional definition.md",
+    "principle of maximum entropy.md",
     "backward induction.md",
     "obsessive-compulsive personality disorder.md",
     "GitHub.md",

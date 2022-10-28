@@ -1,0 +1,2 @@
+1. [[information]] superhighway; was a popular term used through the 1990s to refer to digital [[communication]] systems and the Internet [[telecommunications network]]^[https://en.wikipedia.org/wiki/Information_superhighway]
+	1. inspiration (comment) from: [1994: Are YOU Ready for the INTERNET? | Tomorrow's World | Retro Tech | BBC Archive](https://www.youtube.com/watch?v=XpZ5STahhPE)
