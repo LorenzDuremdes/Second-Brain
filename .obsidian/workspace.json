@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "1f7b673ed6b06572",
+                "id": "c711fdd6d5ba23c3",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Kolmogorov complexity.md",
+                    "file": "aromachology.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Kolmogorov complexity.md",
+                    "file": "aromachology.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kolmogorov complexity.md",
+                "file": "aromachology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kolmogorov complexity.md",
+                "file": "aromachology.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kolmogorov complexity.md"
+                "file": "aromachology.md"
               }
             }
           },
@@ -174,18 +174,15 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "1f7b673ed6b06572",
+  "active": "4d65b6c08e42b3aa",
   "lastOpenFiles": [
+    "perfume.md",
     "laissez-faire.md",
     "information superhighway.md",
     "extensional definition.md",
@@ -194,7 +191,6 @@
     "obsessive-compulsive personality disorder.md",
     "GitHub.md",
     "cyclothymia.md",
-    "dysthymia.md",
-    "sapiosexual.md"
+    "dysthymia.md"
   ]
 }
