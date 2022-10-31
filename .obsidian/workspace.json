@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "0ba4b1ce73378a20",
+                "id": "625cf42fa8a3273c",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "projection (perfume).md",
+                    "file": "Ganymede (perfume).md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "projection (perfume).md",
+                    "file": "Ganymede (perfume).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projection (perfume).md",
+                "file": "Ganymede (perfume).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projection (perfume).md",
+                "file": "Ganymede (perfume).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projection (perfume).md"
+                "file": "Ganymede (perfume).md"
               }
             }
           },
@@ -181,8 +181,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0ba4b1ce73378a20",
+  "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
+    "projection (perfume).md",
     "sillage (perfume).md",
     "perfume.md",
     "aromachology.md",
@@ -191,7 +192,6 @@
     "extensional definition.md",
     "principle of maximum entropy.md",
     "backward induction.md",
-    "obsessive-compulsive personality disorder.md",
-    "GitHub.md"
+    "obsessive-compulsive personality disorder.md"
   ]
 }
