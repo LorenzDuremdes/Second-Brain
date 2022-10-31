@@ -1,0 +1,1 @@
+1. sillage ([[perfume]]); refers to the trail created by a [[perfume]] when it is worn on the skin^[https://en.wikipedia.org/wiki/Sillage_(perfume)]

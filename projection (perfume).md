@@ -1,0 +1,1 @@
+1. projection ([[perfume]]); how a fragrance is perceived by others around the wearer, and is enhanced by motion, ambient temperature as well as the inherent qualities of the skin^[https://en.wikipedia.org/wiki/Sillage_(perfume)]
