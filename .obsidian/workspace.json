@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "625cf42fa8a3273c",
+                "id": "d80e15c205825491",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Ganymede (perfume).md",
+                    "file": "ergodicity.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Ganymede (perfume).md",
+                    "file": "ergodicity.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ganymede (perfume).md",
+                "file": "ergodicity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ganymede (perfume).md",
+                "file": "ergodicity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ganymede (perfume).md"
+                "file": "ergodicity.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
+    "Ganymede (perfume).md",
     "projection (perfume).md",
     "sillage (perfume).md",
     "perfume.md",
@@ -191,7 +192,6 @@
     "information superhighway.md",
     "extensional definition.md",
     "principle of maximum entropy.md",
-    "backward induction.md",
-    "obsessive-compulsive personality disorder.md"
+    "backward induction.md"
   ]
 }

@@ -1,0 +1,2 @@
+1. ergodicity; expresses the idea that a point of a moving [[system]], either a dynamical [[system]] or a stochastic process, will eventually visit all parts of the space that the [[system]] moves in, in a uniform and random sense^[https://en.wikipedia.org/wiki/Ergodicity]
+	1. this implies that the average behavior of the [[system]] can be deduced from the trajectory of a "typical" point
