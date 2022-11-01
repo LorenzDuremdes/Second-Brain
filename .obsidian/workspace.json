@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "faf49ae5add98f2d",
+                "id": "101772393b8089db",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "algorithmically random sequence.md",
+                    "file": "intelligence.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "algorithmically random sequence.md",
+                    "file": "intelligence.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithmically random sequence.md",
+                "file": "intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithmically random sequence.md",
+                "file": "intelligence.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithmically random sequence.md"
+                "file": "intelligence.md"
               }
             }
           },
@@ -174,14 +174,17 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4d65b6c08e42b3aa",
+  "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
+    "Church-Turing thesis.md",
+    "algorithmically random sequence.md",
     "ergodicity.md",
     "Ganymede (perfume).md",
     "projection (perfume).md",
@@ -189,8 +192,6 @@
     "perfume.md",
     "aromachology.md",
     "laissez-faire.md",
-    "information superhighway.md",
-    "extensional definition.md",
-    "principle of maximum entropy.md"
+    "information superhighway.md"
   ]
 }

@@ -116,6 +116,11 @@
 1. is "intelligence g is the ability to deal with cognitive complexity — in particular complex [[information]] processing" 100% accurate + why?
 	1. not if the reward signal is always maximal no matter what the agent does despite a very complex environment with a rich set of relationships between the agent’s actions and observations^[Universal Intelligence - A Definition of Machine Intelligence, p. 22]
 		1. if the output is the same multidimensionally, then one agent isn't per se more intelligent just because it can deal with more complex [[information]]
+2. does "universal intelligence" consider "efficiency" a part of it + why?^[Universal Intelligence - A Definition of Machine Intelligence, p. 32–33]
+	1. no, what matters is performance
+		1. this is not to say that considering the efficiency of agents is unimportant
+		   
+		   It should also be pointed out that although universal intelligence does not test the efficiency of an agent in terms of the computational resources that it uses, it does however test how quickly the agent learns from past data. In a sense, an agent which learns very quickly could be thought of as being very “data efficient”.
 
 # related
 1. [[collective intelligence]]
