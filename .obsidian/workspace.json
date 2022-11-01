@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Solomonoff's theory of inductive inference.md",
+                    "file": "AIXI.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Solomonoff's theory of inductive inference.md",
+                    "file": "AIXI.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solomonoff's theory of inductive inference.md",
+                "file": "AIXI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solomonoff's theory of inductive inference.md",
+                "file": "AIXI.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solomonoff's theory of inductive inference.md"
+                "file": "AIXI.md"
               }
             }
           },
@@ -174,15 +174,15 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fe30d9f2d6ec44fa",
+  "active": "26ac02359e9dabe9",
   "lastOpenFiles": [
+    "Solomonoff's theory of inductive inference.md",
     "AIXI.md",
     "Hutter Prize.md",
     "panic disorder.md",
@@ -191,7 +191,6 @@
     "algorithmically random sequence.md",
     "ergodicity.md",
     "Ganymede (perfume).md",
-    "projection (perfume).md",
-    "sillage (perfume).md"
+    "projection (perfume).md"
   ]
 }
