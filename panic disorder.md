@@ -1,0 +1,1 @@
+1. panic disorder (synonym); episodic paroxysmal anxiety^[https://en.wikipedia.org/wiki/Panic_disorder#References]^[Neurotische Stoornissen 3 – Angst- en paniekstoornissen]

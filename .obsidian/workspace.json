@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "101772393b8089db",
+                "id": "a290701784f9a84c",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "intelligence.md",
+                    "file": "panic disorder.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "intelligence.md",
+                    "file": "panic disorder.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -58,7 +58,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.13438421776453957,
+                      "scale": 0.024810452679756886,
                       "close": false
                     }
                   }
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kolmogorov",
+                "query": "panic disorder",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intelligence.md",
+                "file": "panic disorder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intelligence.md",
+                "file": "panic disorder.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intelligence.md"
+                "file": "panic disorder.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
+    "intelligence.md",
     "Church-Turing thesis.md",
     "algorithmically random sequence.md",
     "ergodicity.md",
@@ -191,7 +192,6 @@
     "sillage (perfume).md",
     "perfume.md",
     "aromachology.md",
-    "laissez-faire.md",
-    "information superhighway.md"
+    "laissez-faire.md"
   ]
 }
