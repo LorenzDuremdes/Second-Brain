@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "26ac02359e9dabe9",
+                "id": "188b001ebdb914f7",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "AIXI.md",
+                    "file": "speed prior.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "AIXI.md",
+                    "file": "speed prior.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIXI.md",
+                "file": "speed prior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIXI.md",
+                "file": "speed prior.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIXI.md"
+                "file": "speed prior.md"
               }
             }
           },
@@ -174,16 +174,17 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "26ac02359e9dabe9",
+  "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
-    "Solomonoff's theory of inductive inference.md",
     "AIXI.md",
+    "Solomonoff's theory of inductive inference.md",
     "Hutter Prize.md",
     "panic disorder.md",
     "intelligence.md",

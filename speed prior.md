@@ -1,0 +1,2 @@
+1. speed prior; a complexity measure similar to [[Kolmogorov complexity]], except that it is based on computation speed as well as program length.^[https://en.wikipedia.org/wiki/Speed_prior#cite_note-1]
+2. speed prior complexity; its size in bits plus the logarithm of the maximum [[time]] we are willing to run it to get a prediction^[https://en.wikipedia.org/wiki/Speed_prior]
