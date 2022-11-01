@@ -1,0 +1,1 @@
+1. AIXI; combines Solomonoff induction with sequential decision theory^[https://en.wikipedia.org/wiki/AIXI]

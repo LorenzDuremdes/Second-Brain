@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "5ae426237b3ef975",
+                "id": "26ac02359e9dabe9",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Hutter Prize.md",
+                    "file": "Solomonoff's theory of inductive inference.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Hutter Prize.md",
+                    "file": "Solomonoff's theory of inductive inference.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hutter Prize.md",
+                "file": "Solomonoff's theory of inductive inference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hutter Prize.md",
+                "file": "Solomonoff's theory of inductive inference.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hutter Prize.md"
+                "file": "Solomonoff's theory of inductive inference.md"
               }
             }
           },
@@ -174,14 +174,17 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4d65b6c08e42b3aa",
+  "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
+    "AIXI.md",
+    "Hutter Prize.md",
     "panic disorder.md",
     "intelligence.md",
     "Church-Turing thesis.md",
@@ -189,8 +192,6 @@
     "ergodicity.md",
     "Ganymede (perfume).md",
     "projection (perfume).md",
-    "sillage (perfume).md",
-    "perfume.md",
-    "aromachology.md"
+    "sillage (perfume).md"
   ]
 }
