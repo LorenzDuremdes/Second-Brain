@@ -1,0 +1,2 @@
+1. Hutter Prize; a cash prize funded by Marcus Hutter which rewards data compression improvements on a specific 1 GB English text file, with the goal of encouraging research in artificial [[intelligence]] (AI)^[https://en.wikipedia.org/wiki/Hutter_Prize]
+	1. launched in 2006, the prize awards 5000 euros for each one percent improvement (with 500,000 euros total funding)^[https://en.wikipedia.org/wiki/Hutter_Prize#cite_note-website-1]

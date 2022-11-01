@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "a290701784f9a84c",
+                "id": "5ae426237b3ef975",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "panic disorder.md",
+                    "file": "Hutter Prize.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "panic disorder.md",
+                    "file": "Hutter Prize.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -58,7 +58,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.024810452679756886,
+                      "scale": 0.09585296509515714,
                       "close": false
                     }
                   }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "panic disorder.md",
+                "file": "Hutter Prize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "panic disorder.md",
+                "file": "Hutter Prize.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "panic disorder.md"
+                "file": "Hutter Prize.md"
               }
             }
           },
@@ -174,15 +174,15 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fe30d9f2d6ec44fa",
+  "active": "4d65b6c08e42b3aa",
   "lastOpenFiles": [
+    "panic disorder.md",
     "intelligence.md",
     "Church-Turing thesis.md",
     "algorithmically random sequence.md",
@@ -191,7 +191,6 @@
     "projection (perfume).md",
     "sillage (perfume).md",
     "perfume.md",
-    "aromachology.md",
-    "laissez-faire.md"
+    "aromachology.md"
   ]
 }
