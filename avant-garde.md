@@ -1,0 +1,1 @@
+1. avant-garde; a person or work that is experimental, radical, or unorthodox with respect to art, [[culture]], or [[society]].^[https://en.wikipedia.org/wiki/Avant-garde#cite_note-dictref-4]^[https://en.wikipedia.org/wiki/Avant-garde#cite_note-Picchione2004-5]^[https://en.wikipedia.org/wiki/Avant-garde#cite_note-6]
