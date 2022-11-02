@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "speed prior.md",
+                    "file": "Ganymede (perfume).md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "speed prior.md",
+                    "file": "Ganymede (perfume).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "speed prior.md",
+                "file": "Ganymede (perfume).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "speed prior.md",
+                "file": "Ganymede (perfume).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "speed prior.md"
+                "file": "Ganymede (perfume).md"
               }
             }
           },
@@ -181,8 +181,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fe30d9f2d6ec44fa",
+  "active": "188b001ebdb914f7",
   "lastOpenFiles": [
+    "speed prior.md",
     "AIXI.md",
     "Solomonoff's theory of inductive inference.md",
     "Hutter Prize.md",
@@ -191,7 +192,6 @@
     "Church-Turing thesis.md",
     "algorithmically random sequence.md",
     "ergodicity.md",
-    "Ganymede (perfume).md",
-    "projection (perfume).md"
+    "Ganymede (perfume).md"
   ]
 }
