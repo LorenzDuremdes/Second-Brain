@@ -1,4 +1,10 @@
 # fragrances
+## futuristic
+1. https://www.fragrantica.com/awards2021/category/Best-Futuristic-Perfume
+2. [Fantomas Nasomatto](https://www.fragrantica.com/perfume/Nasomatto/Fantomas-62775.html)
+	1. Such an unusual creative very unique formulation. Very complex perfumery with different facets. I have absolutely no idea or any guesses how they received this. Very complicated work with different molecules to receive several accords combined here. The formulation is very modern, Iso E Super based I believe
+2. [The Ghost In The Shell - Etat Libre d'Orange](https://www.fragrantica.com/perfume/Etat-Libre-d-Orange/The-Ghost-In-The-Shell-69412.html)
+	1. By mixing biotech and natural materials, this perfume silently celebrates the wake of the future and also whispers of a day to come, by providence or chance, when humanity is reunited and organized. A day when all consciousness is summoned by the infosphere to constitute a superior being and pass from the inert to the living. As the molecules assemble to make the living, we will then make a qualitative leap that becomes the starting point and arrival of transhumanism.
 ## space
 1. ['space' fragrances](https://www.reddit.com/r/fragrance/comments/lfqamb/few_fragrances_that_probably_smell_like_space/)
 2. [Into The Void - Juliette Has A Gun](https://www.fragrantica.com/perfume/Juliette-Has-A-Gun/Into-The-Void-39010.html)
