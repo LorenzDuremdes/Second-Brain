@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "f2fde17bce28c3fd",
+                "id": "3ac02c7304caba3b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "perfume.md",
+                    "file": "Carl Rogers.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "perfume.md",
+                    "file": "Carl Rogers.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ganymede",
+                "query": "carl rogers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "perfume.md",
+                "file": "Carl Rogers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "perfume.md",
+                "file": "Carl Rogers.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "perfume.md"
+                "file": "Carl Rogers.md"
               }
             }
           },
@@ -181,8 +181,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fe30d9f2d6ec44fa",
+  "active": "3ac02c7304caba3b",
   "lastOpenFiles": [
+    "Natalia Perevalova.md",
+    "perfume.md",
     "Ganymede (perfume).md",
     "Church-Turing thesis.md",
     "anthropic principle.md",
@@ -190,8 +192,6 @@
     "speed prior.md",
     "AIXI.md",
     "Solomonoff's theory of inductive inference.md",
-    "Hutter Prize.md",
-    "panic disorder.md",
-    "intelligence.md"
+    "Hutter Prize.md"
   ]
 }
