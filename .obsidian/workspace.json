@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "humanistic psychology.md",
+                    "file": "Ganymede (perfume).md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "humanistic psychology.md",
+                    "file": "Ganymede (perfume).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "humanistic",
+                "query": "ganymede",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,7 +113,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "humanistic psychology.md",
+                "file": "Ganymede (perfume).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "humanistic psychology.md",
+                "file": "Ganymede (perfume).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "humanistic psychology.md"
+                "file": "Ganymede (perfume).md"
               }
             }
           },
@@ -174,23 +175,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3ac02c7304caba3b",
+  "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
+    "perfume.md",
+    "humanistic psychology.md",
     "Carl Rogers.md",
     "Natalia Perevalova.md",
-    "perfume.md",
     "Ganymede (perfume).md",
     "Church-Turing thesis.md",
     "anthropic principle.md",
     "avant-garde.md",
     "speed prior.md",
-    "AIXI.md",
-    "Solomonoff's theory of inductive inference.md"
+    "AIXI.md"
   ]
 }

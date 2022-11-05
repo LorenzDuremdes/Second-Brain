@@ -5,3 +5,6 @@
    
    Alludes to high tech architecture and large scale minimalistic interior spaces^[https://www.parfumo.net/Perfumes/Marc_Antoine_Barrois/Ganymede]
 3. I’ve described it as “a [[perfume]] a robot would wear.”^[https://www.reddit.com/r/fragrance/comments/wzv6uy/comment/im7dpof/?utm_source=share&utm_medium=web2x&context=3]
+
+# miscellaneous
+1. 'theme music' (personal): [2 Hours of Dark Fantasy Trance by The Enigma TNG](https://www.youtube.com/watch?v=giq6Q57nSeU)
