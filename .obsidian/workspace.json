@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Carl Rogers.md",
+                    "file": "humanistic psychology.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Carl Rogers.md",
+                    "file": "humanistic psychology.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "carl rogers",
+                "query": "humanistic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Carl Rogers.md",
+                "file": "humanistic psychology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Carl Rogers.md",
+                "file": "humanistic psychology.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Carl Rogers.md"
+                "file": "humanistic psychology.md"
               }
             }
           },
@@ -174,8 +174,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,6 +182,7 @@
   },
   "active": "3ac02c7304caba3b",
   "lastOpenFiles": [
+    "Carl Rogers.md",
     "Natalia Perevalova.md",
     "perfume.md",
     "Ganymede (perfume).md",
@@ -191,7 +191,6 @@
     "avant-garde.md",
     "speed prior.md",
     "AIXI.md",
-    "Solomonoff's theory of inductive inference.md",
-    "Hutter Prize.md"
+    "Solomonoff's theory of inductive inference.md"
   ]
 }
