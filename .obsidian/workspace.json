@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Ganymede (perfume).md",
+                    "file": "Carl Rogers.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Ganymede (perfume).md",
+                    "file": "Carl Rogers.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -58,7 +58,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.09585296509515714,
+                      "scale": 0.2641397116679342,
                       "close": false
                     }
                   }
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ganymede",
+                "query": "carl rogers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,8 +113,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ganymede (perfume).md",
+                "file": "Carl Rogers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ganymede (perfume).md",
+                "file": "Carl Rogers.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ganymede (perfume).md"
+                "file": "Carl Rogers.md"
               }
             }
           },
@@ -184,11 +183,11 @@
   },
   "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
+    "Ganymede (perfume).md",
     "perfume.md",
     "humanistic psychology.md",
     "Carl Rogers.md",
     "Natalia Perevalova.md",
-    "Ganymede (perfume).md",
     "Church-Turing thesis.md",
     "anthropic principle.md",
     "avant-garde.md",
