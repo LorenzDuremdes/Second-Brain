@@ -21,5 +21,11 @@
 1. where to apply perfume + why?
 	1. behind the ears, at the nape of the neck, under the armpits and at the insides of wrists, elbows and knees, so that the pulse point will warm the perfume and release fragrance continuously^[https://en.wikipedia.org/wiki/Perfume]
 
+# expensive ↮ cheap fragrances
+1. {expensive ↮ cheap fragrances} → layers
+   
+   the former usually has more layers (and also lasts longer)^[[https://www.goodto.com/wellbeing/beauty/difference-between-cheap-and-expensive-perfume-554137](https://www.goodto.com/wellbeing/beauty/difference-between-cheap-and-expensive-perfume-554137)]
+2. cheaper perfumes tend to be sweeter^[[https://www.goodto.com/wellbeing/beauty/difference-between-cheap-and-expensive-perfume-554137](https://www.goodto.com/wellbeing/beauty/difference-between-cheap-and-expensive-perfume-554137)]
+	1. e.g. cheaper scents + aimed at younger audience
 # see also
 1. https://www.fragrantica.com/ - comparing fragrances
