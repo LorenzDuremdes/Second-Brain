@@ -3,9 +3,10 @@
 1. https://www.fragrantica.com/awards2021/category/Best-Futuristic-Perfume
 2. [Fantomas Nasomatto](https://www.fragrantica.com/perfume/Nasomatto/Fantomas-62775.html)
 	1. Such an unusual creative very unique formulation. Very complex perfumery with different facets. I have absolutely no idea or any guesses how they received this. Very complicated work with different molecules to receive several accords combined here. The formulation is very modern, Iso E Super based I believe
+	2. Een geur die echt als kunstmatig kan worden bestempeld^[https://www.perfumelounge.nl/products/nasomatto-fantomas]
 3. [The Ghost In The Shell - Etat Libre d'Orange](https://www.fragrantica.com/perfume/Etat-Libre-d-Orange/The-Ghost-In-The-Shell-69412.html)
 	1. By mixing biotech and natural materials, this perfume silently celebrates the wake of the future and also whispers of a day to come, by providence or chance, when humanity is reunited and organized. A day when all consciousness is summoned by the infosphere to constitute a superior being and pass from the inert to the living. As the molecules assemble to make the living, we will then make a qualitative leap that becomes the starting point and arrival of transhumanism.
-4. [Burner Perfume No.9A: Machine Intelligence](https://www.etsy.com/listing/637793465/burner-perfume-no9a-machine-intellignce
+4. [Burner Perfume No.9A: Machine Intelligence](https://www.etsy.com/listing/637793465/burner-perfume-no9a-machine-intellignce)
 	1. The most abstract of the series, Machine Intelligence evokes the computations, logic and learning of a quantum computer. Represented in physical space by the power source and box that contains it, the computations exist in a superposition of space that is neither here nor there.
 	   
 	   Smell the Future now.
@@ -22,7 +23,9 @@
 	1. behind the ears, at the nape of the neck, under the armpits and at the insides of wrists, elbows and knees, so that the pulse point will warm the perfume and release fragrance continuously^[https://en.wikipedia.org/wiki/Perfume]
 
 # expensive ↮ cheap fragrances
-1. {expensive ↮ cheap fragrances} → layers
+1. what is considered an expensive fragrance?
+	1. somewhere above ~$2.58/ml^[https://scentapprentice.com/why-is-dior-perfume-so-expensive/]
+2. {expensive ↮ cheap fragrances} → layers
    
    the former usually has more layers (and also lasts longer)^[[https://www.goodto.com/wellbeing/beauty/difference-between-cheap-and-expensive-perfume-554137](https://www.goodto.com/wellbeing/beauty/difference-between-cheap-and-expensive-perfume-554137)]
 2. cheaper perfumes tend to be sweeter^[[https://www.goodto.com/wellbeing/beauty/difference-between-cheap-and-expensive-perfume-554137](https://www.goodto.com/wellbeing/beauty/difference-between-cheap-and-expensive-perfume-554137)]
