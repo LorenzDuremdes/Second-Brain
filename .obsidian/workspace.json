@@ -23,8 +23,12 @@
                 "id": "81a5ce63effe4523",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "perfume.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
             ],
@@ -40,6 +44,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "perfume.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -100,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "carl rogers",
+                "query": "comme des garc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -137,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "perfume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "perfume.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "perfume.md"
+              }
             }
           },
           {
@@ -181,7 +190,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "81a5ce63effe4523",
+  "active": "81065ebe05c5628d",
   "lastOpenFiles": [
     "Odeur 71 - Comme des Garcons.md",
     "Comme des Garcons 2.md",
