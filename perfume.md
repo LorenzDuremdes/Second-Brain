@@ -21,6 +21,8 @@
 # how
 1. where to apply perfume + why?
 	1. behind the ears, at the nape of the neck, under the armpits and at the insides of wrists, elbows and knees, so that the pulse point will warm the perfume and release fragrance continuously^[https://en.wikipedia.org/wiki/Perfume]
+2. spraying fragrance close ↮ far (anecdotal)
+	1. spraying fragrance farther makes it last longer, but also less potently
 
 # expensive ↮ cheap fragrances
 1. what is considered an expensive fragrance?

@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Nebula 2 Carina Eau de Parfum.md",
+                    "file": "perfume.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Nebula 2 Carina Eau de Parfum.md",
+                    "file": "perfume.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nebula 2 Carina Eau de Parfum.md",
+                "file": "perfume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nebula 2 Carina Eau de Parfum.md",
+                "file": "perfume.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nebula 2 Carina Eau de Parfum.md"
+                "file": "perfume.md"
               }
             }
           },
@@ -174,15 +174,15 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "51932a1139918fa7",
+  "active": "4d65b6c08e42b3aa",
   "lastOpenFiles": [
+    "Nebula 2 Carina Eau de Parfum.md",
     "Comme des Garcons 2.md",
     "Odeur 71 - Comme des Garcons.md",
     "perfume.md",
@@ -191,7 +191,6 @@
     "humanistic psychology.md",
     "Natalia Perevalova.md",
     "Church-Turing thesis.md",
-    "anthropic principle.md",
-    "avant-garde.md"
+    "anthropic principle.md"
   ]
 }
