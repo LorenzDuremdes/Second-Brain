@@ -12,18 +12,23 @@
             "type": "tabs",
             "children": [
               {
-                "id": "3ac02c7304caba3b",
+                "id": "2ad67b8446388b3e",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "perfume.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "81a5ce63effe4523",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "408d63c9e671ce60",
@@ -35,7 +40,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "perfume.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -133,7 +137,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "perfume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +153,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "perfume.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -161,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "perfume.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,17 +181,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fe30d9f2d6ec44fa",
+  "active": "81a5ce63effe4523",
   "lastOpenFiles": [
+    "Odeur 71 - Comme des Garcons.md",
+    "Comme des Garcons 2.md",
+    "perfume.md",
     "Carl Rogers.md",
     "Ganymede (perfume).md",
-    "perfume.md",
     "humanistic psychology.md",
     "Natalia Perevalova.md",
     "Church-Turing thesis.md",
     "anthropic principle.md",
-    "avant-garde.md",
-    "speed prior.md",
-    "AIXI.md"
+    "avant-garde.md"
   ]
 }
