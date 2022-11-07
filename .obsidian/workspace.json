@@ -13,6 +13,7 @@
             "children": [
               {
                 "id": "2ad67b8446388b3e",
+<<<<<<< Updated upstream
                 "type": "leaf",
                 "state": {
                   "type": "empty",
@@ -21,11 +22,29 @@
               },
               {
                 "id": "81a5ce63effe4523",
+=======
+>>>>>>> Stashed changes
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
+<<<<<<< Updated upstream
                     "file": "perfume.md",
+=======
+                    "file": "Comme des Garcons 2.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "81a5ce63effe4523",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Odeur 71 - Comme des Garcons.md",
+>>>>>>> Stashed changes
                     "mode": "source",
                     "source": false
                   }
@@ -44,7 +63,11 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+<<<<<<< Updated upstream
                     "file": "perfume.md",
+=======
+                    "file": "Odeur 71 - Comme des Garcons.md",
+>>>>>>> Stashed changes
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -142,7 +165,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "perfume.md",
+=======
+                "file": "Odeur 71 - Comme des Garcons.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +186,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "perfume.md",
+=======
+                "file": "Odeur 71 - Comme des Garcons.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -171,7 +202,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "perfume.md"
+=======
+                "file": "Odeur 71 - Comme des Garcons.md"
+>>>>>>> Stashed changes
               }
             }
           },
@@ -190,9 +225,14 @@
     "direction": "horizontal",
     "width": 300
   },
+<<<<<<< Updated upstream
   "active": "81065ebe05c5628d",
   "lastOpenFiles": [
     "Odeur 71 - Comme des Garcons.md",
+=======
+  "active": "81a5ce63effe4523",
+  "lastOpenFiles": [
+>>>>>>> Stashed changes
     "Comme des Garcons 2.md",
     "perfume.md",
     "Carl Rogers.md",
@@ -201,6 +241,11 @@
     "Natalia Perevalova.md",
     "Church-Turing thesis.md",
     "anthropic principle.md",
+<<<<<<< Updated upstream
     "avant-garde.md"
+=======
+    "avant-garde.md",
+    "speed prior.md"
+>>>>>>> Stashed changes
   ]
 }
