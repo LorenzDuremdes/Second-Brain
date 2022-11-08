@@ -38,3 +38,6 @@
 	1. e.g. cheaper scents + aimed at younger audience
 # see also
 1. https://www.fragrantica.com/ - comparing fragrances
+
+# related
+1. [[Veblen good]]
