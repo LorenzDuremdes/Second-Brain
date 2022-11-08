@@ -174,13 +174,14 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4d65b6c08e42b3aa",
+  "active": "ce784ace2f127b3f",
   "lastOpenFiles": [
     "Nebula 2 Carina Eau de Parfum.md",
     "Comme des Garcons 2.md",

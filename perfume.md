@@ -30,7 +30,11 @@
 2. {expensive ↮ cheap fragrances} → layers
    
    the former usually has more layers (and also lasts longer)^[[https://www.goodto.com/wellbeing/beauty/difference-between-cheap-and-expensive-perfume-554137](https://www.goodto.com/wellbeing/beauty/difference-between-cheap-and-expensive-perfume-554137)]
-2. cheaper perfumes tend to be sweeter^[[https://www.goodto.com/wellbeing/beauty/difference-between-cheap-and-expensive-perfume-554137](https://www.goodto.com/wellbeing/beauty/difference-between-cheap-and-expensive-perfume-554137)]
+2. expensive fragrance (packaging)^[https://sterlish.com/cheap-vs-expensive-perfume/]
+	1. packaged in chic boxes meant to be kept, even after unboxing
+	2. cheaper fragrances tend to be more diluted, have cleaner scents with sweeter notes that appeal to young buyers, and are packaged in economical boxes meant to be thrown away after opening
+	3. the boxing and packaging of expensive perfume is a work of art: one that you get to appreciate increasingly as you get more and more into perfumery
+3. cheaper perfumes tend to be sweeter^[[https://www.goodto.com/wellbeing/beauty/difference-between-cheap-and-expensive-perfume-554137](https://www.goodto.com/wellbeing/beauty/difference-between-cheap-and-expensive-perfume-554137)]
 	1. e.g. cheaper scents + aimed at younger audience
 # see also
 1. https://www.fragrantica.com/ - comparing fragrances
