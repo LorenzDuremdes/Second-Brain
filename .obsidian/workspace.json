@@ -174,13 +174,14 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "67df878852092392",
+  "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
     "perfume.md",
     "Nebula 2 Carina Eau de Parfum.md",
