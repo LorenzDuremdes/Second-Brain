@@ -1,0 +1,1 @@
+1. hypocaust; a system of central heating in a building that produces and circulates hot air below the floor of a room, and may also warm the walls with a series of pipes through which the hot air passes^[https://en.wikipedia.org/wiki/Hypocaust#cite_note-:0-1]
