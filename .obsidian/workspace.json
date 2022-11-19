@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "22740fe33430ff6c",
+                "id": "277f25e4ac7b256a",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "hypocaust.md",
+                    "file": "longtermism.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "hypocaust.md",
+                    "file": "longtermism.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hypocaust.md",
+                "file": "longtermism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hypocaust.md",
+                "file": "longtermism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hypocaust.md"
+                "file": "longtermism.md"
               }
             }
           },
@@ -174,15 +174,15 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "22740fe33430ff6c",
+  "active": "4d65b6c08e42b3aa",
   "lastOpenFiles": [
+    "hypocaust.md",
     "Barronium™.md",
     "Cowboy. (elektrische fiets).md",
     "elektrische fiets.md",
@@ -191,7 +191,6 @@
     "Nebula 2 Carina Eau de Parfum.md",
     "Comme des Garcons 2.md",
     "Odeur 71 - Comme des Garcons.md",
-    "Ganymede (perfume).md",
-    "Carl Rogers.md"
+    "Ganymede (perfume).md"
   ]
 }

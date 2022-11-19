@@ -1,0 +1,1 @@
+1. longtermism; an ethical stance which gives priority to improving the long-term future^[https://en.wikipedia.org/wiki/Longtermism]
