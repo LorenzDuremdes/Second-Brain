@@ -6,3 +6,5 @@
 
 # engineering
 1. elektrische fietsen met een achterwielmotor geven de meest natuurlijke rijbeleving^[https://www.anwb.nl/fiets/soorten-fietsen/elektrische-fietsen/elektrische-fiets-kopen#motor]
+2. ideal e-bike battery storage temperature
+	1. 0–20 °C^[https://electric-biking.com/storage-temperatures/]
