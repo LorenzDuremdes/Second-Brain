@@ -4,58 +4,70 @@
     "type": "split",
     "children": [
       {
-        "id": "408d63c9e671ce60",
-        "type": "tabs",
+        "id": "7ec8f1bedc76cfaf",
+        "type": "split",
         "children": [
           {
-            "id": "c33e3549459e1ccb",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Cowboy. (elektrische fiets).md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": true,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0,
-                  "repelStrength": 20,
-                  "linkStrength": 1,
-                  "linkDistance": 30,
-                  "scale": 0.7278834536913509,
-                  "close": false
+            "id": "408d63c9e671ce60",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "df7b3c8a9d939e6d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Cowboy. (elektrische fiets).md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
-            }
+            ]
           },
           {
-            "id": "df7b3c8a9d939e6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cowboy. (elektrische fiets).md",
-                "mode": "source",
-                "source": false
+            "id": "a5e70c16810861f5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c33e3549459e1ccb",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Cowboy. (elektrische fiets).md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": true,
+                      "showAttachments": true,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": -3,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0,
+                      "repelStrength": 20,
+                      "linkStrength": 1,
+                      "linkDistance": 30,
+                      "scale": 0.7278834536913509,
+                      "close": false
+                    }
+                  }
+                }
               }
-            }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
