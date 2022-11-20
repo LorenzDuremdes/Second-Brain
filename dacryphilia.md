@@ -1,0 +1,1 @@
+1. dacryphilia; a form of paraphilia in which one is aroused by tears or sobbing.^[https://en.wikipedia.org/wiki/Dacryphilia#cite_note-Holmes-1]^[https://en.wikipedia.org/wiki/Dacryphilia#cite_note-2]^[https://en.wikipedia.org/wiki/Dacryphilia#cite_note-3]
