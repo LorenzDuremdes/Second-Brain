@@ -1,0 +1,1 @@
+1. facilitative conditions; conditions or counselor attitudes that enhance the therapeutic relationship and are conducive to successful outcomes in counseling and [[psychotherapy]]^[http://psychology.iresearchnet.com/counseling-psychology/counseling-process/facilitative-conditions/]
