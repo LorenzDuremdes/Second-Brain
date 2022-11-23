@@ -109,7 +109,7 @@
 
 # [[sociology]]
 1. [[Franklin Veaux]] on "flirting"^[https://qr.ae/pv2obZ]
-	1. Just because you enjoy flirting with someone doesn’t mean you can’t flirt with other people. Flirting is fun. Flirting doesn’t necessarily mean you want to date someone. A key part of developing basic social skills is understanding this.
+	1. Just because you enjoy flirting with someone doesn’t mean you can’t flirt with other people. Flirting is fun. Flirting doesn’t necessarily mean you want to date someone. A key part of developing basic [[social skills]] is understanding this.
 
 # related
 1. [[dating (persuasion)]]

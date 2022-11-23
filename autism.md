@@ -44,7 +44,7 @@
 	1. The subsequent neurodiversity paradigm has been controversial among disability advocates, with opponents saying that its conceptualization doesn't reflect the realities of individuals who have high support needs.^[https://en.wikipedia.org/wiki/Neurodiversity#cite_note-4]^[https://en.wikipedia.org/wiki/Neurodiversity#cite_note-5]^[https://en.wikipedia.org/wiki/Neurodiversity#cite_note-6]
 
 # miscellaneous
-1. regressive autism; the loss of speech and social skills at approximately 15 to 30 months of age
+1. regressive autism; the loss of speech and [[social skills]] at approximately 15 to 30 months of age
 	1. *not to be confused with: nonverbal autism*
 2. autism → stochastic resonance
 	1. autism is an example of too high [[stochastic resonance]] in terms of optimal functioning?
