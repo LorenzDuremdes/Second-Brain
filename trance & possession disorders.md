@@ -1,0 +1,1 @@
+1. trance & possession disorders; temporary loss of the personal identity & full awareness of the surroundings^[https://en.wikibooks.org/wiki/Textbook_of_Psychiatry/Dissociative_Disorders/Phenomenology, ICD-10 > F44.3]

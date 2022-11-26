@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "a1404fa651799c0d",
+                "id": "42936d4ff802c93b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "dissociative stupor.md",
+                    "file": "trance & possession disorders.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "dissociative stupor.md",
+                    "file": "trance & possession disorders.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dissociative stupor.md",
+                "file": "trance & possession disorders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dissociative stupor.md",
+                "file": "trance & possession disorders.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dissociative stupor.md"
+                "file": "trance & possession disorders.md"
               }
             }
           },
@@ -181,8 +181,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a1404fa651799c0d",
+  "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
+    "dissociative fugue.md",
+    "dissociative stupor.md",
     "fugue state.md",
     "social skills.md",
     "facilitative conditions.md",
@@ -190,8 +192,6 @@
     "Cowboy. (elektrische fiets).md",
     "dacryphilia.md",
     "Da Costa's syndrome.md",
-    "unconditional positive regard.md",
-    "longtermism.md",
-    "hypocaust.md"
+    "unconditional positive regard.md"
   ]
 }
