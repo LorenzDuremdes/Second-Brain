@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "9d00ed92c2db6a46",
+                "id": "a1404fa651799c0d",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "fugue state.md",
+                    "file": "dissociative stupor.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "fugue state.md",
+                    "file": "dissociative stupor.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fugue state.md",
+                "file": "dissociative stupor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fugue state.md",
+                "file": "dissociative stupor.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fugue state.md"
+                "file": "dissociative stupor.md"
               }
             }
           },
@@ -181,8 +181,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fe30d9f2d6ec44fa",
+  "active": "a1404fa651799c0d",
   "lastOpenFiles": [
+    "fugue state.md",
     "social skills.md",
     "facilitative conditions.md",
     "elektrische fiets.md",
@@ -191,7 +192,6 @@
     "Da Costa's syndrome.md",
     "unconditional positive regard.md",
     "longtermism.md",
-    "hypocaust.md",
-    "Barronium™.md"
+    "hypocaust.md"
   ]
 }

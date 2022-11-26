@@ -1,0 +1,1 @@
+1. dissociative stupor; profound diminution or absence of voluntary movement & normal responsiveness to external stimuli such as light, noise & touch^[https://en.wikibooks.org/wiki/Textbook_of_Psychiatry/Dissociative_Disorders/Phenomenology, ICD-10 > F44.2]
