@@ -58,7 +58,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.06836956802198119,
+                      "scale": 0.048766335260175285,
                       "close": false
                     }
                   }
@@ -174,14 +174,13 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fe30d9f2d6ec44fa",
+  "active": "4d65b6c08e42b3aa",
   "lastOpenFiles": [
     "Netherlands.md",
     "human sexuality.md",
