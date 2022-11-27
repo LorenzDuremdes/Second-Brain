@@ -2,6 +2,9 @@
 1. many [[women]] are into "guys on guys"^[https://qr.ae/pGzpuX]
 	1. many [[women]] are less open about it than guys due to e.g. slut-shaming
 
+# [[neuroscience]]
+1. reduced activity^[The Science of Attraction: What Behavioral & Evolutionary Psychology Can Teach Us About Flirting, Dating, and Mating (2nd ed.) (The Psychology of Social Dynamics Book 4), p. 17]
+
 # [[Netherlands]]
 1. in the Red Light District, Oudekerksplein opposite De Oude Kerk there's a kindergarten right in the middle of a row of windows containing working [[women]]
 
