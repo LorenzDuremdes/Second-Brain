@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "trance & possession disorders.md",
+                    "file": "Dr. David McPhee.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "trance & possession disorders.md",
+                    "file": "Dr. David McPhee.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "persuasion",
+                "query": "david mcphee",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,7 +113,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "trance & possession disorders.md",
+                "file": "Dr. David McPhee.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "trance & possession disorders.md",
+                "file": "Dr. David McPhee.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "trance & possession disorders.md"
+                "file": "Dr. David McPhee.md"
               }
             }
           },
@@ -175,14 +176,15 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fe30d9f2d6ec44fa",
+  "active": "ce784ace2f127b3f",
   "lastOpenFiles": [
+    "trance & possession disorders.md",
     "dissociative fugue.md",
     "dissociative stupor.md",
     "fugue state.md",
@@ -191,7 +193,6 @@
     "elektrische fiets.md",
     "Cowboy. (elektrische fiets).md",
     "dacryphilia.md",
-    "Da Costa's syndrome.md",
-    "unconditional positive regard.md"
+    "Da Costa's syndrome.md"
   ]
 }
