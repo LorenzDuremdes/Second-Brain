@@ -8,10 +8,20 @@
 		1. perhaps not e.g. introducing '[[health]]' (sexuality) later on (e.g. people starting a [[romantic relationship]] with their best friend)
 
 # improving
+## [[persuasion]]
+# scarcity
+1. scarcity · [[contrast effect]]
+	1. you can create a wonderful sense of tension that is then released when you do connect with them again^[The Science of Attraction: What Behavioral & Evolutionary Psychology Can Teach Us About Flirting, Dating, and Mating (2nd ed.), p. 70]
+		1. e.g. you acting busy with cleaning your Cowboy V3 in boundary cell proximity of G.
+2. (un)certainty whether someone likes you → your attraction toward that person^[The Science of Attraction: What Behavioral & Evolutionary Psychology Can Teach Us About Flirting, Dating, and Mating (2nd ed.), p. 70]
+	1. people are more attracted to those who seem undecided about them
+		1. although declaring your interest isn't per se negative either
+		2. **related**: [[Zeigarnik effect]] (uncertainty/unresolved whether the other likes you or not)
+
 ## nonverbals
 1. why is "availability" sexually attractive?
 	1. a decreased chance of rejection from the other person toward you being more available (e.g. through nonverbals)^[The Science of Attraction: What Behavioral & Evolutionary Psychology Can Teach Us About Flirting, Dating, and Mating (2nd ed.), p. 41]
-2. dominant + deep eye contact → sexual attraction
+2. dominant + deep [[eye contact]] → sexual attraction
 	1. the more of the former, the better^[The Science of Attraction: What Behavioral & Evolutionary Psychology Can Teach Us About Flirting, Dating, and Mating (2nd ed.), p. 43]
 		1. **related**: [[Visual Dominance Ratio]]
 
