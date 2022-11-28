@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "c089b75878a4dd3b",
+                "id": "d962cfc05df3be46",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "women.md",
+                    "file": "interpersonal attraction.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "women.md",
+                    "file": "interpersonal attraction.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +97,7 @@
               "type": "search",
               "state": {
                 "query": "women",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -113,8 +113,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "women.md",
+                "file": "interpersonal attraction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "women.md",
+                "file": "interpersonal attraction.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "women.md"
+                "file": "interpersonal attraction.md"
               }
             }
           },
@@ -175,14 +174,16 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4d65b6c08e42b3aa",
+  "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
+    "women.md",
     "flirting.md",
     "human sexuality.md",
     "online dating service.md",
@@ -191,7 +192,6 @@
     "scarcity (persuasion).md",
     "plausible deniability touching.md",
     "Netherlands.md",
-    "sexual attraction.md",
-    "Dr. David McPhee.md"
+    "sexual attraction.md"
   ]
 }
