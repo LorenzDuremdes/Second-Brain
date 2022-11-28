@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "human sexuality.md",
+                    "file": "women.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "human sexuality.md",
+                    "file": "women.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -58,7 +58,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.048766335260175285,
+                      "scale": 0.04876633526017544,
                       "close": false
                     }
                   }
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scarcity",
+                "query": "women",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,7 +113,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "human sexuality.md",
+                "file": "women.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "human sexuality.md",
+                "file": "women.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "human sexuality.md"
+                "file": "women.md"
               }
             }
           },
@@ -174,24 +175,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fe30d9f2d6ec44fa",
+  "active": "4d65b6c08e42b3aa",
   "lastOpenFiles": [
+    "flirting.md",
+    "human sexuality.md",
+    "online dating service.md",
+    "dating.md",
+    "variable ratio schedule.md",
     "scarcity (persuasion).md",
     "plausible deniability touching.md",
-    "human sexuality.md",
     "Netherlands.md",
     "sexual attraction.md",
-    "Dr. David McPhee.md",
-    "trance & possession disorders.md",
-    "dissociative fugue.md",
-    "dissociative stupor.md",
-    "fugue state.md"
+    "Dr. David McPhee.md"
   ]
 }

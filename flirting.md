@@ -102,6 +102,7 @@
 
 ### effective
 1. Both [[men]] and [[women]] are equally good at recognizing certain verbal communications as flirting (Henningsen et al., 2009). Specifically, they interpret sexual interest from compliments; overt references to being single/available to date someone else; and using mild sexual innuendos as signs of interest.^[https://www.psychologytoday.com/us/blog/meet-catch-and-keep/201408/how-spot-flirt]
+2. females usually feel more comfortable being approached from the front and males more from the side^[The Science of Attraction: What Behavioral & Evolutionary Psychology Can Teach Us About Flirting, Dating, and Mating (2nd ed.) (The Psychology of Social Dynamics Book 4) (English Edition), p. 114]
 
 # analogs
 1. how is approaching girls comparable to gaming?

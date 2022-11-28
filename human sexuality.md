@@ -9,6 +9,10 @@
 
 # improving
 ## [[persuasion]]
+1. what type of reinforcement might be most effective (sexual attraction)?
+	1. [[variable ratio schedule]]^[The Science of Attraction: What Behavioral & Evolutionary Psychology Can Teach Us About Flirting, Dating, and Mating (2nd ed.) (The Psychology of Social Dynamics Book 4) (English Edition), p. 87]
+		1. balancing between being too available and too little
+
 # scarcity
 1. scarcity · [[contrast effect]]
 	1. you can create a wonderful sense of tension that is then released when you do connect with them again^[The Science of Attraction: What Behavioral & Evolutionary Psychology Can Teach Us About Flirting, Dating, and Mating (2nd ed.), p. 70]
@@ -24,6 +28,11 @@
 2. dominant + deep [[eye contact]] → sexual attraction
 	1. the more of the former, the better^[The Science of Attraction: What Behavioral & Evolutionary Psychology Can Teach Us About Flirting, Dating, and Mating (2nd ed.), p. 43]
 		1. **related**: [[Visual Dominance Ratio]]
+
+## how not to
+1. is "negging" effective (sexual attraction)?
+	1. no (even playfully)^[The Science of Attraction: What Behavioral & Evolutionary Psychology Can Teach Us About Flirting, Dating, and Mating (2nd ed.) (The Psychology of Social Dynamics Book 4) (English Edition), p. 73]
+	2. negging; putting a woman down to 'build attraction'
 
 # [[women]]
 ## preferences
