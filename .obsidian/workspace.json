@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "interpersonal attraction.md",
+                    "file": "commitment and consistency (persuasion).md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "interpersonal attraction.md",
+                    "file": "commitment and consistency (persuasion).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "women",
+                "query": "commitment",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,7 +113,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interpersonal attraction.md",
+                "file": "commitment and consistency (persuasion).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interpersonal attraction.md",
+                "file": "commitment and consistency (persuasion).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interpersonal attraction.md"
+                "file": "commitment and consistency (persuasion).md"
               }
             }
           },
@@ -174,15 +175,15 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fe30d9f2d6ec44fa",
+  "active": "4d65b6c08e42b3aa",
   "lastOpenFiles": [
+    "interpersonal attraction.md",
     "women.md",
     "flirting.md",
     "human sexuality.md",
@@ -191,7 +192,6 @@
     "variable ratio schedule.md",
     "scarcity (persuasion).md",
     "plausible deniability touching.md",
-    "Netherlands.md",
-    "sexual attraction.md"
+    "Netherlands.md"
   ]
 }
