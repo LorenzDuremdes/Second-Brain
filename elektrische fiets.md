@@ -12,3 +12,7 @@
 # speed pedelec
 1. hoe snel gaan de meeste speed pedelecs?
 	1. 30–40 km/h^[https://www.fietsersbond.nl/de-fiets/fietssoorten/speed-pedelec/]
+
+## videos
+### Netherlands
+1. [Stromer ST5 - Avondrit Utrechtse Heuvelrug](https://www.youtube.com/watch?v=0RtDnUzyk2Y)

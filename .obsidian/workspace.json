@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "commitment and consistency (persuasion).md",
+                    "file": "elektrische fiets.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "commitment and consistency (persuasion).md",
+                    "file": "elektrische fiets.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "commitment",
+                "query": "speed pedelec",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "commitment and consistency (persuasion).md",
+                "file": "elektrische fiets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "commitment and consistency (persuasion).md",
+                "file": "elektrische fiets.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "commitment and consistency (persuasion).md"
+                "file": "elektrische fiets.md"
               }
             }
           },
@@ -175,14 +175,16 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4d65b6c08e42b3aa",
+  "active": "ce784ace2f127b3f",
   "lastOpenFiles": [
+    "commitment and consistency (persuasion).md",
     "interpersonal attraction.md",
     "women.md",
     "flirting.md",
@@ -191,7 +193,6 @@
     "dating.md",
     "variable ratio schedule.md",
     "scarcity (persuasion).md",
-    "plausible deniability touching.md",
-    "Netherlands.md"
+    "plausible deniability touching.md"
   ]
 }
