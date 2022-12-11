@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Prizm Road.md",
+                    "file": "commitment and consistency (persuasion).md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Prizm Road.md",
+                    "file": "commitment and consistency (persuasion).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pacing",
+                "query": "commitment",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,7 +113,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prizm Road.md",
+                "file": "commitment and consistency (persuasion).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prizm Road.md",
+                "file": "commitment and consistency (persuasion).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prizm Road.md"
+                "file": "commitment and consistency (persuasion).md"
               }
             }
           },
@@ -174,15 +175,15 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fe30d9f2d6ec44fa",
+  "active": "af85040be2987b2e",
   "lastOpenFiles": [
+    "Prizm Road.md",
     "winter road cycling.md",
     "adjustment disorder.md",
     "elektrische fiets.md",
@@ -191,7 +192,6 @@
     "interpersonal attraction.md",
     "women.md",
     "flirting.md",
-    "human sexuality.md",
-    "online dating service.md"
+    "human sexuality.md"
   ]
 }
