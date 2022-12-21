@@ -12,11 +12,15 @@
             "type": "tabs",
             "children": [
               {
-                "id": "e4e4472a2d21ec85",
+                "id": "2db101aa7e353061",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "Firefox.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
             ]
@@ -31,6 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "Firefox.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -128,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Firefox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Firefox.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -154,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Firefox.md"
+              }
             }
           },
           {
@@ -165,7 +174,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,11 +192,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "81065ebe05c5628d",
+  "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
-    "Untitled.canvas",
     "Prizm Road.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
     "commitment and consistency (persuasion).md",
     "winter road cycling.md",
     "adjustment disorder.md",
