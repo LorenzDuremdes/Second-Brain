@@ -1,0 +1,1 @@
+1. xylometazoline; a [[medication]] used to reduce symptoms of nasal congestion, allergic rhinitis, and sinusitis.^[https://en.wikipedia.org/wiki/Xylometazoline#cite_note-UK2016-1]
