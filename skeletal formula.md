@@ -1,0 +1,1 @@
+1. skeletal formula; a type of molecular structural formula that serves as a shorthand representation of a [[molecule]]'s bonding and some details of its molecular geometry^[https://en.wikipedia.org/wiki/Skeletal_formula]
