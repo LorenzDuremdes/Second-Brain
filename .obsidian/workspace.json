@@ -15,12 +15,8 @@
                 "id": "e4e4472a2d21ec85",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "commitment and consistency (persuasion).md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ]
@@ -35,7 +31,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "commitment and consistency (persuasion).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -113,8 +108,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -134,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "commitment and consistency (persuasion).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "commitment and consistency (persuasion).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "commitment and consistency (persuasion).md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,17 +171,28 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "af85040be2987b2e",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "81065ebe05c5628d",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "Prizm Road.md",
+    "commitment and consistency (persuasion).md",
     "winter road cycling.md",
     "adjustment disorder.md",
     "elektrische fiets.md",
     "pacing strategies.md",
-    "commitment and consistency (persuasion).md",
     "interpersonal attraction.md",
-    "women.md",
-    "flirting.md",
-    "human sexuality.md"
+    "women.md"
   ]
 }
