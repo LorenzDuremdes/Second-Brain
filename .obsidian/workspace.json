@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Firefox.md",
+                    "file": "GitHub.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Firefox.md",
+                    "file": "GitHub.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "commitment",
+                "query": "github",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Firefox.md",
+                "file": "GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Firefox.md",
+                "file": "GitHub.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Firefox.md"
+                "file": "GitHub.md"
               }
             }
           },
@@ -194,6 +194,7 @@
   },
   "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
+    "Firefox.md",
     "Prizm Road.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
@@ -202,7 +203,6 @@
     "adjustment disorder.md",
     "elektrische fiets.md",
     "pacing strategies.md",
-    "interpersonal attraction.md",
-    "women.md"
+    "interpersonal attraction.md"
   ]
 }
