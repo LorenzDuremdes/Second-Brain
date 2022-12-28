@@ -17,7 +17,11 @@
                 "state": {
                   "type": "markdown",
                   "state": {
+<<<<<<< Updated upstream
                     "file": "skeletal formula.md",
+=======
+                    "file": "cadence (road cycling).md",
+>>>>>>> Stashed changes
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +39,11 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+<<<<<<< Updated upstream
                     "file": "skeletal formula.md",
+=======
+                    "file": "cadence (road cycling).md",
+>>>>>>> Stashed changes
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -96,7 +104,11 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< Updated upstream
                 "query": "github",
+=======
+                "query": "cadence",
+>>>>>>> Stashed changes
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +145,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "skeletal formula.md",
+=======
+                "file": "cadence (road cycling).md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +166,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "skeletal formula.md",
+=======
+                "file": "cadence (road cycling).md",
+>>>>>>> Stashed changes
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +182,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "skeletal formula.md"
+=======
+                "file": "cadence (road cycling).md"
+>>>>>>> Stashed changes
               }
             }
           },
@@ -181,6 +205,7 @@
     "direction": "horizontal",
     "width": 300
   },
+<<<<<<< Updated upstream
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
@@ -204,5 +229,19 @@
     "commitment and consistency (persuasion).md",
     "winter road cycling.md",
     "adjustment disorder.md"
+=======
+  "active": "e4e4472a2d21ec85",
+  "lastOpenFiles": [
+    "bicycle pedal.md",
+    "commitment and consistency (persuasion).md",
+    "Prizm Road.md",
+    "winter road cycling.md",
+    "adjustment disorder.md",
+    "elektrische fiets.md",
+    "pacing strategies.md",
+    "interpersonal attraction.md",
+    "women.md",
+    "flirting.md"
+>>>>>>> Stashed changes
   ]
 }

@@ -8,5 +8,13 @@
 2. how could higher cadence make you recover more quickly ([[road cycling]] ([[physiology]]))?
 	1. ◇slow-twitch muscle fibers recover more quickly despite it being perhaps less energetically efficient (e.g. having to lift up your legs more often)
 
+# low ↮ high cadence
+1. how would 100 watts at higher torque (lower cadence) ↮ lower torque affect fitness gains?
+	1. prolonged high-force intervals at an aerobic cardiovascular intensity may also lead a subset of fast-twitch (Type II) muscle fibers to change their characteristics and behave more like endurance-friendly slow-twitch (Type I) fibers^[https://trainright.com/climb-faster-workout-cycling/]
+		1. e.g. produce more power with more fatigue resistance (e.g. useful in climbing)
+2. when might it be better to train at a particular zone at higher ↮ lower cadences?
+	1. depends on the bottleneck e.g. if you need more muscular endurance it^[https://trainright.com/climb-faster-workout-cycling/]might be better to train at lower cadences
+		1. ◇5-hour Z2 at 60 RPM would allow you to hold higher power at a higher cadence, but e.g. promote recovery less (the latter which slower-twitch muscle fibers are more 'specialized' at)
+
 # related
 1. [[bicycle pedal]]
