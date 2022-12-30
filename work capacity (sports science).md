@@ -3,7 +3,7 @@
 2. "work capacity (sports science)" is the "floor"^[How Much Should I Train by Dr. Mike Israetel and Dr. James Hoffmann, p. 17]
 	1. the % of your **session** MRV you can effectively train at (producing overload)  → if you have the work capacity to do 4-hour workouts, this does not necessarily mean that you can consistently recover from that much work
 		1. **related**
-			1. lactate threshold
+			1. [[lactate threshold]]
 
 # biology
 1. AMPK pathways → work capacity (sports science)^[How Much Should I Train by Dr. Mike Israetel and Dr. James Hoffmann, p. 17]
