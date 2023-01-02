@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "e4e4472a2d21ec85",
+                "id": "2b3d3c5f8e48e8e4",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "lactate threshold.md",
+                    "file": "style Japandi.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "lactate threshold.md",
+                    "file": "style Japandi.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -113,8 +113,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lactate threshold.md",
+                "file": "style Japandi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lactate threshold.md",
+                "file": "style Japandi.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lactate threshold.md"
+                "file": "style Japandi.md"
               }
             }
           },
@@ -175,7 +174,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,8 +192,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4d65b6c08e42b3aa",
+  "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
+    "lactate threshold.md",
     "cadence (road cycling).md",
     "bicycle pedal.md",
     "commitment and consistency (persuasion).md",
@@ -202,7 +203,6 @@
     "adjustment disorder.md",
     "elektrische fiets.md",
     "pacing strategies.md",
-    "interpersonal attraction.md",
-    "women.md"
+    "interpersonal attraction.md"
   ]
 }

@@ -1,0 +1,1 @@
+1. style Japandi; un style d'ameublement et de décoration intérieure issu d’un mélange entre les styles de décoration scandinave et japonaise^[https://fr.wikipedia.org/wiki/Style_Japandi#cite_note-1]
