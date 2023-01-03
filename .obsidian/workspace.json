@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Zeigarnik effect.md",
+                    "file": "interference theory.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Zeigarnik effect.md",
+                    "file": "interference theory.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zeigarnik effect",
+                "query": "interference",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,7 +113,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeigarnik effect.md",
+                "file": "interference theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zeigarnik effect.md",
+                "file": "interference theory.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zeigarnik effect.md"
+                "file": "interference theory.md"
               }
             }
           },
@@ -181,8 +182,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "81065ebe05c5628d",
+  "active": "fdc793da70879ae1",
   "lastOpenFiles": [
+    "Zeigarnik effect.md",
     "psychological trauma.md",
     "perfume.md",
     "Nebula 2 Carina Eau de Parfum.md",
@@ -191,7 +193,6 @@
     "Ganymede (perfume).md",
     "Carl Rogers.md",
     "humanistic psychology.md",
-    "Natalia Perevalova.md",
-    "Church-Turing thesis.md"
+    "Natalia Perevalova.md"
   ]
 }
