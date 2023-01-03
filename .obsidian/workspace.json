@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7ec8f1bedc76cfaf",
+        "id": "d653fb74718115d5",
         "type": "split",
         "children": [
           {
-            "id": "408d63c9e671ce60",
+            "id": "b84a79556c284fff",
             "type": "tabs",
             "children": [
               {
-                "id": "2b3d3c5f8e48e8e4",
+                "id": "fdc793da70879ae1",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "style Japandi.md",
+                    "file": "Zeigarnik effect.md",
                     "mode": "source",
                     "source": false
                   }
@@ -26,7 +26,7 @@
             ]
           },
           {
-            "id": "a5e70c16810861f5",
+            "id": "408d63c9e671ce60",
             "type": "tabs",
             "children": [
               {
@@ -35,11 +35,11 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "style Japandi.md",
+                    "file": "Zeigarnik effect.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
-                      "localJumps": 2,
+                      "localJumps": 1,
                       "localBacklinks": true,
                       "localForelinks": true,
                       "localInterlinks": true,
@@ -58,7 +58,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.0683695680219816,
+                      "scale": 0.5461733847549678,
                       "close": false
                     }
                   }
@@ -96,8 +96,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lactate threshold",
-                "matchingCase": true,
+                "query": "zeigarnik effect",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "style Japandi.md",
+                "file": "Zeigarnik effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "style Japandi.md",
+                "file": "Zeigarnik effect.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "style Japandi.md"
+                "file": "Zeigarnik effect.md"
               }
             }
           },
@@ -181,28 +181,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "left-ribbon": {
-    "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "random-note:Open random note": false
-    }
-  },
-  "active": "fe30d9f2d6ec44fa",
+  "active": "81065ebe05c5628d",
   "lastOpenFiles": [
-    "lactate threshold.md",
-    "cadence (road cycling).md",
-    "bicycle pedal.md",
-    "commitment and consistency (persuasion).md",
-    "Prizm Road.md",
-    "winter road cycling.md",
-    "adjustment disorder.md",
-    "elektrische fiets.md",
-    "pacing strategies.md",
-    "interpersonal attraction.md"
+    "psychological trauma.md",
+    "perfume.md",
+    "Nebula 2 Carina Eau de Parfum.md",
+    "Comme des Garcons 2.md",
+    "Odeur 71 - Comme des Garcons.md",
+    "Ganymede (perfume).md",
+    "Carl Rogers.md",
+    "humanistic psychology.md",
+    "Natalia Perevalova.md",
+    "Church-Turing thesis.md"
   ]
 }
