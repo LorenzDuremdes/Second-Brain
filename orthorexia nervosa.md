@@ -1,0 +1,1 @@
+1. orthorexia nervosa; a proposed eating disorder characterized by an excessive preoccupation with eating healthy [[food]].^[https://en.wikipedia.org/wiki/Orthorexia_nervosa#cite_note-Healthy_food_obsession_sparks_rise_in_new_eating_disorder-1]^[https://en.wikipedia.org/wiki/Orthorexia_nervosa#cite_note-2]^[https://en.wikipedia.org/wiki/Orthorexia_nervosa#cite_note-3]

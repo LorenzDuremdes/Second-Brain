@@ -1,0 +1,1 @@
+1. pica (disorder); the eating or craving of things that are not [[food]].^[https://en.wikipedia.org/wiki/Pica_(disorder)#cite_note-2]
