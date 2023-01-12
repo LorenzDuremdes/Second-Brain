@@ -1,0 +1,1 @@
+1. Dehaene-Changeux model (synonyms); global neuronal workspace^[https://en.wikipedia.org/wiki/Dehaene–Changeux_model]
