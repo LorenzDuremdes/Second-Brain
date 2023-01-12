@@ -37,7 +37,7 @@
                   "state": {
                     "file": "Frankfurt cases.md",
                     "options": {
-                      "collapse-filter": true,
+                      "collapse-filter": false,
                       "search": "",
                       "localJumps": 2,
                       "localBacklinks": true,
@@ -58,7 +58,11 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
+<<<<<<< Updated upstream
                       "scale": 0.38957207368316515,
+=======
+                      "scale": 0.06927388381716572,
+>>>>>>> Stashed changes
                       "close": false
                     }
                   }
@@ -180,6 +184,7 @@
     "direction": "horizontal",
     "width": 300
   },
+<<<<<<< Updated upstream
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
@@ -192,6 +197,9 @@
     }
   },
   "active": "4d65b6c08e42b3aa",
+=======
+  "active": "c33e3549459e1ccb",
+>>>>>>> Stashed changes
   "lastOpenFiles": [
     "teleonomy.md",
     "Frankfurt cases.md",
