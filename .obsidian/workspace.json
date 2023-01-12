@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "intractability.md",
+                    "file": "natriumwaterstofcarbonaat.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "intractability.md",
+                    "file": "natriumwaterstofcarbonaat.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intractability",
+                "query": "least absolute ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intractability.md",
+                "file": "natriumwaterstofcarbonaat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intractability.md",
+                "file": "natriumwaterstofcarbonaat.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intractability.md"
+                "file": "natriumwaterstofcarbonaat.md"
               }
             }
           },
@@ -174,7 +174,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,17 +192,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c33e3549459e1ccb",
+  "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
+    "natriumwaterstofcarbonaat.md",
+    "least absolute shrinkage and selection operator.md",
+    "sensory gating.md",
+    "intractability.md",
     "Gödels second incompleteness theorem.md",
     "Frankfurt cases.md",
     "teleonomy.md",
     "anorexia nervosa.md",
     "pica (disorder).md",
-    "orthorexia nervosa.md",
-    "interference theory.md",
-    "Untitled.md",
-    "Zeigarnik effect.md",
-    "psychological trauma.md"
+    "orthorexia nervosa.md"
   ]
 }

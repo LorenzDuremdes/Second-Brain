@@ -1,0 +1,1 @@
+1. natriumwaterstofcarbonaat; baksoda^[https://nl.wikipedia.org/wiki/Natriumwaterstofcarbonaat]
