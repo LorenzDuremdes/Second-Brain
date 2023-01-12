@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "anorexia nervosa.md",
+                    "file": "Frankfurt cases.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "anorexia nervosa.md",
+                    "file": "Frankfurt cases.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "anorexia nervosa",
+                "query": "frankfur",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anorexia nervosa.md",
+                "file": "Frankfurt cases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "anorexia nervosa.md",
+                "file": "Frankfurt cases.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "anorexia nervosa.md"
+                "file": "Frankfurt cases.md"
               }
             }
           },
@@ -193,15 +193,15 @@
   },
   "active": "4d65b6c08e42b3aa",
   "lastOpenFiles": [
-    "pica (disorder).md",
+    "teleonomy.md",
+    "Frankfurt cases.md",
     "anorexia nervosa.md",
+    "pica (disorder).md",
     "orthorexia nervosa.md",
     "interference theory.md",
     "Untitled.md",
     "Zeigarnik effect.md",
     "psychological trauma.md",
-    "perfume.md",
-    "Nebula 2 Carina Eau de Parfum.md",
-    "Comme des Garcons 2.md"
+    "perfume.md"
   ]
 }

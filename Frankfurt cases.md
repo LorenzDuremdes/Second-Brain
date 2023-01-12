@@ -2,3 +2,4 @@
 
 # related
 1. response-ability; ability to respond
+2. [[teleonomy]]
