@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Gödels second incompleteness theorem.md",
+                    "file": "intractability.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,16 +35,16 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Gödels second incompleteness theorem.md",
+                    "file": "intractability.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
-                      "localJumps": 2,
+                      "localJumps": 1,
                       "localBacklinks": true,
                       "localForelinks": true,
                       "localInterlinks": true,
                       "showTags": true,
-                      "showAttachments": true,
+                      "showAttachments": false,
                       "hideUnresolved": false,
                       "collapse-color-groups": true,
                       "colorGroups": [],
@@ -58,7 +58,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.38957207368316515,
+                      "scale": 0.5461733847549726,
                       "close": false
                     }
                   }
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "frankfur",
+                "query": "intractability",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gödels second incompleteness theorem.md",
+                "file": "intractability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gödels second incompleteness theorem.md",
+                "file": "intractability.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gödels second incompleteness theorem.md"
+                "file": "intractability.md"
               }
             }
           },
@@ -174,8 +174,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,8 +191,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "fe30d9f2d6ec44fa",
+  "active": "c33e3549459e1ccb",
   "lastOpenFiles": [
+    "Gödels second incompleteness theorem.md",
     "Frankfurt cases.md",
     "teleonomy.md",
     "anorexia nervosa.md",
@@ -202,7 +202,6 @@
     "interference theory.md",
     "Untitled.md",
     "Zeigarnik effect.md",
-    "psychological trauma.md",
-    "perfume.md"
+    "psychological trauma.md"
   ]
 }
