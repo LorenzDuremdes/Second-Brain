@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "5834899e490ed62e",
+                "id": "8afd29e49b501268",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Frankfurt cases.md",
+                    "file": "Gödels second incompleteness theorem.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,9 +35,9 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Frankfurt cases.md",
+                    "file": "Gödels second incompleteness theorem.md",
                     "options": {
-                      "collapse-filter": false,
+                      "collapse-filter": true,
                       "search": "",
                       "localJumps": 2,
                       "localBacklinks": true,
@@ -58,11 +58,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-<<<<<<< Updated upstream
                       "scale": 0.38957207368316515,
-=======
-                      "scale": 0.06927388381716572,
->>>>>>> Stashed changes
                       "close": false
                     }
                   }
@@ -137,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frankfurt cases.md",
+                "file": "Gödels second incompleteness theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frankfurt cases.md",
+                "file": "Gödels second incompleteness theorem.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -166,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frankfurt cases.md"
+                "file": "Gödels second incompleteness theorem.md"
               }
             }
           },
@@ -178,13 +174,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-<<<<<<< Updated upstream
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
@@ -196,13 +192,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4d65b6c08e42b3aa",
-=======
-  "active": "c33e3549459e1ccb",
->>>>>>> Stashed changes
+  "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
-    "teleonomy.md",
     "Frankfurt cases.md",
+    "teleonomy.md",
     "anorexia nervosa.md",
     "pica (disorder).md",
     "orthorexia nervosa.md",
