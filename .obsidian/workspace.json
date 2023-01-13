@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d653fb74718115d5",
+        "id": "74d1a7608098b191",
         "type": "split",
         "children": [
           {
-            "id": "b84a79556c284fff",
+            "id": "ed4f9accb9393972",
             "type": "tabs",
             "children": [
               {
-                "id": "5834899e490ed62e",
+                "id": "06102e827e52a540",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "anorexia nervosa.md",
+                    "file": "work capacity (sports science).md",
                     "mode": "source",
                     "source": false
                   }
@@ -26,24 +26,24 @@
             ]
           },
           {
-            "id": "408d63c9e671ce60",
+            "id": "8ec342e623561e22",
             "type": "tabs",
             "children": [
               {
-                "id": "c33e3549459e1ccb",
+                "id": "ab26e21c42d70829",
                 "type": "leaf",
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "anorexia nervosa.md",
+                    "file": "work capacity (sports science).md",
                     "options": {
-                      "collapse-filter": false,
+                      "collapse-filter": true,
                       "search": "",
-                      "localJumps": 2,
+                      "localJumps": 5,
                       "localBacklinks": true,
                       "localForelinks": true,
                       "localInterlinks": true,
-                      "showTags": true,
+                      "showTags": false,
                       "showAttachments": true,
                       "hideUnresolved": false,
                       "collapse-color-groups": true,
@@ -58,11 +58,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-<<<<<<< Updated upstream
-                      "scale": 0.38957207368316515,
-=======
-                      "scale": 0.06927388381716572,
->>>>>>> Stashed changes
+                      "scale": 0.36907025434973556,
                       "close": false
                     }
                   }
@@ -100,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "anorexia nervosa",
+                "query": "david mcphee",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -137,14 +133,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anorexia nervosa.md",
+                "file": "work capacity (sports science).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -154,9 +150,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "anorexia nervosa.md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "file": "work capacity (sports science).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -166,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "anorexia nervosa.md"
+                "file": "work capacity (sports science).md"
               }
             }
           },
@@ -182,9 +178,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-<<<<<<< Updated upstream
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
@@ -196,20 +192,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4d65b6c08e42b3aa",
-=======
-  "active": "c33e3549459e1ccb",
->>>>>>> Stashed changes
+  "active": "ab26e21c42d70829",
   "lastOpenFiles": [
-    "pica (disorder).md",
-    "anorexia nervosa.md",
-    "orthorexia nervosa.md",
     "interference theory.md",
-    "Untitled.md",
+    "work capacity (sports science).md",
+    "xylometazoline.md",
+    "Dr. David McPhee.md",
     "Zeigarnik effect.md",
-    "psychological trauma.md",
-    "perfume.md",
-    "Nebula 2 Carina Eau de Parfum.md",
-    "Comme des Garcons 2.md"
+    "Untitled.md",
+    "Pasted image 20230109135038.png",
+    "Untitled 1.md"
   ]
 }
