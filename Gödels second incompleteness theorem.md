@@ -1,0 +1,1 @@
+1. Gödels second incompleteness theorem; the statement "there are no contradictions in the _Principia_ [[system]]" cannot be proven in the _Principia_ [[system]] unless there _are_ contradictions in the [[system]] (in which case it can be proven both true and false)^[https://en.wikipedia.org/wiki/Principia_Mathematica#Gödel_1930,_1931]

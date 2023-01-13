@@ -1,0 +1,3 @@
+1. Guided Search Model 2.0; the preattentive process directs attention in both a [[bottom-up]] and [[top-down]] way^[https://en.wikipedia.org/wiki/Feature_integration_theory]
+	1. Information acquired through both [[bottom-up]] and [[top-down]] processing is ranked according to priority. The priority ranking _guides_ visual search and makes the search more efficient.
+	2. preattentive stage; different parts of the [[brain]] automatically gather [[information]] about basic features (colors, shape, movement) that are found in the visual field (◇V1 ... V6)
