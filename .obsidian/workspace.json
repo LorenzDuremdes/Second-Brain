@@ -12,12 +12,24 @@
             "type": "tabs",
             "children": [
               {
-                "id": "73aa6e278289a430",
+                "id": "cc3dcf9466da0ed7",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "intelligence amplification.md",
+                    "file": "essentialism.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "333cc0c8030b17cf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "ontological reductionism.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,9 +47,9 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "intelligence amplification.md",
+                    "file": "essentialism.md",
                     "options": {
-                      "collapse-filter": false,
+                      "collapse-filter": true,
                       "search": "",
                       "localJumps": 1,
                       "localBacklinks": true,
@@ -58,7 +70,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.05601444843854463,
+                      "scale": 0.13714129970534258,
                       "close": false
                     }
                   }
@@ -96,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "intelligence",
+                "query": "corpus callosum",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intelligence amplification.md",
+                "file": "essentialism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,8 +162,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intelligence amplification.md",
-                "linksCollapsed": false,
+                "file": "essentialism.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intelligence amplification.md"
+                "file": "essentialism.md"
               }
             }
           },
@@ -174,8 +186,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,17 +203,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ab26e21c42d70829",
+  "active": "4d65b6c08e42b3aa",
   "lastOpenFiles": [
-    "Experience Producing Drive Theory-Revised.md",
+    "ontological reductionism.md",
+    "essentialism.md",
+    "dendritic spine.md",
+    "corpus callosum.md",
+    "critical period.md",
     "intelligence amplification.md",
+    "Experience Producing Drive Theory-Revised.md",
     "intelligence.md",
     "Eurasian magpie.md",
-    "essentialism.md",
-    "transactive memory.md",
-    "situated cognition.md",
-    "Gordian Knot.md",
-    "work capacity (sports science).md",
-    "interference theory.md"
+    "transactive memory.md"
   ]
 }

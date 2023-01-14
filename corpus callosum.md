@@ -1,0 +1,2 @@
+1. Sagittal section of [[brain]], front part to the left. The corpus callosum can be seen in the center, in light gray^[https://en.wikipedia.org/wiki/Corpus_callosum]
+   ![image](https://upload.wikimedia.org/wikipedia/commons/2/22/Gray720.png)^[By Henry Vandyke Carter - Henry Gray (1918) Anatomy of the Human Body (See &quot;Book&quot; section below)Bartleby.com: Gray&#039;s Anatomy, Plate 720, Public Domain, https://commons.wikimedia.org/w/index.php?curid=541541]
