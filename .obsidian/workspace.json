@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "66f80ba18d11c793",
+                "id": "73aa6e278289a430",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "transactive memory.md",
+                    "file": "intelligence amplification.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,11 +35,11 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "transactive memory.md",
+                    "file": "intelligence amplification.md",
                     "options": {
-                      "collapse-filter": true,
+                      "collapse-filter": false,
                       "search": "",
-                      "localJumps": 2,
+                      "localJumps": 1,
                       "localBacklinks": true,
                       "localForelinks": true,
                       "localInterlinks": true,
@@ -58,7 +58,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.2346870788094777,
+                      "scale": 0.05601444843854463,
                       "close": false
                     }
                   }
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "david mcphee",
+                "query": "intelligence",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "transactive memory.md",
+                "file": "intelligence amplification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "transactive memory.md",
+                "file": "intelligence amplification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "transactive memory.md"
+                "file": "intelligence amplification.md"
               }
             }
           },
@@ -192,16 +192,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "fe30d9f2d6ec44fa",
+  "active": "ab26e21c42d70829",
   "lastOpenFiles": [
+    "Experience Producing Drive Theory-Revised.md",
+    "intelligence amplification.md",
+    "intelligence.md",
+    "Eurasian magpie.md",
+    "essentialism.md",
+    "transactive memory.md",
     "situated cognition.md",
     "Gordian Knot.md",
     "work capacity (sports science).md",
-    "interference theory.md",
-    "xylometazoline.md",
-    "Dr. David McPhee.md",
-    "Zeigarnik effect.md",
-    "Pasted image 20230109135038.png",
-    "Untitled 1.md"
+    "interference theory.md"
   ]
 }
