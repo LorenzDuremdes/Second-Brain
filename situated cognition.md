@@ -1,0 +1,1 @@
+1. situated [[cognition]]; a theory that posits that knowing is inseparable from doing^[https://en.wikipedia.org/wiki/Situated_cognition#cite_note-1] by arguing that all knowledge is situated in activity bound to social, cultural and physical contexts.^[https://en.wikipedia.org/wiki/Situated_cognition#cite_note-2]

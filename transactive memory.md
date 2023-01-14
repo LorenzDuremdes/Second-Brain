@@ -1,0 +1,1 @@
+1. transactive [[memory]]; a mechanism through which groups collectively encode, store, and retrieve [[knowledge]]^[https://en.wikipedia.org/wiki/Transactive_memory]
