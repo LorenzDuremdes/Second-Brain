@@ -1,0 +1,1 @@
+1. free energy principle; establishes that the dynamics of physical systems minimise a quantity known as surprisal (which is just the negative log [[probability]] of some outcome); or equivalently, its variational upper bound^[https://en.wikipedia.org/wiki/Free_energy_principle]

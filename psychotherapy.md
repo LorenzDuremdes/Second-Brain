@@ -7,6 +7,10 @@
 	1. My first reaction on reading your question was “No. You’ve found someone who cares enough to be clear and honest with you, even when it can make you uncomfortable.”
 	2. You asked a question and got an honest answer that can help you, not some polite baloney.
 
+## emotionally-grounded
+1. My therapist told me it made her feel very uncomfortable after I disclosed that I had a sexual dream about her and that I crossed her boundaries. Any thoughts?
+	1. The person with boundary problems in this scenario is the therapist not the client. Clients have sexual fantasies about their therapists all the time and well trained and experienced practitioners know how to handle it, and what to do.^[https://qr.ae/prYe8X, Dr. David McPhee]
+
 ## negativity
 1. how does a good psychotherapist handle clients 'mistreating' them (e.g. insults)?^[https://qr.ae/pG6TKd]
 	1. I am not ‘enduring’ anything — I am not a put-upon unrewarded servant, forced to endure disrespect. I am an ambitious professional whose sense of [[feeling]] respected does not depend on how each individual client is going to address me. It is my responsibility, not my clients’, to create a life for myself in which I feel dignified and rewarded.

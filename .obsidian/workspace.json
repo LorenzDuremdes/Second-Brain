@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "cc3dcf9466da0ed7",
+                "id": "9eeb1c196fb0e572",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "embodied cognition.md",
+                    "file": "Markov blanket.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "embodied cognition.md",
+                    "file": "Markov blanket.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -58,7 +58,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.48037869379833154,
+                      "scale": 0.48037869379833087,
                       "close": false
                     }
                   }
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "autism",
+                "query": "neuron",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "embodied cognition.md",
+                "file": "Markov blanket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "embodied cognition.md",
+                "file": "Markov blanket.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "embodied cognition.md"
+                "file": "Markov blanket.md"
               }
             }
           },
@@ -192,17 +192,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "fe30d9f2d6ec44fa",
+  "active": "9eeb1c196fb0e572",
   "lastOpenFiles": [
-    "autism.md",
-    "embodied cognition.md",
-    "intelligence amplification.md",
-    "essentialism.md",
-    "ontological reductionism.md",
-    "dendritic spine.md",
-    "corpus callosum.md",
-    "critical period.md",
-    "Experience Producing Drive Theory-Revised.md",
-    "intelligence.md"
+    "cortical column.md",
+    "cortical minicolumn.md",
+    "neuron.md",
+    "free energy principle.md",
+    "predictive coding.md",
+    "interoception.md",
+    "interoceptive inference.md",
+    "cognitive reappraisal.md",
+    "misattribution of arousal.md",
+    "psychotherapy.md"
   ]
 }

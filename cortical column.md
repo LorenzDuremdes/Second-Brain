@@ -1,0 +1,3 @@
+1. there are ~50–100 [[cortical minicolumn|cortical minicolumns]] per cortical column^[https://en.wikipedia.org/wiki/Cortical_column#Columnar_functional_organization]
+2. cortical column (functional organization); connections "up" and "down" within the thickness of the [[cortex]] are much denser than connections that spread from side to side^[https://en.wikipedia.org/wiki/Cortical_column#Columnar_functional_organization]
+3. cortical column (quantity > humans) ≈ 2–4E6^[https://en.wikipedia.org/wiki/Cortical_column#Number_of_cortical_columns]

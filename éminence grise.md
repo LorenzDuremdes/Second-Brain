@@ -1,0 +1,1 @@
+1. éminence grise (grey eminence); a powerful decision-maker or adviser who operates "behind the scenes", or in a non-public or unofficial capacity^[https://en.wikipedia.org/wiki/%C3%89minence_grise]
