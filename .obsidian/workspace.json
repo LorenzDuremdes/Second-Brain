@@ -17,19 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "essentialism.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "333cc0c8030b17cf",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ontological reductionism.md",
+                    "file": "embodied cognition.md",
                     "mode": "source",
                     "source": false
                   }
@@ -47,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "essentialism.md",
+                    "file": "embodied cognition.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -70,7 +58,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.13714129970534258,
+                      "scale": 0.48037869379833154,
                       "close": false
                     }
                   }
@@ -108,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "corpus callosum",
+                "query": "autism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -145,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "essentialism.md",
+                "file": "embodied cognition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "essentialism.md",
+                "file": "embodied cognition.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "essentialism.md"
+                "file": "embodied cognition.md"
               }
             }
           },
@@ -186,7 +174,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,17 +192,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4d65b6c08e42b3aa",
+  "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
-    "ontological reductionism.md",
+    "autism.md",
+    "embodied cognition.md",
+    "intelligence amplification.md",
     "essentialism.md",
+    "ontological reductionism.md",
     "dendritic spine.md",
     "corpus callosum.md",
     "critical period.md",
-    "intelligence amplification.md",
     "Experience Producing Drive Theory-Revised.md",
-    "intelligence.md",
-    "Eurasian magpie.md",
-    "transactive memory.md"
+    "intelligence.md"
   ]
 }

@@ -25,7 +25,7 @@
 
 # unstable
 1. unstable couples have a lower turning toward ratio due to lower sensitivity or due to e.g. "negative sentiment override"?
-	1. ◇e.g. people with psychopathy or autism might have a lower sensitivity (at least affective empathy, at the beginning especially)
+	1. ◇e.g. people with psychopathy or [[autism]] might have a lower sensitivity (at least affective empathy, at the beginning especially)
 2. "When you put somebody on a pedestal, they have no choice but to look down on you."^[https://www.reddit.com/r/seduction/comments/2idim1/when_you_put_somebody_on_a_pedestal_they_have_no/]
 
 ## dynamics
