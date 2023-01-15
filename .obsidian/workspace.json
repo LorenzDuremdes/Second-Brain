@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "9eeb1c196fb0e572",
+                "id": "eb2e8b08b5fa4437",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Markov blanket.md",
+                    "file": "actigraphy.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Markov blanket.md",
+                    "file": "actigraphy.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -58,7 +58,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.48037869379833087,
+                      "scale": 0.33576579988117056,
                       "close": false
                     }
                   }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markov blanket.md",
+                "file": "actigraphy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markov blanket.md",
+                "file": "actigraphy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markov blanket.md"
+                "file": "actigraphy.md"
               }
             }
           },
@@ -192,17 +192,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "9eeb1c196fb0e572",
+  "active": "eb2e8b08b5fa4437",
   "lastOpenFiles": [
+    "embodied cognition.md",
+    "functional near-infrared spectroscopy.md",
+    "intelligence amplification.md",
+    "nodule (medicine).md",
+    "doppel (wristband).md",
+    "Untitled 1.md",
+    "Markov blanket.md",
     "cortical column.md",
     "cortical minicolumn.md",
-    "neuron.md",
-    "free energy principle.md",
-    "predictive coding.md",
-    "interoception.md",
-    "interoceptive inference.md",
-    "cognitive reappraisal.md",
-    "misattribution of arousal.md",
-    "psychotherapy.md"
+    "neuron.md"
   ]
 }

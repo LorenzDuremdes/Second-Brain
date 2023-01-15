@@ -1,0 +1,3 @@
+1. functional near-infrared spectroscopy; [[brain]] activity is measured by using near-infrared light to estimate cortical hemodynamic activity which occur in response to neural activity^[https://en.wikipedia.org/wiki/Functional_near-infrared_spectroscopy]
+2. fNIRS with a Gowerlabs NTS system^[By Elisenicolegray - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=84376563]
+   ![image](https://upload.wikimedia.org/wikipedia/commons/0/01/Blonde_fNIRS_lady.jpg)

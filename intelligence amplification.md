@@ -11,3 +11,4 @@
 
 # related
 1. [[intelligence]]
+2. [[embodied cognition]]

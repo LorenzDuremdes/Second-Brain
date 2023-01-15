@@ -1,0 +1,1 @@
+1. nodule (medicine); small firm lumps usually greater than 1 cm in diameter, found in skin and other organs.^[https://en.wikipedia.org/wiki/Nodule_(medicine)#cite_note-Mosbys2013p1299-1]^[https://en.wikipedia.org/wiki/Nodule_(medicine)#cite_note-DermnetNZ-2]
