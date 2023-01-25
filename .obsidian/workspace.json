@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "eb2e8b08b5fa4437",
+                "id": "ae54ba9e5713926e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "actigraphy.md",
+                    "file": "Beoplay H95 (Bang & Olufsen).md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "actigraphy.md",
+                    "file": "Beoplay H95 (Bang & Olufsen).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "actigraphy.md",
+                "file": "Beoplay H95 (Bang & Olufsen).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "actigraphy.md",
+                "file": "Beoplay H95 (Bang & Olufsen).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "actigraphy.md"
+                "file": "Beoplay H95 (Bang & Olufsen).md"
               }
             }
           },
@@ -192,8 +192,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "eb2e8b08b5fa4437",
+  "active": "ae54ba9e5713926e",
   "lastOpenFiles": [
+    "actigraphy.md",
     "embodied cognition.md",
     "functional near-infrared spectroscopy.md",
     "intelligence amplification.md",
@@ -202,7 +203,6 @@
     "Untitled 1.md",
     "Markov blanket.md",
     "cortical column.md",
-    "cortical minicolumn.md",
-    "neuron.md"
+    "cortical minicolumn.md"
   ]
 }
