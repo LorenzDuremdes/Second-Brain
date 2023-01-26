@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "ae54ba9e5713926e",
+                "id": "8685fd40cf167f11",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Beoplay H95 (Bang & Olufsen).md",
+                    "file": "without loss of generality.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Beoplay H95 (Bang & Olufsen).md",
+                    "file": "without loss of generality.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beoplay H95 (Bang & Olufsen).md",
+                "file": "without loss of generality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beoplay H95 (Bang & Olufsen).md",
+                "file": "without loss of generality.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beoplay H95 (Bang & Olufsen).md"
+                "file": "without loss of generality.md"
               }
             }
           },
@@ -192,8 +192,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ae54ba9e5713926e",
+  "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
+    "mutatis mutandis.md",
+    "Beoplay H95 (Bang & Olufsen).md",
     "actigraphy.md",
     "embodied cognition.md",
     "functional near-infrared spectroscopy.md",
@@ -201,8 +203,6 @@
     "nodule (medicine).md",
     "doppel (wristband).md",
     "Untitled 1.md",
-    "Markov blanket.md",
-    "cortical column.md",
-    "cortical minicolumn.md"
+    "Markov blanket.md"
   ]
 }

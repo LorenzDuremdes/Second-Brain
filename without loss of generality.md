@@ -1,0 +1,1 @@
+1. without loss of generality; the other cases are sufficiently similar to the one presented that proving them follows by essentially the same logic.^[https://en.wikipedia.org/wiki/Without_loss_of_generality#cite_note-2]

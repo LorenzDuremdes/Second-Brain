@@ -1,0 +1,2 @@
+1. _mutatis mutandis_; used to signal that a proof can be more generally applied to other certain cases after making some, presumably obvious, changes
+2. The other cases are sufficiently similar to the one presented that proving them follows by essentially the same logic.^[https://en.wikipedia.org/wiki/Without_loss_of_generality#cite_note-2] As a result, once a proof is given for the particular case, it is trivial to adapt it to prove the conclusion in all other cases.^[https://en.wikipedia.org/wiki/Without_loss_of_generality]
