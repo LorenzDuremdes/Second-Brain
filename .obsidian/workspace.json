@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "378a1cf08bb78a04",
+                "id": "b686bd2a7dbe8a0e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Beoplay H95 (Bang & Olufsen).md",
+                    "file": "loudness compensation.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Beoplay H95 (Bang & Olufsen).md",
+                    "file": "loudness compensation.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beoplay H95 (Bang & Olufsen).md",
+                "file": "loudness compensation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beoplay H95 (Bang & Olufsen).md",
+                "file": "loudness compensation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beoplay H95 (Bang & Olufsen).md"
+                "file": "loudness compensation.md"
               }
             }
           },
@@ -192,17 +192,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "378a1cf08bb78a04",
+  "active": "ab26e21c42d70829",
   "lastOpenFiles": [
+    "equal-loudness contour.md",
+    "loudness compensation.md",
+    "Beoplay H95 (Bang & Olufsen).md",
     "DAC - Amp.md",
     "Harman curve.md",
     "without loss of generality.md",
     "mutatis mutandis.md",
-    "Beoplay H95 (Bang & Olufsen).md",
     "actigraphy.md",
     "embodied cognition.md",
-    "functional near-infrared spectroscopy.md",
-    "intelligence amplification.md",
-    "nodule (medicine).md"
+    "functional near-infrared spectroscopy.md"
   ]
 }
