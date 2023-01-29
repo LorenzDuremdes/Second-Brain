@@ -1,3 +1,6 @@
+# improve
+1. [Dolby Experience - 5.1 Surround Sound on YouTube- Optimised for Dolby certified systems (2022)](https://www.youtube.com/watch?v=ClpEj1ayNSs)
+
 # reviews
 1. They actually sound as good as my home system at 1/8th the price^[https://www.amazon.com/Comfortable-Wireless-Cancelling-Headphones-Protective/product-reviews/B0916FSJ41/ref=cm_cr_getr_d_paging_btm_next_3?ie=UTF8&reviewerType=all_reviews&pageNumber=3]
 2. I thought, man, that's weird. They dont cost as much as the H95s, but they're still quite expensive and should sound much better than they do. This made me think for a minute, and then I pulled out all the other headphones and earbuds I have.
