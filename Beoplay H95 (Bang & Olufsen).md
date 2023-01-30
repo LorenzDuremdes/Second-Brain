@@ -2,7 +2,10 @@
 1. how can you experience the same song 'more than once'?
 	1. switch between EQ settings (or turn it off on the Bang and Olufsen Beoplay H95)
 2. [Dolby Experience - 5.1 Surround Sound on YouTube- Optimised for Dolby certified systems (2022)](https://www.youtube.com/watch?v=ClpEj1ayNSs)
-3. test soundstage: [Yosi Horikawa - Bubbles](https://www.youtube.com/watch?v=4CuJqtNdcJU)
+
+## testing
+1. test soundstage: [Yosi Horikawa - Bubbles](https://www.youtube.com/watch?v=4CuJqtNdcJU)
+2. [Surface - con-seq](https://soundcloud.com/con-seq/surface)
 
 # reviews
 1. They actually sound as good as my home system at 1/8th the price^[https://www.amazon.com/Comfortable-Wireless-Cancelling-Headphones-Protective/product-reviews/B0916FSJ41/ref=cm_cr_getr_d_paging_btm_next_3?ie=UTF8&reviewerType=all_reviews&pageNumber=3]

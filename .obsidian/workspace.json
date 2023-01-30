@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "headphones.md",
+                    "file": "Beoplay H95 (Bang & Olufsen).md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "headphones.md",
+                    "file": "Beoplay H95 (Bang & Olufsen).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "headphones.md",
+                "file": "Beoplay H95 (Bang & Olufsen).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "headphones.md",
+                "file": "Beoplay H95 (Bang & Olufsen).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "headphones.md"
+                "file": "Beoplay H95 (Bang & Olufsen).md"
               }
             }
           },
@@ -174,8 +174,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,8 +191,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "fe30d9f2d6ec44fa",
+  "active": "4d65b6c08e42b3aa",
   "lastOpenFiles": [
+    "headphones.md",
     "Beoplay H95 (Bang & Olufsen).md",
     "Tonmeister.md",
     "Harman curve.md",
@@ -202,7 +202,6 @@
     "DAC - Amp.md",
     "without loss of generality.md",
     "mutatis mutandis.md",
-    "actigraphy.md",
-    "embodied cognition.md"
+    "actigraphy.md"
   ]
 }
