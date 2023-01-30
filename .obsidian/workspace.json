@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "b686bd2a7dbe8a0e",
+                "id": "8c49ab73017ec907",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Harman curve.md",
+                    "file": "headphones.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Harman curve.md",
+                    "file": "headphones.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Harman curve.md",
+                "file": "headphones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Harman curve.md",
+                "file": "headphones.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Harman curve.md"
+                "file": "headphones.md"
               }
             }
           },
@@ -194,15 +194,15 @@
   },
   "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
+    "Beoplay H95 (Bang & Olufsen).md",
+    "Tonmeister.md",
+    "Harman curve.md",
     "loudness compensation.md",
     "equal-loudness contour.md",
-    "Beoplay H95 (Bang & Olufsen).md",
     "DAC - Amp.md",
-    "Harman curve.md",
     "without loss of generality.md",
     "mutatis mutandis.md",
     "actigraphy.md",
-    "embodied cognition.md",
-    "functional near-infrared spectroscopy.md"
+    "embodied cognition.md"
   ]
 }
