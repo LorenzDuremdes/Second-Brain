@@ -1,0 +1,1 @@
+1. parasomnia; a category of [[sleep]] disorders that involve abnormal movements, behaviors, emotions, perceptions, and dreams that occur while falling asleep, sleeping, between [[sleep]] stages, or during arousal from [[sleep]].^[https://en.wikipedia.org/wiki/Parasomnia]

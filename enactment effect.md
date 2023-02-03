@@ -1,0 +1,1 @@
+1. enactment effect; a term that was created in the early 80's to describe the fact that verb phrases are memorized better if a learner performs the described action during learning, compared to just getting the verbal [[information]] or seeing someone else perform the action.^[https://en.wikipedia.org/wiki/Enactment_effect#cite_note-Engelkamp-2]

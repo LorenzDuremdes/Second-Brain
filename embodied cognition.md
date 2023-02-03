@@ -1,6 +1,7 @@
 # [[interoception]]
 1. {sitting still ↮ moving} → [[cognitive load]]
-	1. sitting still increases cognitive load^[The Extended Mind: The Power of Thinking Outside the Brain, p. 52]
+	1. sitting still increases [[cognitive load]]^[The Extended Mind: The Power of Thinking Outside the Brain, p. 52]
+2. [[hypofrontality]] can be advantageous e.g. after high-intensity exercise → diffuse mode^[The Extended Mind: The Power of Thinking Outside the Brain, p. 57]
 2. embodied [[cognition]] → cognitive biases
 	1. the former can be used to reduce the latter e.g. you personally feel a bit more 'alert' when your psychological defense mechanisms are raised^[The Extended Mind: The Power of Thinking Outside the Brain, p. 39]
 

@@ -1,0 +1,1 @@
+1. hypofrontality; a state of decreased cerebral blood flow (CBF) in the [[prefrontal cortex]] of the [[brain]]^[https://en.wikipedia.org/wiki/Hypofrontality]
