@@ -4,82 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "74d1a7608098b191",
-        "type": "split",
+        "id": "8ad5b65d71832881",
+        "type": "tabs",
         "children": [
           {
-            "id": "ed4f9accb9393972",
-            "type": "tabs",
-            "children": [
-              {
-<<<<<<< HEAD
-                "id": "3529085554ae0f22",
-=======
-                "id": "dc22d40606d5af80",
->>>>>>> eda329710157dd881a51120e62f748477de7e2da
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-<<<<<<< HEAD
-                    "file": "Ganymede (perfume).md",
-=======
-                    "file": "Friedrich Nietzsche.md",
->>>>>>> eda329710157dd881a51120e62f748477de7e2da
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "a3047dfae0b8efc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "headphones.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "8ec342e623561e22",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "ab26e21c42d70829",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-<<<<<<< HEAD
-                    "file": "Ganymede (perfume).md",
-=======
-                    "file": "Friedrich Nietzsche.md",
->>>>>>> eda329710157dd881a51120e62f748477de7e2da
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": true,
-                      "showTags": false,
-                      "showAttachments": true,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": true,
-                      "textFadeMultiplier": -3,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0,
-                      "repelStrength": 20,
-                      "linkStrength": 1,
-                      "linkDistance": 30,
-                      "scale": 0.47073790909151386,
-                      "close": false
-                    }
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,11 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-<<<<<<< HEAD
-                "query": "ganymede",
-=======
-                "query": "beopl",
->>>>>>> eda329710157dd881a51120e62f748477de7e2da
+                "query": "headphones",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -129,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -149,11 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Ganymede (perfume).md",
-=======
-                "file": "Friedrich Nietzsche.md",
->>>>>>> eda329710157dd881a51120e62f748477de7e2da
+                "file": "headphones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,11 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Ganymede (perfume).md",
-=======
-                "file": "Friedrich Nietzsche.md",
->>>>>>> eda329710157dd881a51120e62f748477de7e2da
+                "file": "headphones.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -186,11 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Ganymede (perfume).md"
-=======
-                "file": "Friedrich Nietzsche.md"
->>>>>>> eda329710157dd881a51120e62f748477de7e2da
+                "file": "headphones.md"
               }
             }
           },
@@ -202,7 +127,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -219,32 +145,8 @@
       "random-note:Open random note": false
     }
   },
-<<<<<<< HEAD
-  "active": "81065ebe05c5628d",
+  "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
-    "motor cortex.md",
-    "parasomnia.md",
-    "dyssomnia.md",
-    "enactment effect.md",
-    "hypofrontality.md",
-    "embodied cognition.md",
-    "actigraphy.md",
-    "functional near-infrared spectroscopy.md",
-    "intelligence amplification.md",
-    "nodule (medicine).md"
-=======
-  "active": "dc22d40606d5af80",
-  "lastOpenFiles": [
-    "Beoplay H95 (Bang & Olufsen).md",
-    "headphones.md",
-    "Tonmeister.md",
-    "Harman curve.md",
-    "loudness compensation.md",
-    "equal-loudness contour.md",
-    "DAC - Amp.md",
-    "without loss of generality.md",
-    "mutatis mutandis.md",
-    "actigraphy.md"
->>>>>>> eda329710157dd881a51120e62f748477de7e2da
+    "Dr. David McPhee.md"
   ]
 }
