@@ -127,8 +127,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,7 +144,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a3047dfae0b8efc5",
+  "active": "4d65b6c08e42b3aa",
   "lastOpenFiles": [
     "Dr. David McPhee.md"
   ]
