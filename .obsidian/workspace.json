@@ -4,22 +4,72 @@
     "type": "split",
     "children": [
       {
-        "id": "8ad5b65d71832881",
-        "type": "tabs",
+        "id": "c46ec192d5ca73ed",
+        "type": "split",
         "children": [
           {
-            "id": "a3047dfae0b8efc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "headphones.md",
-                "mode": "source",
-                "source": false
+            "id": "8ad5b65d71832881",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "69d660b69b0e4fea",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "audio.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "486ead992caf3387"
               }
-            }
+            ]
+          },
+          {
+            "id": "d610d64569bc23ba",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a6ca969999535399",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "audio.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": -3,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0,
+                      "repelStrength": 20,
+                      "linkStrength": 1,
+                      "linkDistance": 30,
+                      "scale": 0.18462326225858122,
+                      "close": false
+                    }
+                  }
+                },
+                "group": "486ead992caf3387"
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -48,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "headphones",
+                "query": "audio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,8 +115,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "headphones.md",
+                "file": "audio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "headphones.md",
+                "file": "audio.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "headphones.md"
+                "file": "audio.md"
               }
             }
           },
@@ -127,7 +176,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,8 +194,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4d65b6c08e42b3aa",
+  "active": "a6ca969999535399",
   "lastOpenFiles": [
+    "DAC - Amp.md",
+    "headphones.md",
     "Dr. David McPhee.md"
   ]
 }
