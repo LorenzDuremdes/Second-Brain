@@ -12,17 +12,16 @@
             "type": "tabs",
             "children": [
               {
-                "id": "69d660b69b0e4fea",
+                "id": "c2a6b4d658dbf04b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "embodied cognition.md",
+                    "file": "subgenual prefrontal cortex.md",
                     "mode": "source",
                     "source": false
                   }
-                },
-                "group": "486ead992caf3387"
+                }
               }
             ]
           },
@@ -36,11 +35,11 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "embodied cognition.md",
+                    "file": "subgenual prefrontal cortex.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
-                      "localJumps": 2,
+                      "localJumps": 1,
                       "localBacklinks": true,
                       "localForelinks": true,
                       "localInterlinks": true,
@@ -59,12 +58,11 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.13168724279835406,
+                      "scale": 0.5087618855792595,
                       "close": false
                     }
                   }
-                },
-                "group": "486ead992caf3387"
+                }
               }
             ]
           }
@@ -115,8 +113,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -136,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "embodied cognition.md",
+                "file": "subgenual prefrontal cortex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "embodied cognition.md",
+                "file": "subgenual prefrontal cortex.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "embodied cognition.md"
+                "file": "subgenual prefrontal cortex.md"
               }
             }
           },
@@ -197,6 +194,7 @@
   },
   "active": "a6ca969999535399",
   "lastOpenFiles": [
+    "embodied cognition.md",
     "audio.md",
     "DAC - Amp.md",
     "headphones.md",
