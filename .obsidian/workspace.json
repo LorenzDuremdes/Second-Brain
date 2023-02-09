@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "audio.md",
+                    "file": "embodied cognition.md",
                     "mode": "source",
                     "source": false
                   }
@@ -36,7 +36,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "audio.md",
+                    "file": "embodied cognition.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -59,7 +59,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.18462326225858122,
+                      "scale": 0.13168724279835406,
                       "close": false
                     }
                   }
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "audio",
+                "query": "embodied",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -115,7 +115,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "audio.md",
+                "file": "embodied cognition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "audio.md",
+                "file": "embodied cognition.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -164,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "audio.md"
+                "file": "embodied cognition.md"
               }
             }
           },
@@ -196,6 +197,7 @@
   },
   "active": "a6ca969999535399",
   "lastOpenFiles": [
+    "audio.md",
     "DAC - Amp.md",
     "headphones.md",
     "Dr. David McPhee.md"
