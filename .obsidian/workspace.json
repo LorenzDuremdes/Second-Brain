@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "eee33955827432c3",
+                "id": "06414a6fd39f587e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "smirk.md",
+                    "file": "honeypot (computing).md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,11 +35,11 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "smirk.md",
+                    "file": "honeypot (computing).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
-                      "localJumps": 2,
+                      "localJumps": 1,
                       "localBacklinks": true,
                       "localForelinks": true,
                       "localInterlinks": true,
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "smirk.md",
+                "file": "honeypot (computing).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "smirk.md",
+                "file": "honeypot (computing).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "smirk.md"
+                "file": "honeypot (computing).md"
               }
             }
           },
@@ -194,6 +194,8 @@
   },
   "active": "a6ca969999535399",
   "lastOpenFiles": [
+    "Beoplay H95 (Bang & Olufsen).md",
+    "smirk.md",
     "subgenual prefrontal cortex.md",
     "embodied cognition.md",
     "audio.md",
