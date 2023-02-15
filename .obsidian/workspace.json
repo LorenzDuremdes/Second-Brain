@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "06414a6fd39f587e",
+                "id": "8bb9283aaf32d59b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "honeypot (computing).md",
+                    "file": "Beoplay H95 (Bang & Olufsen).md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "honeypot (computing).md",
+                    "file": "Beoplay H95 (Bang & Olufsen).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -58,7 +58,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.13168724279835417,
+                      "scale": 0.5087618855792613,
                       "close": false
                     }
                   }
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "embodied",
+                "query": "h95",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "honeypot (computing).md",
+                "file": "Beoplay H95 (Bang & Olufsen).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "honeypot (computing).md",
+                "file": "Beoplay H95 (Bang & Olufsen).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "honeypot (computing).md"
+                "file": "Beoplay H95 (Bang & Olufsen).md"
               }
             }
           },
@@ -192,8 +192,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a6ca969999535399",
+  "active": "81065ebe05c5628d",
   "lastOpenFiles": [
+    "honeypot (computing).md",
+    "ASSortiMens.md",
     "Beoplay H95 (Bang & Olufsen).md",
     "smirk.md",
     "subgenual prefrontal cortex.md",

@@ -20,5 +20,8 @@
 	Then it hit me. The H95s are just that good. The reason they didn't wow me immediately was because they aren't tuned to be these bass thumping experiences, they just play the sound how it's actually supposed to sound and nothing else even comes CLOSE.^[https://www.reddit.com/r/BangandOlufsen/comments/rzmtkx/i_picked_up_both_the_beoplay_h95_and_the_airpods/]
 3. Biggest difference though is probably the level of detail. Among wireless [[headphones]] the H95 is currently in a league of its own and can give many wired [[headphones]] a run for their money.^[https://www.reddit.com/r/headphones/comments/iwcho6/comment/g600mss/?utm_source=share&utm_medium=web2x&context=3]
 
+## versus Sony
+1. H95 has a very flat/audiophile curve, while the XM4 is much more bass heavy^[https://www.reddit.com/r/headphones/comments/iwcho6/comment/g600mss/?utm_source=share&utm_medium=web2x&context=3]
+
 # anecdotes
 1. putting on [[headphones]] > song at the end (low volume) > thought it came from my laptop (surround was on)
