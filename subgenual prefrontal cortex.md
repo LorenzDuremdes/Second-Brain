@@ -1,0 +1,1 @@
+1. subgenual prefrontal [[cortex]]; [[brain]] area associated with rumination
