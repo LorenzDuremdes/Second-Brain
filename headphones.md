@@ -18,6 +18,10 @@
 2. There is a lot of mental adjustment that comes with OOYH which is why a lot of people write if off without giving it a legitimate effort. You have to make psychoacoustic adjustments to the way you listen every time you make a major change in your setup.^[https://www.head-fi.org/threads/out-of-your-head-new-virtual-surround-simulator.689299/post-15840197]
 3. it doesn't get closer to realism than 2.0. OOYH–if you get it right–sounds real. It is an actual audiophile tool and not a gimmick. It fits in my system and elevates it instead of degrading it. I also mean "real" in the sense that it achieves the goal of audiophile equipment to render a realistic reproduction. I know there are those who may feel that OOYH sounds fake, but it does require work to get it to sound right.^[https://www.head-fi.org/threads/out-of-your-head-new-virtual-surround-simulator.689299/post-16408462]
 
+### head-related transfer function
+1. head-related transfer function (HRTF); a response that characterizes how an ear receives a sound from a point in space^[https://en.wikipedia.org/wiki/Head-related_transfer_function]
+2. head-related impulse response (HRIR); relates the source location and the ear location^[https://en.wikipedia.org/wiki/Head-related_transfer_function]
+
 # testing
 1. [TIMELAPSE OF THE FUTURE: A Journey to the End of Time (4K)](https://www.youtube.com/watch?v=uD4izuDMUQA)
 2. [Dolby Cinema | Pre Show](https://www.youtube.com/watch?v=o5M5T5gHkhg)
