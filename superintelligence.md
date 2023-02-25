@@ -1,0 +1,2 @@
+# quotes
+1. “One can speculate that the tardiness and wobbliness of humanity's progress on many of the "eternal problems" of [[philosophy]] are due to the unsuitability of the [[human]] [[cortex]] for philosophical work. On this view, our most celebrated philosophers are like dogs walking on their hind legs - just barely attaining the treshold level of performance required for engaging in the activity at all.”^[Nick Bostrom, Superintelligence: Paths, Dangers, Strategies]
