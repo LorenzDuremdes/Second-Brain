@@ -12,17 +12,16 @@
             "type": "tabs",
             "children": [
               {
-                "id": "22a10fe82e159104",
+                "id": "5d6e5d142dcd1bad",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "posthuman.md",
+                    "file": "Duremdes (family).md",
                     "mode": "source",
                     "source": false
                   }
-                },
-                "group": "7660724d970c4290"
+                }
               }
             ]
           },
@@ -36,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "posthuman.md",
+                    "file": "Duremdes (family).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -63,8 +62,7 @@
                       "close": false
                     }
                   }
-                },
-                "group": "7660724d970c4290"
+                }
               }
             ]
           }
@@ -115,8 +113,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -136,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posthuman.md",
+                "file": "Duremdes (family).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posthuman.md",
+                "file": "Duremdes (family).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -165,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posthuman.md"
+                "file": "Duremdes (family).md"
               }
             }
           },
@@ -197,6 +194,7 @@
   },
   "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
+    "Duremdes (family).md",
     "superintelligence.md",
     "headphones.md",
     "embodied cognition.md",
