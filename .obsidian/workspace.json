@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "a3d1e9c6f798d222",
+                "id": "bf250adbbdc1a58b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "hobby.md",
+                    "file": "biophilic design.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "hobby.md",
+                    "file": "biophilic design.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "posthuman",
+                "query": "cognitive load",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hobby.md",
+                "file": "biophilic design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hobby.md",
+                "file": "biophilic design.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hobby.md"
+                "file": "biophilic design.md"
               }
             }
           },
@@ -174,8 +174,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,8 +191,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a3d1e9c6f798d222",
+  "active": "4d65b6c08e42b3aa",
   "lastOpenFiles": [
+    "cognitive load.md",
+    "hobby.md",
     "Duremdes (family).md",
     "superintelligence.md",
     "headphones.md",

@@ -1,0 +1,1 @@
+1. biophilic design; a concept used within the building industry to increase occupant connectivity to the natural environment through the use of direct nature, indirect nature, and space and place conditions^[https://en.wikipedia.org/wiki/Biophilic_design]
