@@ -1,0 +1,1 @@
+1. eschatology; concerns expectations of the end of the present age, [[human]] [[history]], or of the world itself.^[https://en.wikipedia.org/wiki/Eschatology#cite_note-FOOTNOTECarroll2000420-1]
