@@ -1,0 +1,2 @@
+# [[sexual capital]]
+1. I feel like an asshole for saying this because his various hobbies is what made me attracted to him in the first place. I remember when I read his okc profile, he talked about his hobbies like running, hiking, biking, photography, dancing, etc and I thought, wow, this guy is really multifaceted. And he is.^[https://www.reddit.com/r/OkCupid/comments/43to9c/how_many_hobbies_are_too_many/]
