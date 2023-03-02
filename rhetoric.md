@@ -1,0 +1,2 @@
+1. Mark Rutte (retoriek)
+	1. Rutte is zo goed omdat hij verbaal buitengewoon begaafd is, legt Wigt uit. Met een grote woordenschat, goed schakelvermogen en gevoel voor welk woord op welk moment nodig is. Hij gebruikt zijn [[humor]] slim en heeft zichtbaar plezier in het debat.^[https://www.reddit.com/r/thenetherlands/comments/11dz7sl/comment/jabm5aj/?utm_source=share&utm_medium=web2x&context=3]
