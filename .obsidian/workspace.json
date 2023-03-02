@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "bf250adbbdc1a58b",
+                "id": "196587e542cda692",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "biophilic design.md",
+                    "file": "Sequoiadendron giganteum.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "biophilic design.md",
+                    "file": "Sequoiadendron giganteum.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biophilic design.md",
+                "file": "Sequoiadendron giganteum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biophilic design.md",
+                "file": "Sequoiadendron giganteum.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biophilic design.md"
+                "file": "Sequoiadendron giganteum.md"
               }
             }
           },
@@ -193,6 +193,7 @@
   },
   "active": "4d65b6c08e42b3aa",
   "lastOpenFiles": [
+    "biophilic design.md",
     "cognitive load.md",
     "hobby.md",
     "Duremdes (family).md",

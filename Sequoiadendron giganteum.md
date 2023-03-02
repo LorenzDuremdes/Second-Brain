@@ -1,0 +1,2 @@
+1. _Sequoiadendron giganteum_ (giant sequoia)^[By Mike Murphy, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=295791]
+   ![image](https://upload.wikimedia.org/wikipedia/commons/1/1c/Grizzly_Giant_Mariposa_Grove.jpg)
