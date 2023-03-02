@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "ed52326361d9bde4",
+                "id": "4c3f7a4787fa3ed9",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "rhetoric.md",
+                    "file": "kapsalon.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "rhetoric.md",
+                    "file": "kapsalon.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rhetoric.md",
+                "file": "kapsalon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rhetoric.md",
+                "file": "kapsalon.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rhetoric.md"
+                "file": "kapsalon.md"
               }
             }
           },
@@ -194,8 +194,9 @@
   },
   "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
-    "eschatology.md",
     "rhetoric.md",
+    "kapsalon.md",
+    "eschatology.md",
     "Sequoiadendron giganteum.md",
     "biophilic design.md",
     "cognitive load.md",
