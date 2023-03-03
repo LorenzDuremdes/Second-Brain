@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "kapsalon.md",
+                    "file": "John von Neumann.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "kapsalon.md",
+                    "file": "John von Neumann.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rhetoric",
+                "query": "john von neumann",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,7 +113,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kapsalon.md",
+                "file": "John von Neumann.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kapsalon.md",
+                "file": "John von Neumann.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kapsalon.md"
+                "file": "John von Neumann.md"
               }
             }
           },
@@ -194,8 +195,8 @@
   },
   "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
-    "rhetoric.md",
     "kapsalon.md",
+    "rhetoric.md",
     "eschatology.md",
     "Sequoiadendron giganteum.md",
     "biophilic design.md",
