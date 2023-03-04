@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "John von Neumann.md",
+                    "file": "performance-enhancing substance.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "John von Neumann.md",
+                    "file": "performance-enhancing substance.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -58,7 +58,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.40844332494220015,
+                      "scale": 0.3213363860503588,
                       "close": false
                     }
                   }
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "john von neumann",
+                "query": "mct",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,7 +113,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "John von Neumann.md",
+                "file": "performance-enhancing substance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "John von Neumann.md",
+                "file": "performance-enhancing substance.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "John von Neumann.md"
+                "file": "performance-enhancing substance.md"
               }
             }
           },
@@ -174,8 +175,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,20 +192,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "81065ebe05c5628d",
+  "active": "997a97a0119de8cb",
   "lastOpenFiles": [
-    "kapsalon.md",
-    "rhetoric.md",
-    "eschatology.md",
-    "Sequoiadendron giganteum.md",
-    "biophilic design.md",
-    "cognitive load.md",
-    "hobby.md",
-    "Duremdes (family).md",
-    "superintelligence.md",
-    "headphones.md",
-    "embodied cognition.md",
-    "DAC - Amp.md",
-    "Dr. David McPhee.md"
+    "phenylpiracetam.md",
+    "performance-enhancing substance.md",
+    "2-fluormethamphetamine.md",
+    "vitamin C.md",
+    "sports supplement.md",
+    "melatonin.md",
+    "multivitamin.md",
+    "creatine.md",
+    "John von Neumann.md",
+    "kapsalon.md"
   ]
 }

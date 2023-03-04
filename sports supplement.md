@@ -1,8 +1,8 @@
 # personal (prioritized)
 1. [[GW501516]]
 2. [[bupropion]]
-	1. phenylpiracetam
-3. creatine
+	1. [[phenylpiracetam]]
+3. [[creatine]]
 4. multivitamins
 7. [[caffeine]]^[https://youtu.be/pPc8qnIkhsg?t=3190]
 8. [[beta-hydroxy beta-methylbutyric acid|HMB]]
