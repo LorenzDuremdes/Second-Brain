@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "generous tit for tat.md",
+                    "file": "headphones.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "generous tit for tat.md",
+                    "file": "headphones.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mct",
+                "query": "virtual surround",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,7 +113,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "generous tit for tat.md",
+                "file": "headphones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "generous tit for tat.md",
+                "file": "headphones.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "generous tit for tat.md"
+                "file": "headphones.md"
               }
             }
           },
@@ -194,8 +195,8 @@
   },
   "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
-    "phenylpiracetam.md",
     "generous tit for tat.md",
+    "phenylpiracetam.md",
     "performance-enhancing substance.md",
     "2-fluormethamphetamine.md",
     "vitamin C.md",

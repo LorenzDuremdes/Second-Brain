@@ -12,6 +12,9 @@
 2. imaging ↮ soundstage (headphones)^[https://www.reddit.com/r/audiophile/comments/8ni3bt/imaging_vs_soundstage/]
 	1. position ↮ size
 
+### Super X-Fi
+1. SXFi has perfect [[audio]] positioning and sounds exactly like it would sound if I was using a 7.1 home theatre^[https://www.reddit.com/r/SoundBlasterOfficial/comments/kq6b37/comment/hodyr4z/?utm_source=share&utm_medium=web2x&context=3]
+
 ### Out Of Your Head
 1. The first time you hear Out Of Your Head, it may not sound right. It's not the software, it's your brain!^[https://www.head-fi.org/threads/out-of-your-head-new-virtual-surround-simulator.689299/]
 2. There is a lot of mental adjustment that comes with OOYH which is why a lot of people write if off without giving it a legitimate effort. You have to make psychoacoustic adjustments to the way you listen every time you make a major change in your setup.^[https://www.head-fi.org/threads/out-of-your-head-new-virtual-surround-simulator.689299/post-15840197]
