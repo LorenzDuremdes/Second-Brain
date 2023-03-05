@@ -13,7 +13,8 @@
 	1. position ↮ size
 
 ### Super X-Fi
-1. SXFi has perfect [[audio]] positioning and sounds exactly like it would sound if I was using a 7.1 home theatre^[https://www.reddit.com/r/SoundBlasterOfficial/comments/kq6b37/comment/hodyr4z/?utm_source=share&utm_medium=web2x&context=3]
+1. ![image](https://preview.redd.it/0z4bzxwxmrc81.png?width=1080&format=png&auto=webp&v=enabled&s=956d409c3cb41d8b5f6ceec16a73bd5ad3e079e6)
+2. SXFi has perfect [[audio]] positioning and sounds exactly like it would sound if I was using a 7.1 home theatre^[https://www.reddit.com/r/SoundBlasterOfficial/comments/kq6b37/comment/hodyr4z/?utm_source=share&utm_medium=web2x&context=3]
 
 ### Out Of Your Head
 1. The first time you hear Out Of Your Head, it may not sound right. It's not the software, it's your brain!^[https://www.head-fi.org/threads/out-of-your-head-new-virtual-surround-simulator.689299/]
