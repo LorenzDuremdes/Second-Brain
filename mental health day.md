@@ -5,6 +5,7 @@
 
 # self
 1. [[Mental health]] issues are just as real as physical issues. Researching the science behind my anxiety helped me realise it’s not just in my head, and it’s ok to need a day off or to ask for help.^[https://www.reddit.com/r/TheGirlSurvivalGuide/comments/kr7luz/comment/gi81w7d/?utm_source=share&utm_medium=web2x&context=3]
+	1. One person loses five days to influenza, three days to the common cold, and two days to bronchitis. Another person loses three days to the common cold, four days to a sprained foot, and three days to psychological burnout^[https://www.reddit.com/r/AskReddit/comments/5f2uje/comment/dah1vaq/?utm_source=share&utm_medium=web2x&context=3]
 2. Also take ALL your PTO. It’s part of your compensation, so you’re basically giving your employer money if you don’t.
 
 # positives
