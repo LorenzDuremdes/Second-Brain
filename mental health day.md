@@ -1,2 +1,3 @@
 1. [[mental health]] day; time to focus on relieving [[stress]], relaxing, having fun, and preventing burnout^[https://www.verywellmind.com/when-and-how-to-take-a-mental-health-day-3144754]
-	1. while there has been a growing movement to destigmatize mental health issues in the workplace, many employers still do not support mental health concerns as a legitimate reason to miss a day of work
+	1. while there has been a growing movement to destigmatize [[mental health]] issues in the workplace, many employers still do not support [[mental health]] concerns as a legitimate reason to miss a day of work
+2. If your company cannot function without you taking a day off that's the company's issue, not yours. Take the day. There's nothing to feel guilty for if it's an exception not the rule.^[https://www.reddit.com/r/AskWomenOver30/comments/ldi57s/comment/gm5ye1o/?utm_source=share&utm_medium=web2x&context=3]
