@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "a2ca18e7e22f4640",
+                "id": "c7382f530da6b985",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "headphones.md",
+                    "file": "mental health day.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "headphones.md",
+                    "file": "mental health day.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "virtual surround",
+                "query": "performance enhancing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,8 +113,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "headphones.md",
+                "file": "mental health day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "headphones.md",
+                "file": "mental health day.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "headphones.md"
+                "file": "mental health day.md"
               }
             }
           },
@@ -193,11 +192,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "fe30d9f2d6ec44fa",
+  "active": "c7382f530da6b985",
   "lastOpenFiles": [
+    "mental health.md",
+    "mental health day.md",
+    "performance-enhancing substance.md",
+    "clenbuterol.md",
+    "headphones.md",
     "generous tit for tat.md",
     "phenylpiracetam.md",
-    "performance-enhancing substance.md",
     "2-fluormethamphetamine.md",
     "vitamin C.md",
     "sports supplement.md",

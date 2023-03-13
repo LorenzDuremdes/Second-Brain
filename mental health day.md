@@ -1,0 +1,1 @@
+1. [[mental health]] day; time to focus on relieving [[stress]], relaxing, having fun, and preventing burnout^[https://www.verywellmind.com/when-and-how-to-take-a-mental-health-day-3144754]
