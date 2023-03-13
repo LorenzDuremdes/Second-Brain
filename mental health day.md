@@ -1,1 +1,2 @@
 1. [[mental health]] day; time to focus on relieving [[stress]], relaxing, having fun, and preventing burnout^[https://www.verywellmind.com/when-and-how-to-take-a-mental-health-day-3144754]
+	1. while there has been a growing movement to destigmatize mental health issues in the workplace, many employers still do not support mental health concerns as a legitimate reason to miss a day of work
