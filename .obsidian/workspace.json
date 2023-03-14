@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "mental health day.md",
+                    "file": "Cowboy. (elektrische fiets).md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "mental health day.md",
+                    "file": "Cowboy. (elektrische fiets).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "performance enhancing",
+                "query": "cowboy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,7 +113,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mental health day.md",
+                "file": "Cowboy. (elektrische fiets).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mental health day.md",
+                "file": "Cowboy. (elektrische fiets).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mental health day.md"
+                "file": "Cowboy. (elektrische fiets).md"
               }
             }
           },
@@ -192,10 +193,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c7382f530da6b985",
+  "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
-    "mental health.md",
     "mental health day.md",
+    "mental health.md",
     "performance-enhancing substance.md",
     "clenbuterol.md",
     "headphones.md",
