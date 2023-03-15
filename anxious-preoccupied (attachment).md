@@ -8,3 +8,8 @@
 	1. When a parent is anxious, they may inadvertently communicate their anxiety to their child through verbal or nonverbal cues such as their tone of voice, facial expressions, or body language. Children are highly attuned to their parents’ emotional states and may pick up on these cues, which can trigger feelings of anxiety in the child.
 	   
 	   Over time, if a child is repeatedly exposed to their parent’s anxious behaviors, they may begin to view the world as a threatening or unsafe place and become overly vigilant about potential threats. This can lead to the development of an anxious-preoccupied [[attachment style]], where the child seeks constant reassurance and validation from others in order to feel safe and secure.
+
+# developing secure attachment
+1. [[unconditional positive regard]] → [[attachment style]]
+	1. can promote a [[secure attachment style]]^[ChatGPT]^[Mikulincer, M., & Shaver, P. R. (2016). Attachment in adulthood: Structure, dynamics, and change. Guilford Publications.]^[Cassidy, J., & Shaver, P. R. (2016). Handbook of attachment: Theory, research, and clinical applications. Guilford Publications.]^[Johnson, S. M. (2019). Attachment theory in practice: Emotionally focused therapy (EFT) with individuals, couples, and families. Guilford Press.] | how?
+		1. When someone with an anxious-preoccupied [[attachment style]] feels that their needs are being met and their emotions are being validated, it can help them to feel more confident in their ability to navigate their emotions and build more secure relationships. Over time, this can help to promote a more [[secure attachment style]], where the person feels more comfortable expressing their emotions and developing deeper, more trusting relationships.
