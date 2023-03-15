@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "4c649cedf0bec110",
+                "id": "c600b0ca0a766167",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ChatGPT.md",
+                    "file": "anxious-preoccupied (attachment).md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "ChatGPT.md",
+                    "file": "anxious-preoccupied (attachment).md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cowboy",
+                "query": "anxious preoccupied",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ChatGPT.md",
+                "file": "anxious-preoccupied (attachment).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ChatGPT.md",
+                "file": "anxious-preoccupied (attachment).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ChatGPT.md"
+                "file": "anxious-preoccupied (attachment).md"
               }
             }
           },
@@ -192,10 +192,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4c649cedf0bec110",
+  "active": "c600b0ca0a766167",
   "lastOpenFiles": [
-    "Cowboy. (elektrische fiets).md",
     "ChatGPT.md",
+    "anxious-preoccupied (attachment).md",
+    "Cowboy. (elektrische fiets).md",
     "mental health day.md",
     "mental health.md",
     "performance-enhancing substance.md",

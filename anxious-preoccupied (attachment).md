@@ -1,0 +1,10 @@
+1. Explain: Parental anxiety (ChatGPT)
+	1. Parental anxiety refers to a state of heightened anxiety or worry experienced by a parent. Parental anxiety can be caused by a variety of factors such as financial [[stress]], relationship problems, or concerns about the well-being of their children. When parents experience high levels of anxiety, they may unintentionally pass on their anxiety to their children.
+
+		Children are highly attuned to the emotional states of their parents and can pick up on cues such as tone of voice, facial expressions, and body language. If a parent is anxious, their child may also become anxious and adopt anxious behaviors as a way to cope with the perceived threat or stressor.
+
+		Children of anxious parents may develop an anxious-preoccupied [[attachment style]] as they internalize their parents’ anxiety and become overly fearful and vigilant about potential threats. For example, a child whose parent is anxious about leaving the house may also become anxious about leaving the house and may seek constant reassurance from their parent.
+2. Explain: If a parent is anxious, their child may also become anxious and adopt anxious behaviors as a way to cope with the perceived threat or stressor.
+	1. When a parent is anxious, they may inadvertently communicate their anxiety to their child through verbal or nonverbal cues such as their tone of voice, facial expressions, or body language. Children are highly attuned to their parents’ emotional states and may pick up on these cues, which can trigger feelings of anxiety in the child.
+	   
+	   Over time, if a child is repeatedly exposed to their parent’s anxious behaviors, they may begin to view the world as a threatening or unsafe place and become overly vigilant about potential threats. This can lead to the development of an anxious-preoccupied [[attachment style]], where the child seeks constant reassurance and validation from others in order to feel safe and secure.
