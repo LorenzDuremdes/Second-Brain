@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "anxious-preoccupied (attachment).md",
+                    "file": "psychological trauma.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "anxious-preoccupied (attachment).md",
+                    "file": "psychological trauma.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -58,7 +58,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 0.3213363860503588,
+                      "scale": 0.11660891579457332,
                       "close": false
                     }
                   }
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "anxious preoccupied",
+                "query": "psychological trauma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,7 +113,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anxious-preoccupied (attachment).md",
+                "file": "psychological trauma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "anxious-preoccupied (attachment).md",
+                "file": "psychological trauma.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "anxious-preoccupied (attachment).md"
+                "file": "psychological trauma.md"
               }
             }
           },
@@ -192,10 +193,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c600b0ca0a766167",
+  "active": "997a97a0119de8cb",
   "lastOpenFiles": [
-    "ChatGPT.md",
+    "proxemics.md",
+    "boundary cell.md",
+    "boundary cells.md",
+    "place cell.md",
     "anxious-preoccupied (attachment).md",
+    "ChatGPT.md",
     "Cowboy. (elektrische fiets).md",
     "mental health day.md",
     "mental health.md",

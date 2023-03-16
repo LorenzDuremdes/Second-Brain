@@ -295,6 +295,7 @@
 # [[temporal lobe]]
 1. psychological trauma → [[temporal lobe]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 374]
 	1. while there is no typical signature for PTSD, many traumatized people have sharply increased activity in the [[temporal lobe]]
+2. individuals with post-traumatic stress disorder (PTSD) have been found to have decreased activation in the [[temporal lobe]] during memory tasks, indicating a potential dysfunction in the region^[https://www.nature.com/articles/npp200983]
 
 ## Brodmann area 19
 1. trauma → Brodmann area 19^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 58]

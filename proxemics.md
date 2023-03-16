@@ -10,3 +10,7 @@
 3. stress/anxiety → proxemics^[The Happy Brain: The Science of Where [[happiness]] Comes from, and Why, p. 51]
 	1. the former can expand the latter e.g. being less tolerant of people and things being too close
 	2. ◇can also reduce proxemics e.g. tend and befriend
+
+# related
+1. [[boundary cell]]
+	1. Understanding the relationship between these two concepts can help to shed light on the neural mechanisms that underlie social behavior and [[communication]].^[ChatGPT]
