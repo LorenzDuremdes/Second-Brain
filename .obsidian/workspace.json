@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "psychological trauma.md",
+                    "file": "ChatGPT.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "psychological trauma.md",
+                    "file": "ChatGPT.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "psychological trauma",
+                "query": "chatgpt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "psychological trauma.md",
+                "file": "ChatGPT.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "psychological trauma.md"
+                "file": "ChatGPT.md"
               }
             }
           },
@@ -193,8 +193,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "997a97a0119de8cb",
+  "active": "c600b0ca0a766167",
   "lastOpenFiles": [
+    "psychological trauma.md",
     "proxemics.md",
     "boundary cell.md",
     "boundary cells.md",
