@@ -15,6 +15,8 @@
    Fine-tuning and training techniques: Advances in fine-tuning and training techniques can also contribute to GPT-4's improved performance. These techniques may include new strategies for optimizing the model's parameters or handling biases, as well as incorporating new learning techniques or loss functions to better align the model's predictions with human values and expectations.
    
    Together, these factors contribute to GPT-4's broader general [[knowledge]] and improved problem-solving abilities, making it more creative and collaborative when working with users on creative and technical writing tasks.^[GPT-4]
+3. Query: how much larger is "GPT-4 training dataset"?
+   The provided search results do not offer specific information about the size of GPT-4's training dataset. However, one of the search results suggests that GPT-4 could have as many as 100 trillion parameters, which would be 500 times the size of GPT-3's 175 billion parameters^[https://towardsdatascience.com/gpt-4-will-have-100-trillion-parameters-500x-the-size-of-gpt-3-582b98d82253]. While this is about the number of parameters, it indicates that GPT-4's training dataset would likely be significantly larger than GPT-3's dataset. The exact size of GPT-4's training dataset remains unknown based on the information provided.
 
 # related
 1. [[ChatGPT]]
