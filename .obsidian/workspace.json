@@ -4,70 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d5054a0c4370b993",
-        "type": "split",
+        "id": "3fe57e884b2590e6",
+        "type": "tabs",
         "children": [
           {
-            "id": "3fe57e884b2590e6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "df656635757c4e2a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ChatGPT.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "b65d3601bca976aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "detachment gain.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "c9c047b566bb90f7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "997a97a0119de8cb",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "ChatGPT.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": true,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": true,
-                      "textFadeMultiplier": -3,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0,
-                      "repelStrength": 20,
-                      "linkStrength": 1,
-                      "linkDistance": 30,
-                      "scale": 0.6316046762907507,
-                      "close": false
-                    }
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "putamen",
+                "query": "concept map",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ChatGPT.md",
+                "file": "detachment gain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ChatGPT.md",
+                "file": "detachment gain.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ChatGPT.md"
+                "file": "detachment gain.md"
               }
             }
           },
@@ -175,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,33 +144,33 @@
       "random-note:Open random note": false
     }
   },
-  "active": "df656635757c4e2a",
+  "active": "b65d3601bca976aa",
   "lastOpenFiles": [
+    "concept map.md",
+    "detachment gain.md",
+    "embodied cognition.md",
+    "neuroarchitecture.md",
+    "ambient belonging.md",
+    "monastery model of space arrangement.md",
+    "open plan.md",
+    "attention drainage effect.md",
+    "music.md",
+    "GPT-3.md",
+    "GPT-4.md",
+    "early stopping.md",
+    "cognitive load.md",
+    "Kolmogorov complexity.md",
+    "facilitative conditions.md",
+    "law of diminishing marginal utility.md",
+    "ChatGPT.md",
     "diffraction.md",
     "cache blocking.md",
-    "GPT-4.md",
-    "ChatGPT.md",
     "putamen.md",
     "artificial intelligence.md",
     "psychological trauma.md",
     "proxemics.md",
     "boundary cell.md",
     "boundary cells.md",
-    "place cell.md",
-    "anxious-preoccupied (attachment).md",
-    "Cowboy. (elektrische fiets).md",
-    "mental health day.md",
-    "mental health.md",
-    "performance-enhancing substance.md",
-    "clenbuterol.md",
-    "headphones.md",
-    "generous tit for tat.md",
-    "phenylpiracetam.md",
-    "2-fluormethamphetamine.md",
-    "vitamin C.md",
-    "sports supplement.md",
-    "melatonin.md",
-    "multivitamin.md",
-    "creatine.md"
+    "place cell.md"
   ]
 }

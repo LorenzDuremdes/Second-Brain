@@ -17,3 +17,8 @@
 ## vision
 1. physical activity → vision
 	1. the former enhances the latter, especially peripheral vision (makes evolutionary sense)^[The Extended Mind: The Power of Thinking Outside the Brain, p. 49]
+
+# technology
+## positives
+1. larger high-resolution displays → embodied cognition
+	1. the former enhances the latter as they allow users to engage their "physical embodied resources" like peripheral vision and spatial memory^[GPT-4]^[The Extended Mind_ The Power of Thinking Outside the Brain, p. ~140]

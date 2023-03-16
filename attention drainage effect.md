@@ -1,0 +1,1 @@
+1. attention drainage effect; occurs when a distraction, such as background [[music]], causes the attention capacity of a person to be unconsciously reduced^[GPT-4]^[https://emojicut.com/knowledgebase/what-is-the-attention-drainage-effect]

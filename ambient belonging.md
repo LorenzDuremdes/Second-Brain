@@ -1,0 +1,1 @@
+1. ambient belonging; refers to an individual's sense of fit or connection with a physical environment^[GPT-4]^[The Extended Mind_ The Power of Thinking Outside the Brain, p. ~130]

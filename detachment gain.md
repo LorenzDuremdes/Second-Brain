@@ -1,0 +1,1 @@
+1. detachment gain; a cognitive benefit that occurs when individuals put some distance between themselves and the content of their minds by externalizing their thoughts, ideas, or mental images^[GPT-4]
