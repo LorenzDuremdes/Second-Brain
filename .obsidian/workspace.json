@@ -12,12 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "c600b0ca0a766167",
+                "id": "590c6afeb5eee562",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ChatGPT.md",
+                    "file": "cache blocking.md",
                     "mode": "source",
                     "source": false
                   }
@@ -35,7 +35,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "ChatGPT.md",
+                    "file": "cache blocking.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -113,8 +113,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ChatGPT.md",
+                "file": "cache blocking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ChatGPT.md",
+                "file": "cache blocking.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ChatGPT.md"
+                "file": "cache blocking.md"
               }
             }
           },
@@ -193,10 +192,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c600b0ca0a766167",
+  "active": "590c6afeb5eee562",
   "lastOpenFiles": [
-    "artificial intelligence.md",
     "ChatGPT.md",
+    "cache blocking.md",
+    "artificial intelligence.md",
     "psychological trauma.md",
     "proxemics.md",
     "boundary cell.md",
