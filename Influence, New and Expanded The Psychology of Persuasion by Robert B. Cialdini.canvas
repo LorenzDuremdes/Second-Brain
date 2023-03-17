@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"type":"text","text":"[[self-concept]]","id":"4e7d67b0094ee790","x":-780,"y":-340,"width":170,"height":50},
+		{"type":"text","text":"publicity","id":"f1c18df08ed6426b","x":-780,"y":-80,"width":125,"height":60},
+		{"type":"text","text":"punishment","id":"be257537abffc044","x":-1164,"y":196,"width":250,"height":60},
+		{"type":"text","text":"external regulation","id":"2f4ca9286c255aac","x":-1140,"y":60,"width":250,"height":60},
+		{"type":"text","text":"intrinsic motivation","id":"8f20bb6c30bc012d","x":-440,"y":196,"width":250,"height":60},
+		{"type":"text","text":"[[commitment and consistency]]","id":"26cd9ec843b67762","x":-520,"y":-200,"width":280,"height":60},
+		{"type":"text","text":"[[low-ball]]","id":"535d5074ebf98c9b","x":-100,"y":-200,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"dd84c1f402bc37c8","fromNode":"26cd9ec843b67762","fromSide":"left","toNode":"4e7d67b0094ee790","toSide":"right","color":"3","label":"the former can change the latter"},
+		{"id":"0f17581a64fcf9cb","fromNode":"f1c18df08ed6426b","fromSide":"right","toNode":"26cd9ec843b67762","toSide":"bottom","color":"4","label":"the former (i.e. seen by others) enhances the latter"},
+		{"id":"c0de34698c07d633","fromNode":"2f4ca9286c255aac","fromSide":"bottom","toNode":"be257537abffc044","toSide":"top"},
+		{"id":"b6fdfaeecd3b4005","fromNode":"be257537abffc044","fromSide":"right","toNode":"8f20bb6c30bc012d","toSide":"left","color":"1","label":"parents should use reasons strong enough to produce desired behavior but not so strong that the child sees it as the only reason for their actions, allowing them to take personal responsibility (intrinsic motivation)"},
+		{"id":"07e0fdd81b937c86","fromNode":"26cd9ec843b67762","fromSide":"right","toNode":"535d5074ebf98c9b","toSide":"left","toEnd":"none","color":"1"}
+	]
+}

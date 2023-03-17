@@ -1,0 +1,1 @@
+1. low-ball; the key to this tactic's effectiveness is that the customer has already mentally committed to the purchase, and their psychological need for consistency makes it difficult for them to back out even when the deal becomes less favorable^[GPT-4]^[Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini, p. 306]

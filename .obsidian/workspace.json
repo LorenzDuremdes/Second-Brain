@@ -11,15 +11,34 @@
             "id": "9e0fa541dc7c8d63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "transactive memory.md",
-                "mode": "source",
-                "source": false
+                "file": "Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini.canvas",
+                "viewState": {
+                  "x": -973,
+                  "y": -246.5,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "778a9abb5e737501",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini.canvas",
+                "viewState": {
+                  "x": -366.6570199383438,
+                  "y": -16.94445248729106,
+                  "zoom": -0.5131738036407285
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "transactive memory.md",
+                "file": "Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "transactive memory.md",
+                "file": "Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini.canvas",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "transactive memory.md"
+                "file": "Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini.canvas"
               }
             }
           },
@@ -144,8 +163,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "81065ebe05c5628d",
+  "active": "778a9abb5e737501",
   "lastOpenFiles": [
+    "low-ball.md",
+    "Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini.canvas",
+    "commitment and consistency.md",
+    "Untitled.canvas",
+    "transactive memory.md",
     "collective intelligence.md",
     "ChatGPT.md",
     "cognitive load.md",
@@ -167,10 +191,6 @@
     "GPT-3.md",
     "music.md",
     "Tonmeister.md",
-    "attention drainage effect.md",
-    "open plan.md",
-    "monastery model of space arrangement.md",
-    "ambient belonging.md",
-    "neuroarchitecture.md"
+    "attention drainage effect.md"
   ]
 }
