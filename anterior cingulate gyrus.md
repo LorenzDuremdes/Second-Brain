@@ -1,2 +1,2 @@
-1. effort → anterior cingulate gyrus + dorsal striatum^[The Happy [[Brain]]: The Science of Where [[happiness]] Comes from, and Why, p. 66]
+1. effort → anterior cingulate [[gyrus]] + dorsal striatum^[The Happy [[Brain]]: The Science of Where [[happiness]] Comes from, and Why, p. 66]
 	1. the latter show greater activity when greater amounts of effort is required

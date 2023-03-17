@@ -34,7 +34,7 @@
 	1. no e.g. some people are now getting the diagnosis of social [[communication]] disorder (instead of e.g. PDD-NOS) → the specificity of classification increased, in this example^[https://www.autismspeaks.org/dsm-5-and-autism-frequently-asked-questions]
 # [[neuroscience]]
 ## [[neurophysiology]]
-1. autism → fusiform gyrus · difficulties
+1. autism → fusiform [[gyrus]] · difficulties
 	1. may cause difficulties in face, voice, and word perception
 
 ### [[dynamic functional connectivity]]
