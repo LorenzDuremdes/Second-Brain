@@ -4,6 +4,8 @@
 	1. blinking more might indicate higher cognitive load
 		1. We blink less often when viewing nature than when looking at urban settings, indicating that nature imposes a less burdensome cognitive load.^[The Extended Mind: The Power of Thinking Outside the Brain, p. 99]
 	2. blinking more during higher cognitive load might be a reflection of the [[brain]]'s attempt to manage the high cognitive load by briefly disengaging from the task, allowing for momentary mental breaks. Blinking temporarily interrupts visual input, which may allow the brain to momentarily disengage from the task at hand and refresh its resources^[GPT-4]
+		1. at hand > probably meant semi-literally (lower probability historically (e.g. conscious calculations > modern?)
+			1. while blinking doesn't directly reduce cognitive load in these tasks (i.e. mental tasks e.g. mental calculation), it may provide a brief moment of respite (i.e. mitigate the effects of _continuous_ cognitive effort) that allows the brain to reset or recalibrate its attentional resources.^[GPT-4]
 
 # reducing cognitive load
 1. [[Kolmogorov complexity]]

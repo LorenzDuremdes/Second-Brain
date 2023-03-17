@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "ChatGPT.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "concept map",
+                "query": "blinking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -127,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,6 +146,8 @@
   },
   "active": "f27e12af57a7185f",
   "lastOpenFiles": [
+    "cognitive load.md",
+    "ChatGPT.md",
     "GPT-4.md",
     "Cowboy. (elektrische fiets).md",
     "anxious-preoccupied (attachment).md",
@@ -157,11 +159,9 @@
     "putamen.md",
     "cache blocking.md",
     "diffraction.md",
-    "ChatGPT.md",
     "law of diminishing marginal utility.md",
     "facilitative conditions.md",
     "Kolmogorov complexity.md",
-    "cognitive load.md",
     "early stopping.md",
     "GPT-3.md",
     "music.md",
