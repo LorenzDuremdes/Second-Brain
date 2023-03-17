@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b65d3601bca976aa",
+            "id": "f27e12af57a7185f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "detachment gain.md",
+                "file": "ChatGPT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "detachment gain.md",
+                "file": "ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "detachment gain.md",
+                "file": "ChatGPT.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "detachment gain.md"
+                "file": "ChatGPT.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -144,33 +144,33 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b65d3601bca976aa",
+  "active": "f27e12af57a7185f",
   "lastOpenFiles": [
-    "concept map.md",
-    "detachment gain.md",
-    "embodied cognition.md",
-    "neuroarchitecture.md",
-    "ambient belonging.md",
-    "monastery model of space arrangement.md",
-    "open plan.md",
-    "attention drainage effect.md",
-    "music.md",
-    "GPT-3.md",
     "GPT-4.md",
-    "early stopping.md",
-    "cognitive load.md",
-    "Kolmogorov complexity.md",
-    "facilitative conditions.md",
-    "law of diminishing marginal utility.md",
-    "ChatGPT.md",
-    "diffraction.md",
-    "cache blocking.md",
-    "putamen.md",
-    "artificial intelligence.md",
-    "psychological trauma.md",
-    "proxemics.md",
+    "Cowboy. (elektrische fiets).md",
+    "anxious-preoccupied (attachment).md",
     "boundary cell.md",
-    "boundary cells.md",
-    "place cell.md"
+    "place cell.md",
+    "proxemics.md",
+    "psychological trauma.md",
+    "artificial intelligence.md",
+    "putamen.md",
+    "cache blocking.md",
+    "diffraction.md",
+    "ChatGPT.md",
+    "law of diminishing marginal utility.md",
+    "facilitative conditions.md",
+    "Kolmogorov complexity.md",
+    "cognitive load.md",
+    "early stopping.md",
+    "GPT-3.md",
+    "music.md",
+    "Tonmeister.md",
+    "attention drainage effect.md",
+    "open plan.md",
+    "monastery model of space arrangement.md",
+    "ambient belonging.md",
+    "neuroarchitecture.md",
+    "embodied cognition.md"
   ]
 }

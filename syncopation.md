@@ -1,1 +1,1 @@
-1. syncopation; a musical term meaning a variety of rhythms played together to make a piece of music, making part or all of a tune or piece of music off-beat^[https://en.wikipedia.org/wiki/Syncopation]
+1. syncopation; a musical term meaning a variety of rhythms played together to make a piece of [[music]], making part or all of a tune or piece of [[music]] off-beat^[https://en.wikipedia.org/wiki/Syncopation]
