@@ -1,1 +1,2 @@
 1. transactive [[memory]]; a mechanism through which groups collectively encode, store, and retrieve [[knowledge]]^[https://en.wikipedia.org/wiki/Transactive_memory]
+2. we recall as much as 50 percent more [[information]] from stories than from expository passages^[GPT-4]^[Bransford, J. D., & Johnson, M. K. (1972). Contextual prerequisites for understanding: Some investigations of comprehension and recall. Journal of Verbal Learning and Verbal Behavior, 11(6), 717-726.]^[The Extended Mind_ The Power of Thinking Outside the Brain]
