@@ -1,18 +1,33 @@
 {
 	"nodes":[
-		{"type":"text","text":"[[self-concept]]","id":"4e7d67b0094ee790","x":-780,"y":-340,"width":170,"height":50},
-		{"type":"text","text":"publicity","id":"f1c18df08ed6426b","x":-780,"y":-80,"width":125,"height":60},
-		{"type":"text","text":"punishment","id":"be257537abffc044","x":-1164,"y":196,"width":250,"height":60},
-		{"type":"text","text":"external regulation","id":"2f4ca9286c255aac","x":-1140,"y":60,"width":250,"height":60},
-		{"type":"text","text":"intrinsic motivation","id":"8f20bb6c30bc012d","x":-440,"y":196,"width":250,"height":60},
-		{"type":"text","text":"[[commitment and consistency]]","id":"26cd9ec843b67762","x":-520,"y":-200,"width":280,"height":60},
-		{"type":"text","text":"[[low-ball]]","id":"535d5074ebf98c9b","x":-100,"y":-200,"width":250,"height":60}
+		{"type":"text","text":"[[commitment and consistency]]","id":"26cd9ec843b67762","x":-516,"y":-230,"width":280,"height":60},
+		{"type":"text","text":"influence","id":"47b73a5b3b84665a","x":-460,"y":-1400,"width":125,"height":50},
+		{"type":"text","text":"music","id":"149d1cd8cea4a1a8","x":-722,"y":-1240,"width":102,"height":56},
+		{"type":"text","text":"'rational' vs. 'emotional' products","id":"faa142be9cfff619","x":-844,"y":-1000,"width":347,"height":60},
+		{"type":"text","text":"fixed-action pattern","id":"ac75fdf8d280d13f","x":-416,"y":-1000,"width":242,"height":54},
+		{"type":"text","text":"family (word)","id":"1a5953f57c1c9d05","x":-420,"y":-1191,"width":250,"height":60},
+		{"type":"text","text":"external regulation","id":"2f4ca9286c255aac","x":-46,"y":-1161,"width":250,"height":60},
+		{"type":"text","text":"punishment","id":"be257537abffc044","x":-70,"y":-1025,"width":250,"height":60},
+		{"type":"text","text":"age","id":"7811bf3f56c7e8be","x":-136,"y":20,"width":81,"height":50},
+		{"type":"text","text":"[[low-ball]]","id":"535d5074ebf98c9b","x":-95,"y":-110,"width":250,"height":60},
+		{"type":"text","text":"culture","id":"30b073cc32a44705","x":-750,"y":180,"width":119,"height":63},
+		{"type":"text","text":"publicity","id":"f1c18df08ed6426b","x":-972,"y":-170,"width":125,"height":60},
+		{"type":"text","text":"[[self-concept]]","id":"4e7d67b0094ee790","x":-1057,"y":70,"width":170,"height":50},
+		{"type":"text","text":"intrinsic motivation","id":"8f20bb6c30bc012d","x":-70,"y":-700,"width":250,"height":60}
 	],
 	"edges":[
-		{"id":"dd84c1f402bc37c8","fromNode":"26cd9ec843b67762","fromSide":"left","toNode":"4e7d67b0094ee790","toSide":"right","color":"3","label":"the former can change the latter"},
+		{"id":"dd84c1f402bc37c8","fromNode":"26cd9ec843b67762","fromSide":"bottom","toNode":"4e7d67b0094ee790","toSide":"right","label":"the former can change the latter"},
 		{"id":"0f17581a64fcf9cb","fromNode":"f1c18df08ed6426b","fromSide":"right","toNode":"26cd9ec843b67762","toSide":"bottom","color":"4","label":"the former (i.e. seen by others) enhances the latter"},
 		{"id":"c0de34698c07d633","fromNode":"2f4ca9286c255aac","fromSide":"bottom","toNode":"be257537abffc044","toSide":"top"},
-		{"id":"b6fdfaeecd3b4005","fromNode":"be257537abffc044","fromSide":"right","toNode":"8f20bb6c30bc012d","toSide":"left","color":"1","label":"parents should use reasons strong enough to produce desired behavior but not so strong that the child sees it as the only reason for their actions, allowing them to take personal responsibility (intrinsic motivation)"},
-		{"id":"07e0fdd81b937c86","fromNode":"26cd9ec843b67762","fromSide":"right","toNode":"535d5074ebf98c9b","toSide":"left","toEnd":"none","color":"1"}
+		{"id":"b6fdfaeecd3b4005","fromNode":"be257537abffc044","fromSide":"bottom","toNode":"8f20bb6c30bc012d","toSide":"top","color":"1","label":"parents should use reasons strong enough to produce desired behavior but not so strong that the child sees it as the only reason for their actions, allowing them to take personal responsibility (intrinsic motivation)"},
+		{"id":"07e0fdd81b937c86","fromNode":"26cd9ec843b67762","fromSide":"right","toNode":"535d5074ebf98c9b","toSide":"left","toEnd":"none","color":"1"},
+		{"id":"0c23efb501069df8","fromNode":"7811bf3f56c7e8be","fromSide":"bottom","toNode":"26cd9ec843b67762","toSide":"bottom","color":"1","label":"older people are more susceptible to the latter"},
+		{"id":"d9e4e564ebd80d60","fromNode":"30b073cc32a44705","fromSide":"bottom","toNode":"26cd9ec843b67762","toSide":"bottom","color":"1","label":"people from more individualistic societies (e.g. Western Europe) are more susceptible to the latter"},
+		{"id":"ffa541f6416ea821","fromNode":"1a5953f57c1c9d05","fromSide":"bottom","toNode":"ac75fdf8d280d13f","toSide":"top","color":"3","label":"can invoke feelings of unity"},
+		{"id":"88fddf3459bbae43","fromNode":"47b73a5b3b84665a","fromSide":"bottom","toNode":"26cd9ec843b67762","toSide":"top"},
+		{"id":"bbf04f0429a7be46","fromNode":"47b73a5b3b84665a","fromSide":"left","toNode":"149d1cd8cea4a1a8","toSide":"right"},
+		{"id":"5d8291c0e7e43b35","fromNode":"149d1cd8cea4a1a8","fromSide":"bottom","toNode":"faa142be9cfff619","toSide":"top","label":"the former can be detrimental for 'rational' products"},
+		{"id":"3efaede8887f7908","fromNode":"47b73a5b3b84665a","fromSide":"right","toNode":"1a5953f57c1c9d05","toSide":"top"},
+		{"id":"29b87553e2c72f16","fromNode":"47b73a5b3b84665a","fromSide":"right","toNode":"2f4ca9286c255aac","toSide":"top"}
 	]
 }

@@ -11,11 +11,14 @@
             "id": "778a9abb5e737501",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "shortest remaining time first.md",
-                "mode": "source",
-                "source": false
+                "file": "Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini.canvas",
+                "viewState": {
+                  "x": -255.18942014942922,
+                  "y": -872.4166475311987,
+                  "zoom": -0.333333333333333
+                }
               }
             }
           }
@@ -48,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shortest response time",
+                "query": "chatgpt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,8 +68,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shortest remaining time first.md",
+                "file": "Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shortest remaining time first.md",
+                "file": "Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini.canvas",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shortest remaining time first.md"
+                "file": "Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini.canvas"
               }
             }
           },
@@ -145,20 +147,20 @@
       "random-note:Open random note": false
     }
   },
-  "active": "fe30d9f2d6ec44fa",
+  "active": "778a9abb5e737501",
   "lastOpenFiles": [
-    "heavy-tailed distribution.md",
+    "commitment and consistency.md",
+    "Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini.canvas",
+    "ChatGPT.md",
     "shortest remaining time first.md",
+    "heavy-tailed distribution.md",
     "dendritic spine.md",
     "gyrus.md",
     "gyri and sulci.md",
-    "Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini.canvas",
     "low-ball.md",
-    "commitment and consistency.md",
     "Untitled.canvas",
     "transactive memory.md",
     "collective intelligence.md",
-    "ChatGPT.md",
     "cognitive load.md",
     "GPT-4.md",
     "Cowboy. (elektrische fiets).md",
@@ -173,7 +175,6 @@
     "diffraction.md",
     "law of diminishing marginal utility.md",
     "facilitative conditions.md",
-    "Kolmogorov complexity.md",
-    "early stopping.md"
+    "Kolmogorov complexity.md"
   ]
 }
