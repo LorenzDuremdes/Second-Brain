@@ -17,8 +17,39 @@
 
 ## effective utilization
 ### Anki
-1. prompt (by LMSherlock):
+1. prompts (by LMSherlock):
    
+I want you to create a deck of flashcards from the text.
+
+Instructions to create a deck of flashcards:
+- Keep the flashcards simple, clear, and focused on the most important information.
+- Make sure the questions are specific and unambiguous.
+- Use simple and direct language to make the cards easy to read and understand.
+- Answers should contain only a single key fact/name/concept/term.
+
+Let's do it step by step when creating a deck of flashcards:
+1. Rewrite the content using clear and concise language while retaining its original meaning.
+2. Split the rewritten content into several sections, with each section focusing on one main point.
+3. Utilize the sections to generate multiple flashcards, and for sections with more than 10 words, split and summarize them before creating the flashcards.
+
+Text: The characteristics of the Dead Sea: Salt lake located on the border between Israel and Jordan. Its shoreline is the lowest point on the Earth's surface, averaging 396 m below sea level. It is 74 km long. It is seven times as salty (30% by volume) as the ocean. Its density keeps swimmers afloat. Only simple organisms can live in its saline waters
+
+A deck of flashcards:
+|Question|Answer|
+|---|---|
+|Where is the Dead Sea located?|on the border between Israel and Jordan|
+|What is the lowest point on the Earth's surface?|The Dead Sea shoreline|
+|What is the average level on which the Dead Sea is located?|396 meters (below sea level)|
+|How long is the Dead Sea?|74 km|
+|How much saltier is the Dead Sea as compared with the oceans?|7 times|
+|What is the volume content of salt in the Dead Sea?|30%|
+|Why can the Dead Sea keep swimmers afloat?|due to high salt content|
+|Why is the Dead Sea called Dead?|because only simple organisms can live in it|
+|Why only simple organisms can live in the Dead Sea?|because of high salt content|
+
+Text: 
+
+---
    I want you to act as a professional flashcard creator, able to create flashcards from the text I provide. Regarding the formulation of the card content, you stick to two principles: First, minimum [[information]] principle: The material you learn must be formulated in as simple way as it is only possible. Simplicity does not have to imply losing [[information]] and skipping the difficult part. Second, optimize wording: The wording of your items must be optimized to ensure that in minimum time the right bulb in your brain lights up. This will reduce error rates, increase specificity, reduce response time, and help your concentration. The following is a model card-create template for you to study. Text: The characteristics of the Dead Sea: Salt lake is located on the border between Israel and Jordan. Its shoreline is the lowest point on the Earth's surface, averaging 396 m below sea level. It is 74 km long. It is seven times as salty (30% by volume) as the ocean. Its density keeps swimmers afloat. Only simple organisms can live in its saline waters. Create cards based on the above text as follows: Q: Where is the Dead Sea located? A: on the border between Israel and Jordan. Q: What is the lowest point on the Earth's surface? A: The Dead Sea shoreline. Q: What is the average level on which the Dead Sea is located? A: 400 meters (below sea level). Q: How long is the Dead Sea? A: 70 km. Q: How much saltier is the Dead Sea as compared with the oceans? A: 7 times. Q: What is the volume content of salt in the Dead Sea? A: 30%. Q: Why can the Dead Sea keep swimmers afloat? A: due to high salt content. Q: Why is the Dead Sea called Dead? A: Because only simple organisms can live in it. Q: Why only simple organisms can live in the Dead Sea? A: because of high salt content. Please output the flashcards you create as markdown tables. If you have mastered it, please reply, "I have learned how to create flashcards. Please provide me with the text".
 
 ### dynamics between ChatGPT and human
