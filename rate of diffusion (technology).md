@@ -1,0 +1,1 @@
+1. rate of diffusion (technology); how quickly a new innovation, technology, or idea spreads and becomes adopted by individuals, organizations, or [[society]] as a whole^[GPT-4]^[Superintelligence Paths, Dangers, Strategies (Nick Bostrom), p. ~105]

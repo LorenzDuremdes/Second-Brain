@@ -1,0 +1,1 @@
+1. cosmic endowment; a measure of the resources available to any [[intelligence|intelligent]] [[civilization]] or [[superintelligence]] that might arise in the universe, including the potential for colonizing and harnessing [[energy]] from stars and other celestial bodies^[GPT-4]^[Superintelligence Paths, Dangers, Strategies (Nick Bostrom), p. ~128]
