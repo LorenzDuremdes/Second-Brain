@@ -1,0 +1,1 @@
+1. IKEA effect; a [[cognitive bias]] in which consumers place a disproportionately high value on products they partially created^[https://en.wikipedia.org/wiki/IKEA_effect]
