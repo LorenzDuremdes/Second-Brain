@@ -25,6 +25,9 @@
 1. head-related transfer function (HRTF); a response that characterizes how an ear receives a sound from a point in space^[https://en.wikipedia.org/wiki/Head-related_transfer_function]
 2. head-related impulse response (HRIR); relates the source location and the ear location^[https://en.wikipedia.org/wiki/Head-related_transfer_function]
 
+## optimization
+1. optimal crossover frequency (average) = 80 Hz^[https://www.reddit.com/r/audiophile/comments/59fnng/crossover_frequency/]
+
 # testing
 1. [TIMELAPSE OF THE FUTURE: A Journey to the End of Time (4K)](https://www.youtube.com/watch?v=uD4izuDMUQA)
 2. [Dolby Cinema | Pre Show](https://www.youtube.com/watch?v=o5M5T5gHkhg)

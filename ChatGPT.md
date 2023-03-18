@@ -16,6 +16,15 @@
 	   In general, it's essential to strike a balance between brevity and providing enough [[information]] for me to understand your query. A well-structured prompt with sufficient context and clarity is more important than the length of the prompt itself. By focusing on these aspects, you'll likely receive more accurate and helpful responses from me.
 
 ## effective utilization
+### reading (faster)
+1. how long should your **summary** text prompts perhaps be (ChatGPT)?
+	1. depends on how much low quality/irrelevant information there is per interval (e.g. page of a book)
+	   
+	   e.g. if 50% of the page is of lower quality (e.g. not intended for SRS), than you should perhaps make ChatGPT summarize 3x ChatGPT's responses per prompt (ChatGPT's processing time included) or more depending on your desired learning rate
+		1. **how** can you do this?
+			1. e.g. prompts (summarize (approx. 3000 characters > 1500 > 750...) i.e. an uninteresting sequence of outputs (and probably inputs as well
+				1. can be adaptive (exponentially-weighted moving average)
+
 ### Anki
 1. prompts (by LMSherlock):
    

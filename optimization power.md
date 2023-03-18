@@ -1,0 +1,1 @@
+1. [[optimization]] power; amount of resources, effort, and capability being applied to improve, refine, or enhance a [[system]] or process^[GPT-4]^[Superintelligence Paths, Dangers, Strategies (Nick Bostrom), p. ~98]

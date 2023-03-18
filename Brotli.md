@@ -1,0 +1,1 @@
+1. Brotli; uses a combination of the general-purpose LZ77 lossless compression algorithm, Huffman coding and 2nd-order context modelling^[https://en.wikipedia.org/wiki/Brotli]
