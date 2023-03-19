@@ -1,0 +1,1 @@
+1. convergent [[evolution]]; a process in [[biology]] where unrelated species or organisms independently evolve similar traits or features as a result of adapting to similar environments or ecological niches^[GPT-4]

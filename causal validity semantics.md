@@ -1,0 +1,1 @@
+1. causal validity semantics; the idea that the [[artificial intelligence|AI]] should not only do what the programmers told it to do but also understand and act based on what they were trying to tell it to do^[GPT-4]^[Superintelligence Paths, Dangers, Strategies (Nick Bostrom), p. ~230]

@@ -1,0 +1,2 @@
+1. augmentation motivation selection method; by experimenting with various inputs, the [[goal]] is to find the ones that result in the best alignment with human values and goals^[GPT-4]^[Superintelligence Paths, Dangers, Strategies (Nick Bostrom), p. ~235]
+	1. provide different inputs, such as the digital equivalents of psychoactive substances, to modify the motivations and values of an [[artificial intelligence|emulated intelligence system]]
