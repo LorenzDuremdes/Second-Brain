@@ -18,7 +18,7 @@
 3. Joltin et al. (2003), had a caregiver train a woman with Alzheimer's by giving her the name of her grandchild over the phone while asking her to associate with the picture of the grandchild posted on the refrigerator. After training, the woman was able to recall the name of her grandchild five days later.
 	1. https://www.tandfonline.com/doi/abs/10.1080/13803390701595495?journalCode=ncen20
 
-# spaced repetition software
+# [[spaced repetition software]]
 1. more successful students tend to have a lower relative retention percentage
 	1. The interpretation of this paradoxical finding is that good students are by far more critical in the judgment of their own progress.^[http://www.super-memory.com/english/ol/analysis30.htm]
 2. why does Dr. Piotr Wozniak think halving the post-lapse interval is less efficient than 1 to 4 days?

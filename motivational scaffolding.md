@@ -1,0 +1,2 @@
+1. motivational scaffolding; an approach to addressing the [[value-loading problem]] in [[artificial intelligence]] that involves giving the AI an interim [[goal]] system with relatively simple final goals, and then replacing it with a more complex set of final goals as the AI develops more sophisticated representational faculties^[GPT-4]^[Superintelligence Paths, Dangers, Strategies (Nick Bostrom), p. ~225]
+	1. e.g. the AI could be given the interim goal of learning to reason probabilistically or to acquire knowledge from natural language texts

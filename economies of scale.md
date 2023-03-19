@@ -1,0 +1,2 @@
+**antonym**: diseconomies of scale
+1. economies of scale; the cost advantages that enterprises obtain due to their scale of operation, and are typically measured by the amount of output produced per unit of time^[https://en.wikipedia.org/wiki/Economies_of_scale]

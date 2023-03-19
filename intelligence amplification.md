@@ -6,6 +6,10 @@
 1. how does Tom Griffiths (co-author of "Algorithms to Live By: The Computer Science of [[Human]] Decisions") try to enhance his creativity?
 	1. he sees a random Wikipedia page every time he opens a new window
 
+## [[speed superintelligence]]
+### [[ChatGPT]]
+1. The funny thing is that if you achieved that by being "Average", your friend with chatgpt would be god^[https://www.reddit.com/r/ChatGPT/comments/11ukqwg/comment/jcqc6u4/?utm_source=share&utm_medium=web2x&context=3]
+
 ## related
 1. [[explore-exploit trade-off]]
 

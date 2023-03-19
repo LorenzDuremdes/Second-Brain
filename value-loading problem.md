@@ -1,0 +1,1 @@
+1. value-loading problem; refers to the challenge of designing [[artificial intelligence]] (AI) systems that align with [[human]] values and preferences^[GPT-4]^[Superintelligence Paths, Dangers, Strategies (Nick Bostrom), p. ~225]

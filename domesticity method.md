@@ -1,0 +1,2 @@
+1. domesticity method; aims to limit the [[artificial intelligence|AI's]] ambitions and activities by confining its actions to a narrow context^[GPT-4]^[Superintelligence Paths, Dangers, Strategies (Nick Bostrom), p. ~172]
+	1. e.g. narrowing it to an 'oracle'

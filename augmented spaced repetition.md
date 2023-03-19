@@ -1,0 +1,3 @@
+1. augmented spaced repetition; combining [[spaced repetition]] with [[memory augmentation]] technologies^[GPT-4]
+	1. can enhance the learning process by helping learners store and retrieve [[information]] more efficiently while still benefiting from the reinforcement (e.g. more effective understanding) provided by [[spaced repetition]]
+	2. SRS provides a more 'offloading functionality' (i.e. reinforcement)

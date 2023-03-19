@@ -1,3 +1,8 @@
+# prompts
+1. improve the following for [[ChatGPT]]:
+	1. "how certain are we about..."? > "what's your **estimate** about..."
+		1. "Certainty" typically implies a definitive and unwavering level of confidence, while "assessment" often suggests a more nuanced evaluation that may incorporate uncertainties, probabilities, or varying degrees of confidence.^[GPT-4]
+
 # improvements
 1. Query: https://openai.com/research/gpt-4
    GPT-4 is a large multimodal model developed by OpenAI that accepts both image and text inputs and generates text outputs. It exhibits human-level performance on various professional and academic benchmarks, although it is still less capable than humans in many real-world scenarios ^[https://openai.com/research/gpt-4]. GPT-4 has a broader general [[knowledge]] and improved problem-solving abilities compared to its predecessors, making it more creative and collaborative. It can generate, edit, and iterate with users on creative and technical writing tasks, such as composing songs, writing screenplays, or learning a user's writing style ^[https://openai.com/product/gpt-4?ref=louis-bouchard].
@@ -16,7 +21,7 @@
    
    Together, these factors contribute to GPT-4's broader general [[knowledge]] and improved problem-solving abilities, making it more creative and collaborative when working with users on creative and technical writing tasks.^[GPT-4]
 3. Query: how much larger is "GPT-4 training dataset"?
-   The provided search results do not offer specific information about the size of GPT-4's training dataset. However, one of the search results suggests that GPT-4 could have as many as 100 trillion parameters, which would be 500 times the size of [[GPT-3]]'s 175 billion parameters^[https://towardsdatascience.com/gpt-4-will-have-100-trillion-parameters-500x-the-size-of-gpt-3-582b98d82253]. While this is about the number of parameters, it indicates that GPT-4's training dataset would likely be significantly larger than GPT-3's dataset. The exact size of GPT-4's training dataset remains unknown based on the information provided.
+   The provided search results do not offer specific [[information]] about the size of GPT-4's training dataset. However, one of the search results suggests that GPT-4 could have as many as 100 trillion parameters, which would be 500 times the size of [[GPT-3]]'s 175 billion parameters^[https://towardsdatascience.com/gpt-4-will-have-100-trillion-parameters-500x-the-size-of-gpt-3-582b98d82253]. While this is about the number of parameters, it indicates that GPT-4's training dataset would likely be significantly larger than [[GPT-3]]'s dataset. The exact size of GPT-4's training dataset remains unknown based on the [[information]] provided.
 
 # related
 1. [[ChatGPT]]
