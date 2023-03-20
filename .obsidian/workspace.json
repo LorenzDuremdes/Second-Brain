@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devialet Phantom.md",
+                "file": "Devialet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Devialet Phantom.md",
+                "file": "Devialet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Devialet Phantom.md",
+                "file": "Devialet.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Devialet Phantom.md"
+                "file": "Devialet.md"
               }
             }
           }
@@ -147,7 +147,7 @@
   "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
     "institution design approach.md",
-    "Devialet Phantom.md",
+    "Devialet.md",
     "augmentation motivation selection method.md",
     "convergent evolution.md",
     "orbitofrontal cortex.md",
