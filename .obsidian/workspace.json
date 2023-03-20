@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f504395b9f483f6",
+            "id": "fcf362d8fd73ffc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "augmentation motivation selection method.md",
+                "file": "Devialet Phantom.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "augmentation motivation selection method.md",
+                "file": "Devialet Phantom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "augmentation motivation selection method.md",
+                "file": "Devialet Phantom.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "augmentation motivation selection method.md"
+                "file": "Devialet Phantom.md"
               }
             }
           }
@@ -146,8 +146,10 @@
   },
   "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
-    "convergent evolution.md",
+    "institution design approach.md",
+    "Devialet Phantom.md",
     "augmentation motivation selection method.md",
+    "convergent evolution.md",
     "orbitofrontal cortex.md",
     "'Hail Mary' approach.md",
     "external reference semantics.md",
@@ -170,8 +172,6 @@
     "intelligence amplification.md",
     "speed superintelligence.md",
     "ChatGPT.md",
-    "cosmic endowment.md",
-    "civilization.md",
     "Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini.canvas",
     "Untitled.canvas"
   ]
