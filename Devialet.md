@@ -17,6 +17,8 @@ The Devialet Phantom II boasts a distinctive and captivating design that sets it
 #### Build Quality
 The Phantom II's build quality is nothing short of exceptional. Constructed with a combination of aluminum and high-density polycarbonate, the speaker is built to withstand the test of time. Its thoughtful design ensures that the internal components are well-protected, while the external casing is resistant to scratches and impacts. The attention to detail is evident in the speaker's seamless construction, with no visible screws or seams to detract from its elegant appearance.
 
+To withstand the level of pressure, the spherical acoustic architectures of Phantoms are sealed using aeronautical-grade standards with composite mono-hull under 440 lbs of pressure. Further, the gasket, sealing off the woofer is over 2.5mm in diameter and compressed by a force of 1.2 tons to ensure tight sealing.^[https://www.audioadvice.com/devialet-phantom-ii-95db-compact-wireless-speaker]
+
 ### [[Audio]] Performance
 #### Sound Quality
 The Devialet Phantom II is revered for its unparalleled sound quality. Harnessing the power of Devialet's patented ADH (Analog Digital Hybrid) technology, the Phantom II delivers a pristine listening experience that captures every nuance of your favorite tracks. The speaker's powerful bass is achieved through its innovative Heart Bass Implosion (HBI) system, which generates deep, immersive low frequencies without distortion. Meanwhile, the titanium tweeter ensures crystal-clear highs, while the midrange is balanced and detailed.
