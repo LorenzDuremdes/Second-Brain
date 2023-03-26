@@ -5,7 +5,7 @@
 	2. The two other physiological factors—[[anaerobic capacity|anaerobic threshold]] and [[cycling economy|economy]]—also play a major role in race outcomes. One of these three by itself does not constitute all it takes to race fast. And of course, this doesn’t include other critical race determiners such as strategy, tactics, pacing, nutrition, heat adaptation, and lots more.
 2. FTP vs. [[anaerobic capacity]] → road racing + example
 	1. for the most part, road race results are greatly dependent on what happens above the [[anaerobic capacity]] e.g. sprinting
-	2. Creating or responding to a breakaway in a road race usually means riding at or near aerobic capacity for a few minutes. Race-winning sprints that last only a few seconds are done at about anaerobic capacity, which is well above aerobic capacity. But there are times when the [[anaerobic capacity]] also plays a determining role in the outcome of a road race. For example, a long, steady, high-intensity climb is often done at or near FTP, much as in a [[time trial]]. And once a break is formed, it typically proceeds at around FTP. So having a high FTP is certainly also beneficial for road racing. But for the most part, road race results are greatly dependent on what happens above the [[anaerobic capacity]].
+	2. Creating or responding to a breakaway in a road race usually means riding at or near aerobic capacity for a few minutes. Race-winning sprints that last only a few seconds are done at about [[anaerobic capacity]], which is well above aerobic capacity. But there are times when the [[anaerobic capacity]] also plays a determining role in the outcome of a road race. For example, a long, steady, high-intensity climb is often done at or near FTP, much as in a [[time trial]]. And once a break is formed, it typically proceeds at around FTP. So having a high FTP is certainly also beneficial for road racing. But for the most part, road race results are greatly dependent on what happens above the [[anaerobic capacity]].
 
 ## technique
 1. "weakness" vs. "[[limiting factor]]"
@@ -66,3 +66,8 @@
 		Even so, winning in cycling isn’t determined solely by fitness, he points out: “In a rowing race, the best rower in that race will win. In cycling, the rider who has peaked perfectly for a specific race could come last.”
 
 		A similar point was made by Michael Woods, an elite runner turned Cannondale pro, in a previous interview with Cycling Weekly, in which he described having earned a deep respect for the multi-faceted, multi-skilled nature of cycling — that is, compared to distance running, in which, aside from fitness and determination, not much else matters.
+
+## rich man's sport
+1. Lots of folks saying golf, but I haven’t seen anybody mention cycling. Sport cycling, not utility cycling to the corner store for a gallon of milk. Mid-level road bikes are now $5000 usd. And it’s pretty common to spend low five-figures on a complete setup.
+   
+   At least in the Unites States, the average household income of cyclists is quite a bit higher than golfers.^[https://www.reddit.com/r/AskReddit/comments/11a6s9b/comment/j9rein0/?utm_source=share&utm_medium=web2x&context=3]
