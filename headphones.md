@@ -2,10 +2,10 @@
 ## Meze 109 Pro
 ![image](https://cdn.shopify.com/s/files/1/1238/0038/files/109Pro-header_8957b8ea-d75a-4dc2-abcb-a0cb41a17697.jpg?v=1663149794)
 
-# surround sound
+# [[surround sound]]
 1. current best surround virtualizer technology = A16 Realiser (Smyth Research)^[https://www.reddit.com/r/headphones/comments/6lwpue/has_anyone_tried_the_smyth_research_realiser_a16/]
 
-## virtual surround sound
+## virtual [[surround sound]]
 1. current best surround virtualizer technology = A16 Realiser (Smyth Research)^[https://www.reddit.com/r/headphones/comments/6lwpue/has_anyone_tried_the_smyth_research_realiser_a16/]
 2. [different VSSs](https://www.reddit.com/r/headphones/comments/aa0mtw/comment/eco4njx/?utm_source=share&utm_medium=web2x&context=3)
 	1. Super X-Fi being best followed by Out Of Your Head
