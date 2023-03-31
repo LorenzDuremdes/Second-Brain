@@ -126,8 +126,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -144,10 +143,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "fe30d9f2d6ec44fa",
+  "active": "4d65b6c08e42b3aa",
   "lastOpenFiles": [
-    "road cycling.md",
+    "soundbar.md",
     "surround sound.md",
+    "road cycling.md",
     "Devialet.md",
     "Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini.canvas",
     "institution design approach.md",
@@ -172,7 +172,6 @@
     "psychogenic amnesia.md",
     "memory augmentation.md",
     "Anki.md",
-    "intelligence amplification.md",
     "Untitled.canvas"
   ]
 }
