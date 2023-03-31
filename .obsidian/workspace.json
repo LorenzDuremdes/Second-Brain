@@ -126,7 +126,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -143,7 +144,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "48886f184846fd95",
+  "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
     "road cycling.md",
     "surround sound.md",
