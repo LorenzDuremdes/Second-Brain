@@ -1,4 +1,6 @@
 # reviews
+1. 
+
 ## comparison
 1. I moved from a complete Dolby Atmos hometheater setup. Klipsch RP-600M fronts, 500M surrounds, 500SA atmos modules, REL HT/1003 sub, Sony STR-DN1080 / Pioneer VSX-932 amp.
    
