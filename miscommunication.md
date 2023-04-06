@@ -1,0 +1,3 @@
+# examples
+1. [story about miscommunication ("pretty good" = "bad") between husband and wife](https://www.reddit.com/r/tifu/comments/zlgqc4/tifu_by_realizing_my_husband_and_i_have_been/)
+2. [I had a girlfriend when I was 25 with whom I had a similar miscommunication. She kept saying she “wanted space”, which I took to mean she wanted physical distance between us. What she meant was that she wanted privacy.](https://www.reddit.com/r/tifu/comments/zlgqc4/comment/j05cpo9/?utm_source=share&utm_medium=web2x&context=3)
