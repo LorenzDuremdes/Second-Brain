@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "miscommunication.md",
+                "file": "Bang & Olufsen - Beosound Stage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "miscommunication.md",
+                "file": "Bang & Olufsen - Beosound Stage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "miscommunication.md",
+                "file": "Bang & Olufsen - Beosound Stage.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "miscommunication.md"
+                "file": "Bang & Olufsen - Beosound Stage.md"
               }
             }
           }
@@ -146,8 +146,8 @@
   },
   "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
-    "Bang & Olufsen.md",
     "miscommunication.md",
+    "Bang & Olufsen.md",
     "Bang & Olufsen - Beosound Stage.md",
     "surround sound.md",
     "soundbar.md",
