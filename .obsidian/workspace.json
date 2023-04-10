@@ -8,17 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4a647f91302c53d6",
+            "id": "571ce07e74bab17f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "The Great Mental Models, Volume 2.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Goodhart's law.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Great Mental Models, Volume 2.canvas",
+                "file": "Goodhart's law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Great Mental Models, Volume 2.canvas",
+                "file": "Goodhart's law.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,11 +122,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Great Mental Models, Volume 2.canvas"
+                "file": "Goodhart's law.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,10 +144,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4a647f91302c53d6",
+  "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
-    "exercise pressor reflex.md",
     "The Great Mental Models, Volume 2.canvas",
+    "Goodhart's law.md",
+    "exercise pressor reflex.md",
     "anxiety disorder.md",
     "macrosociology.md",
     "Schelling point (game theory).md",
@@ -173,7 +172,6 @@
     "convergent evolution.md",
     "orbitofrontal cortex.md",
     "'Hail Mary' approach.md",
-    "external reference semantics.md",
-    "causal validity semantics.md"
+    "external reference semantics.md"
   ]
 }
