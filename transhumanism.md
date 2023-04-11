@@ -26,10 +26,11 @@
 	1. Compatibility issues: Finding a partner who shares their intellectual interests, values, and pursuits might be more challenging, as they may have niche interests or heightened cognitive abilities that can make it difficult to find someone on the same wavelength.
 	2. Communication challenges: Due to their enhanced intellect, they might struggle to effectively communicate their thoughts and ideas with potential partners who may not have the same level of understanding or cognitive capabilities.
 	3. Unrealistic expectations: Augmented superintelligent individuals may have high expectations for a partner, which could make it difficult for them to find someone who meets their criteria or to accept and appreciate the qualities of others.
+		1. Adapt to new abilities: As individuals gain enhanced cognitive, physical, or emotional abilities, it is essential to adjust your expectations accordingly. Be open to the possibilities and challenges that these new abilities bring to a relationship.
 	4. Intimidation factor: Potential partners may feel intimidated by their enhanced intelligence, leading to difficulties in forming connections or building meaningful relationships.
 	5. Imbalance in the relationship: The difference in cognitive abilities might create a perceived or actual imbalance in the relationship, potentially leading to issues with power dynamics, dependence, or feelings of inadequacy.
+		1. Balance power dynamics: Augmentations may lead to imbalances in power or ability between partners. Address these differences openly and work together to maintain equality in the relationship.
 	6. Fear of vulnerability: Augmented superintelligent individuals may struggle with vulnerability, as they might be more used to relying on their intellect and problem-solving abilities rather than opening up emotionally.
-	7. 
 
 # [[quotes]]
 1. ...to grow physically and mentally so powerful as to appear possibly god-like by present-day [[human]] standards.
