@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8df8e0fb5a14f1d2",
+            "id": "8e9d226ec0516fbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "transhumanism.md",
+                "file": "Exponentially Weighted Moving Average Generous Tit-for-Tat.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "transhumanism.md",
+                "file": "Exponentially Weighted Moving Average Generous Tit-for-Tat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "transhumanism.md",
+                "file": "Exponentially Weighted Moving Average Generous Tit-for-Tat.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -123,12 +122,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "transhumanism.md"
+                "file": "Exponentially Weighted Moving Average Generous Tit-for-Tat.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,8 +143,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ce784ace2f127b3f",
+  "active": "4d65b6c08e42b3aa",
   "lastOpenFiles": [
+    "transhumanism.md",
+    "Exponentially Weighted Moving Average Generous Tit-for-Tat.md",
     "Goodhart's law.md",
     "Focusing on the journey rather than destination (romantic relationships) with GPT-4.md",
     "The Great Mental Models, Volume 2.canvas",
@@ -172,8 +172,6 @@
     "institution design approach.md",
     "augmentation motivation selection method.md",
     "convergent evolution.md",
-    "orbitofrontal cortex.md",
-    "'Hail Mary' approach.md",
-    "external reference semantics.md"
+    "orbitofrontal cortex.md"
   ]
 }
