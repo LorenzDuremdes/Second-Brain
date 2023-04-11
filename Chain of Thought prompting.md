@@ -1,0 +1,3 @@
+**Update**: GPT-4 was released after publishing this article. GPT-4 outperforms old ChatGPT in advanced reasoning capabilities, so you may or may not need Chain of Thought Prompting in GPT-4. I encourage you to test it yourself.
+
+1. Chain of Thought prompting (ChatGPT); this explanation of reasoning often leads to more accurate results^[https://learnprompting.org/docs/intermediate/chain_of_thought]
