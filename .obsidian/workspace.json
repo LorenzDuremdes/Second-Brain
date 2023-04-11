@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goodhart's law.md",
+                "file": "transhumanism.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "canvas",
+                "query": "transhumanism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goodhart's law.md",
+                "file": "transhumanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goodhart's law.md",
+                "file": "transhumanism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -122,12 +123,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goodhart's law.md"
+                "file": "transhumanism.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -144,10 +145,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "8df8e0fb5a14f1d2",
+  "active": "ce784ace2f127b3f",
   "lastOpenFiles": [
-    "Focusing on the journey rather than destination (romantic relationships) with GPT-4.md",
     "Goodhart's law.md",
+    "Focusing on the journey rather than destination (romantic relationships) with GPT-4.md",
     "The Great Mental Models, Volume 2.canvas",
     "exercise pressor reflex.md",
     "anxiety disorder.md",

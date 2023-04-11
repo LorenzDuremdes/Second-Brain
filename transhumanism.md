@@ -19,6 +19,18 @@
 		1. **related**
 			[[posthuman]]
 
+## personal challenges
+### ChatGPT
+1. High expectations: People around them may expect consistent top performance and intellectual prowess, leading to significant pressure to maintain their enhanced capabilities and always be ahead of others.
+2. Social isolation: Augmented superintelligent individuals might feel disconnected from others who do not share their enhanced cognitive abilities or interests, leading to potential isolation and difficulties in forming meaningful relationships.
+	1. Compatibility issues: Finding a partner who shares their intellectual interests, values, and pursuits might be more challenging, as they may have niche interests or heightened cognitive abilities that can make it difficult to find someone on the same wavelength.
+	2. Communication challenges: Due to their enhanced intellect, they might struggle to effectively communicate their thoughts and ideas with potential partners who may not have the same level of understanding or cognitive capabilities.
+	3. Unrealistic expectations: Augmented superintelligent individuals may have high expectations for a partner, which could make it difficult for them to find someone who meets their criteria or to accept and appreciate the qualities of others.
+	4. Intimidation factor: Potential partners may feel intimidated by their enhanced intelligence, leading to difficulties in forming connections or building meaningful relationships.
+	5. Imbalance in the relationship: The difference in cognitive abilities might create a perceived or actual imbalance in the relationship, potentially leading to issues with power dynamics, dependence, or feelings of inadequacy.
+	6. Fear of vulnerability: Augmented superintelligent individuals may struggle with vulnerability, as they might be more used to relying on their intellect and problem-solving abilities rather than opening up emotionally.
+	7. 
+
 # [[quotes]]
 1. ...to grow physically and mentally so powerful as to appear possibly god-like by present-day [[human]] standards.
 2. “It's amazing how once the [[mind]] is free of emotional pollution, logic and clarity emerge.” —Clyde Dsouza, Memories With Maya
