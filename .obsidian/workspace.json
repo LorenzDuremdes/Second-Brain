@@ -8,16 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec846cbaf53e697d",
+            "id": "3b1eb795f46d8bba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chain of Thought prompting.md",
+                "file": "AssortiMens.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "950e88bc16cf6269"
+          }
+        ]
+      },
+      {
+        "id": "fce15954e2525f6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3882add2bd36026",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "AssortiMens.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "950e88bc16cf6269"
           }
         ]
       }
@@ -48,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transhumanism",
+                "query": "assortimens",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chain of Thought prompting.md",
+                "file": "AssortiMens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chain of Thought prompting.md",
+                "file": "AssortiMens.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chain of Thought prompting.md"
+                "file": "AssortiMens.md"
               }
             }
           }
@@ -143,10 +186,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ec846cbaf53e697d",
+  "active": "81065ebe05c5628d",
   "lastOpenFiles": [
-    "Exponentially Weighted Moving Average Generous Tit-for-Tat.md",
+    "autisme.md",
+    "AssortiMens.md",
     "Chain of Thought prompting.md",
+    "Exponentially Weighted Moving Average Generous Tit-for-Tat.md",
     "transhumanism.md",
     "Goodhart's law.md",
     "Focusing on the journey rather than destination (romantic relationships) with GPT-4.md",
@@ -170,8 +215,6 @@
     "road cycling.md",
     "Devialet.md",
     "Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini.canvas",
-    "institution design approach.md",
-    "augmentation motivation selection method.md",
-    "convergent evolution.md"
+    "institution design approach.md"
   ]
 }
