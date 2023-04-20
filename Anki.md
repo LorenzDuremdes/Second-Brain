@@ -1,3 +1,6 @@
+# FSRS4Anki
+1. parameters = 1.2274, 2.9781, 5.3563, -0.9867, -1.2069, 0.0068, 1.5416, -0.0775, 0.9505, 1.8775, -0.2705, 0.5222, 1.1808
+
 # future
 1. how could Anki still be applicable in the future (when having a "perfect" [[memory]])?
 	1. asking questions unable to (immediately) answer ([[computation offloading]])
