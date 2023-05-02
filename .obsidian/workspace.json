@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,7 +144,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "3b1eb795f46d8bba",
+  "active": "81065ebe05c5628d",
   "lastOpenFiles": [
     "Anki.md",
     "FSRS4Anki.txt",
