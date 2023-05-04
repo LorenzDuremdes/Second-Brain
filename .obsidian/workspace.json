@@ -11,11 +11,14 @@
             "id": "3b1eb795f46d8bba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Bang & Olufsen - Beosound Stage.md",
-                "mode": "source",
-                "source": false
+                "file": "incomplete to semi-complete jigsaw.canvas",
+                "viewState": {
+                  "x": -114.91239959085786,
+                  "y": -149.0500165099889,
+                  "zoom": 0.3333333333333333
+                }
               }
             }
           }
@@ -48,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "beosound stage",
+                "query": "jigsaw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bang & Olufsen - Beosound Stage.md",
+                "file": "incomplete to semi-complete jigsaw.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bang & Olufsen - Beosound Stage.md",
+                "file": "incomplete to semi-complete jigsaw.canvas",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bang & Olufsen - Beosound Stage.md"
+                "file": "incomplete to semi-complete jigsaw.canvas"
               }
             }
           }
@@ -146,6 +149,13 @@
   },
   "active": "81065ebe05c5628d",
   "lastOpenFiles": [
+    "jigsaw (teaching technique).md",
+    "incomplete to semi-complete jigsaw.canvas",
+    "OIP.jpg",
+    "pieces-incomplete-puzzle-jigsaw-179450357.jpg",
+    "pieces-incomplete-puzzle-jigsaw-179450357 1.jpg",
+    "OIP 1.jpg",
+    "Bang & Olufsen - Beosound Stage.md",
     "Anki.md",
     "FSRS4Anki.txt",
     "autisme.md",
@@ -167,13 +177,11 @@
     "cursus honorum.md",
     "reactive coping.md",
     "Alexandria II Xerjoff (perfume).md",
-    "Bang & Olufsen - Beosound Stage.md",
     "miscommunication.md",
     "Bang & Olufsen.md",
     "surround sound.md",
     "soundbar.md",
     "road cycling.md",
-    "Devialet.md",
     "Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini.canvas"
   ]
 }

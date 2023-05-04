@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"file","file":"pieces-incomplete-puzzle-jigsaw-179450357 1.jpg","id":"97b36073dffe7069","x":-80,"y":-303,"width":400,"height":300},
+		{"type":"file","file":"OIP.jpg","id":"b7cbaaacde0c7905","x":-540,"y":-300,"width":400,"height":294}
+	],
+	"edges":[
+		{"id":"9e4091c1606ef9bf","fromNode":"b7cbaaacde0c7905","fromSide":"right","toNode":"97b36073dffe7069","toSide":"left"}
+	]
+}
