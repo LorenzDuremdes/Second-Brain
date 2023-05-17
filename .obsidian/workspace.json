@@ -21,8 +21,21 @@
                 }
               }
             }
+          },
+          {
+            "id": "f6d0b63bfb3726b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alexandria II Xerjoff (perfume).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jigsaw",
+                "query": "alexandria",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -67,8 +80,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "4e7c18c88d3faed7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -88,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "incomplete to semi-complete jigsaw.canvas",
+                "file": "Alexandria II Xerjoff (perfume).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "incomplete to semi-complete jigsaw.canvas",
+                "file": "Alexandria II Xerjoff (perfume).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "incomplete to semi-complete jigsaw.canvas"
+                "file": "Alexandria II Xerjoff (perfume).md"
               }
             }
           }
@@ -147,8 +169,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "81065ebe05c5628d",
+  "active": "f6d0b63bfb3726b5",
   "lastOpenFiles": [
+    "Ganymede (perfume).md",
+    "Untitled.md",
     "jigsaw (teaching technique).md",
     "incomplete to semi-complete jigsaw.canvas",
     "OIP.jpg",
@@ -180,8 +204,6 @@
     "miscommunication.md",
     "Bang & Olufsen.md",
     "surround sound.md",
-    "soundbar.md",
-    "road cycling.md",
     "Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini.canvas"
   ]
 }
