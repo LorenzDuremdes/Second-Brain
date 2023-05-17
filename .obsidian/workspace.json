@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3b1eb795f46d8bba",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "incomplete to semi-complete jigsaw.canvas",
-                "viewState": {
-                  "x": -114.91239959085786,
-                  "y": -149.0500165099889,
-                  "zoom": 0.3333333333333333
-                }
-              }
-            }
-          },
-          {
             "id": "f6d0b63bfb3726b5",
             "type": "leaf",
             "state": {
@@ -34,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,7 +152,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "f6d0b63bfb3726b5",
+  "active": "81065ebe05c5628d",
   "lastOpenFiles": [
     "Ganymede (perfume).md",
     "Untitled.md",
