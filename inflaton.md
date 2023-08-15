@@ -1,0 +1,1 @@
+1. inflaton; a hypothetical scalar field which is conjectured to have driven cosmic inflation in the very early universe.^[https://en.wikipedia.org/wiki/Inflaton#cite_note-Guth1997-1]^[https://en.wikipedia.org/wiki/Inflaton#cite_note-2]^[https://en.wikipedia.org/wiki/Inflaton#cite_note-3]

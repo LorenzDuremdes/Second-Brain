@@ -1,0 +1,1 @@
+1. nucleon; either a proton or a neutron, considered in its role as a component of an atomic nucleus^[https://en.wikipedia.org/wiki/Nucleon]

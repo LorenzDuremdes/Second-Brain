@@ -1,0 +1,1 @@
+1. neutron capture; a nuclear reaction in which an atomic nucleus and one or more neutrons collide and merge to form a heavier nucleus.^[https://en.wikipedia.org/wiki/Neutron_capture#cite_note-University_of_Ottawa_(Department_of_Physics)-1]

@@ -1,0 +1,1 @@
+1. stellar nucleosynthesis; the creation of chemical elements by nuclear fusion reactions within stars^[https://en.wikipedia.org/wiki/Stellar_nucleosynthesis]

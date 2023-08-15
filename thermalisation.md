@@ -1,0 +1,1 @@
+1. thermalisation; the process of physical bodies reaching thermal equilibrium through mutual interaction^[https://en.wikipedia.org/wiki/Thermalisation]

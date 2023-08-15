@@ -1,0 +1,3 @@
+1. fine-tuning (physics); this had led to the discovery that the fundamental constants and quantities fall into such an extraordinarily precise range that if it did not, the origin and evolution of conscious agents in the universe would not be permitted.^[https://en.wikipedia.org/wiki/Fine-tuning_(physics)#cite_note-1]
+2. how "vacuum energy is considered finely balanced to allow for the formation of structures like galaxies, stars, and planets"?
+	1. e.g. if the vacuum energy were much larger, it might cause a rapid and excessive expansion of space, thwarting the formation of structures necessary for life^[GPT-3.5]^[The Big Picture On the Origins of Life, Meaning, and the Universe Itself (Carroll, Sean M), p. 308]

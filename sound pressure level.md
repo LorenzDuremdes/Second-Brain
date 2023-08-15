@@ -1,0 +1,1 @@
+1. sound pressure level (SPL); a logarithmic measure of the effective pressure of a sound relative to a reference value^[https://en.wikipedia.org/wiki/Sound_pressure#Sound_pressure_level]
