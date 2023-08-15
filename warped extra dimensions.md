@@ -1,0 +1,2 @@
+1. warped extra dimensions; propose that space itself can be curved or warped in higher dimensions^[GPT-3.5]
+	1. the elementary particles except for the graviton are localized on a (3 + 1)-dimensional brane or branes.^[https://en.wikipedia.org/wiki/Extra_dimensions#cite_note-RS-3] (**related**: [[large extra dimensions]])

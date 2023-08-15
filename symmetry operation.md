@@ -1,0 +1,2 @@
+1. symmetry operation; a geometric transformation of an object that leaves the object looking the same after it has been carried out^[https://en.wikipedia.org/wiki/Symmetry_operation]
+	1. e.g. rotating a square by 90 degrees still keeps it looking like a square

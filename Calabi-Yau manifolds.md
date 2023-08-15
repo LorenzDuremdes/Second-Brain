@@ -1,0 +1,4 @@
+1. Calabi-Yau manifolds; the extra dimensions beyond the familiar three we observe could be compactified into these intricate shapes^[GPT-3.5]^[The Big Picture On the Origins of Life, Meaning, and the Universe Itself (Carroll, Sean M), p. ~323]
+	1. The concept of "curling up" dimensions through Calabi-Yau manifolds can be a bit abstract, but imagine a garden hose: if you look at it from a distance, it seems like a one-dimensional line. However, if you zoom in closely, you'll see that it has an additional dimension, a circular one, wrapped tightly around its length.
+	   
+	   These extra dimensions are thought to be tiny and imperceptible in our everyday experience.

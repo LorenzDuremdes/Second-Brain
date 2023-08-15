@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f6d0b63bfb3726b5",
+            "id": "8f9a0f5e17b5061b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alexandria II Xerjoff (perfume).md",
+                "file": "manifold.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alexandria II Xerjoff (perfume).md",
+                "file": "manifold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alexandria II Xerjoff (perfume).md",
+                "file": "manifold.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alexandria II Xerjoff (perfume).md"
+                "file": "manifold.md"
               }
             }
           }
@@ -152,10 +152,16 @@
       "random-note:Open random note": false
     }
   },
-  "active": "81065ebe05c5628d",
+  "active": "8f9a0f5e17b5061b",
   "lastOpenFiles": [
+    "large extra dimensions.md",
+    "manifold.md",
+    "warped extra dimensions.md",
+    "eternal inflation.md",
+    "symmetry operation.md",
+    "Calabi-Yau manifolds.md",
+    "Alexandria II Xerjoff (perfume).md",
     "Ganymede (perfume).md",
-    "Untitled.md",
     "jigsaw (teaching technique).md",
     "incomplete to semi-complete jigsaw.canvas",
     "OIP.jpg",
@@ -181,12 +187,6 @@
     "normative social influence.md",
     "opportunity cost.md",
     "recidivism.md",
-    "cursus honorum.md",
-    "reactive coping.md",
-    "Alexandria II Xerjoff (perfume).md",
-    "miscommunication.md",
-    "Bang & Olufsen.md",
-    "surround sound.md",
     "Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini.canvas"
   ]
 }
