@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -153,7 +152,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "73d118b5d4315c15",
+  "active": "81065ebe05c5628d",
   "lastOpenFiles": [
     "sound pressure level.md",
     "fine-tuning (physics).md",
