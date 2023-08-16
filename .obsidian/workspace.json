@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "73d118b5d4315c15",
+            "id": "67f585aa7613a2a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bang & Olufsen.md",
+                "file": "philology.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bang & Olufsen.md",
+                "file": "philology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bang & Olufsen.md",
+                "file": "philology.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -130,12 +130,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bang & Olufsen.md"
+                "file": "philology.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -152,8 +151,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "81065ebe05c5628d",
+  "active": "4d65b6c08e42b3aa",
   "lastOpenFiles": [
+    "Bang & Olufsen.md",
+    "philology.md",
     "sound pressure level.md",
     "fine-tuning (physics).md",
     "stellar nucleosynthesis.md",
@@ -184,8 +185,6 @@
     "AssortiMens.md",
     "Chain of Thought prompting.md",
     "Exponentially Weighted Moving Average Generous Tit-for-Tat.md",
-    "transhumanism.md",
-    "Goodhart's law.md",
     "The Great Mental Models, Volume 2.canvas",
     "Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini.canvas"
   ]

@@ -1,0 +1,1 @@
+1. philology; the study of [[language]] in oral and written historical sources; it is the intersection of textual criticism, literary criticism, [[history]], and [[linguistics]] with strong ties to etymology.^[https://en.wikipedia.org/wiki/Philology#cite_note-:0-1]^[https://en.wikipedia.org/wiki/Philology#cite_note-2]^[https://en.wikipedia.org/wiki/Philology#cite_note-3]
