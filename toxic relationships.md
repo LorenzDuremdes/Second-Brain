@@ -9,3 +9,7 @@
 		I think it becomes intoxicating because it's the closest you ever get to the person. You crave intimacy with them and sex is the only time you get it so it becomes so much more amazing
 
 		  Kinda how everything tastes amazing when you're starving.^[https://www.reddit.com/r/dating/comments/rm5pgu/comment/hpk5cut/?utm_source=share&utm_medium=web2x&context=3]
+
+# videos
+1. Your Reality | Award-winning short film on Gaslighting^[https://www.youtube.com/watch?v=SVCqTcb4qkM]
+2. PURGATORY - Award-Winning Domestic Violence Short Film (Gaslighting, Coercive Control, Abuse)^[https://www.youtube.com/watch?v=UVTyu1CfVpw]
