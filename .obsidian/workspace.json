@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "toxic relationships.md",
+                "file": "Bang & Olufsen.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "toxic relationship",
+                "query": "bang and olufsen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "toxic relationships.md",
+                "file": "Bang & Olufsen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "toxic relationships.md",
+                "file": "Bang & Olufsen.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -131,11 +131,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "toxic relationships.md"
+                "file": "Bang & Olufsen.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,8 +153,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4d65b6c08e42b3aa",
+  "active": "fe30d9f2d6ec44fa",
   "lastOpenFiles": [
+    "toxic relationships.md",
     "philology.md",
     "Bang & Olufsen.md",
     "sound pressure level.md",
@@ -185,7 +187,6 @@
     "autisme.md",
     "AssortiMens.md",
     "Chain of Thought prompting.md",
-    "Exponentially Weighted Moving Average Generous Tit-for-Tat.md",
     "The Great Mental Models, Volume 2.canvas",
     "Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini.canvas"
   ]
