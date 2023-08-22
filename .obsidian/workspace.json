@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bang & Olufsen.md",
+                "file": "Ganymede (perfume).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bang and olufsen",
+                "query": "ganymede",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bang & Olufsen.md",
+                "file": "Ganymede (perfume).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bang & Olufsen.md",
+                "file": "Ganymede (perfume).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bang & Olufsen.md"
+                "file": "Ganymede (perfume).md"
               }
             }
           }
@@ -153,11 +153,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "fe30d9f2d6ec44fa",
+  "active": "67f585aa7613a2a3",
   "lastOpenFiles": [
+    "Bang & Olufsen.md",
     "toxic relationships.md",
     "philology.md",
-    "Bang & Olufsen.md",
     "sound pressure level.md",
     "fine-tuning (physics).md",
     "stellar nucleosynthesis.md",
