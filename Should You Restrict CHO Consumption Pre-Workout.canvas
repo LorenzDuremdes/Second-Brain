@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"type":"text","text":"**Should You Restrict CHO Consumption Pre-Workout?**","id":"25f47d2eebcf7833","x":-140,"y":-420,"width":250,"height":80},
+		{"type":"text","text":"Are you trying to lose fat?","id":"82b20c83bd0c9c59","x":-420,"y":-400,"width":250,"height":60},
+		{"type":"text","text":"**Don't** restrict CHO consumption pre-workout","id":"245e064dff722444","x":-740,"y":500,"width":240,"height":80,"color":"1"},
+		{"type":"text","text":"CHO consumption restriction pre-workout might be a good option","id":"fe8a2e64faff06dc","x":-340,"y":495,"width":260,"height":90,"color":"4"},
+		{"id":"d5b7ee29c769b897","x":-265,"y":-150,"width":250,"height":60,"type":"text","text":"Do you have a hard time eating very little food?"},
+		{"id":"5a2bb1ae193d5797","x":180,"y":-350,"width":240,"height":260,"type":"text","text":"Do you want to be in an even bigger (average) caloric deficit?\n\n*Do eat a bit more when having a hard time eating very little food, but not that much that it nullifies calories burned from exercise"},
+		{"id":"c1418ddec842890e","x":140,"y":140,"width":240,"height":120,"type":"text","text":"Is it hampering your next-session performances too much?"}
+	],
+	"edges":[
+		{"id":"4412050d2c2e0a5a","fromNode":"25f47d2eebcf7833","fromSide":"top","toNode":"82b20c83bd0c9c59","toSide":"top","color":"5"},
+		{"id":"7f8db10d3a708804","fromNode":"82b20c83bd0c9c59","fromSide":"left","toNode":"245e064dff722444","toSide":"top","color":"1","label":"No"},
+		{"id":"afed93c35c8e347d","fromNode":"82b20c83bd0c9c59","fromSide":"bottom","toNode":"fe8a2e64faff06dc","toSide":"left","color":"4","label":"Yes (coupled with lower total calorie consumption that specific day)"},
+		{"id":"d75515c026861caa","fromNode":"25f47d2eebcf7833","fromSide":"bottom","toNode":"d5b7ee29c769b897","toSide":"top","color":"5"},
+		{"id":"2c7fd7ffbd346f86","fromNode":"d5b7ee29c769b897","fromSide":"bottom","toNode":"fe8a2e64faff06dc","toSide":"top","color":"4","label":"No"},
+		{"id":"d84fb3de3bb1d3a6","fromNode":"25f47d2eebcf7833","fromSide":"bottom","toNode":"5a2bb1ae193d5797","toSide":"top","color":"5"},
+		{"id":"f7673783cb72d347","fromNode":"5a2bb1ae193d5797","fromSide":"bottom","toNode":"fe8a2e64faff06dc","toSide":"top","color":"4","label":"Yes"},
+		{"id":"831a810d312cabb1","fromNode":"5a2bb1ae193d5797","fromSide":"bottom","toNode":"245e064dff722444","toSide":"top","color":"1"},
+		{"id":"b179e4cd0fdec927","fromNode":"d5b7ee29c769b897","fromSide":"right","toNode":"5a2bb1ae193d5797","toSide":"left","label":"Yes*"},
+		{"id":"af11bd0535b0d344","fromNode":"25f47d2eebcf7833","fromSide":"right","toNode":"c1418ddec842890e","toSide":"left","toEnd":"none","color":"5"},
+		{"id":"0cb448fcc38edf48","fromNode":"c1418ddec842890e","fromSide":"left","toNode":"245e064dff722444","toSide":"top","color":"1"},
+		{"id":"623493dc020dd80a","fromNode":"c1418ddec842890e","fromSide":"bottom","toNode":"fe8a2e64faff06dc","toSide":"top","color":"4","label":"No"}
+	]
+}

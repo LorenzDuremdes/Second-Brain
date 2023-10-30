@@ -11,11 +11,14 @@
             "id": "a77fbbf2955f512b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "music (personal).md",
-                "mode": "source",
-                "source": false
+                "file": "Should You Restrict CHO Consumption Pre-Workout.canvas",
+                "viewState": {
+                  "x": -160,
+                  "y": 82.5,
+                  "zoom": -0.2126378538107144
+                }
               }
             }
           }
@@ -93,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "music (personal).md",
+                "file": "Should You Restrict CHO Consumption Pre-Workout.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "music (personal).md",
+                "file": "Should You Restrict CHO Consumption Pre-Workout.canvas",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "music (personal).md"
+                "file": "Should You Restrict CHO Consumption Pre-Workout.canvas"
               }
             }
           }
@@ -154,8 +157,9 @@
   },
   "active": "a77fbbf2955f512b",
   "lastOpenFiles": [
-    "music.md",
     "music (personal).md",
+    "Should You Restrict CHO Consumption Pre-Workout.canvas",
+    "music.md",
     "Ganymede (perfume).md",
     "Bang & Olufsen.md",
     "toxic relationships.md",
@@ -185,7 +189,6 @@
     "Bang & Olufsen - Beosound Stage.md",
     "Anki.md",
     "FSRS4Anki.txt",
-    "autisme.md",
     "The Great Mental Models, Volume 2.canvas",
     "Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini.canvas"
   ]
