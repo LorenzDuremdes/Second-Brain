@@ -5,10 +5,12 @@
   "hideScroll": false,
   "hideSidebarButtons": false,
   "hideTooltips": true,
+  "hideFileNavButtons": false,
   "hideSearchSuggestions": false,
   "hideSearchCounts": false,
   "hideInstructions": true,
-  "hideMeta": false,
+  "hidePropertiesReading": false,
   "hideVault": false,
+  "hideMeta": false,
   "frameless": true
 }

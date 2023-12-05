@@ -11,14 +11,11 @@
             "id": "a77fbbf2955f512b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Should You Restrict CHO Consumption Pre-Workout.canvas",
-                "viewState": {
-                  "x": -160,
-                  "y": 82.5,
-                  "zoom": -0.2126378538107144
-                }
+                "file": "breakup.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -53,7 +50,7 @@
               "state": {
                 "query": "music",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -96,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Should You Restrict CHO Consumption Pre-Workout.canvas",
+                "file": "breakup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Should You Restrict CHO Consumption Pre-Workout.canvas",
+                "file": "breakup.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Should You Restrict CHO Consumption Pre-Workout.canvas"
+                "file": "breakup.md"
               }
             }
           }
@@ -152,14 +149,23 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "a77fbbf2955f512b",
   "lastOpenFiles": [
-    "music (personal).md",
-    "Should You Restrict CHO Consumption Pre-Workout.canvas",
+    "negativity bias.md",
+    "breakup.md",
+    "cabin fever.md",
+    "Untitled.canvas",
+    "Bang & Olufsen - Beosound Stage.md",
+    "attention drainage effect.md",
     "music.md",
+    "music (personal).md",
+    "λήκυθος.md",
+    "恭喜發財.md",
+    "Should You Restrict CHO Consumption Pre-Workout.canvas",
     "Ganymede (perfume).md",
     "Bang & Olufsen.md",
     "toxic relationships.md",
@@ -177,17 +183,11 @@
     "large extra dimensions.md",
     "warped extra dimensions.md",
     "eternal inflation.md",
-    "symmetry operation.md",
-    "Calabi-Yau manifolds.md",
-    "Alexandria II Xerjoff (perfume).md",
-    "jigsaw (teaching technique).md",
     "incomplete to semi-complete jigsaw.canvas",
     "OIP.jpg",
     "pieces-incomplete-puzzle-jigsaw-179450357.jpg",
     "pieces-incomplete-puzzle-jigsaw-179450357 1.jpg",
     "OIP 1.jpg",
-    "Bang & Olufsen - Beosound Stage.md",
-    "Anki.md",
     "FSRS4Anki.txt",
     "The Great Mental Models, Volume 2.canvas",
     "Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini.canvas"
