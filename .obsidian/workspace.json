@@ -88,6 +88,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "ce784ace2f127b3f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "breakup.md"
+              }
+            }
+          },
+          {
             "id": "4d65b6c08e42b3aa",
             "type": "leaf",
             "state": {
@@ -123,19 +133,8 @@
               "type": "graph-analysis",
               "state": {}
             }
-          },
-          {
-            "id": "ce784ace2f127b3f",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "breakup.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
