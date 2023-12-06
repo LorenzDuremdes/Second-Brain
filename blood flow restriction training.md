@@ -8,7 +8,7 @@
 	
 	‘Protein response’ represents changes in protein content and/or function (or post-translational modification).
 
-	‘Adaptation’ represents changes in physiological properties associated with capillary growth and [[mitochondrial biogenesis]] (mitochondrial content and respiratory function).
+	‘Adaptation’ represents changes in physiological properties associated with [[capillary]] growth and [[mitochondrial biogenesis]] (mitochondrial content and respiratory function).
 
 	Black and red lines represent the magnitude and timing of training-induced adaptation in non-BFR conditions (based on Granata et al., 2018) and BFR conditions, respectively^[https://physoc.onlinelibrary.wiley.com/doi/10.1113/EP089280]
 	

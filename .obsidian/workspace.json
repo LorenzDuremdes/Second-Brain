@@ -4,22 +4,72 @@
     "type": "split",
     "children": [
       {
-        "id": "3fe57e884b2590e6",
-        "type": "tabs",
+        "id": "e58e7f768fc0cf59",
+        "type": "split",
         "children": [
           {
-            "id": "a77fbbf2955f512b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "breakup.md",
-                "mode": "source",
-                "source": false
+            "id": "3fe57e884b2590e6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "77c3bd17fad5ca6c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "capillary.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "7113b502a355b5f2"
               }
-            }
+            ]
+          },
+          {
+            "id": "6ef75e5c74b3ccde",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dce9d697dee71d76",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "capillary.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": -3,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0,
+                      "repelStrength": 20,
+                      "linkStrength": 1,
+                      "linkDistance": 30,
+                      "scale": 1.8063410549585734,
+                      "close": false
+                    }
+                  }
+                },
+                "group": "7113b502a355b5f2"
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -48,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "music",
+                "query": "capillary",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -93,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "breakup.md"
+                "file": "capillary.md"
               }
             }
           },
@@ -103,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "breakup.md",
+                "file": "capillary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "breakup.md",
+                "file": "capillary.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -152,10 +202,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a77fbbf2955f512b",
+  "active": "77c3bd17fad5ca6c",
   "lastOpenFiles": [
-    "negativity bias.md",
     "breakup.md",
+    "capillary.md",
+    "negativity bias.md",
     "cabin fever.md",
     "Untitled.canvas",
     "Bang & Olufsen - Beosound Stage.md",
@@ -181,7 +232,6 @@
     "manifold.md",
     "large extra dimensions.md",
     "warped extra dimensions.md",
-    "eternal inflation.md",
     "incomplete to semi-complete jigsaw.canvas",
     "OIP.jpg",
     "pieces-incomplete-puzzle-jigsaw-179450357.jpg",
