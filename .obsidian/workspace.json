@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "myofilament.md",
+                    "file": "cellular respiration.md",
                     "mode": "source",
                     "source": false
                   }
@@ -36,7 +36,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "myofilament.md",
+                    "file": "cellular respiration.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"skeletal muscle\"",
+                "query": "cellular respiration",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -123,7 +123,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "myofilament.md"
+                "file": "cellular respiration.md"
               }
             }
           },
@@ -153,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "myofilament.md",
+                "file": "cellular respiration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "myofilament.md",
+                "file": "cellular respiration.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -203,10 +204,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "dce9d697dee71d76",
+  "active": "77c3bd17fad5ca6c",
   "lastOpenFiles": [
-    "skeletal muscle.md",
+    "food energy.md",
+    "cellular respiration.md",
     "myofilament.md",
+    "skeletal muscle.md",
     "capillary.md",
     "breakup.md",
     "negativity bias.md",
@@ -231,8 +234,6 @@
     "neutron capture.md",
     "thermalisation.md",
     "inflation (cosmology).md",
-    "inflaton.md",
-    "manifold.md",
     "incomplete to semi-complete jigsaw.canvas",
     "OIP.jpg",
     "pieces-incomplete-puzzle-jigsaw-179450357.jpg",
