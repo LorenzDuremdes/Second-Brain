@@ -1,5 +1,5 @@
-1. muscle cells (synonym); muscle fibers
-2. 
+1. skeletal muscle > muscle fibers > myofibrils > sarcomeres > [[myofilament|myofilaments]]^[Faster - The Obsession, Science and Luck Behind the World's Fastest Cyclists (by Michael Hutchinson), p. 39]
+3. muscle cells (synonym); muscle fibers
 4. [[titin]] is a key receptor that triggers signaling that increases muscle fiber length^[https://www.facebook.com/StrengthandConditioningResearch/photos/a.314294568681572/3378449048932760?notif_id=1610354863885732&notif_t=notify_me_page&ref=notif]
 
 # [[glycogen]]

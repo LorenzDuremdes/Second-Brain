@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "capillary.md",
+                    "file": "myofilament.md",
                     "mode": "source",
                     "source": false
                   }
@@ -36,7 +36,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "capillary.md",
+                    "file": "myofilament.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -59,7 +59,7 @@
                       "repelStrength": 20,
                       "linkStrength": 1,
                       "linkDistance": 30,
-                      "scale": 1.8063410549585734,
+                      "scale": 1.0000000000000009,
                       "close": false
                     }
                   }
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "capillary",
+                "query": "\"skeletal muscle\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "capillary.md"
+                "file": "myofilament.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "capillary.md",
+                "file": "myofilament.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "capillary.md",
+                "file": "myofilament.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +184,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -202,10 +203,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "77c3bd17fad5ca6c",
+  "active": "dce9d697dee71d76",
   "lastOpenFiles": [
-    "breakup.md",
+    "skeletal muscle.md",
+    "myofilament.md",
     "capillary.md",
+    "breakup.md",
     "negativity bias.md",
     "cabin fever.md",
     "Untitled.canvas",
@@ -230,8 +233,6 @@
     "inflation (cosmology).md",
     "inflaton.md",
     "manifold.md",
-    "large extra dimensions.md",
-    "warped extra dimensions.md",
     "incomplete to semi-complete jigsaw.canvas",
     "OIP.jpg",
     "pieces-incomplete-puzzle-jigsaw-179450357.jpg",

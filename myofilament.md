@@ -1,0 +1,1 @@
+1. myofilaments; these are the things that do the actual contracting, like microscopic trombone-slides^[Faster - The Obsession, Science and Luck Behind the World's Fastest Cyclists (by Michael Hutchinson), p. 39]
