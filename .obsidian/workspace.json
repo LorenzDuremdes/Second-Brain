@@ -4,72 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "e58e7f768fc0cf59",
-        "type": "split",
+        "id": "3fe57e884b2590e6",
+        "type": "tabs",
         "children": [
           {
-            "id": "3fe57e884b2590e6",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "77c3bd17fad5ca6c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "cellular respiration.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                },
-                "group": "7113b502a355b5f2"
+            "id": "af8744497959a3c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stable Diffusion.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           },
           {
-            "id": "6ef75e5c74b3ccde",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "dce9d697dee71d76",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "cellular respiration.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": true,
-                      "textFadeMultiplier": -3,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0,
-                      "repelStrength": 20,
-                      "linkStrength": 1,
-                      "linkDistance": 30,
-                      "scale": 1.0000000000000009,
-                      "close": false
-                    }
-                  }
-                },
-                "group": "7113b502a355b5f2"
+            "id": "dce9d697dee71d76",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Stable Diffusion.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0,
+                  "repelStrength": 20,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 1.0000000000000009,
+                  "close": false
+                }
               }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cellular respiration",
+                "query": "stable diffusion",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -143,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cellular respiration.md"
+                "file": "Stable Diffusion.md"
               }
             }
           },
@@ -153,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cellular respiration.md",
+                "file": "Stable Diffusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cellular respiration.md",
+                "file": "Stable Diffusion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -203,10 +188,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "77c3bd17fad5ca6c",
+  "active": "af8744497959a3c2",
   "lastOpenFiles": [
-    "food energy.md",
+    "8335b1c7972f84d70f92824370b498c2bb7d1e4a.jpg",
+    "8512267aad19cc9ce65d57be742becd6ae2f9970.jpg",
+    "nmgjzl_ed4873b632a92eac4be0978aaae6bb9c4417f235.jpg",
+    "4cdcdcfafb18c16861c6046869c71b0dd87a9ff7.jpg",
+    "o7ahp2_8948d6acd1a3484352a7b62bd6f24f859ffb4562.jpg",
+    "7c740c2ca0cb5c0bbabe78a466c5973a6f65355e.jpg",
+    "qrrpjk_eaa249780efbf483c3ad050c2e8a90236929105c.jpg",
+    "aug4ng_84dd69e3648b97ce1d014f2903b396978ca0a380.jpg",
     "cellular respiration.md",
+    "Stable Diffusion.md",
+    "food energy.md",
     "myofilament.md",
     "skeletal muscle.md",
     "capillary.md",
@@ -231,13 +225,10 @@
     "stellar evolution.md",
     "nucleon.md",
     "neutron capture.md",
-    "thermalisation.md",
-    "inflation (cosmology).md",
     "incomplete to semi-complete jigsaw.canvas",
     "OIP.jpg",
     "pieces-incomplete-puzzle-jigsaw-179450357.jpg",
     "pieces-incomplete-puzzle-jigsaw-179450357 1.jpg",
-    "OIP 1.jpg",
     "FSRS4Anki.txt",
     "The Great Mental Models, Volume 2.canvas",
     "Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini.canvas"
