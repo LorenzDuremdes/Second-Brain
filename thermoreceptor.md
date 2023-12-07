@@ -1,0 +1,2 @@
+1. thermoreceptor; a non-specialised sense receptor, or more accurately the receptive portion of a sensory [[neuron]], that codes absolute and relative changes in temperature, primarily within the innocuous range^[https://en.wikipedia.org/wiki/Thermoreceptor]
+2. peripheral thermoreceptors: the hands and feet have a high density of thermoreceptors^[GPT-3.5]
