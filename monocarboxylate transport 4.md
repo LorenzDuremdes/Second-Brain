@@ -1,0 +1,2 @@
+1. MCT4 makes use of facilitated diffusion^[Dr. Andrew Coggan: https://www.trainerroad.com/forum/t/polarized-zone-2-question/88787/42?u=lorenz_duremdes]
+	1. the fact that it is diffusion and not active transport means that it is driven by the concentration gradient (no gradient, no net transport)
