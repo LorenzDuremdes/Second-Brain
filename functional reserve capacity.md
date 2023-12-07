@@ -1,2 +1,2 @@
-1. W'bal; functional reserve capacity^[https://forum.intervals.icu/t/dynamic-functional-reserve-capacity/26990/2?u=lorenz_duremdes]
+1. W'bal; functional reserve capacity^[https://www.trainerroad.com/forum/t/hard-start-vo2max-intervals/48175/665?u=lorenz_duremdes]^[https://forum.intervals.icu/t/dynamic-functional-reserve-capacity/26990/2?u=lorenz_duremdes]
 	1. bal; balance^[https://mywindsock.com/page/help/navigating-and-understanding-the-information/w-balance/]
