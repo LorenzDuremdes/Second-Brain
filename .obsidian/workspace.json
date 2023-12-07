@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "04aca911d15ee341",
+            "id": "73089b2386aeace1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "air fryer.md",
+                "file": "functional reserve capacity.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "air fryer.md",
+                "file": "functional reserve capacity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "thermorecept",
+                "query": "functional reserve",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "air fryer.md"
+                "file": "functional reserve capacity.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "air fryer.md",
+                "file": "functional reserve capacity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "air fryer.md",
+                "file": "functional reserve capacity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -188,10 +188,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "04aca911d15ee341",
+  "active": "73089b2386aeace1",
   "lastOpenFiles": [
-    "thermoreceptor.md",
     "air fryer.md",
+    "functional reserve capacity.md",
+    "thermoreceptor.md",
     "Stable Diffusion.md",
     "8335b1c7972f84d70f92824370b498c2bb7d1e4a.jpg",
     "8512267aad19cc9ce65d57be742becd6ae2f9970.jpg",
@@ -225,7 +226,6 @@
     "fine-tuning (physics).md",
     "stellar nucleosynthesis.md",
     "stellar evolution.md",
-    "nucleon.md",
     "incomplete to semi-complete jigsaw.canvas",
     "OIP.jpg",
     "pieces-incomplete-puzzle-jigsaw-179450357.jpg",
