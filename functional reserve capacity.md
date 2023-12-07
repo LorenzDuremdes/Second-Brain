@@ -1,1 +1,2 @@
 1. W'bal; functional reserve capacity^[https://forum.intervals.icu/t/dynamic-functional-reserve-capacity/26990/2?u=lorenz_duremdes]
+	1. bal; balance^[https://mywindsock.com/page/help/navigating-and-understanding-the-information/w-balance/]
