@@ -1,2 +1,4 @@
-1. MCT4 makes use of facilitated diffusion^[Dr. Andrew Coggan: https://www.trainerroad.com/forum/t/polarized-zone-2-question/88787/42?u=lorenz_duremdes]
+1. high intensity interval training is more potent stimulus for increasing MCT4 expression than moderate intensity continuous exercise^[Dr. Andrew Coggan: https://www.trainerroad.com/forum/t/polarized-zone-2-question/88787/42?u=lorenz_duremdes]
+	1. there is often little to no change in MCT4 in response to steady state [[endurance training]] (unless the latter is carried out under hypoxic conditions (◇BFR?))
+2. MCT4 makes use of facilitated diffusion^[Dr. Andrew Coggan: https://www.trainerroad.com/forum/t/polarized-zone-2-question/88787/42?u=lorenz_duremdes]
 	1. the fact that it is diffusion and not active transport means that it is driven by the concentration gradient (no gradient, no net transport)
