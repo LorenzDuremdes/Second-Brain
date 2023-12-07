@@ -1,0 +1,2 @@
+1. passive transport vs. facilitated diffusion
+	1. the latter contains the former + movement of molecules across the [[cell membrane]] via special **transport proteins** that are embedded in the [[plasma membrane]] by actively taking up or excluding ions^[https://www.ncbi.nlm.nih.gov/books/NBK9847/]

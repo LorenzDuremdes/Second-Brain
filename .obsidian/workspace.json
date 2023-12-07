@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "73089b2386aeace1",
+            "id": "bcb2b72dde9fd762",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "functional reserve capacity.md",
+                "file": "facilitated diffusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "functional reserve capacity.md",
+                "file": "facilitated diffusion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "functional reserve capacity.md"
+                "file": "facilitated diffusion.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "functional reserve capacity.md",
+                "file": "facilitated diffusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "functional reserve capacity.md",
+                "file": "facilitated diffusion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -188,10 +188,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "73089b2386aeace1",
+  "active": "bcb2b72dde9fd762",
   "lastOpenFiles": [
-    "air fryer.md",
+    "cell membrane.md",
+    "facilitated diffusion.md",
     "functional reserve capacity.md",
+    "air fryer.md",
     "thermoreceptor.md",
     "Stable Diffusion.md",
     "8335b1c7972f84d70f92824370b498c2bb7d1e4a.jpg",
@@ -224,8 +226,6 @@
     "philology.md",
     "sound pressure level.md",
     "fine-tuning (physics).md",
-    "stellar nucleosynthesis.md",
-    "stellar evolution.md",
     "incomplete to semi-complete jigsaw.canvas",
     "OIP.jpg",
     "pieces-incomplete-puzzle-jigsaw-179450357.jpg",
