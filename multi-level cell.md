@@ -1,0 +1,3 @@
+1. multi-level cell; primary benefit is its lower cost per unit of storage due to the higher data density, and [[memory]]-reading software can compensate for a larger bit error rate.^[https://en.wikipedia.org/wiki/Multi-level_cell#cite_note-6]
+2. the differences of the [[memory]] cells in comparison^[By PantheraLeo1359531 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=112231622]
+   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Cell_types_SLC-PLC_in_comparison_20211102.svg" />
