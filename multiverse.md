@@ -1,0 +1,2 @@
+1. could creating multiverses be used to 'circumvent' maximum cosmic [[speed]] limit (e.g. [[information]] transmission)?
+	1. ◇process can be enhanced by traveling to universes with a higher cosmic [[speed]] limit (and create more desired multiverses (faster) → e.g. faster computations)

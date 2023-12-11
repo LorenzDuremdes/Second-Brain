@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1baecad1b20da3f4",
+            "id": "e1ea4db3dddd067d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "multi-level cell.md",
+                "file": "multiverse.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "multi-level cell.md",
+                "file": "multiverse.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mct",
+                "query": "multiverse",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "multi-level cell.md"
+                "file": "multiverse.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "multi-level cell.md",
+                "file": "multiverse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "multi-level cell.md",
+                "file": "multiverse.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -188,10 +188,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1baecad1b20da3f4",
+  "active": "e1ea4db3dddd067d",
   "lastOpenFiles": [
-    "monocarboxylate transport 4.md",
     "multi-level cell.md",
+    "multiverse.md",
+    "monocarboxylate transport 4.md",
     "facilitated diffusion.md",
     "cell membrane.md",
     "functional reserve capacity.md",
@@ -225,7 +226,6 @@
     "Ganymede (perfume).md",
     "Bang & Olufsen.md",
     "toxic relationships.md",
-    "philology.md",
     "incomplete to semi-complete jigsaw.canvas",
     "OIP.jpg",
     "pieces-incomplete-puzzle-jigsaw-179450357.jpg",
