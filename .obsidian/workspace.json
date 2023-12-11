@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "multiverse.md",
+                "file": "Minecraft.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "multiverse.md",
+                "file": "Minecraft.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "multiverse",
+                "query": "minecraft",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -108,7 +108,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "multiverse.md"
+                "file": "Minecraft.md"
               }
             }
           },
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "multiverse.md",
+                "file": "Minecraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "multiverse.md",
+                "file": "Minecraft.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -190,8 +191,8 @@
   },
   "active": "e1ea4db3dddd067d",
   "lastOpenFiles": [
-    "multi-level cell.md",
     "multiverse.md",
+    "multi-level cell.md",
     "monocarboxylate transport 4.md",
     "facilitated diffusion.md",
     "cell membrane.md",

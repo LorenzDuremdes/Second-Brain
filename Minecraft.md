@@ -3,6 +3,11 @@
 2. most efficient mining technique in terms of diamond ores % of total blocks mined (Minecraft)^[https://youtu.be/hc4phBmksms?t=600]
 	1. "diagonal mining" together with "cave mining" especially in/after update 1.17
 
+## diamonds
+1. underwater deep cave mining > Cave exploration mining > strip mining^[https://www.reddit.com/r/Minecraft/comments/18fpb26/comment/kcw92wj/?utm_source=share&utm_medium=web2x&context=3]
+	1. diamonds spawn less when exposed to air (Minecraft ~1.18)^[https://www.reddit.com/r/Minecraft/comments/18fpb26/comment/kcwahnn/?utm_source=share&utm_medium=web2x&context=3]
+		1. to nerf cave exploration so you don't get like 10 stacks of diamond an hour (the initial implementation was crazy, it needed tuning)
+
 # Ubuntu
 1. how can you improve Ubuntu's system responsiveness after it slows down slowly due to e.g. Minecraft?
 	1. Alt·F2 → r
