@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minecraft.md",
+                "file": "airspeed.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Minecraft.md",
+                "file": "airspeed.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "minecraft",
+                "query": "airspeed",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minecraft.md"
+                "file": "airspeed.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minecraft.md",
+                "file": "airspeed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minecraft.md",
+                "file": "airspeed.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -191,6 +191,7 @@
   },
   "active": "e1ea4db3dddd067d",
   "lastOpenFiles": [
+    "Minecraft.md",
     "multiverse.md",
     "multi-level cell.md",
     "monocarboxylate transport 4.md",
@@ -226,7 +227,6 @@
     "Should You Restrict CHO Consumption Pre-Workout.canvas",
     "Ganymede (perfume).md",
     "Bang & Olufsen.md",
-    "toxic relationships.md",
     "incomplete to semi-complete jigsaw.canvas",
     "OIP.jpg",
     "pieces-incomplete-puzzle-jigsaw-179450357.jpg",
