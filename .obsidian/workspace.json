@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e1ea4db3dddd067d",
+            "id": "93fa9073de7f0081",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "airspeed.md",
+                "file": "quasi-Monte Carlo Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "airspeed.md",
+                "file": "quasi-Monte Carlo Method.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -108,8 +108,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "airspeed.md"
+                "file": "quasi-Monte Carlo Method.md"
               }
             }
           },
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "airspeed.md",
+                "file": "quasi-Monte Carlo Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "airspeed.md",
+                "file": "quasi-Monte Carlo Method.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -189,8 +188,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e1ea4db3dddd067d",
+  "active": "93fa9073de7f0081",
   "lastOpenFiles": [
+    "low-discrepancy sequence.md",
+    "quasi-Monte Carlo Method.md",
+    "airspeed.md",
     "Minecraft.md",
     "multiverse.md",
     "multi-level cell.md",
@@ -223,10 +225,7 @@
     "music.md",
     "music (personal).md",
     "λήκυθος.md",
-    "恭喜發財.md",
     "Should You Restrict CHO Consumption Pre-Workout.canvas",
-    "Ganymede (perfume).md",
-    "Bang & Olufsen.md",
     "incomplete to semi-complete jigsaw.canvas",
     "OIP.jpg",
     "pieces-incomplete-puzzle-jigsaw-179450357.jpg",

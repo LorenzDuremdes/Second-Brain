@@ -1,0 +1,1 @@
+1. quasi-[[Monte Carlo Method]]; a method for numerical integration and solving some other problems using [[low-discrepancy sequence|low-discrepancy sequences]] to achieve variance reduction^[https://en.wikipedia.org/wiki/Quasi-Monte_Carlo_method]
