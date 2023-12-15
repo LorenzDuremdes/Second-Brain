@@ -1,0 +1,2 @@
+1. [[physiology]] is by far the primary [[limiting factor]]^[Dr. Andrew Coggan: https://www.trainerroad.com/forum/t/highest-of-ftp-actually-ridden-at/89048/59?u=lorenz_duremdes]
+	1. That said, some folks are indeed mentally weak - those are the easiest ones to beat in any race.
