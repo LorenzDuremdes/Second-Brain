@@ -1,4 +1,4 @@
-# sociology
+# [[sociology]]
 1. oxytocin → discrimination^[The Happy Brain: The Science of Where [[happiness]] Comes from, and Why, p. 18]
 	1. can strengthen familiar bonds while also increasing hostility to anyone being perceived as outside that bond
 
@@ -10,6 +10,7 @@
 1. oxytocin · men → fidelity^[The Happy Brain: The Science of Where [[happiness]] Comes from, and Why, p. 18]
 	1. more oxytocin can strengthen already existing fidelity
 		1. but doesn't create it per se e.g. single men don't show similar behavior
+		2. makes sense as the neural structure has to exist in the first place?
 
 # [[neurophysiology]]
 1. oxytocin is produced in the hypothalamus
