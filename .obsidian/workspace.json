@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "48d635e46d0f8141",
+            "id": "7da9513373f273b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "overtraining.md",
+                "file": "Preemptive Modified Highest Response Ratio Next.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "overtraining.md",
+                "file": "Preemptive Modified Highest Response Ratio Next.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -108,8 +108,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "overtraining.md"
+                "file": "Preemptive Modified Highest Response Ratio Next.md"
               }
             }
           },
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "overtraining.md",
+                "file": "Preemptive Modified Highest Response Ratio Next.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "overtraining.md",
+                "file": "Preemptive Modified Highest Response Ratio Next.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -189,8 +188,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "48d635e46d0f8141",
+  "active": "7da9513373f273b3",
   "lastOpenFiles": [
+    "overtraining.md",
+    "Preemptive Modified Highest Response Ratio Next.md",
     "omega-3 fatty acid.md",
     "Converse x A-Cold-Wall - Geo Forma (boots).md",
     "oxytocin.md",
@@ -223,9 +224,7 @@
     "capillary.md",
     "breakup.md",
     "negativity bias.md",
-    "cabin fever.md",
     "Untitled.canvas",
-    "Bang & Olufsen - Beosound Stage.md",
     "Should You Restrict CHO Consumption Pre-Workout.canvas",
     "incomplete to semi-complete jigsaw.canvas",
     "OIP.jpg",
