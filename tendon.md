@@ -1,0 +1,1 @@
+1. tendon (synonym); sinew

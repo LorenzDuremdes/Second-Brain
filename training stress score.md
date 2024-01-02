@@ -5,3 +5,5 @@
 2. training stress score = %FTP*duration (h)^[https://cyklopedia.cc/cycling-tips/what-is-training-stress-score-tss-cycling/]
 	1. e.g.:
 if you are planning to go easy for 2 hours, around 70% of your FTP (IF 0.70) just square 0.70 and multiplay by 100, it gives you 49 TSS per hour, the total for the workout will be 98 TSS
+3. Garmin’s “Training Load” is based on Rusko’s EPOC^[Dr. Andrew Coggan: https://www.trainerroad.com/forum/t/is-tss-a-useful-metric-for-mixed-difficulty-training/89497/2?u=lorenz_duremdes]
+	1. EPOC; [[excess post-exercise oxygen consumption]]

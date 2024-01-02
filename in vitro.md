@@ -1,0 +1,1 @@
+1. in vitro; performed with microorganisms, cells, or biological molecules outside their normal biological context^[https://en.wikipedia.org/wiki/In_vitro]

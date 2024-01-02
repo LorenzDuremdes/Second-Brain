@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7da9513373f273b3",
+            "id": "04d6766983393f31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Preemptive Modified Highest Response Ratio Next.md",
+                "file": "training stress score.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Preemptive Modified Highest Response Ratio Next.md",
+                "file": "training stress score.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "overtrai",
+                "query": "excess post",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -108,7 +108,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Preemptive Modified Highest Response Ratio Next.md"
+                "file": "training stress score.md"
               }
             }
           },
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Preemptive Modified Highest Response Ratio Next.md",
+                "file": "training stress score.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Preemptive Modified Highest Response Ratio Next.md",
+                "file": "training stress score.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -188,10 +189,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7da9513373f273b3",
+  "active": "04d6766983393f31",
   "lastOpenFiles": [
-    "overtraining.md",
+    "excess post-exercise oxygen consumption.md",
+    "training stress score.md",
+    "tendon.md",
+    "in vitro.md",
     "Preemptive Modified Highest Response Ratio Next.md",
+    "overtraining.md",
     "omega-3 fatty acid.md",
     "Converse x A-Cold-Wall - Geo Forma (boots).md",
     "oxytocin.md",
@@ -220,10 +225,6 @@
     "cellular respiration.md",
     "food energy.md",
     "myofilament.md",
-    "skeletal muscle.md",
-    "capillary.md",
-    "breakup.md",
-    "negativity bias.md",
     "Untitled.canvas",
     "Should You Restrict CHO Consumption Pre-Workout.canvas",
     "incomplete to semi-complete jigsaw.canvas",
