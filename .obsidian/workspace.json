@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "training stress score.md",
+                "file": "skeletal muscle fiber types.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "training stress score.md",
+                "file": "skeletal muscle fiber types.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "excess post",
+                "query": "muscle fiber",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "training stress score.md"
+                "file": "skeletal muscle fiber types.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "training stress score.md",
+                "file": "skeletal muscle fiber types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "training stress score.md",
+                "file": "skeletal muscle fiber types.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -191,8 +191,8 @@
   },
   "active": "04d6766983393f31",
   "lastOpenFiles": [
-    "excess post-exercise oxygen consumption.md",
     "training stress score.md",
+    "excess post-exercise oxygen consumption.md",
     "tendon.md",
     "in vitro.md",
     "Preemptive Modified Highest Response Ratio Next.md",

@@ -20,3 +20,6 @@
 # fiber type interconversion
 1. how does it make sense that there's an interconversion of slower- to faster-twitch muscle fibers due to inactivity?
 	1. absence of endurance work^[https://youtu.be/fbpzG7eVKY0?t=4600, Muscle Fiber Composition, Pro Cyclist Data, Crashing and More – Ask a Cycling Coach 316]
+
+# further reading
+1. [Muscle Fibers Explained: Type I and Type II (Slow & Fast Twitch) – Sport Science Insider](https://sportscienceinsider.com/muscle-fibers-explained-slow-fast-twitch/)
