@@ -61,3 +61,7 @@ In conclusion, the Devialet Phantom II is a revolutionary wireless speaker that 
 # Mania
 1. [Harman Kardon Onyx Studio 6 vs Devialet Mania](https://www.youtube.com/watch?v=xUN9hY0iCF4)
 2. [Devialet Mania Room Filling Sound Test - BONUS - Sound Comparison with the excellent B&O Beoplay A9](https://www.youtube.com/watch?v=KZf74BfGECA)
+
+# reviews
+## users
+1. Op zoek naar een compacte speaker met ongeëvenaarde kwaliteit? De Devialet Phantom 2 98Db zet de standaard, ver overstijgend wat concurrenten als Sonos en B&O bieden. De geluidsweergave is niet minder dan fenomenaal, met een echte 'Hi-Fi' kwaliteit die elke audiofiel zal waarderen. Tidal ontsluit de volledige potentie van deze speaker, die moeiteloos zelfs grote woonkamers vult met een rijk en gedetailleerd geluid. De bouwkwaliteit is solide; hoewel het een zwaardere speaker is, is hij desgewenst draagbaar. Er is simpelweg geen andere speaker van dit formaat die zo'n superieure audio-ervaring biedt. Je moet het echt zelf horen om het te geloven. Elk detail, elke toonhoogte, elk nummer komt foutloos tot leven. Als je het budget hebt voor een duurzame, topkwaliteit speaker, dan mag je de Phantom niet missen. Elk aspect van Devialet's claims is hoorbaar; een ware triomf in audiodesign.^[https://tweakers.net/draadloze-speakers/devialet/phantom-ii_p1075816/reviews/]
