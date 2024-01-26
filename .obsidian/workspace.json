@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Devialet.md",
+                "file": "blood flow restriction training.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devialet.md",
+                "file": "blood flow restriction training.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "devialet",
+                "query": "blood flow",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -121,8 +121,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Devialet.md"
+                "file": "blood flow restriction training.md"
               }
             }
           },
@@ -152,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Devialet.md",
+                "file": "blood flow restriction training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Devialet.md",
+                "file": "blood flow restriction training.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -202,8 +201,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "570b9d744500641c",
+  "active": "81065ebe05c5628d",
   "lastOpenFiles": [
+    "Devialet.md",
     "lipoprotein.md",
     "free fatty acid.md",
     "blood plasma.md",
@@ -229,7 +229,6 @@
     "airspeed.md",
     "Minecraft.md",
     "multiverse.md",
-    "multi-level cell.md",
     "8335b1c7972f84d70f92824370b498c2bb7d1e4a.jpg",
     "8512267aad19cc9ce65d57be742becd6ae2f9970.jpg",
     "nmgjzl_ed4873b632a92eac4be0978aaae6bb9c4417f235.jpg",
