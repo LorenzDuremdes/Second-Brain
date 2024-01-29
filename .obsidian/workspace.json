@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1edac395f4d05b25",
+            "id": "abd6ddd3ff9e1233",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lipoprotein.md",
+                "file": "facultative thermogenesis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59ea68bfe7d57dc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "facultative thermogenesis.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +37,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "blood flow restriction training.md",
+                "file": "facultative thermogenesis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -53,21 +65,9 @@
                 }
               }
             }
-          },
-          {
-            "id": "570b9d744500641c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blood flow restriction training.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blood flow",
+                "query": "thermogenesis",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blood flow restriction training.md"
+                "file": "facultative thermogenesis.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blood flow restriction training.md",
+                "file": "facultative thermogenesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blood flow restriction training.md",
+                "file": "facultative thermogenesis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -201,10 +201,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "81065ebe05c5628d",
+  "active": "59ea68bfe7d57dc0",
   "lastOpenFiles": [
-    "Devialet.md",
+    "protein kinase.md",
+    "facultative thermogenesis.md",
+    "thermogenesis.md",
     "lipoprotein.md",
+    "Devialet.md",
     "free fatty acid.md",
     "blood plasma.md",
     "ribosome.md",
@@ -226,9 +229,6 @@
     "time to exhaustion.md",
     "quasi-Monte Carlo Method.md",
     "low-discrepancy sequence.md",
-    "airspeed.md",
-    "Minecraft.md",
-    "multiverse.md",
     "8335b1c7972f84d70f92824370b498c2bb7d1e4a.jpg",
     "8512267aad19cc9ce65d57be742becd6ae2f9970.jpg",
     "nmgjzl_ed4873b632a92eac4be0978aaae6bb9c4417f235.jpg",

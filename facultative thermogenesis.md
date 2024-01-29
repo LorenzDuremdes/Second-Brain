@@ -1,0 +1,4 @@
+1. The sympathetic control of facultative [[thermogenesis]] is mediated by three b-adrenoceptors [b-adrenoceptors (ARs)], and not by a-adrenoceptors.^[Brown adipose tissue and the regulation of nonshivering thermogenesis, p. 5]
+	1. Noradrenaline signals via [[protein kinase]] A (PKA; cAMP-dependent [[protein kinase]]) to increase [[thermogenesis]].
+	2. In humans, Zingaretti et al. [15] showed that [[human]] brown adipocytes are innervated by the SNS, and Virtanen et al. [8] demonstrated the presence of the b3-adrenergic receptor (b3-AR) mRNA in these cells.
+	3. In nuclear medicine, blocking the b1-AR and b2-AR through administration of propranolol is used to decrease 18F-FDG uptake in BAT in patients at room temperature [29].
