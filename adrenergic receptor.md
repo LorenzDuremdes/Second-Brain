@@ -1,0 +1,1 @@
+1. how many beta adrenergic receptors are there? 3 (β1, β2, β3)^[Adrenergic receptor - Wikipedia]^[GPT-4]

@@ -1,0 +1,1 @@
+1. protein kinase; a kinase which selectively modifies other proteins by covalently adding phosphates to them (phosphorylation) as opposed to kinases which modify lipids, carbohydrates, or other molecules^[https://en.wikipedia.org/wiki/Protein_kinase]

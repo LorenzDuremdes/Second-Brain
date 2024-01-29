@@ -1,0 +1,1 @@
+1. "proteolysis" describes the process, while "cleaved version" describes the result of that process^[GPT-4]^[https://en.wikipedia.org/wiki/Proteolysis#Cleavage_of_precursor_proteins]

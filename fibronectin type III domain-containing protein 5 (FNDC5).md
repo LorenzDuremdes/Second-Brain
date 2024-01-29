@@ -1,0 +1,1 @@
+1. the precursor of [[irisin]], is a type I transmembrane glycoprotein that is encoded by the FNDC5 gene.^[https://en.wikipedia.org/wiki/FNDC5#cite_note-erickson-5]^[https://en.wikipedia.org/wiki/FNDC5#cite_note-:2-6]^[https://en.wikipedia.org/wiki/FNDC5#cite_note-Bostr%C3%B6m11-7]

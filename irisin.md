@@ -1,0 +1,1 @@
+1. Irisin is a [[proteolysis|cleaved version]] of [[fibronectin type III domain-containing protein 5 (FNDC5)|FNDC5]], named after the Greek messenger goddess Iris.^[https://en.wikipedia.org/wiki/FNDC5#cite_note-Bostr%C3%B6m11-7]
