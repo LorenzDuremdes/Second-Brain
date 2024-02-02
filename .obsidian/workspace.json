@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sleep Problems and Daytime Functioning in Adolescents with an Autism Spectrum Disorder Diagnosis - A Systematic Review.md",
+                "file": "nutrition (road cycling).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sleep Problems and Daytime Functioning in Adolescents with an Autism Spectrum Disorder Diagnosis - A Systematic Review.md",
+                "file": "nutrition (road cycling).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "carbohydrate",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -108,7 +108,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sleep Problems and Daytime Functioning in Adolescents with an Autism Spectrum Disorder Diagnosis - A Systematic Review.md"
+                "file": "nutrition (road cycling).md"
               }
             }
           },
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sleep Problems and Daytime Functioning in Adolescents with an Autism Spectrum Disorder Diagnosis - A Systematic Review.md",
+                "file": "nutrition (road cycling).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sleep Problems and Daytime Functioning in Adolescents with an Autism Spectrum Disorder Diagnosis - A Systematic Review.md",
+                "file": "nutrition (road cycling).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -190,8 +191,11 @@
   },
   "active": "64175367666668f5",
   "lastOpenFiles": [
-    "sleep onset latency.md",
+    "intra-workout (road cycling).md",
+    "physical exercise.md",
+    "nutrition (road cycling).md",
     "Sleep Problems and Daytime Functioning in Adolescents with an Autism Spectrum Disorder Diagnosis - A Systematic Review.md",
+    "sleep onset latency.md",
     "circadian rhythm.md",
     "functional threshold power.md",
     "adaptive thermogenesis.md",
@@ -213,9 +217,6 @@
     "peroxisome.md",
     "blood flow restriction training.md",
     "arterial occlusion pressure.md",
-    "skeletal muscle fiber types.md",
-    "training stress score.md",
-    "excess post-exercise oxygen consumption.md",
     "8335b1c7972f84d70f92824370b498c2bb7d1e4a.jpg",
     "8512267aad19cc9ce65d57be742becd6ae2f9970.jpg",
     "nmgjzl_ed4873b632a92eac4be0978aaae6bb9c4417f235.jpg",

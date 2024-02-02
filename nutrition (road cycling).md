@@ -14,7 +14,9 @@
 1. max carbohydrates per hour (under research) ≈ 140g/hour^[https://www.trainerroad.com/forum/t/140g-carbs-per-hour/51650/]
 	1. 1:1 glucose-fructose ratio
 2. _Figure 1: Relationship between the drop in CP/"Threshold" power as a result of different levels of carbohydrate intake. Note that the drop is both steeper and deeper with decreasing carbohydrate intake._
-   <img src="https://cdn.shopify.com/s/files/1/0537/6311/3136/files/OTS_power_decline_1024x1024.png?v=1649683696" width="600" />
+![image](https://cdn.shopify.com/s/files/1/0537/6311/3136/files/OTS_power_decline_1024x1024.png?v=1649683696)
+## anecdotes
+1. The amount of times I have come home completely destroyed because I didn’t understand the importance of eating more than a couple hundred calories is astounding. I ripped 4 hrs on Sunday. First 4 hr ride of the year properly fueled for the entire thing got home and then did shit around the house, played with the dog, washed my bike, etc. In the past I would have been splayed out on the couch basically useless. Figuring out fueling has completely changed my weekends. Also for those of you not mixing your own fuel it’s easy AF. Buy a scale and buy bulk malt and fructose flavor as desired.^[https://www.reddit.com/r/Velo/comments/1ah1df4/comment/kol0746/?utm_source=share&utm_medium=web2x&context=3]
 
 # pre-workout
 1. optimal timing of pre-workout nutrition^[https://youtu.be/o0S5iPm-hjs?t=360, TrainerRoad]
