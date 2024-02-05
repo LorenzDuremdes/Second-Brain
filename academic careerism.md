@@ -1,0 +1,1 @@
+1. academic careerism; the tendency of academics (professors specifically and intellectuals generally) to pursue their own enrichment and [[psychological egoism|self]]-advancement at the expense of honest inquiry, unbiased research and dissemination of truth to their students and [[society]]^[https://en.wikipedia.org/wiki/Academic_careerism]
