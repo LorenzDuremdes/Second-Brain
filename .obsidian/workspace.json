@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5e77394894cfdbf6",
+            "id": "c2fe52f321b26cc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "academic careerism.md",
+                "file": "LibreOffice.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "academic careerism.md",
+                "file": "LibreOffice.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "altruism",
+                "query": "libreoffice",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "academic careerism.md"
+                "file": "LibreOffice.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "academic careerism.md",
+                "file": "LibreOffice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "academic careerism.md",
+                "file": "LibreOffice.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -188,10 +188,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5e77394894cfdbf6",
+  "active": "c2fe52f321b26cc2",
   "lastOpenFiles": [
-    "reciprocal altruism (evolutionary biology).md",
     "academic careerism.md",
+    "LibreOffice.md",
+    "reciprocal altruism (evolutionary biology).md",
     "effective altruism.md",
     "evolutionary biology.md",
     "enlightened self-interest.md",
@@ -215,7 +216,6 @@
     "fibronectin type III domain-containing protein 5 (FNDC5).md",
     "proteolysis.md",
     "thermogenesis.md",
-    "lipoprotein.md",
     "8335b1c7972f84d70f92824370b498c2bb7d1e4a.jpg",
     "8512267aad19cc9ce65d57be742becd6ae2f9970.jpg",
     "nmgjzl_ed4873b632a92eac4be0978aaae6bb9c4417f235.jpg",
