@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drosophila.md",
+                "file": "neuroscience.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Drosophila.md",
+                "file": "neuroscience.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "glial",
+                "query": "neuroscience",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drosophila.md"
+                "file": "neuroscience.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drosophila.md",
+                "file": "neuroscience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drosophila.md",
+                "file": "neuroscience.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -191,8 +191,8 @@
   },
   "active": "e27581a37d31b7ff",
   "lastOpenFiles": [
-    "glia.md",
     "Drosophila.md",
+    "glia.md",
     "catastrophe theory (mathematics).md",
     "chaos theory.md",
     "arrival fallacy.md",
