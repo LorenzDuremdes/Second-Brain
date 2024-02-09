@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e27581a37d31b7ff",
+            "id": "98e0848b9bbd1851",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neuroscience.md",
+                "file": "jewelry.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "neuroscience.md",
+                "file": "jewelry.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "neuroscience",
+                "query": "jewelry",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -108,8 +108,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neuroscience.md"
+                "file": "jewelry.md"
               }
             }
           },
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neuroscience.md",
+                "file": "jewelry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neuroscience.md",
+                "file": "jewelry.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -189,8 +188,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e27581a37d31b7ff",
+  "active": "98e0848b9bbd1851",
   "lastOpenFiles": [
+    "neuroscience.md",
+    "jewelry.md",
     "Drosophila.md",
     "glia.md",
     "catastrophe theory (mathematics).md",
@@ -215,8 +216,6 @@
     "circadian rhythm.md",
     "functional threshold power.md",
     "adaptive thermogenesis.md",
-    "protein kinase.md",
-    "facultative thermogenesis.md",
     "8335b1c7972f84d70f92824370b498c2bb7d1e4a.jpg",
     "8512267aad19cc9ce65d57be742becd6ae2f9970.jpg",
     "nmgjzl_ed4873b632a92eac4be0978aaae6bb9c4417f235.jpg",
