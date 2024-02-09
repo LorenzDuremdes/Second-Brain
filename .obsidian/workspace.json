@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arrival fallacy.md",
+                "file": "catastrophe theory (mathematics).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "arrival fallacy.md",
+                "file": "catastrophe theory (mathematics).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "libreoffice",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -108,7 +108,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arrival fallacy.md"
+                "file": "catastrophe theory (mathematics).md"
               }
             }
           },
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arrival fallacy.md",
+                "file": "catastrophe theory (mathematics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arrival fallacy.md",
+                "file": "catastrophe theory (mathematics).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -169,8 +170,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,8 +190,10 @@
   },
   "active": "e3e246b7b235e0d0",
   "lastOpenFiles": [
-    "hedonic treadmill.md",
+    "chaos theory.md",
+    "catastrophe theory (mathematics).md",
     "arrival fallacy.md",
+    "hedonic treadmill.md",
     "LibreOffice.md",
     "academic careerism.md",
     "reciprocal altruism (evolutionary biology).md",
@@ -214,8 +216,6 @@
     "facultative thermogenesis.md",
     "white adipose tissue.md",
     "adrenergic receptor.md",
-    "irisin.md",
-    "fibronectin type III domain-containing protein 5 (FNDC5).md",
     "8335b1c7972f84d70f92824370b498c2bb7d1e4a.jpg",
     "8512267aad19cc9ce65d57be742becd6ae2f9970.jpg",
     "nmgjzl_ed4873b632a92eac4be0978aaae6bb9c4417f235.jpg",
