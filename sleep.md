@@ -26,3 +26,7 @@
 
 # related
 1. [[phase response curve]]
+
+# research
+1. **To Read**: [Auditory stimulation of sleep slow oscillations modulates subsequent memory encoding through altered hippocampal function | SLEEP | Oxford Academic (oup.com)](https://academic.oup.com/sleep/article/41/5/zsy031/4841646)
+	1. can be used in combination with e.g. Dreem headband^[https://www.spectrumnews.org/news/capturing-autisms-sleep-problems-with-devices-nearable-and-wearable/]
