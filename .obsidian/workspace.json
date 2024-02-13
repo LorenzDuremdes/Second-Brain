@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e5b69d16cc831f59",
+            "id": "917b835eeb84ce0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sleep.md",
+                "file": "fatigue resistance (road cycling).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sleep",
+                "query": "fatigue resistance",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sleep.md",
+                "file": "fatigue resistance (road cycling).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -103,9 +102,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sleep.md",
+                "file": "fatigue resistance (road cycling).md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sleep.md"
+                "file": "fatigue resistance (road cycling).md"
               }
             }
           },
@@ -128,12 +127,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,8 +145,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e5b69d16cc831f59",
+  "active": "917b835eeb84ce0f",
   "lastOpenFiles": [
+    "stamina (endurance).md",
+    "fatigue resistance (road cycling).md",
+    "sleep.md",
     "sleep inertia.md"
   ]
 }
