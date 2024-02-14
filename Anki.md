@@ -81,6 +81,8 @@
 	1. [[mathematical model]]; a description of a [[system]] using mathematical concepts and [[language]]
 		1. only clozed the latter → I will rarely use the term "[[mathematical model]]", but it's description might make me remind of this concept
 			1. clozing the latter has a larger "area of effect"
+2. should you add "refers to..." when adding a definition e.g. "cell autonomous; (refers to) a property of cells..." + why
+	1. perhaps as it can get confused with "all cells have this property"
 # stats
 1. how to view how many past reviews you did in e.g. a month?
 	2. ![[Anki Reviews.png]]

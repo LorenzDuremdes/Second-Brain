@@ -1,0 +1,1 @@
+1. [[cell]] autonomous; refers to a property of cells whereby they act independently of surrounding cells or tissues^[https://www.genscript.com/biology-glossary/8965/cell-autonomous]
