@@ -1,0 +1,1 @@
+1. flavoprotein; proteins that contain a [[nucleic acid]] derivative of [[riboflavin]]^[https://en.wikipedia.org/wiki/Flavoprotein]

@@ -1,0 +1,3 @@
+1. cryptochrome; a class of [[flavoprotein|flavoproteins]] found in plants and animals that are sensitive to [[blue light]]^[https://en.wikipedia.org/wiki/Cryptochrome]
+2. they are involved in the [[circadian rhythm|circadian rhythms]] and the sensing of magnetic fields in a number of species
+3. the name cryptochrome was proposed as a portmanteau combining the chromatic nature of the photoreceptor, and the cryptogamic organisms on which many blue-light studies were carried out.^[https://en.wikipedia.org/wiki/Cryptochrome#cite_note-Gressel_1979-1]^[https://en.wikipedia.org/wiki/Cryptochrome#cite_note-Yang_2017-2]

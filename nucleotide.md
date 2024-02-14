@@ -1,0 +1,2 @@
+1. nucleotide; organic molecules composed of a nitrogenous base, a [[pentose]] sugar and a [[phosphate]]^[https://en.wikipedia.org/wiki/Nucleotide]
+	1. they serve as monomeric units of the [[nucleic acid]] polymers – deoxyribonucleic acid ([[DNA]]) and ribonucleic acid ([[RNA]])

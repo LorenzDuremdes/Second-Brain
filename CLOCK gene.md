@@ -1,0 +1,1 @@
+1. CLOCK (circadian locomotor output cycles kaput) [[gene]]; a [[gene]] encoding a basic helix-loop-helix-PAS transcription factor that is known to affect both the persistence and period of circadian rhythms^[https://en.wikipedia.org/wiki/CLOCK]

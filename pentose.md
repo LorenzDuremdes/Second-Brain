@@ -1,0 +1,1 @@
+1. pentose; a [[monosaccharide]] (simple sugar) with five [[carbon]] atoms.^[https://en.wikipedia.org/wiki/Pentose#cite_note-1]

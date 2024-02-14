@@ -1,0 +1,3 @@
+1. BMAL1 [[protein]]; 626 amino acids long and plays a key role as one of the positive elements in the mammalian auto-regulatory transcription-translation negative feedback loop (TTFL), which is responsible for generating molecular [[circadian rhythm]]^[https://en.wikipedia.org/wiki/Basic_helix-loop-helix_ARNT-like_protein_1]
+	1. **b**rain and **m**uscle **A**RNT-**l**ike **1**
+	2. aryl hydrocarbon receptor nuclear translocator-like [[protein]] 1 (ARNTL)

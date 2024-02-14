@@ -1,2 +1,2 @@
 1. electrolyte; a substance that produces an [[conductivity (electrolytic)|electrically conducting solution]] when dissolved in a [[solvent classifications|polar solvent]], such as [[water]]
-2. [[sodium]], potassium, chloride, calcium, magnesium, and phosphate in a [[liquid]] phase are examples of electrolytes^[https://en.wikipedia.org/wiki/Electrolyte]
+2. [[sodium]], potassium, chloride, calcium, magnesium, and [[phosphate]] in a [[liquid]] phase are examples of electrolytes^[https://en.wikipedia.org/wiki/Electrolyte]
