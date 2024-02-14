@@ -1,0 +1,1 @@
+1. dimerization ([[chemistry]]); refers to the process of joining two molecular entities by bonds^[https://en.wikipedia.org/wiki/Dimerization_(chemistry)]
