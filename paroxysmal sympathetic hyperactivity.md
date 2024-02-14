@@ -1,0 +1,1 @@
+1. paroxysmal sympathetic hyperactivity; a [[syndrome]] that causes episodes of increased activity of the [[sympathetic nervous system]]^[https://en.wikipedia.org/wiki/Paroxysmal_sympathetic_hyperactivity]
