@@ -1,0 +1,3 @@
+1. I'm reminded of all this whenever I scroll through social media posts of jacked guys running major mileage—and yes, it’s a little triggering. Because somehow, at least according to Instagram, there are a bunch of people who consistently run far and lift incredibly heavy.
+   
+   Scan through Bare’s content, and you’ll instantly know he trains. A lot. He’s posted about logging nearly 80-mile weeks running, yet he still has a superheroic chest and the sculpted arms and abs of a weight room junkie. Scroll through his YouTube feed and you'll see videos of his bodybuilding show prep. Scroll some more, and he’s prepping for an ultramarathon. It’s a non-stop cycle, and I’m almost tired just looking at it.^[https://www.menshealth.com/fitness/a45712102/hybrid-athlete/]
