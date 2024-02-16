@@ -162,7 +162,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,8 +183,9 @@
   },
   "active": "624d6a65952828e0",
   "lastOpenFiles": [
-    "transcription factor orthopedia.md",
+    "hormone.md",
     "sleep.md",
+    "transcription factor orthopedia.md",
     "eye movement desensitization and reprocessing.md",
     "NREM sleep.md",
     "shortness of breath.md",
@@ -206,7 +208,6 @@
     "hypothalamus.md",
     "hybrid athlete.md",
     "cell-autonomous oscillator.md",
-    "cell autonomous.md",
-    "Anki.md"
+    "cell autonomous.md"
   ]
 }

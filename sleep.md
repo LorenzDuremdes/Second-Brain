@@ -26,6 +26,7 @@
 
 # [[autism]]
 1. Some of the genes responsible of regulating circadian rhythms seem to be mutated or down-regulated in ASD^[https://annals-general-psychiatry.biomedcentral.com/articles/10.1186/s12991-022-00390-6#Sec1]
+	1. [[circadian rhythm|circadian]] [[hormone|hormones]] such as [[melatonin]] and [[cortisol]] were also found to be altered in ASD
 
 # related
 1. [[phase response curve]]
