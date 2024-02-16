@@ -1,0 +1,2 @@
+1. wake after [[sleep]] onset; refers to periods of wakefulness occurring after defined [[sleep onset latency|sleep onset]]^[How to interpret the results of a sleep study - PMC (nih.gov)]
+	1. WASO time is a better reflection of [[sleep fragmentation]]
