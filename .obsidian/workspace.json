@@ -8,18 +8,54 @@
         "type": "tabs",
         "children": [
           {
-            "id": "65d2d11a11d370c3",
+            "id": "db4efba96666cba2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hybrid athlete.md",
+                "file": "NR5A1.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "77d650f224c125d3",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "NR5A1.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0,
+                  "repelStrength": 20,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 0.5087618855792605,
+                  "close": false
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hybrid athlete",
+                "query": "hypothalamus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hybrid athlete.md",
+                "file": "NR5A1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hybrid athlete.md",
+                "file": "NR5A1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hybrid athlete.md"
+                "file": "NR5A1.md"
               }
             }
           },
@@ -127,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -145,10 +181,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "65d2d11a11d370c3",
+  "active": "77d650f224c125d3",
   "lastOpenFiles": [
-    "cell-autonomous oscillator.md",
+    "steroidogenic factor 1.md",
+    "NR5A1.md",
+    "transcription factor.md",
+    "DNA sequencing.md",
+    "messenger RNA.md",
+    "organism.md",
+    "critical period.md",
+    "transcription factor orthopedia.md",
+    "circadian rhythm.md",
+    "hypothalamus.md",
     "hybrid athlete.md",
+    "cell-autonomous oscillator.md",
     "cell autonomous.md",
     "Anki.md",
     "dimerization (chemistry).md",
@@ -162,16 +208,6 @@
     "electrolyte.md",
     "anaerobic energy systems.md",
     "nucleic acid.md",
-    "flavoprotein.md",
-    "riboflavin.md",
-    "derivative.md",
-    "cryptochrome.md",
-    "BMAL1 protein.md",
-    "CLOCK gene.md",
-    "paroxysmal sympathetic hyperactivity.md",
-    "task failure (road cycling).md",
-    "fatigue-dependent training.md",
-    "fatigue resistance (road cycling).md",
-    "stamina (endurance).md"
+    "flavoprotein.md"
   ]
 }

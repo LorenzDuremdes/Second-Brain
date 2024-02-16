@@ -1,4 +1,4 @@
-1. noncontingent reinforcement; refers to response-independent delivery of stimuli identified as reinforcers for some behaviors of that organism^[https://en.wikipedia.org/wiki/Reinforcement#Other_reinforcement_terms]
+1. noncontingent reinforcement; refers to response-independent delivery of stimuli identified as reinforcers for some behaviors of that [[organism]]^[https://en.wikipedia.org/wiki/Reinforcement#Other_reinforcement_terms]
 
 # examples
 1. teddy bear · kid falling

@@ -1,3 +1,3 @@
-1. genotype; an organism’s complete set of genetic material^[https://en.wikipedia.org/wiki/Genotype#cite_note-1]. Often though, genotype is used to refer to a single gene or set of genes, such as the genotype for eye color.
+1. genotype; an [[organism]]’s complete set of genetic material^[https://en.wikipedia.org/wiki/Genotype#cite_note-1]. Often though, genotype is used to refer to a single gene or set of genes, such as the genotype for eye color.
 2. **In this image we see the movement of dominant and recessive alleles through a pedigree.**^[By Unknown author - Popular Science Monthly Volume 85, Public Domain, https://commons.wikimedia.org/w/index.php?curid=21295834]
 	1. ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/PSM_V85_D332_Mendelian_splitting_of_pure_dominants_and_recessives_parents.png/640px-PSM_V85_D332_Mendelian_splitting_of_pure_dominants_and_recessives_parents.png)

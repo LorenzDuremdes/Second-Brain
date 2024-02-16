@@ -1,0 +1,2 @@
+1. steroidogenic factor 1 [[protein]];  is a [[transcription factor]] involved in [[sex]] determination by controlling the activity of genes related to the reproductive glands or gonads and adrenal glands.^[https://en.wikipedia.org/wiki/Steroidogenic_factor_1#cite_note-5]
+	1. this [[protein]] is encoded by the [[NR5A1]] gene, a member of the nuclear receptor subfamily

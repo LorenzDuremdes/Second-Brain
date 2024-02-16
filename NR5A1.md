@@ -1,0 +1,1 @@
+1. NR5A1 [[gene]]; a member of the nuclear receptor subfamily, located on the long arm of chromosome 9 at position 33.3^[https://en.wikipedia.org/wiki/Steroidogenic_factor_1]

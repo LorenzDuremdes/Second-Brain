@@ -1,3 +1,3 @@
-1. immune [[system]]; a network of [[biology|biological]] processes that protects an organism from diseases
+1. immune [[system]]; a network of [[biology|biological]] processes that protects an [[organism]] from diseases
 2. **The time-course of an immune response begins with the initial pathogen encounter, (or initial vaccination) and leads to the formation and maintenance of active immunological memory.**^[By DO11.10 - User created but based on [1]., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1616027]
 	1. ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Immune_response.jpg/640px-Immune_response.jpg)

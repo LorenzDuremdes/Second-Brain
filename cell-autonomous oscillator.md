@@ -1,4 +1,4 @@
 1. [[cell autonomous|cell-autonomous]] oscillator; refers to an ((in)dependent) internal timing mechanism within individual mammalian cells that regulates circadian rhythms^[GPT-4]
 	1. this oscillator enables cells to independently maintain and regulate their own circadian rhythms without requiring external cues from the environment or other cells
-	2. while these oscillators operate in individual cells, they are synchronized across the organism by external cues (like light and temperature) and internal signaling molecules, ensuring coherent physiological and behavioral circadian rhythms throughout the body
+	2. while these oscillators operate in individual cells, they are synchronized across the [[organism]] by external cues (like light and temperature) and internal signaling molecules, ensuring coherent physiological and behavioral circadian rhythms throughout the body
 	3. **see also**: [The role of cell-autonomous circadian oscillation of Cry transcription in circadian rhythm generation](https://www.cell.com/cell-reports/fulltext/S2211-1247(22)00461-2)

@@ -1,4 +1,4 @@
-1. extracellular [[fluid]]; all body fluid outside the [[cell|cells]] of any multicellular organism
+1. extracellular [[fluid]]; all body fluid outside the [[cell|cells]] of any multicellular [[organism]]
 # components
 ## interstitial fluid
 1. interstitial fluid; the body fluid between blood vessels and cells^[https://en.wikipedia.org/wiki/Extracellular_fluid#cite_note-Wiig_Swartz_2012_pp._1005%E2%80%931060-7]
