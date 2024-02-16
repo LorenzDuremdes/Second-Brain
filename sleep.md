@@ -3,7 +3,7 @@
 
 # improving sleep
 1. should you think about physical activities to fall asleep (e.g. tennis)?
-	1. no, because it can raise your blood pressure (i.e. simply imagining the activities)
+	1. no, because it can raise your [[blood pressure]] (i.e. simply imagining the activities)
 		1. what about dreaming about such activities → effect on sleep quality/quantity?
 
 # REM sleep

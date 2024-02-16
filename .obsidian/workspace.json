@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db4efba96666cba2",
+            "id": "624d6a65952828e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NR5A1.md",
+                "file": "shortness of breath.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "NR5A1.md",
+                "file": "shortness of breath.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -54,8 +54,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hypothalamus",
+                "query": "anxiety",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NR5A1.md",
+                "file": "shortness of breath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NR5A1.md",
+                "file": "shortness of breath.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NR5A1.md"
+                "file": "shortness of breath.md"
               }
             }
           },
@@ -181,10 +180,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "77d650f224c125d3",
+  "active": "624d6a65952828e0",
   "lastOpenFiles": [
-    "steroidogenic factor 1.md",
+    "exercise intolerance.md",
+    "shortness of breath.md",
+    "tachycardia.md",
+    "orthostatic hypotension.md",
+    "blood pressure.md",
+    "dysautonomia.md",
+    "anxiety.md",
+    "feeling.md",
+    "hypotension.md",
     "NR5A1.md",
+    "steroidogenic factor 1.md",
     "transcription factor.md",
     "DNA sequencing.md",
     "messenger RNA.md",
@@ -199,15 +207,6 @@
     "Anki.md",
     "dimerization (chemistry).md",
     "nucleotide.md",
-    "RNA.md",
-    "genetic code.md",
-    "monosaccharide.md",
-    "pentose.md",
-    "phosphate.md",
-    "phosphocreatine.md",
-    "electrolyte.md",
-    "anaerobic energy systems.md",
-    "nucleic acid.md",
-    "flavoprotein.md"
+    "RNA.md"
   ]
 }

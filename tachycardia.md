@@ -1,0 +1,1 @@
+1. tachycardia; a [[heart rate]] that exceeds the normal resting rate.^[https://en.wikipedia.org/wiki/Tachycardia#cite_note-Ware2006-1]

@@ -1,0 +1,2 @@
+1. exercise intolerance; a condition of inability or decreased ability to perform [[physical exercise]] at the normally expected level or duration for people of that age, size, sex, and muscle mass.^[https://en.wikipedia.org/wiki/Exercise_intolerance#cite_note-:2-1]
+	1. exercise intolerance is not a disease or syndrome in and of itself, but can result from various disorders

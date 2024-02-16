@@ -30,4 +30,4 @@
 	1. the former increases activity in the latter
 
 # history
-1. eye movement desensitization and reprocessing (history); she (Francine Shapiro) further noted that her anxiety was reduced when she brought her eye movements under voluntary control while thinking a traumatic thought^[https://en.wikipedia.org/wiki/Eye_movement_desensitization_and_reprocessing#History]
+1. eye movement desensitization and reprocessing (history); she (Francine Shapiro) further noted that her [[anxiety]] was reduced when she brought her eye movements under voluntary control while thinking a traumatic thought^[https://en.wikipedia.org/wiki/Eye_movement_desensitization_and_reprocessing#History]

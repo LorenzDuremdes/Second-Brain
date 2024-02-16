@@ -1,0 +1,1 @@
+1. orthostatic [[hypotension]]; a medical condition wherein a person's [[blood pressure]] drops when standing up or sitting down^[https://en.wikipedia.org/wiki/Orthostatic_hypotension]
