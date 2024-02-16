@@ -15,9 +15,9 @@
 1. 1. faster-twitch muscle fibers → MEV^[How Much Should I Train by Dr. Mike Israetel and Dr. James Hoffmann, p. 35]
 	1. faster twitch fibers tend to exhibit lower MEVs
 
-## sleep
-1. sleep → MEV
-	1. better sleep lowers the latter
+## [[sleep]]
+1. [[sleep]] → MEV
+	1. better [[sleep]] lowers the latter
 	2. same with optimal nutrition and other recovery modalities
 
 		also increases MRV (beneficial)^[How Much Should I Train by Dr. Mike Israetel and Dr. James Hoffmann, p. 36]

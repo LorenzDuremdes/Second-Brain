@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shortness of breath.md",
+                "file": "sleep.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "shortness of breath.md",
+                "file": "sleep.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "anxiety",
+                "query": "sleep",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shortness of breath.md",
+                "file": "sleep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,8 +138,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shortness of breath.md",
-                "linksCollapsed": false,
+                "file": "sleep.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "shortness of breath.md"
+                "file": "sleep.md"
               }
             }
           },
@@ -161,8 +162,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,8 +182,12 @@
   },
   "active": "624d6a65952828e0",
   "lastOpenFiles": [
-    "exercise intolerance.md",
+    "transcription factor orthopedia.md",
+    "sleep.md",
+    "eye movement desensitization and reprocessing.md",
+    "NREM sleep.md",
     "shortness of breath.md",
+    "exercise intolerance.md",
     "tachycardia.md",
     "orthostatic hypotension.md",
     "blood pressure.md",
@@ -198,15 +202,11 @@
     "messenger RNA.md",
     "organism.md",
     "critical period.md",
-    "transcription factor orthopedia.md",
     "circadian rhythm.md",
     "hypothalamus.md",
     "hybrid athlete.md",
     "cell-autonomous oscillator.md",
     "cell autonomous.md",
-    "Anki.md",
-    "dimerization (chemistry).md",
-    "nucleotide.md",
-    "RNA.md"
+    "Anki.md"
   ]
 }
