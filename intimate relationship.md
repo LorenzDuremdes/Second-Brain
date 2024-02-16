@@ -40,7 +40,7 @@
 	2. why?
 		1. probably because it enables her to exhibit a wider range of behavior (due to her having more [[trust]] in him)
 		2. a higher [[trust]] is often justified (e.g. you usually don't [[trust]] a partner as much who's abusive)
-		3. tend-and-befriend → [[women]] show a lowering of cortisol than [[men]] during [[stress]]
+		3. tend-and-befriend → [[women]] show a lowering of [[cortisol]] than [[men]] during [[stress]]
 
 # processes
 1. happy vs. unhappy couples → [[information]] pool^[The science of [[trust]]: emotional attunement for couples, p. 459]

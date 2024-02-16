@@ -1,0 +1,1 @@
+1. processes with 24-hour cycles are more generally called diurnal rhythms; diurnal rhythms should not be called [[circadian rhythm|circadian rhythms]] unless they can be confirmed as [[endogeny (biology)|endogenous]], and not environmental.^[https://en.wikipedia.org/wiki/Circadian_rhythm#cite_note-Vitaterna_2001-3]

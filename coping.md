@@ -10,4 +10,4 @@
 
 ### physiology
 1. male ↮ female · [[tend and befriend]] ↮ [[acute stress response]] (physiology)^[https://en.wikipedia.org/wiki/Coping#cite_note-Wang-53]
-	1. Cortisol, a [[stress]] hormone, was found to be elevated in males during stressful situations. In females, however, cortisol levels were decreased in stressful situations, and instead, an increase in limbic activity was discovered. Many researchers believe that these results underlie the reasons why men administer a fight-or-flight reaction to [[stress]]; whereas, females have a tend-and-befriend reaction.
+	1. [[Cortisol]], a [[stress]] hormone, was found to be elevated in males during stressful situations. In females, however, [[cortisol]] levels were decreased in stressful situations, and instead, an increase in limbic activity was discovered. Many researchers believe that these results underlie the reasons why men administer a fight-or-flight reaction to [[stress]]; whereas, females have a tend-and-befriend reaction.
