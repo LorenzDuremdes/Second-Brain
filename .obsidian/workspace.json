@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "643b78f57a3496ec",
+            "id": "8e277381fd631d84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dehydration.md",
+                "file": "home cinema.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dehydration.md",
+                "file": "home cinema.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dehydration",
+                "query": "home cinema",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dehydration.md",
+                "file": "home cinema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dehydration.md",
+                "file": "home cinema.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dehydration.md"
+                "file": "home cinema.md"
               }
             }
           },
@@ -180,10 +180,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "643b78f57a3496ec",
+  "active": "8e277381fd631d84",
   "lastOpenFiles": [
-    "VO2 max.md",
     "dehydration.md",
+    "home cinema.md",
+    "VO2 max.md",
     "wake after sleep offset.md",
     "wake after sleep onset.md",
     "depression.md",
@@ -206,7 +207,6 @@
     "anxiety.md",
     "feeling.md",
     "hypotension.md",
-    "NR5A1.md",
-    "steroidogenic factor 1.md"
+    "NR5A1.md"
   ]
 }
