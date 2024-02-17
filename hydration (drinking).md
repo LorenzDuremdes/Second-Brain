@@ -1,23 +1,23 @@
 1. [[perspiration|sweat rates]] exceeding 1 liter per hour are typical during moderate exercise^[Cutting-Edge Cycling, p. 243]
 
-# dehydration
+# [[dehydration]]
 1. hypohydration
-	1. a continued state of dehydration^[Cutting-Edge Cycling, p. 247]
+	1. a continued state of [[dehydration]]^[Cutting-Edge Cycling, p. 247]
 ## [[physiology]]
 1. when does the thirst response activate?
-	2. an involuntary dehydration of 2 percent or more of body weight may occur before a strong drinking response occur^[Cutting-Edge Cycling, p. 243]
-2. resting [[heart]] rate and core temperatures progressively increase with increasing levels of dehydration (Sawka et al. 1985).^[Cutting-Edge Cycling, p. 244]
+	2. an involuntary [[dehydration]] of 2 percent or more of body weight may occur before a strong drinking response occur^[Cutting-Edge Cycling, p. 243]
+2. resting [[heart]] rate and core temperatures progressively increase with increasing levels of [[dehydration]] (Sawka et al. 1985).^[Cutting-Edge Cycling, p. 244]
 	1. why?
 		1. because of the strong demand by the [[skeletal muscle|muscles]] for [[blood]] to maintain pedaling force, [[blood]] flow to other systems in the body may be reduced to maintain adequate [[blood]] pressure and [[blood]] flow back to the [[heart]]
 			1. e.g. core → temperature increases
-3. dehydration → skin [[blood]] flow
+3. [[dehydration]] → skin [[blood]] flow
 	1. skin [[blood]] flow diminishes
 		1. propagation → apart from sweating, skin [[blood]] flow is another important pathway for the body to get rid of extra heat^[Cutting-Edge Cycling, p. 244]
 		2. reduced skin [[blood]] flow causes e.g. higher core temperatures
-4. shunting → dehydration
+4. shunting → [[dehydration]]
 	1. [[blood]] flow to the digestive system, including the stomach, intestines, and kidneys, diminishes, impairing the ability of the body to take in additional [[food]] and [[fluid]] during exercise^[Cutting-Edge Cycling, p. 244]
-5. dehydration → [[lipopolysaccharide]]
-	1. dehydration (and redistribution of [[blood]] e.g. shunting) can cause [[endotoxemia]]
+5. [[dehydration]] → [[lipopolysaccharide]]
+	1. [[dehydration]] (and redistribution of [[blood]] e.g. shunting) can cause [[endotoxemia]]
 		1. has been associated with impaired muscle function (Supinski et al. 2000) and may produce an inflammatory response in the body that contributes to exercise fatigue, especially in the heat (Lambert 2004).^[Cutting-Edge Cycling, 245]
 6. heat stress → [[blood]]-[[brain]] barrier^[Cutting-Edge Cycling, p. 245]
 	1. the [[blood]]–[[brain]] barrier, which protects the [[brain]] from being exposed to damaging substances in the [[blood]], may become leakier (Watson et al. 2005)
@@ -28,24 +28,24 @@
 		1. this degree of dilution of the [[blood]] may produce dangerous swelling of the [[central nervous system]]
 
 ### [[VO2 max]]
-1. how can dehydration lower VO<sub>2</sub>max?
+1. how can [[dehydration]] lower VO<sub>2</sub>max?
 	1. stroke volume decreases due to less [[plasma]] volume (being used as sweat), which reduces VO<sub>2</sub>max^[The Time-Crunched Cyclist: Race-Winning Fitness in 6 Hours a Week, 3rd Edition, p. 45]
-2. how can dehydration increase RPE at same intensity when hydrated?
+2. how can [[dehydration]] increase RPE at same intensity when hydrated?
 	1. lower [[VO2 max]] makes any given intensity a higher percentage of your [[VO2 max]] and [[lactate threshold]]^[The Time-Crunched Cyclist: Race-Winning Fitness in 6 Hours a Week, 3rd Edition, p. 45]
 
 ## performance
 1. hydration during exercise → recovery
-	1. riders can tolerate mild dehydration during exercise to a certain extent, but too much of a deficit during exercise eventually impairs performance and makes it harder to recover adequately for subsequent training^[Cutting-Edge Cycling, p. 244]
+	1. riders can tolerate mild [[dehydration]] during exercise to a certain extent, but too much of a deficit during exercise eventually impairs performance and makes it harder to recover adequately for subsequent training^[Cutting-Edge Cycling, p. 244]
 2. 
 3. Eight well-trained male cyclists consumed either 2.4 liters of a 7 percent carbohydrate drink or .4 liter of [[water]] with sufficient gels to provide equal carbohydrate consumption during a 2-hour endurance ride in a 30 °C lab temperature. The subjects then rode to exhaustion at 88 percent of maximal aerobic power. As expected, body weight was lower with the gel condition. **These subjects were 1.9 kilograms lighter** because of their low [[fluid]] intake, and a lower power output was sufficient for them to maintain a constant speed.^[Cutting-Edge Cycling, p. 249]
-4. can dehydration improve the power-to-weight ratio? + why
-	1. overall, any power-to-weight advantage from voluntary dehydration was offset by the physiological and performance impairment^[Cutting-Edge Cycling, p. 249]
+4. can [[dehydration]] improve the power-to-weight ratio? + why
+	1. overall, any power-to-weight advantage from voluntary [[dehydration]] was offset by the physiological and performance impairment^[Cutting-Edge Cycling, p. 249]
 	2. **see also:** nidd1611256812790
-5. when do dehydration effects impair **aerobic** capacity?^[Cutting-Edge Cycling, p. 250]
-	1. >2% body weight dehydration
+5. when do [[dehydration]] effects impair **aerobic** capacity?^[Cutting-Edge Cycling, p. 250]
+	1. >2% body weight [[dehydration]]
 		1. especially with exercise in heat
-6. when do dehydration effects impair **anaerobic** performance?
-	1. 3–5% of body weight dehydration^[Cutting-Edge Cycling, p. 250]
+6. when do [[dehydration]] effects impair **anaerobic** performance?
+	1. 3–5% of body weight [[dehydration]]^[Cutting-Edge Cycling, p. 250]
 
 ### strength vs. endurance
 1. a sustained state of lower [[fluid balance]] can impair **strength, power, and high-intensity [[muscular endurance]]** by 2, 3, and 10 percent, respectively^[Judelson et al. (2007)]^[Cutting-Edge Cycling, p. 247]
@@ -53,7 +53,7 @@
 		1. lower [[fluid balance]] → more important in (high-intensity) [[muscular endurance]]?
 		2. intramuscular hydration ↔ plasma osmolality
 			1. research has indicated a correlation between reduction in intramuscular hydration (water in muscle cells) and reduced plasma osmolality^[The Time-Crunched Cyclist: Race-Winning Fitness in 6 Hours a Week, 3rd Edition, p. 45]
-	2. dehydration affects endurance athletes more^[The Time-Crunched Cyclist: Race-Winning Fitness in 6 Hours a Week, 3rd Edition, p. 45]
+	2. [[dehydration]] affects endurance athletes more^[The Time-Crunched Cyclist: Race-Winning Fitness in 6 Hours a Week, 3rd Edition, p. 45]
 		1. **why**? muscles cells retain a large portion of their water content even with large increases in plasma osmolality^[Pitcavage et al. 1962]^[The Time-Crunched Cyclist: Race-Winning Fitness in 6 Hours a Week, 3rd Edition, p. 45]
 2. why are strength athletes more easily able to cut water weight as opposed to endurance athletes?
 	1. The other reason is that wrestlers, boxers, and mixed martial arts fighters have time to partially **rehydrate between weigh-ins and competition**. So, while athletes may “make weight” on the scale, in the time between weigh-ins and competition they can ingest fluids to at least partially rehydrate themselves. This will increase their actual weight, but weight gain in this manner is allowed within the rules.^[The Time-Crunched Cyclist: Race-Winning Fitness in 6 Hours a Week, 3rd Edition]
@@ -69,7 +69,7 @@
 3. average hydration per hour^[Cutting-Edge Cycling, p. 253]
 	1. .4 to .8 liter per hour
 		1. large individuals who are heavy sweaters and are exercising in the heat may lean toward the higher end of this range, and small individuals who are exercising at low intensities in a cool environment may aim toward the lower rate
-		2. should be below sweating rates to e.g. prevent [[hyponatremia]] while avoiding ≥2% bodyweight dehydration
+		2. should be below sweating rates to e.g. prevent [[hyponatremia]] while avoiding ≥2% bodyweight [[dehydration]]
 ## content
 1. in one of the few studies that looked at voluntary drinking behavior in humans, a [[water]] temperature of 15 °C had the highest consumption rate in subjects who were allowed to choose the [[water]] temperature (Boulze et al. 1983)^[Cutting-Edge Cycling, p. 253]
 2. cooling and flavoring drinks increased the consumption rate; consumption of flavored [[water]] at 15 °C was 120 percent greater than consumption of unflavored [[water]] at 40 °C (Hubbard et al. 1984)^[Cutting-Edge Cycling, p. 253]
@@ -89,7 +89,7 @@
 
 		Namely, self-paced effort may be selected by a “smart sensor” somewhere in the [[brain]] that integrates input from throughout the body. The presence of carbohydrate may trigger sensors in the mouth to relay positive information to the [[brain]] and allow it to select a higher pace.
 		
-		Given such findings, even in cool temperatures in which dehydration or heat stress is not a major concern, it maybe worthwhile to try a small bottle of [[sports drink]] or a gel immediately before or during short and high-intensity events of 60 to 90 minutes, including time trials, cyclocross, and many mountain biking events.^[Cutting-Edge Cycling, p. 256]
+		Given such findings, even in cool temperatures in which [[dehydration]] or heat stress is not a major concern, it maybe worthwhile to try a small bottle of [[sports drink]] or a gel immediately before or during short and high-intensity events of 60 to 90 minutes, including time trials, cyclocross, and many mountain biking events.^[Cutting-Edge Cycling, p. 256]
 		1. **related**: [[central governor]]
 ## [[physiology]]
 1. how long till [[fluid]] enters the bloodstream (when not physically exercising)?^[Cutting-Edge Cycling, p. 257]
@@ -99,7 +99,7 @@
 2. why does the book "Cutting-Edge Cycling (p. 257)" suggest to drink early on?
 	1. As previously noted, however, high volumes of unabsorbed [[fluid]] in the stomach may also lead to gastric discomfort. You may need to begin drinking early in a long ride because the reduced [[blood]] flow to the digestive system can inhibit the rate of [[gastric emptying]] (Rowell 1974).
 # overhydration
-1. symptoms of overhydration (especially combined with [[physical exercise]] and heat) are similar to symptoms of dehydration^[Cutting-Edge Cycling, p. 251]
+1. symptoms of overhydration (especially combined with [[physical exercise]] and heat) are similar to symptoms of [[dehydration]]^[Cutting-Edge Cycling, p. 251]
 2. hyperhydration → dilute [[plasma]] [[sodium]] → enhance the risk of dilutional [[hyponatremia]]^[Cutting-Edge Cycling, p. 260]
 3. how does [[glycerol]] solution increase the risk of hyperhydration?
 	1. [[glycerol]] solution aids in the retention of [[fluid]]^[Cutting-Edge Cycling, p. 260]
@@ -112,7 +112,7 @@
 1. assessing hydration status via "body weight_morning" or "following exercising" has high practicality but low reliability^[Cutting-Edge Cycling, p. 258]
 2. assessing hydration status via "urine color" has a high practicality^[Cutting-Edge Cycling, p. 258]
 	1. the closer to "very pale yellow" the more well hydrated
-	2. brownish green indicates dehydration
+	2. brownish green indicates [[dehydration]]
 3. assessing hydration status via "urine specific gravity" has high practicality^[Cutting-Edge Cycling, p. 258]
 	1. main use for chronic rather than acute hydration assessment
 	2. normal hydration threshold = <1020 grams per milliliter
