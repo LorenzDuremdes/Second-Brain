@@ -1,2 +1,4 @@
 1. [[physical exercise]] → gastric emptying + why
 	1. [[physical exercise]] reduces rate of gastric emptying due to reduced [[blood]] flow to organs (shunting)^[Cutting-Edge Cycling, p. 257]
+2. The gastric emptying of **[[water]] and other inert, non-caloric fluids** is described as following an extremely fast exponential curve with a mean half-[[time]] of approximately 10 minutes. This indicates that the volume of these fluids in the stomach decreases by half every 10 minutes under normal conditions^[GPT-4]^[https://onlinelibrary.wiley.com/doi/full/10.1111/j.1399-6576.2005.00781.x]
+	1. The gastric emptying curve for **solids** is linear, with solid [[food]] starting to empty from the stomach approximately 1 hour after eating. Within 2 hours, about 50% of the solid [[food]] ingested has passed to the duodenum. The rate at which solids empty from the stomach is independent of the amount of [[food]] ingested but depends on the caloric density of the meal.

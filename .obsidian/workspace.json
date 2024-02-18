@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dehydration.md",
+                "file": "gastric emptying.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dehydration.md",
+                "file": "gastric emptying.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dehydration",
+                "query": "gastric em",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dehydration.md",
+                "file": "gastric emptying.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dehydration.md",
+                "file": "gastric emptying.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dehydration.md"
+                "file": "gastric emptying.md"
               }
             }
           },
@@ -183,8 +183,8 @@
   },
   "active": "8e277381fd631d84",
   "lastOpenFiles": [
-    "home cinema.md",
     "dehydration.md",
+    "home cinema.md",
     "VO2 max.md",
     "wake after sleep offset.md",
     "wake after sleep onset.md",
