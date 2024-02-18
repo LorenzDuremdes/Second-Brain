@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home cinema.md",
+                "file": "dehydration.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "home cinema.md",
+                "file": "dehydration.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "home cinema",
+                "query": "dehydration",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home cinema.md",
+                "file": "dehydration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home cinema.md",
+                "file": "dehydration.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home cinema.md"
+                "file": "dehydration.md"
               }
             }
           },
@@ -182,8 +183,8 @@
   },
   "active": "8e277381fd631d84",
   "lastOpenFiles": [
-    "dehydration.md",
     "home cinema.md",
+    "dehydration.md",
     "VO2 max.md",
     "wake after sleep offset.md",
     "wake after sleep onset.md",
