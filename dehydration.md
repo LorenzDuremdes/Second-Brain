@@ -5,6 +5,6 @@
   
 It is however not clear how these variables would be affected by milder hypohydration levels (1–2%)^[https://onlinelibrary.wiley.com/doi/book/10.1002/9781118692318] > ^[https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118692318.ch15]
 2. dehydration → [[heart rate]]
-	1. ~4.06% dehydration results in 81–86 beats/min (at 48 °C first 5 hours) compared to 65 beats/min at 28 °C^[GPT-4]^[Cardiovascular adjustments rogressive dehydration, DONALD H. HORSTMAN AND STEVEN M. HORVATH]
+	1. ~4.06% (~3.16 kg) dehydration results in 81–86 beats/min (at 48 °C first 5 hours) compared to 65 beats/min at 28 °C^[GPT-4]^[Cardiovascular adjustments rogressive dehydration, DONALD H. HORSTMAN AND STEVEN M. HORVATH]
 	2. **[[cardiac output]]** was maintained at about 10 liters/min during the entire exposure (7 hours), which is twice the control value observed during exposure at 28°C (5.1 liters/min)
 	3. **stroke volume** was maintained between 107 and 124 ml/beat throughout the exposure, representing a 50% increase over the control value of 80 ml/beat at 28°C
