@@ -13,8 +13,13 @@
 	1. FTP=average watts·0.9 (same with "[[functional threshold heart rate|FTHR]]")
 2. CTS = Carmichael Training Systems, author of "The Time-Crunched Cyclist: Race-Winning Fitness in 6 Hours a Week, 3rd Edition"
 
-# miscellaneous
+# improvements besides FTP
 1. FTP can stay flat but you can make huge improvements everywhere else^[https://www.reddit.com/r/Velo/comments/w93xtn/comment/iht4ilf/?utm_source=share&utm_medium=web2x&context=3]
+2. [[stamina (endurance)]]
+3. e.g. [[fatigue resistance (road cycling)]], [[chronic training load]]
+4. e.g. W/kg / [[aerodynamics (road cycling)|W/CdA]], [[sprint (road cycling)]], [[anaerobic capacity]]
+5. e.g. [[sleep]], [[nutrition (road cycling)]], [[psychological stress]]
+6. [[stimulus-to-fatigue ratio]] e.g. [[blood flow restriction training]]
 
 # related
 1. [[road cycling]]
