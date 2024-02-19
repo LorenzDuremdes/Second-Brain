@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "functional threshold power.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76e8575480cd95b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sprint (road cycling).md",
+                "file": "blood flow restriction training.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "functional threshold power.md",
+                "file": "blood flow restriction training.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -95,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "functional threshold power",
+                "query": "blood flow re",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "functional threshold power.md",
+                "file": "blood flow restriction training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "functional threshold power.md",
+                "file": "blood flow restriction training.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "functional threshold power.md"
+                "file": "blood flow restriction training.md"
               }
             }
           },
@@ -195,8 +183,10 @@
   },
   "active": "8e277381fd631d84",
   "lastOpenFiles": [
-    "sprint (road cycling).md",
+    "circulatory system.md",
+    "blood flow restriction training.md",
     "functional threshold power.md",
+    "sprint (road cycling).md",
     "gastric emptying.md",
     "dehydration.md",
     "home cinema.md",
@@ -218,8 +208,6 @@
     "exercise intolerance.md",
     "tachycardia.md",
     "orthostatic hypotension.md",
-    "blood pressure.md",
-    "dysautonomia.md",
-    "anxiety.md"
+    "blood pressure.md"
   ]
 }
