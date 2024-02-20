@@ -18,3 +18,4 @@
 4. [EZ Aero Chainring Guard 3-5 Watt Saving – EZ Gains Ltd](https://ezgains.co.uk/products/ez-aero-chainring-cover-1) €123.95
 5. [EZ Aero Front Derailleur Guard save 2-5.8 Watts – EZ Gains Ltd](https://ezgains.co.uk/products/ez-aero-front-derailleur-guard-save-2-6-watts) €106.95
 7. [Aero Gloves – Aero Cycling Gear](https://www.aerocyclinggear.nl/products/aero-gloves) €39.95
+8. [FUTURUM Face Mask Merino (Futurumshop.nl)](https://www.futurumshop.nl/futurum-face-mask-merino.phtml) €30.99 (Specialized 2023 S-Works TT 5 Team)
