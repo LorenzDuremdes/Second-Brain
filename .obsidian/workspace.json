@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blood flow restriction training.md",
+                "file": "fatigue resistance (road cycling).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "blood flow restriction training.md",
+                "file": "fatigue resistance (road cycling).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blood flow re",
+                "query": "fatigue resistance",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blood flow restriction training.md",
+                "file": "fatigue resistance (road cycling).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blood flow restriction training.md",
+                "file": "fatigue resistance (road cycling).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blood flow restriction training.md"
+                "file": "fatigue resistance (road cycling).md"
               }
             }
           },
@@ -183,8 +183,8 @@
   },
   "active": "8e277381fd631d84",
   "lastOpenFiles": [
-    "circulatory system.md",
     "blood flow restriction training.md",
+    "circulatory system.md",
     "functional threshold power.md",
     "sprint (road cycling).md",
     "gastric emptying.md",

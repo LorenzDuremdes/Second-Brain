@@ -3,6 +3,8 @@
 3. reasons why you personally want to increase fatigue resistance:
 	1. something besides just merely e.g. FTP (which has a genetic limit as well)
 	2. allows you to recover faster and/or train more (e.g. more higher intensity → higher CTL)
+3. at what intensity do you personally like to test fatigue resistance + why
+	1. lower Z5 (~105%), because you want to estimate whether you can still reliably tap into your dFRC at the end of a [[time trial]] (e.g. headwind/hill/start-stop/corner somewhere at the end)
 
 # related
 1. [[stamina (endurance)]] / [[fractional utilization]]
