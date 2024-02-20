@@ -1,0 +1,1 @@
+1. a smaller Q-factor *could* improve CdA^[https://youtu.be/LzJUDSy3DDI?t=650]
