@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neonate.md",
+                "file": "autism.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "neonate.md",
+                "file": "autism.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "biopsychology",
+                "query": "fusiform ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "neonate.md",
+                "file": "autism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "neonate.md",
+                "file": "autism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "neonate.md"
+                "file": "autism.md"
               }
             }
           },
@@ -183,10 +183,11 @@
   },
   "active": "bb6252c0c04b33c1",
   "lastOpenFiles": [
-    "neonatal irritable sleep-wake rhythm.md",
-    "neonate.md",
-    "chronotype.md",
+    "fusiform gyrus.md",
     "autism.md",
+    "neonate.md",
+    "neonatal irritable sleep-wake rhythm.md",
+    "chronotype.md",
     "vanillylmandelic acid.md",
     "dynamic-maturational model of attachment and adaptation.md",
     "diathesis-stress model.md",
@@ -207,7 +208,6 @@
     "wake after sleep onset.md",
     "depression.md",
     "sleep fragmentation.md",
-    "diurnal rhythm.md",
-    "circadian rhythm.md"
+    "diurnal rhythm.md"
   ]
 }

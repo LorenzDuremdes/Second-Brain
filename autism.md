@@ -34,17 +34,20 @@
 	1. no e.g. some people are now getting the diagnosis of social [[communication]] disorder (instead of e.g. PDD-NOS) → the specificity of classification increased, in this example^[https://www.autismspeaks.org/dsm-5-and-autism-frequently-asked-questions]
 # [[neuroscience]]
 ## [[behavioral neuroscience]]
-1. autism · vanillylmandelic acid
+1. autism · [[vanillylmandelic acid]]
 	1. children with ASD showed higher sympathetic activity, as indicated by increased urinary VMA levels, compared to TD children^[Comparison of Physiological and Biochemical Autonomic Indices in Children with and without Autism Spectrum Disorders (2019), GPT-4](https://www.mdpi.com/1648-9144/55/7/346)]
 
+### [[sleep]]
+1. dominance analysis revealed that objective [[sleep]] and [[circadian rhythm|circadian]] measures together explain 17% to 36% of the variance in these behavioral issues, emphasizing the critical role of [[sleep]] quality, specifically the duration of uninterrupted [[sleep]], in the daily functioning of children with ASD^[JCM | Free Full-Text | Disturbances of Continuous Sleep and Circadian Rhythms Account for Behavioral Difficulties in Children with Autism Spectrum Disorder (mdpi.com), GPT-4](https://www.mdpi.com/2077-0383/9/6/1978)
+
 ## [[neurophysiology]]
-1. autism → fusiform [[gyrus]] · difficulties
+1. autism → [[fusiform gyrus]] · difficulties
 	1. may cause difficulties in face, voice, and word perception
 
 ### [[dynamic functional connectivity]]
 1. [[dynamic functional connectivity]] → autism
 	1. research into causes has been hampered by the inability to identify biologically meaningful subgroups within the autistic population^[https://en.wikipedia.org/wiki/Autism#cite_note-109] and by the traditional boundaries between the disciplines of psychiatry, [[psychology]], neurology and pediatrics.^[https://en.wikipedia.org/wiki/Autism#cite_note-110]
-	2. newer technologies such as fMRI and diffusion tensor imaging can help identify biologically relevant phenotypes (observable traits) that can be viewed on [[brain]] scans, to help further neurogenetic studies of autism;^[https://en.wikipedia.org/wiki/Autism#cite_note-111] one example is lowered activity in the fusiform face area of the [[brain]], which is associated with impaired perception of people versus objects.^[https://en.wikipedia.org/wiki/Autism#cite_note-Lev2009-20]
+	2. newer technologies such as fMRI and diffusion tensor imaging can help identify biologically relevant phenotypes (observable traits) that can be viewed on [[brain]] scans, to help further neurogenetic studies of autism;^[https://en.wikipedia.org/wiki/Autism#cite_note-111] one example is lowered activity in the [[fusiform face area]] of the [[brain]], which is associated with impaired perception of people versus objects.^[https://en.wikipedia.org/wiki/Autism#cite_note-Lev2009-20]
 	3. it has been proposed to classify autism using genetics as well as behavior.^[https://en.wikipedia.org/wiki/Autism#cite_note-112] → [[biological specificity]]
 
 ## neurodiversity
