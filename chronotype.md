@@ -1,0 +1,2 @@
+1. chronotype; the behavioral manifestation of underlying [[circadian rhythm]]'s myriad of physical processes^[https://en.wikipedia.org/wiki/Chronotype]
+	1. a person's chronotype is the propensity for the individual to [[sleep]] at a particular [[time]] during a 24-hour period
