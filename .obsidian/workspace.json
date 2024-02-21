@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vasili Design.md",
+                "file": "aerodynamics (road cycling).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Vasili Design.md",
+                "file": "aerodynamics (road cycling).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vasili Design.md",
+                "file": "aerodynamics (road cycling).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vasili Design.md",
+                "file": "aerodynamics (road cycling).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vasili Design.md"
+                "file": "aerodynamics (road cycling).md"
               }
             }
           },
@@ -182,8 +182,8 @@
   },
   "active": "7a4e390b66b3931a",
   "lastOpenFiles": [
-    "aerodynamics (road cycling).md",
     "Vasili Design.md",
+    "aerodynamics (road cycling).md",
     "domination analysis.md",
     "autism.md",
     "fusiform gyrus.md",
