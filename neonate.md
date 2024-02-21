@@ -1,0 +1,1 @@
+1. neonate; an [[infant]] in the first 28 days after birth^[https://en.wikipedia.org/wiki/Infant#cite_note-mwn-2]
