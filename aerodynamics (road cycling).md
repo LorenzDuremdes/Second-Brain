@@ -8,12 +8,12 @@
 1. [Encapsulator TT Suit for cyclists. Riding suit optimised for TT position (drag2zero.co.uk)](https://drag2zero.co.uk/product/encapsulator-tt-suit/?v=796834e7a283) £366.65
 	1. [Endura D2Z SS Tijdproef Jersey Heren | Bikester.nl](https://www.bikester.nl/endura-d2z-ss-tijdproef-jersey-heren-M884202.html) €60.99
 	2. [Long Sleeve Aero Jersey | Rule 28](https://www.rule28.com/products/long-sleeve-aero-jersey) €178.95 (**cheaper alternative** is Aero Jersey (Rule 28) for €59.95 + Aero Arm Sleeves (Aero Cycling Gear) for €28.95)
-	3. [Aero Jersey | Rule 28](https://www.rule28.com/products/aero-jersey) €56.95
+	3. [Aero Jersey | Rule 28](https://www.rule28.com/products/aero-jersey) €56.95 + Aero Arm Sleeves (Aero Cycling Gear)
+		1. [Aero Arm Sleeves – Aero Cycling Gear](https://www.aerocyclinggear.nl/products/aero-arm-sleeves) €28.95
+			1. [Aero Sleeves | Rule 28](https://www.rule28.com/products/aero-sleeves) €41.95
 	4. **cheaper alternative**: [PRO AERO SPEEDSUIT Double Number and Double Gel (Velotec)](https://www.velotec.cc/products/long-sleeve-aero-speedsuit?variant=47050627481946) €130 with Aero Leg Warmers / NON UCI AERO OVERSHOES (Rule 28)
 		1. [Non UCI Aero Overshoes - Rule 28](https://www.rule28.com/products/non-uci-aero-overshoes?variant=39433246441547) €47.95 (in combination with Aero Leg Warmers (Rule 28))
-			1. [Aero Leg Warmers | Rule 28](https://www.rule28.com/products/aero-leg-warmers?variant=44290112454944) €53.95
-2. [Aero Arm Sleeves – Aero Cycling Gear](https://www.aerocyclinggear.nl/products/aero-arm-sleeves) €28.95
-	1. [Aero Sleeves | Rule 28](https://www.rule28.com/products/aero-sleeves) €41.95
+		1. [Aero Leg Warmers | Rule 28](https://www.rule28.com/products/aero-leg-warmers?variant=44290112454944) €53.95
 ---
 1. [EZ Disc Cover (700c) - 10-15 Watt Saving – EZ Gains Ltd](https://ezgains.co.uk/products/disc-cover-700c-1) €213.95
 2. [EZ Aero Chainring Guard 3-5 Watt Saving – EZ Gains Ltd](https://ezgains.co.uk/products/ez-aero-chainring-cover-1) €123.95
