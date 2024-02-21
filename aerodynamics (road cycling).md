@@ -9,12 +9,12 @@
 	1. [Endura D2Z SS Tijdproef Jersey Heren | Bikester.nl](https://www.bikester.nl/endura-d2z-ss-tijdproef-jersey-heren-M884202.html) €60.99
 	2. [Long Sleeve Aero Jersey | Rule 28](https://www.rule28.com/products/long-sleeve-aero-jersey) €178.95 (**cheaper alternative** is Aero Jersey (Rule 28) for €59.95 + Aero Arm Sleeves (Aero Cycling Gear) for €28.95)
 	3. [Aero Jersey | Rule 28](https://www.rule28.com/products/aero-jersey) €56.95
-	4. **cheaper alternative**: [PRO AERO SPEEDSUIT Gel Pocket (Velotec)](https://www.velotec.cc/collections/mens-speedsuits/products/long-sleeve-aero-speedsuit?variant=47050627416410) €130 with Aero Leg Warmers (Rule 28)
+	4. **cheaper alternative**: [PRO AERO SPEEDSUIT Gel Pocket (Velotec)](https://www.velotec.cc/collections/mens-speedsuits/products/long-sleeve-aero-speedsuit?variant=47050627416410) €130 with Aero Leg Warmers / NON UCI AERO OVERSHOES (Rule 28)
 2. [Aero Arm Sleeves – Aero Cycling Gear](https://www.aerocyclinggear.nl/products/aero-arm-sleeves) €28.95
 	1. [Aero Sleeves | Rule 28](https://www.rule28.com/products/aero-sleeves) €41.95
 ---
 1. [EZ Disc Cover (700c) - 10-15 Watt Saving – EZ Gains Ltd](https://ezgains.co.uk/products/disc-cover-700c-1) €213.95
-2. [Non UCI Aero Overshoes - Rule 28](https://www.rule28.com/products/non-uci-aero-overshoes) €47.95
+2. [Non UCI Aero Overshoes - Rule 28](https://www.rule28.com/products/non-uci-aero-overshoes) €47.95 (shorter than Aero Leg Warmers)
 3. [Aero Leg Warmers | Rule 28](https://www.rule28.com/products/aero-leg-warmers) €53.95
 4. [EZ Aero Chainring Guard 3-5 Watt Saving – EZ Gains Ltd](https://ezgains.co.uk/products/ez-aero-chainring-cover-1) €123.95
 5. [EZ Aero Front Derailleur Guard save 2-5.8 Watts – EZ Gains Ltd](https://ezgains.co.uk/products/ez-aero-front-derailleur-guard-save-2-6-watts) €106.95
