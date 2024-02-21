@@ -1,0 +1,2 @@
+1. dynamic-maturational model of attachment and adaptation (DMM); a [[biopsychosocial model]] describing the effect attachment relationships can have on [[developmental psychology|human development and functioning]]^[https://en.wikipedia.org/wiki/Dynamic-maturational_model_of_attachment_and_adaptation]
+2. a main tenet of the DMM is that exposure to danger drives neural development and adaptation to promote survival.^[https://en.wikipedia.org/wiki/Dynamic-maturational_model_of_attachment_and_adaptation#cite_note-CrittendenLandini2011-1]

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f1c87a78665edf9",
+            "id": "96772ca852c367a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "dynamic-maturational model of attachment and adaptation.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "dynamic-maturational model of attachment and adaptation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "dynamic-maturational model of attachment and adaptation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "dynamic-maturational model of attachment and adaptation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aerodynamics (road cycling).md"
+                "file": "dynamic-maturational model of attachment and adaptation.md"
               }
             }
           },
@@ -181,8 +180,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1f1c87a78665edf9",
+  "active": "96772ca852c367a8",
   "lastOpenFiles": [
+    "diathesis-stress model.md",
+    "dynamic-maturational model of attachment and adaptation.md",
+    "cardiac vagal tone.md",
+    "aerodynamics (road cycling).md",
     "techno club mixes.md",
     "hour record.md",
     "fatigue resistance (road cycling).md",
@@ -204,10 +207,6 @@
     "cortisol.md",
     "sleep.md",
     "hormone.md",
-    "transcription factor orthopedia.md",
-    "eye movement desensitization and reprocessing.md",
-    "NREM sleep.md",
-    "shortness of breath.md",
-    "exercise intolerance.md"
+    "transcription factor orthopedia.md"
   ]
 }

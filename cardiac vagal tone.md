@@ -1,0 +1,2 @@
+1. cardiac vagal tone; represents the contribution of the [[parasympathetic nervous system]] to cardiac regulation^[Heart Rate Variability and Cardiac Vagal Tone in Psychophysiological Research – Recommendations for Experiment Planning, Data Analysis, and Data Reporting (2017)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5316555/)
+	1. proposed as a novel index of [[stress]] and stress vulnerability in mammals^[Cardiac vagal tone: a physiological index of stress (1995)](https://pubmed.ncbi.nlm.nih.gov/7630578/)
