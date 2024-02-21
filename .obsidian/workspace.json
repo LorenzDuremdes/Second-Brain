@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "119e7ab0bb4799f3",
+            "id": "7a4e390b66b3931a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "Vasili Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "Vasili Design.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "Vasili Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "Vasili Design.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aerodynamics (road cycling).md"
+                "file": "Vasili Design.md"
               }
             }
           },
@@ -180,8 +180,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "119e7ab0bb4799f3",
+  "active": "7a4e390b66b3931a",
   "lastOpenFiles": [
+    "aerodynamics (road cycling).md",
+    "Vasili Design.md",
     "domination analysis.md",
     "autism.md",
     "fusiform gyrus.md",
@@ -192,7 +194,6 @@
     "dynamic-maturational model of attachment and adaptation.md",
     "diathesis-stress model.md",
     "cardiac vagal tone.md",
-    "aerodynamics (road cycling).md",
     "techno club mixes.md",
     "hour record.md",
     "fatigue resistance (road cycling).md",
@@ -206,7 +207,6 @@
     "VO2 max.md",
     "wake after sleep offset.md",
     "wake after sleep onset.md",
-    "depression.md",
-    "sleep fragmentation.md"
+    "depression.md"
   ]
 }
