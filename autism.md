@@ -38,7 +38,7 @@
 	1. children with ASD showed higher sympathetic activity, as indicated by increased urinary VMA levels, compared to TD children^[Comparison of Physiological and Biochemical Autonomic Indices in Children with and without Autism Spectrum Disorders (2019), GPT-4](https://www.mdpi.com/1648-9144/55/7/346)]
 
 ### [[sleep]]
-1. dominance analysis revealed that objective [[sleep]] and [[circadian rhythm|circadian]] measures together explain 17% to 36% of the variance in these behavioral issues, emphasizing the critical role of [[sleep]] quality, specifically the duration of uninterrupted [[sleep]], in the daily functioning of children with ASD^[JCM | Free Full-Text | Disturbances of Continuous Sleep and Circadian Rhythms Account for Behavioral Difficulties in Children with Autism Spectrum Disorder (mdpi.com), GPT-4](https://www.mdpi.com/2077-0383/9/6/1978)
+1. [[domination analysis|dominance analysis]] revealed that objective [[sleep]] and [[circadian rhythm|circadian]] measures together explain 17% to 36% of the variance in these behavioral issues, emphasizing the critical role of [[sleep]] quality, specifically the duration of uninterrupted [[sleep]], in the daily functioning of children with ASD^[JCM | Free Full-Text | Disturbances of Continuous Sleep and Circadian Rhythms Account for Behavioral Difficulties in Children with Autism Spectrum Disorder (mdpi.com), GPT-4](https://www.mdpi.com/2077-0383/9/6/1978)
 
 ## [[neurophysiology]]
 1. autism → [[fusiform gyrus]] · difficulties
