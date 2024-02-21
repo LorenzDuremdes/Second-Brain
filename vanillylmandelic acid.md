@@ -1,0 +1,1 @@
+1. vanillylmandelic [[acid]]; is an end-stage metabolite of the catecholamines ([[adrenaline|epinephrine]], and [[norepinephrine]])^[https://en.wikipedia.org/wiki/Vanillylmandelic_acid]

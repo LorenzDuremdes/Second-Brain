@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "96772ca852c367a8",
+            "id": "15f25262bfd945f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dynamic-maturational model of attachment and adaptation.md",
+                "file": "autism.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "dynamic-maturational model of attachment and adaptation.md",
+                "file": "autism.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aerodyna",
+                "query": "biopsychology",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dynamic-maturational model of attachment and adaptation.md",
+                "file": "autism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dynamic-maturational model of attachment and adaptation.md",
+                "file": "autism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dynamic-maturational model of attachment and adaptation.md"
+                "file": "autism.md"
               }
             }
           },
@@ -162,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -180,10 +181,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "96772ca852c367a8",
+  "active": "8412e88b9e28c8ed",
   "lastOpenFiles": [
-    "diathesis-stress model.md",
+    "vanillylmandelic acid.md",
     "dynamic-maturational model of attachment and adaptation.md",
+    "diathesis-stress model.md",
     "cardiac vagal tone.md",
     "aerodynamics (road cycling).md",
     "techno club mixes.md",
@@ -206,7 +208,6 @@
     "endogeny (biology).md",
     "cortisol.md",
     "sleep.md",
-    "hormone.md",
-    "transcription factor orthopedia.md"
+    "hormone.md"
   ]
 }

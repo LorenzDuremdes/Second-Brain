@@ -33,6 +33,10 @@
 2. did the generalization of autism in DSM-V cause it to be less specific? + why
 	1. no e.g. some people are now getting the diagnosis of social [[communication]] disorder (instead of e.g. PDD-NOS) → the specificity of classification increased, in this example^[https://www.autismspeaks.org/dsm-5-and-autism-frequently-asked-questions]
 # [[neuroscience]]
+## [[behavioral neuroscience]]
+1. autism · vanillylmandelic acid
+	1. children with ASD showed higher sympathetic activity, as indicated by increased urinary VMA levels, compared to TD children^[Comparison of Physiological and Biochemical Autonomic Indices in Children with and without Autism Spectrum Disorders (2019), GPT-4](https://www.mdpi.com/1648-9144/55/7/346)]
+
 ## [[neurophysiology]]
 1. autism → fusiform [[gyrus]] · difficulties
 	1. may cause difficulties in face, voice, and word perception
