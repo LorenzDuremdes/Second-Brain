@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cc18606750647979",
+            "id": "27f828847c3032ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "Wasp Air (Lazer).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "Wasp Air (Lazer).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "Wasp Air (Lazer).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "Wasp Air (Lazer).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aerodynamics (road cycling).md"
+                "file": "Wasp Air (Lazer).md"
               }
             }
           },
@@ -181,8 +180,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "cc18606750647979",
+  "active": "27f828847c3032ee",
   "lastOpenFiles": [
+    "aerodynamics (road cycling).md",
+    "Wasp Air (Lazer).md",
     "ventilatory threshold.md",
     "HCO3-.md",
     "bicarbonate.md",
@@ -190,7 +191,6 @@
     "acid.md",
     "CO2.md",
     "carbon dioxide.md",
-    "aerodynamics (road cycling).md",
     "Vasili Design.md",
     "domination analysis.md",
     "autism.md",
@@ -207,7 +207,6 @@
     "fatigue resistance (road cycling).md",
     "blood flow restriction training.md",
     "circulatory system.md",
-    "functional threshold power.md",
-    "sprint (road cycling).md"
+    "functional threshold power.md"
   ]
 }
