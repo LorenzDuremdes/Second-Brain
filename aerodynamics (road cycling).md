@@ -2,6 +2,7 @@
 
 # aerodynamic upgrades
 1. [How Much Speed Can You Buy? - YouTube](https://www.youtube.com/watch?v=dpCe-gz_2_E)
+2. [AeroJacket Disc Cover - Wheelbuilder](https://wheelbuilder.com/aerojacket-disc-cover/) $98.95
 
 # shops (prioritized high-to-low gain)
 # shirts
