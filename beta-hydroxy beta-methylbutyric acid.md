@@ -7,8 +7,8 @@
 4. main function^[https://examine.com/supplements/hmb/]
 	1. anti-catabolic
 	2. less effective than [[leucine]] in inducing MPS
-5. HMB → ventilatory threshold^[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5537867/]
-	1. HMB increases ventilatory threshold
+5. HMB → [[ventilatory threshold]]^[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5537867/]
+	1. HMB increases [[ventilatory threshold]]
 	2. as well as anaerobic peak power
 ## negative
 1. does HMB reduce [[muscle hypertrophy|hypertrophy]] (by possibly reducing [[inflammation]]) like [[cryotherapy]]?
