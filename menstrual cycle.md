@@ -1,5 +1,5 @@
 # biopsychology
-1. menstrual cycle → **sexual desire** (female)
+1. menstrual cycle → **sexual desire** ([[female]])
 	1. many females experience heightened sexual desire in the several days immediately before ovulation.^[https://en.wikipedia.org/wiki/Ovulation#cite_note-pmid15216427-24]
 		1. due to e.g. high levels of [[estrogen]] and androgens^[https://en.wikipedia.org/wiki/Menstruation#cite_note-49]
 		2. one study concluded that females subtly improve their **facial attractiveness** during ovulation.^[https://en.wikipedia.org/wiki/Ovulation#cite_note-25]

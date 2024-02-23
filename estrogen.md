@@ -1,4 +1,4 @@
-1. estrogen; a category of [[sexual intercourse]] hormone responsible for the development and regulation of the female reproductive system and secondary [[sexual intercourse]] characteristics^[https://en.wikipedia.org/wiki/Estrogen]
+1. estrogen; a category of [[sexual intercourse]] hormone responsible for the development and regulation of the [[female]] reproductive system and secondary [[sexual intercourse]] characteristics^[https://en.wikipedia.org/wiki/Estrogen]
 	1. estrogens are involved in libido ([[sexual intercourse]] drive) in both [[women]] and men
 
 # etymology

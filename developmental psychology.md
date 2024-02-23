@@ -10,7 +10,7 @@
 ## [[individuation]]-separation process
 1. when do humans start to form individuality?^[[[Codependency]] For Dummies by Darlene Lancer, p. 100]
 	1. 4–6+ months
-2. what's the role of the mother during the "separation-[[individuation]] process" of a [[human]]?^[[Codependency]] For Dummies by Darlene Lancer, p. 100]
+2. what's the role of the [[mother]] during the "separation-[[individuation]] process" of a [[human]]?^[[Codependency]] For Dummies by Darlene Lancer, p. 100]
 	1. feedback while acknowledging the child has [[cognition]] different from hers
 
 # [[emotional self-regulation]]
@@ -20,5 +20,5 @@
 
 # animal
 1. peer-raised monkeys → [[cortisol]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 186]
-	1. their [[cortisol]] increases much more in response to loud noises than does that of monkeys who were raised by their mother
+	1. their [[cortisol]] increases much more in response to loud noises than does that of monkeys who were raised by their [[mother]]
 

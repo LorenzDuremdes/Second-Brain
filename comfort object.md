@@ -1,4 +1,4 @@
 1. comfort object; an item used to provide psychological comfort, especially in unusual or unique situations, or at bedtime for children^[https://en.wikipedia.org/wiki/Comfort_object]
 	1. comfort objects are said to enable children to gain independence and research indicates that these objects have positive effects on children by reducing [[anxiety]] in later life.^[https://en.wikipedia.org/wiki/Comfort_object#cite_note-3]
-2. Legend: (a) mother, (b) child, (1) illusion, (2) transitional object^[By Nojhan - Own work, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=567358]
+2. Legend: (a) [[mother]], (b) child, (1) illusion, (2) transitional object^[By Nojhan - Own work, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=567358]
    ![image](https://upload.wikimedia.org/wikipedia/commons/b/b1/Objet_transitionnel.svg)

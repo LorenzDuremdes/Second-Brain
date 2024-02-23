@@ -13,7 +13,7 @@
 
 # [[developmental psychology]]
 1. [[developmental psychology]] (psychoanalysis > [[Sigmund Freud]])
-	1. Freud presumed that the sexual wishes and fantasies of the child to their father/mother could lead to psychological disorders^[Psychotherapie en Psychiatrie, 2.2]
+	1. Freud presumed that the sexual wishes and fantasies of the child to their father/[[mother]] could lead to psychological disorders^[Psychotherapie en Psychiatrie, 2.2]
 
 # contraindications
 1. can psychoanalysis be applied to acute [[depression]] + psychoses? why?

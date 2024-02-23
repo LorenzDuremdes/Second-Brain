@@ -1,7 +1,7 @@
 1. Fisher's principle; an evolutionary model that explains why the [[sexual intercourse]] ratio of most species that produce offspring through sexual reproduction is approximately 1:1 between males and females
 2. W.D. Hamilton gave the following simple explanation in his 1967 paper on "Extraordinary [[sexual intercourse]] ratios",^[https://en.wikipedia.org/wiki/Fisher%27s_principle#cite_note-Hamilton67-3] given the condition that males and females cost equal amounts to produce:
-	1. Suppose male births are less common than female.
-	2. A newborn male then has better mating prospects than a newborn female, and therefore can expect to have more offspring.
+	1. Suppose male births are less common than [[female]].
+	2. A newborn male then has better mating prospects than a newborn [[female]], and therefore can expect to have more offspring.
 	3. Therefore parents genetically disposed to produce males tend to have more than average numbers of grandchildren born to them.
 	4. Therefore the genes for male-producing tendencies spread, and male births become more common.
 	5. As the 1:1 [[sexual intercourse]] ratio is approached, the advantage associated with producing males dies away.

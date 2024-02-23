@@ -32,7 +32,7 @@
 
 	Now I'm married to someone who loves being alone just as much as I do and the relationship is always smooth and were both happy. Introverts- in my personal experience don't believe the opposites attract saying.^[https://www.reddit.com/r/science/comments/qsofs4/comment/hkg47tm/?utm_source=share&utm_medium=web2x&context=3]
 1. why are mistrust and betrayal more likely to occur in marriages in which the husband has more power than his wife?^[The science of [[trust]]: emotional attunement for couples, p. 468]
-	1. evolutionarily? e.g. female extending "[[courtship]]" to estimate e.g. the male's trustworthiness
+	1. evolutionarily? e.g. [[female]] extending "[[courtship]]" to estimate e.g. the male's trustworthiness
 
 ## conflict
 1. the woman is mostly responsible (involuntarily i.e. [[biology]]) for the down-regulation of the [[limbic system]] [[stress]] responses (i.e. freeze, flight, or fight)^[The science of [[trust]]: emotional attunement for couples, 153]

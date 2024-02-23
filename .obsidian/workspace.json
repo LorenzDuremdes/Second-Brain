@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "autism.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "autism.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aerodynamics",
+                "query": "autism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "autism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "autism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aerodynamics (road cycling).md"
+                "file": "autism.md"
               }
             }
           },
@@ -161,8 +162,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,8 +182,14 @@
   },
   "active": "27f828847c3032ee",
   "lastOpenFiles": [
-    "Wasp Air (Lazer).md",
+    "female.md",
+    "autism.md",
+    "mother.md",
+    "developmental psychology.md",
+    "attachment theory.md",
+    "depression.md",
     "aerodynamics (road cycling).md",
+    "Wasp Air (Lazer).md",
     "ventilatory threshold.md",
     "HCO3-.md",
     "bicarbonate.md",
@@ -193,7 +199,6 @@
     "carbon dioxide.md",
     "Vasili Design.md",
     "domination analysis.md",
-    "autism.md",
     "fusiform gyrus.md",
     "neonate.md",
     "neonatal irritable sleep-wake rhythm.md",
@@ -202,11 +207,6 @@
     "dynamic-maturational model of attachment and adaptation.md",
     "diathesis-stress model.md",
     "cardiac vagal tone.md",
-    "techno club mixes.md",
-    "hour record.md",
-    "fatigue resistance (road cycling).md",
-    "blood flow restriction training.md",
-    "circulatory system.md",
-    "functional threshold power.md"
+    "techno club mixes.md"
   ]
 }
