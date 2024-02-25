@@ -7,6 +7,9 @@
 # [[sports science]]
 1. should you do TT simulations of the real world early on + what to do perhaps instead if not?
 	1. perhaps not because they can be unnecessarily fatiguing e.g. Z7 intervals at the beginning with negative splits (to perhaps supra-FTP at the end), which reduces CTL e.g. perhaps better to train to being able to do as much sweet spot as possible within a [[microcycle]]/[[mesocycle]] i.e. [[block (sports periodization)]]
+		1. what are other moments you can (and perhaps should) do them early on?
+			1. e.g. at end of a [[microcycle]] (before e.g. weekend)/[[mesocycle]] (before a deload microcyle)
+			2. when having skipped 1 or more workouts (and feeling recovered well enough + not hindering further workouts / CTL)
 
 # equipment
 1. how could it make sense that aero **overshoes** save so many watts relatively?
