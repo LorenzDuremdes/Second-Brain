@@ -4,6 +4,10 @@
 	1. because there's not much you can do tactically to hide your limiter. It's just you and the clock.
 		1. unlike e.g. a bad climber (he can simply go to the front and slowly retreat to the back during a climb)
 
+# [[sports science]]
+1. should you do TT simulations of the real world early on + what to do perhaps instead if not?
+	1. perhaps not because they can be unnecessarily fatiguing e.g. Z7 intervals at the beginning with negative splits (to perhaps supra-FTP at the end), which reduces CTL e.g. perhaps better to train to being able to do as much sweet spot as possible within a [[microcycle]]/[[mesocycle]] i.e. [[block (sports periodization)]]
+
 # equipment
 1. how could it make sense that aero **overshoes** save so many watts relatively?
 	1. ◇quadratic air resistance at top of pedal stroke

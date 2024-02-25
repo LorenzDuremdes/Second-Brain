@@ -3,7 +3,7 @@
 	1. it's too vague (e.g. you want to get into the top 1% but aren't sure whether that's possible at all)
 
 # [[resistance training]]
-1. max sets at last session of last microcycle of a [[mesocycle]]
+1. max sets at last session of last [[microcycle]] of a [[mesocycle]]
 	1. ~12
 	2. Dr. Mike Israetel's MAV
 

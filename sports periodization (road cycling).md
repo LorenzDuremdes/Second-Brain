@@ -1,4 +1,4 @@
-# microcycle
+# [[microcycle]]
 1. when could "drop sets" not be as beneficial? ([[road cycling]])
 	1. when the [[goal]] is something associated with metabolic waste e.g. lactate
 		1. ◇this won't 'convert' a Z3 into Z4 because of fatigue
@@ -13,9 +13,9 @@
 
 # [[The Time-Crunched Cyclist — Race-Winning Fitness in 6 Hours a Week, 3rd Edition]]
 # [[mesocycle]]
-## microcycle
+## [[microcycle]]
 ### deload
-1. [[time]]-crunched training program (deload microcycle)
+1. [[time]]-crunched training program (deload [[microcycle]])
 	1. lower intensity while keeping volume the same rather than keeping intensity the same while dropping volume (to maintain fitness while allowing fatigue to drop)^[The [[Time]]-Crunched Cyclist: Race-Winning Fitness in 6 Hours a Week, 3rd Edition, p. 12]
 
 # related

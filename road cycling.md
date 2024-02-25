@@ -37,7 +37,7 @@
 1. should you do a session consisting of Z5 and Z6 intervals (road cycling)? + why^[https://www.trainerroad.com/blog/cycling-power-zones-training-zones-explained/]
 	1. probably not due to them not being synergistic e.g. being too tired to do proper Z6 intervals or not getting enough sets (MEV)
 
-## microcycle
+## [[microcycle]]
 1. how could a zone 2 workout not increase fatigue too much despite having a hard session (≥zone 3) previous day?
 	1. due to mostly stimulating slower-twitch muscle fibers (which recover more quickly)?
 	2. intensity too low to stimulate the longer-to-recover faster-twitch muscle fibers?

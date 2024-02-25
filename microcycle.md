@@ -1,0 +1,1 @@
+redirect: [[microcycle (sports periodization)]]
