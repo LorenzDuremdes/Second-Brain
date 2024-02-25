@@ -52,9 +52,9 @@
 	2. 10s Z7 acceleration | 151%
 	3. with [[negative split]]:
 		1. 3m Z5 dFRC utilization | 101% > 105%
-		2. 1x5.5m sweet spot undulation | 88% <> 94%
+		2. 5.5m sweet spot undulation | 88% <> 94%
 		3. 3m dFRC utilization | 101% > 105%
-		4. 1x5.5m SS/FTP undulation | 94% <> 100%
+		4. 5.5m SS/FTP undulation | 94% <> 100%
 		5. 3m Z5 | 101% > 105%
 	4. 10m cooling down
 	![[20m TT simulation with negative split and undulation.png]]
