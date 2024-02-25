@@ -19,6 +19,8 @@
 
 # technicalities / pacing
 1. [power required for a 40 kph TT (anecdotes)](https://www.trainerroad.com/forum/t/power-required-for-a-40kph-tt/64520)
+2. should you try to aim for a 1.05 IF for a 20m time trial (or something similar less than 60m) + why
+	1. perhaps not, as that would require you to hold 105% of your FTP steadily (which might not be fastest in real-life) e.g. fatigue grows exponentially
 
 # [[negative split]]
 1. what's another advantage of [[negative split]] other than physiologically/psychologically? (triathlon)
