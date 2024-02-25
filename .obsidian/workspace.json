@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zwift.md",
+                "file": "functional reserve capacity.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Zwift.md",
+                "file": "functional reserve capacity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "negative split",
+                "query": "dynamic functi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zwift.md",
+                "file": "functional reserve capacity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zwift.md",
+                "file": "functional reserve capacity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zwift.md"
+                "file": "functional reserve capacity.md"
               }
             }
           },
@@ -181,11 +182,11 @@
   },
   "active": "c8220a9d7f0382c3",
   "lastOpenFiles": [
+    "Zwift.md",
     "Oldenzaal naar Enschede - ZwiftApp_vD4fiCiEce.png",
     "Enschede naar Oldenzaal - ZwiftApp_4MLoG9hVwW.png",
     "time trial.md",
     "negative split.md",
-    "Zwift.md",
     "20m TT simulation with negative split and undulation.png",
     "microcycle.md",
     "block (sports periodization).md",
@@ -196,7 +197,6 @@
     "Exemplar.png",
     "It's all about the Foundation.png",
     "Sweetspot w steeps.png",
-    "Extended Over Unders.png",
     "image.md",
     "urine.md",
     "saliva.md",

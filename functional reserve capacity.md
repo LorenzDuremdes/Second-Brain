@@ -1,2 +1,5 @@
 1. W'bal; functional reserve capacity^[https://www.trainerroad.com/forum/t/hard-start-vo2max-intervals/48175/665?u=lorenz_duremdes]^[https://forum.intervals.icu/t/dynamic-functional-reserve-capacity/26990/2?u=lorenz_duremdes]
 	1. bal; balance^[https://mywindsock.com/page/help/navigating-and-understanding-the-information/w-balance/]
+2. Utilizing dFRC to review races, event performances, and hard efforts will demonstrate how well athletes use their FRC to improve results.^[https://www.wko5.com/dfrc]
+	1. A better understanding of FRC as reflected in dFRC allows for better race performance. For example, it can help tell me when I should sprint, how hard I can go to establish a break, and if I can power climb that technical hill.
+	2. Team [[time trial]] planning can be better timed by using dFRC to determine pull time and intensity
