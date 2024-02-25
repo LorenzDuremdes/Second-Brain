@@ -45,3 +45,7 @@
 # Daily Fit
 1. It's all about the Foundation
    ![[It's all about the Foundation.png]]
+
+# Custom
+1. 20m TT simulation with negative split and undulation
+   ![[20m TT simulation with negative split and undulation.png]]
