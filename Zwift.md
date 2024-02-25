@@ -4,7 +4,7 @@
 # Threshold
 1. Exemplar | undulating
    ![[Exemplar.png]]
-2. Threshold #2 | negative split
+2. Threshold #2 | [[negative split]]
    ![[Threshold 2.png]]
 3. FTP w/ Bursts
    ![[FTP w Bursts.png]]
@@ -27,7 +27,7 @@
 ## 30 minutes to burn
 1. At/Overs | FTP with Z5/6 intervals
    ![[At-Overs, FTP with Z5 6 intervals.png]]
-2. Wave Rider | negative split SST with Z6 intervals
+2. Wave Rider | [[negative split]] SST with Z6 intervals
    ![[Wave Rider, negative split SST with Z6 intervals.png]]
 3. Vault | SST with Z5/6 intervals
    ![[Vault, SST with Z5 6 intervals.png]]
@@ -47,10 +47,10 @@
    ![[It's all about the Foundation.png]]
 
 # Custom
-1. 20m TT simulation with negative split and undulation
+1. 20m TT simulation with [[negative split]] and undulation
 	1. 3m warm-up | 45% > 75%
 	2. 10s Z7 acceleration | 151%
-	3. with negative split:
+	3. with [[negative split]]:
 		1. 3m Z5 dFRC utilization | 101% > 105%
 		2. 1x5.5m sweet spot undulation | 88% <> 94%
 		3. 3m dFRC utilization | 101% > 105%

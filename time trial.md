@@ -17,5 +17,9 @@
 		1. same as spokes
 2. **disc wheel**, watt savings≈35 watts at 32 km/h compared to a normal wheel^[https://www.trainingpeaks.com/blog/whats-the-big-deal-with-aerodynamics/]
 
-# technicalities
+# technicalities / pacing
 1. [power required for a 40 kph TT (anecdotes)](https://www.trainerroad.com/forum/t/power-required-for-a-40kph-tt/64520)
+
+# [[negative split]]
+1. what's another advantage of [[negative split]] other than physiologically/psychologically? (triathlon)
+	1. [[aerodynamics (road cycling)]] → progressively increasing speed in any race allows the runner to focus on passing each person running directly ahead.^[https://en.wikipedia.org/wiki/Negative_split#cite_note-19] (cyclist in this case)
