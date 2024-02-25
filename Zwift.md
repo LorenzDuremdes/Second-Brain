@@ -9,7 +9,7 @@
 1. SST (Short) < undulating
    ![[SST (Short)  undulating.png]]
 2. London Classique (A race simulation on London Classique where you'll tackle 4 laps of the course)
-   ![[msedge_Y3NdeCucXa.png]]
+   ![[London Classique.png]]
 
 ## 30 minutes to burn
 1. At/Overs | FTP with Z5/6 intervals
@@ -21,5 +21,8 @@
 
 # 60-90 minutes to burn
 1. SST (Med) | undulating
+   ![[SST (Med).png]]
 2. High Intensity Recovery | 3x3m, 3m [[over-under intervals]]
+   ![[High Intensity Recovery.png]]
 3. Ruckus | FTP/Z3 intervals
+   ![[Ruckus.png]]
