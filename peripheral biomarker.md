@@ -1,0 +1,2 @@
+1. peripheral biomarker; refers to a measurable indicator of some biological state or condition that can be found in peripheral tissues or fluids of the body^[GPT-4]^[[IJMS | Free Full-Text | Peripheral Biomarkers in Manifest and Premanifest Huntington's Disease (mdpi.com)](https://www.mdpi.com/1422-0067/24/7/6051)]
+	1. e.g. [[blood]], [[saliva]], [[urine]], or [[cerebrospinal fluid]], rather than in the [[central nervous system]] or other internal [[organ (biology)|organs]] that are [[invasive test|less accessible]]

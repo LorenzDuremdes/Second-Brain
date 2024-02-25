@@ -56,7 +56,7 @@
 ### treatment
 1. does Bessel van der Kolk think it's important that he knows every detail of a patient's trauma? + why^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 148]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 153]
 	1. no, he thinks it's critical that the patients themselves learn to tolerate [[feeling]] what they feel and knowing what they know
-	2. you may realize that your fear of intimacy has something to do with your mother’s postpartum [[depression]] or with the fact that she herself was molested as a child, but that alone is unlikely to open you to happy, trusting engagement with others
+	2. you may realize that your fear of intimacy has something to do with your [[mother]]’s postpartum [[depression]] or with the fact that she herself was molested as a child, but that alone is unlikely to open you to happy, trusting engagement with others
 
 ## [[developmental psychology]]
 1. consistent ↮ erratic caregiving → [[self]]-regulation (kids)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 194]
@@ -119,7 +119,7 @@
 
 ### [[microsociology]]
 1. how are adverse experiences interrelated?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 176]
-	1. People typically don’t grow up in a household where one brother is in prison but everything else is fine. They don’t live in families where their mother is regularly beaten but life is otherwise hunky-dory
+	1. People typically don’t grow up in a household where one brother is in prison but everything else is fine. They don’t live in families where their [[mother]] is regularly beaten but life is otherwise hunky-dory
 2. psychological trauma → [[eye contact]]^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 125]
 	1. to former usually finds it difficult to initiate/maintain the latter
 3. what does Bessel van der Kolk think about the following answers to the question "*who provides you with emotional and practical support?*"
@@ -168,7 +168,7 @@
 1. lack of attunement → [[looking-glass self]] ([[developmental psychology]])
 	1. a lack of attunement can lead to the one experiencing it to try to compensate harder and feel, therefore, 'not good enough' (until attunement reinitiates)
 	2. can lead to the one experiencing it to shutdown their psychological/physical needs (and therefore experience the lack of attunement less)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 138]
-		1. If a mother cannot meet her baby’s impulses and needs, “the baby learns to become the mother’s idea of what the baby is.” Having to discount its inner sensations, and trying to adjust to its caregiver’s needs, means the child perceives that “something is wrong” with the way it.^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 138]
+		1. If a [[mother]] cannot meet her baby’s impulses and needs, “the baby learns to become the [[mother]]’s idea of what the baby is.” Having to discount its inner sensations, and trying to adjust to its caregiver’s needs, means the child perceives that “something is wrong” with the way it.^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 138]
 		2. **see also**: [[acute stress response]] (1: fight + 2: freeze/flight)
 
 ## [[hope]]
