@@ -47,6 +47,7 @@
    ![[It's all about the Foundation.png]]
 
 # Custom
+## [[time trial]]
 1. 20m+ TT simulation with [[negative split]] and undulation (increase time (in certain segments) when necessary for stress test (e.g. real-life simulation) or training purposes (e.g. bottlenecks))
 	1. 3m warm-up | 45% > 75%
 	2. 10s Z7 acceleration | 151%
@@ -58,3 +59,9 @@
 		5. 3m Z5 | 101% > 105%
 	4. 10m cooling down
 	![[20m TT simulation with negative split and undulation.png]]
+
+### simulations
+Enschede > Oldenzaal
+![[Enschede naar Oldenzaal - ZwiftApp_4MLoG9hVwW.png]]
+Oldenzaal > Enschede
+![[Oldenzaal naar Enschede - ZwiftApp_vD4fiCiEce.png]]
