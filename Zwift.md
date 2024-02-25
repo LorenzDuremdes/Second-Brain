@@ -47,7 +47,7 @@
    ![[It's all about the Foundation.png]]
 
 # Custom
-1. 20m TT simulation with [[negative split]] and undulation
+1. 20m+ TT simulation with [[negative split]] and undulation (increase time (in certain segments) when necessary for stress test (e.g. real-life simulation) or training purposes (e.g. bottlenecks))
 	1. 3m warm-up | 45% > 75%
 	2. 10s Z7 acceleration | 151%
 	3. with [[negative split]]:
