@@ -1,0 +1,4 @@
+1. quiet luxury; a lifestyle characterized by understated elegance and refined consumption, emphasizing exclusivity and discerning taste without overt displays of wealth.^[https://en.wikipedia.org/wiki/Quiet_luxury]
+2. [[fashion|Outfit]] on mannequin exemplifying quiet luxury. The outfit is elegant and refined without any labels or ostentatious displays of wealth.^[By Elvert Barnes - https://www.flickr.com/photos/perspective/16883094677/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=139917160]
+   ![image|300](https://upload.wikimedia.org/wikipedia/commons/f/fe/Loro_Piana.jpg)
+3. This discreet display of wealth is often through subtle signals recognizable only to those in the know. In other words, the wealth is only apparent to those who know what to look for.^[https://en.wikipedia.org/wiki/Quiet_luxury#cite_note-Trebay_2023_b066-1]
