@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c8220a9d7f0382c3",
+            "id": "a130f5e02ac4e824",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "time trial.md",
+                "file": "futurism fashion.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "time trial.md",
+                "file": "futurism fashion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "time trial.md",
+                "file": "futurism fashion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "time trial.md",
+                "file": "futurism fashion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "time trial.md"
+                "file": "futurism fashion.md"
               }
             }
           },
@@ -179,13 +179,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c8220a9d7f0382c3",
+  "active": "a130f5e02ac4e824",
   "lastOpenFiles": [
+    "fashion.md",
+    "2020s in fashion.md",
+    "2010s in fashion.md",
+    "athleisure.md",
+    "time trial.md",
     "functional reserve capacity.md",
     "Zwift.md",
     "Oldenzaal naar Enschede - ZwiftApp_vD4fiCiEce.png",
     "Enschede naar Oldenzaal - ZwiftApp_4MLoG9hVwW.png",
-    "time trial.md",
     "negative split.md",
     "20m TT simulation with negative split and undulation.png",
     "microcycle.md",
@@ -212,10 +216,6 @@
     "bicarbonate.md",
     "Untitled.md",
     "acid.md",
-    "CO2.md",
-    "carbon dioxide.md",
-    "Vasili Design.md",
-    "domination analysis.md",
-    "autism.md"
+    "CO2.md"
   ]
 }

@@ -1,0 +1,1 @@
+1. 2010s in [[fashion]]; were defined by hipster [[fashion]], [[athleisure]], a revival of austerity-era period pieces and alternative fashions, swag-inspired outfits, 1980s-style neon streetwear, and unisex 1990s-style elements influenced by grunge and skater fashions.^[https://en.wikipedia.org/wiki/2010s_in_fashion]

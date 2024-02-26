@@ -1,0 +1,1 @@
+1. athleisure; a hybrid^[https://en.wikipedia.org/wiki/Athleisure#cite_note-:2-1] style of athletic clothing typically worn as everyday wear
