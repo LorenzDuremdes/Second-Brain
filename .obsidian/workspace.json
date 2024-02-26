@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2020s in fashion.md",
+                "file": "transhumanism.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2020s in fashion.md",
+                "file": "transhumanism.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dynamic functi",
+                "query": "transhu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2020s in fashion.md",
+                "file": "transhumanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2020s in fashion.md",
+                "file": "transhumanism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2020s in fashion.md"
+                "file": "transhumanism.md"
               }
             }
           },
@@ -182,10 +183,12 @@
   },
   "active": "e901dc48f107b42b",
   "lastOpenFiles": [
+    "posthuman.md",
+    "superhuman.md",
+    "2020s in fashion.md",
     "quiet luxury.md",
     "futurism fashion.md",
     "fashion.md",
-    "2020s in fashion.md",
     "2010s in fashion.md",
     "athleisure.md",
     "time trial.md",
@@ -215,8 +218,6 @@
     "Wasp Air (Lazer).md",
     "aerodynamics (road cycling).md",
     "ventilatory threshold.md",
-    "HCO3-.md",
-    "bicarbonate.md",
-    "Untitled.md"
+    "HCO3-.md"
   ]
 }
