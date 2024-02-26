@@ -1,0 +1,1 @@
+1. subconjunctival bleeding; bleeding from a small [[blood]] vessel over the whites of the eye. It results in a red spot in the white of the eye.^[1https://en.wikipedia.org/wiki/Subconjunctival_bleeding#cite_note-AAO2019-1
