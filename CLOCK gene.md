@@ -4,6 +4,8 @@
 1. CLOCK genes are expressed not only in CNS, but also peripherally, in the oral mucosa, skin and [[blood]] (how?)
 	1. the co-expression of the CLOCK [[gene]] in the [[blood]], [[hippocampus]], and [[prefrontal cortex]] allow hypothesizing that its presence peripherally could be a good [[peripheral biomarker|biomarker]] of the [[gene expression]] in the [[human brain|brain]]
 2. _CLOCK_’s products play an important role in the dopaminergic outputs regulation, a pathway linked to many [[mental disorder|psychiatric disorders]]^[[Biological correlates of altered circadian rhythms, autonomic functions and sleep problems in autism spectrum disorder | Annals of General Psychiatry | Full Text (biomedcentral.com)](https://annals-general-psychiatry.biomedcentral.com/articles/10.1186/s12991-022-00390-6) (2022)]
+3. acetylation · CLOCK [[protein]] → [[cortisol]]
+	1. the acetylation of the CLOCK [[protein]] is thought to influence how [[cortisol]] signals within the body, particularly by reducing the ability of [[cortisol]] to bind to its glucocorticoid receptors and activate certain genes. This can affect the body's [[stress]] response and other physiological processes regulated by the HPA axis e.g. digestion, [[immune system]], mood and emotions, sexuality, energy storage and expenditure^[GPT-4]^[[Biological correlates of altered circadian rhythms, autonomic functions and sleep problems in autism spectrum disorder | Annals of General Psychiatry | Full Text (biomedcentral.com)](https://annals-general-psychiatry.biomedcentral.com/articles/10.1186/s12991-022-00390-6) (2022)]
 
 ## [[circadian rhythm]]
 1. nightshift work → CLOCK [[gene]]
