@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f2083e62d4cb4d28",
+            "id": "4bd1724352e4c12b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "undulation (road cycling).md",
+                "file": "DNA hypomethylation.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "undulation (road cycling).md",
+                "file": "DNA hypomethylation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transhu",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "undulation (road cycling).md",
+                "file": "DNA hypomethylation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "undulation (road cycling).md",
+                "file": "DNA hypomethylation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "undulation (road cycling).md"
+                "file": "DNA hypomethylation.md"
               }
             }
           },
@@ -180,9 +181,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "8412e88b9e28c8ed",
   "lastOpenFiles": [
     "undulation (road cycling).md",
+    "DNA hypomethylation.md",
     "subconjunctival bleeding.md",
     "relative energy deficiency in sport.md",
     "transhumanism fashion.md",
@@ -216,7 +218,6 @@
     "saliva.md",
     "peripheral nervous system.md",
     "peripheral biomarker.md",
-    "mother.md",
-    "invasive test.md"
+    "mother.md"
   ]
 }

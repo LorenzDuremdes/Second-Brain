@@ -1,0 +1,1 @@
+1. [[DNA]] hypomethylation; refers to the **loss of the methyl group** in the 5-methylcytosine [[nucleotide]]^[[Hypomethylation of DNA | SpringerLink](https://link.springer.com/referenceworkentry/10.1007/978-3-642-16483-5_2923)]
