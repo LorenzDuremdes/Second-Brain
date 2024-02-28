@@ -1,1 +1,1 @@
-1. [[sleep]] inertia is related to hypnopompia
+1. [[sleep]] inertia is related to [[hypnopompia]]

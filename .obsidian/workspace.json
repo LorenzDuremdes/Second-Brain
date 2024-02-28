@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLOCK gene.md",
+                "file": "autism.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CLOCK gene.md",
+                "file": "autism.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "clock gene",
+                "query": "autism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CLOCK gene.md",
+                "file": "autism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CLOCK gene.md",
+                "file": "autism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CLOCK gene.md"
+                "file": "autism.md"
               }
             }
           },
@@ -162,8 +162,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,9 +182,14 @@
   },
   "active": "ec29f32569cfe6de",
   "lastOpenFiles": [
+    "melatonin.md",
+    "autism.md",
+    "mutation.md",
+    "hypnopompia.md",
+    "hypnagogia.md",
+    "CLOCK gene.md",
     "period circadian protein homolog 1.md",
     "suprachiasmatic nucleus.md",
-    "CLOCK gene.md",
     "glucocorticoid receptor.md",
     "catecholamine.md",
     "Biosynthetic pathways for catecholamines and trace amines in the human brain.png",
@@ -205,11 +209,6 @@
     "organic compound.md",
     "hydrogen.md",
     "organic acid.md",
-    "precursor (biochemistry).md",
-    "tyrosine hydroxylase.md",
-    "amino acid.md",
-    "DNA hypomethylation.md",
-    "DNA methylation.md",
     "Oldenzaal naar Enschede - ZwiftApp_vD4fiCiEce.png",
     "Enschede naar Oldenzaal - ZwiftApp_4MLoG9hVwW.png",
     "20m TT simulation with negative split and undulation.png",

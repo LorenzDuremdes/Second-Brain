@@ -13,8 +13,8 @@
 
 # biopsychology
 1. traits · [[genetic load]] → sexual selection^[https://www.researchgate.net/publication/235362665_The_Mating_Mind_How_Sexual_Choice_Shaped_the_Evolution_of_Human_Nature]
-	1. **traits** that happen to reveal **mutation load** more **accurately** than other traits (e.g. through more complex development that requires the interaction of more genes) will tend to be **favored** in mate choice
+	1. **traits** that happen to reveal **[[mutation]] load** more **accurately** than other traits (e.g. through more complex development that requires the interaction of more genes) will tend to be **favored** in mate choice
 		1. what about 'disguising' bad genes/traits? → (difficult thing to do, see: [[handicap principle]])
 
 ## fitness indicators
-1. **[[human]] brains** make particularly good fitness indicators because their growth depends on about half the genes in the genome, thereby **summarizing a huge amount of information about mutation load**^[https://www.researchgate.net/publication/235362665_The_Mating_Mind_How_Sexual_Choice_Shaped_the_Evolution_of_Human_Nature]
+1. **[[human]] brains** make particularly good fitness indicators because their growth depends on about half the genes in the genome, thereby **summarizing a huge amount of information about [[mutation]] load**^[https://www.researchgate.net/publication/235362665_The_Mating_Mind_How_Sexual_Choice_Shaped_the_Evolution_of_Human_Nature]
