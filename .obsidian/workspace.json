@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNA hypomethylation.md",
+                "file": "CLOCK gene.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DNA hypomethylation.md",
+                "file": "CLOCK gene.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "circadian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DNA hypomethylation.md",
+                "file": "CLOCK gene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DNA hypomethylation.md",
+                "file": "CLOCK gene.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DNA hypomethylation.md"
+                "file": "CLOCK gene.md"
               }
             }
           },
@@ -181,10 +181,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8412e88b9e28c8ed",
+  "active": "4bd1724352e4c12b",
   "lastOpenFiles": [
-    "undulation (road cycling).md",
+    "circadian rhythm.md",
     "DNA hypomethylation.md",
+    "undulation (road cycling).md",
     "subconjunctival bleeding.md",
     "relative energy deficiency in sport.md",
     "transhumanism fashion.md",
@@ -217,7 +218,6 @@
     "urine.md",
     "saliva.md",
     "peripheral nervous system.md",
-    "peripheral biomarker.md",
-    "mother.md"
+    "peripheral biomarker.md"
   ]
 }
