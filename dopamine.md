@@ -1,0 +1,1 @@
+1. dopamine used as precursor in the synthesis of the neurotransmitters [[norepinephrine]] and [[epinephrine]].^[https://en.wikipedia.org/wiki/Dopamine#cite_note-Musacchio-26]

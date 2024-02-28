@@ -1,0 +1,2 @@
+1. Biosynthetic pathways for catecholamines and trace amines in the [[human brain]]^[https://en.wikipedia.org/wiki/Catecholamine#cite_note-Trace_amine_template_1-5]^[https://en.wikipedia.org/wiki/Catecholamine#cite_note-Trace_amine_template_2-6]^[https://en.wikipedia.org/wiki/Catecholamine#cite_note-CYP2D6_tyramine-dopamine_metabolism-7]
+   ![[Biosynthetic pathways for catecholamines and trace amines in the human brain.png]]

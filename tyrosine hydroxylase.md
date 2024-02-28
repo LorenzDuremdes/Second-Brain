@@ -1,2 +1,2 @@
 1. tyrosine hydroxylase; the enzyme responsible for catalyzing the conversion of the [[amino acid]] L-tyrosine to L-3,4-dihydroxyphenylalanine (L-DOPA).^[https://en.wikipedia.org/wiki/Tyrosine_hydroxylase#cite_note-pmid8638482-5]^[https://en.wikipedia.org/wiki/Tyrosine_hydroxylase#cite_note-pmid8822146-6]
-	1. DOPA is a precursor for dopamine, which, in turn, is a [[precursor (biochemistry)|precursor]] for the important neurotransmitters norepinephrine (noradrenaline) and epinephrine (adrenaline)
+	1. DOPA is a precursor for [[dopamine]], which, in turn, is a [[precursor (biochemistry)|precursor]] for the important neurotransmitters [[norepinephrine]] (noradrenaline) and epinephrine ([[adrenaline]])
