@@ -1,0 +1,1 @@
+1. glucocorticoid receptor; the receptor to which [[cortisol]] and other glucocorticoids^[https://en.wikipedia.org/wiki/Glucocorticoid_receptor]
