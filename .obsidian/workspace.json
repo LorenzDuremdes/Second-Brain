@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec29f32569cfe6de",
+            "id": "51dab5f2991d4b72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "autism.md",
+                "file": "postictal state.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "autism.md",
+                "file": "postictal state.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "autism",
+                "query": "seizure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "autism.md",
+                "file": "postictal state.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "autism.md",
+                "file": "postictal state.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "autism.md"
+                "file": "postictal state.md"
               }
             }
           },
@@ -162,7 +161,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,10 +180,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ec29f32569cfe6de",
+  "active": "51dab5f2991d4b72",
   "lastOpenFiles": [
-    "melatonin.md",
+    "absence seizure.md",
+    "postictal state.md",
+    "valproate.md",
+    "focal seizure.md",
+    "epilepsy.md",
+    "migraine.md",
     "autism.md",
+    "melatonin.md",
     "mutation.md",
     "hypnopompia.md",
     "hypnagogia.md",
@@ -203,12 +209,6 @@
     "cellular respiration.md",
     "chemical bond.md",
     "covalent bond.md",
-    "stellar evolution.md",
-    "ventilatory threshold.md",
-    "organic chemistry.md",
-    "organic compound.md",
-    "hydrogen.md",
-    "organic acid.md",
     "Oldenzaal naar Enschede - ZwiftApp_vD4fiCiEce.png",
     "Enschede naar Oldenzaal - ZwiftApp_4MLoG9hVwW.png",
     "20m TT simulation with negative split and undulation.png",

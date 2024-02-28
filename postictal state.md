@@ -1,0 +1,1 @@
+1. postictal state; the altered state of [[consciousness]] after an [[epilepsy|epileptic seizure]]^[https://en.wikipedia.org/wiki/Postictal_state]

@@ -1,0 +1,2 @@
+1. valproate; [[medication|medications]] primarily used to treat [[epilepsy]] and [[bipolar personality disorder|bipolar disorder]] and prevent [[migraine|migraine headaches]].^[https://en.wikipedia.org/wiki/Valproate#cite_note-AHFS2015-6]
+	1. they are useful for the prevention of seizures in those with [[absence seizure|absence seizures]], [[focal seizure|partial seizures]], and [[generalized seizure|generalized seizures]].
