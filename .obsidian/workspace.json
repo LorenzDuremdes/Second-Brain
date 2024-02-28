@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f82e4dbeb190bf6f",
+            "id": "ec29f32569cfe6de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLOCK gene.md",
+                "file": "period circadian protein homolog 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CLOCK gene.md",
+                "file": "period circadian protein homolog 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CLOCK gene.md",
+                "file": "period circadian protein homolog 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CLOCK gene.md",
+                "file": "period circadian protein homolog 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CLOCK gene.md"
+                "file": "period circadian protein homolog 1.md"
               }
             }
           },
@@ -181,8 +180,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f82e4dbeb190bf6f",
+  "active": "ec29f32569cfe6de",
   "lastOpenFiles": [
+    "suprachiasmatic nucleus.md",
+    "period circadian protein homolog 1.md",
+    "CLOCK gene.md",
     "glucocorticoid receptor.md",
     "catecholamine.md",
     "Biosynthetic pathways for catecholamines and trace amines in the human brain.png",
@@ -190,7 +192,6 @@
     "adrenaline.md",
     "epinephrine.md",
     "dopamine.md",
-    "CLOCK gene.md",
     "substituent.md",
     "carboxylic acid.md",
     "functional group.md",
@@ -208,8 +209,6 @@
     "amino acid.md",
     "DNA hypomethylation.md",
     "DNA methylation.md",
-    "circadian rhythm.md",
-    "undulation (road cycling).md",
     "Oldenzaal naar Enschede - ZwiftApp_vD4fiCiEce.png",
     "Enschede naar Oldenzaal - ZwiftApp_4MLoG9hVwW.png",
     "20m TT simulation with negative split and undulation.png",

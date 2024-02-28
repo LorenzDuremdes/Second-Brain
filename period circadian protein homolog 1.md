@@ -1,0 +1,2 @@
+1. period circadian [[protein]] homolog 1; important to the maintenance of [[circadian rhythm|circadian rhythms]] in [[cell|cells]], and may also play a role in the development of cancer^[https://en.wikipedia.org/wiki/Period_circadian_protein_homolog_1]
+	1. PER1 is most notably expressed in the region of the [[brain]] called the [[suprachiasmatic nucleus]] (SCN), which is the primary circadian pacemaker in the mammalian [[brain]]
