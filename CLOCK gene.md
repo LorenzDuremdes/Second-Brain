@@ -11,3 +11,7 @@
 1. nightshift work → CLOCK [[gene]]
 	1. **hypo-methylation of the CLOCK [[gene]] promoter** among nightshift workers suggests that epigenetic changes might be a mechanism through which shift work influences circadian rhythms and potentially increases **cancer risk**^[GPT-4]^[[Nightshift work and genome-wide DNA methylation: Chronobiology International: Vol 32 , No 1 - Get Access (tandfonline.com)](https://www.tandfonline.com/doi/full/10.3109/07420528.2014.956362) (2014)]^[[Biological correlates of altered circadian rhythms, autonomic functions and sleep problems in autism spectrum disorder | Annals of General Psychiatry | Full Text (biomedcentral.com)](https://annals-general-psychiatry.biomedcentral.com/articles/10.1186/s12991-022-00390-6) (2022)]
 		1. The altered circadian rhythms, rather than the direct effects of CLOCK [[DNA hypomethylation|gene hypo-methylation]], are posited as a potential pathway through which shift work might increase cancer risk.
+
+# genes
+1. [[period circadian protein homolog 1]]
+	1. the binding of CLOCK-BMAL to an E-box promoter element activates transcription of clock genes such as _per_1, 2, and 3 and _tim_ in mice^[https://en.wikipedia.org/wiki/CLOCK]

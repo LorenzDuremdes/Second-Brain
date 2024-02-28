@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "period circadian protein homolog 1.md",
+                "file": "CLOCK gene.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "period circadian protein homolog 1.md",
+                "file": "CLOCK gene.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "clock",
+                "query": "clock gene",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "period circadian protein homolog 1.md",
+                "file": "CLOCK gene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "period circadian protein homolog 1.md",
+                "file": "CLOCK gene.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "period circadian protein homolog 1.md"
+                "file": "CLOCK gene.md"
               }
             }
           },
@@ -182,8 +183,8 @@
   },
   "active": "ec29f32569cfe6de",
   "lastOpenFiles": [
-    "suprachiasmatic nucleus.md",
     "period circadian protein homolog 1.md",
+    "suprachiasmatic nucleus.md",
     "CLOCK gene.md",
     "glucocorticoid receptor.md",
     "catecholamine.md",
