@@ -1,0 +1,1 @@
+1. carboxylic [[acid]]; an [[organic acid]] that contains a carboxyl group (−C(=O)−OH)^[https://en.wikipedia.org/wiki/Carboxylic_acid#cite_note-1] attached to an [[substituent|R-group]]

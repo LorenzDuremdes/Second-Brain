@@ -1,0 +1,1 @@
+1. synonym: R group^[https://en.wikipedia.org/wiki/R_group]

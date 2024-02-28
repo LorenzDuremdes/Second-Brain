@@ -1,0 +1,1 @@
+1. organic acid; an [[organic compound]] with [[acid|acidic]] properties^[https://en.wikipedia.org/wiki/Organic_acid]

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b2ca37853ebed3df",
+            "id": "2a9eab0908d8ab94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNA hypomethylation.md",
+                "file": "substituent.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DNA hypomethylation.md",
+                "file": "substituent.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "methylation",
+                "query": "r-group",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DNA hypomethylation.md",
+                "file": "substituent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DNA hypomethylation.md",
+                "file": "substituent.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DNA hypomethylation.md"
+                "file": "substituent.md"
               }
             }
           },
@@ -181,11 +181,26 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b2ca37853ebed3df",
+  "active": "2a9eab0908d8ab94",
   "lastOpenFiles": [
-    "DNA methylation.md",
-    "DNA hypomethylation.md",
+    "carboxylic acid.md",
+    "substituent.md",
+    "functional group.md",
+    "cellular respiration.md",
+    "chemical bond.md",
+    "covalent bond.md",
+    "stellar evolution.md",
+    "ventilatory threshold.md",
+    "organic chemistry.md",
+    "organic compound.md",
+    "hydrogen.md",
+    "organic acid.md",
+    "precursor (biochemistry).md",
+    "tyrosine hydroxylase.md",
+    "amino acid.md",
     "CLOCK gene.md",
+    "DNA hypomethylation.md",
+    "DNA methylation.md",
     "circadian rhythm.md",
     "undulation (road cycling).md",
     "subconjunctival bleeding.md",
@@ -194,30 +209,15 @@
     "transhumanism.md",
     "posthuman.md",
     "superhuman.md",
-    "2020s in fashion.md",
-    "quiet luxury.md",
-    "futurism fashion.md",
-    "fashion.md",
-    "2010s in fashion.md",
-    "athleisure.md",
-    "time trial.md",
-    "functional reserve capacity.md",
-    "Zwift.md",
     "Oldenzaal naar Enschede - ZwiftApp_vD4fiCiEce.png",
     "Enschede naar Oldenzaal - ZwiftApp_4MLoG9hVwW.png",
-    "negative split.md",
     "20m TT simulation with negative split and undulation.png",
-    "microcycle.md",
-    "block (sports periodization).md",
     "Threshold 2.png",
     "SweetSpot w Bursts.png",
     "Malevolent.png",
     "FTP w Bursts.png",
     "Exemplar.png",
     "It's all about the Foundation.png",
-    "Sweetspot w steeps.png",
-    "image.md",
-    "urine.md",
-    "saliva.md"
+    "Sweetspot w steeps.png"
   ]
 }

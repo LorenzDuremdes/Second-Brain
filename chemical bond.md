@@ -1,3 +1,3 @@
 1. chemical bond; a lasting attraction between atoms, ions or molecules that enables the formation of chemical compounds
-2. **Examples of Lewis dot-style representations of chemical bonds between [[carbon]] (C), hydrogen (H), and oxygen (O). Lewis dot diagrams were an early attempt to describe chemical bonding and are still widely used today.**^[CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=540013]
+2. **Examples of Lewis dot-style representations of chemical bonds between [[carbon]] (C), [[hydrogen]] (H), and oxygen (O). Lewis dot diagrams were an early attempt to describe chemical bonding and are still widely used today.**^[CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=540013]
 	1. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Electron_dot.svg/1280px-Electron_dot.svg.png" width="600" />

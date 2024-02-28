@@ -1,0 +1,1 @@
+1. functional group; a [[substituent]] or moiety in a [[molecule]] that causes the [[molecule]]'s characteristic chemical reactions^[https://en.wikipedia.org/wiki/Functional_group]

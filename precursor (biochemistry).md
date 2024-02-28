@@ -1,0 +1,2 @@
+1. in [[biochemistry]], the term "precursor" often refers more specifically to a chemical compound preceding another in a metabolic pathway, such as a [[protein]] precursor^[https://en.wikipedia.org/wiki/Precursor_(chemistry)]
+2. *not to be confused with:* [[precursor (chemistry)]]

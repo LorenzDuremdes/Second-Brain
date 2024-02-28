@@ -1,2 +1,2 @@
 1. cellular respiration; the process by which biological fuels are oxidized in the presence of an inorganic electron acceptor, such as [[oxygen]], to drive the bulk production of adenosine triphosphate (ATP), which contains [[energy]]^[https://en.wikipedia.org/wiki/Cellular_respiration]
-	1. in this process, hydrogen atoms are stripped from the fuel molecules (carbohydrates and fats) and are eventually combined with [[oxygen]] to form [[water]]^[GPT-3.5]
+	1. in this process, [[hydrogen]] atoms are stripped from the fuel molecules (carbohydrates and fats) and are eventually combined with [[oxygen]] to form [[water]]^[GPT-3.5]
