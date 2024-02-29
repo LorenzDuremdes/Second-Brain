@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c2650f05f4a28a0c",
+            "id": "5f9cf28911900271",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "performance-enhancing substance.md",
+                "file": "stimulant.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "performance-enhancing substance.md",
+                "file": "stimulant.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "performance enhancing drugs",
+                "query": "stimulant",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "performance-enhancing substance.md",
+                "file": "stimulant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "performance-enhancing substance.md",
+                "file": "stimulant.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "performance-enhancing substance.md"
+                "file": "stimulant.md"
               }
             }
           },
@@ -180,10 +179,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c2650f05f4a28a0c",
+  "active": "5f9cf28911900271",
   "lastOpenFiles": [
-    "chlorodehydromethyltestosterone.md",
+    "methylphenidate.md",
+    "stimulant.md",
+    "performance-enhancing substance.md",
+    "fatty acid metabolism.md",
     "erythropoiesis.md",
+    "chlorodehydromethyltestosterone.md",
     "anabolic-androgenic steroid.md",
     "anabolic steroid.md",
     "drug.md",
@@ -205,10 +208,6 @@
     "catecholamine.md",
     "Biosynthetic pathways for catecholamines and trace amines in the human brain.png",
     "norepinephrine.md",
-    "adrenaline.md",
-    "epinephrine.md",
-    "dopamine.md",
-    "substituent.md",
     "Oldenzaal naar Enschede - ZwiftApp_vD4fiCiEce.png",
     "Enschede naar Oldenzaal - ZwiftApp_4MLoG9hVwW.png",
     "20m TT simulation with negative split and undulation.png",

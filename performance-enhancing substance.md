@@ -10,13 +10,13 @@
 11. [[sodium bicarbonate]]
 
 # performance-enhancing drugs (prioritized)
-1. [[GW501516]]
-2. [[chlorodehydromethyltestosterone]]
-3. [[boldenone undecylenate]]
-4. [[MK-677]]
-5. [[2-fluormethamphetamine]]
-6. [[bupropion]]
-7. [[phenylpiracetam]]
+1. [[GW501516]] | [[fatty acid metabolism]]
+2. [[chlorodehydromethyltestosterone]] | [[erythropoiesis]]
+3. [[boldenone undecylenate]] | [[erythropoiesis]]
+4. [[2-fluormethamphetamine]]^[[Tramadol is a performance-enhancing drug in highly trained cyclists: a randomized controlled trial - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/37410900/)]
+5. [[MK-677]]
+7. [[bupropion]]
+8. [[phenylpiracetam]]
 
 # articles
 1. [How I became a drug cheat athlete to test the system - BBC News](https://www.bbc.com/news/uk-scotland-32983932) | cyclist

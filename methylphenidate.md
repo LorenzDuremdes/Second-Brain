@@ -7,5 +7,5 @@
 	1. abnormal prefrontal [[brain]] function
 	2. impaired plasticity
 3. methylphenidate (synonym); Ritalin
-	1. a stimulant [[medication]] used to treat [[attention deficit hyperactivity disorder]] (ADHD) and narcolepsy.^[https://en.wikipedia.org/wiki/Methylphenidate#cite_note-AHFS2018-1]
+	1. a [[stimulant]] [[medication]] used to treat [[attention deficit hyperactivity disorder]] (ADHD) and narcolepsy.^[https://en.wikipedia.org/wiki/Methylphenidate#cite_note-AHFS2018-1]
 	2. 

@@ -1,0 +1,2 @@
+1. how long does it take for erythropoietin to take effect?
+	1. Following a rise in plasma Epo, it takes about 3-4 days before reticulocytosis (an increase in the number of reticulocytes, which are immature red blood cells) becomes apparent. This indicates that there is a lag period between the increase in Epo levels and the observable rise in red blood cell production.^[[Regulation of erythropoietin production - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3082088/), GPT-4]
