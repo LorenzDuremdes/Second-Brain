@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stimulant",
+                "query": "marginal gains",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,7 +180,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b3a87eb9d3a378be",
+  "active": "8412e88b9e28c8ed",
   "lastOpenFiles": [
     "stimulant.md",
     "altitude tent.md",
