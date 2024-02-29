@@ -11,14 +11,16 @@
 
 # performance-enhancing drugs (prioritized)
 1. [[GW501516]]
-2. [[MK-677]]
-3. [[2-fluormethamphetamine]]
-4. [[bupropion]]
-5. [[phenylpiracetam]]
+2. [[chlorodehydromethyltestosterone]]
+3. [[boldenone undecylenate]]
+4. [[MK-677]]
+5. [[2-fluormethamphetamine]]
+6. [[bupropion]]
+7. [[phenylpiracetam]]
 
-# vendors
-1. current personally favorite places to buy SARMS/PEDs:
-	1. eurosupps.nl
-	2. chemyo.com^[https://www.reddit.com/r/sarmssourcetalk/comments/n5u4vo/chemyo/]
+# articles
+1. [How I became a drug cheat athlete to test the system - BBC News](https://www.bbc.com/news/uk-scotland-32983932) | cyclist
+	1. I kept a video diary during this period and one entry tells of a three-hour ride on a dark, cold night, when my legs were sore. It should have been deeply unpleasant, except it wasn't. By the end of the ride, when I should have been wasted, I was as fresh as a daisy. This was to be become a feature. By week eight, the changes were obvious. I was climbing big hills four hours into a ride as if they were not there.
+
 # related
 1. [[sports science]]

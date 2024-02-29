@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chlorodehydromethyltestosterone.md",
+                "file": "performance-enhancing substance.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "chlorodehydromethyltestosterone.md",
+                "file": "performance-enhancing substance.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "drug",
+                "query": "performance enhancing drugs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chlorodehydromethyltestosterone.md",
+                "file": "performance-enhancing substance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chlorodehydromethyltestosterone.md",
+                "file": "performance-enhancing substance.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chlorodehydromethyltestosterone.md"
+                "file": "performance-enhancing substance.md"
               }
             }
           },
@@ -181,8 +182,8 @@
   },
   "active": "c2650f05f4a28a0c",
   "lastOpenFiles": [
-    "erythropoiesis.md",
     "chlorodehydromethyltestosterone.md",
+    "erythropoiesis.md",
     "anabolic-androgenic steroid.md",
     "anabolic steroid.md",
     "drug.md",
