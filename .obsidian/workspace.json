@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aerobic system.md",
+                "file": "anaerobic capacity.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "aerobic system.md",
+                "file": "anaerobic capacity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aerobic system",
+                "query": "anaero",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aerobic system.md",
+                "file": "anaerobic capacity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aerobic system.md",
+                "file": "anaerobic capacity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aerobic system.md"
+                "file": "anaerobic capacity.md"
               }
             }
           },
@@ -182,8 +183,9 @@
   },
   "active": "2e5b7001b8a2d334",
   "lastOpenFiles": [
-    "TT pacing strategies.md",
+    "anaerobic energy systems.md",
     "aerobic system.md",
+    "TT pacing strategies.md",
     "myWindsock.md",
     "pacing strategies.md",
     "aralkylamine N-acetyltransferase.md",
@@ -207,7 +209,6 @@
     "migraine.md",
     "autism.md",
     "melatonin.md",
-    "mutation.md",
     "Biosynthetic pathways for catecholamines and trace amines in the human brain.png",
     "Oldenzaal naar Enschede - ZwiftApp_vD4fiCiEce.png",
     "Enschede naar Oldenzaal - ZwiftApp_4MLoG9hVwW.png",
