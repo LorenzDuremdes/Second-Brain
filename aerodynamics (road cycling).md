@@ -1,4 +1,6 @@
 1. when two cyclists ride next to each other, they both must put in 8% extra power to overcome the increased air resistance^[https://www.inthefieldstories.net/the-science-behind-a-cycling-victory/]
+2. Daniel Bigham himself puts his performance down to 50% [[physiology]] and 50% equipment (137).^[[Can there be two speeds in a clean peloton? Performance strategies in modern road cycling – The Sport Journal](https://thesportjournal.org/article/can-there-be-two-speeds-in-a-clean-peloton-performance-strategies-in-modern-road-cycling/)]
+	1. his coefficient of aerodynamic drag (CdA) was ~0.15, which is considerably below what is commonly seen in cyclists, including professionals (41).
 
 # aerodynamic upgrades
 1. [How Much Speed Can You Buy? - YouTube](https://www.youtube.com/watch?v=dpCe-gz_2_E)
