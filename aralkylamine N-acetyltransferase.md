@@ -1,0 +1,2 @@
+1. aralkylamine N-acetyltransferase; an enzyme that is involved in the day/night rhythmic production of [[melatonin]], by modification of [[serotonin]]^[https://en.wikipedia.org/wiki/Aralkylamine_N-acetyltransferase]
+	1. **see also:** [Biological correlates of altered circadian rhythms, autonomic functions and sleep problems in autism spectrum disorder | Annals of General Psychiatry | Full Text (biomedcentral.com)](https://annals-general-psychiatry.biomedcentral.com/articles/10.1186/s12991-022-00390-6#Sec4)
