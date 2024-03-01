@@ -5,7 +5,8 @@
 
 # hybrid athletes
 1. [Nick Bare](https://www.instagram.com/nickbarefitness/?hl=en)
-2. [Alex Viada](https://www.instagram.com/alex.viada/?hl=en)
+2. [[Chad Timmerman]]
+3. [Alex Viada](https://www.instagram.com/alex.viada/?hl=en)
 
 # articles
 1. [What is a Hybrid Athlete | The Guide to Strength and Endurance – Bare Performance Nutrition](https://www.bareperformancenutrition.com/blogs/content/what-is-a-hybrid-athlete-the-full-guide-to-strength-endurance)
