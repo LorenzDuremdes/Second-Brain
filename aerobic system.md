@@ -1,0 +1,1 @@
+1. after five minutes of exercise, the O2 system is dominant^[https://en.wikipedia.org/wiki/Bioenergetic_systems]
