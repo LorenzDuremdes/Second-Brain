@@ -20,3 +20,32 @@
 
 ### glutes
 1. lunges^[https://youtu.be/9UKRwMxjPbQ?t=451]
+
+# concurrent training with road cycling
+1. The weight training exercises to include in your program will largely depend on your current levels of physical function, injury history, technical proficiency, medical history, age, training history, goals, and training phase. Though to get your imagination going, in cycling research, the exercises I primarily see getting used include the following strength, power, and core exercises1,3–5,14,17^[[Weight Training for Cyclists (everything you need to know) - Road Cycling Academy](https://roadcyclingacademy.com/weight-training-for-cyclists/#What_weight_training_exercises_should_I_do_7)]:
+
+**Lower-body strength prescriptions**
+1. Smith machine squat
+2. Leg press
+3. Calf raises
+4. Resisted hip flexion (cable)
+5. Trap-bar deadlift
+6. Romanian deadlift
+7. Goblet squat
+8. Split squat
+9. Single-leg deadlift
+
+**Lower-body power prescriptions**
+1. Single-leg countermovement jump
+2. Explosive step-ups (~30 – 40 cm box, would depend on athlete height)
+3. Squat jump (body weight)
+4. Squat jump (barbell)
+
+**Core prescriptions**
+1. Front plank
+2. Side plank
+3. Bridge (single leg)
+4. Bird-dog
+5. Balance
+6. Diver
+7. Dead bug

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hybrid athlete.md",
+                "file": "resistance training.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "hybrid athlete.md",
+                "file": "resistance training.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hybrid",
+                "query": "resistance tra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hybrid athlete.md",
+                "file": "resistance training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hybrid athlete.md",
+                "file": "resistance training.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hybrid athlete.md"
+                "file": "resistance training.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "2e5b7001b8a2d334",
   "lastOpenFiles": [
+    "hybrid athlete.md",
     "anaerobic capacity.md",
     "anaerobic energy systems.md",
     "aerobic system.md",
@@ -208,7 +209,6 @@
     "focal seizure.md",
     "epilepsy.md",
     "migraine.md",
-    "autism.md",
     "Biosynthetic pathways for catecholamines and trace amines in the human brain.png",
     "Oldenzaal naar Enschede - ZwiftApp_vD4fiCiEce.png",
     "Enschede naar Oldenzaal - ZwiftApp_4MLoG9hVwW.png",
