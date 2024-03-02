@@ -14,6 +14,7 @@
 	2. 33 = descending  
 	3. average is usually in between (or try to create intervals where this is the case)
 	4. <u>33</u> underscored goes before 27 in this case to denote that's the [[speed]] you start with (useful for e.g. calibrating power/RPE) and 27 you end with
+	5. **33>27** → you start with 33, keep this pace, and (slowly) end up with 27 (i.e. don't really have to take into account an average)
 
 # execution
 1. how can you know via [[myWindsock]] that the weather changed (e.g. stronger headwind) after already having prepared the pacing on the top tube?
