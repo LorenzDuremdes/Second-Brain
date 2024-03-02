@@ -11,6 +11,7 @@
 		1. Way to take a shitty situation and make it much more miserable! Seriously, awesome job!
 		2. Psycho behavior and I love it
 		3. Being 30+ is when you have a long run scheduled that you need to wrap up before work, but also need to stay close enough to home to supervise your daughter, because your wife is out of town... So you run a full marathon around the cul-de-sac. ~400 laps!
+	4. treadmill 50 miler^[https://new.reddit.com/r/Strava/comments/18xy2n0/january_1st/]
 2. [Nick Bare](https://www.instagram.com/nickbarefitness/?hl=en)
 3. Chad Timmerman
 4. [Fergus Crawly](https://www.instagram.com/ferguscrawley/?hl=en)
