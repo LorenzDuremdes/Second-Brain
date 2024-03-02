@@ -5,18 +5,20 @@
 
 # hybrid athletes
 1. [DadliftsnRuns](https://new.reddit.com/user/DadliftsnRuns/)
-	1. [I was supposed to run Brazos Bend 100k last weekend, but it got cancelled... So I ran 32 miles in a 0.07mi cul-de-sac instead. : Ultramarathon (reddit.com)](https://new.reddit.com/r/Ultramarathon/comments/18domkk/i_was_supposed_to_run_brazos_bend_100k_last/)
+	1. [I completed a 100 mile ultramarathon, and then bench pressed 405 only 3 days later!](https://new.reddit.com/r/GYM/comments/1alzzrm/i_completed_a_100_mile_ultramarathon_and_then/)
+		1. Absolutely insane. Gotta imagine the % of people in the world who can do both is like .00001% (~788). Arguably even .000001% (~78). Truly world class fitness man. Would love to even achieve being able to run a marathon in a good time + bench 315.
+	2. [I was supposed to run Brazos Bend 100k last weekend, but it got cancelled... So I ran 32 miles in a 0.07mi cul-de-sac instead. : Ultramarathon (reddit.com)](https://new.reddit.com/r/Ultramarathon/comments/18domkk/i_was_supposed_to_run_brazos_bend_100k_last/)
 		1. Way to take a shitty situation and make it much more miserable! Seriously, awesome job!
 		2. Psycho behavior and I love it
-2. [Nick Bare](https://www.instagram.com/nickbarefitness/?hl=en)
-3. Chad Timmerman
-4. [Fergus Crawly](https://www.instagram.com/ferguscrawley/?hl=en)
+3. [Nick Bare](https://www.instagram.com/nickbarefitness/?hl=en)
+4. Chad Timmerman
+5. [Fergus Crawly](https://www.instagram.com/ferguscrawley/?hl=en)
 	4. On Instagram you can see him routinely chalking off a 60km ultra and deadlifting the Dinnie Stones, or powerlifting a combined 600kg and chalking off an Olympic triathlon. Often on the same day, just hours apart.
-5. [Tommy Newell](https://www.instagram.com/tommynewell/)
-6. [Alex Viada](https://www.instagram.com/alex.viada/?hl=en)
-7. [Hunter McIntyre](https://www.instagram.com/huntthesheriff/)
-8. [Ollie Marchon](https://www.instagram.com/olliemarchon/)
-9. [Alec Blenis](https://www.instagram.com/alecblenis/)
+6. [Tommy Newell](https://www.instagram.com/tommynewell/)
+7. [Alex Viada](https://www.instagram.com/alex.viada/?hl=en)
+8. [Hunter McIntyre](https://www.instagram.com/huntthesheriff/)
+9. [Ollie Marchon](https://www.instagram.com/olliemarchon/)
+10. [Alec Blenis](https://www.instagram.com/alecblenis/)
 
 # articles
 1. [What is a Hybrid Athlete | The Guide to Strength and Endurance – Bare Performance Nutrition](https://www.bareperformancenutrition.com/blogs/content/what-is-a-hybrid-athlete-the-full-guide-to-strength-endurance)
