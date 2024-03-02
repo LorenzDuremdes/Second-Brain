@@ -65,7 +65,7 @@
 # related
 1. [[sports science]]
 2. [[aerobic exercise]]
-3. [[TT pacing strategies]]
+3. [[time trial (TT) pacing strategies]]
 
 # sources
 1. [Pro Tips For Riding Fast](https://youtu.be/7F3iq9v_t0E)
