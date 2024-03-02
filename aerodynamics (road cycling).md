@@ -23,4 +23,4 @@
 3.  [EZ Aero Front Derailleur Guard save 2-5.8 Watts – EZ Gains Ltd](https://ezgains.co.uk/products/ez-aero-front-derailleur-guard-save-2-6-watts) €106.95
 4. [Aero Gloves – Aero Cycling Gear](https://www.aerocyclinggear.nl/products/aero-gloves) €39.95
 5. [FUTURUM Face Mask Merino (Futurumshop.nl)](https://www.futurumshop.nl/futurum-face-mask-merino.phtml) €30.99 (Specialized 2023 S-Works TT 5 Team)
-6. [Monarch (VeloVetta)](https://www.velovetta.com/collections/cycling-shoes/products/monarch) | **cheaper alternative:** Non UCI Aero Overshoes (Rule 28)
+6. [[Monarch (VeloVetta)]] | **cheaper alternative:** Non UCI Aero Overshoes (Rule 28)
