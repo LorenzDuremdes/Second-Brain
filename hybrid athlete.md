@@ -4,7 +4,7 @@
    Scan through Bare’s content, and you’ll instantly know he trains. A lot. He’s posted about logging nearly 80-mile weeks running, yet he still has a superheroic chest and the sculpted arms and abs of a weight room junkie. Scroll through his YouTube feed and you'll see videos of his bodybuilding show prep. Scroll some more, and he’s prepping for an ultramarathon. It’s a non-stop cycle, and I’m almost tired just looking at it.^[https://www.menshealth.com/fitness/a45712102/hybrid-athlete/]
 
 # hybrid athletes
-1. [DadliftsnRuns](https://new.reddit.com/user/DadliftsnRuns/)
+1. [DadliftsnRuns](https://new.reddit.com/user/DadliftsnRuns/) ([Cody Furstenau](https://www.instagram.com/dadliftn/?hl=en))
 	1. [I completed a 100 mile ultramarathon, and then bench pressed 405 only 3 days later!](https://new.reddit.com/r/GYM/comments/1alzzrm/i_completed_a_100_mile_ultramarathon_and_then/)
 		1. Absolutely insane. Gotta imagine the % of people in the world who can do both is like .00001% (~788). Arguably even .000001% (~78). Truly world class fitness man. Would love to even achieve being able to run a marathon in a good time + bench 315.
 	2. [I was supposed to run Brazos Bend 100k last weekend, but it got cancelled... So I ran 32 miles in a 0.07mi cul-de-sac instead. : Ultramarathon (reddit.com)](https://new.reddit.com/r/Ultramarathon/comments/18domkk/i_was_supposed_to_run_brazos_bend_100k_last/)
