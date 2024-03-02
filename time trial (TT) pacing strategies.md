@@ -17,6 +17,7 @@
 	5. **33>27** → you start with 33, keep this pace, and (slowly) end up with 27 (i.e. don't really have to take into account an average)
 		1. e.g. downhill followed by flat
 	2. 1 interval is usually determined when ascending vs. descending (or when wind direction changes)
+	3. 33+27 → the average is a bit higher than the average of the 2 numbers (e.g. 31 instead of 30 in this case)
 
 # execution
 1. how can you know via [[myWindsock]] that the weather changed (e.g. stronger headwind) after already having prepared the pacing on the top tube?
