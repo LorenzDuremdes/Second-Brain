@@ -5,6 +5,9 @@
 
 # hybrid athletes
 1. [DadliftsnRuns](https://new.reddit.com/user/DadliftsnRuns/)
+	1. [I was supposed to run Brazos Bend 100k last weekend, but it got cancelled... So I ran 32 miles in a 0.07mi cul-de-sac instead. : Ultramarathon (reddit.com)](https://new.reddit.com/r/Ultramarathon/comments/18domkk/i_was_supposed_to_run_brazos_bend_100k_last/)
+		1. Way to take a shitty situation and make it much more miserable! Seriously, awesome job!
+		2. Psycho behavior and I love it
 2. [Nick Bare](https://www.instagram.com/nickbarefitness/?hl=en)
 3. Chad Timmerman
 4. [Fergus Crawly](https://www.instagram.com/ferguscrawley/?hl=en)
