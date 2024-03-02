@@ -47,4 +47,6 @@
 	   
 	   But the top dog would be happy about that, because the world would be better if everyone could run faster.
 	3. *noblesse oblige*
-2. 
+
+# related
+1. [[hybrid athlete]]

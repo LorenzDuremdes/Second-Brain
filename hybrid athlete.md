@@ -25,3 +25,6 @@
 # articles
 1. [What is a Hybrid Athlete | The Guide to Strength and Endurance – Bare Performance Nutrition](https://www.bareperformancenutrition.com/blogs/content/what-is-a-hybrid-athlete-the-full-guide-to-strength-endurance)
 2. [What Is a Hybrid Athlete - Nick Bare, Alex Viada Explain Training (menshealth.com)](https://www.menshealth.com/fitness/a45712102/hybrid-athlete/)
+
+# related
+1. [[superhuman]]
