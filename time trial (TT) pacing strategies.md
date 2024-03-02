@@ -9,11 +9,11 @@
 2. 100 = all out (dFRC)
 3. 0 = < Z2
 4. n+ = you might be able to go faster (e.g. due to coverage e.g. trees) as [[myWindsock]] doesn't account for such things (yet ~2024)
-5. 33-27
+5. <u>33</u>-<u>27</u>
 	1. 27 = e.g. ascending  
 	2. 33 = descending  
 	3. average is usually in between  
-	4. 33 goes before 27 in this case to denote that's the [[speed]] you start with (useful for e.g. calibrating power/RPE)
+	4. <u>33</u> underscored goes before 27 in this case to denote that's the [[speed]] you start with (useful for e.g. calibrating power/RPE) and 27 you end with
 
 # execution
 1. how can you know via [[myWindsock]] that the weather changed (e.g. stronger headwind) after already having prepared the pacing on the top tube?
