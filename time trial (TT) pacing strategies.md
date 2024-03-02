@@ -12,7 +12,7 @@
 5. <u>33</u>-<u>27</u>
 	1. 27 = e.g. ascending  
 	2. 33 = descending  
-	3. average is usually in between  
+	3. average is usually in between (or try to create intervals where this is the case)
 	4. <u>33</u> underscored goes before 27 in this case to denote that's the [[speed]] you start with (useful for e.g. calibrating power/RPE) and 27 you end with
 
 # execution
