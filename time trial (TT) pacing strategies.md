@@ -13,7 +13,7 @@
 	1. 27 = e.g. ascending  
 	2. 33 = descending  
 	3. average is usually in between  
-	4. 33 goes before 27 in this case to denote that's the [[speed]] you start with (useful for e.g. calibrating autoregulation)
+	4. 33 goes before 27 in this case to denote that's the [[speed]] you start with (useful for e.g. calibrating power/RPE)
 
 # execution
 1. how can you know via [[myWindsock]] that the weather changed (e.g. stronger headwind) after already having prepared the pacing on the top tube?
