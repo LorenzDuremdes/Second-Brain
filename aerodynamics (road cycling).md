@@ -1,6 +1,6 @@
-1. when two cyclists ride next to each other, they both must put in 8% extra power to overcome the increased air resistance^[https://www.inthefieldstories.net/the-science-behind-a-cycling-victory/]
-2. Daniel Bigham himself puts his performance down to 50% [[physiology]] and 50% equipment (137).^[[Can there be two speeds in a clean peloton? Performance strategies in modern road cycling – The Sport Journal](https://thesportjournal.org/article/can-there-be-two-speeds-in-a-clean-peloton-performance-strategies-in-modern-road-cycling/)]
-	1. his coefficient of aerodynamic drag (CdA) was ~0.15, which is considerably below what is commonly seen in cyclists, including professionals (41).
+1. myWindsock (userbase statistics > power vs. CdA)
+   ![image](https://mywindsock.com/page/wp-content/uploads/2023/03/power.png)
+   ![image](https://mywindsock.com/page/wp-content/uploads/2023/03/cda.png)
 
 # aerodynamic upgrades
 1. [How Much Speed Can You Buy? - YouTube](https://www.youtube.com/watch?v=dpCe-gz_2_E)
@@ -26,6 +26,8 @@
 6. [[Monarch (VeloVetta)]] | **cheaper alternative:** Non UCI Aero Overshoes (Rule 28)
 
 # biomechanics
+1. Daniel Bigham himself puts his performance down to 50% [[physiology]] and 50% equipment (137).^[[Can there be two speeds in a clean peloton? Performance strategies in modern road cycling – The Sport Journal](https://thesportjournal.org/article/can-there-be-two-speeds-in-a-clean-peloton-performance-strategies-in-modern-road-cycling/)]
+	1. his coefficient of aerodynamic drag (CdA) was ~0.15, which is considerably below what is commonly seen in cyclists, including professionals (41).
 ## praying mantis
 1. it allows ur shoulders to drop and head to tuck down and in
    
@@ -36,3 +38,6 @@
    ![image](https://cdn.sanity.io/images/hk2y3slq/production/da56101f5d36180b26ee859bd43d448f06ec73eb-4523x3015.jpg/GettyImages-1661633447.jpg?w=1348&auto=format)
 2. https://www.trainerroad.com/forum/t/a-time-trialing-thread/46868/2053?u=lorenz_duremdes
    ![image](https://global.discourse-cdn.com/trainerroad/original/3X/b/0/b036eb4a9d2f5b7fefbbc1d006f3eea8ea746a30.jpeg)
+
+# TTT
+1. when two cyclists ride next to each other, they both must put in 8% extra power to overcome the increased air resistance^[https://www.inthefieldstories.net/the-science-behind-a-cycling-victory/]
