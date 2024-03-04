@@ -30,3 +30,9 @@
 1. it allows ur shoulders to drop and head to tuck down and in
    
    I believe it was testing from findingfreestyle? Trentnix? Desert dude ? That says parallel bars are actually faster IF all things are the same, eg head position etc etc…..i think the idea with high hands position is to allow that change though. To allow other portions of the body to become more aerodynamic.^[https://forum.slowtwitch.com/forum/Slowtwitch_Forums_C1/Triathlon_Forum_F1/Finish_this_sentence..._Praying_mantis_aerobar_position_is_better_if..._P7818324/?forum_view=forum_view_collapsed&]
+
+## images
+1. Remco Evenepoel^[[Head-down TT position: Dangers back in the spotlight, despite new UCI rules | GCN (globalcyclingnetwork.com)](https://www.globalcyclingnetwork.com/tech/news/head-down-tt-position-dangers-back-in-the-spotlight-despite-new-uci-rules)]
+   ![image](https://cdn.sanity.io/images/hk2y3slq/production/da56101f5d36180b26ee859bd43d448f06ec73eb-4523x3015.jpg/GettyImages-1661633447.jpg?w=1348&auto=format)
+2. https://www.trainerroad.com/forum/t/a-time-trialing-thread/46868/2053?u=lorenz_duremdes
+   ![image](https://global.discourse-cdn.com/trainerroad/original/3X/b/0/b036eb4a9d2f5b7fefbbc1d006f3eea8ea746a30.jpeg)
