@@ -24,3 +24,9 @@
 4. [Aero Gloves – Aero Cycling Gear](https://www.aerocyclinggear.nl/products/aero-gloves) €39.95
 5. [FUTURUM Face Mask Merino (Futurumshop.nl)](https://www.futurumshop.nl/futurum-face-mask-merino.phtml) €30.99 (Specialized 2023 S-Works TT 5 Team)
 6. [[Monarch (VeloVetta)]] | **cheaper alternative:** Non UCI Aero Overshoes (Rule 28)
+
+# biomechanics
+## praying mantis
+1. it allows ur shoulders to drop and head to tuck down and in
+   
+   I believe it was testing from findingfreestyle? Trentnix? Desert dude ? That says parallel bars are actually faster IF all things are the same, eg head position etc etc…..i think the idea with high hands position is to allow that change though. To allow other portions of the body to become more aerodynamic.^[https://forum.slowtwitch.com/forum/Slowtwitch_Forums_C1/Triathlon_Forum_F1/Finish_this_sentence..._Praying_mantis_aerobar_position_is_better_if..._P7818324/?forum_view=forum_view_collapsed&]
