@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "oral turinabol",
+                "query": "turinabol",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -162,7 +162,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,6 +183,8 @@
   },
   "active": "6e5da0f8d1898f82",
   "lastOpenFiles": [
+    "performance-enhancing substance.md",
+    "chlorodehydromethyltestosterone.md",
     "time trial.md",
     "Graeme Obree.md",
     "hour record (time trial (cycling)).md",
@@ -206,8 +209,6 @@
     "aerobic system.md",
     "myWindsock.md",
     "aralkylamine N-acetyltransferase.md",
-    "sarcoplasmic reticulum.md",
-    "altitude tent.md",
     "Biosynthetic pathways for catecholamines and trace amines in the human brain.png",
     "Oldenzaal naar Enschede - ZwiftApp_vD4fiCiEce.png",
     "Enschede naar Oldenzaal - ZwiftApp_4MLoG9hVwW.png",

@@ -8,7 +8,12 @@
 ## pharmacokinetics
 1. how does chlorodehydromethyltestosterone (Oral Turinabol) increase endurance?
 	1. [[erythropoiesis]] (RBC)
-2. 20 mg for endurance with an ~8 week cycle length[https://web.archive.org/web/20181011004425/http://www.buildbody.org.ua/farmakologiya/oral-turinabol]
+2. The maximum dose recorded for a male sprinter was 1850 mg/year, an average of 11 mg/day during the administration period, or an average of 5 mg/day over the whole year.^[https://www.t-nation.com/pharma/anabolic-athletics/]^[https://www.reddit.com/r/Sprinting/comments/m5rjv4/east_germans_and_peds_in_track_and_field/]^[https://www.reddit.com/r/steroids/comments/57ud1a/anyone_ever_tried_the_east_german_dosing_protocol/]^[https://www.reddit.com/r/PEDs/comments/ec6aej/where_can_i_find_information_about_east_germanys/]
+	1. ~4–6 week cycles with 2–4 week breaks
+		1. This system gave a total administration period of 24 weeks with the rest of the year off.
+	2. 5–20 mg for women^[https://academic.oup.com/clinchem/article/43/7/1262/5640958]
+3. 20 mg/d for endurance with an ~8 week cycle length[https://web.archive.org/web/20181011004425/http://www.buildbody.org.ua/farmakologiya/oral-turinabol]
+
 # sources
 1. [Hormonal doping and androgenization of athletes: a secret program of the German Democratic Republic government -- Franke and Berendonk 43 (7): 1262 -- Clinical Chemistry (archive.org)](https://web.archive.org/web/20110514103044/http://www.clinchem.org/cgi/content/full/43/7/1262)
 2. [Wayback Machine (archive.org)](https://web.archive.org/web/20181011004425/http://www.buildbody.org.ua/farmakologiya/oral-turinabol)
