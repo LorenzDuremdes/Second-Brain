@@ -41,7 +41,7 @@
 	1. avoid downhill and headwind (same reason)
 3. try to account for dynamic/variable wind [[speed]] (e.g. when going in the same direction back and forth, try to have a higher tailwind [[speed]])
 4. try to not cycle directly/straight into a headwind (quadratic air resistance)
-5. try to be in a terrain where you can use aerobars/Graeme Obree's superman as long as possible
+5. try to be in a terrain where you can use aerobars/[[Graeme Obree]]'s superman as long as possible
 
 # climbing strategies
 1. flat → climb (FTP)

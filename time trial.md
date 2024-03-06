@@ -1,4 +1,4 @@
-1. "It’s not the person who goes the fastest who wins, but the person who slows down the least." —Graeme Obree^[https://www.bikeradar.com/features/why-its-faster-to-ride-hard-into-a-headwind-than-with-a-tailwind/]
+1. "It’s not the person who goes the fastest who wins, but the person who slows down the least." —[[Graeme Obree]]^[https://www.bikeradar.com/features/why-its-faster-to-ride-hard-into-a-headwind-than-with-a-tailwind/]
 	1. In other words, keep your average [[speed]] up throughout, rather than peaking on some sections and stalling on others
 2. why is [[time]] trialing also known as "race of truth"?^[The Cyclist's Training Bible, p. 19]
 	1. because there's not much you can do tactically to hide your limiter. It's just you and the clock.
@@ -10,6 +10,9 @@
 		1. what are other moments you can (and perhaps should) do them early on?
 			1. e.g. at end of a [[microcycle]] (before e.g. weekend)/[[mesocycle]] (before a deload microcyle)
 			2. when having skipped 1 or more workouts (and feeling recovered well enough + not hindering further workouts / CTL)
+2. example of a person who didn't necessarily have good recovery abilities but was still extremely fast ([[road cycling]])
+	1. [[Chris Boardman]] and [[Graeme Obree]]^[https://www.trainerroad.com/forum/t/next-cycling-superstar-red-walters/56696/8?u=lorenz_duremdes]
+	2. a slower recovery might also mean you more easily get more adaptations from the same stimuli (e.g. being more fast-twitch dominant), which can be more beneficial in long-term for e.g. time trialing
 
 # equipment
 1. how could it make sense that aero **overshoes** save so many watts relatively?
@@ -25,4 +28,4 @@
 
 # [[negative split]]
 1. what's another advantage of [[negative split]] other than physiologically/psychologically? (triathlon)
-	1. [[aerodynamics (road cycling)]] → progressively increasing speed in any race allows the runner to focus on passing each person running directly ahead.^[https://en.wikipedia.org/wiki/Negative_split#cite_note-19] (cyclist in this case)
+	1. [[aerodynamics (road cycling)]] → progressively increasing [[speed]] in any race allows the runner to focus on passing each person running directly ahead.^[https://en.wikipedia.org/wiki/Negative_split#cite_note-19] (cyclist in this case)

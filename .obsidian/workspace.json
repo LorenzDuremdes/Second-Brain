@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exception handling.md",
+                "file": "time trial.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "exception handling.md",
+                "file": "time trial.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "velovetta",
+                "query": "time trial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exception handling.md",
+                "file": "time trial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exception handling.md",
+                "file": "time trial.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exception handling.md"
+                "file": "time trial.md"
               }
             }
           },
@@ -161,8 +162,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,8 +182,11 @@
   },
   "active": "6e5da0f8d1898f82",
   "lastOpenFiles": [
-    "Monarch (VeloVetta).md",
+    "Graeme Obree.md",
+    "time trial.md",
+    "hour record (time trial (cycling)).md",
     "exception handling.md",
+    "Monarch (VeloVetta).md",
     "sodium.md",
     "osmotic concentration.md",
     "sodium chloride.md",
@@ -193,7 +196,6 @@
     "Chris Boardman.md",
     "time trial (TT) pacing strategies.md",
     "pacing strategies.md",
-    "time trial.md",
     "time trial bike.md",
     "hybrid athlete.md",
     "transhumanism.md",
@@ -206,8 +208,6 @@
     "aralkylamine N-acetyltransferase.md",
     "sarcoplasmic reticulum.md",
     "altitude tent.md",
-    "stimulant.md",
-    "methylphenidate.md",
     "Biosynthetic pathways for catecholamines and trace amines in the human brain.png",
     "Oldenzaal naar Enschede - ZwiftApp_vD4fiCiEce.png",
     "Enschede naar Oldenzaal - ZwiftApp_4MLoG9hVwW.png",
