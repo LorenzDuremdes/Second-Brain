@@ -19,3 +19,7 @@
 1. [Hormonal doping and androgenization of athletes: a secret program of the German Democratic Republic government -- Franke and Berendonk 43 (7): 1262 -- Clinical Chemistry (archive.org)](https://web.archive.org/web/20110514103044/http://www.clinchem.org/cgi/content/full/43/7/1262)
 2. [Wayback Machine (archive.org)](https://web.archive.org/web/20181011004425/http://www.buildbody.org.ua/farmakologiya/oral-turinabol)
 3. https://www.steroid.com/search/overall.php?&query=turinabol
+
+# history
+1. why was Oral Turinabol originally created?
+	1. [[metandienone]] ([[Dianabol]]) caused e.g. water weight gain^[https://youtu.be/06f0hbRLg0Y?si=TLm-N9Wt1FCqcCQR&t=120, Dr. Thomas O'Connor]

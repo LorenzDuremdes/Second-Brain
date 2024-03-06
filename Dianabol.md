@@ -1,0 +1,1 @@
+redirect: [[metandienone]]^[https://en.wikipedia.org/wiki/Metandienone]
