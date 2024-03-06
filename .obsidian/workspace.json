@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9144876c5971ea6",
+            "id": "6e5da0f8d1898f82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monarch (VeloVetta).md",
+                "file": "exception handling.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Monarch (VeloVetta).md",
+                "file": "exception handling.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monarch (VeloVetta).md",
+                "file": "exception handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monarch (VeloVetta).md",
+                "file": "exception handling.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Monarch (VeloVetta).md"
+                "file": "exception handling.md"
               }
             }
           },
@@ -181,8 +180,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c9144876c5971ea6",
+  "active": "6e5da0f8d1898f82",
   "lastOpenFiles": [
+    "Monarch (VeloVetta).md",
+    "exception handling.md",
     "sodium.md",
     "osmotic concentration.md",
     "sodium chloride.md",
@@ -197,7 +198,6 @@
     "hybrid athlete.md",
     "transhumanism.md",
     "superhuman.md",
-    "Monarch (VeloVetta).md",
     "resistance training.md",
     "anaerobic capacity.md",
     "anaerobic energy systems.md",
@@ -208,7 +208,6 @@
     "altitude tent.md",
     "stimulant.md",
     "methylphenidate.md",
-    "performance-enhancing substance.md",
     "Biosynthetic pathways for catecholamines and trace amines in the human brain.png",
     "Oldenzaal naar Enschede - ZwiftApp_vD4fiCiEce.png",
     "Enschede naar Oldenzaal - ZwiftApp_4MLoG9hVwW.png",
