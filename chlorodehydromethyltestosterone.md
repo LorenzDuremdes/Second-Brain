@@ -11,7 +11,8 @@
 2. The maximum dose recorded for a male sprinter was 1850 mg/year, an average of 11 mg/day during the administration period, or an average of 5 mg/day over the whole year.^[https://www.t-nation.com/pharma/anabolic-athletics/]^[https://www.reddit.com/r/Sprinting/comments/m5rjv4/east_germans_and_peds_in_track_and_field/]^[https://www.reddit.com/r/steroids/comments/57ud1a/anyone_ever_tried_the_east_german_dosing_protocol/]^[https://www.reddit.com/r/PEDs/comments/ec6aej/where_can_i_find_information_about_east_germanys/]
 	1. ~4–6 week cycles with 2–4 week breaks
 		1. This system gave a total administration period of 24 weeks with the rest of the year off
-		2. They cycled the administration of the drug in order to preserve receptor affinity
+		2. They cycled the administration of the [[performance-enhancing substance|drug]] in order to preserve receptor affinity
+		3. As the doctors never determined an optimal time of day for steroids, **they administered partial doses throughout the day to maintain an even level**. This system maintained receptor affinity and, through a gradual increase in dosage, allowed top performances year after year.
 	2. 5–20 mg for women^[https://academic.oup.com/clinchem/article/43/7/1262/5640958]
 3. 20 mg/d for endurance with an ~8 week cycle length[https://web.archive.org/web/20181011004425/http://www.buildbody.org.ua/farmakologiya/oral-turinabol]
 
