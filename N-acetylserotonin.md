@@ -1,0 +1,2 @@
+1. N-acetylserotonin; a naturally occurring chemical intermediate in the endogenous production of [[melatonin]] from [[serotonin]].^[https://en.wikipedia.org/wiki/N-Acetylserotonin#cite_note-pmid13795316-1]^[https://en.wikipedia.org/wiki/N-Acetylserotonin#cite_note-pmid13784117-2]
+	1. It also has biological activity in its own right, including acting as a [[melatonin]] receptor [[agonist]], an [[agonist]] of the TrkB, and having [[antioxidant]] effects.

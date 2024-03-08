@@ -1,0 +1,1 @@
+1. In ASD samples a reduction in pineal gland volume (PGV) was also highlighted^[https://annals-general-psychiatry.biomedcentral.com/articles/10.1186/s12991-022-00390-6#ref-CR44]^[https://annals-general-psychiatry.biomedcentral.com/articles/10.1186/s12991-022-00390-6#ref-CR45]^[https://annals-general-psychiatry.biomedcentral.com/articles/10.1186/s12991-022-00390-6#Sec4]

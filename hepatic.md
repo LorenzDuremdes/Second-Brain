@@ -1,0 +1,1 @@
+1. hepatic; (adjective) of or relating to the liver^[https://en.wiktionary.org/wiki/hepatic]
