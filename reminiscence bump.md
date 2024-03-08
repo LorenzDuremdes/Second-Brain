@@ -1,3 +1,3 @@
-1. reminiscence bump; the tendency for older adults (over forty) to have increased or enhanced recollection for events that occurred during their adolescence and early adulthood (~16–25).^[https://en.wikipedia.org/wiki/Reminiscence_bump#cite_note-Jansari-1]
+1. reminiscence bump; the tendency for older adults (over forty) to have increased or enhanced recollection for events that occurred during their [[adolescence]] and early adulthood (~16–25).^[https://en.wikipedia.org/wiki/Reminiscence_bump#cite_note-Jansari-1]
 2. Lifespan retrieval curve^[By Psyc3330 w11 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=74842056]
 	<img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Lifespan_Retrieval_Curve.jpg" width="500" />

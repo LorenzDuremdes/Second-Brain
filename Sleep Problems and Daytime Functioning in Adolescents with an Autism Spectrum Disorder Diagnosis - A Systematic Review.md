@@ -2,8 +2,8 @@
 
 1. The **underlying cause** of the increased prevalence of [[sleep]] problems in people with ASD has not been fully clarified, but it seems to be associated with several **ASD related factors** (Cortesi et al., 2010) **such as biological abnormalities** (e.g., disturbed production of [[melatonin]]), medical or psychological co-occurring conditions (e.g., [[epilepsy]], [[anxiety]]), and use of [[medication]] to treat the co-occurring conditions (Johnson & Malow, 2008)
 
-# adolescence
-1. Given our **focus on adolescence**, **developmental factors** have been identified that also contribute to [[dyssomnia|sleep problems]]. Developmental factors specific for adolescent age further interfere with [[circadian rhythm|sleep wake patterns]] at this age, as a prominent [[sleep]] phase shift is seen, resulting in later [[sleep onset latency|sleep timing]] and increasing differences in rise time between week and weekend days (Moore & Meltzer, 2008).
+# [[adolescence]]
+1. Given our **focus on [[adolescence]]**, **developmental factors** have been identified that also contribute to [[dyssomnia|sleep problems]]. Developmental factors specific for adolescent age further interfere with [[circadian rhythm|sleep wake patterns]] at this age, as a prominent [[sleep]] phase shift is seen, resulting in later [[sleep onset latency|sleep timing]] and increasing differences in rise time between week and weekend days (Moore & Meltzer, 2008).
 
 # practical applications
 ## [[psychology]]
