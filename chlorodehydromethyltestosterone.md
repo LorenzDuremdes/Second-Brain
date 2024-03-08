@@ -22,6 +22,10 @@
 2. [Wayback Machine (archive.org)](https://web.archive.org/web/20181011004425/http://www.buildbody.org.ua/farmakologiya/oral-turinabol)
 3. https://www.steroid.com/search/overall.php?&query=turinabol
 4. https://www.reddit.com/r/steroids/wiki/turinabol/
+	1. 1. _Kaufmann G, Schumann G, Horhold C. Influence of 1-double bond and 11 beta-hydroxy group on stereospecific microbial reductions of 4-en-3-oxo-steroids. J Steroid Biochem. 1986 Oct;25(4):561-6._
+	2. _Schumann W. The pharmacokinetics of Oral-Turinabol in humans. Pharmazie. 1991 Sep;46(9):650-4_
+	3. _Froehner M, Fischer R, Leike S, Hakenberg OW, Noack B, Wirth MP. Intratesticular leiomyosarcoma in a young man after high dose doping with Oral-Turinabol: a case report. Cancer. 1999 Oct 15;86(8):1571-5_
+	4. _Franke W.W., Berendonk B. Hormonal doping and androgenization of athletes: a secret program of the German Democratic Republic government. Clinical Chemistry. 1997;43:1262-1279_
 
 # history
 1. why was Oral Turinabol originally created?
