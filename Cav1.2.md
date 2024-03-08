@@ -1,0 +1,1 @@
+1. Ca<sub>v</sub>1.2; a [[protein]] that functions as the alpha-1 subunit of L-type [[voltage-gated calcium channel|voltage-dependent calcium channels]], mediating the influx of [[calcium]] ions into cells and playing crucial roles in cardiac and [[smooth muscle]] function, as well as in various neurological processes^[https://en.wikipedia.org/wiki/Cav1.2, GPT-4]

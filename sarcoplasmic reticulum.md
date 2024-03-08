@@ -1,1 +1,1 @@
-1. sarcoplasmic reticulum; the main function is to store calcium ions (Ca<sup>2</sup>+)^[https://en.wikipedia.org/wiki/Sarcoplasmic_reticulum]
+1. sarcoplasmic reticulum; the main function is to store [[calcium]] ions (Ca<sup>2</sup>+)^[https://en.wikipedia.org/wiki/Sarcoplasmic_reticulum]

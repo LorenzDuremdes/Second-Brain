@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e5da0f8d1898f82",
+            "id": "582318c0465c189c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chlorodehydromethyltestosterone.md",
+                "file": "CACNA1C gene.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "chlorodehydromethyltestosterone.md",
+                "file": "CACNA1C gene.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chlorodehydromethyltestosterone.md",
+                "file": "CACNA1C gene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chlorodehydromethyltestosterone.md",
+                "file": "CACNA1C gene.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chlorodehydromethyltestosterone.md"
+                "file": "CACNA1C gene.md"
               }
             }
           },
@@ -180,11 +180,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6e5da0f8d1898f82",
+  "active": "582318c0465c189c",
   "lastOpenFiles": [
+    "calcium channel.md",
+    "CACNA1C gene.md",
+    "Cav1.2.md",
+    "calcium.md",
+    "voltage-gated calcium channel.md",
+    "chlorodehydromethyltestosterone.md",
     "metandienone.md",
     "Dianabol.md",
-    "chlorodehydromethyltestosterone.md",
     "performance-enhancing substance.md",
     "time trial.md",
     "Graeme Obree.md",
@@ -203,11 +208,6 @@
     "time trial bike.md",
     "hybrid athlete.md",
     "transhumanism.md",
-    "superhuman.md",
-    "resistance training.md",
-    "anaerobic capacity.md",
-    "anaerobic energy systems.md",
-    "aerobic system.md",
     "Biosynthetic pathways for catecholamines and trace amines in the human brain.png",
     "Oldenzaal naar Enschede - ZwiftApp_vD4fiCiEce.png",
     "Enschede naar Oldenzaal - ZwiftApp_4MLoG9hVwW.png",
