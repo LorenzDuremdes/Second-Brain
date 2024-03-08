@@ -25,8 +25,18 @@
 		1. [How To Recover From A High Volume Training Week (Ask a Cycling Coach 274)](https://youtu.be/rKm3BNIWQoo?t=870)
 
 # [[autism]]
+## [[neuroscience]]
 1. Some of the genes responsible of regulating circadian rhythms seem to be mutated or down-regulated in ASD^[https://annals-general-psychiatry.biomedcentral.com/articles/10.1186/s12991-022-00390-6#Sec1]
 	1. [[circadian rhythm|circadian]] [[hormone|hormones]] such as [[melatonin]] and [[cortisol]] were also found to be altered in ASD
+2. being [[female]] is a strong predictor of [[dyssomnia|poor sleep quality]]^[[Sleep Quality in Autism from Adolescence to Old Age | Autism in Adulthood (liebertpub.com)](https://www.liebertpub.com/doi/10.1089/aut.2019.0034)]
+	1. e.g. due to being more vulnerable to [[anxiety]] and [[depression]], and hormonal differences (e.g. menstruation)
+3. [[period circadian protein homolog 1]] · [[autism]]
+	1. Period circadian regulator 1 (PER1), a [[CLOCK gene]] [[gene expression|expressed]] in [[brain]] areas which affect [[hypnagogia|sleep]]–[[hypnopompia|wake]] transition, was also suggested to be **[[mutation|mutated]] in ASD subjects**. This alteration was hypothesized to be involved in the oscillations of the circadian clock in ASD, eventually also by **affecting [[melatonin]] release**^[[Biological correlates of altered circadian rhythms, autonomic functions and sleep problems in autism spectrum disorder | Annals of General Psychiatry | Full Text (biomedcentral.com)](https://annals-general-psychiatry.biomedcentral.com/articles/10.1186/s12991-022-00390-6) (2022)]^[[Association of Per1 and Npas2 with autistic disorder: support for the clock genes/social timing hypothesis | Molecular Psychiatry (nature.com)](https://www.nature.com/articles/4001953) (2007)]
+4. **[[mother|maternal]] [[circadian rhythm|sleep patterns]]** (particularly late bedtimes) and overall lifestyle during pregnancy can influence the fetal environment and potentially contribute to the development of ASD^[[Biological correlates of altered circadian rhythms, autonomic functions and sleep problems in autism spectrum disorder](https://annals-general-psychiatry.biomedcentral.com/articles/10.1186/s12991-022-00390-6#Sec3)]
+5. [[dyssomnia|sleep problems]] seem not to be influenced by the subtype of ASD, or by the degree of **cognitive impairment**^[[Biological correlates of altered circadian rhythms, autonomic functions and sleep problems in autism spectrum disorder | Annals of General Psychiatry | (biomedcentral.com)](https://annals-general-psychiatry.biomedcentral.com/articles/10.1186/s12991-022-00390-6#Sec3)]
+
+# [[sociology]]
+1.  [[domination analysis|dominance analysis]] revealed that objective [[sleep]] and [[circadian rhythm|circadian]] measures together explain **17% to 36%** of the variance in these behavioral issues, emphasizing the critical role of [[sleep]] quality, specifically the duration of uninterrupted [[sleep]], in the daily functioning of children with ASD^[[JCM | Free Full-Text | Disturbances of Continuous Sleep and Circadian Rhythms Account for Behavioral Difficulties in Children with Autism Spectrum Disorder (mdpi.com), GPT-4](https://www.mdpi.com/2077-0383/9/6/1978)]
 
 # related
 1. [[phase response curve]]
