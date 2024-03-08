@@ -15,11 +15,13 @@
 		3. As the doctors never determined an optimal time of day for steroids, **they administered partial doses throughout the day to maintain an even level**. This system maintained receptor affinity and, through a gradual increase in dosage, allowed top performances year after year.
 	2. 5–20 mg for women^[https://academic.oup.com/clinchem/article/43/7/1262/5640958]
 3. 20 mg/d for endurance with an ~8 week cycle length[https://web.archive.org/web/20181011004425/http://www.buildbody.org.ua/farmakologiya/oral-turinabol]
+4. does not convert into [[estrogen]]^[https://www.reddit.com/r/steroids/wiki/your_first_cycle/]
 
 # sources
 1. [Hormonal doping and androgenization of athletes: a secret program of the German Democratic Republic government -- Franke and Berendonk 43 (7): 1262 -- Clinical Chemistry (archive.org)](https://web.archive.org/web/20110514103044/http://www.clinchem.org/cgi/content/full/43/7/1262)
 2. [Wayback Machine (archive.org)](https://web.archive.org/web/20181011004425/http://www.buildbody.org.ua/farmakologiya/oral-turinabol)
 3. https://www.steroid.com/search/overall.php?&query=turinabol
+4. https://www.reddit.com/r/steroids/wiki/turinabol/
 
 # history
 1. why was Oral Turinabol originally created?
