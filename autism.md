@@ -7,6 +7,9 @@
 	1. ◇less [[theory of mind]]^[https://en.wikipedia.org/wiki/Theory_of_mind#Autism]
 
 # [[psychiatry]]
+## [[biomarker]]
+1. as in the case of [[gene]] deregulation, alterations of [[melatonin]]/[[serotonin]] pathways could be promising [[biomarker|biomarkers]] for ASD^[https://annals-general-psychiatry.biomedcentral.com/articles/10.1186/s12991-022-00390-6#ref-CR6]
+
 ## [[continuum|spectrum]]
 1. Autism has long been thought to cover a wide spectrum, ranging from individuals with severe impairments—who may be silent, developmentally disabled, and prone to frequent repetitive behavior such as hand flapping and rocking—to high functioning individuals who may have active but distinctly odd social approaches, narrowly focused interests, and verbose, pedantic [[communication]].^[https://en.wikipedia.org/wiki/Autism#cite_note-113] Because the behavior spectrum is continuous, boundaries between diagnostic categories are necessarily somewhat arbitrary.^[https://en.wikipedia.org/wiki/Autism#cite_note-Geschwind-2009-52]
 ## classification
@@ -36,6 +39,7 @@
 ## [[behavioral neuroscience]]
 1. autism · [[vanillylmandelic acid]]
 	1. children with ASD showed higher sympathetic activity, as indicated by increased urinary VMA levels, compared to TD children^[[Comparison of Physiological and Biochemical Autonomic Indices in Children with and without Autism Spectrum Disorders (2019), GPT-4](https://www.mdpi.com/1648-9144/55/7/346)]
+2. [[dysautonomia|dysautonomias]] in ASD may be linked to the presence of repetitive behaviors^[https://annals-general-psychiatry.biomedcentral.com/articles/10.1186/s12991-022-00390-6#ref-CR9]
 
 ### [[sleep]]
 1. redirect: [[sleep]] > autism

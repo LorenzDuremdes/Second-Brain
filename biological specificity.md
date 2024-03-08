@@ -5,4 +5,4 @@
 1. [[fuzzy logic]]
 2. [[functional connectivity]]
 	1. e.g. the higher the statistical independence (e.g. [[construal level theory|temporal dimension]]), the higher the biological specificity
-3. biomarker
+3. [[biomarker]]
