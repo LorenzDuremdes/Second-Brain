@@ -1,22 +1,12 @@
-# [[sports supplement]] (prioritized)
-1. [[creatine]]
-2. [[multivitamin]]
-4. [[exogenous ketones]]
-5. [[vitamin C]]
-6. [[beta-hydroxy beta-methylbutyric acid]]
-7. [[melatonin]]
-8. [[caffeine]]
-10. [[beta alanine]]
-11. [[sodium bicarbonate]]
+for legal supplements, see: [[sports supplement]]
 
 # performance-enhancing drugs (prioritized)
 1. [[GW501516]] | [[fatty acid metabolism]]
 2. [[chlorodehydromethyltestosterone]] | [[erythropoiesis]]
 3. [[boldenone undecylenate]] | [[erythropoiesis]]
 4. [[2-fluormethamphetamine]]^[[Tramadol is a performance-enhancing drug in highly trained cyclists: a randomized controlled trial - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/37410900/)]
+	1. [[phenylpiracetam]]
 5. [[MK-677]]
-7. [[bupropion]]
-8. [[phenylpiracetam]]
 
 # articles
 1. [How I became a drug cheat athlete to test the system - BBC News](https://www.bbc.com/news/uk-scotland-32983932) | cyclist
