@@ -11,4 +11,7 @@ for workouts, see: [[Zwift (workouts)]]
 	So yeah, it does not surprise me that many people doing A-races on Zwift have VO2s in the 60-70+ range. 
 
 	Heck, I can name 10 local guys (myself included) who are in their mid-30s or older with VO2s in that range.^[https://www.reddit.com/r/Velo/comments/1bajn2l/comment/ku35q9f/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button]
-2. 
+2. I know a 60yo who cruises +500km each week and regularly drops guys at club rides lol they definitely exist.
+
+	Of course he's a retired dentist, though.^[https://www.reddit.com/r/Velo/comments/1bajn2l/comment/ku2zgvz/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button]
+3. 
