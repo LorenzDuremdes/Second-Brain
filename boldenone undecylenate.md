@@ -1,1 +1,2 @@
-1. boldenone undecylenate (equipoise) > (dosage + duration); 200–600 mg once a week for 8–12 weeks
+1. boldenone undecylenate (Equipoise) > (dosage + duration); 200–600 mg once a week for 8–12 weeks^[https://steroidcycle.org/equipoise-cycle/]
+2. run [[testosterone]] for 4 weeks after dropping EQ to allow the uncdeylenate ester to clear^[https://www.reddit.com/r/steroids/wiki/thecycle/examples/#wiki_an_introduction_to_equipoise]
