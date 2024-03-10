@@ -1,0 +1,1 @@
+1. fast-acting or immediate-release substance; substances that give an immediate effect rather than requiring days to take effect^[GPT-4]

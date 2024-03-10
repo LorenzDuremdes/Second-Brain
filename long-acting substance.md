@@ -1,0 +1,1 @@
+1. long-acting or slow-release substance; substances that take a long time to show their effects^[GPT-4]

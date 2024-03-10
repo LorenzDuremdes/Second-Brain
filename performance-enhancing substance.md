@@ -14,5 +14,13 @@ for legal supplements, see: [[sports supplement]]
 2. The problem is not unique to the sprints. With 13 women's world records in the Olympic track and field events still standing from the 1980s – all before the introduction of mandatory random [[drug]] testing in 1989 – some feel that a clean athlete will never be able to surpass those marks.^[https://www.theguardian.com/sport/blog/2009/aug/16/world-athletics-championships-records]
 	1. e.g. [[chlorodehydromethyltestosterone]]
 
+# cycles
+## endurance
+### East German protocol (improved / modernized)
+1. [[chlorodehydromethyltestosterone]] (Oral Turinabol) and other [[long-acting substance|long-acting substances]] with East German protocol (**they designed this for a multi-year approach e.g. breaking an athlete breaking _their own_ world records steadily year after year**)
+2. use [[GW501516]] (Cardarine) and other [[fast-acting substance|fast-acting substances]] only last [[microcycle]] and only on hard days (usually 3–4 hard days)
+3. between mesocycles = MV (usually doesn't require a lot e.g. 50% volume with 90% intensity)
+	1. with [[block (sports periodization)]] to still make progress in specific areas
+
 # related
 1. [[sports science]]

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7a076ba979c9b0d9",
+            "id": "163b465508917090",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "boldenone undecylenate.md",
+                "file": "performance-enhancing substance.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "boldenone undecylenate.md",
+                "file": "performance-enhancing substance.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "boldenone",
+                "query": "performance enhancing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "boldenone undecylenate.md",
+                "file": "performance-enhancing substance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "boldenone undecylenate.md",
+                "file": "performance-enhancing substance.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "boldenone undecylenate.md"
+                "file": "performance-enhancing substance.md"
               }
             }
           },
@@ -181,15 +180,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7a076ba979c9b0d9",
+  "active": "163b465508917090",
   "lastOpenFiles": [
+    "long-acting substance.md",
+    "fast-acting substance.md",
+    "performance-enhancing substance.md",
+    "boldenone undecylenate.md",
     "masters cycling.md",
     "Zwift.md",
     "in.md",
     "Zwift (workouts).md",
     "aerodynamics (road cycling).md",
     "chlorodehydromethyltestosterone.md",
-    "performance-enhancing substance.md",
     "sports supplement.md",
     "doping.md",
     "sleep.md",
@@ -206,9 +208,6 @@
     "Cav1.2.md",
     "calcium.md",
     "voltage-gated calcium channel.md",
-    "metandienone.md",
-    "Dianabol.md",
-    "time trial.md",
     "Biosynthetic pathways for catecholamines and trace amines in the human brain.png",
     "Oldenzaal naar Enschede - ZwiftApp_vD4fiCiEce.png",
     "Enschede naar Oldenzaal - ZwiftApp_4MLoG9hVwW.png",
