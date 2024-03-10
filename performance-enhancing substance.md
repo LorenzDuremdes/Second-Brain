@@ -19,6 +19,7 @@ for legal supplements, see: [[sports supplement]]
 ### East German protocol (improved / modernized)
 1. [[chlorodehydromethyltestosterone]] (Oral Turinabol) and other [[long-acting substance|long-acting substances]] with East German protocol (**they designed this for a multi-year approach e.g. breaking an athlete breaking _their own_ world records steadily year after year**)
 2. use [[GW501516]] (Cardarine) and other [[fast-acting substance|fast-acting substances]] only last [[microcycle]] and only on hard days (usually 3–4 hard days)
+	1. they usually don't aid in recovery but are aimed at allowing high performances/intensities (i.e. not sustainable long-term)
 3. between mesocycles = MV (usually doesn't require a lot e.g. 50% volume with 90% intensity)
 	1. with [[block (sports periodization)]] to still make progress in specific areas
 
