@@ -3,6 +3,7 @@
 	1. what about via an 'East German protocol' i.e. low dose (~70g) ED?
 3. does not suppress [[testosterone]]? (not enough data as of ~2021)
 4. half-life somewhat equal to that of [[red blood cell|red blood cells]]? (not much literature currently ~2024)
+5. cycle length ≤6 weeks?^[https://www.reddit.com/r/PEDs/comments/9lqj9c/i_cannot_sing_the_praises_of_itpp_enough_an/]
 
 # [[pharmacokinetics]]
 1. ITPP caused a dose-related increase in maximal exercise capacity, with a maximal increase of 57 ± 13% (P = 0.002)^[https://www.pnas.org/doi/10.1073/pnas.0812381106]^[https://www.reddit.com/r/PEDsR/comments/96mr10/itpp_increases_endurance_by_57/]

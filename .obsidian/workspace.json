@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "red blood cell.md",
+                "file": "myo-inositol trispyrophosphate.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "red blood cell.md",
+                "file": "myo-inositol trispyrophosphate.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "red blood cell.md",
+                "file": "myo-inositol trispyrophosphate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "red blood cell.md",
+                "file": "myo-inositol trispyrophosphate.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "red blood cell.md"
+                "file": "myo-inositol trispyrophosphate.md"
               }
             }
           },
@@ -161,7 +161,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,9 +182,9 @@
   },
   "active": "fe896e19b9e80172",
   "lastOpenFiles": [
+    "red blood cell.md",
     "pharmacology.md",
     "myo-inositol trispyrophosphate.md",
-    "red blood cell.md",
     "erythropoiesis.md",
     "pharmacokinetics.md",
     "performance-enhancing substance.md",
