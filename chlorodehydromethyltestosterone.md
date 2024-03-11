@@ -5,7 +5,7 @@
 	3. Also, after 4 years of systematic androgenization, her basic strength level even when not taking the [[performance-enhancing substance|drug]] had also increased by ~1 m, indicative of a residual effect.
 4. **1976 Summer Olympics**: East Germany surpassed all expectations for a middle-sized nation by finishing with the second most gold medals in total. The East German women's swimming team won all but two gold medals. Swimmer Kornelia Ender won four gold medals and a silver medal. However, the GDR's achievements were later fundamentally undermined by the exposure of a serious and systematic scheme of [[doping]] by the East German sporting authorities.^[https://en.wikipedia.org/wiki/1976_Summer_Olympics#cite_note-26] It was later revealed that after injecting athletes with performance-boosting drugs at the Montreal Olympics, East German officials dumped the leftover serum and syringes in the Saint Lawrence River.^[https://en.wikipedia.org/wiki/1976_Summer_Olympics#cite_note-27]
 
-## pharmacokinetics
+## [[pharmacokinetics]]
 1. how does chlorodehydromethyltestosterone (Oral Turinabol) increase endurance?
 	1. [[erythropoiesis]] (RBC)
 2. The maximum dose recorded for a male sprinter was 1850 mg/year, an average of 11 mg/day during the administration period, or an average of 5 mg/day over the whole year.^[https://www.t-nation.com/pharma/anabolic-athletics/]^[https://www.reddit.com/r/Sprinting/comments/m5rjv4/east_germans_and_peds_in_track_and_field/]^[https://www.reddit.com/r/steroids/comments/57ud1a/anyone_ever_tried_the_east_german_dosing_protocol/]^[https://www.reddit.com/r/PEDs/comments/ec6aej/where_can_i_find_information_about_east_germanys/]
