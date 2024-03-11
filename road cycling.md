@@ -67,7 +67,13 @@
 
 		A similar point was made by Michael Woods, an elite runner turned Cannondale pro, in a previous interview with Cycling Weekly, in which he described having earned a deep respect for the multi-faceted, multi-skilled nature of cycling — that is, compared to distance running, in which, aside from fitness and determination, not much else matters.
 
-## rich man's sport
-1. Lots of folks saying golf, but I haven’t seen anybody mention cycling. Sport cycling, not utility cycling to the corner store for a gallon of milk. Mid-level road bikes are now $5000 usd. And it’s pretty common to spend low five-figures on a complete setup.
+## demography
+### STEM
+1. Bikes attract tinkerers because it’s a simple machine. Bikes attract data needs because you can track everything. Bikes are as risky as you want to make them which attracts risk averse people that want to get their fix. Bikes are an individual pursuit that can be done in a social setting.
+   
+   Basically bikes tick a ton of boxes that engineers are looking for.^[https://www.reddit.com/r/Velo/comments/q0o53u/comment/hf9jqgq/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button]
+
+### rich man's [[sport]]
+1. Lots of folks saying golf, but I haven’t seen anybody mention cycling. [[Sport]] cycling, not utility cycling to the corner store for a gallon of milk. Mid-level road bikes are now $5000 usd. And it’s pretty common to spend low five-figures on a complete setup.
    
    At least in the Unites States, the average household income of cyclists is quite a bit higher than golfers.^[https://www.reddit.com/r/AskReddit/comments/11a6s9b/comment/j9rein0/?utm_source=share&utm_medium=web2x&context=3]
