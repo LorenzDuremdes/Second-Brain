@@ -1,4 +1,4 @@
-1. citrate synthase is commonly used as a quantitative enzyme marker for the presence of intact mitochondria
+1. citrate synthase is commonly used as a quantitative enzyme marker for the presence of intact [[mitochondria]]
 	1. what is meant with "intact"?
 2. Chromosome 12 ([[human]])^[https://en.wikipedia.org/wiki/Citrate_synthase#cite_note-refGRCh38Ensembl-1]
 	1. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ideogram_human_chromosome_12.svg/1920px-Ideogram_human_chromosome_12.svg.png" width="600" />

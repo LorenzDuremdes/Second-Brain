@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "road cycling.md",
+                "file": "VO2 max.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "road cycling.md",
+                "file": "VO2 max.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "road cycling",
+                "query": "oxidative",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "road cycling.md",
+                "file": "VO2 max.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "road cycling.md",
+                "file": "VO2 max.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "road cycling.md"
+                "file": "VO2 max.md"
               }
             }
           },
@@ -162,8 +162,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,6 +182,11 @@
   },
   "active": "1fb2acbc6b0cbbf6",
   "lastOpenFiles": [
+    "oxidative phosphorylation.md",
+    "VO2 max.md",
+    "mitochondria.md",
+    "blood volume.md",
+    "road cycling.md",
     "syntribation.md",
     "performance-enhancing substance.md",
     "long-acting substance.md",
@@ -204,11 +208,6 @@
     "pineal gland.md",
     "melatonin.md",
     "hepatic.md",
-    "N-acetylserotonin.md",
-    "CACNA1C gene.md",
-    "calcium channel.md",
-    "Cav1.2.md",
-    "calcium.md",
     "Biosynthetic pathways for catecholamines and trace amines in the human brain.png",
     "Oldenzaal naar Enschede - ZwiftApp_vD4fiCiEce.png",
     "Enschede naar Oldenzaal - ZwiftApp_4MLoG9hVwW.png",
