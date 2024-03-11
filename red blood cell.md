@@ -1,0 +1,1 @@
+1. red [[blood]] [[cell]] ([[half-life|functional lifetime]]) ≈ 100–120 days^[https://en.wikipedia.org/wiki/Red_blood_cell#Functional_lifetime]

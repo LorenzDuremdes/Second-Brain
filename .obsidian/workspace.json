@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "33f614a57ef16e16",
+            "id": "fe896e19b9e80172",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "myo-inositol trispyrophosphate.md",
+                "file": "red blood cell.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "myo-inositol trispyrophosphate.md",
+                "file": "red blood cell.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "oxidative",
+                "query": "red blood cell",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "myo-inositol trispyrophosphate.md",
+                "file": "red blood cell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "myo-inositol trispyrophosphate.md",
+                "file": "red blood cell.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "myo-inositol trispyrophosphate.md"
+                "file": "red blood cell.md"
               }
             }
           },
@@ -179,10 +179,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "33f614a57ef16e16",
+  "active": "fe896e19b9e80172",
   "lastOpenFiles": [
-    "pharmacokinetics.md",
+    "pharmacology.md",
     "myo-inositol trispyrophosphate.md",
+    "red blood cell.md",
+    "erythropoiesis.md",
+    "pharmacokinetics.md",
     "performance-enhancing substance.md",
     "VO2 max.md",
     "oxidative phosphorylation.md",
@@ -204,9 +207,6 @@
     "sleep.md",
     "adolescence.md",
     "sleep fragmentation.md",
-    "autism.md",
-    "biomarker.md",
-    "pineal gland.md",
     "Biosynthetic pathways for catecholamines and trace amines in the human brain.png",
     "Oldenzaal naar Enschede - ZwiftApp_vD4fiCiEce.png",
     "Enschede naar Oldenzaal - ZwiftApp_4MLoG9hVwW.png",
