@@ -1,5 +1,5 @@
 1. ventilatory threshold; refers to the point during exercise at which ventilation starts to increase at a faster rate than VO<sub>2</sub> (V – volume, O<sub>2</sub> – [[oxygen]])^[https://en.wikipedia.org/wiki/Ventilatory_threshold]
-	1. one's threshold is said to reflect levels of anaerobiosis and lactate accumulation (50–75% VO2 max)
-2. the body attempts to buffer the acids produced from this lactate, resulting in increased [[CO2]] levels, which then stimulates the body to increase ventilation more significantly to expel the excess [[CO2]]
+	1. one's threshold is said to reflect levels of anaerobiosis and [[lactate]] accumulation (50–75% VO2 max)
+2. the body attempts to buffer the acids produced from this [[lactate]], resulting in increased [[CO2]] levels, which then stimulates the body to increase ventilation more significantly to expel the excess [[CO2]]
    
-   The accumulation of lactate in the [[blood]] is associated with the production of [[hydrogen]] ions (H+), leading to a decrease in pH (increased acidity) within the muscles and [[blood]]. The body attempts to buffer these [[hydrogen]] ions to maintain [[acid]]-[[base (chemistry)|base]] balance, a process that involves converting them into [[bicarbonate]] ([[HCO3-]]) and [[carbon dioxide]] ([[CO2]])^[GPT-4]
+   The accumulation of [[lactate]] in the [[blood]] is associated with the production of [[hydrogen]] ions (H+), leading to a decrease in pH (increased acidity) within the muscles and [[blood]]. The body attempts to buffer these [[hydrogen]] ions to maintain [[acid]]-[[base (chemistry)|base]] balance, a process that involves converting them into [[bicarbonate]] ([[HCO3-]]) and [[carbon dioxide]] ([[CO2]])^[GPT-4]

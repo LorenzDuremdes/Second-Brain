@@ -1,2 +1,2 @@
 1. experienced [[road cycling|cyclist]] → tempo^[https://www.bicycling.com/nl/training/g23022764/9-manieren-om-het-maximale-uit-je-korte-fietsritten-te-halen]
-	1. they are usually able to hold Z3 a lot longer e.g. making more efficient use of lactate
+	1. they are usually able to hold Z3 a lot longer e.g. making more efficient use of [[lactate]]

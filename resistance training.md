@@ -1,5 +1,5 @@
 # muscle contraction
-1. when matched for total time, high-velocity contractions involve greater peripheral fatigue and less [[central nervous system]] fatigue than low-velocity contractions
+1. when matched for total time, high-velocity contractions involve greater [[peripheral fatigue]] and less [[central nervous system]] fatigue than low-velocity contractions
 	1. <img src="https://z-p3-scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/133190895_3329603170484015_6555852879523873656_o.jpg?_nc_cat=111&ccb=2&_nc_sid=2c4854&_nc_ohc=Edfn5vtUUMQAX92rXXJ&_nc_ht=z-p3-scontent-amt2-1.xx&oh=14b6c77092930b22b6a3005a44c06997&oe=60099CA7" width="600" />
 		1. **see**: nidd1608806720998
 
