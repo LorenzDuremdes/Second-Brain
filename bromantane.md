@@ -13,4 +13,4 @@
 1. bromantane is well tolerated and elicits few side effects (including peripheral sympathomimetic effects and hyperstimulation), does not appear to produce tolerance or dependence, has not been associated with withdrawal symptoms upon discontinuation, and displays an absence of addiction potential, contrary to typical psychostimulants.^[https://en.wikipedia.org/wiki/Bromantane#cite_note-OliynykOh2012-10]^[https://en.wikipedia.org/wiki/Bromantane#cite_note-pmid19491814-8]
 
 # miscellaneous
-1. [Bromantane - Powder, 5g | Buy Bromantane - Powder, 5g (science.bio)](https://science.bio/product/bromantane-powder-5g/) | [Science.bio scam? : r/Nootropics (reddit.com)](https://www.reddit.com/r/Nootropics/comments/17fkpr2/sciencebio_scam/)
+1. [Eurosupps - Bromantane 2 Go - Eurosupps](https://eurosupps.nl/en/webshop/nootropics/eurosupps-bromantane-2-go/) | [Eurosupps reviews | Bekijk consumentenreviews over eurosupps.nl (trustpilot.com)](https://nl.trustpilot.com/review/eurosupps.nl)
