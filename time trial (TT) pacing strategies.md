@@ -19,7 +19,7 @@
 	2. 1 interval is usually determined when ascending vs. descending (or when wind direction changes)
 	3. 33+27 → the average is a bit higher than the average of the 2 numbers (e.g. 31 instead of 30 in this case)
 	4. 30±2 = maximum = 32 km/h and minimum = 28 km/h with 30 km/h average
-		1. e.g. useful when it's unclear where the highest/lowest speeds are
+		1. e.g. useful when it's unclear where the highest/lowest speeds are or its relatively flat
 
 # execution
 1. how can you know via [[myWindsock]] that the weather changed (e.g. stronger headwind) after already having prepared the pacing on the top tube?
