@@ -11,6 +11,7 @@
 
 # [[pharmacodynamics]]
 1. bromantane is well tolerated and elicits few side effects (including peripheral sympathomimetic effects and hyperstimulation), does not appear to produce tolerance or dependence, has not been associated with withdrawal symptoms upon discontinuation, and displays an absence of addiction potential, contrary to typical psychostimulants.^[https://en.wikipedia.org/wiki/Bromantane#cite_note-OliynykOh2012-10]^[https://en.wikipedia.org/wiki/Bromantane#cite_note-pmid19491814-8]
+	1. In accordance with human findings, animals exposed to bromantane for extended periods of time (2 months) do not appear to develop tolerance or dependence.^[[Effect of bromantane on the rat neurologic status in two month course](https://pubmed.ncbi.nlm.nih.gov/11109517/)]
 
 # miscellaneous
 1. [Eurosupps - Bromantane 2 Go - Eurosupps](https://eurosupps.nl/en/webshop/nootropics/eurosupps-bromantane-2-go/) | [Eurosupps reviews | Bekijk consumentenreviews over eurosupps.nl (trustpilot.com)](https://nl.trustpilot.com/review/eurosupps.nl)
