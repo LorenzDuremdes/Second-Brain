@@ -1,0 +1,1 @@
+1. C<sub>max</sub> (pharmacology); the maximum (or peak) serum concentration that a drug achieves in a specified compartment or test area of the body after the drug has been administered and before the administration of a second dose.^[https://en.wikipedia.org/wiki/Cmax_(pharmacology)#cite_note-isbn0-7817-3762-1-1]

@@ -1,0 +1,5 @@
+1. bemethyl was developed in the 1970s by the Department of Pharmacology of the St. Petersburg State Military Medical Academy under the direction of Professor Vladimir Vinogradov. Professor Vinogradov and his research team earned the USSR State Prize for this accomplishment.^[https://en.wikipedia.org/wiki/Bemethyl#cite_note-OliynykOh2012-1]
+	1. first used with Soviet cosmonauts, Bemethyl was also used to prepare athletes of the USSR national team for the Moscow 1980 Olympic Games. In the 1990s, bemethyl saw use as a basic medicinal agent in many of the corps of the Soviet and Russian armies, including Soviet troops in Afghanistan, as bemethyl facilitated increased endurance for soldiers over long marches, as well as an enhanced work capacity and stability to hypoxia and high temperatures.
+
+# related
+1. [[performance-enhancing substance]]
