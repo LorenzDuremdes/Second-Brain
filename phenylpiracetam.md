@@ -1,7 +1,6 @@
 # [[pharmacokinetics]]
 1. Phenotropil® instructions^[https://extrapharmacy.ru/pdf/Phenotropil.pdf]
 	1. the **average single dose** is from 100 to 250 mg; average daily dose of 200 to 300 mg. The maximum permissible dose - 750 mg / day. It is recommended to take daily dose of 100 mg - once in the morning, and more than 100 mg - divided into 2 doses.
-		1. It is not recommended to take Phenotropil later than **3 pm**.
 	2. duration of treatment** may vary from 2 weeks to 3 months, on average - 30 days. If necessary, the course may be repeated after 1 month
 		1. to improve performance - 100-200 mg once daily in the morning for 2 weeks (for **athletes** - 3 days)
 	3. after application in course - Phenotropil does not develop [[substance dependence|drug dependence]], tolerance, [[drug withdrawal|withdrawal syndrome]].
