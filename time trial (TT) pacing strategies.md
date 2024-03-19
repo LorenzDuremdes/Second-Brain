@@ -9,16 +9,18 @@
 2. 100 = all out (dFRC)
 3. 0 = < Z2
 4. n+ = you might be able to go faster (e.g. due to coverage e.g. trees) as [[myWindsock]] doesn't account for such things (yet ~2024)
-5. <u>33</u>-<u>27</u>
+5. <u>33</u>·<u>27</u>
 	1. 27 = e.g. ascending  
 	2. 33 = descending  
 	3. average is usually in between (or try to create intervals where this is the case)
 	4. <u>33</u> underscored goes before 27 in this case to denote that's the [[speed]] you start with (useful for e.g. calibrating power/RPE) and 27 you end with
 	5. **33>27** → you start with 33, keep this pace, and (slowly) end up with 27 (i.e. don't really have to take into account an average)
 		1. e.g. downhill followed by flat
-	2. 1 interval is usually determined when ascending vs. descending (or when wind direction changes)
-	3. 33+27 → the average is a bit higher than the average of the 2 numbers (e.g. 31 instead of 30 in this case)
-	4. 30±2 = maximum = 32 km/h and minimum = 28 km/h with 30 km/h average
+		2. 33><u>27</u> → underlining is redundant as ">" denotes a (slow) change from 33 to 27 km/h
+	6. 1 interval is usually determined when ascending vs. descending (or when wind direction changes)
+	7. 33+27 → the average is a bit higher than the average of the 2 numbers (e.g. 31 instead of 30 in this case)
+		1. vice versa with - (minus)
+	8. 30±2 = maximum = 32 km/h and minimum = 28 km/h with 30 km/h average
 		1. e.g. useful when it's unclear where the highest/lowest speeds are or its relatively flat
 
 # execution

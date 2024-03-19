@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "caffeine.md",
+                "file": "time trial (TT) pacing strategies.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "caffeine.md",
+                "file": "time trial (TT) pacing strategies.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "caffe",
+                "query": "time trial",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "caffeine.md",
+                "file": "time trial (TT) pacing strategies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "caffeine.md",
+                "file": "time trial (TT) pacing strategies.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "caffeine.md"
+                "file": "time trial (TT) pacing strategies.md"
               }
             }
           },
@@ -196,6 +196,8 @@
   },
   "active": "edf463517d29e1ff",
   "lastOpenFiles": [
+    "pacing strategies.md",
+    "caffeine.md",
     "bromantane.md",
     "C_max.md",
     "performance-enhancing substance.md",
@@ -208,8 +210,6 @@
     "substance dependence.md",
     "pharmacokinetic data (phenylpiracetam), Wikipedia.png",
     "drug tolerance.md",
-    "pacing strategies.md",
-    "caffeine.md",
     "compound score.md",
     "GW501516.md",
     "gluconeogenesis.md",
