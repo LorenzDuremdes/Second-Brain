@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "883307e7509233f9",
+            "id": "fce44fa344fcc09b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sleep.md",
+                "file": "aerobic conditioning.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sleep.md",
+                "file": "aerobic conditioning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sleep",
+                "query": "conditioning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sleep.md",
+                "file": "aerobic conditioning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sleep.md",
+                "file": "aerobic conditioning.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sleep.md"
+                "file": "aerobic conditioning.md"
               }
             }
           },
@@ -181,8 +180,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "883307e7509233f9",
+  "active": "fce44fa344fcc09b",
   "lastOpenFiles": [
+    "conditioning.md",
+    "aerobic conditioning.md",
+    "sleep.md",
     "Reynolds number.md",
     "fluid dynamics.md",
     "Reynolds number - 296px-Reynolds_behaviors.png",
@@ -208,9 +210,6 @@
     "peripheral fatigue.md",
     "protein biosynthesis.md",
     "lactate.md",
-    "blood sugar level.md",
-    "pharmacodynamics.md",
-    "myo-inositol trispyrophosphate.md",
     "Biosynthetic pathways for catecholamines and trace amines in the human brain.png",
     "Oldenzaal naar Enschede - ZwiftApp_vD4fiCiEce.png",
     "Enschede naar Oldenzaal - ZwiftApp_4MLoG9hVwW.png",

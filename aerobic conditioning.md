@@ -1,0 +1,1 @@
+1. conditioning circuit; a combination of several exercises performed with no rest in between, or as little rest as possible^[https://vitruve.fit/blog/conditioning-circuit-for-high-performance-athletes/]
