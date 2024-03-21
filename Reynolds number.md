@@ -1,0 +1,3 @@
+1. At low Reynolds numbers, flows tend to be dominated by laminar (sheet-like) flow, while at high Reynolds numbers, flows tend to be turbulent^[https://en.wikipedia.org/wiki/Reynolds_number]
+2. Qualitative behaviors of [[fluid dynamics|fluid flow]] over a cylinder depends to a large extent on Reynolds number; similar flow patterns often appear when the shape and Reynolds number is matched, although other parameters like surface roughness have a big effect.^[By Teapeat - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=23285699]
+   ![[Reynolds number - 296px-Reynolds_behaviors.png|200]]
