@@ -1,2 +1,2 @@
-1. lipoprotein; a biochemical assembly whose primary function is to transport hydrophobic [[lipid]] (also known as fat) molecules in water, as in [[blood plasma]] or other extracellular fluids^[https://en.wikipedia.org/wiki/Lipoprotein]
+1. lipoprotein; a biochemical assembly whose primary function is to transport hydrophobic [[lipid]] (also known as [[fat]]) molecules in water, as in [[blood plasma]] or other extracellular fluids^[https://en.wikipedia.org/wiki/Lipoprotein]
 2. [[albumin]] ≠ lipoprotein → while both [[albumin]] and lipoproteins can transport fats, lipoproteins specialize in carrying large, hydrophobic [[lipid]] molecules (like cholesterol and triglycerides), and [[albumin]] carries [[free fatty acid|free fatty acids]] in the bloodstream[GPT-4]

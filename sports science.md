@@ -12,8 +12,8 @@
 	2. range probably depends on programming/periodization (when doing it manually(?))
 
 # [[physiology]]
-1. exercising in morning vs. afternoon → burning fat
-	1. Exercising in the afternoon or evening burns more fat than exercising in the morning — and pre-workout [[caffeine]] magnifies this effect. Noncaffeinated exercise in the afternoon burns as much fat as caffeinated exercise in the morning.  
+1. exercising in morning vs. afternoon → burning [[fat]]
+	1. Exercising in the afternoon or evening burns more [[fat]] than exercising in the morning — and pre-workout [[caffeine]] magnifies this effect. Noncaffeinated exercise in the afternoon burns as much [[fat]] as caffeinated exercise in the morning.  
   
 		PMID: 33413459  
   

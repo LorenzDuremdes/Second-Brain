@@ -3,4 +3,4 @@
 	1. ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Common_lipids_lmaps.png/482px-Common_lipids_lmaps.png)
 
 # etymology
-1. lipid (etymology); from the Greek lipos (fat)
+1. lipid (etymology); from the Greek lipos ([[fat]])

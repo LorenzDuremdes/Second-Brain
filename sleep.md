@@ -10,7 +10,7 @@
 ## [[nutrient timing]]
 1. According to our results, high caloric food intake preceding the sleeping period was correlated with greater sleep latency in women (nocturnal caloric intake correlated positively with sleep latency). In general, this meal took place between 30 and 60 minutes before the volunteers went to bed.^[https://jcsm.aasm.org/doi/10.5664/jcsm.1476#d3e1098]
    
-   Contrary to previous studies,[18](https://jcsm.aasm.org/doi/10.5664/jcsm.1476#B18),[19](https://jcsm.aasm.org/doi/10.5664/jcsm.1476#B19) our results suggest that intake of high fat and carbohydrate foods preceding the sleeping period are associated with higher sleep latency. Other studies[19](https://jcsm.aasm.org/doi/10.5664/jcsm.1476#B19),[20](https://jcsm.aasm.org/doi/10.5664/jcsm.1476#B20) have demonstrated that individuals who ingested a high-glycemic index, carbohydrate-rich meal 4 hours prior to sleep presented a decrease in sleep latency.
+   Contrary to previous studies,[18](https://jcsm.aasm.org/doi/10.5664/jcsm.1476#B18),[19](https://jcsm.aasm.org/doi/10.5664/jcsm.1476#B19) our results suggest that intake of high [[fat]] and carbohydrate foods preceding the sleeping period are associated with higher sleep latency. Other studies[19](https://jcsm.aasm.org/doi/10.5664/jcsm.1476#B19),[20](https://jcsm.aasm.org/doi/10.5664/jcsm.1476#B20) have demonstrated that individuals who ingested a high-glycemic index, carbohydrate-rich meal 4 hours prior to sleep presented a decrease in sleep latency.
 
 # [[REM sleep]]
 1. [[brain]] regions less active during [[REM sleep]]

@@ -24,6 +24,6 @@
 	2. This study suggests that some facial hair is better than none because it shows the masculine development as beard growth requires the conversion of [[testosterone]]. The problem with this study is it only looked at the facial hair of European [[men]] with brown hair. So, the results may not represent [[men]] of all ethnicities and hair colours. A different study found [[women]] are more attracted to clean-shaven faces than bearded faces.^[https://en.wikipedia.org/wiki/Physical_attractiveness#cite_note-152]
 
 # body composition
-## fat
+## [[fat]]
 1. flat vs. protruding abdomen → physical attractiveness
 	1. a 1982 study found that an abdomen that protrudes was the "least attractive" trait for [[men]].^[https://en.wikipedia.org/wiki/Physical_attractiveness#cite_note-142]

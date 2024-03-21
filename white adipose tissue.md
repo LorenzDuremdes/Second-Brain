@@ -1,2 +1,2 @@
 1. β-adrenoreceptors → white adipose tissue
-	1. it is for long known that activation of b-ARs can induce browning of adipocytes within white fat depots^[Brown adipose tissue and the regulation of nonshivering thermogenesis p. 5]
+	1. it is for long known that activation of b-ARs can induce browning of adipocytes within white [[fat]] depots^[Brown adipose tissue and the regulation of nonshivering thermogenesis p. 5]

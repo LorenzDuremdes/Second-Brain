@@ -4,7 +4,7 @@
 1. fasted cycling → BMR^[https://www.trainerroad.com/blog/program-body-burn-fat-instead-store-fasted-training/]
 	1. the former improves the latter
 2. carbohydrate diet → crossover point
-	1. athletes with low to moderate carbohydrate nutrition patterns have been shown to use fat at intensities even higher than 65 percent of [[VO2 max]] (figure 15.3) and thus preserve their limited stores of carbohydrate. Their bodies are able to mobilize fatty acids as an energy source more efficiently.
+	1. athletes with low to moderate carbohydrate nutrition patterns have been shown to use [[fat]] at intensities even higher than 65 percent of [[VO2 max]] (figure 15.3) and thus preserve their limited stores of carbohydrate. Their bodies are able to mobilize fatty acids as an energy source more efficiently.
 
 		an athlete who consumes a chronically high-carbohydrate diet will tend to be a carbohydrate burner (or sugar burner), see: figure 15.2
 	1. **see**: nid:1616170593266
