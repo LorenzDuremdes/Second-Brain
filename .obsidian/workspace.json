@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "appetite.md",
+                "file": "aerobic conditioning.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "appetite.md",
+                "file": "aerobic conditioning.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fat",
+                "query": "perfusion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "appetite.md",
+                "file": "aerobic conditioning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "appetite.md",
+                "file": "aerobic conditioning.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "appetite.md"
+                "file": "aerobic conditioning.md"
               }
             }
           },
@@ -162,8 +162,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,11 +180,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "fce44fa344fcc09b",
   "lastOpenFiles": [
-    "fat.md",
-    "appetite.md",
+    "skeletal muscle perfusion.md",
     "aerobic conditioning.md",
+    "lactate shuttle hypothesis.md",
+    "appetite.md",
+    "fat.md",
     "conditioning.md",
     "sleep.md",
     "Reynolds number.md",
@@ -209,8 +210,6 @@
     "drug tolerance.md",
     "compound score.md",
     "GW501516.md",
-    "gluconeogenesis.md",
-    "peripheral fatigue.md",
     "Biosynthetic pathways for catecholamines and trace amines in the human brain.png",
     "Oldenzaal naar Enschede - ZwiftApp_vD4fiCiEce.png",
     "Enschede naar Oldenzaal - ZwiftApp_4MLoG9hVwW.png",
