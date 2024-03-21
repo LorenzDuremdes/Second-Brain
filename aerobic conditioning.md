@@ -15,7 +15,7 @@
 	3. sleds Z5 (continuing mainly push muscles)
 2. **circuit 2 (pull)**
 	1. kettlebell swings (mostly lower back) Z6
-	2. kettlebell holds (continuing mostly lower back), alternating higher (biceps)/lower holds Z5
+	2. kettlebell holds (continuing mostly lower back), alternating higher (biceps)/lower holds Z5 (rows don't engage lower back and abs as much hence different than circuit 1 i.e. Z6 exercise)
 	3. rows to finish of total body with mostly lower back and abs Z5
 4. **optional finisher:** air bike, mostly whole body and try to engage upper body a lot as well (probably more as you train your legs enough during cycling) Z5
 5. Z6 for [[anaerobic capacity]]

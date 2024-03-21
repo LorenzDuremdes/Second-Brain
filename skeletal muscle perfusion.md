@@ -1,0 +1,1 @@
+1. skeletal muscle perfusion; the process of delivering [[blood]] to [[skeletal muscle]] tissue^[[Regulation of skeletal muscle perfusion during exercise - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/9578387/), GPT-4]
