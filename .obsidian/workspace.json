@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux distribution.md",
+                "file": "wicked problem.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,11 +25,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Linux distribution.md",
+                "file": "wicked problem.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 5,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -48,13 +48,14 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.5087618855792605,
+                  "scale": 0.0503441773665182,
                   "close": false
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux distribution.md",
+                "file": "wicked problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux distribution.md",
+                "file": "wicked problem.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux distribution.md"
+                "file": "wicked problem.md"
               }
             }
           },
@@ -179,10 +180,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "88ef19b1b03f0fba",
+  "active": "77d650f224c125d3",
   "lastOpenFiles": [
-    "rowing.md",
     "Linux distribution.md",
+    "rowing.md",
     "aerobic conditioning.md",
     "skeletal muscle perfusion.md",
     "lactate shuttle hypothesis.md",
