@@ -4,6 +4,8 @@
 4. [[Bliss OS]]
 
 # lightweight
+1. [Ubuntu VS Kubuntu VS Xubuntu VS Lubuntu (22.04 LTS) (RAM Consumption) (youtube.com)](https://www.youtube.com/watch?v=PIhrXxAlz_g)
+
 # [[Lubuntu]] vs. [[Xubuntu]]
 1. the former is more lightweight^[https://www.reddit.com/r/linuxquestions/comments/pa465z/xubuntu_vs_lubuntu/]
 	1. So far [[Lubuntu]] uses less [[memory]] and can be configured to turn off un-needed startup programs to bring it down even more.

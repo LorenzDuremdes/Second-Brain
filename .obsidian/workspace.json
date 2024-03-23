@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Falkon.md",
+                "file": "Linux distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Falkon.md",
+                "file": "Linux distribution.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Falkon.md",
+                "file": "Linux distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Falkon.md",
+                "file": "Linux distribution.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Falkon.md"
+                "file": "Linux distribution.md"
               }
             }
           },
@@ -181,8 +181,8 @@
   },
   "active": "5749c1820a222a40",
   "lastOpenFiles": [
-    "web browser.md",
     "Falkon.md",
+    "web browser.md",
     "elementary OS.md",
     "Google Chrome.md",
     "Linux distribution.md",
