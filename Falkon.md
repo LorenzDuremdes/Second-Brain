@@ -1,0 +1,2 @@
+1. it is reported to consume fewer system resources than the major general purpose browsers like [[Firefox]] and [[Google Chrome]].[https://en.wikipedia.org/wiki/Falkon]
+2. Falkon is the absolute best lightweight[[ web browser]]^[[Is Falkon browser good for daily usage? : r/kde (reddit.com)](https://www.reddit.com/r/kde/comments/s24ow8/is_falkon_browser_good_for_daily_usage/)]

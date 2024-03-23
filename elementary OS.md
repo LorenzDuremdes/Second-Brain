@@ -1,0 +1,2 @@
+1. elementary OS; promotes itself as a "thoughtful, capable, and ethical" replacement to macOS and Windows and has a pay-what-you-want model^[https://en.wikipedia.org/wiki/Elementary_OS]
+1. [A distro that looks and feels like MacOS? : r/DistroHopping (reddit.com)](https://www.reddit.com/r/DistroHopping/comments/eviw4i/a_distro_that_looks_and_feels_like_macos/)
