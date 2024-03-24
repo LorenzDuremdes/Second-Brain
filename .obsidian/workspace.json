@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f44c58912b7a4efa",
+            "id": "eda9fde2deb67361",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "golden hour (photography).md",
+                "file": "laptop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ecb48aca53590f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HP Spectre.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +37,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "golden hour (photography).md",
+                "file": "HP Spectre.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -54,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "laptop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "golden hour (photography).md",
+                "file": "HP Spectre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "golden hour (photography).md",
+                "file": "HP Spectre.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "golden hour (photography).md"
+                "file": "HP Spectre.md"
               }
             }
           },
@@ -180,10 +193,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f44c58912b7a4efa",
+  "active": "1ecb48aca53590f5",
   "lastOpenFiles": [
-    "blue hour.md",
+    "laptop.md",
+    "HP Spectre.md",
+    "ASUS ZenBook.md",
     "golden hour (photography).md",
+    "blue hour.md",
     "anaerobic capacity.md",
     "Linux distribution.md",
     "Falkon.md",
@@ -205,9 +221,6 @@
     "appetite.md",
     "fat.md",
     "conditioning.md",
-    "sleep.md",
-    "Reynolds number.md",
-    "fluid dynamics.md",
     "Reynolds number - 296px-Reynolds_behaviors.png",
     "pharmacokinetic data (phenylpiracetam), Wikipedia.png",
     "Biosynthetic pathways for catecholamines and trace amines in the human brain.png",

@@ -1,0 +1,1 @@
+1. HP Spectre; a line of premium portable computers from HP Inc. (formerly Hewlett-Packard). It is HP's flagship line of products for consumers.^[https://en.wikipedia.org/wiki/HP_Spectre]
