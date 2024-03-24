@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Microsoft Surface Pro.md",
+                "file": "laptop.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Microsoft Surface Pro.md",
+                "file": "laptop.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microsoft Surface Pro.md",
+                "file": "laptop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microsoft Surface Pro.md",
+                "file": "laptop.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Microsoft Surface Pro.md"
+                "file": "laptop.md"
               }
             }
           },
@@ -182,6 +182,7 @@
   },
   "active": "329be3df5d90df78",
   "lastOpenFiles": [
+    "Alienware.md",
     "laptop.md",
     "Microsoft Surface Pro.md",
     "HP Spectre.md",
@@ -207,7 +208,6 @@
     "skeletal muscle perfusion.md",
     "lactate shuttle hypothesis.md",
     "appetite.md",
-    "fat.md",
     "Reynolds number - 296px-Reynolds_behaviors.png",
     "pharmacokinetic data (phenylpiracetam), Wikipedia.png",
     "Biosynthetic pathways for catecholamines and trace amines in the human brain.png",
