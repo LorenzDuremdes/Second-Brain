@@ -1,0 +1,2 @@
+1. subjective [[sleep quality]]; refers to a sense of being rested and regenerated after awaking from [[sleep]]^[https://en.wikipedia.org/wiki/Sleep#Quality]
+	1. a study by A. Harvey et al. (2002) found that insomniacs were more demanding in their evaluations of [[sleep quality]] than individuals who had no [[dyssomnia|sleep problems]]

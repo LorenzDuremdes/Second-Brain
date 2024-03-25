@@ -4,7 +4,7 @@
 # improving sleep
 1. should you think about physical activities to fall asleep (e.g. tennis)?
 	1. no, because it can raise your [[blood pressure]] (i.e. simply imagining the activities)
-		1. what about dreaming about such activities → effect on sleep quality/quantity?
+		1. what about dreaming about such activities → effect on [[sleep quality]]/quantity?
 
 # [[nutrition]]
 ## [[nutrient timing]]
@@ -40,7 +40,7 @@
 ### [[circadian rhythm]]
 1. Some of the genes responsible of regulating circadian rhythms seem to be mutated or down-regulated in ASD^[https://annals-general-psychiatry.biomedcentral.com/articles/10.1186/s12991-022-00390-6#Sec1]
 	1. [[circadian rhythm|circadian]] [[hormone|hormones]] such as [[melatonin]] and [[cortisol]] were also found to be altered in ASD
-2. **Higher evening levels of [[cortisol]], as well as a blunted diurnal slope**, were reported in ASD individuals with respect to controls. According to these authors, evening [[cortisol]] levels seemed to increase through [[developmental biology|development]] in ASD individuals, being higher in [[adolescence|adolescents]] than in [[child (human)|children]], whereas morning levels of the [[hormone]] were generally lower. The authors also suggested that the increase in [[cortisol]] level may be involved in the impaired sleep quality^[https://annals-general-psychiatry.biomedcentral.com/articles/10.1186/s12991-022-00390-6#ref-CR48]
+2. **Higher evening levels of [[cortisol]], as well as a blunted diurnal slope**, were reported in ASD individuals with respect to controls. According to these authors, evening [[cortisol]] levels seemed to increase through [[developmental biology|development]] in ASD individuals, being higher in [[adolescence|adolescents]] than in [[child (human)|children]], whereas morning levels of the [[hormone]] were generally lower. The authors also suggested that the increase in [[cortisol]] level may be involved in the impaired [[sleep quality]]^[https://annals-general-psychiatry.biomedcentral.com/articles/10.1186/s12991-022-00390-6#ref-CR48]
 3. [[period circadian protein homolog 1]] · [[autism]]
 	1. Period circadian regulator 1 (PER1), a [[CLOCK gene]] [[gene expression|expressed]] in [[brain]] areas which affect [[hypnagogia|sleep]]–[[hypnopompia|wake]] transition, was also suggested to be **[[mutation|mutated]] in ASD subjects**. This alteration was hypothesized to be involved in the oscillations of the circadian clock in ASD, eventually also by **affecting [[melatonin]] release**^[[Biological correlates of altered circadian rhythms, autonomic functions and sleep problems in autism spectrum disorder | Annals of General Psychiatry | Full Text (biomedcentral.com)](https://annals-general-psychiatry.biomedcentral.com/articles/10.1186/s12991-022-00390-6) (2022)]^[[Association of Per1 and Npas2 with autistic disorder: support for the clock genes/social timing hypothesis | Molecular Psychiatry (nature.com)](https://www.nature.com/articles/4001953) (2007)]
 

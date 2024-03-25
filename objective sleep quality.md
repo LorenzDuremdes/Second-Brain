@@ -1,0 +1,1 @@
+1. objective [[sleep quality]]; refers to how difficult it is for a person to fall asleep and remain in a sleeping state, and how many times they wake up during a single night^[https://en.wikipedia.org/wiki/Sleep#Quality]
