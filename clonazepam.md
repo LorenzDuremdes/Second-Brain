@@ -1,1 +1,2 @@
 1. clonazepam; a [[medication]] used to prevent and treat seizures, [[panic disorder]], [[anxiety]], and the movement disorder known as [[akathisia]].^[https://en.wikipedia.org/wiki/Clonazepam#cite_note-AHFS2015-9]
+2. [[rapid eye movement sleep behavior disorder|REM sleep behavior disorder]] responds well to low doses of clonazepam^[https://en.wikipedia.org/wiki/Clonazepam#Muscle_disorders]

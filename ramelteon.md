@@ -1,0 +1,1 @@
+1. ramelteon; a [[melatonin]] [[agonist]] and a [[circadian rhythm|sleep-cycle regulator]] used for people who have difficulties in[[sleep onset latency|falling asleep]]^[https://annals-general-psychiatry.biomedcentral.com/articles/10.1186/s12991-022-00390-6#Sec9]

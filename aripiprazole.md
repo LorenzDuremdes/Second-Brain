@@ -1,0 +1,1 @@
+1. short-term data (8 weeks) shows reduced irritability, hyperactivity, inappropriate speech, and [[stereotypy]], but no change in lethargic behaviours. ([[autism]])^[https://en.wikipedia.org/wiki/Aripiprazole#cite_note-Hirsch2016-38]

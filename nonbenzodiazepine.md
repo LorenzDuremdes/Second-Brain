@@ -1,0 +1,2 @@
+1. nonbenzodiazepine; a class of psychoactive drugs that are benzodiazepine-like in uses, such as for treating [[insomnia]] and [[anxiety]]^[https://en.wikipedia.org/wiki/Nonbenzodiazepine]
+	1. Z-drugs (as many of their names begin with the letter "z")

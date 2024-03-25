@@ -1,0 +1,3 @@
+1. agomelatine; studies report various improvements in general quality of [[sleep]] metrics, as well as benefits in [[circadian rhythm]] [[dyssomnia|sleep disorders]].^[https://en.wikipedia.org/wiki/Agomelatine#Circadian_rhythm_sleep_disorders]
+	1. however, research is very limited (e.g., case reports) and agomelatine is not approved for use in the treatment of [[dyssomnia|sleep disorders]]
+2. agomelatine; was reported to reduce [[sleep onset latency|latency of sleep]] and the [[wake after sleep onset|number of awakenings]] in [[autism|ASD]] children^[https://annals-general-psychiatry.biomedcentral.com/articles/10.1186/s12991-022-00390-6#Sec9]

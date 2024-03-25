@@ -1,1 +1,2 @@
-1. risperidone; an atypical [[antipsychotic]]^[https://en.wikipedia.org/wiki/Risperidone#cite_note-AHFS2015-2] used to treat schizophrenia and bipolar disorder.^[https://en.wikipedia.org/wiki/Risperidone#cite_note-AHFS2015-2]
+1. risperidone; an atypical [[antipsychotic]]^[https://en.wikipedia.org/wiki/Risperidone#cite_note-AHFS2015-2] used to treat [[schizophrenia]] and [[bipolar disorder]].^[https://en.wikipedia.org/wiki/Risperidone#cite_note-AHFS2015-2]
+2. evidence for the **efficacy** of risperidone in autistic **adolescents** and **young adults** is less persuasive.^[https://en.wikipedia.org/wiki/Risperidone#cite_note-34]

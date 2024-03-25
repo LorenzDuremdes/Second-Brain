@@ -1,0 +1,1 @@
+1. clonidine; has been used to reduce [[dyssomnia|sleep disturbances]] in [[attention deficit hyperactivity disorder|ADHD]], including to help offset stimulant-associated [[insomnia]]^[https://en.wikipedia.org/wiki/Clonidine#Attention_deficit_hyperactivity_disorder]
