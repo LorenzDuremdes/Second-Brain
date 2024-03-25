@@ -1,0 +1,2 @@
+1. advanced [[circadian rhythm sleep disorder|sleep phase disorder]]; a condition that is characterized by a recurrent pattern of early evening (e.g. 7-9 PM) sleepiness and very early morning awakening (e.g. 2-4 AM)^[https://en.wikipedia.org/wiki/Advanced_sleep_phase_disorder]
+	1. this [[sleep]] phase advancement can interfere with daily social and work schedules, and results in [[total sleep time|shortened sleep duration]] and [[excessive daytime sleepiness]]
