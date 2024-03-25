@@ -1,0 +1,2 @@
+1. supine hypertension; a paradoxical elevation in [[blood pressure]] upon assuming a supine position from a standing or sitting position^[https://en.wikipedia.org/wiki/Supine_hypertension]
+	1. It is assumed to be a manifestation of disorders of the [[autonomic nervous system]] or due to side effects of medications such as midodrine and droxidopa.
