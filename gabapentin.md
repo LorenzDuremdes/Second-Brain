@@ -1,0 +1,1 @@
+1. gabapentin; enhances [[NREM sleep|slow-wave sleep]] in patients with primary [[insomnia]]. It also improves [[sleep quality]] by elevating [[sleep efficiency]] and decreasing spontaneous [[arousal]]^[https://en.wikipedia.org/wiki/Gabapentin#cite_note-pmid20124884-35]
