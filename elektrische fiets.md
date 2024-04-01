@@ -4,7 +4,7 @@
 	1. bij speed pedelecs verraadt aan de andere kant de helm - mits die gedragen wordt - nog wel dat het sneller gaat^[https://www.autoweek.nl/columns/artikel/weblog-joas-als-automobilist-vrees-ik-de-e-bike/]
 		1. de automobilist kan niet altijd zien dat het een e-bike is
 
-# engineering
+# [[engineering]]
 1. elektrische fietsen met een achterwielmotor geven de meest natuurlijke rijbeleving^[https://www.anwb.nl/fiets/soorten-fietsen/elektrische-fietsen/elektrische-fiets-kopen#motor]
 2. ideal e-bike battery storage temperature
 	1. 0–20 °C^[https://electric-biking.com/storage-temperatures/]

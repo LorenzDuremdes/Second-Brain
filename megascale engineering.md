@@ -1,2 +1,2 @@
-1. megascale engineering; a form of exploratory engineering concerned with the construction of structures on an enormous scale.^[https://en.wikipedia.org/wiki/Megascale_engineering#cite_note-WP-20201231-2]
-	1. larger than "macro-engineering"
+1. megascale [[engineering]]; a form of exploratory [[engineering]] concerned with the construction of structures on an enormous scale.^[https://en.wikipedia.org/wiki/Megascale_engineering#cite_note-WP-20201231-2]
+	1. larger than "macro-[[engineering]]"

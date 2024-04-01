@@ -1,1 +1,1 @@
-1. poly(methyl methacrylate); belongs to a group of materials called engineering plastics. It is a transparent thermoplastic.^[https://en.wikipedia.org/wiki/Poly(methyl_methacrylate)]
+1. poly(methyl methacrylate); belongs to a group of materials called [[engineering]] plastics. It is a transparent thermoplastic.^[https://en.wikipedia.org/wiki/Poly(methyl_methacrylate)]
