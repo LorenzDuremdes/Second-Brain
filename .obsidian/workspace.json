@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blood flow re",
+                "query": "blood flow",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -183,6 +183,8 @@
   },
   "active": "fa0cdc1011912bd5",
   "lastOpenFiles": [
+    "central nervous system fatigue.md",
+    "blood flow restriction training.md",
     "epilepsy.md",
     "ferritin.md",
     "iron deficiency.md",
@@ -207,8 +209,6 @@
     "sleep apnea.md",
     "agomelatine.md",
     "ramelteon.md",
-    "aripiprazole.md",
-    "risperidone.md",
     "Reynolds number - 296px-Reynolds_behaviors.png",
     "pharmacokinetic data (phenylpiracetam), Wikipedia.png",
     "Biosynthetic pathways for catecholamines and trace amines in the human brain.png",
