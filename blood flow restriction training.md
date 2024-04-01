@@ -16,6 +16,9 @@
 # [[aerobic exercise]]
 1. The direct measurement of free radical generation and [[redox]] markers confirmed systemic increases in ROS following BFR exercise sessions^[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9952836/#B18-antioxidants-12-00501]^[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9952836/#B19-antioxidants-12-00501]. Such a profound rise in ROS/RNS, associated with local reactive hyperemia, might contribute to increases in muscle mass, strength, and performance^[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9952836/#B20-antioxidants-12-00501].
 	1. Moreover, a six-week BFR training program was shown to accentuate beneficial ROS-mediated improvements in performance. BFR training resulted in an increase in peak aerobic power output in accordance with the improved [[redox]] status determined by an elevated GSH/GSSG ratio^[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9952836/#B89-antioxidants-12-00501]
+2. BFR training sessions are/feel more intense than hard training sessions without BFR
+   
+   Because BFR is uncomfortable, practicing it consistently increases your tolerance to dealing with discomfort. Legs on fire cranking up Heaven’s Gate Hill? No big deal: you feel more muscle burn during any given BFR session.^[[Blood Flow Restriction Training | Benefits of BFR Training (bicycling.com)](https://www.bicycling.com/training/a37980332/blood-flow-restriction-training/)]
 
 ## sources
 1. [Blood Flow Restriction Training | Benefits of BFR Training (bicycling.com)](https://www.bicycling.com/training/a37980332/blood-flow-restriction-training/) (with scientific citations)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "epilepsy.md",
+                "file": "blood flow restriction training.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "epilepsy.md",
+                "file": "blood flow restriction training.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "epilep",
+                "query": "blood flow re",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "epilepsy.md",
+                "file": "blood flow restriction training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "epilepsy.md",
+                "file": "blood flow restriction training.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "epilepsy.md"
+                "file": "blood flow restriction training.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "fa0cdc1011912bd5",
   "lastOpenFiles": [
+    "epilepsy.md",
     "ferritin.md",
     "iron deficiency.md",
     "gabapentin.md",
@@ -208,7 +209,6 @@
     "ramelteon.md",
     "aripiprazole.md",
     "risperidone.md",
-    "bipolar disorder.md",
     "Reynolds number - 296px-Reynolds_behaviors.png",
     "pharmacokinetic data (phenylpiracetam), Wikipedia.png",
     "Biosynthetic pathways for catecholamines and trace amines in the human brain.png",
