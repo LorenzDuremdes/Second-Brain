@@ -37,7 +37,7 @@
 1. hydration during exercise → recovery
 	1. riders can tolerate mild [[dehydration]] during exercise to a certain extent, but too much of a deficit during exercise eventually impairs performance and makes it harder to recover adequately for subsequent training^[Cutting-Edge Cycling, p. 244]
 2. 
-3. Eight well-trained male cyclists consumed either 2.4 liters of a 7 percent carbohydrate drink or .4 liter of [[water]] with sufficient gels to provide equal carbohydrate consumption during a 2-hour endurance ride in a 30 °C lab temperature. The subjects then rode to exhaustion at 88 percent of maximal aerobic power. As expected, body weight was lower with the gel condition. **These subjects were 1.9 kilograms lighter** because of their low [[fluid]] intake, and a lower power output was sufficient for them to maintain a constant speed.^[Cutting-Edge Cycling, p. 249]
+3. Eight well-trained male cyclists consumed either 2.4 liters of a 7 percent [[carbohydrate]] drink or .4 liter of [[water]] with sufficient gels to provide equal [[carbohydrate]] consumption during a 2-hour endurance ride in a 30 °C lab temperature. The subjects then rode to exhaustion at 88 percent of maximal aerobic power. As expected, body weight was lower with the gel condition. **These subjects were 1.9 kilograms lighter** because of their low [[fluid]] intake, and a lower power output was sufficient for them to maintain a constant speed.^[Cutting-Edge Cycling, p. 249]
 4. can [[dehydration]] improve the power-to-weight ratio? + why
 	1. overall, any power-to-weight advantage from voluntary [[dehydration]] was offset by the physiological and performance impairment^[Cutting-Edge Cycling, p. 249]
 	2. **see also:** nidd1611256812790
@@ -73,21 +73,21 @@
 ## content
 1. in one of the few studies that looked at voluntary drinking behavior in humans, a [[water]] temperature of 15 °C had the highest consumption rate in subjects who were allowed to choose the [[water]] temperature (Boulze et al. 1983)^[Cutting-Edge Cycling, p. 253]
 2. cooling and flavoring drinks increased the consumption rate; consumption of flavored [[water]] at 15 °C was 120 percent greater than consumption of unflavored [[water]] at 40 °C (Hubbard et al. 1984)^[Cutting-Edge Cycling, p. 253]
-3. carbohydrate vs. carbohydrate-[[protein]] [[sport]] drink
+3. [[carbohydrate]] vs. [[carbohydrate]]-[[protein]] [[sport]] drink
 	1. the latter is more effective^[Cutting-Edge Cycling, p. 259]
-	2. how much performance advantage does a carbohydrate-[[protein]] give as opposed to carbohydrate only?^[Cutting-Edge Cycling, p. 259]
+	2. how much performance advantage does a [[carbohydrate]]-[[protein]] give as opposed to [[carbohydrate]] only?^[Cutting-Edge Cycling, p. 259]
 		1. +~10%
 		2. With 75 percent and 85 percent O2max rides to exhaustion, in which subjects were asked to ride at a set workload for as long as possible, exercise tolerance time increased dramatically to 29 percent and 45 percent longer at 75 and 85 percent of O2max respectively.
-	3. the scientific consensus is that the ceiling for carbohydrate absorption is already reached at 6 to 8 percent concentration and that simply adding more carbohydrate does not get more into your system and may even slow things down in the digestive tract. Therefore, adding [[protein]] seemed to serve as a back-door way to cram more calories into your system.
-4. [[protein]] addition → suboptimal carbohydrate replacement (<60 grams per hour) during a cycling [[time trial]]
-	1. The rate of [[fluid]] ingestion may be one of the major reasons for the difference between the two studies. Saunders et al. (2004) had a relatively low (500 milliliters per hour) drinking rate, resulting in about 37 grams per hour of carbohydrate replacement. This quantity is much lower than the 60 grams per hour recommended to maximize carbohydrate replacement in the body. Therefore, the extra [[protein]] may play an important role only when carbohydrate replacement is less than optimal. Regardless, the jury is still out on how important [[protein]] is during cycling.^[Cutting-Edge Cycling, p. 260]
+	3. the scientific consensus is that the ceiling for [[carbohydrate]] absorption is already reached at 6 to 8 percent concentration and that simply adding more [[carbohydrate]] does not get more into your system and may even slow things down in the digestive tract. Therefore, adding [[protein]] seemed to serve as a back-door way to cram more calories into your system.
+4. [[protein]] addition → suboptimal [[carbohydrate]] replacement (<60 grams per hour) during a cycling [[time trial]]
+	1. The rate of [[fluid]] ingestion may be one of the major reasons for the difference between the two studies. Saunders et al. (2004) had a relatively low (500 milliliters per hour) drinking rate, resulting in about 37 grams per hour of [[carbohydrate]] replacement. This quantity is much lower than the 60 grams per hour recommended to maximize [[carbohydrate]] replacement in the body. Therefore, the extra [[protein]] may play an important role only when [[carbohydrate]] replacement is less than optimal. Regardless, the jury is still out on how important [[protein]] is during cycling.^[Cutting-Edge Cycling, p. 260]
 ## performance
-1. carbohydrate consumption before event → can act as an ergogenic^[Cutting-Edge Cycling, p. 255]
+1. [[carbohydrate]] consumption before event → can act as an ergogenic^[Cutting-Edge Cycling, p. 255]
 	1. e.g. sports/[[energy]] drinks
-2. possible reason for improved performance from the carbohydrate mouth rinse
-	1. one possibility is that, because the [[brain]] generally runs only on carbohydrate, some direct stimulation of carbohydrate receptors in the mouth may have altered [[brain]] activity, arousal, or the subconscious perception of effort and available [[energy]]
+2. possible reason for improved performance from the [[carbohydrate]] mouth rinse
+	1. one possibility is that, because the [[brain]] generally runs only on [[carbohydrate]], some direct stimulation of [[carbohydrate]] receptors in the mouth may have altered [[brain]] activity, arousal, or the subconscious perception of effort and available [[energy]]
 
-		Namely, self-paced effort may be selected by a “smart sensor” somewhere in the [[brain]] that integrates input from throughout the body. The presence of carbohydrate may trigger sensors in the mouth to relay positive information to the [[brain]] and allow it to select a higher pace.
+		Namely, self-paced effort may be selected by a “smart sensor” somewhere in the [[brain]] that integrates input from throughout the body. The presence of [[carbohydrate]] may trigger sensors in the mouth to relay positive information to the [[brain]] and allow it to select a higher pace.
 		
 		Given such findings, even in cool temperatures in which [[dehydration]] or heat stress is not a major concern, it maybe worthwhile to try a small bottle of [[sports drink]] or a gel immediately before or during short and high-intensity events of 60 to 90 minutes, including time trials, cyclocross, and many mountain biking events.^[Cutting-Edge Cycling, p. 256]
 		1. **related**: [[central governor]]

@@ -8,9 +8,24 @@
 
 # [[nutrition]]
 ## [[nutrient timing]]
-1. According to our results, high caloric food intake preceding the sleeping period was correlated with greater sleep latency in women (nocturnal caloric intake correlated positively with sleep latency). In general, this meal took place between 30 and 60 minutes before the volunteers went to bed.^[https://jcsm.aasm.org/doi/10.5664/jcsm.1476#d3e1098]
-   
-   Contrary to previous studies,[18](https://jcsm.aasm.org/doi/10.5664/jcsm.1476#B18),[19](https://jcsm.aasm.org/doi/10.5664/jcsm.1476#B19) our results suggest that intake of high [[fat]] and carbohydrate foods preceding the sleeping period are associated with higher sleep latency. Other studies[19](https://jcsm.aasm.org/doi/10.5664/jcsm.1476#B19),[20](https://jcsm.aasm.org/doi/10.5664/jcsm.1476#B20) have demonstrated that individuals who ingested a high-glycemic index, carbohydrate-rich meal 4 hours prior to sleep presented a decrease in sleep latency.
+### [[circadian rhythm]]
+1. many studies have examined the influence of meal timing as a consequence of circadian misalignment and as a contributor to circadian desynchrony resulting in metabolic dysfunction
+	1. our study provides an additional link; that meal timing may influence [[sleep quality]] in addition to disturbing circadian rhythmicity
+
+### [[sleep onset latency]]
+1. eating within 3 h of bedtime is associated with a ~40% increase in the odds of nocturnal awakening after accounting for ethnicity and BMI^[[Does the Proximity of Meals to Bedtime Influence the Sleep of Young Adults? A Cross-Sectional Survey of University Students - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7215804/)]
+	1. however, meal timing was not associated with SOL or sleep duration. Sensitivity analysis with different cut-off points for meal timing—within 2 h of bedtime and within 4 h of bedtime—revealed similar results (see Appendix B)
+		1. the absence of a relationship between meal timing and sleep duration is less surprising because sleep duration is predominately determined by the time since last sleep and social factors such as hours of employment or study, which influence habitual bed- and wake-times
+	2. normal digestion and gastroesophageal reflux may be responsible for the association between evening meal timing and nocturnal awakenings. Reflux has been shown to be associated with eating close to bedtime as well as disrupted sleep, and [[gastric emptying]] time is estimated to be between 2 and 4 h after meal ingestion
+	3. a previous study of 300 patients with [[sleep apnea]] found that later meal timing was associated with longer objectively measured sleep latency, higher apnea-hypopnea index, and poorer [[subjective sleep quality]]
+		1. However, in that study, the proximity of the final meal relative to bedtime was not evaluated. Rather, those with dinner times later than 8 p.m. were compared to those with earlier dinner times. The longer sleep latency observed in that study was small, in the order of 0.1 min on polysomnography, and thus may not be well captured by self-reported measures of sleep latency in the current study.
+	4. Afaghi and colleagues reported that the consumption of a high glycaemic index (GI) evening meal was associated with a shorter [[sleep onset latency]], while Crispim et al. found that high-calorie and high-[[fat]] meals within 60 min of sleep were correlated with longer sleep latency, decreased [[sleep efficiency]], and increased [[wake after sleep onset]]
+2. according to our results, high caloric [[food]] intake preceding the sleeping period was correlated with greater [[sleep onset latency|sleep latency]] in [[women]] (nocturnal caloric intake correlated positively with sleep latency). In general, this meal took place between 30 and 60 minutes before the volunteers went to bed.^[https://jcsm.aasm.org/doi/10.5664/jcsm.1476#d3e1098]
+	1. contrary to previous studies, our results suggest that intake of high [[fat]] and [[carbohydrate]] foods preceding the sleeping period are associated with higher sleep latency. Other studies have demonstrated that individuals who ingested a high-glycemic index, [[carbohydrate]]-rich meal 4 hours prior to sleep presented a decrease in sleep latency.
+### miscellaneous
+1. most people reporting 3+ hours as well
+	1. [How many hours before bed do y’all stop eating? : r/whoop (reddit.com)](https://www.reddit.com/r/whoop/comments/vo4t1g/how_many_hours_before_bed_do_yall_stop_eating/)
+	2. [No eating 3 hours prior to sleep has given me my highest/most consistent green recoveries yet the past 6 days. : r/whoop (reddit.com)](https://www.reddit.com/r/whoop/comments/18kp4r1/no_eating_3_hours_prior_to_sleep_has_given_me_my/)
 
 # [[REM sleep]]
 1. [[brain]] regions less active during [[REM sleep]]

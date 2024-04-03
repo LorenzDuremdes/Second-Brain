@@ -2,7 +2,7 @@
 	1. for events shorter than 5 minutes^[Cutting-Edge Cycling, p. 177]
 2. what is the best pacing strategy according to the book "Cutting-Edge Cycling"?
 	1. double peak
-3. what pacing strategy reduces the rate at which you use carbohydrate as a fuel?
+3. what pacing strategy reduces the rate at which you use [[carbohydrate]] as a fuel?
 	1. [[negative split]]
 		1. and limiting accumulation of fatigue-related metabolites, such as lactic [[acid]], early on in the exercise task.
 5. cyclists who were provided no knowledge that they would be riding a 4-kilometer [[time trial]] and were given no feedback throughout improved their times exponentially with each performance, such that their performance was identical to the full-feedback group by the fourth [[time trial]]
