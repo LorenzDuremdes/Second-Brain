@@ -1,0 +1,6 @@
+# [[apartment]]
+1. try placing it in the middle of the room or near your main listening seating
+   
+   a sub that is closer to you may lessen the need for you to pressurize the entire room with bass energy just to get the sense of vibration and deep sound you are looking for^[[Subwoofer Setup Tips For Apartment Living | KEF USA](https://us.kef.com/blogs/news/subwoofer-setup-tips-for-apartment-living)]
+   
+   - **Two subwoofers**. Yes, you can reduce the amount of bass energy your neighbors are hearing by adding a second subwoofer. Of course, you need to have them set up properly and playing at a balanced volume, but a second subwoofer will eliminate standing waves which may be crushing your bass volume where you sit while raising it to rafter-shaking levels elsewhere. Also, two subwoofers may help pressurize your room to a decent listening level without forcing your one sub to work as hard with the result of more perceived bass where you are sitting and less perceived bass in your neighbor’s place.
