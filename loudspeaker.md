@@ -1,1 +1,5 @@
+# environment
+## [[physics]]
 1. Concrete structures transmit contact noise, as you will notice when someone is drilling. Air transmitted noise isn't really propagated very much by a concrete structure.^[[Sub in an apartment - what if I put it right next to me and turn it to lowest setting? | Page 2 | Audio Science Review (ASR) Forum](https://www.audiosciencereview.com/forum/index.php?threads/sub-in-an-apartment-what-if-i-put-it-right-next-to-me-and-turn-it-to-lowest-setting.35454/page-2)]
+2. Air, being a gas, has different acoustic properties compared to solids or liquids. It's less dense, so sounds can travel through it but lose [[energy]] more quickly over distance. This is why sounds are quieter the farther you are from the source.^[GPT-4]
+	1. Concrete's density and mass make it quite effective at reducing the transmission of airborne sound between floors. Airborne sounds are those like voices, [[music]], and TV [[audio]]. A thick concrete slab can block or significantly attenuate these sounds, preventing them from easily traveling to units above or below.
