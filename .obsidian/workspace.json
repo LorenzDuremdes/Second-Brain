@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a30425341a397e83",
+            "id": "a1d361ad4e46dbc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zwift.md",
+                "file": "electrodermal activity.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Zwift.md",
+                "file": "electrodermal activity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zwift",
+                "query": "electrodermal activity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zwift.md",
+                "file": "electrodermal activity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zwift.md",
+                "file": "electrodermal activity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zwift.md"
+                "file": "electrodermal activity.md"
               }
             }
           },
@@ -180,8 +179,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a30425341a397e83",
+  "active": "a1d361ad4e46dbc5",
   "lastOpenFiles": [
+    "social disorder.md",
+    "electrodermal activity.md",
+    "embodied cognition.md",
+    "Zwift.md",
     "loudspeaker.md",
     "sleep.md",
     "carbohydrate.md",
@@ -204,10 +207,6 @@
     "objective sleep quality.md",
     "mirtazapine.md",
     "sleep quality.md",
-    "sleep deprivation.md",
-    "circadian rhythm sleep disorder.md",
-    "chronotype.md",
-    "excessive daytime sleepiness.md",
     "Reynolds number - 296px-Reynolds_behaviors.png",
     "pharmacokinetic data (phenylpiracetam), Wikipedia.png",
     "Biosynthetic pathways for catecholamines and trace amines in the human brain.png",
