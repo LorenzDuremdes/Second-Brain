@@ -1,0 +1,1 @@
+1. mucous [[membrane]]; a [[membrane]] that lines various cavities in the body of an [[organism]] and covers the surface of [[organ (biology)|internal organs]]^[https://en.wikipedia.org/wiki/Mucous_membrane]

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a1d361ad4e46dbc5",
+            "id": "b0fae2ce903de915",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "electrodermal activity.md",
+                "file": "mucous membrane.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "electrodermal activity.md",
+                "file": "mucous membrane.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "electrodermal activity",
+                "query": "organ (biology)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "electrodermal activity.md",
+                "file": "mucous membrane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "electrodermal activity.md",
+                "file": "mucous membrane.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "electrodermal activity.md"
+                "file": "mucous membrane.md"
               }
             }
           },
@@ -161,7 +162,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,10 +181,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a1d361ad4e46dbc5",
+  "active": "8412e88b9e28c8ed",
   "lastOpenFiles": [
-    "social disorder.md",
+    "respiratory system.md",
+    "mucous membrane.md",
+    "mucosal immunology.md",
+    "strabismus.md",
     "electrodermal activity.md",
+    "social disorder.md",
     "embodied cognition.md",
     "Zwift.md",
     "loudspeaker.md",
@@ -203,10 +209,6 @@
     "ferritin.md",
     "iron deficiency.md",
     "gabapentin.md",
-    "subjective sleep quality.md",
-    "objective sleep quality.md",
-    "mirtazapine.md",
-    "sleep quality.md",
     "Reynolds number - 296px-Reynolds_behaviors.png",
     "pharmacokinetic data (phenylpiracetam), Wikipedia.png",
     "Biosynthetic pathways for catecholamines and trace amines in the human brain.png",

@@ -1,0 +1,1 @@
+1. respiratory system; a biological system consisting of specific organs and structures used for gas exchange in animals and plants^[https://en.wikipedia.org/wiki/Respiratory_system]

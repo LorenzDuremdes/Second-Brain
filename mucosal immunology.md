@@ -1,0 +1,1 @@
+1. mucosal immunology; the study of [[immune system]] responses that occur at mucosal membranes of the intestines, the urogenital tract, and the [[respiratory system]].^[https://en.wikipedia.org/wiki/Mucous_membrane]
