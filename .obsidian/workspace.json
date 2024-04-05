@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b0fae2ce903de915",
+            "id": "0f7258f6ebbc9caa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mucous membrane.md",
+                "file": "α-diversity.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "mucous membrane.md",
+                "file": "α-diversity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mucous membrane.md",
+                "file": "α-diversity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mucous membrane.md",
+                "file": "α-diversity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mucous membrane.md"
+                "file": "α-diversity.md"
               }
             }
           },
@@ -181,10 +180,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8412e88b9e28c8ed",
+  "active": "0f7258f6ebbc9caa",
   "lastOpenFiles": [
-    "respiratory system.md",
+    "β-diversity.md",
+    "γ-diversity.md",
+    "α-diversity.md",
     "mucous membrane.md",
+    "respiratory system.md",
     "mucosal immunology.md",
     "strabismus.md",
     "electrodermal activity.md",
@@ -206,9 +208,6 @@
     "blood flow restriction training.md",
     "central nervous system fatigue.md",
     "epilepsy.md",
-    "ferritin.md",
-    "iron deficiency.md",
-    "gabapentin.md",
     "Reynolds number - 296px-Reynolds_behaviors.png",
     "pharmacokinetic data (phenylpiracetam), Wikipedia.png",
     "Biosynthetic pathways for catecholamines and trace amines in the human brain.png",
