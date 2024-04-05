@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "loudspeaker.md",
+                "file": "Zwift.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "loudspeaker.md",
+                "file": "Zwift.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "speaker",
+                "query": "zwift",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "loudspeaker.md",
+                "file": "Zwift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "loudspeaker.md",
+                "file": "Zwift.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "loudspeaker.md"
+                "file": "Zwift.md"
               }
             }
           },
@@ -182,12 +182,12 @@
   },
   "active": "a30425341a397e83",
   "lastOpenFiles": [
+    "loudspeaker.md",
     "sleep.md",
     "carbohydrate.md",
     "subwoofer.md",
     "surround sound.md",
     "apartment.md",
-    "loudspeaker.md",
     "negative split.md",
     "drafting (aerodynamics.md",
     "cycling biomechanics.md",
