@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "oval chainring.md",
+                "file": "hybrid athlete.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "oval chainring.md",
+                "file": "hybrid athlete.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "oval chainring",
+                "query": "sports data",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "oval chainring.md",
+                "file": "hybrid athlete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "oval chainring.md",
+                "file": "hybrid athlete.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "oval chainring.md"
+                "file": "hybrid athlete.md"
               }
             }
           },
@@ -182,8 +183,10 @@
   },
   "active": "55cea21cf61145df",
   "lastOpenFiles": [
-    "anaerobic capacity.md",
+    "sports data science.md",
+    "hybrid athlete.md",
     "oval chainring.md",
+    "anaerobic capacity.md",
     "structured training (endurance).md",
     "sports nutrition.md",
     "sucrose.md",
@@ -206,8 +209,6 @@
     "apartment.md",
     "negative split.md",
     "drafting (aerodynamics.md",
-    "cycling biomechanics.md",
-    "engineering.md",
     "Reynolds number - 296px-Reynolds_behaviors.png",
     "pharmacokinetic data (phenylpiracetam), Wikipedia.png",
     "Biosynthetic pathways for catecholamines and trace amines in the human brain.png",
