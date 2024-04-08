@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "structured training (endurance).md",
+                "file": "anaerobic capacity.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "structured training (endurance).md",
+                "file": "anaerobic capacity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sports nutrition",
+                "query": "anaerobic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "structured training (endurance).md",
+                "file": "anaerobic capacity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "structured training (endurance).md",
+                "file": "anaerobic capacity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "structured training (endurance).md"
+                "file": "anaerobic capacity.md"
               }
             }
           },
@@ -182,8 +183,8 @@
   },
   "active": "800cf0b9f89962bd",
   "lastOpenFiles": [
-    "sports nutrition.md",
     "structured training (endurance).md",
+    "sports nutrition.md",
     "sucrose.md",
     "triathlon.md",
     "Zwift.md",
