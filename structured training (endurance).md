@@ -4,3 +4,6 @@
 	   Structured training begins with a plan and uses specific power-based workouts that are designed to make you faster in the most effective and [[time]]-efficient way. Using your current capabilities, every workout is tailored to your particular needs. But structured training is more than just repeating the same workout. The best plans progressively add more to your workouts, while giving you the rest needed to recover and adapt.
 	   
 	   In contrast to structured training, the alternative is to ride a lot. No doubt, you can get fitter by just riding your bike. But sooner rather than later, just riding your bike will not provide enough stimulus, and you’ll hit a plateau. Structured training provides the right workouts at the right [[time]], so you can break through and reach your goals.^[[Why Every Cyclist Needs Structured Training - TrainerRoad Blog](https://www.trainerroad.com/blog/why-every-cyclist-needs-structured-training/)]
+
+# sources
+1. [The Importance of Structured Training - The Knowledge (wahoofitness.com)](https://eu.wahoofitness.com/blog/the-importance-of-structured-training/)
