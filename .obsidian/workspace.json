@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "800cf0b9f89962bd",
+            "id": "55cea21cf61145df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "anaerobic capacity.md",
+                "file": "oval chainring.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "anaerobic capacity.md",
+                "file": "oval chainring.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "anaerobic",
+                "query": "oval chainring",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anaerobic capacity.md",
+                "file": "oval chainring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "anaerobic capacity.md",
+                "file": "oval chainring.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "anaerobic capacity.md"
+                "file": "oval chainring.md"
               }
             }
           },
@@ -181,8 +180,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "800cf0b9f89962bd",
+  "active": "55cea21cf61145df",
   "lastOpenFiles": [
+    "anaerobic capacity.md",
+    "oval chainring.md",
     "structured training (endurance).md",
     "sports nutrition.md",
     "sucrose.md",
@@ -207,8 +208,6 @@
     "drafting (aerodynamics.md",
     "cycling biomechanics.md",
     "engineering.md",
-    "hour record.md",
-    "hour record (time trial (cycling)).md",
     "Reynolds number - 296px-Reynolds_behaviors.png",
     "pharmacokinetic data (phenylpiracetam), Wikipedia.png",
     "Biosynthetic pathways for catecholamines and trace amines in the human brain.png",
