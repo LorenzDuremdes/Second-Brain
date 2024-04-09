@@ -4,6 +4,7 @@
 
 # [[endurance training]]
 1. Based on the research reviewed herein, the following recommendations are made to exercise and sport practitioners who strive to maintain the endurance and strength of their athletes and clients. With respect to our recommendations, in the event of uncertainty in the minimal dose needed to maintain performance, we have chosen the more conservative approach. Finally, as noted above, these recommendations should be treated with the utmost caution because of the limited number of studies available, limitations in interpreting the existing studies, and the primary population studied (i.e., mostly the general population).^[[Maintaining Physical Performance: The Minimal Dose of Exerci... : The Journal of Strength & Conditioning Research (lww.com)](https://journals.lww.com/nsca-jscr/fulltext/2021/05000/maintaining_physical_performance__the_minimal_dose.35.aspx)]
+	1. In general populations, **endurance performance can be maintained for up to 15 weeks** when training frequency is reduced to as little as 2 sessions per week or when exercise volume is reduced by 33-66% (as low as 13-26 minutes per session), as long as exercise intensity (exercising heart rate) is maintained.
    
 To maintain **short-term endurance** (i.e., maximal bouts of exercise lasting ∼4–8 minutes) in general populations:
    
