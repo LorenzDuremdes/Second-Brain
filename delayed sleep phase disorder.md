@@ -1,0 +1,3 @@
+1. delayed [[circadian rhythm sleep disorder|sleep phase disorder]]; the delaying of a person's [[circadian rhythm]] (biological clock) compared to those of societal norms^[https://en.wikipedia.org/wiki/Delayed_sleep_phase_disorder]
+2. "delayed [[sleep]] phase disorder" vs. "[[non-24-hour sleep-wake disorder]]"
+	1. individuals with DSPD can maintain a stable [[sleep]] schedule if they can adhere to their [[chronotype|preferred sleep times]], whereas those with Non-24 face ongoing adaptation challenges due to the ever-changing nature of their [[sleep]] cycle^[GPT-4]
