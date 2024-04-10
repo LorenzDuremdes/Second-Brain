@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "cycling power meter.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "cycling power meter.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aero",
+                "query": "cycling",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "cycling power meter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "cycling power meter.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aerodynamics (road cycling).md"
+                "file": "cycling power meter.md"
               }
             }
           },
@@ -163,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,8 +182,11 @@
   },
   "active": "f918d8c6e921c601",
   "lastOpenFiles": [
-    "Monarch (VeloVetta).md",
+    "ergometer.md",
+    "cycling power meter.md",
+    "Intervals.icu microcycle week 14 2024.png",
     "aerodynamics (road cycling).md",
+    "Monarch (VeloVetta).md",
     "Arabidopsis thaliana.md",
     "invisible disability.md",
     "crepuscular animal.md",
@@ -209,15 +211,12 @@
     "lighting.md",
     "LED lamp.md",
     "macular degeneration.md",
-    "circadian rhythm.md",
-    "dyssomnia.md",
     "Blaine Lints.jpg",
     "Reynolds number - 296px-Reynolds_behaviors.png",
     "pharmacokinetic data (phenylpiracetam), Wikipedia.png",
     "Biosynthetic pathways for catecholamines and trace amines in the human brain.png",
     "Oldenzaal naar Enschede - ZwiftApp_vD4fiCiEce.png",
     "Enschede naar Oldenzaal - ZwiftApp_4MLoG9hVwW.png",
-    "20m TT simulation with negative split and undulation.png",
-    "Threshold 2.png"
+    "20m TT simulation with negative split and undulation.png"
   ]
 }
