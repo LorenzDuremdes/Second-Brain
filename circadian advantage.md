@@ -1,0 +1,1 @@
+1. [[circadian rhythm|circadian]] advantage; an advantage gained when an [[organism]]'s biological cycles are in tune with its surroundings^[https://en.wikipedia.org/wiki/Circadian_advantage]

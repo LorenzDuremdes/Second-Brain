@@ -1,0 +1,2 @@
+1. free-running [[sleep]]; a rare [[chronotype|sleep pattern]] whereby the [[sleep]] schedule of a person shifts later every day.^[https://en.wikipedia.org/wiki/Free-running_sleep]
+	1. it affects more than half of people who are totally blind and a smaller number of sighted individuals.
