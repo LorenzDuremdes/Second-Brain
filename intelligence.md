@@ -13,9 +13,16 @@
 	2. the more options you can eliminate (not necessarily future ones), the faster one can go from exploration to exploitation e.g. [[dating]]
 
 ## universal intelligence
-1. **Universal Intelligence - A Definition of Machine Intelligence, p. 23**
+1. **Universal Intelligence - A Definition of [[Machine Intelligence]], p. 23**
    ![[universal intelligence.png]]
 2. 3 basic components of "universal intelligence formula": agent · environment · [[goal]]^[Universal Intelligence: A Definition of Machine Intelligence, p. 15–16]
+3. why "µ∈E" rather than "E∈µ"
+	1. "µ∈E" means that µ is an element of the set E. In this case, E is defined as the space of all computable reward summable environmental measures. So **µ is one particular environmental measure within the set of all such measures E.**
+	   
+	   "E∈µ" would imply that E is an element of µ, which doesn't make sense in this context since E is the set and µ is supposed to be [[set membership (element (mathematics))|an element or a member of that set]]
+	   
+	   In the context of the provided text, "µ∈E" is used in the summation to indicate that we are summing over all possible environmental measures µ that are in the set E. This is a common way to express that you're performing an operation (in this case, summing up the value functions weighted by a complexity factor) over all elements of a certain set.^[GPT-4]
+4. The "π" is placed above the "µ" to denote that this is the value function specifically for the policy _π_ within the environment _µ_. It's a way of specifying which policy the value function is associated with when you might be comparing different policies or when the policy is not fixed.^[GPT-4]
 
 ### formula
 1. π (universal intelligence) = agent

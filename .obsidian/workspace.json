@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d17b98f7ca8551f9",
+            "id": "7c211a8f5df855b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cycling biomechanics.md",
+                "file": "intelligence.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cycling biomechanics.md",
+                "file": "intelligence.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "biomech",
+                "query": "set membersh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cycling biomechanics.md",
+                "file": "intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cycling biomechanics.md",
+                "file": "intelligence.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cycling biomechanics.md"
+                "file": "intelligence.md"
               }
             }
           },
@@ -181,8 +181,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d17b98f7ca8551f9",
+  "active": "8412e88b9e28c8ed",
   "lastOpenFiles": [
+    "universal intelligence.png",
+    "intelligence.md",
+    "cycling biomechanics.md",
     "zxre4tmwcorc1.jpg",
     "high-energy visible light.md",
     "melanopsin.md",
@@ -208,8 +211,6 @@
     "Zwift.md",
     "γ-diversity.md",
     "β-diversity.md",
-    "α-diversity.md",
-    "strabismus.md",
     "Reynolds number - 296px-Reynolds_behaviors.png",
     "pharmacokinetic data (phenylpiracetam), Wikipedia.png",
     "Biosynthetic pathways for catecholamines and trace amines in the human brain.png",
@@ -217,7 +218,6 @@
     "Enschede naar Oldenzaal - ZwiftApp_4MLoG9hVwW.png",
     "20m TT simulation with negative split and undulation.png",
     "Threshold 2.png",
-    "SweetSpot w Bursts.png",
-    "Malevolent.png"
+    "SweetSpot w Bursts.png"
   ]
 }
