@@ -1,0 +1,1 @@
+1. irregular [[circadian rhythm sleep disorder|sleep-wake rhythm disorder]]; characterized by numerous naps throughout the 24-hour period, no [[chronotype|main nighttime sleep episode]], and irregularity from day to day.^[https://en.wikipedia.org/wiki/Irregular_sleep%E2%80%93wake_rhythm_disorder]
