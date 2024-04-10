@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9514f487c3eb066f",
+            "id": "afd94263b797fabd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "high-energy visible light.md",
+                "file": "macular degeneration.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "high-energy visible light.md",
+                "file": "macular degeneration.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "high-energy visible light.md",
+                "file": "macular degeneration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "high-energy visible light.md",
+                "file": "macular degeneration.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "high-energy visible light.md"
+                "file": "macular degeneration.md"
               }
             }
           },
@@ -180,11 +180,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9514f487c3eb066f",
+  "active": "afd94263b797fabd",
   "lastOpenFiles": [
+    "high-energy visible light.md",
+    "macular degeneration.md",
     "circadian rhythm.md",
     "dyssomnia.md",
-    "high-energy visible light.md",
     "bicycle (designs).md",
     "maintenance volume (sports science).md",
     "minimum effective dose (road cycling).md",
@@ -208,7 +209,6 @@
     "mucosal immunology.md",
     "electrodermal activity.md",
     "loudspeaker.md",
-    "sleep.md",
     "Reynolds number - 296px-Reynolds_behaviors.png",
     "pharmacokinetic data (phenylpiracetam), Wikipedia.png",
     "Biosynthetic pathways for catecholamines and trace amines in the human brain.png",

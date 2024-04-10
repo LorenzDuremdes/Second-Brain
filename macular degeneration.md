@@ -1,0 +1,1 @@
+1. macular degeneration; a medical condition which may result in blurred or no vision in the center of the visual field.^[https://en.wikipedia.org/wiki/Macular_degeneration#cite_note-NEI2015-1]
