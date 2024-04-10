@@ -1,0 +1,1 @@
+1. photopic vision; the vision of the eye under well-lit conditions (luminance levels from 10 to 10E8 cd/m^2)^[https://en.wikipedia.org/wiki/Photopic_vision]
