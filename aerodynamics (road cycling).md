@@ -1,4 +1,4 @@
-1. myWindsock (userbase statistics > power vs. CdA)
+1. [[myWindsock]] (userbase [[statistics]] > power vs. CdA)
    ![image](https://mywindsock.com/page/wp-content/uploads/2023/03/power.png)
    ![image](https://mywindsock.com/page/wp-content/uploads/2023/03/cda.png)
 
@@ -33,7 +33,7 @@
 ---
 
 # biomechanics
-1. Daniel Bigham himself puts his performance down to 50% [[physiology]] and 50% equipment (137).^[[Can there be two speeds in a clean peloton? Performance strategies in modern road cycling – The Sport Journal](https://thesportjournal.org/article/can-there-be-two-speeds-in-a-clean-peloton-performance-strategies-in-modern-road-cycling/)]
+1. From Voigt’s first attempt to Ganna’s latest, the modern [[hour record]] has been improved by over 11%. Although Ganna is a multiple World [[Time Trial]] champion and likely one of the most suitable riders to attempt the record, the last person to hold the record before him was Daniel Bigham, the only rider on the list that was never a WorldTour rider. Although an accomplished cyclist in his own right, Bigham’s record is a prime example of how far and fast you can get by maximizing the margins, with his record being set at an average power output approximately 100 watts less than Wiggins. Bigham himself puts his performance down to 50% [[physiology]] and 50% equipment (137). One of the main aspects Bigham exploited was aerodynamics; his coefficient of aerodynamic drag (CdA) was ~0.15, which is considerably below what is commonly seen in cyclists, including professionals (41)..^[[Can there be two speeds in a clean peloton? Performance strategies in modern road cycling – The Sport Journal](https://thesportjournal.org/article/can-there-be-two-speeds-in-a-clean-peloton-performance-strategies-in-modern-road-cycling/)]
 	1. his coefficient of aerodynamic drag (CdA) was ~0.15, which is considerably below what is commonly seen in cyclists, including professionals (41).
 ## praying mantis
 1. it allows ur shoulders to drop and head to tuck down and in
