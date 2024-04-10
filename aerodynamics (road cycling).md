@@ -10,7 +10,7 @@
 
 # shops (prioritized high-to-low gain)
 1.  Aero wheels [10.17 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades)
-2. Narrow handlebars [2.43 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades)
+2. Narrow handlebars [2.43 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades) | can be replicated by putting hands inward
 3. Aero body position [22.38 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades)
 # apparel
 1. Aero helmet [7.56 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades)
