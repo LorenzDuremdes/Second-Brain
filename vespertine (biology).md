@@ -1,0 +1,1 @@
+1. vespertine ([[biology]]); a term used in the life sciences to indicate something of, relating to, or occurring in the evening^[https://en.wikipedia.org/wiki/Vespertine_(biology)]
