@@ -1,0 +1,2 @@
+1. melanopsin; in humans found in intrinsically photosensitive retinal ganglion cells (ipRGCs).^[https://en.wikipedia.org/wiki/Melanopsin#cite_note-ProvencioWarthen2012-6]
+2. melanopsin; a light sensitive [[protein]] that absorbs maximally at 480 nm, but has at least 10% efficiency in the range of 450-540 nm.^[https://en.wikipedia.org/wiki/Biological_effects_of_high-energy_visible_light#cite_note-16]
