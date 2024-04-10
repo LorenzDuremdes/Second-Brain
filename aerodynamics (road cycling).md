@@ -27,6 +27,9 @@
 3. [Aero Gloves – Aero Cycling Gear](https://www.aerocyclinggear.nl/products/aero-gloves) €39.95 | [4.7 W](https://www.thesartorialcyclist.com/post/less-power-more-speed-on-the-bike-calculating-the-benefits-of-aero-testing) on TT bike with hands in front
 4. [FUTURUM Face Mask Merino (Futurumshop.nl)](https://www.futurumshop.nl/futurum-face-mask-merino.phtml) €30.99 (Specialized 2023 S-Works TT 5 Team)
 5. [[Monarch (VeloVetta)]] | **cheaper alternative:** Non UCI Aero Overshoes (Rule 28) | ~[14.2 W](https://www.velovetta.com/pages/wind-tunnel-testing)
+
+**Total = -89.09 W**
+
 ---
 
 # biomechanics
