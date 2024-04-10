@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "afd94263b797fabd",
+            "id": "b20e9c096674ab8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "macular degeneration.md",
+                "file": "lighting.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "macular degeneration.md",
+                "file": "lighting.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "macular degeneration.md",
+                "file": "lighting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "macular degeneration.md",
+                "file": "lighting.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "macular degeneration.md"
+                "file": "lighting.md"
               }
             }
           },
@@ -180,10 +180,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "afd94263b797fabd",
+  "active": "b20e9c096674ab8d",
   "lastOpenFiles": [
-    "high-energy visible light.md",
+    "LED lamp.md",
+    "lighting.md",
     "macular degeneration.md",
+    "high-energy visible light.md",
     "circadian rhythm.md",
     "dyssomnia.md",
     "bicycle (designs).md",
@@ -207,8 +209,6 @@
     "respiratory system.md",
     "mucous membrane.md",
     "mucosal immunology.md",
-    "electrodermal activity.md",
-    "loudspeaker.md",
     "Reynolds number - 296px-Reynolds_behaviors.png",
     "pharmacokinetic data (phenylpiracetam), Wikipedia.png",
     "Biosynthetic pathways for catecholamines and trace amines in the human brain.png",
