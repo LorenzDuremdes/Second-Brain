@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bbb18965a7f4c0a2",
+            "id": "9514f487c3eb066f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bicycle (designs).md",
+                "file": "high-energy visible light.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "bicycle (designs).md",
+                "file": "high-energy visible light.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "road bike",
+                "query": "circa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bicycle (designs).md",
+                "file": "high-energy visible light.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bicycle (designs).md",
+                "file": "high-energy visible light.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bicycle (designs).md"
+                "file": "high-energy visible light.md"
               }
             }
           },
@@ -180,10 +180,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bbb18965a7f4c0a2",
+  "active": "9514f487c3eb066f",
   "lastOpenFiles": [
-    "maintenance volume (sports science).md",
+    "circadian rhythm.md",
+    "dyssomnia.md",
+    "high-energy visible light.md",
     "bicycle (designs).md",
+    "maintenance volume (sports science).md",
     "minimum effective dose (road cycling).md",
     "hybrid athlete.md",
     "Blaine Lints.jpg",
@@ -206,9 +209,6 @@
     "electrodermal activity.md",
     "loudspeaker.md",
     "sleep.md",
-    "carbohydrate.md",
-    "subwoofer.md",
-    "surround sound.md",
     "Reynolds number - 296px-Reynolds_behaviors.png",
     "pharmacokinetic data (phenylpiracetam), Wikipedia.png",
     "Biosynthetic pathways for catecholamines and trace amines in the human brain.png",
