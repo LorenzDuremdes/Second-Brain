@@ -1,0 +1,1 @@
+1. invisible disability; disabilities that are not immediately apparent^[https://en.wikipedia.org/wiki/Invisible_disability]
