@@ -1,0 +1,2 @@
+1. chronobiology; a field of [[biology]] that examines timing processes, including periodic (cyclic) phenomena in living organisms, such as their adaptation to solar- and lunar-related rhythms.^[https://en.wikipedia.org/wiki/Chronobiology]
+	1. these cycles are known as biological rhythms
