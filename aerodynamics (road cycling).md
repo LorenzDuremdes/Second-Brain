@@ -6,10 +6,10 @@
 1. [How Much Speed Can You Buy? - YouTube](https://www.youtube.com/watch?v=dpCe-gz_2_E)
 2. [EZ Disc Cover (700c) - 10-15 Watt Saving – EZ Gains Ltd](https://ezgains.co.uk/products/disc-cover-700c-1) €213.95
 3. [EZ Aero Chainring Guard 3-5 Watt Saving – EZ Gains Ltd](https://ezgains.co.uk/products/ez-aero-chainring-cover-1) €123.95
-4.  [EZ Aero Front Derailleur Guard save 2-5.8 Watts – EZ Gains Ltd](https://ezgains.co.uk/products/ez-aero-front-derailleur-guard-save-2-6-watts) €106.95
+4. [EZ Aero Front Derailleur Guard save 2-5.8 Watts – EZ Gains Ltd](https://ezgains.co.uk/products/ez-aero-front-derailleur-guard-save-2-6-watts) €106.95
 
 # shops (prioritized high-to-low gain)
-1.  Aero wheels [10.17 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades)
+1. Aero wheels [10.17 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades)
 2. Narrow handlebars [2.43 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades) | can be replicated by putting hands inward
 3. Aero body position [22.38 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades)
 # apparel
@@ -26,7 +26,7 @@
 			1. Dylan Johnson also wears them
 3. [Aero Gloves – Aero Cycling Gear](https://www.aerocyclinggear.nl/products/aero-gloves) €39.95 | [4.7 W](https://www.thesartorialcyclist.com/post/less-power-more-speed-on-the-bike-calculating-the-benefits-of-aero-testing) on TT bike with hands in front
 4. [FUTURUM Face Mask Merino (Futurumshop.nl)](https://www.futurumshop.nl/futurum-face-mask-merino.phtml) €30.99 (Specialized 2023 S-Works TT 5 Team)
-5. [[Monarch (VeloVetta)]] | **cheaper alternative:** Non UCI Aero Overshoes (Rule 28) | ~[14.2 W](https://www.velovetta.com/pages/wind-tunnel-testing)
+5. [[Monarch (VeloVetta)]] €405 | **cheaper alternative:** Non UCI Aero Overshoes (Rule 28) | ~[14.2 W](https://www.velovetta.com/pages/wind-tunnel-testing)
 
 **Total = -89.09 W**
 
