@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f918d8c6e921c601",
+            "id": "47b76bb5feb4d9e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cycling power meter.md",
+                "file": "Sound Transmission Class.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "cycling power meter.md",
+                "file": "Sound Transmission Class.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cycling power meter.md",
+                "file": "Sound Transmission Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cycling power meter.md",
+                "file": "Sound Transmission Class.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cycling power meter.md"
+                "file": "Sound Transmission Class.md"
               }
             }
           },
@@ -180,10 +180,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f918d8c6e921c601",
+  "active": "47b76bb5feb4d9e0",
   "lastOpenFiles": [
-    "ergometer.md",
+    "STCs by audio distinguishability.png",
+    "Sound Transmission Class.md",
     "cycling power meter.md",
+    "ergometer.md",
     "Intervals.icu microcycle week 14 2024.png",
     "aerodynamics (road cycling).md",
     "Monarch (VeloVetta).md",
@@ -209,14 +211,11 @@
     "luminous efficiency function.md",
     "photopic vision.md",
     "lighting.md",
-    "LED lamp.md",
-    "macular degeneration.md",
     "Blaine Lints.jpg",
     "Reynolds number - 296px-Reynolds_behaviors.png",
     "pharmacokinetic data (phenylpiracetam), Wikipedia.png",
     "Biosynthetic pathways for catecholamines and trace amines in the human brain.png",
     "Oldenzaal naar Enschede - ZwiftApp_vD4fiCiEce.png",
-    "Enschede naar Oldenzaal - ZwiftApp_4MLoG9hVwW.png",
-    "20m TT simulation with negative split and undulation.png"
+    "Enschede naar Oldenzaal - ZwiftApp_4MLoG9hVwW.png"
   ]
 }

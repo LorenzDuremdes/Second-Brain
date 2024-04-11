@@ -1,0 +1,2 @@
+1. Sound Transmission Class (STC); an [[integer]] rating of how well a building partition attenuates airborne sound^[https://en.wikipedia.org/wiki/Sound_transmission_class]
+2. https://en.wikipedia.org/wiki/Sound_transmission_class#Subjective_correlation ![[STCs by audio distinguishability.png]]
