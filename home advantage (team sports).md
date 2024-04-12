@@ -1,0 +1,1 @@
+1. home advantage (team sports); describes the benefit that the home team is said to gain over the visiting team^[https://en.wikipedia.org/wiki/Home_advantage]
