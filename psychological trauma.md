@@ -13,7 +13,7 @@
 1. which members of the group had benefited from psychological trauma [[therapy]] and which had continued to feel suicidal and [[self]]-destructive?^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 171]
 	1. our TAQ interviews provided some answers. The patients who remained [[self]]-destructive had told us that they did not remember [[feeling]] safe with anybody as a child; they had reported being abandoned, shuttled from place to place, and generally left to their own devices
 
-		I concluded that, if you carry a [[memory]] of having felt safe with somebody long ago, the traces of that earlier affection can be reactivated in attuned relationships when you are an adult, whether these occur in daily life or in good [[therapy]]. However, if you lack a deep [[memory]] of [[feeling]] loved and safe, the receptors in the [[brain]] that respond to [[human]] kindness may simply fail to develop.
+		I concluded that, if you carry a [[memory]] of having felt safe with somebody long ago, the traces of that earlier affection can be reactivated in attuned relationships when you are an [[adult]], whether these occur in daily life or in good [[therapy]]. However, if you lack a deep [[memory]] of [[feeling]] loved and safe, the receptors in the [[brain]] that respond to [[human]] kindness may simply fail to develop.
 		
 		This notion found further support in the work of the neuroscientist Jaak Panksepp, who found that young rats that were not licked by their moms during the first week of their lives did not develop opioid receptors in the anterior [[cingulate cortex]], a part of the [[brain]] associated with affiliation and a sense of safety.^[See E. E. Nelson and J. Panksepp, “[[Brain]] Substrates of [[Infant]] Mother Attachment: Contributions of Opioids, [[Oxytocin]], and [[Norepinephrine]],” [[Neuroscience]] & Biobehavioral Reviews 22, no. 3 (1998): 437–52. See also J. Panksepp, et al., “Endogenous Opioids and Social Behavior,” [[Neuroscience]] & Biobehavioral Reviews 4, no. 4 (1981): 473–87; and J. Panksepp, E. Nelson, and S. Siviy, “[[Brain]] Opioids and Mother-[[Infant]] Social [[Motivation]],” Acta paediatrica 83, no. 397 (1994): 40–46.]
 2. . psychological trauma (chameleon analogy)^[Alok Kanojia, Wednesday 23/06/2021]
@@ -41,7 +41,7 @@
 
 ### [[eye movement desensitization and reprocessing]]
 1. EMDR → adults with histories of childhood trauma ↮ adults with trauma during adulthood^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 297]
-	1. at the end of eight weeks, almost half of the adult-onset group that received EMDR scored as completely cured, while only 9 percent of the child-abuse group showed such pronounced improvement
+	1. at the end of eight weeks, almost half of the [[adult]]-onset group that received EMDR scored as completely cured, while only 9 percent of the child-abuse group showed such pronounced improvement
 
 ## [[developmental psychopathology]]
 1. psychological trauma is mostly nature **and** nurture (still inconclusive)^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 186]

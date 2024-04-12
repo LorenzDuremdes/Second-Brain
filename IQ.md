@@ -9,7 +9,7 @@
 	
 	dynamic testing is a method that enables measuring and unfolding of the learning potential within a short time frame^[https://www.universiteitleiden.nl/en/research/research-projects/social-and-behavioural-sciences/intelligence-dynamic-testing-and-potential-for-learning]
 
-## Wechsler Adult [[Intelligence]] Scale
+## Wechsler [[Adult]] [[Intelligence]] Scale
 1. why did David Wechsler add both verbal and nonverbal components of an IQ test?^[Universal [[Intelligence]]: A [[Definition]] of Machine [[Intelligence]], p. 6]
 	1. David Wechsler believed that the original Binet tests were too focused on verbal skills and thus disadvantaged certain otherwise intelligent individuals, for example the deaf or people who did not speak the test [[language]] as a first [[language]].
 

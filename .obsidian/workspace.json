@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "5990f741598b76d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "adult.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "77d650f224c125d3",
             "type": "leaf",
             "state": {
@@ -83,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gaba",
+                "query": "adult",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +112,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,8 +194,11 @@
   },
   "active": "b388f99752fb6c4b",
   "lastOpenFiles": [
-    "gut microbiota.md",
+    "adult.md",
+    "depression.md",
+    "screen time.md",
     "home advantage (team sports).md",
+    "gut microbiota.md",
     "histamine.md",
     "γ-aminobutyric acid.md",
     "acetylcholine.md",
@@ -206,10 +222,7 @@
     "non-24-hour sleep-wake disorder.md",
     "free-running sleep.md",
     "chronotype.md",
-    "circadian advantage.md",
-    "intelligence.md",
     "universal intelligence.png",
-    "cycling biomechanics.md",
     "zxre4tmwcorc1.jpg",
     "Blaine Lints.jpg",
     "Reynolds number - 296px-Reynolds_behaviors.png",

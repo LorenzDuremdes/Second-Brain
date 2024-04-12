@@ -5,7 +5,7 @@
 # [[glycogen]]
 1. how much [[glycogen]] does skeletal muscle contain?
 	1. 1–2% of muscle mass 
-		1. the skeletal muscle of an adult weighing 70 kg stores roughly 400 grams of [[glycogen]].^[https://en.wikipedia.org/wiki/Glycogen#cite_note-Glucose-Glycogen_storage_review-4]
+		1. the skeletal muscle of an [[adult]] weighing 70 kg stores roughly 400 grams of [[glycogen]].^[https://en.wikipedia.org/wiki/Glycogen#cite_note-Glucose-Glycogen_storage_review-4]
 2. muscle [[glycogen]] → aerobic performance
 	1. the more muscle [[glycogen]], the higher the possible sustained aerobic performance^[Cutting-Edge Cycling, p. 98]
 3. muscle cells + glucose-6-phosphatase

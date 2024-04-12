@@ -25,7 +25,7 @@
 	2. The ovarian cycle consists of alternating follicular and luteal phases, and the uterine cycle consists of menstruation, the proliferative phase, and the secretory phase.^[https://en.wikipedia.org/wiki/Menstrual_cycle#cite_note-FOOTNOTETortora2017944-2]^[https://en.wikipedia.org/wiki/Menstrual_cycle#Cycles_and_phases]
 4. menstrual cycle (**young** [[women]])
 	1. 21–45 days^[https://en.wikipedia.org/wiki/Menstruation#cite_note-Women2014Men-2]^[https://en.wikipedia.org/wiki/Menstruation#cite_note-Diaz2006-3]
-5. menstrual cycle (**adult** [[women]])
+5. menstrual cycle (**[[adult]]** [[women]])
 	1. 21–31 days with the average being 28 days^[https://en.wikipedia.org/wiki/Menstruation#cite_note-Women2014Men-2]^[https://en.wikipedia.org/wiki/Menstruation#cite_note-Diaz2006-3]
 
 ## things influencing menstrual cycle

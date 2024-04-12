@@ -4,7 +4,8 @@
 
 # [[psychology]]
 ## intrapersonal
-1. depressive symptoms → first-person singular pronouns^[https://onlinelibrary.wiley.com/doi/abs/10.1111/spc3.12647?campaign=wolearlyview]
+1. [[adult|adults]] who spend six hours or greater using [[screen time]] are more likely to suffer from moderate to severe depression.^[https://en.wikipedia.org/wiki/Screen_time#cite_note-:9-36]
+2. depressive symptoms → first-person singular pronouns^[https://onlinelibrary.wiley.com/doi/abs/10.1111/spc3.12647?campaign=wolearlyview]
 	1. someone using more "I-talk" might also be more likely to exhibit depressive symptoms
 		1. and negative emotionality, more broadly
 
