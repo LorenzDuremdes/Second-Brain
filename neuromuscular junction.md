@@ -3,7 +3,7 @@
 	1. Presynaptic terminal
 	2. Sarcolemma
 	3. Synaptic vesicle
-	4. Nicotinic acetylcholine receptor
+	4. Nicotinic [[acetylcholine]] receptor
 	5. Mitochondrion
 
 		<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Synapse_diag4.png" width="300" />
