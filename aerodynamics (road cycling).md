@@ -20,7 +20,7 @@
 	3. [Aero Jersey | Rule 28](https://www.rule28.com/products/aero-jersey) €56.95 + Aero Arm Sleeves (Aero Cycling Gear)
 		1. [Aero Arm Sleeves – Aero Cycling Gear](https://www.aerocyclinggear.nl/products/aero-arm-sleeves) €28.95 | [0.65 W](https://www.rule28.com/blogs/product-research-and-development/aero-sleeve-testing)
 			1. [Aero Sleeves | Rule 28](https://www.rule28.com/products/aero-sleeves) €41.95
-	4. **cheaper alternative**: [PRO AERO SPEEDSUIT Double Number and Double Gel (Velotec)](https://www.velotec.cc/products/long-sleeve-aero-speedsuit?variant=47050627481946) €130 with Aero Leg Warmers / NON UCI AERO OVERSHOES (Rule 28)
+	4. **cheaper alternative**: [PRO AERO SPEEDSUIT Double Number and Double Gel (Velotec)](https://www.velotec.cc/products/long-sleeve-aero-speedsuit?variant=47050627481946) €130 with Aero Leg Warmers / NON UCI AERO OVERSHOES (Rule 28) | **Short Sleeve** version might be better as arm sleeves don't lower CdA by a lot i.e. cooling might give more performance
 		1. [Non UCI Aero Overshoes - Rule 28](https://www.rule28.com/products/non-uci-aero-overshoes?variant=39433246441547) €47.95 (in combination with Aero Leg Warmers (Rule 28))
 		1. [Aero Leg Warmers | Rule 28](https://www.rule28.com/products/aero-leg-warmers?variant=44290112454944) €53.95 | [12 W](https://www.cyclingnews.com/news/taco-van-der-hoorns-aero-leg-warmers-present-loophole-to-ucis-sock-height-rule/)
 			1. Dylan Johnson also wears them
