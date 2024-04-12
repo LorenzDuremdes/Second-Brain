@@ -11,6 +11,11 @@
 	   2. Watts and CdA aside for a second, Ganna suggested in today’s press conference that he may ride with a 66 x 14 gearing and he would target a cadence of 96rpm^[[Hour Record: How to watch and how far Ganna will go - Velo (outsideonline.com)](https://velo.outsideonline.com/road/road-racing/hour-record-how-to-watch-and-how-far-ganna-will-go/)]
 2. ~96 RPM^[https://www.cyclingnews.com/news/euro75k-per-hour-filippo-gannas-full-gear-and-kit-list-for-his-hour-record-attempt/]
 
+# Daniel Bigham
+1. Daniel Bigham > tyre width (hour record) = 23 mm front and 25 mm rear^[[The Hour record and aerodynamics with Dan Bigham | EP#368 (scientifictriathlon.com)](https://scientifictriathlon.com/tts368/)]
+	- A narrow tire is more aerodynamic, but measuring tire width varies depending on the tire type and the rim width.
+	- On the whole, having a narrower tire at the front will outperform a wider tire because of aerodynamics and despite the increase in rolling resistance.
+
 # [[cycling biomechanics]]
 1. a smaller Q-factor to improve CdA^[https://youtu.be/LzJUDSy3DDI?t=650]
 	1. the 8.5 mm Q-factor reduction equates to a “rider-dependent saving of 0.0009 to 0.0017 m2,” or, in more relatable terms, a 1.5-3 W saving at 50 km/h and a 3-5 W saving at 60 km/h (“assuming a standard air density of 1.225 kg/m3“)^[https://escapecollective.com/mid-90s-aero-is-still-fast-today-the-five-watt-aero-gain-in-narrower-q-factors/]
