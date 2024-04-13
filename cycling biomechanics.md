@@ -1,5 +1,8 @@
 1. cycling biomechanics; this interdisciplinary field draws from principles of mechanical [[physics]], [[engineering]], and [[human]] [[physiology]] to understand how athletes interact with their bicycles and how this interaction can be optimized for improved performance, efficiency, and injury prevention^[[Cycling Biomechanics - Physiopedia (physio-pedia.com)](https://www.physio-pedia.com/Cycling_Biomechanics), GPT-4]
 
+# [[physiology]]
+1. cyclists appear to become more efficient over the span of their careers with little change in V̇O2max (112)^[https://thesportjournal.org/article/can-there-be-two-speeds-in-a-clean-peloton-performance-strategies-in-modern-road-cycling/]
+
 # apparel
 1. which color absorbs the most heat + why?
 	1. Near infrared light -- just out of range to the [[human]] eye -- makes up a significant portion of the radiant [[energy]] that reaches Earth's surface. And examining that light, the researchers found that not black but **dark green** absorbed the most infrared, at 87%. Black absorbed 86% of the infrared that struck it, while white proved the least absorptive, at 63%.

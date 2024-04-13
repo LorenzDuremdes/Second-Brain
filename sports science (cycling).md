@@ -1,0 +1,5 @@
+# [[physiology]]
+1. heat training → hemoglobin mass
+	1. A more recent strategy to legally induce hematological adaptations is heat acclimation. Prolonged exposure to heat is associated with both increased [[blood plasma|plasma volume]], which can improve stroke volume and consequently Q̇ and V̇O2max, as well as an expansion of total hemoglobin mass (Hbmass) (91). In fact, light exercise in a heated environment five times per week has been shown to increase Hbmass by 3% – 11% in endurance athletes (90, 103, 107).
+	   
+	   Due to the logistical challenges and cost related to with altitude camp designs such as live high-train low, heat acclimation training may offer a more accessible strategy for riders and teams with less resources, or an additional stimulus to regular stays at altitude.^[[Can there be two speeds in a clean peloton? Performance strategies in modern road cycling – The Sport Journal](https://thesportjournal.org/article/can-there-be-two-speeds-in-a-clean-peloton-performance-strategies-in-modern-road-cycling/)]
