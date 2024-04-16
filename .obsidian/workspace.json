@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exogenous ketone.md",
+                "file": "doping.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "exogenous ketone.md",
+                "file": "doping.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ketone",
+                "query": "doping",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exogenous ketone.md",
+                "file": "doping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exogenous ketone.md",
+                "file": "doping.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exogenous ketone.md"
+                "file": "doping.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "29345cfc6c1a2382",
   "lastOpenFiles": [
+    "exogenous ketone.md",
     "sports supplement.md",
     "creatine.md",
     "sports science (cycling).md",
@@ -210,7 +211,6 @@
     "Arabidopsis thaliana.md",
     "invisible disability.md",
     "crepuscular animal.md",
-    "vespertine (biology).md",
     "universal intelligence.png",
     "zxre4tmwcorc1.jpg",
     "Blaine Lints.jpg",

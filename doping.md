@@ -1,0 +1,1 @@
+1. [Drug Test (outsideonline.com)](https://www.outsideonline.com/health/training-performance/drug-test/) | After the EPO kicked in, I rode a 200-miler and I felt strong, fresh, ready to hammer. The next day I easily could have ridden another 200.
