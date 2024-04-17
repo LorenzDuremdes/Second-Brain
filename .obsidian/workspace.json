@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e5368e13b3d5f229",
+            "id": "06056a1e009a19ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer vision syndrome.md",
+                "file": "ciliary muscle.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "computer vision syndrome.md",
+                "file": "ciliary muscle.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer vision syndrome.md",
+                "file": "ciliary muscle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer vision syndrome.md",
+                "file": "ciliary muscle.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer vision syndrome.md"
+                "file": "ciliary muscle.md"
               }
             }
           },
@@ -180,10 +180,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e5368e13b3d5f229",
+  "active": "06056a1e009a19ae",
   "lastOpenFiles": [
-    "metascience.md",
     "computer vision syndrome.md",
+    "ciliary muscle.md",
+    "metascience.md",
     "publication bias.md",
     "autism.md",
     "screen time.md",
@@ -208,7 +209,6 @@
     "circadian rhythm.md",
     "Sound Transmission Class.md",
     "STCs by audio distinguishability.png",
-    "cycling power meter.md",
     "Intervals.icu microcycle week 14 2024.png",
     "universal intelligence.png",
     "zxre4tmwcorc1.jpg",
