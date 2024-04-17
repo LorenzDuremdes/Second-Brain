@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "29345cfc6c1a2382",
+            "id": "e5368e13b3d5f229",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "autism.md",
+                "file": "computer vision syndrome.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "autism.md",
+                "file": "computer vision syndrome.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "autism",
+                "query": "bias",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "autism.md",
+                "file": "computer vision syndrome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "autism.md",
+                "file": "computer vision syndrome.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "autism.md"
+                "file": "computer vision syndrome.md"
               }
             }
           },
@@ -181,8 +180,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "29345cfc6c1a2382",
+  "active": "e5368e13b3d5f229",
   "lastOpenFiles": [
+    "metascience.md",
+    "computer vision syndrome.md",
+    "publication bias.md",
+    "autism.md",
     "screen time.md",
     "depression.md",
     "doping.md",
@@ -206,11 +209,7 @@
     "Sound Transmission Class.md",
     "STCs by audio distinguishability.png",
     "cycling power meter.md",
-    "ergometer.md",
     "Intervals.icu microcycle week 14 2024.png",
-    "Monarch (VeloVetta).md",
-    "Arabidopsis thaliana.md",
-    "invisible disability.md",
     "universal intelligence.png",
     "zxre4tmwcorc1.jpg",
     "Blaine Lints.jpg",
