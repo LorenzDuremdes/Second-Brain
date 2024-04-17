@@ -6,6 +6,11 @@
 1. what could cause people with autism take things more personally?
 	1. ◇less [[theory of mind]]^[https://en.wikipedia.org/wiki/Theory_of_mind#Autism]
 
+## intrapersonal
+1. do people with autism spend more time with screens / game more?
+	1. people with ASD spend more time playing video games than typically developing (TD) people do (Engelhardt et al., 2013), and they are more likely to become obsessive with play video games than TD people are (Mazurek & Engelhardt, 2013a)^[[A systematic review of problematic video-game use in people with Autism Spectrum Disorders - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1750946721000015)]
+	2. In May 2019, the Journal of Developmental and Behavioral Pediatrics published a systematic review of 16 studies that found that children and adolescents with ASD are exposed to more [[screen time]] than typically developing peers and that the exposure starts at a younger age. In April 2021, Research in Autism Spectrum Disorders published a systematic review of 12 studies of video game addiction in ASD subjects that found that children, adolescents, and adults with ASD are at greater risk of video game addiction than those without ASD, and that the data from the studies suggested that internal and external factors ([[sex]], attention and oppositional behavior problems, social aspects, access and time spent playing video games, parental rules, and game genre) were significant predictors of video game addiction in ASD subjects.^[https://en.wikipedia.org/wiki/Digital_media_use_and_mental_health#Autism]
+
 # [[psychiatry]]
 ## [[biomarker]]
 1. as in the case of [[gene]] deregulation, alterations of [[melatonin]]/[[serotonin]] pathways could be promising [[biomarker|biomarkers]] for ASD^[https://annals-general-psychiatry.biomedcentral.com/articles/10.1186/s12991-022-00390-6#ref-CR6]

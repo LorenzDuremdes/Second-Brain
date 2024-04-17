@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "doping.md",
+                "file": "autism.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "doping.md",
+                "file": "autism.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "doping",
+                "query": "autism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "doping.md",
+                "file": "autism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "doping.md",
+                "file": "autism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "doping.md"
+                "file": "autism.md"
               }
             }
           },
@@ -183,6 +183,9 @@
   },
   "active": "29345cfc6c1a2382",
   "lastOpenFiles": [
+    "screen time.md",
+    "depression.md",
+    "doping.md",
     "exogenous ketone.md",
     "sports supplement.md",
     "creatine.md",
@@ -195,8 +198,6 @@
     "aerodynamics (road cycling).md",
     "home advantage (team sports).md",
     "adult.md",
-    "depression.md",
-    "screen time.md",
     "gut microbiota.md",
     "histamine.md",
     "γ-aminobutyric acid.md",
@@ -210,7 +211,6 @@
     "Monarch (VeloVetta).md",
     "Arabidopsis thaliana.md",
     "invisible disability.md",
-    "crepuscular animal.md",
     "universal intelligence.png",
     "zxre4tmwcorc1.jpg",
     "Blaine Lints.jpg",

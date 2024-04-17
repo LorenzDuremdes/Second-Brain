@@ -1,0 +1,2 @@
+1. TV watching → children ([[neurophysiology]])
+	1. children who watched more TV were found to have less [[brain]] connectivity between [[language]], visual and cognitive control regions of the [[brain]] than their peers who watched less TV
