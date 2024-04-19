@@ -6,6 +6,8 @@
 2. FTP vs. [[anaerobic capacity]] → road racing + example
 	1. for the most part, road race results are greatly dependent on what happens above the [[anaerobic capacity]] e.g. sprinting
 	2. Creating or responding to a breakaway in a road race usually means riding at or near aerobic capacity for a few minutes. Race-winning sprints that last only a few seconds are done at about [[anaerobic capacity]], which is well above aerobic capacity. But there are times when the [[anaerobic capacity]] also plays a determining role in the outcome of a road race. For example, a long, steady, high-intensity climb is often done at or near FTP, much as in a [[time trial]]. And once a break is formed, it typically proceeds at around FTP. So having a high FTP is certainly also beneficial for road racing. But for the most part, road race results are greatly dependent on what happens above the [[anaerobic capacity]].
+3. higher fitness → [[circulatory system|blood flow]] (sub-maximal exercise) + why
+	1. Still in the muscles, as training progresses, the number of [[capillary]] [[blood]] vessels increases, and the size of the smaller veins and arteries increases. The various adaptations in the muscle and the increase in efficiency mean that, as you get fitter, for any given sub-maximal level of exercise the amount of [[blood]] flow required actually goes down because you can produce more power for less [[oxygen]].^[Faster - The Obsession, Science and Luck Behind the World's Fastest Cyclists (by Michael Hutchinson), p. 79]
 
 ## technique
 1. "weakness" vs. "[[limiting factor]]"
