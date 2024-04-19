@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
+            "id": "ec5ef3698dbc05d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reactive hypoglycemia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "77d650f224c125d3",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "tapering (sports).md",
+                "file": "reactive hypoglycemia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -41,21 +53,8 @@
                 }
               }
             }
-          },
-          {
-            "id": "21cdeccf28b9de1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tapering (sports).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tapering",
+                "query": "reactive hypoglycemia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tapering (sports).md",
+                "file": "reactive hypoglycemia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tapering (sports).md",
+                "file": "reactive hypoglycemia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tapering (sports).md"
+                "file": "reactive hypoglycemia.md"
               }
             }
           },
@@ -181,9 +180,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "21cdeccf28b9de1b",
+  "active": "ec5ef3698dbc05d9",
   "lastOpenFiles": [
-    "tapering (sports).md",
+    "hypoglycemia.md",
+    "reactive hypoglycemia.md",
+    "Frontiers.md",
+    "FIGURE 2. Blood glucose levels and symptoms of functional hypoglycemia.png",
+    "TrainerRoad - Pre-Workout Nutrition Data-Driven Ways to Plan Meal Timing (Ask a Cycling Coach 327).webp",
     "tapering (sports).md",
     "road cycling.md",
     "cycling economy.md",
@@ -210,14 +213,10 @@
     "hour record.md",
     "aerodynamics (road cycling).md",
     "home advantage (team sports).md",
-    "adult.md",
-    "gut microbiota.md",
     "STCs by audio distinguishability.png",
     "Intervals.icu microcycle week 14 2024.png",
     "universal intelligence.png",
     "zxre4tmwcorc1.jpg",
-    "Blaine Lints.jpg",
-    "Reynolds number - 296px-Reynolds_behaviors.png",
-    "pharmacokinetic data (phenylpiracetam), Wikipedia.png"
+    "Blaine Lints.jpg"
   ]
 }
