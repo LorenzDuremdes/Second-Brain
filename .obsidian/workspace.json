@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "06056a1e009a19ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "road cycling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "77d650f224c125d3",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "road cycling.md",
+                "file": "tapering (sports).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -53,8 +41,21 @@
                 }
               }
             }
+          },
+          {
+            "id": "21cdeccf28b9de1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tapering (sports).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blood flow",
+                "query": "tapering",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "road cycling.md",
+                "file": "tapering (sports).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "road cycling.md",
+                "file": "tapering (sports).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "road cycling.md"
+                "file": "tapering (sports).md"
               }
             }
           },
@@ -181,8 +181,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8412e88b9e28c8ed",
+  "active": "21cdeccf28b9de1b",
   "lastOpenFiles": [
+    "tapering (sports).md",
+    "tapering (sports).md",
+    "road cycling.md",
     "cycling economy.md",
     "cycling biomechanics.md",
     "time trial bike.md",
@@ -203,15 +206,12 @@
     "sports supplement.md",
     "creatine.md",
     "sports science (cycling).md",
-    "road cycling.md",
     "sports science.md",
     "hour record.md",
     "aerodynamics (road cycling).md",
     "home advantage (team sports).md",
     "adult.md",
     "gut microbiota.md",
-    "histamine.md",
-    "γ-aminobutyric acid.md",
     "STCs by audio distinguishability.png",
     "Intervals.icu microcycle week 14 2024.png",
     "universal intelligence.png",
