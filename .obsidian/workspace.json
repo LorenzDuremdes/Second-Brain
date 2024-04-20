@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec5ef3698dbc05d9",
+            "id": "cc58a2e4ae012ce0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reactive hypoglycemia.md",
+                "file": "watts per CdA.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "reactive hypoglycemia.md",
+                "file": "watts per CdA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reactive hypoglycemia",
+                "query": "watts per cda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "reactive hypoglycemia.md",
+                "file": "watts per CdA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "reactive hypoglycemia.md",
+                "file": "watts per CdA.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "reactive hypoglycemia.md"
+                "file": "watts per CdA.md"
               }
             }
           },
@@ -180,10 +180,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ec5ef3698dbc05d9",
+  "active": "cc58a2e4ae012ce0",
   "lastOpenFiles": [
-    "hypoglycemia.md",
     "reactive hypoglycemia.md",
+    "watts per CdA.md",
+    "hypoglycemia.md",
     "Frontiers.md",
     "FIGURE 2. Blood glucose levels and symptoms of functional hypoglycemia.png",
     "TrainerRoad - Pre-Workout Nutrition Data-Driven Ways to Plan Meal Timing (Ask a Cycling Coach 327).webp",
@@ -212,7 +213,6 @@
     "sports science.md",
     "hour record.md",
     "aerodynamics (road cycling).md",
-    "home advantage (team sports).md",
     "STCs by audio distinguishability.png",
     "Intervals.icu microcycle week 14 2024.png",
     "universal intelligence.png",

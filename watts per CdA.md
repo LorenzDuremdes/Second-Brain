@@ -1,0 +1,2 @@
+1. how can you make the differences of W/CdA more 'obvious' between individuals?
+	1. 'effective or relative [[functional threshold power|FTP]]' e.g. if you need 30 W less than someone else, that person needs your FTP +30 W
