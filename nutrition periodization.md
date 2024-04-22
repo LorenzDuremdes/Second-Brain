@@ -1,7 +1,8 @@
 1. nutrition periodization; the demands on our bodies vary, it follows that our nutrition to fuel our bodies should vary as well^[[Understanding Nutrition Periodization (trainingpeaks.com)](https://www.trainingpeaks.com/blog/understanding-nutrition-periodization/)]
 2. why do you like to consume more carbohydrates while riding even if it has no performance gains (e.g. short rides)?
 	1. On a single ride, eh. Not so much of an issue. However if you are training 13-15 hours a week, it goes beyond a “suggestion” to ingest 80+ an hour. You WILL deplete your stores and you WILL burn out quickly. I for one also dont want to eat a couple 1200cal meals after a ride either. YMMV but I avg. 14hrs a week and I work in construction 10hrs a day (electrician) so on a normal training day just to maintain weight I’m eating 4000+cals a day. I need some of that from the straight sugary goodness bottle or I’m slammin a meal thats a lot larger than i’d like to eat if I want to execute a training block effectively.^[https://www.trainerroad.com/forum/t/why-has-adding-a-lot-more-carbs-not-had-a-noticeable-impact/92694/37?u=lorenz_duremdes]
-		1. +1 on this. Fueling during a ride is as much (or more) about the next ride and post ride meals as it is about the current ride. If riding even moderately hard, there is no way to keep up with calorie burn while on the bike, you are just trying to come off the bike with a smaller deficit.
+		1. prevent [[reactive hypoglycemia]]
+		2. +1 on this. Fueling during a ride is as much (or more) about the next ride and post ride meals as it is about the current ride. If riding even moderately hard, there is no way to keep up with calorie burn while on the bike, you are just trying to come off the bike with a smaller deficit.
 3. how do you personally like to periodize your nutrition + why
 	1. eat more on overload days and less on maintenance/recovery days rather than trying to match things on the same day to perhaps improve adaptations
 
