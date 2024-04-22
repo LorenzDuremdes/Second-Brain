@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ultra-distance cycling.md",
+                "file": "nutrition periodization.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ultra-distance cycling.md",
+                "file": "nutrition periodization.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ultra",
+                "query": "periodization",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ultra-distance cycling.md",
+                "file": "nutrition periodization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ultra-distance cycling.md",
+                "file": "nutrition periodization.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ultra-distance cycling.md"
+                "file": "nutrition periodization.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "cc58a2e4ae012ce0",
   "lastOpenFiles": [
+    "ultra-distance cycling.md",
     "tapering (sports).md",
     "watts per CdA.md",
     "reactive hypoglycemia.md",
@@ -213,7 +214,6 @@
     "sports science (cycling).md",
     "sports science.md",
     "hour record.md",
-    "aerodynamics (road cycling).md",
     "STCs by audio distinguishability.png",
     "Intervals.icu microcycle week 14 2024.png",
     "universal intelligence.png",
