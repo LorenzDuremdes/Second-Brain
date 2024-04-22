@@ -1,0 +1,1 @@
+1. the UCI Gran Fondo World Series concept is focusing on both very competitive riders who either just miss the skills and talent to become a Pro Elite rider or who still want to compete at a high level at a later age, but also to fun riders who like to keep fit and finish the event^[https://ucigranfondoworldseries.com/en/]
