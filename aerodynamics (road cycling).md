@@ -41,11 +41,25 @@
    
    I believe it was testing from findingfreestyle? Trentnix? Desert dude ? That says parallel bars are actually faster IF all things are the same, eg head position etc etc…..i think the idea with high hands position is to allow that change though. To allow other portions of the body to become more aerodynamic.^[https://forum.slowtwitch.com/forum/Slowtwitch_Forums_C1/Triathlon_Forum_F1/Finish_this_sentence..._Praying_mantis_aerobar_position_is_better_if..._P7818324/?forum_view=forum_view_collapsed&]
 
-## images
+## images (TT)
 1. Remco Evenepoel^[[Head-down TT position: Dangers back in the spotlight, despite new UCI rules | GCN (globalcyclingnetwork.com)](https://www.globalcyclingnetwork.com/tech/news/head-down-tt-position-dangers-back-in-the-spotlight-despite-new-uci-rules)]
    ![image](https://cdn.sanity.io/images/hk2y3slq/production/da56101f5d36180b26ee859bd43d448f06ec73eb-4523x3015.jpg/GettyImages-1661633447.jpg?w=1348&auto=format)
 2. https://www.trainerroad.com/forum/t/a-time-trialing-thread/46868/2053?u=lorenz_duremdes
    ![image](https://global.discourse-cdn.com/trainerroad/original/3X/b/0/b036eb4a9d2f5b7fefbbc1d006f3eea8ea746a30.jpeg)
+
+## images ([[road bike]])
+1. Victor Campenaerts^[https://www.instagram.com/reel/Cs6aifLNdxx/?utm_source=ig_embed]^[[Are you aero? The wildly different positions of the top cyclists in the world - Velo (outsideonline.com)](https://velo.outsideonline.com/road/analyzing-aero-positions-best-cyclists-world/)]
+   ![[Screenshot 2024-04-17 092741.jpg]]
+   1. In fact, **Campenaerts bends his elbows more than 90°**, which is something rarely seen in cycling. Take a look at the picture above and you can see how Campenaerts puts an enormous amount of pressure on his wrists and shoulders in order to hold this aero position.
+      
+      Be warned, this kind of extreme aero position takes hundreds of hours to practice and perfect. Of all the [[bike fit]] terms on our list, Campenaerts pushes each of them to the extreme.
+      
+      His elbows are bent at more than 90°, his hip angle is as small as possible, his back and core is closed in as much as possible, and he tucks and turtles his head until it is almost sniffing his handlebars.
+2. [TOOT Ashaa RR Ultra-Aero Road Bars Beat UCI Turned-In Lever Rule in Steel, Ti, or Carbon - Bikerumor](https://bikerumor.com/toot-ashaa-rr-ultra-aero-road-bars-beat-uci-turned-in-lever-rule-in-steel-ti-or-carbon/)
+   ![[TOOT-Ashaa-RR-3D-printed-stainless-steel-ultra-narrow-aero-road-racing-handlebar_Lezica-up-close.jpg]]
+   ![[TRed-Peregrine-Falcon-prototype-track-bike_Ashaa-track-bar_side.jpg]]
+3. Julius Johansen (Team Intermarche-Circus-Wanty) was another, of many, who appeared to be resting his forearms on the tops of his handlebars for additional support. - Tim de Waele/Getty Images^[Extreme positions, road bikes, time trial wheels and big helmets at the Tour Down Under prologue | BikeRadar](https://www.bikeradar.com/features/pro-bike/tour-down-under-prologue-time-trial-tech)
+   ![[GettyImages-1457030419-c61f318.webp]]
 
 # TTT
 1. when two cyclists ride next to each other, they both must put in 8% extra power to overcome the increased air resistance^[https://www.inthefieldstories.net/the-science-behind-a-cycling-victory/]
