@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cc58a2e4ae012ce0",
+            "id": "7245036ce817be51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "sports periodization (road cycling).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "sports periodization (road cycling).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "road bike",
+                "query": "sports periodization",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "sports periodization (road cycling).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "sports periodization (road cycling).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aerodynamics (road cycling).md"
+                "file": "sports periodization (road cycling).md"
               }
             }
           },
@@ -162,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -180,8 +181,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "cc58a2e4ae012ce0",
+  "active": "7245036ce817be51",
   "lastOpenFiles": [
+    "sports periodization.md",
+    "block (sports periodization).md",
+    "aerodynamics (road cycling).md",
     "field experiment.md",
     "UCI Gran Fondo World Series.md",
     "TRed-Peregrine-Falcon-prototype-track-bike_Ashaa-track-bar_side.jpg",
@@ -214,9 +218,6 @@
     "depression.md",
     "doping.md",
     "exogenous ketone.md",
-    "sports supplement.md",
-    "creatine.md",
-    "sports science (cycling).md",
     "STCs by audio distinguishability.png"
   ]
 }
