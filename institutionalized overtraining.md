@@ -1,0 +1,1 @@
+1. institutionalized [[overtraining]]; refers to a phenomenon in athletic training programs where there is an institutional or systematic emphasis on recognizing and avoiding [[overtraining]] to such an extent that it may actually lead to adverse psychological effects among athletes^[[Overload and Overtraining (sdsu.edu), GPT-4](https://coachsci.sdsu.edu/csa/vol13/rushall7.htm)]
