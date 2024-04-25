@@ -1,0 +1,1 @@
+1. fencing response; immediately after moderate forces have been applied to the brainstem, the forearms are held flexed or extended (typically into the air) for a period lasting up to several seconds after the impact^[https://en.wikipedia.org/wiki/Fencing_response]

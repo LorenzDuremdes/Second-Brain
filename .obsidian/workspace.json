@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7245036ce817be51",
+            "id": "6ea6099439f44c1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sports periodization (road cycling).md",
+                "file": "fencing response.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sports periodization (road cycling).md",
+                "file": "fencing response.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sports periodization (road cycling).md",
+                "file": "fencing response.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sports periodization (road cycling).md",
+                "file": "fencing response.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sports periodization (road cycling).md"
+                "file": "fencing response.md"
               }
             }
           },
@@ -181,8 +180,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7245036ce817be51",
+  "active": "6ea6099439f44c1d",
   "lastOpenFiles": [
+    "sports periodization (road cycling).md",
+    "fencing response.md",
     "sports periodization.md",
     "block (sports periodization).md",
     "aerodynamics (road cycling).md",
@@ -216,8 +217,6 @@
     "autism.md",
     "screen time.md",
     "depression.md",
-    "doping.md",
-    "exogenous ketone.md",
     "STCs by audio distinguishability.png"
   ]
 }
