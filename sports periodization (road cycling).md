@@ -17,7 +17,9 @@
 		3. ◇good → despite Z1 [[feeling]] difficult due to fatigue, it still enhances recovery
 
 ## session
-1. better alternative to "distance/[[time]]" for measuring workload + why^[The [[Time]]-Crunched Cyclist: Race-Winning Fitness in 6 Hours a Week, 3rd Edition, p. 13]
+1. why are you not fond of doing Z6 and Z2/3/4 in the same session/day/[[microcycle]] etc?
+	1. the adaptations are different at Z6 and above (**see**: adaptations chart per zone) and you only have a limited quantity to allocate (which adaptations also depend on e.g. [[task failure]] %)
+2. better alternative to "distance/[[time]]" for measuring workload + why^[The [[Time]]-Crunched Cyclist: Race-Winning Fitness in 6 Hours a Week, 3rd Edition, p. 13]
 	1. work (calories burned · efficiency), because it much more closely reflects work/[[stress]] e.g. a hilly terrain requires more work despite same distance/[[time]]
 		1. efficiency ≈ 20–25% of calories burned
 
