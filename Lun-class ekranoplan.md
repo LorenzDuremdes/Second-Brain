@@ -1,0 +1,1 @@
+1. Beached Ekranoplan^[By Alexey Komarov - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=110618594] ![image](https://upload.wikimedia.org/wikipedia/commons/e/ed/Lun-class_ekranoplan_2021-09-24-3.jpg)
