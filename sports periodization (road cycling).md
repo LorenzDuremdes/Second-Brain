@@ -12,6 +12,9 @@
 	1. stop it as early as predictable/possible > rest/recover next day > try to continue again the day after > re-adjust workout/programming if still unable to complete
 		1. last phase could also be due to e.g. injury/illness rather than just incorrect programming
 		2. incorrect programming → e.g. too high ATL
+		3. possible algorithm: additive increase / partial multiplicative decrease? e.g. 10 > 20 > 40 > 20 > 30 > 40 > 30 > 35 (in this case, 35 might be sustainable > progress CTL further)
+		   
+		   or: 10 > 20 > 40 > 20 > 30 > 40 > 30 > 25 (in this case 30 was also too high (for now))
 # [[microcycle]]
 1. when could "drop sets" not be as beneficial? ([[road cycling]])
 	1. when the [[goal]] is something associated with metabolic waste e.g. [[lactate]]
