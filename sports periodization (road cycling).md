@@ -11,6 +11,7 @@
 2. what should you perhaps do if unable to finish a workout session?
 	1. stop it as early as predictable/possible > rest/recover next day > try to continue again the day after > re-adjust workout/programming if still unable to complete
 		1. last phase could also be due to e.g. injury/illness rather than just incorrect programming
+		2. incorrect programming → e.g. too high ATL
 # [[microcycle]]
 1. when could "drop sets" not be as beneficial? ([[road cycling]])
 	1. when the [[goal]] is something associated with metabolic waste e.g. [[lactate]]
