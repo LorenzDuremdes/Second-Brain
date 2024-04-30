@@ -8,3 +8,4 @@
 
 # related
 1. [[stamina (endurance)]] / [[fractional utilization]]
+2. [[chronic training load]]
