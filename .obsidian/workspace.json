@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5246ea0a3b4a277f",
+            "id": "a7a4ba5887939b59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "entrainment (chronobiology).md",
+                "file": "seasonal affective disorder.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "entrainment (chronobiology).md",
+                "file": "seasonal affective disorder.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "entrainment",
+                "query": "light",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "entrainment (chronobiology).md",
+                "file": "seasonal affective disorder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "entrainment (chronobiology).md",
+                "file": "seasonal affective disorder.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "entrainment (chronobiology).md"
+                "file": "seasonal affective disorder.md"
               }
             }
           },
@@ -181,8 +180,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5246ea0a3b4a277f",
+  "active": "a7a4ba5887939b59",
   "lastOpenFiles": [
+    "entrainment (chronobiology).md",
+    "seasonal affective disorder.md",
     "intrinsically photosensitive retinal ganglion cell.md",
     "melanopsin.md",
     "sports periodization (road cycling).md",
@@ -213,11 +214,9 @@
     "road cycling.md",
     "cycling economy.md",
     "cycling biomechanics.md",
-    "time trial bike.md",
     "da56101f5d36180b26ee859bd43d448f06ec73eb-4523x3015.jpg",
     "b036eb4a9d2f5b7fefbbc1d006f3eea8ea746a30.jpeg",
     "Screenshot 2024-04-19 124006.png",
-    "time trial.md",
     "STCs by audio distinguishability.png"
   ]
 }
