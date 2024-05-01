@@ -1,0 +1,1 @@
+1. ipRGC firing patterns may respond to light conditions as low as 1 lux whereas previous research indicated 2500 lux was required to suppress [[melatonin]] production.^[https://en.wikipedia.org/wiki/Light_effects_on_circadian_rhythm#cite_note-Lucas_2014-11]
