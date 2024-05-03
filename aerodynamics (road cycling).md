@@ -49,17 +49,17 @@
 
 ## images ([[road bike]])
 1. Victor Campenaerts^[https://www.instagram.com/reel/Cs6aifLNdxx/?utm_source=ig_embed]^[[Are you aero? The wildly different positions of the top cyclists in the world - Velo (outsideonline.com)](https://velo.outsideonline.com/road/analyzing-aero-positions-best-cyclists-world/)]
-   ![[Screenshot 2024-04-17 092741.jpg]]
+   ![[Aero position Victor Campenaerts.jpg]]
    1. In fact, **Campenaerts bends his elbows more than 90°**, which is something rarely seen in cycling. Take a look at the picture above and you can see how Campenaerts puts an enormous amount of pressure on his wrists and shoulders in order to hold this aero position.
       
       Be warned, this kind of extreme aero position takes hundreds of hours to practice and perfect. Of all the [[bike fit]] terms on our list, Campenaerts pushes each of them to the extreme.
       
       His elbows are bent at more than 90°, his hip angle is as small as possible, his back and core is closed in as much as possible, and he tucks and turtles his head until it is almost sniffing his handlebars.
 2. [TOOT Ashaa RR Ultra-Aero Road Bars Beat UCI Turned-In Lever Rule in Steel, Ti, or Carbon - Bikerumor](https://bikerumor.com/toot-ashaa-rr-ultra-aero-road-bars-beat-uci-turned-in-lever-rule-in-steel-ti-or-carbon/)
-   ![[TOOT-Ashaa-RR-3D-printed-stainless-steel-ultra-narrow-aero-road-racing-handlebar_Lezica-up-close.jpg]]
+   ![[TOOT Ashaa RR 3D printe stainless steel ultra narrow aero road racing handlebar, Lezica-up-close.jpg]]
    ![[TRed-Peregrine-Falcon-prototype-track-bike_Ashaa-track-bar_side.jpg]]
 3. Julius Johansen (Team Intermarche-Circus-Wanty) was another, of many, who appeared to be resting his forearms on the tops of his handlebars for additional support. - Tim de Waele/Getty Images^[Extreme positions, road bikes, time trial wheels and big helmets at the Tour Down Under prologue | BikeRadar](https://www.bikeradar.com/features/pro-bike/tour-down-under-prologue-time-trial-tech)
-   ![[GettyImages-1457030419-c61f318.webp]]
+   ![[Aero position TT bike.webp]]
 
 # TTT
 1. when two cyclists ride next to each other, they both must put in 8% extra power to overcome the increased air resistance^[https://www.inthefieldstories.net/the-science-behind-a-cycling-victory/]

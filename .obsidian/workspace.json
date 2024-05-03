@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "seasonal affective disorder.md",
+                "file": "aerodynamics (road cycling).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "seasonal affective disorder.md",
+                "file": "aerodynamics (road cycling).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "light",
+                "query": "aerodynamic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "seasonal affective disorder.md",
+                "file": "aerodynamics (road cycling).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "seasonal affective disorder.md",
+                "file": "aerodynamics (road cycling).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "seasonal affective disorder.md"
+                "file": "aerodynamics (road cycling).md"
               }
             }
           },
@@ -182,8 +183,14 @@
   },
   "active": "a7a4ba5887939b59",
   "lastOpenFiles": [
-    "entrainment (chronobiology).md",
+    "TOOT Ashaa RR 3D printe stainless steel ultra narrow aero road racing handlebar, Lezica-up-close.jpg",
+    "Aero position TT bike.webp",
+    "Aero position Victor Campenaerts.jpg",
+    "TT position Remco Evenepoel.jpg",
+    "TT position.jpeg",
+    "VeloVetta TT position.png",
     "seasonal affective disorder.md",
+    "entrainment (chronobiology).md",
     "intrinsically photosensitive retinal ganglion cell.md",
     "melanopsin.md",
     "sports periodization (road cycling).md",
@@ -200,9 +207,6 @@
     "field experiment.md",
     "UCI Gran Fondo World Series.md",
     "TRed-Peregrine-Falcon-prototype-track-bike_Ashaa-track-bar_side.jpg",
-    "TOOT-Ashaa-RR-3D-printed-stainless-steel-ultra-narrow-aero-road-racing-handlebar_Lezica-up-close.jpg",
-    "GettyImages-1457030419-c61f318.webp",
-    "Screenshot 2024-04-17 092741.jpg",
     "ultra-distance cycling.md",
     "tapering (sports).md",
     "watts per CdA.md",
@@ -213,10 +217,6 @@
     "TrainerRoad - Pre-Workout Nutrition Data-Driven Ways to Plan Meal Timing (Ask a Cycling Coach 327).webp",
     "road cycling.md",
     "cycling economy.md",
-    "cycling biomechanics.md",
-    "da56101f5d36180b26ee859bd43d448f06ec73eb-4523x3015.jpg",
-    "b036eb4a9d2f5b7fefbbc1d006f3eea8ea746a30.jpeg",
-    "Screenshot 2024-04-19 124006.png",
     "STCs by audio distinguishability.png"
   ]
 }
