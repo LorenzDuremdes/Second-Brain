@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "block training.md",
+                "file": "cycling economy.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "block training.md",
+                "file": "cycling economy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "block",
+                "query": "cycling economy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "block training.md",
+                "file": "cycling economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "block training.md",
+                "file": "cycling economy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "block training.md"
+                "file": "cycling economy.md"
               }
             }
           },
@@ -183,8 +182,10 @@
   },
   "active": "a7a4ba5887939b59",
   "lastOpenFiles": [
-    "block (sports periodization).md",
+    "Figure 10.5 Phases of muscular activity throughout the crank cycle.webp",
+    "monocarboxylate transport 4.md",
     "block training.md",
+    "block (sports periodization).md",
     "phenylpiracetam.md",
     "aerodynamics (road cycling).md",
     "TOOT Ashaa RR 3D printe stainless steel ultra narrow aero road racing handlebar, Lezica-up-close.jpg",
@@ -214,10 +215,8 @@
     "watts per CdA.md",
     "reactive hypoglycemia.md",
     "hypoglycemia.md",
-    "Frontiers.md",
     "FIGURE 2. Blood glucose levels and symptoms of functional hypoglycemia.png",
     "TrainerRoad - Pre-Workout Nutrition Data-Driven Ways to Plan Meal Timing (Ask a Cycling Coach 327).webp",
-    "road cycling.md",
     "STCs by audio distinguishability.png"
   ]
 }
