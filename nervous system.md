@@ -1,4 +1,4 @@
-1. nervous system; a highly complex part of an animal that coordinates its actions and sensory [[information]] by transmitting signals to and from different parts of its body
+1. nervous system; a highly complex part of an [[animal]] that coordinates its actions and sensory [[information]] by transmitting signals to and from different parts of its body
 2. The nervous system detects environmental changes that impact the body, then works in tandem with the endocrine system to respond to such events.^[https://en.wikipedia.org/wiki/Nervous_system#cite_note-1]
 3. **Diagram showing the major divisions of the vertebrate nervous system.**^[By The original uploader was Fuzzform at English Wikipedia - File:NSdiagram.png, GFDL, https://commons.wikimedia.org/w/index.php?curid=22092840]
 	1. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/NSdiagram.svg/1280px-NSdiagram.svg.png" width="600" />

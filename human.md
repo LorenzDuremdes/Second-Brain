@@ -1,3 +1,3 @@
 # cognitive deficits due to technological improvements
 1. why: More and more frequently, people find themselves in the position of lower animals, with a mental apparatus unequipped to deal thoroughly with the intricacy and richness of the external environment (Robert Cialdini)?^[GPT-4]^[Influence, New and Expanded The Psychology of Persuasion by Robert B. Cialdini, p. ~396]
-	1. despite having more effective brain mechanisms than other animal groups, people have created an environment so complex, fast-paced, and information-laden that they must increasingly deal with it in the fashion of animals they long ago transcended (i.e. **biases + heuristics**)
+	1. despite having more effective brain mechanisms than other [[animal]] groups, people have created an environment so complex, fast-paced, and information-laden that they must increasingly deal with it in the fashion of animals they long ago transcended (i.e. **biases + heuristics**)

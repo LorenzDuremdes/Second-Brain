@@ -1,2 +1,2 @@
-1. ethology; the scientific and objective study of animal behaviour, usually with a focus on behaviour under natural conditions, and viewing behaviour as an [[evolution|evolutionarily adaptive trait]]
+1. ethology; the scientific and objective study of [[animal]] behaviour, usually with a focus on behaviour under natural conditions, and viewing behaviour as an [[evolution|evolutionarily adaptive trait]]
 2. ethology (etymology); ἦθος, ethos meaning "character" and -λογία, -logia meaning "the study of"

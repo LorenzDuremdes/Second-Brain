@@ -1,0 +1,1 @@
+1. crypsis; the ability of an [[animal]] or a [[plant]]^[https://en.wikipedia.org/wiki/Crypsis#cite_note-Gianoli-1] to avoid observation or detection by other animals

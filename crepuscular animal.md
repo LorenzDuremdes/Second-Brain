@@ -1,2 +1,2 @@
-1. crepuscular animal; one that is active primarily during the twilight period,^[https://en.wikipedia.org/wiki/Crepuscular_animal#cite_note-1] being matutinal, vespertine/vespertinal, or both
+1. crepuscular [[animal]]; one that is active primarily during the twilight period,^[https://en.wikipedia.org/wiki/Crepuscular_animal#cite_note-1] being matutinal, vespertine/vespertinal, or both
 	1. Some crepuscular animals may also be active by moonlight or during an overcast day. [[Matutinal]] animals are active only before sunrise, and [[vespertine (biology)|vespertine]] only after sunset.

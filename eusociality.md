@@ -8,7 +8,7 @@
 1. cooperative [brood](https://en.wikipedia.org/wiki/Offspring) care (including care of offspring from other individuals)
 2. overlapping generations within a colony of adults
 3. a division of labor into reproductive and non-reproductive groups
-	1. The division of labor creates specialized behavioral groups within an animal society which are sometimes called [castes](https://en.wikipedia.org/wiki/Castes)
+	1. The division of labor creates specialized behavioral groups within an [[animal]] society which are sometimes called [castes](https://en.wikipedia.org/wiki/Castes)
 
 # Humans
 1. are humans eusocial? + why
