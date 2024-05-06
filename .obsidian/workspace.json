@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "crypsis.md",
+                "file": "gut-brain axis.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "crypsis.md",
+                "file": "gut-brain axis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cycling economy",
+                "query": "gastrointestinal autism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "crypsis.md",
+                "file": "gut-brain axis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "crypsis.md",
+                "file": "gut-brain axis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "crypsis.md"
+                "file": "gut-brain axis.md"
               }
             }
           },
@@ -161,7 +162,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,8 +183,8 @@
   },
   "active": "3c60c544f6aeee66",
   "lastOpenFiles": [
-    "animal.md",
     "crypsis.md",
+    "animal.md",
     "morningness-eveningness questionnaire.md",
     "photoperiodism.md",
     "scotobiology.md",
