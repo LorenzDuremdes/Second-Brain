@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b5c1d834e573af13",
+            "id": "af531c03c6ac9578",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scotobiology.md",
+                "file": "photoperiodism.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "scotobiology.md",
+                "file": "photoperiodism.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "scotobiology.md",
+                "file": "photoperiodism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "scotobiology.md",
+                "file": "photoperiodism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scotobiology.md"
+                "file": "photoperiodism.md"
               }
             }
           },
@@ -180,10 +180,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b5c1d834e573af13",
+  "active": "af531c03c6ac9578",
   "lastOpenFiles": [
-    "cycling economy.md",
     "scotobiology.md",
+    "photoperiodism.md",
+    "cycling economy.md",
     "Figure 10.5 Phases of muscular activity throughout the crank cycle.webp",
     "monocarboxylate transport 4.md",
     "block training.md",
@@ -215,7 +216,6 @@
     "ultra-distance cycling.md",
     "tapering (sports).md",
     "watts per CdA.md",
-    "reactive hypoglycemia.md",
     "FIGURE 2. Blood glucose levels and symptoms of functional hypoglycemia.png",
     "TrainerRoad - Pre-Workout Nutrition Data-Driven Ways to Plan Meal Timing (Ask a Cycling Coach 327).webp"
   ]

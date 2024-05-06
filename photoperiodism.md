@@ -1,0 +1,1 @@
+1. photoperiodism; the physiological reaction of organisms to the length of light or a dark period^[https://en.wikipedia.org/wiki/Photoperiodism]
