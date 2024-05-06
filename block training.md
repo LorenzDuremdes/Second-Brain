@@ -1,3 +1,6 @@
 1. block training → [[time]]
 	1. you might be able [[time]] to save/keep [[time]] the same with block training e.g. increasing density without increasing [[time]] necessarily while still making [[progressive overload]]
 		1. also useful when not necessarily wanting to increase intensity
+
+# research
+1. It’s a complex model but one that was clarified by research from Bent Ronnestad of Lillehammer University in 2012. Ronnestad took two groups of highly trained cyclists and, over a four-week programme, made the riders perform eight high- and low-intensity training sessions. However, they spread these out differently – the block group undertook five high-intensity sessions in week one followed by three weeks of one high-intensity session compared to the traditional periodisation group’s two high-intensity sessions per week. The study concluded that the block group exhibited a 4.6 per cent improvement in VO2 max, a 2.1 per cent quicker time-trial effort and a 10 per cent increase in power output over the subjects following the traditional periodisation model. In short, the more intense blocks of high-intensity training led to fitness gains that eclipsed those of the traditional model.^[The Science of the Tour de France: Training secrets of the world’s best cyclists, p. 9]

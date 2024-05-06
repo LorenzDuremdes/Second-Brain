@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "phenylpiracetam.md",
+                "file": "block training.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "phenylpiracetam.md",
+                "file": "block training.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "phenylpiracetam",
+                "query": "block",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "phenylpiracetam.md",
+                "file": "block training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "phenylpiracetam.md",
+                "file": "block training.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "phenylpiracetam.md"
+                "file": "block training.md"
               }
             }
           },
@@ -183,6 +183,9 @@
   },
   "active": "a7a4ba5887939b59",
   "lastOpenFiles": [
+    "block (sports periodization).md",
+    "block training.md",
+    "phenylpiracetam.md",
     "aerodynamics (road cycling).md",
     "TOOT Ashaa RR 3D printe stainless steel ultra narrow aero road racing handlebar, Lezica-up-close.jpg",
     "Aero position TT bike.webp",
@@ -203,7 +206,6 @@
     "muscular endurance.md",
     "fencing response.md",
     "sports periodization.md",
-    "block (sports periodization).md",
     "field experiment.md",
     "UCI Gran Fondo World Series.md",
     "TRed-Peregrine-Falcon-prototype-track-bike_Ashaa-track-bar_side.jpg",
@@ -216,7 +218,6 @@
     "FIGURE 2. Blood glucose levels and symptoms of functional hypoglycemia.png",
     "TrainerRoad - Pre-Workout Nutrition Data-Driven Ways to Plan Meal Timing (Ask a Cycling Coach 327).webp",
     "road cycling.md",
-    "cycling economy.md",
     "STCs by audio distinguishability.png"
   ]
 }
