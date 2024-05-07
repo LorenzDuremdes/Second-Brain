@@ -1,0 +1,2 @@
+1. how should the stronger guy do pulls in a TTT?
+	1. One key is that if you are stronger than your colleagues, you don’t pull harder, just longer. The squads that practise know how to manage this - the ones that don’t splinter when the strong guys get to the front and the guy trying to get on the back is croaking “wait” as they disappear up the road. If you’re truly on the limit, shouting to be heard up the line is incredibly hard!^[https://www.trainerroad.com/forum/t/optimal-pacing-rotation-for-4-man-ttt/15565/5?u=lorenz_duremdes]
