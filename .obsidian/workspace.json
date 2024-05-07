@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "team time trial",
+                "query": "cda",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -182,8 +182,10 @@
   },
   "active": "e72c24d46b1aba89",
   "lastOpenFiles": [
-    "road cycling.md",
+    "drag coefficient.md",
+    "watts per CdA.md",
     "team time trial.md",
+    "road cycling.md",
     "time trial (TT) pacing strategies.md",
     "gut-brain axis.md",
     "crypsis.md",
@@ -213,8 +215,6 @@
     "chronic training load.md",
     "fatigue resistance (road cycling).md",
     "Lun-class ekranoplan.md",
-    "stamina (endurance).md",
-    "muscular endurance.md",
     "TRed-Peregrine-Falcon-prototype-track-bike_Ashaa-track-bar_side.jpg",
     "FIGURE 2. Blood glucose levels and symptoms of functional hypoglycemia.png",
     "TrainerRoad - Pre-Workout Nutrition Data-Driven Ways to Plan Meal Timing (Ask a Cycling Coach 327).webp"
