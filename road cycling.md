@@ -73,7 +73,7 @@
 		2. Lars Bak had a similar crash on May 29th 2016 with 6 broken ribs, broken shoulder and also broke some things in his back. Pretty sure he punctured a lung too.
 		   
 		   He completed the Tour that year.
-		3. Definitely some of the toughest atheletes if not the toughest or any sport
+		3. Definitely some of the toughest atheletes if not the toughest of any sport
 		4. I think about this often and rarely bring it up among my friends who aren’t cycling fans because I know they wouldn’t get it and I’m not interested in arguing. But I think cyclists might not only be the toughest/grittiest athletes in the world but that cycling as a sport (at the professional level) is the most physically and mentally difficult—and I don’t think it’s particularly close.
 		   
 		   I am blown away every three or four minutes during a race at how insanely hard these guys and gals are riding. As a cyclist myself, it adds a layer of depth of experience to my bewilderment to see what these riders are doing within the context of my own riding.
