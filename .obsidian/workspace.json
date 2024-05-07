@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "time trial (TT) pacing strategies.md",
+                "file": "road cycling.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "time trial (TT) pacing strategies.md",
+                "file": "road cycling.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "time trial",
+                "query": "road cycling",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "time trial (TT) pacing strategies.md",
+                "file": "road cycling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "time trial (TT) pacing strategies.md",
+                "file": "road cycling.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "time trial (TT) pacing strategies.md"
+                "file": "road cycling.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "3c60c544f6aeee66",
   "lastOpenFiles": [
+    "time trial (TT) pacing strategies.md",
     "gut-brain axis.md",
     "crypsis.md",
     "animal.md",
@@ -215,7 +216,6 @@
     "muscular endurance.md",
     "fencing response.md",
     "sports periodization.md",
-    "field experiment.md",
     "TRed-Peregrine-Falcon-prototype-track-bike_Ashaa-track-bar_side.jpg",
     "FIGURE 2. Blood glucose levels and symptoms of functional hypoglycemia.png",
     "TrainerRoad - Pre-Workout Nutrition Data-Driven Ways to Plan Meal Timing (Ask a Cycling Coach 327).webp"

@@ -68,6 +68,17 @@
 		Even so, winning in cycling isn’t determined solely by fitness, he points out: “In a rowing race, the best rower in that race will win. In cycling, the rider who has peaked perfectly for a specific race could come last.”
 
 		A similar point was made by Michael Woods, an elite runner turned Cannondale pro, in a previous interview with Cycling Weekly, in which he described having earned a deep respect for the multi-faceted, multi-skilled nature of cycling — that is, compared to distance running, in which, aside from fitness and determination, not much else matters.
+	1. Jonas Vingegaard is back riding on his bike outside again
+		1. These guys are fucking lunatics lol. This is great news
+		2. Lars Bak had a similar crash on May 29th 2016 with 6 broken ribs, broken shoulder and also broke some things in his back. Pretty sure he punctured a lung too.
+		   
+		   He completed the Tour that year.
+		3. Definitely some of the toughest atheletes if not the toughest or any sport
+		4. I think about this often and rarely bring it up among my friends who aren’t cycling fans because I know they wouldn’t get it and I’m not interested in arguing. But I think cyclists might not only be the toughest/grittiest athletes in the world but that cycling as a sport (at the professional level) is the most physically and mentally difficult—and I don’t think it’s particularly close.
+		   
+		   I am blown away every three or four minutes during a race at how insanely hard these guys and gals are riding. As a cyclist myself, it adds a layer of depth of experience to my bewilderment to see what these riders are doing within the context of my own riding.
+		   
+		   TLDR: cyclists are aliens.
 
 ## demography
 ### STEM
