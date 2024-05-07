@@ -10,9 +10,12 @@
 	1. pulls of less than 1–2mins reduce efficiency of the team because it takes a minute of so for the speed to stabilize and each time a rider drops back they are riding solo (alongside the team) and have to catch on the back….which is hazardous!^[https://www.cyclingapps.net/what-is-the-optimal-team-timetrial-strategy/]
 
 # [[physics]]
-1. drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider^[https://www.cyclingapps.net/what-is-the-optimal-team-timetrial-strategy/] ![[drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider.png]]
+1. drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider^[https://www.cyclingapps.net/what-is-the-optimal-team-timetrial-strategy/] ![[drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider.jpg]]^[[Aerodynamic drag in cycling team time trials - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0167610518306755)]
 	1. maximum watts of front guy when _n_ guy has an FTP of _x_ (1h TTT)
 		1. _x_ · drag saving
 		   drag saving = 1+(1 - n)
 		-    e.g. with an FTP of 277:
 		   277 · (1+(1 - 0.641)) = 376 W
+
+## related
+1. [[drafting (aerodynamics)]]
