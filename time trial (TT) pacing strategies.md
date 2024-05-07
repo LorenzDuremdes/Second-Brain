@@ -27,5 +27,8 @@
 1. how can you know via [[myWindsock]] that the weather changed (e.g. stronger headwind) after already having prepared the pacing on the top tube?
 	1. if it recommends higher/lower speeds at the chosen intervals (or average [[speed]] (at a segment)
 
+## [[physiology]]
+1. **If you accumulate acid with anaerobic effort, you have to recover to buffer this acid**. The goal in pacing is to do the max power possible across the course, but if we spike acid too early then we’ll ultimately go slower, as there is no real recovery time in a proper TT. Therefore, we’ll try to work with [[physics]] and wind resistance to optimize for deeper digs and moderate recovery.
+
 # related
 1. [[pacing strategies]]
