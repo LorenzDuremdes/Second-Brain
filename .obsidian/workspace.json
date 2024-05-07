@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cda",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -182,6 +182,7 @@
   },
   "active": "e72c24d46b1aba89",
   "lastOpenFiles": [
+    "drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider.png",
     "drag coefficient.md",
     "watts per CdA.md",
     "team time trial.md",
@@ -214,7 +215,6 @@
     "institutionalized overtraining.md",
     "chronic training load.md",
     "fatigue resistance (road cycling).md",
-    "Lun-class ekranoplan.md",
     "TRed-Peregrine-Falcon-prototype-track-bike_Ashaa-track-bar_side.jpg",
     "FIGURE 2. Blood glucose levels and symptoms of functional hypoglycemia.png",
     "TrainerRoad - Pre-Workout Nutrition Data-Driven Ways to Plan Meal Timing (Ask a Cycling Coach 327).webp"
