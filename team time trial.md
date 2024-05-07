@@ -8,4 +8,9 @@
 	1. The first two stages are meat and drink for pro riders, the difference between a pro TTT rider and the rest of us is in delivering the second man into the lead perfectly. Both Julich and McGee agree delivery is best achieved by surging during the final few pedal strokes of a pull to create a small acceleration which drops air pressure just behind the surging rider to help slingshot the second man onto the front and eases the impact of taking the wind.
 
 # [[physics]]
-1. drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider ![[drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider.png]]
+1. drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider^[https://www.cyclingapps.net/what-is-the-optimal-team-timetrial-strategy/] ![[drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider.png]]
+	1. maximum watts of front guy when _n_ guy has an FTP of _x_ (1h TTT)
+		1. _x_ · drag saving
+		   drag saving = 1+(1 - n)
+		-    e.g. with an FTP of 277:
+		   277 · (1+(1 - 0.641)) = 376 W
