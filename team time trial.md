@@ -6,6 +6,8 @@
 	4. the bigger/heavier guy should pull downhill
 2. what should the cyclist in the front do before rotating / backing off (TTT)?^[https://www.bikeradar.com/advice/fitness-and-training/the-team-time-trial]
 	1. The first two stages are meat and drink for pro riders, the difference between a pro TTT rider and the rest of us is in delivering the second man into the lead perfectly. Both Julich and McGee agree delivery is best achieved by surging during the final few pedal strokes of a pull to create a small acceleration which drops air pressure just behind the surging rider to help slingshot the second man onto the front and eases the impact of taking the wind.
+3. why don't you want too short pulls (TTT)?
+	1. pulls of less than 1–2mins reduce efficiency of the team because it takes a minute of so for the speed to stabilize and each time a rider drops back they are riding solo (alongside the team) and have to catch on the back….which is hazardous!^[https://www.cyclingapps.net/what-is-the-optimal-team-timetrial-strategy/]
 
 # [[physics]]
 1. drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider^[https://www.cyclingapps.net/what-is-the-optimal-team-timetrial-strategy/] ![[drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider.png]]
