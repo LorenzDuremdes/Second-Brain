@@ -1,17 +1,5 @@
 **sorted alphabetically (A-Z)**
 
-# [Legs are sore or feel great after a race](https://www.trainerroad.com/forum/t/legs-are-sore-or-feel-great-after-a-race/93134)
-1. Some things I can think of:
-	1. What Everman mentioned (they are more fatiguing e.g. faster-twitch muscle fibers (which also recover slower) as well as using up more glycogen + how close you were to task failure (per effort))
-	2. How many carbohydrates you took around/after the race (for recovery afterward)
-	3. The CTL you had at the time (as well as what workouts you did/adapted to and whether they reflected the race well or not)
-	4. How fresh you were during the race
-	5. Perhaps when your legs don’t feel great during the race, you (unconsciously) back off a bit, which decreases the strain, so you have less to recover from
-	6. Perhaps you modified your bike in the meanwhile (e.g. saddle higher/lower, bike geometry e.g. TT bike vs. more upright mountain bike)
-	7. Differences in cadences/torque with their respective power outputs
-	8. Whether you did some active recovery/cooling down/light workout (immediately/a couple hours/a day afterward)
-	9. Warming-up beforehand
-
 # [Difference in race and workout performance](https://www.trainerroad.com/forum/t/difference-in-race-and-workout-performance/93171)
 1. With a bigger Functional Reserve Capacity, I would imagine both: Being able to hold a _higher_ power above FTP for the same duration as well as being able to hold the same power you currently can do, but for longer. You also would perhaps be further away from task failure (as you have more glycogen left in your tank), so this could reduce RPE as well.
 	   
@@ -53,3 +41,42 @@
 Another option could be to select the Mid (or even High) Volume Gran Fondo plan and squeeze them on your MWF (if able to recover from this).
 
 But to simply summarize: I think for this 3-day event, a focus on ending with as high as possible CTL would be a high priority.
+
+# I just can't find the energy blocks in my schedule for weight training
+1. To add on to this thread, I personally like to follow Dr. Mike Israetel’s guidelines (or volume landmarks): Training Volume Landmarks for Muscle Growth – RP Strength (this article also mentions how you can find your own volume landmarks).
+
+If you go to “FREE CONTENT > ARTICLES” you can find the general volume landmarks per muscle group e.g. Calves Hypertrophy: Maximizing Muscle Growth with Effective Training – RP Strength says the following:
+
+I collected them all here for myself in a document:
+
+To fully make use of this system, it is advisable to also read more about his way of how he programs resistance training (e.g. from Minimum Effective Volume > Maximum Recoverable Volume). Their YouTube channel: https://www.youtube.com/@RenaissancePeriodization/ has a lot of information on this (and more).
+
+Although in your case, I would try to stay at MV and do 1 or more muscle groups at MEV or perhaps even above. If you have recovery days/weeks programmed in your endurance training, you could also simultaneously increase the strength training volume in the meanwhile.
+
+Another concept that could be interesting to delve in to, would be ‘**hybrid athlete**’: What Is Hybrid Training? Here’s All You Need to Know (menshealth.com)
+
+>**Excerpt**
+>‘Not if it’s done properly,’ says Crawley. ‘There is a misconception with hybrid training that more is better. Or that you should take 100% of a running programme and 100% of a lifting programme and put them together. The maths just doesn’t add up. When people stack up the volume like that, that’s when injuries and burnout can occur.’
+>
+>On a week-by-week basis hybrid athletes should be striving for ‘the minimum effective volume for the maximum effective adaptation’. ‘Essentially that means doing as little training as possible to adapt as much as possible. We’re not pushing people to the point where they’re absolutely destroyed,’ he says.
+
+Or: What Is a Hybrid Athlete - Nick Bare, Alex Viada Explain Training (menshealth.com)
+
+>**Excerpt**
+>What I got instead was a firsthand lesson in the challenges of pursuing multiple fitness goals at once. Instead of crushing the marathon, I finished nearly 20 minutes later than I’d hoped, in 3:23.30. Even worse, I left hobbled by a hamstring issue. All the strain—from running far and lifting heavy—was too much for me. Instead of celebrating an awesome feat of strength and endurance, I wound up spending the next three months rehabbing that hamstring.
+>
+>I’m reminded of all this whenever I scroll through social media posts of jacked guys running major mileage—and yes, it’s a little triggering. Because somehow, at least according to Instagram, there are a bunch of people who consistently run far and lift incredibly heavy.
+>
+>They call themselves “hybrid athletes,” and they excel at the blend of training styles that crippled me, simultaneously adding strength while pushing their cardio. I know this because I keep seeing their posts (thank you, Instagram and TikTok algorithms). These include posts from a fitness personality named Nick Bare (959k Instagram followers), who serves as an evangelist for the training style.
+
+# [Legs are sore or feel great after a race](https://www.trainerroad.com/forum/t/legs-are-sore-or-feel-great-after-a-race/93134)
+1. Some things I can think of:
+	1. What Everman mentioned (they are more fatiguing e.g. faster-twitch muscle fibers (which also recover slower) as well as using up more glycogen + how close you were to task failure (per effort))
+	2. How many carbohydrates you took around/after the race (for recovery afterward)
+	3. The CTL you had at the time (as well as what workouts you did/adapted to and whether they reflected the race well or not)
+	4. How fresh you were during the race
+	5. Perhaps when your legs don’t feel great during the race, you (unconsciously) back off a bit, which decreases the strain, so you have less to recover from
+	6. Perhaps you modified your bike in the meanwhile (e.g. saddle higher/lower, bike geometry e.g. TT bike vs. more upright mountain bike)
+	7. Differences in cadences/torque with their respective power outputs
+	8. Whether you did some active recovery/cooling down/light workout (immediately/a couple hours/a day afterward)
+	9. Warming-up beforehand
