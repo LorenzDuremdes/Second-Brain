@@ -9,9 +9,10 @@
 4. [EZ Aero Front Derailleur Guard save 2-5.8 Watts – EZ Gains Ltd](https://ezgains.co.uk/products/ez-aero-front-derailleur-guard-save-2-6-watts) €106.95
 
 # shops (prioritized high-to-low gain)
-1. Aero wheels [10.17 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades)
-2. Narrow handlebars [2.43 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades) | can be replicated by putting hands inward
-3. Aero body position [22.38 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades)
+1. Aerobars [57.6 W](https://www.aero-coach.co.uk/clip-on-aerobars)
+2. Aero body position [22.38 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades)
+3. Aero wheels [10.17 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades)
+4. Narrow handlebars [2.43 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades) | can be replicated by putting hands inward
 # apparel
 1. Aero helmet [7.56 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades)
 2. [Encapsulator TT Suit for cyclists. Riding suit optimised for TT position (drag2zero.co.uk)](https://drag2zero.co.uk/product/encapsulator-tt-suit/?v=796834e7a283) £366.65 | [15 W](https://silca.cc/blogs/silca/top-10-marginal-gains-to-save-watts-on-the-bike)
