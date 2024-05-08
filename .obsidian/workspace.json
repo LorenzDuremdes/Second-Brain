@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "draft",
+                "query": "peak sport",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -182,9 +182,11 @@
   },
   "active": "6e0c2c2da7eeae1e",
   "lastOpenFiles": [
+    "tapering (sports).md",
+    "sports science.md",
+    "TrainerRoad (forum).md",
     "grwoolf, chronic training load, TrainerRoad.png",
     "team time trial.md",
-    "TrainerRoad (forum).md",
     "drafting (aerodynamics).md",
     "drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider.jpg",
     "drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider.png",
@@ -215,8 +217,6 @@
     "entrainment (chronobiology).md",
     "intrinsically photosensitive retinal ganglion cell.md",
     "melanopsin.md",
-    "sports periodization (road cycling).md",
-    "institutionalized overtraining.md",
-    "TRed-Peregrine-Falcon-prototype-track-bike_Ashaa-track-bar_side.jpg"
+    "sports periodization (road cycling).md"
   ]
 }

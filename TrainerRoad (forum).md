@@ -34,3 +34,22 @@
    And the week after you do 3 hard workouts, the week after again the same workouts but with higher intensity/less rest… etc. (which also increases CTL slowly over time).
    
    In the same trend, you could do the 2-hour endurance ride after your 1-hour scheduled workout to begin with and see how you feel, and progress with doing the 2-hour endurance ride _before_ your 1-hour scheduled workout (i.e. progressive overload by doing it less fresh).
+4. I’m not too familiar with the TR plans. Perhaps what you could do, if you are able to do this (physiologically), is to increase the TSS/CTL or keep doing workouts during the weeks even if the plan demands a recovery week (again I’m not sure how this plan looks like, but looking at your graph above, I can see some weeks where TSS is low or perhaps even zero). This could massively help with getting the CTL as high as possible, which could be very beneficial for something that last multiple days in a row i.e. you will (hopefully) recover much better from the ITT as well as the 150 km hilly route the next day if your CTL is higher.
+   
+   Although I wouldn’t skip the last recommended recovery days/week (unless you are very experienced and know very precisely whether you will be fresh enough or not).
+   
+   You could start experimenting with this via easy and short workouts to begin with during the recovery days/week and see if it doesn’t hinder your dedicated training days after the plan demands a rest week.
+   
+   For a bonus, perhaps you find this research paper interesting, which basically says that increasing your volume (in an unsustainable manner, but only for the short-term such that you are recovered during the race), can further improve (time trial) performance:
+   
+   [Effects of tapering on performance in endurance athletes: A systematic review and meta-analysis - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10171681/)
+   
+> The results showed that a tapering strategy with a reduction in training volume of **41–60% that maintained training intensity and frequency, lasted ≤ 21 days**, and used progressive or step tapering could significantly improve the TT of endurance athletes (P < 0.05; Table 2)
+
+> For further exploration the training features of overload period preceding the taper, we further tracked the original research studies and found that the mean training intensity of pre-taper overload training remained at 85–95% of maximum heart rate (HRmax), an **increase of 23–26% over the mean training intensity of normal training**. This was consistent with the findings of Thomas et al. that **an increase in pre-taper training load of approximately 20–30% was effective in improving post-taper performance**. Another study found that pre-taper overload training produced higher training-induced adaptations and facilitated supercompensation. The studies by Hellard et al. and Le Meur et al. showed that improvements in V˙O2max and cardiac output of athletes who underwent overload training pre-taper were significantly higher than those of athletes who underwent conventional tapering only
+
+…Unless the TR Gran Fondo Plan already has something like this implemented.
+
+Another option could be to select the Mid (or even High) Volume Gran Fondo plan and squeeze them on your MWF (if able to recover from this).
+
+But to simply summarize: I think for this 3-day event, a focus on ending with as high as possible CTL would be a high priority.
