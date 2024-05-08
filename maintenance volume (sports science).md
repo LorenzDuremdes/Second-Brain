@@ -29,6 +29,7 @@ To maintain **V̇o<sub>2</sub> max** in general populations:
 - To maintain endurance during detraining, you can lower training **volume** by 60 to 90%, training **frequency** by no more than 20-30% in athletes but beginners can reduce it by 50 to 70%. Training **intensity** should be the same.
 1. how could MV not increase (too much) despite higher distances required at the same intensity ([[road cycling]])?
 	1. because MV is probably based on time (TSS) → you are able to go farther distances with the same intensity (same with [[resistance training]] and volume · weight)
+2. **see also**: [Intensity- and Duration-Based Options to Regulate Endurance Training - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5442222/)
 
 # related
 1. [[volume (sports science)]]

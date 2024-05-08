@@ -69,6 +69,37 @@ Or: What Is a Hybrid Athlete - Nick Bare, Alex Viada Explain Training (menshealt
 >
 >They call themselves “hybrid athletes,” and they excel at the blend of training styles that crippled me, simultaneously adding strength while pushing their cardio. I know this because I keep seeing their posts (thank you, Instagram and TikTok algorithms). These include posts from a fitness personality named Nick Bare (959k Instagram followers), who serves as an evangelist for the training style.
 
+# [I need your help with workouts](https://www.trainerroad.com/forum/t/i-need-your-help-with-workouts/93006)
+1. I personally like to replenish my workouts with as much carbohydrates as possible (e.g. I would consume 100 g carbohydrates when burning 400 calories). This can be done more easily (or your nutrition can be less strict carbohydrate-wise) when doing lower intensity workouts (as more calories are coming from your fat storage).
+
+Another way would be to follow this guideline:
+
+Source: Rethinking the 60% Carbohydrates Rule (trainingpeaks.com)
+
+Sometimes, I even like to intentionally do some active recovery (Z1) a couple hours after an intense workout (or 15–45m after having a big evening meal e.g. to prevent reactive hypoglycemia) in order to be able to consume more carbohydrates without per se gaining weight (or having to be less strict carbohydrate-wise in my daily meal plannings). Usually, that would be at 45% of my FTP (~125 W) for 30m, which burns ~200 calories = 50 g of extra carbs (which hopefully helps with feeling better, recovery, etc).
+
+Filling your off days with Z1/2 _coupled with more carbohydrate intake_ could perhaps aid in recovery, feeling better, etc. (as long as you keep their durations, to start with and test the waters, short enough as well e.g. start with something that’s relatively short for you and see how you feel).
+
+I personally like to do my recovery days/week somewhere at maintenance volume as well as low intensity (rather than completely off) to keep as much fitness as possible while allowing fatigue to drop. I tend to feel a lot better on my first hard workout after my active recovery days/week.
+
+You can maintain your fitness while doing less for a pretty long time according to this article:
+
+Maintaining Physical Performance: The Minimal Dose of Exerci… : The Journal of Strength & Conditioning Research (lww.com)
+
+In general populations, endurance performance can be maintained for up to 15 weeks when training frequency is reduced to as little as 2 sessions per week or when exercise volume is reduced by 33–66% (as low as 13–26 minutes per session), as long as exercise intensity (exercising heart rate) is maintained.
+
+To maintain long-term endurance (i.e., maximal bouts of exercise lasting ∼1–3 hours) in general populations:
+
+- The minimal exercise frequency is not known. Therefore, we conservatively recommend maintaining exercise frequency at or near the individual’s typical training level.
+- Exercise volume can be reduced by 33% (as little as 26 minutes per session), as long as exercise frequency and intensity are maintained.
+- Exercise intensity must be maintained as high as reasonably possible (at least as high as the individual’s typical training intensity).
+
+The article (at the end) also mentions how to maintain maximal bouts of exercise lasting ∼4–8 minutes, V̇o2max, 1RM strength, etc.
+
+The way I do it is by simply taking my CTL and multiplying it by roughly 0.66 (and distribute this TSS with as high frequency as possible (~6 days), with the last day before ramping again usually being an active recovery (Z1) only day).
+
+Another option could be this guideline (Intensity- and Duration-Based Options to Regulate Endurance Training - PMC (nih.gov)):
+
 # [Legs are sore or feel great after a race](https://www.trainerroad.com/forum/t/legs-are-sore-or-feel-great-after-a-race/93134)
 1. Some things I can think of:
 	1. What Everman mentioned (they are more fatiguing e.g. faster-twitch muscle fibers (which also recover slower) as well as using up more glycogen + how close you were to task failure (per effort))
