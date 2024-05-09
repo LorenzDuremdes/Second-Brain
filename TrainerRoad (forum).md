@@ -50,6 +50,17 @@ The additional 2-hour endurance rides would allow you to both race faster due to
 
 You could start with adding this 2-hour endurance ride on top of Friday as you have 2 days to recover from this and later on move this session (or add extra Z2 sessions) on top of Monday and Wednesday.
 
+For reference, these are the general guidelines in terms of ramp rate:
+
+**Source:** Training and Racing with a Power Meter (Hunter Allen, Andrew R. Coggan), p. 228
+
+So even going with the highest value that’s sustainable/safe long-term (+10 TSS/day every 14–28 days), adding another 2-hour Z2 ride at an intensity of 70% (97 TSS) is something you should add at a maximum of every ~19–39 days.
+
+> For example, the highest continual CTL loads we have seen have been in riders at the Tour de France who can maintain a CTL between 150 and 160 for most of the year. After the Tour, they have a CTL of 170 to 180. (Ask any rider after the Tour de France if they would like to do another one and you’ll get a firm “No,” which indicates that a hypothetical genetic limit on CTL could be somewhere between 180 and 200). If they started the Tour at 150 CTL and ended at 170 CTL, **their ramp rate would be in the 7 TSS/day range, so even the best riders in the world have a relatively shallow ramp rate when approaching their limit**.  
+> **Source**: Training and Racing with a Power Meter (Hunter Allen, Andrew R. Coggan), p. 227
+
+You have plenty of time until the race in September/October. Adding another 2-hour Z2 every month and in August you already increased your CTL with those Z2 rides with ~42 (3x97 TSS Z2), which can be a lot depending on where you currently are + the TrainerRoad plan probably also ramps up over time.
+
 # I just can't find the energy blocks in my schedule for weight training
 1. To add on to this thread, I personally like to follow Dr. Mike Israetel’s guidelines (or volume landmarks): Training Volume Landmarks for Muscle Growth – RP Strength (this article also mentions how you can find your own volume landmarks).
 
