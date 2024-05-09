@@ -20,12 +20,24 @@
             }
           },
           {
+            "id": "c525ed6c469f8b2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ramp rate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "77d650f224c125d3",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TrainerRoad (forum).md",
+                "file": "ramp rate.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -54,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "blood flow re",
+                "query": "ramp rate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TrainerRoad (forum).md",
+                "file": "ramp rate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TrainerRoad (forum).md",
+                "file": "ramp rate.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TrainerRoad (forum).md"
+                "file": "ramp rate.md"
               }
             }
           },
@@ -162,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -180,12 +193,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6e0c2c2da7eeae1e",
+  "active": "c525ed6c469f8b2a",
   "lastOpenFiles": [
+    "TrainerRoad (forum).md",
+    "ramp rate.md",
     "blood flow restriction training.md",
     "GW501516.md",
     "lactate threshold.md",
-    "TrainerRoad (forum).md",
     "maintenance volume (sports science).md",
     "aerodynamics (road cycling).md",
     "tapering (sports).md",
@@ -216,7 +230,6 @@
     "Aero position Victor Campenaerts.jpg",
     "TT position Remco Evenepoel.jpg",
     "TT position.jpeg",
-    "VeloVetta TT position.png",
-    "seasonal affective disorder.md"
+    "VeloVetta TT position.png"
   ]
 }
