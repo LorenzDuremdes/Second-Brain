@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TrainerRoad (forum).md",
+                "file": "lactate threshold.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TrainerRoad (forum).md",
+                "file": "lactate threshold.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trainerroad",
+                "query": "lactate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TrainerRoad (forum).md",
+                "file": "lactate threshold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TrainerRoad (forum).md",
+                "file": "lactate threshold.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TrainerRoad (forum).md"
+                "file": "lactate threshold.md"
               }
             }
           },
@@ -183,9 +183,9 @@
   },
   "active": "6e0c2c2da7eeae1e",
   "lastOpenFiles": [
+    "TrainerRoad (forum).md",
     "maintenance volume (sports science).md",
     "aerodynamics (road cycling).md",
-    "TrainerRoad (forum).md",
     "tapering (sports).md",
     "sports science.md",
     "grwoolf, chronic training load, TrainerRoad.png",

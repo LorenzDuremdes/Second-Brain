@@ -4,6 +4,7 @@
 
 # 3-zone model
 1. LT1; sustained increase in [[blood]] [[lactate]] concentration above resting values^[https://www.lboro.ac.uk/sport/news/2020/april/training-zones/]
+	1. <2 mmol/L^[[Lactate threshold concepts: how valid are they? - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/19453206/)]^[[Lactate Threshold 1 (LT1): Ultimate Guide to Improving Endurance Training (inscyd.com)](https://inscyd.com/article/lactate-threshold-1-lt1-ultimate-guide/)]
 2. LT2; indicating the upper limit of equilibrium between [[lactate]] production and clearance^[https://www.lboro.ac.uk/sport/news/2020/april/training-zones/]
 
 # [[physiology]]
