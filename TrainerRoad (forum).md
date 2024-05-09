@@ -42,6 +42,14 @@ Another option could be to select the Mid (or even High) Volume Gran Fondo plan 
 
 But to simply summarize: I think for this 3-day event, a focus on ending with as high as possible CTL would be a high priority.
 
+It would increase the training load every week, which could drive more adaptations in a shorter timeframe.
+
+2 hours at something like 70% intensity, would give a TSS of 97 per session. For reference, if you do the 150 km race in ~5 hours at let’s say an average Normalized Power of 76% intensity (lower Z3), that would give a TSS of 287.
+
+The additional 2-hour endurance rides would allow you to both race faster due to potentially achieving more adaptations in the meanwhile building up to the race, but it would also increase your race performance due to simply being able to handle (and recover from) a higher training load i.e. being more recovered from the ITT would mean you can put a better performance next day with the 150 km route, same with the 3rd day 120 km.
+
+You could start with adding this 2-hour endurance ride on top of Friday as you have 2 days to recover from this and later on move this session (or add extra Z2 sessions) on top of Monday and Wednesday.
+
 # I just can't find the energy blocks in my schedule for weight training
 1. To add on to this thread, I personally like to follow Dr. Mike Israetel’s guidelines (or volume landmarks): Training Volume Landmarks for Muscle Growth – RP Strength (this article also mentions how you can find your own volume landmarks).
 
@@ -68,14 +76,6 @@ Or: What Is a Hybrid Athlete - Nick Bare, Alex Viada Explain Training (menshealt
 >I’m reminded of all this whenever I scroll through social media posts of jacked guys running major mileage—and yes, it’s a little triggering. Because somehow, at least according to Instagram, there are a bunch of people who consistently run far and lift incredibly heavy.
 >
 >They call themselves “hybrid athletes,” and they excel at the blend of training styles that crippled me, simultaneously adding strength while pushing their cardio. I know this because I keep seeing their posts (thank you, Instagram and TikTok algorithms). These include posts from a fitness personality named Nick Bare (959k Instagram followers), who serves as an evangelist for the training style.
-
-It would increase the training load every week, which could drive more adaptations in a shorter timeframe.
-
-2 hours at something like 70% intensity, would give a TSS of 97 per session. For reference, if you do the 150 km race in ~5 hours at let’s say an average of 76% intensity (lower Z3), that would give a TSS of 287.
-
-The additional 2-hour endurance rides would allow you to both race faster due to potentially achieving more adaptations in the meanwhile building up to the race, but it would also increase your race performance due to simply being able to handle (and recover from) a higher training load i.e. being more recovered from the ITT would mean you can put a better performance next day with the 150 km route, same with the 3rd day 120 km.
-
-You could start with adding this 2-hour endurance ride on top of Friday as you have 2 days to recover from this and later on move this session (or add extra Z2 sessions) on top of Monday and Wednesday.
 
 # [I need your help with workouts](https://www.trainerroad.com/forum/t/i-need-your-help-with-workouts/93006)
 1. I personally like to replenish my workouts with as much carbohydrates as possible (e.g. I would consume 100 g carbohydrates when burning 400 calories). This can be done more easily (or your nutrition can be less strict carbohydrate-wise) when doing lower intensity workouts (as more calories are coming from your fat storage).
