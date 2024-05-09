@@ -11,6 +11,8 @@
 1. MCT-1; takes [[lactate]] inside slow-twitch muscle fibers^[https://www.trainingpeaks.com/blog/what-is-lactate-and-lactate-threshold/]
 2. MCT-4; might be especially appropriate for export of [[lactate]] derived from glycolysis^[https://en.wikipedia.org/wiki/Monocarboxylate_transporter_4]
 	1. mostly present in fast-twitch muscle fibers^[https://www.trainingpeaks.com/blog/what-is-lactate-and-lactate-threshold/]
+3. muscle glycogen → blood lactate concentration
+	1. higher muscle glycogen increases lactate concentration (even at rest, but to a lesser degree)^[Dr. Andrew Coggan: https://www.trainerroad.com/forum/t/lactate-testing-data-and-results/6484/546?u=lorenz_duremdes]
 
 # related
 1. [[bioenergetic systems]]
