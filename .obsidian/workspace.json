@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blood flow restriction training.md",
+                "file": "TrainerRoad (forum).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "blood flow restriction training.md",
+                "file": "TrainerRoad (forum).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blood flow restriction training.md",
+                "file": "TrainerRoad (forum).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blood flow restriction training.md",
+                "file": "TrainerRoad (forum).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blood flow restriction training.md"
+                "file": "TrainerRoad (forum).md"
               }
             }
           },
@@ -183,6 +182,7 @@
   },
   "active": "6e0c2c2da7eeae1e",
   "lastOpenFiles": [
+    "blood flow restriction training.md",
     "GW501516.md",
     "lactate threshold.md",
     "TrainerRoad (forum).md",
@@ -217,7 +217,6 @@
     "TT position Remco Evenepoel.jpg",
     "TT position.jpeg",
     "VeloVetta TT position.png",
-    "seasonal affective disorder.md",
-    "entrainment (chronobiology).md"
+    "seasonal affective disorder.md"
   ]
 }

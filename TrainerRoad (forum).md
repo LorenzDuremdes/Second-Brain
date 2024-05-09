@@ -119,3 +119,18 @@ Another option could be this guideline (Intensity- and Duration-Based Options to
 	7. Differences in cadences/torque with their respective power outputs
 	8. Whether you did some active recovery/cooling down/light workout (immediately/a couple hours/a day afterward)
 	9. Warming-up beforehand
+
+# Should I go to mid volume from high volume?
+I can’t give an answer to what might be the most optimal choice, but I can share some knowledge that might help you make a more informed decision.
+
+Depending on the ramp rate (how much you are increasing your training load every week), if it somewhat falls according to the following values (or even below it), you could try to keep doing what you are doing right now and see whether your body can adapt to the total weekly training load better over time (e.g. feeling better on the Mondays over time):
+
+**Source**: Training and Racing with a Power Meter (Hunter Allen, Andrew R. Coggan), p. 228
+
+Switching to a plan with a lower weekly training load would probably still give you fitness adaptations, but slower in the same timeframe.
+
+Also make sure you get enough carbohydrates and calories. I sometimes like to eat a +100 caloric surplus on a very hard day (consisting mainly of carbs i.e. 25 g in this case). Perhaps this could help especially on your long endurance ride on Sunday.
+
+Source: Rethinking the 60% Carbohydrates Rule (trainingpeaks.com)
+
+Planning the long endurance ride a couple hours earlier on Sunday (if possible) could also mean a couple more hours of recovery until the next workout on Monday.
