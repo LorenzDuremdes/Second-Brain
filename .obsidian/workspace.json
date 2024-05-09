@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e0c2c2da7eeae1e",
+            "id": "f5fb0dec12a40261",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TrainerRoad (forum).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c525ed6c469f8b2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TrainerRoad (forum).md",
+                "file": "earliest deadline first scheduling.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TrainerRoad (forum).md",
+                "file": "earliest deadline first scheduling.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -66,8 +54,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TrainerRoad (forum).md",
+                "file": "earliest deadline first scheduling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TrainerRoad (forum).md",
+                "file": "earliest deadline first scheduling.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TrainerRoad (forum).md"
+                "file": "earliest deadline first scheduling.md"
               }
             }
           },
@@ -193,10 +180,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c525ed6c469f8b2a",
+  "active": "f5fb0dec12a40261",
   "lastOpenFiles": [
-    "ramp rate.md",
     "TrainerRoad (forum).md",
+    "earliest deadline first scheduling.md",
+    "ramp rate.md",
     "blood flow restriction training.md",
     "GW501516.md",
     "lactate threshold.md",
@@ -224,7 +212,6 @@
     "monocarboxylate transport 4.md",
     "block training.md",
     "block (sports periodization).md",
-    "phenylpiracetam.md",
     "TOOT Ashaa RR 3D printe stainless steel ultra narrow aero road racing handlebar, Lezica-up-close.jpg",
     "Aero position TT bike.webp",
     "Aero position Victor Campenaerts.jpg",

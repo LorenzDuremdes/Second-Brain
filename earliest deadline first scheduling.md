@@ -1,0 +1,1 @@
+1. earliest deadline first scheduling; a dynamic priority scheduling [[algorithm]] used in real-[[time]] operating systems to place processes in a priority queue^[https://en.wikipedia.org/wiki/Earliest_deadline_first_scheduling]
