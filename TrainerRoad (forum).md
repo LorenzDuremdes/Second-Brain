@@ -61,7 +61,7 @@ So even going with the highest value that’s sustainable/safe long-term (+10 TS
 
 You have plenty of time until the race in September/October. Adding another 2-hour Z2 every month and in August you already increased your CTL with those Z2 rides with ~42 (3x97 TSS Z2), which can be a lot depending on where you currently are + the TrainerRoad plan probably also ramps up over time.
 
-# I just can't find the energy blocks in my schedule for weight training
+# [I just can't find the energy blocks in my schedule for weight training](https://www.trainerroad.com/forum/t/i-just-cant-find-the-energy-blocks-in-my-schedule-for-weight-training/92500)
 1. To add on to this thread, I personally like to follow Dr. Mike Israetel’s guidelines (or volume landmarks): Training Volume Landmarks for Muscle Growth – RP Strength (this article also mentions how you can find your own volume landmarks).
 
 If you go to “FREE CONTENT > ARTICLES” you can find the general volume landmarks per muscle group e.g. Calves Hypertrophy: Maximizing Muscle Growth with Effective Training – RP Strength says the following:
@@ -131,7 +131,16 @@ Another option could be this guideline (Intensity- and Duration-Based Options to
 	8. Whether you did some active recovery/cooling down/light workout (immediately/a couple hours/a day afterward)
 	9. Warming-up beforehand
 
-# Should I go to mid volume from high volume?
+# [Problems with outdoor workouts](https://www.trainerroad.com/forum/t/problems-with-outdoor-workouts/93228)
+I would do it by having a target/ballpark TSS beforehand e.g. 1h Z2@70% = 49 TSS.
+
+Then I would look a bit at the terrain. If it requires many accelerations, perhaps try to stay around ~68% IF (coupled with the accelerations bringing Normalized Power up might bring you somewhat close to the 49 TSS). If the terrain requires a lot of coasting or being in Z1, however, perhaps it’s even better to stay slightly above (like ~72% IF). E.g. if you coast or are in Z1 for a total of 5 minutes, then you ‘effectively’ did a 55-minute workout instead of an hour (which is still ~45–48 TSS), but you need an average of ~71–73 IF for it to be 49 TSS again (or try to make up for it by cycling a bit longer or perhaps in your other workouts).
+
+You could try to increase the intensity slightly when going uphill or with a headwind and vice versa if your goal is to practice some pacing as well.
+
+So there’s no exact need to keep Z2 _constant/steady_ at something like a precise continuous value 70% IF (or even be 100% in Z2) for it to be considered an effective workout (like you could do more easily on a trainer). Nor do the short breaks/coasting in between for a couple seconds cause a significant reduction in adaptations or something like that.
+
+# [Should I go to mid volume from high volume?](https://www.trainerroad.com/forum/t/should-i-go-to-mid-volume-from-high-volume/93205)
 I can’t give an answer to what might be the most optimal choice, but I can share some knowledge that might help you make a more informed decision.
 
 Depending on the ramp rate (how much you are increasing your training load every week), if it somewhat falls according to the following values (or even below it), you could try to keep doing what you are doing right now and see whether your body can adapt to the total weekly training load better over time (e.g. feeling better on the Mondays over time):
