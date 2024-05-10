@@ -1,0 +1,2 @@
+1. exercise-associated muscle cramps; defined as cramping (painful muscle spasms) during or immediately following exercise.^[https://en.wikipedia.org/wiki/Exercise-associated_muscle_cramps#cite_note-r1-1]^[https://en.wikipedia.org/wiki/Exercise-associated_muscle_cramps#cite_note-r2-2]^[https://en.wikipedia.org/wiki/Exercise-associated_muscle_cramps#cite_note-r3-3]
+2. 

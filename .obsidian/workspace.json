@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f5fb0dec12a40261",
+            "id": "4aa1f1293e1f4b97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chronic training load.md",
+                "file": "exercise-associated muscle cramps.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "chronic training load.md",
+                "file": "exercise-associated muscle cramps.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chronic training load.md",
+                "file": "exercise-associated muscle cramps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chronic training load.md",
+                "file": "exercise-associated muscle cramps.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chronic training load.md"
+                "file": "exercise-associated muscle cramps.md"
               }
             }
           },
@@ -181,8 +180,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f5fb0dec12a40261",
+  "active": "4aa1f1293e1f4b97",
   "lastOpenFiles": [
+    "chronic training load.md",
+    "exercise-associated muscle cramps.md",
     "TrainerRoad (forum).md",
     "earliest deadline first scheduling.md",
     "ramp rate.md",
@@ -211,8 +212,6 @@
     "cycling economy.md",
     "Figure 10.5 Phases of muscular activity throughout the crank cycle.webp",
     "monocarboxylate transport 4.md",
-    "block training.md",
-    "block (sports periodization).md",
     "TOOT Ashaa RR 3D printe stainless steel ultra narrow aero road racing handlebar, Lezica-up-close.jpg",
     "Aero position TT bike.webp",
     "Aero position Victor Campenaerts.jpg",
