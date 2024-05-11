@@ -183,3 +183,27 @@ Also make sure you get enough carbohydrates and calories. I sometimes like to ea
 Source: Rethinking the 60% Carbohydrates Rule (trainingpeaks.com)
 
 Planning the long endurance ride a couple hours earlier on Sunday (if possible) could also mean a couple more hours of recovery until the next workout on Monday.
+
+# [The Bike Fitting Mega-Thread](https://www.trainerroad.com/forum/t/the-bike-fitting-mega-thread/10527)
+https://www.youtube.com/watch?v=i1TQcOC1VLM
+
+According to this video (from a bike fitter), a **too far forward saddle** can be recognized by:
+- A lack of hamstring engagement and overengagement of the quadriceps (if you have a power meter that displays Pedal Smoothness, you would see it being less 'round' with bigger spikes);
+- Tricep fatigue (or even shoulders) as too much upper bodyweight is being carried by them (rather than on the saddle).
+
+Here's a video when the saddle might be **too far aft**:
+https://www.youtube.com/watch?v=rvUXJ3U5_wM
+
+He recommends putting it as far back as possible, riding it, and then moving it forward until the weight starts to be too much on the hands (which can also be tested by momentarily riding without your hands on the handlebars and seeing whether you are just as easily able to do that or not at every iteration) or the pedal motion no longer feels smooth.
+
+Pedal cleat position depend more on the activity you are engaging in.
+
+A more midfoot cleat position could be better for time trialists or steady state efforts (both by reducing things like calves fatiguing, but also allowing the stem to be lower, as the saddle can be put lower as well, possibly improving aerodynamics):
+https://youtu.be/OPASHllkqJM?si=x4UQrZ8PgwdlHepf&t=629
+A possible downside of a more midfloot cleat position is that it can lower sprint performance (a more forward cleat position might be better for things like criteriums).
+
+Another interesting video to consider a more midfoot cleat position:
+https://www.youtube.com/watch?v=t7oGuel--Lc
+
+These search terms / links are useful for more information: [Cam Nicholls - YouTube](https://www.youtube.com/@CamNicholls/search?query=bike%20fit)
+And: [Road Cycling Academy - YouTube](https://www.youtube.com/@roadcyclingacademy6476/search)
