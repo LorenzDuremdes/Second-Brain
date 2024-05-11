@@ -198,9 +198,9 @@ He recommends putting it as far back as possible, riding it, and then moving it 
 
 Pedal cleat position depend more on the activity you are engaging in.
 
-A more midfoot cleat position could be better for time trialists or steady state efforts (both by reducing things like calves fatiguing, but also allowing the stem to be lower, as the saddle can be put lower as well, possibly improving aerodynamics):
+A more midfoot cleat position could be better for time trialists or steady state efforts (both by reducing things like calves fatiguing, but also allowing the stem to be lower, as the saddle can be put lower as well, possibly improving aerodynamics without reducing power output):
 https://youtu.be/OPASHllkqJM?si=x4UQrZ8PgwdlHepf&t=629
-A possible downside of a more midfloot cleat position is that it can lower sprint performance (a more forward cleat position might be better for things like criteriums).
+A possible downside of a more midfloot cleat position is that it can lower sprint performance (rate of force development, specifically) i.e. a more forward cleat position might be better for things like criteriums.
 
 Another interesting video to consider a more midfoot cleat position:
 https://www.youtube.com/watch?v=t7oGuel--Lc
