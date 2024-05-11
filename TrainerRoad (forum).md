@@ -127,7 +127,7 @@ Especially:
 > 
 > The problem is that our GI system can only process a certain amount of carbohydrates at a given time. Once you exceed that limit, GI distress becomes an issue. **For a long time, the standard advice has been 60-90 grams of carbs per hour using a 2:1 glucose to fructose ratio. However, research is emerging that shows that upwards of 140g/hr can be absorbed using a 1:1 ratio.**
 
-The cheapest form is table sugar (sucrose), which has a 1:1 ratio in glucose:fructose. The maximum concentration, while still being somewhat of a liquid, lies somewhere at 2 grams of table sugar per ml of water (although this will result in something very, very sweet), so I personally like to do 1 g of sucrose per ml within a flask I carry with me (a 300 ml flask with 150 g of sugar and 150 ml of water would be enough for a ~1.5h in your case). And then you can add another bottle that’s more aimed at hydration (with 1 g of sugar per 3 or 4 ml of water i.e. a 500 ml bottle has roughly 100–125 g of carbohydrates).
+The cheapest form is table sugar (sucrose), which has a 1:1 ratio in glucose:fructose. The maximum concentration, while still being somewhat of a liquid, lies somewhere at 2 grams of table sugar per ml of water (although this will result in something very, very sweet), so I personally like to do 1 g of sucrose per ml within a flask I carry with me (a 300 ml flask with 150 g of sugar and 150 ml of water would be enough for ~1.5h in your case). And then you can add another bottle that’s more aimed at hydration (with 1 g of sugar per 3 or 4 ml of water i.e. a 500 ml bottle has roughly 100–125 g of carbohydrates).
 
 > # [Study: is table sugar the ideal fuel? : r/Velo (reddit.com)](https://www.reddit.com/r/Velo/comments/u997ki/study_is_table_sugar_the_ideal_fuel/)
 > 
@@ -146,7 +146,7 @@ Adding some sodium could be a good thing as well:
 
 I would take small sips every now and then and spreading it over the hour to hit whatever carbs/hr your target is.
 
-Consuming some carbohydrates **pre**-workout (somewhere within 15m before starting the workout to e.g. prevent reactive hypoglycemia or feeling bad[[Pre-Workout Nutrition: Data-Driven Ways to Plan Meal Timing (Ask a Cycling Coach 327)](https://www.youtube.com/watch?v=o0S5iPm-hjs&t=360s)]) might also help rather than trying to consume it all **intra**-workout to prevent e.g. gastrointestinal problems (especially more likely at higher intensities).
+Consuming some carbohydrates **pre**-workout (somewhere within 15m before starting the workout to e.g. prevent reactive hypoglycemia or feeling bad^[[Pre-Workout Nutrition: Data-Driven Ways to Plan Meal Timing (Ask a Cycling Coach 327)](https://www.youtube.com/watch?v=o0S5iPm-hjs&t=360s)]) might also help rather than trying to consume it all **intra**-workout to prevent e.g. gastrointestinal problems (especially more likely at higher intensities).
 
 # [Legs are sore or feel great after a race](https://www.trainerroad.com/forum/t/legs-are-sore-or-feel-great-after-a-race/93134)
 1. Some things I can think of:
