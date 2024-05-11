@@ -119,6 +119,35 @@ The way I do it is by simply taking my CTL and multiplying it by roughly 0.66 (a
 
 Another option could be this guideline (Intensity- and Duration-Based Options to Regulate Endurance Training - PMC (nih.gov)):
 
+This article from TrainerRoad is a pretty nice one: [How to Use Carbs for Maximum Performance - TrainerRoad Blog](https://www.trainerroad.com/blog/how-to-use-carbs-for-maximum-performance/)
+
+Especially:
+
+> Glucose and fructose are interesting because they use different pathways in the body. In simple terms, glucose is sent directly into the bloodstream, and fructose is sent to the liver to be converted to glucose. Because these two simple sugars have different metabolic pathways, finding an optimal ratio has been at the center of seeing how many carbs per hour of cycling to consume.
+> 
+> The problem is that our GI system can only process a certain amount of carbohydrates at a given time. Once you exceed that limit, GI distress becomes an issue. **For a long time, the standard advice has been 60-90 grams of carbs per hour using a 2:1 glucose to fructose ratio. However, research is emerging that shows that upwards of 140g/hr can be absorbed using a 1:1 ratio.**
+
+The cheapest form is table sugar (sucrose), which has a 1:1 ratio in glucose:fructose. The maximum concentration, while still being somewhat of a liquid, lies somewhere at 2 grams of table sugar per ml of water (although this will result in something very, very sweet), so I personally like to do 1 g of sucrose per ml within a flask I carry with me (a 300 ml flask with 150 g of sugar and 150 ml of water would be enough for a ~1.5h in your case). And then you can add another bottle that’s more aimed at hydration (with 1 g of sugar per 3 or 4 ml of water i.e. a 500 ml bottle has roughly 100–125 g of carbohydrates).
+
+> # [Study: is table sugar the ideal fuel? : r/Velo (reddit.com)](https://www.reddit.com/r/Velo/comments/u997ki/study_is_table_sugar_the_ideal_fuel/)
+> 
+> In this study by Hearris et al. ([https://journals.physiology.org/doi/abs/10.1152/japplphysiol.00091.2022](https://journals.physiology.org/doi/abs/10.1152/japplphysiol.00091.2022)), they have studied fit cyclists with different fueling strategies. Their conclusions are pretty interesting I believe: _“We conclude 120 g·h-1 CHO (in a 1:0.8 ratio of maltodextrin or glucose:fructose) is a practically tolerable strategy to promote high CHO availability and oxidation during exercise.”_
+> 
+> Table sugar happens to be almost perfect for this, since it provides a 1:1 glucose:fructose ratio. From just skimming the paper I am not sure if they do know if the 1:0.8 ratio is why they can also get up to 120g/hr, but it seems likely.
+> 
+> Does anyone have any experience with fueling like this?
+
+Best way to dissolve the sugar quickly, would be to boil the water and mix it with the sugar.
+
+Adding some sodium could be a good thing as well:
+
+> [How Much Sodium Should You Consume? Bicycling.com](https://www.bicycling.com/health-nutrition/a20030582/recommended-sodium/)  
+> On the bike, a good rule of thumb is to consume between 500 and 700 milligrams per hour, which is about how much you can absorb within that time, Hinton says. Start with that amount and see how you tolerate it. If you feel sluggish or dizzy, or experience muscle cramps, you may need to increase it.
+
+I would take small sips every now and then and spreading it over the hour to hit whatever carbs/hr your target is.
+
+Consuming some carbohydrates **pre**-workout (somewhere within 15m before starting the workout to e.g. prevent reactive hypoglycemia or feeling bad[[Pre-Workout Nutrition: Data-Driven Ways to Plan Meal Timing (Ask a Cycling Coach 327)](https://www.youtube.com/watch?v=o0S5iPm-hjs&t=360s)]) might also help rather than trying to consume it all **intra**-workout to prevent e.g. gastrointestinal problems (especially more likely at higher intensities).
+
 # [Legs are sore or feel great after a race](https://www.trainerroad.com/forum/t/legs-are-sore-or-feel-great-after-a-race/93134)
 1. Some things I can think of:
 	1. What Everman mentioned (they are more fatiguing e.g. faster-twitch muscle fibers (which also recover slower) as well as using up more glycogen + how close you were to task failure (per effort))
