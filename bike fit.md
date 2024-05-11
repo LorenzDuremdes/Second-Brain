@@ -10,12 +10,12 @@
 
 ^260392
 
-1. what does the Retül software see during incorrect saddle height?^[Cutting-Edge Cycling, p. 200]
+1. [How To Know When Your Saddle Is Too Far Forward, Road Cycling Academy](https://www.youtube.com/watch?v=i1TQcOC1VLM)
+2. what does the Retül software see during incorrect saddle height?^[Cutting-Edge Cycling, p. 200]
 	1. too high saddle = plantar flexion
 		too low saddle = dorsiflexion
 2. Serotta's first saddle iteration
 	1. saddle selection (contact points)^[Cutting-Edge Cycling, p. 205]
-3. 
 
 ## [[physiology]]
 1. too forward saddle → downward force duration^[https://youtu.be/aOkM0-ugwjI?t=90]
@@ -32,8 +32,9 @@
 	1. 4–6 degrees^[Cutting-Edge Cycling, p. 200]
 2. We teach fitters that [[knee]] tracking problems often originate in the hip, not the [[foot]].^[Cutting-Edge Cycling, p. 200]
 	1. For inversion or eversion, we advocate using varus heel wedges to correct for overpronated feet only.
-3. midfoot cleats position → hip angle^[[https://www.youtube.com/watch?v=t7oGuel--Lc](https://www.youtube.com/watch?v=t7oGuel--Lc)]
+3. midfoot cleats position → hip angle^[[Ride with More Speed & Comfort (with a Midfoot Cleat Position?)](https://www.youtube.com/watch?v=t7oGuel--Lc)]
 	1. might increase hip angle (like getting shorter cranks)
+	2. doesn't reduce power at threshold efforts^[[Want More Power? (Two Cleat Positions to Respect!)](https://youtu.be/OPASHllkqJM?si=uHLl56zgfO-FUhma&t=630)]
 
 # [[knee]]
 1. optimal [[knee]] angle (BikeFit)
