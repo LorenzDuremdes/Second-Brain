@@ -27,6 +27,8 @@
 ## [[physiology]]
 1. muscle fiber type dominance → tapering (sports)
 	1. ‘Dani’s a fast-twitch type 2 rider, Wendy much more slow-twitch. Dani’s always going to see a much bigger rebound during the taper,’ I was told. In other words, the more sprint-orientated a rider, the more they can expect to gain during the last days.^[Faster - The Obsession, Science and Luck Behind the World's Fastest Cyclists (by Michael Hutchinson), p. 96]
+2. [[men]] vs. [[women]] → tapering (sports) length
+	1. A curiosity of the taper is that it affects [[men]] and [[women]] differently. [[Women]] lose form much more quickly when they stop training – quite why no one seems to know. I’ve heard suggestions ranging from ‘smaller quantities of free [[testosterone]]’, to the idea that [[men]] are physiologically (and not, I was told in no uncertain terms, psychologically) able to train harder, so it takes them longer to recover, during which [[time]] they keep improving. Whatever the reason, the upshot of it is that [[women]] athletes have a shorter taper period.^[Faster - The Obsession, Science and Luck Behind the World's Fastest Cyclists (by Michael Hutchinson), p. 96]
 
 # related
 1. [[physical fitness]]
