@@ -3,6 +3,7 @@
 	2. fitness ≠ form
 
 # endurance
+## [[sports science (cycling)]]
 1. how much does a taper increase performance?
 	1. results for overall effects on TT performance showed a significant improvement between pre- and post-tapering (SMD, −0.45; 95% CI, −0.68 to −0.23; P < 0.05; Fig 2)
 	   
@@ -22,6 +23,10 @@
 	   although further future exploration of the interactions between changes in training frequency, intensity, and volume remains necessary, the above results showed that **training frequency maintenance during tapering could effectively promote improvement in sports performance**, especially in endurance events that are highly dependent on technology and high technical proficiency
 4. short vs. long tapering (sports) preference + why
 	1. short in conjunction with Dr. Andrew Coggan's training philosophy ([Overload and Overtraining (sdsu.edu)](https://coachsci.sdsu.edu/csa/vol13/rushall7.htm))^[[Overload and Overtraining (timetriallingforum.co.uk)](https://www.timetriallingforum.co.uk/index.php?/topic/136241-recovery-weekadaption/&do=findComment&comment=1866699)]
+
+## [[physiology]]
+1. muscle fiber type dominance → tapering (sports)
+	1. ‘Dani’s a fast-twitch type 2 rider, Wendy much more slow-twitch. Dani’s always going to see a much bigger rebound during the taper,’ I was told. In other words, the more sprint-orientated a rider, the more they can expect to gain during the last days.^[Faster - The Obsession, Science and Luck Behind the World's Fastest Cyclists (by Michael Hutchinson), p. 96]
 
 # related
 1. [[physical fitness]]
