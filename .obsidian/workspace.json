@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tapering (sports).md",
+                "file": "warming-up.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "tapering (sports).md",
+                "file": "warming-up.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tapering",
+                "query": "vasodilation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tapering (sports).md",
+                "file": "warming-up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tapering (sports).md",
+                "file": "warming-up.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tapering (sports).md"
+                "file": "warming-up.md"
               }
             }
           },
@@ -182,6 +183,9 @@
   },
   "active": "4aa1f1293e1f4b97",
   "lastOpenFiles": [
+    "vasodilation.md",
+    "warming-up.md",
+    "tapering (sports).md",
     "TrainerRoad (forum).md",
     "bike fit.md",
     "exercise-associated muscle cramps.md",
@@ -193,7 +197,6 @@
     "lactate threshold.md",
     "maintenance volume (sports science).md",
     "aerodynamics (road cycling).md",
-    "tapering (sports).md",
     "sports science.md",
     "grwoolf, chronic training load, TrainerRoad.png",
     "team time trial.md",
@@ -209,8 +212,6 @@
     "animal.md",
     "morningness-eveningness questionnaire.md",
     "photoperiodism.md",
-    "scotobiology.md",
-    "cycling economy.md",
     "Figure 10.5 Phases of muscular activity throughout the crank cycle.webp",
     "TOOT Ashaa RR 3D printe stainless steel ultra narrow aero road racing handlebar, Lezica-up-close.jpg",
     "Aero position TT bike.webp",
