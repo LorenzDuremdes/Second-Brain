@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TrainerRoad (forum).md",
+                "file": "progressive overload.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TrainerRoad (forum).md",
+                "file": "progressive overload.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vasodilation",
+                "query": "progressive overload",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TrainerRoad (forum).md",
+                "file": "progressive overload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TrainerRoad (forum).md",
+                "file": "progressive overload.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TrainerRoad (forum).md"
+                "file": "progressive overload.md"
               }
             }
           },
@@ -180,8 +180,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f4e3e48c327ec8f8",
+  "active": "4c7c506bcb1fd0b8",
   "lastOpenFiles": [
+    "Sweet Spot Progression (WindWarrior, TrainerRoad).png",
+    "TrainerRoad (forum).md",
     "custard.md",
     "gelatin.md",
     "corn starch.md",
@@ -192,7 +194,6 @@
     "warming-up.md",
     "vasodilation.md",
     "tapering (sports).md",
-    "TrainerRoad (forum).md",
     "bike fit.md",
     "exercise-associated muscle cramps.md",
     "chronic training load.md",
@@ -210,7 +211,6 @@
     "drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider.jpg",
     "drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider.png",
     "drag coefficient.md",
-    "watts per CdA.md",
     "Figure 10.5 Phases of muscular activity throughout the crank cycle.webp",
     "TOOT Ashaa RR 3D printe stainless steel ultra narrow aero road racing handlebar, Lezica-up-close.jpg",
     "Aero position TT bike.webp",
