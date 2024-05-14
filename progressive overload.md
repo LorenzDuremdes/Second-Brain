@@ -19,6 +19,6 @@
 1. "[[maximum recoverable volume]]" is related to "product optimalism"
 
   
-	"overload (sports science)" is related to "process optimalism"
+	"overload ([[sports science]])" is related to "process optimalism"
 	
 	1. the latter is a % of the former
