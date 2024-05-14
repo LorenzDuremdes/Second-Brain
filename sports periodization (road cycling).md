@@ -15,6 +15,11 @@
 		3. possible algorithm: additive increase / partial multiplicative decrease? e.g. 10 > 20 > 40 > 20 > 30 > 40 > 30 > 35 (in this case, 35 might be sustainable > progress CTL further)
 		   
 		   or: 10 > 20 > 40 > 20 > 30 > 40 > 30 > 25 (in this case 30 was also too high (for now))
+3. how can you know (autoregulation) when an increase in fatigue is unsustainable (reduces CTL) long-term _beforehand_? (Dr. Andrew Coggan and Rushall's training philosophy)
+	1. if you are unable to complete a workout in such a way that you can't compensate the TSS later on either
+		1. a little (short-term) fatigue (from previous session(s)) might not be bad as long as it doesn't hinder CTL e.g. [[block training]]
+			1. i.e. sometimes you just have to continue a little longer (e.g. days) and see what the workouts do rather than being scared of '[[overtraining]]'  
+	2. you can estimate this e.g. when a (or the same) workout becomes more difficult to finish over time → only sustainable short-term
 # [[microcycle]]
 1. when could "drop sets" not be as beneficial? ([[road cycling]])
 	1. when the [[goal]] is something associated with metabolic waste e.g. [[lactate]]

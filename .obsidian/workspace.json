@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "progressive overload.md",
+                "file": "sports periodization (road cycling).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "progressive overload.md",
+                "file": "sports periodization (road cycling).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "progressive overload",
+                "query": "rushall",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "progressive overload.md",
+                "file": "sports periodization (road cycling).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "progressive overload.md",
+                "file": "sports periodization (road cycling).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "progressive overload.md"
+                "file": "sports periodization (road cycling).md"
               }
             }
           },
@@ -180,8 +181,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4c7c506bcb1fd0b8",
+  "active": "f4e3e48c327ec8f8",
   "lastOpenFiles": [
+    "institutionalized overtraining.md",
+    "progressive overload.md",
     "Sweet Spot Progression (WindWarrior, TrainerRoad).png",
     "TrainerRoad (forum).md",
     "custard.md",
@@ -210,13 +213,11 @@
     "drafting (aerodynamics).md",
     "drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider.jpg",
     "drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider.png",
-    "drag coefficient.md",
     "Figure 10.5 Phases of muscular activity throughout the crank cycle.webp",
     "TOOT Ashaa RR 3D printe stainless steel ultra narrow aero road racing handlebar, Lezica-up-close.jpg",
     "Aero position TT bike.webp",
     "Aero position Victor Campenaerts.jpg",
     "TT position Remco Evenepoel.jpg",
-    "TT position.jpeg",
-    "VeloVetta TT position.png"
+    "TT position.jpeg"
   ]
 }
