@@ -61,6 +61,32 @@ So even going with the highest value that’s sustainable/safe long-term (+10 TS
 
 You have plenty of time until the race in September/October. Adding another 2-hour Z2 every month and in August you already increased your CTL with those Z2 rides with ~42 (3x97 TSS Z2), which can be a lot depending on where you currently are + the TrainerRoad plan probably also ramps up over time.
 
+I would look at how much the TR plan itself already ramps up with (and add whatever you think might be realistic).
+
+Whether it’s realistic, depends on your training history (e.g. if this CTL of 60 is relatively low compared to your all-time high, this could add to the feasibility). I see you were able to hold somewhere around ~600 TSS for multiple weeks in a row (~86 CTL), but with a relatively large dip somewhere in February 2024, although the CTL seems to double once again from ~43 in a matter of ~2 months.
+
+So it would somewhat have to be a steady line upward to get it to ~100 CTL in 4–5 months (e.g. keeping volume relatively high with low intensity during recovery days/weeks).
+
+The following could be a picture of how it would look like once you have ramped up to somewhere at 100 CTL (to help gauge whether you think it’s feasible to work toward something like this or not).
+
+If you try to keep the recovery days/week at ~66 TSS/day=462 TSS/week = 154 TSS M/W/F = 3x3h@70% IF (or however much TSS you personally like to do, I provided the formula below).
+
+With the overloading weeks (e.g. 4 out of 5) being at (using the formula to calculate the weighted average):
+
+((66 CTL · (1/5)) + (x · (4/5))) = 100 gives x=108.5 TSS/day on overloading weeks (or 253 TSS on M/W/F). If you have longer or shorter overloading weeks, replace “1/5” and “4/5” e.g. if you have 3 weeks (21 days) overloading with 3 days of rest, it would be "((66 CTL · (3/24)) + (x · (21/24))) = 100 gives x≈105 TSS on overloading weeks. Same with the other numbers (I like to keep my rest days/recovery week above ~66% of the volume on overloading weeks).
+
+So you would have to subtract the TSS of the TR plan on M/W/F and do the remaining in whatever style you like (e.g. Z2). E.g. if the TR plan has a workout of ~100 TSS, you still need to do another 253-100=153 TSS on that same day (which can be a lot, as that’s still ~3h@70% IF).
+
+Another way to look at it: you currently do (with 60 CTL) a workout on M/W/F somewhat _equivalent_ to 3x3h@70% IF (3x146 TSS). To get to 100 CTL, it would be 3x~5h@70% IF (3x243 TSS).
+
+If your nutrition (or other things) is currently subpar, improving them could also add to the feasibility.
+
+**Source**: [Rethinking the 60% Carbohydrates Rule (trainingpeaks.com)](https://www.trainingpeaks.com/blog/rethinking-the-60-percent-rule/)
+
+Adding those 2-hour zone 2 rides at ~70% IF slowly over the course of the months (+42 CTL on its own) together with the TR plan ramping up as well, would I guess bring you to ~100 CTL (to actually end up with 100 CTL, you need to shoot a bit above your target as CTL is a 42-day weighted average, so these extra 2-hour Z2 rides together with the TR plan ramping up might do it).
+
+It’s perhaps theoretically doable, but just barely (while having everything optimized as well).
+
 # [I just can't find the energy blocks in my schedule for weight training](https://www.trainerroad.com/forum/t/i-just-cant-find-the-energy-blocks-in-my-schedule-for-weight-training/92500)
 1. To add on to this thread, I personally like to follow Dr. Mike Israetel’s guidelines (or volume landmarks): Training Volume Landmarks for Muscle Growth – RP Strength (this article also mentions how you can find your own volume landmarks).
 
