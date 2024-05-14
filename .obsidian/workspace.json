@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "endurance training.md",
+                "file": "recovery (road cycling).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "endurance training.md",
+                "file": "recovery (road cycling).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "endurance",
+                "query": "recovery",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "endurance training.md",
+                "file": "recovery (road cycling).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "endurance training.md",
+                "file": "recovery (road cycling).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "endurance training.md"
+                "file": "recovery (road cycling).md"
               }
             }
           },
@@ -183,6 +183,9 @@
   },
   "active": "f4e3e48c327ec8f8",
   "lastOpenFiles": [
+    "road cycling.md",
+    "recovery (road cycling).md",
+    "endurance training.md",
     "active recovery.md",
     "sports periodization (road cycling).md",
     "institutionalized overtraining.md",
@@ -207,9 +210,6 @@
     "blood flow restriction training.md",
     "GW501516.md",
     "lactate threshold.md",
-    "maintenance volume (sports science).md",
-    "aerodynamics (road cycling).md",
-    "sports science.md",
     "grwoolf, chronic training load, TrainerRoad.png",
     "drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider.jpg",
     "drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider.png",

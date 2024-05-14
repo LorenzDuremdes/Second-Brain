@@ -39,6 +39,10 @@
 1. should you do a session consisting of Z5 and Z6 intervals (road cycling)? + why^[https://www.trainerroad.com/blog/cycling-power-zones-training-zones-explained/]
 	1. probably not due to them not being synergistic e.g. being too tired to do proper Z6 intervals or not getting enough sets (MEV)
 
+### [[biochemistry]]
+1. [[protein]] intra-endurance workout → central fatigue
+	1. BCAA consumption during endurance exercise may improve [[time trial]] performance and peak power output while improving markers of immune health (45) and attenuate [[serotonin]] levels, subsequently resulting in a delay of central fatigue (46)^[[Effects of Protein Supplementation on Performance and Recovery in Resistance and Endurance Training - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6142015/)]
+
 ## [[microcycle]]
 1. how could a zone 2 workout not increase fatigue too much despite having a hard session (≥zone 3) previous day?
 	1. due to mostly stimulating slower-twitch muscle fibers (which recover more quickly)?
