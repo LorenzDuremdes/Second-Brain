@@ -9,7 +9,7 @@
 
 ## [[biochemistry]]
 1. why perhaps not do ~30m active recovery immediately after a workout (rather than hours after e.g. after dinner) with 70 g [[sucrose]]?
-	1. the proteins might be more important after workout (30m earlier) e.g. anabolism
+	1. the proteins might be more important after workout (30m earlier) e.g. [[mitochondrial biogenesis]]
 	2. preventing [[reactive hypoglycemia]] after dinner (and enabling more [[carbohydrate]] intake (without e.g. [[reactive hypoglycemia]]))
 		1. the active recovery sessions are more meant to enable more [[carbohydrate]] intake without reducing anabolism after workout or increase fatigue
 
