@@ -1,2 +1,2 @@
 1. multipotency; describes progenitor [[cell|cells]] which have the [[gene]] activation potential to [[celullar differentiation|differentiate]] into discrete cell types
-	1. For example, a multipotent [[blood]] stem cell —and this cell type can differentiate itself into several types of blood cell like [[lymphocyte|lymphocytes]], monocytes, neutrophils, etc.
+	1. For example, a multipotent [[blood]] stem cell —and this cell type can differentiate itself into several types of [[blood cell]] like [[lymphocyte|lymphocytes]], monocytes, neutrophils, etc.

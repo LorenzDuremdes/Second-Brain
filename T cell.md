@@ -1,3 +1,3 @@
 1. T cell; a type of lymphocyte. T cells can be easily distinguished from other lymphocytes by the presence of a T-cell receptor (TCR) on their cell surface
-2. **Scanning electron micrograph of a red blood cell (left), a platelet (center), and a T lymphocyte (right)**^[By Electron Microscopy Facility at The National Cancer Institute at Frederick (NCI-Frederick) - [1], Public Domain, https://commons.wikimedia.org/w/index.php?curid=407197]
+2. **Scanning electron micrograph of a red [[blood cell]] (left), a platelet (center), and a T lymphocyte (right)**^[By Electron Microscopy Facility at The National Cancer Institute at Frederick (NCI-Frederick) - [1], Public Domain, https://commons.wikimedia.org/w/index.php?curid=407197]
 	1. ![image](https://upload.wikimedia.org/wikipedia/commons/2/24/Red_White_Blood_cells.jpg)

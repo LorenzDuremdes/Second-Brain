@@ -1,0 +1,1 @@
+1. [[blood]] [[plasma]]; a light amber-colored [[liquid]] component of [[blood]] in which [[blood cell|blood cells]] are absent, but which contains proteins and other constituents of whole [[blood]] in suspension^[https://en.wikipedia.org/wiki/Blood_plasma]
