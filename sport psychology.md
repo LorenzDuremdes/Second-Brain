@@ -8,3 +8,5 @@
 	2. [[altercasting]]
 2. scarcity / fear of isolation
 3. internal locus of control
+4. being able to eat a lot of [[food]]
+	1. ‘Have you noticed,’ said one rider, ‘how many pro-rider tweets and blogs and the like are concerned with [[food]]?’ Good point. The word ‘cake’ occurs almost as often as the word ‘bike’. ‘Most of them get through the long rides by bargaining with themselves about the cake at the cafe stop and what they’ll have for dinner.’ Calories out, calories in. The further you ride, the more you can eat. If you get it right you can eat like a black hole and still end up with the [[physiology]] of a hatstand. You can turn chocolate into gold.^[Faster - The Obsession, Science and Luck Behind the World's Fastest Cyclists (by Michael Hutchinson), p. 108]
