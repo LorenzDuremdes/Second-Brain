@@ -21,7 +21,7 @@
 ### glutes
 1. lunges^[https://youtu.be/9UKRwMxjPbQ?t=451]
 
-# concurrent training with [[road cycling]]
+# [[concurrent training]] with [[road cycling]]
 1. The weight training exercises to include in your program will largely depend on your current levels of physical function, injury history, technical proficiency, medical history, age, training history, goals, and training phase. Though to get your imagination going, in cycling research, the exercises I primarily see getting used include the following strength, power, and core exercises1,3–5,14,17^[[Weight Training for Cyclists (everything you need to know) - Road Cycling Academy](https://roadcyclingacademy.com/weight-training-for-cyclists/#What_weight_training_exercises_should_I_do_7)]:
 
 **Lower-body strength prescriptions**
