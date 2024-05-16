@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "55f9bb8a2c19e717",
+            "id": "ad5da63426061402",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "concurrent training.md",
+                "file": "glucose.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "concurrent training.md",
+                "file": "glucose.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "concurrent",
+                "query": "glucose",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "concurrent training.md",
+                "file": "glucose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "concurrent training.md",
+                "file": "glucose.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "concurrent training.md"
+                "file": "glucose.md"
               }
             }
           },
@@ -161,7 +161,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,10 +180,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "55f9bb8a2c19e717",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "performance-enhancing substance.md",
     "concurrent training.md",
+    "glucose.md",
+    "performance-enhancing substance.md",
     "sport psychology.md",
     "growth mindset.md",
     "blood plasma.md",
@@ -207,7 +209,6 @@
     "vasodilation.md",
     "tapering (sports).md",
     "bike fit.md",
-    "exercise-associated muscle cramps.md",
     "grwoolf, chronic training load, TrainerRoad.png",
     "drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider.jpg",
     "drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider.png",

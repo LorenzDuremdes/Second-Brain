@@ -12,7 +12,7 @@
 
 # intra-workout
 1. max carbohydrates per hour (under research) ≈ 140g/hour^[https://www.trainerroad.com/forum/t/140g-carbs-per-hour/51650/]
-	1. 1:1 glucose-fructose ratio
+	1. 1:1 [[glucose]]-fructose ratio
 2. _Figure 1: Relationship between the drop in CP/"Threshold" power as a result of different levels of [[carbohydrate]] intake. Note that the drop is both steeper and deeper with decreasing [[carbohydrate]] intake._
 ![image](https://cdn.shopify.com/s/files/1/0537/6311/3136/files/OTS_power_decline_1024x1024.png?v=1649683696)
 ## anecdotes
@@ -22,4 +22,4 @@
 1. optimal timing of pre-workout nutrition^[https://youtu.be/o0S5iPm-hjs?t=360, TrainerRoad]
 	1. either ~15 minutes before working out or ~45 minutes
 		1. why not in between?^[https://youtu.be/o0S5iPm-hjs?t=360, TrainerRoad]
-			1. because that's when a drop happens in [[blood]] glucose levels
+			1. because that's when a drop happens in [[blood]] [[glucose]] levels
