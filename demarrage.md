@@ -1,0 +1,1 @@
+1. demarrage; een plotse versnelling van een of meerdere coureurs, om een voorsprong te krijgen op de groep, vaak het peloton, waaruit men wegrijdt^[https://nl.wikipedia.org/wiki/Demarrage]

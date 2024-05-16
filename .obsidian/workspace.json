@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad5da63426061402",
+            "id": "8379bb5852750caa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafting (aerodynamics).md",
+                "file": "demarrage.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "drafting (aerodynamics).md",
+                "file": "demarrage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drafting (aerodynamics).md",
+                "file": "demarrage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "drafting (aerodynamics).md",
+                "file": "demarrage.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drafting (aerodynamics).md"
+                "file": "demarrage.md"
               }
             }
           },
@@ -181,8 +180,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ad5da63426061402",
+  "active": "8379bb5852750caa",
   "lastOpenFiles": [
+    "drafting (aerodynamics).md",
+    "demarrage.md",
     "glucose.md",
     "concurrent training.md",
     "performance-enhancing substance.md",
@@ -208,8 +209,6 @@
     "cheese.md",
     "warming-up.md",
     "vasodilation.md",
-    "tapering (sports).md",
-    "bike fit.md",
     "grwoolf, chronic training load, TrainerRoad.png",
     "drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider.jpg",
     "drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider.png",
