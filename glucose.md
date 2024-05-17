@@ -1,0 +1,3 @@
+1. how fast can glucose enter [[circulatory system]]?
+	1. After accounting for catheter dead space and assay noise, the mean [[time]] lag of tracer appearance in the interstitial space was 5.3–6.2 min. We conclude that in the overnight fasted state in healthy adults, the physiological delay of glucose transport from the vascular to the interstitial space is 5–6 min.^[[Time Lag of Glucose From Intravascular to Interstitial Compartment in Humans](https://diabetesjournals.org/diabetes/article/62/12/4083/33941/Time-Lag-of-Glucose-From-Intravascular-to)]
+	2. as early as 10 minutes^[[BLOOD SUGAR STUDIES by Joseph C. Bock, Hans Schneider, and Max Gilbert (May 7, 1926)](https://web.archive.org/web/20200322131856/https://www.jbc.org/content/69/1/9.full.pdf)]

@@ -15,6 +15,8 @@ for legal supplements, see: [[sports supplement]]
 	1. I kept a video diary during this period and one entry tells of a three-hour ride on a dark, cold night, when my legs were sore. It should have been deeply unpleasant, except it wasn't. By the end of the ride, when I should have been wasted, I was as fresh as a daisy. This was to be become a feature. By week eight, the changes were obvious. I was climbing big hills four hours into a ride as if they were not there.
 2. The problem is not unique to the sprints. With 13 women's world records in the Olympic track and field events still standing from the 1980s – all before the introduction of mandatory random [[drug]] testing in 1989 – some feel that a clean athlete will never be able to surpass those marks.^[https://www.theguardian.com/sport/blog/2009/aug/16/world-athletics-championships-records]
 	1. e.g. [[chlorodehydromethyltestosterone]]
+2. [Nootropics That Enhances Athletic Performance : r/Nootropics (reddit.com)](https://www.reddit.com/r/Nootropics/comments/akk63r/nootropics_that_enhances_athletic_performance/)
+	1. [Any nootropics that help with athletics? : r/Nootropics (reddit.com)](https://www.reddit.com/r/Nootropics/comments/3jd06u/any_nootropics_that_help_with_athletics/)
 
 # cycles
 ## endurance
