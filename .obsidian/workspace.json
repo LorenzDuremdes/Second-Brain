@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e66417ef163de8c7",
+            "id": "7d5d80dbf808bc2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "socioeconomic status.md",
+                "file": "Enschede (Nederland).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "socioeconomic status.md",
+                "file": "Enschede (Nederland).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "socioeconomic status.md",
+                "file": "Enschede (Nederland).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "socioeconomic status.md",
+                "file": "Enschede (Nederland).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "socioeconomic status.md"
+                "file": "Enschede (Nederland).md"
               }
             }
           },
@@ -180,10 +180,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e66417ef163de8c7",
+  "active": "7d5d80dbf808bc2c",
   "lastOpenFiles": [
-    "autisme en wonen.md",
     "socioeconomic status.md",
+    "Enschede (Nederland).md",
+    "autisme en wonen.md",
     "autisme, gehorigheid, wonen_2.jpeg",
     "autisme, gehorigheid, wonen.jpeg",
     "WhatsApp Image 2024-05-17 at 14.38.30_2 1.jpeg",
@@ -211,7 +212,6 @@
     "warming-up.md",
     "vasodilation.md",
     "tapering (sports).md",
-    "bike fit.md",
     "grwoolf, chronic training load, TrainerRoad.png",
     "drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider.jpg",
     "drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider.png",
