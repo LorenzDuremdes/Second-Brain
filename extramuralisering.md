@@ -1,0 +1,1 @@
+1. extramuralisering; het streven om buiten de muren van een intramurale instelling (waar iemand opgenomen wordt) gelijkwaardige zorg te bieden, bijvoorbeeld in de eigen woning (thuiszorg)^[https://nl.wikipedia.org/wiki/Extramuralisering]
