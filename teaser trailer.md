@@ -1,0 +1,1 @@
+1. [Diablo 4 Official Cinematic Release Date Trailer (youtube.com)](https://www.youtube.com/watch?v=Ro26B394ZBM)
