@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47b7492dd914f2f2",
+            "id": "11b93dd47208c85e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stadsvernieuwing.md",
+                "file": "buurteffecten.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "stadsvernieuwing.md",
+                "file": "buurteffecten.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stadsvernieuwing.md",
+                "file": "buurteffecten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stadsvernieuwing.md",
+                "file": "buurteffecten.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stadsvernieuwing.md"
+                "file": "buurteffecten.md"
               }
             }
           },
@@ -180,10 +180,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "47b7492dd914f2f2",
+  "active": "11b93dd47208c85e",
   "lastOpenFiles": [
-    "Stedelijke Vernieuwing.md",
+    "reputatie-effecten.md",
+    "buurteffecten.md",
+    "selectie-effecten.md",
     "stadsvernieuwing.md",
+    "Stedelijke Vernieuwing.md",
     "triumvirate.md",
     "Murphy's law.md",
     "bourgondisch (levenshouding).md",
@@ -208,10 +211,7 @@
     "active recovery.md",
     "sports periodization (road cycling).md",
     "institutionalized overtraining.md",
-    "progressive overload.md",
     "Sweet Spot Progression (WindWarrior, TrainerRoad).png",
-    "TrainerRoad (forum).md",
-    "custard.md",
     "grwoolf, chronic training load, TrainerRoad.png",
     "drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider.jpg",
     "drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider.png",

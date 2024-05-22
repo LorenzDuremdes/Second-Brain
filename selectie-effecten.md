@@ -1,0 +1,5 @@
+1. selectie-effecten; factoren die bepalen welke keuzes personen (moeten) maken om in een bepaalde buurt te wonen^[Sturen op gemengde wijken, PLATFORM31, p. 16]
+2. selectie-effecten → segregatie
+	1. Selectie-effecten komen echter niet volledig voort uit een echte vrije keuze. Zo beschikken huishoudens met veel financiële slagkracht over meer mogelijkheden om bijvoorbeeld de kwaliteit van de woonomgeving en het imago van de buurt mee te laten wegen in hun keuze. Voor huishoudens met een smalle portemonnee is de woningkeuze veel beperkter.
+	   
+	   Selectie-effecten zijn dus niet alleen afhankelijk van persoonlijke voorkeuren. Naast inkomen, kunnen ook andere factoren van invloed zijn, zoals de verdeling van de woningvoorraad over de stad en achterstelling door bijvoorbeeld het woonruimteverdeelsysteem of hypotheekverstrekking. Wanneer inkomensverschillen tussen huishoudens in toenemen, kan dit bijdragen aan de ruimtelijke uitsortering van bevolkingsgroepen. Selectie-effecten kunnen dus processen van segregatie versterken.^[Sturen op gemengde wijken, PLATFORM31, p. 17]

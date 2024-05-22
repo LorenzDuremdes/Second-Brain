@@ -13,5 +13,6 @@
   },
   "communityPluginSortOrder": "download",
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "spellcheck": false
 }
