@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fbf5ffdbb2e91589",
+            "id": "cfc43e16c36fef8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leefbaarheid.md",
+                "file": "sociale woningbouw.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "leefbaarheid.md",
+                "file": "sociale woningbouw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leefbaarheid.md",
+                "file": "sociale woningbouw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leefbaarheid.md",
+                "file": "sociale woningbouw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leefbaarheid.md"
+                "file": "sociale woningbouw.md"
               }
             }
           },
@@ -180,10 +180,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fbf5ffdbb2e91589",
+  "active": "cfc43e16c36fef8c",
   "lastOpenFiles": [
-    "buurteffecten.md",
     "leefbaarheid.md",
+    "sociale woningbouw.md",
+    "buurteffecten.md",
     "reputatie-effecten.md",
     "selectie-effecten.md",
     "stadsvernieuwing.md",
@@ -210,7 +211,6 @@
     "road cycling.md",
     "endurance training.md",
     "active recovery.md",
-    "sports periodization (road cycling).md",
     "Sweet Spot Progression (WindWarrior, TrainerRoad).png",
     "grwoolf, chronic training load, TrainerRoad.png",
     "drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider.jpg",
