@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "98f61c349caadfbf",
+            "id": "2296b476c63705ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bourgondisch (levenshouding).md",
+                "file": "Murphy's law.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "bourgondisch (levenshouding).md",
+                "file": "Murphy's law.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bourgondisch (levenshouding).md",
+                "file": "Murphy's law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bourgondisch (levenshouding).md",
+                "file": "Murphy's law.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bourgondisch (levenshouding).md"
+                "file": "Murphy's law.md"
               }
             }
           },
@@ -180,10 +180,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "98f61c349caadfbf",
+  "active": "2296b476c63705ef",
   "lastOpenFiles": [
-    "tussenwerpsel.md",
     "bourgondisch (levenshouding).md",
+    "Murphy's law.md",
+    "tussenwerpsel.md",
     "jamais vu.md",
     "teaser trailer.md",
     "extramuralisering.md",
@@ -211,7 +212,6 @@
     "gelatin.md",
     "corn starch.md",
     "flour.md",
-    "eggs as food.md",
     "grwoolf, chronic training load, TrainerRoad.png",
     "drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider.jpg",
     "drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider.png",
