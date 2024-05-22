@@ -1,0 +1,1 @@
+1. tussenwerpsel; een woordsoort dat een uitroep, een woord, een frase en soms een hele zin kan zijn die een expressie van emotie is^[https://nl.wiktionary.org/wiki/WikiWoordenboek:Tussenwerpsel]

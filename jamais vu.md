@@ -1,0 +1,1 @@
+1. *jamais vu* (never seen); the phenomenon of experiencing a situation that one recognizes in some fashion, but that nonetheless seems novel and unfamiliar^[https://en.wikipedia.org/wiki/Jamais_vu]
