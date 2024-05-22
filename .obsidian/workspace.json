@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2296b476c63705ef",
+            "id": "ed3d46c4a8381010",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Murphy's law.md",
+                "file": "triumvirate.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Murphy's law.md",
+                "file": "triumvirate.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Murphy's law.md",
+                "file": "triumvirate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Murphy's law.md",
+                "file": "triumvirate.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Murphy's law.md"
+                "file": "triumvirate.md"
               }
             }
           },
@@ -180,10 +180,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2296b476c63705ef",
+  "active": "ed3d46c4a8381010",
   "lastOpenFiles": [
-    "bourgondisch (levenshouding).md",
     "Murphy's law.md",
+    "triumvirate.md",
+    "bourgondisch (levenshouding).md",
     "tussenwerpsel.md",
     "jamais vu.md",
     "teaser trailer.md",
@@ -211,7 +212,6 @@
     "custard.md",
     "gelatin.md",
     "corn starch.md",
-    "flour.md",
     "grwoolf, chronic training load, TrainerRoad.png",
     "drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider.jpg",
     "drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider.png",

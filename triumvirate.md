@@ -1,0 +1,1 @@
+1. triumvirate; a political institution ruled or dominated by three individuals^[https://en.wikipedia.org/wiki/Triumvirate]
