@@ -1,0 +1,1 @@
+1. bourgondisch (levenshouding); wordt gebruikt als bijvoeglijk naamwoord om aan te geven dat er genoten wordt van het leven^[https://nl.wikipedia.org/wiki/Bourgondisch_(levenshouding)]
