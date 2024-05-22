@@ -1,6 +1,6 @@
 1. socioeconomic status; an economic and sociological combined total measure of a person's work experience and of an individual's or [[family]]'s access to economic resources and social position in relation to others.^[https://en.wikipedia.org/wiki/Socioeconomic_status#cite_note-1]^[https://en.wikipedia.org/wiki/Socioeconomic_status#cite_note-ReferenceA-2]
 
-# upper class
+# [[upper class]]
 ## [[personality]]
 ### appearance
 1. They look naturally healthy and fit.^[https://www.reddit.com/r/AskReddit/comments/1abur4l/comment/kjrsket/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button]
