@@ -3,7 +3,10 @@
 2. A significant influence of ambient temperature on MMP values was found in [[male and female]] cyclists (P < .001 for both), with no significant differences between sexes (P = .512). **Cyclists attained the highest MMP values at temperate conditions (10-30°C in males and 5-25°C in females)**, whereas an impairment in performance was found at colder and hotter temperatures, particularly for the more extreme conditions (performance impairment at <5°C and >35°C of -18% to -9% and -16% to -9%, respectively)^[[Ambient Temperature and Field-Based Cycling Performance: Insights From Male and Female Professional Cyclists](https://pubmed.ncbi.nlm.nih.gov/35338106/)]
    
    **Conclusions**: Ambient temperature influences field-based cycling performance, following a reverse U-shaped relationship, with the highest MMP values attained in the range of ∼10°C to 25°C and with no major differences between sexes.
-	1. cycling tolerance [[time]] at a constant hard effort was longest at 11°C, similarly reduced at 4 and 21°C, and further reduced at 31°C^[https://pezcyclingnews.com/toolbox/beat-the-heat-are-ice-vests-effective/]
+	1. **Exercise time improved significantly while wearing the ice-vest from 61 min and 29 s to 74 min and 14 s (+21.5%±7.6; p<0.05)**. Mean power frequency and amplitude of the EMG revealed decreased neuromuscular fatigue during ICE compared to CON. Ventilatory responses indicated a tendency towards lower ventilation, respiratory quotient was significantly lower and both thermal parameters and subjective sensations indicated lower thermal strain during ICE in comparison to CON.
+	   
+	   These results suggest that wearing an ice-vest during cycling in warm and humid conditions decreases thermal and physical strain, thereby improving cycling performance.^[[Adding a cooling vest during cycling improves performance in warm and humid conditions - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0306456511001471)]
+	2. cycling tolerance [[time]] at a constant hard effort was longest at 11°C, similarly reduced at 4 and 21°C, and further reduced at 31°C^[https://pezcyclingnews.com/toolbox/beat-the-heat-are-ice-vests-effective/]
 ![[Heart-Rate cooling vest.jpg]]
 ![[Tcore cooling vest.jpg]]
 2. can increase output
