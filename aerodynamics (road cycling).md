@@ -7,6 +7,8 @@
 2. [EZ Disc Cover (700c) - 10-15 Watt Saving – EZ Gains Ltd](https://ezgains.co.uk/products/disc-cover-700c-1) €213.95
 3. [EZ Aero Chainring Guard 3-5 Watt Saving – EZ Gains Ltd](https://ezgains.co.uk/products/ez-aero-chainring-cover-1) €123.95
 4. [EZ Aero Front Derailleur Guard save 2-5.8 Watts – EZ Gains Ltd](https://ezgains.co.uk/products/ez-aero-front-derailleur-guard-save-2-6-watts) €106.95
+5. [[cooling vest]]
+	1. cycling tolerance time at a constant hard effort was longest at 11°C, similarly reduced at 4 and 21°C, and further reduced at 31°C^[https://pezcyclingnews.com/toolbox/beat-the-heat-are-ice-vests-effective/]
 
 # shops (prioritized high-to-low gain)
 1. Aerobars [57.6 W](https://www.aero-coach.co.uk/clip-on-aerobars)
