@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "socioeconomic status.md",
+                "file": "sociale woningbouw.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "socioeconomic status.md",
+                "file": "sociale woningbouw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "socioeconomic status.md",
+                "file": "sociale woningbouw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "socioeconomic status.md",
+                "file": "sociale woningbouw.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "socioeconomic status.md"
+                "file": "sociale woningbouw.md"
               }
             }
           },
@@ -183,8 +182,8 @@
   },
   "active": "cfc43e16c36fef8c",
   "lastOpenFiles": [
-    "upper class.md",
     "socioeconomic status.md",
+    "upper class.md",
     "sociale woningbouw.md",
     "leefbaarheid.md",
     "buurteffecten.md",
