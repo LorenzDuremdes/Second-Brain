@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "peloton (road bicycle racing).md",
+                "file": "death pull (TTT).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "peloton (road bicycle racing).md",
+                "file": "death pull (TTT).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "peloton",
+                "query": "draft",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "peloton (road bicycle racing).md",
+                "file": "death pull (TTT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "peloton (road bicycle racing).md",
+                "file": "death pull (TTT).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "peloton (road bicycle racing).md"
+                "file": "death pull (TTT).md"
               }
             }
           },
@@ -181,8 +182,9 @@
   },
   "active": "4ac288fa14dcd777",
   "lastOpenFiles": [
-    "conservation of energy.md",
+    "drafting (aerodynamics).md",
     "peloton (road bicycle racing).md",
+    "conservation of energy.md",
     "Belgischer Kreisel.md",
     "BelgischerKreisel.gif",
     "death pull (TTT).md",
@@ -212,7 +214,6 @@
     "autisme, gehorigheid, wonen.jpeg",
     "WhatsApp Image 2024-05-17 at 14.38.30_2 1.jpeg",
     "two-level utilitarianism.md",
-    "sport psychology.md",
     "Sweet Spot Progression (WindWarrior, TrainerRoad).png",
     "grwoolf, chronic training load, TrainerRoad.png",
     "drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider.jpg",
