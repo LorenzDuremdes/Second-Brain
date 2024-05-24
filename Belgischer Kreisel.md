@@ -1,0 +1,1 @@
+1. https://de.wikipedia.org/wiki/Belgischer_Kreisel ![[BelgischerKreisel.gif]]

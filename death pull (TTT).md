@@ -1,0 +1,1 @@
+1. death pull (TTT); the riders take as hard a pull at the front as possible in order to resist the pace at the cost of exhausting themselves with no hope of being able to latch onto the back of the formation for drafting. They then drop back and leave the remainder of the team to finish the time trial^[https://en.wikipedia.org/wiki/Team_time_trial]
