@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "death pull (TTT).md",
+                "file": "excess post-exercise oxygen consumption.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "death pull (TTT).md",
+                "file": "excess post-exercise oxygen consumption.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "draft",
+                "query": "excess po",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "death pull (TTT).md",
+                "file": "excess post-exercise oxygen consumption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "death pull (TTT).md",
+                "file": "excess post-exercise oxygen consumption.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "death pull (TTT).md"
+                "file": "excess post-exercise oxygen consumption.md"
               }
             }
           },
@@ -182,12 +182,12 @@
   },
   "active": "4ac288fa14dcd777",
   "lastOpenFiles": [
+    "death pull (TTT).md",
     "drafting (aerodynamics).md",
     "peloton (road bicycle racing).md",
     "conservation of energy.md",
     "Belgischer Kreisel.md",
     "BelgischerKreisel.gif",
-    "death pull (TTT).md",
     "cooling vest.md",
     "Tcore cooling vest.jpg",
     "Heart-Rate cooling vest.jpg",
