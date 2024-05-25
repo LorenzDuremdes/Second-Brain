@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "normal weight obesity.md",
+                "file": "buurteffecten.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "normal weight obesity.md",
+                "file": "buurteffecten.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.5087618855792605,
+                  "scale": 1.3573465037742733,
                   "close": false
                 }
               }
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "excess po",
+                "query": "buurte",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "normal weight obesity.md",
+                "file": "buurteffecten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "normal weight obesity.md",
+                "file": "buurteffecten.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "normal weight obesity.md"
+                "file": "buurteffecten.md"
               }
             }
           },
@@ -181,9 +181,9 @@
   },
   "active": "57506772dc2a5b09",
   "lastOpenFiles": [
+    "normal weight obesity.md",
     "stability theory.md",
     "obesity.md",
-    "normal weight obesity.md",
     "body fat percentage.md",
     "excess post-exercise oxygen consumption.md",
     "death pull (TTT).md",
