@@ -1,3 +1,8 @@
 1. pre/intra-workout carbohydrates → EPOC
 	1. increasing the former (until maximum) reduces the latter?
 	2. **personal**: e.g. reduced [[heart rate]]
+2. intervals vs. continuous exercise → EPOC
+	1. the former might produce a higher EPOC (which can be beneficial e.g. reducing body [[fat]] further)
+	   
+	   **their interval group did produce a higher TSS**
+	   Nineteen healthy middle-age, who regularly not exercise trained in volunteered to participate in our study. The continuous exercise (CEx) was performed on a [[ergometer]] for 30 minutes at 60% of [[VO2 max|maximal oxygen consumption (VO2max)]], and the interval exercise (IEx) was performed on a [[ergometer]] with 80% VO2max for 2 minutes at the first [[time]], followed by, exercise with 40% VO2max for 1 minutes and with 80% VO2max for 3 minutes were repeatedly performed 6 times for a total of 26 minutes. All subjects were fully acquainted with the nature of the study and informed of the experimental risks before signing a written consent form to participate. It was explicitly stated to the subjects that they could withdraw from the study at any point. All of them fully explained their pre-test research and received voluntary consent.^[[Comparison of Interval vs Continuous Exercise on a Cycle ergometer on Excess Post‐exercise Oxygen Consumption in Middle‐age - Jung - 2020 - The FASEB Journal - Wiley Online Library](https://faseb.onlinelibrary.wiley.com/doi/10.1096/fasebj.2020.34.s1.03938)]

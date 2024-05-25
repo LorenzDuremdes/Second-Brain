@@ -1,0 +1,1 @@
+1. normal weight [[obesity]]; the condition of having normal body weight, but with a high [[body fat percentage]], leading to some of the same [[health]] risks as [[obesity]]^[https://en.wikipedia.org/wiki/Normal_weight_obesity]

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ac288fa14dcd777",
+            "id": "57506772dc2a5b09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "excess post-exercise oxygen consumption.md",
+                "file": "normal weight obesity.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "excess post-exercise oxygen consumption.md",
+                "file": "normal weight obesity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "excess post-exercise oxygen consumption.md",
+                "file": "normal weight obesity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "excess post-exercise oxygen consumption.md",
+                "file": "normal weight obesity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "excess post-exercise oxygen consumption.md"
+                "file": "normal weight obesity.md"
               }
             }
           },
@@ -180,8 +179,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4ac288fa14dcd777",
+  "active": "57506772dc2a5b09",
   "lastOpenFiles": [
+    "stability theory.md",
+    "obesity.md",
+    "normal weight obesity.md",
+    "body fat percentage.md",
+    "excess post-exercise oxygen consumption.md",
     "death pull (TTT).md",
     "drafting (aerodynamics).md",
     "peloton (road bicycle racing).md",
@@ -206,14 +210,9 @@
     "bourgondisch (levenshouding).md",
     "tussenwerpsel.md",
     "jamais vu.md",
-    "teaser trailer.md",
-    "extramuralisering.md",
-    "Enschede (Nederland).md",
-    "autisme en wonen.md",
     "autisme, gehorigheid, wonen_2.jpeg",
     "autisme, gehorigheid, wonen.jpeg",
     "WhatsApp Image 2024-05-17 at 14.38.30_2 1.jpeg",
-    "two-level utilitarianism.md",
     "Sweet Spot Progression (WindWarrior, TrainerRoad).png",
     "grwoolf, chronic training load, TrainerRoad.png",
     "drag of every rider in pacelines of 2 up to 9 riders, as a percentage of the drag of an isolated rider.jpg",
