@@ -1,0 +1,2 @@
+1. ventricular [[hypertrophy]]; thickening of the walls of a ventricle (lower chamber) of the [[heart]].^[https://en.wikipedia.org/wiki/Ventricular_hypertrophy]
+	1. these adaptations are related to how the cardiomyocyte contractile units, called sarcomeres, respond to stressors such as exercise or pathology
