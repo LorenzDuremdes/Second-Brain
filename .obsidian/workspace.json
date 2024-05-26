@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "glycogen threshold.md",
+                "file": "nutrition periodization.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "glycogen threshold.md",
+                "file": "nutrition periodization.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "glycogen threshold.md",
+                "file": "nutrition periodization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "glycogen threshold.md",
+                "file": "nutrition periodization.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "glycogen threshold.md"
+                "file": "nutrition periodization.md"
               }
             }
           },
@@ -182,8 +182,8 @@
   },
   "active": "ce86713e5aaec722",
   "lastOpenFiles": [
-    "nutrition periodization.md",
     "glycogen threshold.md",
+    "nutrition periodization.md",
     "ventricular hypertrophy.md",
     "cell signaling.md",
     "Table 3 Theoretical overview of the ‘fuel for the work required’ model.png",
