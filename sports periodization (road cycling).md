@@ -40,9 +40,7 @@
    
    Peak power (P(peak)), mean power (P(mean)), total work done, and .VO(2) increased significantly from morning to afternoon during the Wingate Test. As a consequence, aerobic contribution recorded during the test increased from morning to afternoon. However, no difference in [[blood]] [[lactate]] concentrations was observed from morning to afternoon. Furthermore, power decrease was greater in the morning than afternoon. Altogether, these results indicate that the [[time]]-of-day effect on performances during the Wingate test is mainly due to better aerobic participation in [[energy]] production during the test in the afternoon than in the morning.^[[Effect of time of day on aerobic contribution to the 30-s Wingate test performance - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/17701684/)]
 
-## twice-a-day training
-1. how could you incorporate [[glycogen threshold]] when training twice a day?
-	1. train-high in the morning (including post-workout [[carbohydrate]] consumption) > eat little in between > train-low in the afternoon (as more [[energy]] comes from [[fat]] as well in the afternoon) > consume lots of carbohydrates post-workout
+
 
 # related
 1. [[sports periodization]]
