@@ -5,6 +5,8 @@
 		2. +1 on this. Fueling during a ride is as much (or more) about the next ride and post ride meals as it is about the current ride. If riding even moderately hard, there is no way to keep up with calorie burn while on the bike, you are just trying to come off the bike with a smaller deficit.
 3. how do you personally like to periodize your nutrition + why
 	1. eat more on overload days and less on maintenance/recovery days rather than trying to match things on the same day to perhaps improve adaptations
+	2. even vs. 1 day deficit · 6 days surplus (nutrition periodization)
+		1. the latter might be more effective (especially when combining it with proper [[sports periodization]] e.g. ~70% FTP on day 1)?
 
 # related
 1. [[nutrient timing]]; this takes the periodization down to the level of hours and minutes^[[Understanding Nutrition Periodization (trainingpeaks.com)](https://www.trainingpeaks.com/blog/understanding-nutrition-periodization/)]
