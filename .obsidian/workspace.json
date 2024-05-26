@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nutrition periodization.md",
+                "file": "sports periodization (road cycling).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "nutrition periodization.md",
+                "file": "sports periodization (road cycling).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nutrition periodization",
+                "query": "sports periodization",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nutrition periodization.md",
+                "file": "sports periodization (road cycling).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nutrition periodization.md",
+                "file": "sports periodization (road cycling).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nutrition periodization.md"
+                "file": "sports periodization (road cycling).md"
               }
             }
           },
@@ -182,8 +183,10 @@
   },
   "active": "ce86713e5aaec722",
   "lastOpenFiles": [
-    "glycogen threshold.md",
+    "sports periodization.md",
+    "caffeine.md",
     "nutrition periodization.md",
+    "glycogen threshold.md",
     "ventricular hypertrophy.md",
     "cell signaling.md",
     "Table 3 Theoretical overview of the ‘fuel for the work required’ model.png",
@@ -210,8 +213,6 @@
     "upper class.md",
     "leefbaarheid.md",
     "reputatie-effecten.md",
-    "selectie-effecten.md",
-    "stadsvernieuwing.md",
     "autisme, gehorigheid, wonen_2.jpeg",
     "autisme, gehorigheid, wonen.jpeg",
     "WhatsApp Image 2024-05-17 at 14.38.30_2 1.jpeg",

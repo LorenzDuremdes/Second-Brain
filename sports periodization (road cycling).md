@@ -42,5 +42,10 @@
 1. [[time]]-crunched training program (deload [[microcycle]])
 	1. lower intensity while keeping volume the same rather than keeping intensity the same while dropping volume (to maintain fitness while allowing fatigue to drop)^[The [[Time]]-Crunched Cyclist: Race-Winning Fitness in 6 Hours a Week, 3rd Edition, p. 12]
 
+### timing of the day
+1. MFO, Fatmax and VO2max were significantly higher in the afternoon than in the morning (all P < 0.05). Compared to the placebo, [[caffeine]] increased mean MFO by 10.7% (0.28 ± 0.10 vs. 0.31 ± 0.09 g/min respectively, P < 0.001) in the morning, and by a mean 29.0% (0.31 ± 0.09 vs. 0.40 ± 0.10 g/min, P < 0.001) in the afternoon. [[Caffeine]] also increased mean Fatmax by 11.1% (36.9 ± 14.4 (placebo) vs. 41.0 ± 13.1%, P = 0.005) in the morning, and by 13.1% (42.0 ± 11.6 vs. 47.5 ± 10.8%, P = 0.008) in the afternoon.^[[Caffeine increases maximal fat oxidation during a graded exercise test: is there a diurnal variation? - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/33413459/)]
+   
+   Peak power (P(peak)), mean power (P(mean)), total work done, and .VO(2) increased significantly from morning to afternoon during the Wingate Test. As a consequence, aerobic contribution recorded during the test increased from morning to afternoon. However, no difference in [[blood]] [[lactate]] concentrations was observed from morning to afternoon. Furthermore, power decrease was greater in the morning than afternoon. Altogether, these results indicate that the [[time]]-of-day effect on performances during the Wingate test is mainly due to better aerobic participation in [[energy]] production during the test in the afternoon than in the morning.^[[Effect of time of day on aerobic contribution to the 30-s Wingate test performance - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/17701684/)]
+
 # related
 1. [[sports periodization]]
