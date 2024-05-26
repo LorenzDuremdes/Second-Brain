@@ -1,0 +1,2 @@
+# miscellaneous
+1. [Zijn mensen met een uitkering eigenlijk ook wel eens dankbaar voor ons sociale zekerheidsstelsel? : r/nederlands (reddit.com)](https://www.reddit.com/r/nederlands/comments/1d0wxsy/zijn_mensen_met_een_uitkering_eigenlijk_ook_wel/)
