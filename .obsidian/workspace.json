@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "muscle protein synthesis.md",
+                "file": "lactate threshold.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "muscle protein synthesis.md",
+                "file": "lactate threshold.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "muscle protein syn",
+                "query": "lactate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "muscle protein synthesis.md",
+                "file": "lactate threshold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "muscle protein synthesis.md",
+                "file": "lactate threshold.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "muscle protein synthesis.md"
+                "file": "lactate threshold.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "ce86713e5aaec722",
   "lastOpenFiles": [
+    "muscle protein synthesis.md",
     "nutrition periodization.md",
     "glycogen threshold.md",
     "sports periodization (road cycling).md",
@@ -212,7 +213,6 @@
     "sociale woningbouw.md",
     "socioeconomic status.md",
     "upper class.md",
-    "leefbaarheid.md",
     "autisme, gehorigheid, wonen_2.jpeg",
     "autisme, gehorigheid, wonen.jpeg",
     "WhatsApp Image 2024-05-17 at 14.38.30_2 1.jpeg",
