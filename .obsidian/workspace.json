@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -181,12 +180,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ce86713e5aaec722",
+  "active": "064dd5af93373ca8",
   "lastOpenFiles": [
+    "glycogen threshold.md",
+    "sports periodization (road cycling).md",
     "sports periodization.md",
     "caffeine.md",
     "nutrition periodization.md",
-    "glycogen threshold.md",
     "ventricular hypertrophy.md",
     "cell signaling.md",
     "Table 3 Theoretical overview of the ‘fuel for the work required’ model.png",
@@ -212,7 +212,6 @@
     "socioeconomic status.md",
     "upper class.md",
     "leefbaarheid.md",
-    "reputatie-effecten.md",
     "autisme, gehorigheid, wonen_2.jpeg",
     "autisme, gehorigheid, wonen.jpeg",
     "WhatsApp Image 2024-05-17 at 14.38.30_2 1.jpeg",

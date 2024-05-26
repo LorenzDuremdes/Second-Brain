@@ -2,11 +2,11 @@
 # Dr. Andrew Coggan's / Dr. Brent S. Rushall's training philosophy^[https://www.timetriallingforum.co.uk/index.php?/topic/136241-recovery-weekadaption/&do=findComment&comment=1866909]
 1. [Overload and Overtraining (sdsu.edu)](https://coachsci.sdsu.edu/csa/vol13/rushall7.htm)
 	1. He does not allow his swimmers to ever lose [[conditioning]]. There are no days off for recovery.
-	   - During the winter he does not like his swimmers to enter many competitions. If there are too many races, then swimmers do not get the opportunity to "set up" properly for racing," which he implied, is an important skill and set of procedures.
+	   - During the [[winter]] he does not like his swimmers to enter many competitions. If there are too many races, then swimmers do not get the opportunity to "set up" properly for racing," which he implied, is an important skill and set of procedures.
 	   - Coach Troy's programs are long-term oriented. He wants his swimmers to compete well on only a few identified occasions. He stressed that it is of no value to sacrifice training for lesser level competitions.
 	   - Any recovery that occurs is done on an individual basis. There is no planned "team" recovery period.
 	   - During a taper or period of rest, Coach Troy and the athlete work together to determine the most successful course of training. He cited the example of how little work Greg Burgess does in the last week of a taper and yet he still performs well in races.
-	2. This is not a "survival of the fittest" program for it is remarkable how many young men are able to adapt to the increased volume of high quality work, something which they have never before experienced.
+	2. This is not a "survival of the fittest" program for it is remarkable how many young [[men]] are able to adapt to the increased volume of high quality work, something which they have never before experienced.
 	3. He attempts to program training sessions which avoid excessive debilitating fatigue. Instead of falling into the traditional pattern of training early and late in the day with long sessions, he ensures opportunities for his rowers to get adequate night and between-practice-sessions rest. Recognizing that in a two-hour practice session it is usually the last half-hour that is of the worst quality but the greatest fatigue, he often programs three practice sessions a day, each being approximately one and a half hours. The detrimental latter portion fatigue of the two-hour practice is avoided, the less stressful shorter practices require less recovery between sessions, and so a greater volume of adaptive and quality training is performed each day and across the particular training phase.
 2. what should you perhaps do if unable to finish a workout session?
 	1. stop it as early as predictable/possible > rest/recover next day > try to continue again the day after > re-adjust workout/programming if still unable to complete
@@ -19,7 +19,7 @@
 	1. if you are unable to complete a workout in such a way that you can't compensate the TSS later on either
 		1. a little (short-term) fatigue (from previous session(s)) might not be bad as long as it doesn't hinder CTL e.g. [[block training]]
 			1. i.e. sometimes you just have to continue a little longer (e.g. days) and see what the workouts do rather than being scared of '[[overtraining]]'  
-	2. you can estimate this e.g. when a (or the same) workout becomes more difficult to finish over time → only sustainable short-term
+	2. you can estimate this e.g. when a (or the same) workout becomes more difficult to finish over [[time]] → only sustainable short-term
 # [[microcycle]]
 1. when could "drop sets" not be as beneficial? ([[road cycling]])
 	1. when the [[goal]] is something associated with metabolic waste e.g. [[lactate]]
@@ -35,17 +35,14 @@
 	1. work (calories burned · efficiency), because it much more closely reflects work/[[stress]] e.g. a hilly terrain requires more work despite same distance/[[time]]
 		1. efficiency ≈ 20–25% of calories burned
 
-# [[The Time-Crunched Cyclist — Race-Winning Fitness in 6 Hours a Week, 3rd Edition]]
-# [[mesocycle]]
-## [[microcycle]]
-### deload
-1. [[time]]-crunched training program (deload [[microcycle]])
-	1. lower intensity while keeping volume the same rather than keeping intensity the same while dropping volume (to maintain fitness while allowing fatigue to drop)^[The [[Time]]-Crunched Cyclist: Race-Winning Fitness in 6 Hours a Week, 3rd Edition, p. 12]
-
-### timing of the day
+## timing of the day
 1. MFO, Fatmax and VO2max were significantly higher in the afternoon than in the morning (all P < 0.05). Compared to the placebo, [[caffeine]] increased mean MFO by 10.7% (0.28 ± 0.10 vs. 0.31 ± 0.09 g/min respectively, P < 0.001) in the morning, and by a mean 29.0% (0.31 ± 0.09 vs. 0.40 ± 0.10 g/min, P < 0.001) in the afternoon. [[Caffeine]] also increased mean Fatmax by 11.1% (36.9 ± 14.4 (placebo) vs. 41.0 ± 13.1%, P = 0.005) in the morning, and by 13.1% (42.0 ± 11.6 vs. 47.5 ± 10.8%, P = 0.008) in the afternoon.^[[Caffeine increases maximal fat oxidation during a graded exercise test: is there a diurnal variation? - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/33413459/)]
    
    Peak power (P(peak)), mean power (P(mean)), total work done, and .VO(2) increased significantly from morning to afternoon during the Wingate Test. As a consequence, aerobic contribution recorded during the test increased from morning to afternoon. However, no difference in [[blood]] [[lactate]] concentrations was observed from morning to afternoon. Furthermore, power decrease was greater in the morning than afternoon. Altogether, these results indicate that the [[time]]-of-day effect on performances during the Wingate test is mainly due to better aerobic participation in [[energy]] production during the test in the afternoon than in the morning.^[[Effect of time of day on aerobic contribution to the 30-s Wingate test performance - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/17701684/)]
+
+## twice-a-day training
+1. how could you incorporate [[glycogen threshold]] when training twice a day?
+	1. train-high in the morning (including post-workout [[carbohydrate]] consumption) > eat little in between > train-low in the afternoon (as more [[energy]] comes from [[fat]] as well in the afternoon) > consume lots of carbohydrates post-workout
 
 # related
 1. [[sports periodization]]

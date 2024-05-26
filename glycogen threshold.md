@@ -1,3 +1,5 @@
+for practical applications: [[sports periodization (road cycling)]]
+
 1. [[glycogen]] threshold; a critical absolute level of [[glycogen]] depletion must be induced for significant activation of [[cell signaling|cell signalling]] pathways to occur on the proviso, of course, that the desired training workload and intensity can be completed without any maladaptations^[[Fuel for the Work Required: A Theoretical Framework for Carbohydrate Periodization and the Glycogen Threshold Hypothesis | Sports Medicine (springer.com)](https://link.springer.com/article/10.1007/s40279-018-0867-7#Sec8)]
 2. it is noteworthy that such adaptations are likely regulated via CHO restriction as opposed to true fasted conditions. Indeed, **consuming approximately 20 g of whey [[protein]] before and during CHO-restricted training sessions** still permits mobilization of FFAs and activation of the AMPK signalling axis, while also improving net muscle [[protein]] balance.
    
