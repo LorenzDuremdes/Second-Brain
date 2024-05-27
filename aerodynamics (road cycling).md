@@ -15,6 +15,7 @@
 2. Aero body position [22.38 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades)
 3. Aero wheels [10.17 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades)
 4. Narrow handlebars [2.43 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades) | can be replicated by putting hands inward
+	1. [Skat Endurance Handlebar](https://www.velobike.co.nz/products/skat-endurance-handlebar?variant=42869638693047)
 # apparel
 1. Aero helmet [7.56 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades)
 2. [Encapsulator TT Suit for cyclists. Riding suit optimised for TT position (drag2zero.co.uk)](https://drag2zero.co.uk/product/encapsulator-tt-suit/?v=796834e7a283) £366.65 | [15 W](https://silca.cc/blogs/silca/top-10-marginal-gains-to-save-watts-on-the-bike)
