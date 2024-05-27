@@ -27,6 +27,8 @@ The model is presented for an elite endurance athlete (e.g. road cyclist) who tr
 #### twice-a-day training
 1. how could you incorporate [[glycogen threshold]] when training twice a day?
 	1. train-high in the morning (including post-workout [[carbohydrate]] consumption) > eat little in between > train-low in the afternoon (as more [[energy]] comes from [[fat]] as well in the afternoon) > consume lots of carbohydrates post-workout
+2. high vs. low carbohydrates between sessions on same day + why
+	1. depends on intensity, but if the train-high day is the following day, it might perhaps make more sense to distribute more carbohydrates post-second-workout (and perhaps inducing more adaptations i.e. [[glycogen threshold]]) while total carbohydrates per 24 hour is the same
 
 # carbohydrates
 1. how do you personally like to program train-low sessions while still getting enough carbohydrates?
