@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nutrition periodization.md",
+                "file": "fasted training.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "nutrition periodization.md",
+                "file": "fasted training.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "supplements",
+                "query": "accser",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nutrition periodization.md",
+                "file": "fasted training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nutrition periodization.md",
+                "file": "fasted training.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nutrition periodization.md"
+                "file": "fasted training.md"
               }
             }
           },
@@ -180,18 +180,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "064dd5af93373ca8",
+  "active": "3b7c256712fa2463",
   "lastOpenFiles": [
+    "glycogen threshold.md",
+    "fasted training.md",
+    "glycogen sparing.md",
+    "nutrition periodization.md",
     "sports supplement.md",
     "L-theanine.md",
     "nutrition (road cycling).md",
     "institutionalized overtraining.md",
     "sports periodization (road cycling).md",
     "aerodynamics (road cycling).md",
-    "fasted training.md",
-    "nutrition periodization.md",
     "VO2 max.md",
-    "glycogen sparing.md",
     "Fig. 2. Fat oxidation rates versus exercise intensity expressed as percentage of VO2max.png",
     "peroxisome proliferator-activated receptor delta.md",
     "lipid metabolism.md",
@@ -199,7 +200,6 @@
     "train low, race high.md",
     "lactate threshold.md",
     "muscle protein synthesis.md",
-    "glycogen threshold.md",
     "sports periodization.md",
     "caffeine.md",
     "ventricular hypertrophy.md",
