@@ -30,6 +30,9 @@
    
    In the mornings, again, before you’ve had anything to eat except for maybe a cup of black coffee, do a soft-pedal workout for about 30 minutes — we recommend the workout Dans for this — to reap the benefits of fasted training. Then, in the afternoons or evenings, complete your higher intensity workouts. If two-a-days sound like something you might like, start by giving it a try three times a week right out of bed and see how you feel.^[[Fasted Cycling: Program Your Body to Burn Fat with Fasted Training - TrainerRoad Blog, Chad Timmerman](https://www.trainerroad.com/blog/program-body-burn-fat-instead-store-fasted-training/)]
 
+# [[physiology]]
+1. with fasted training, carbohydrates put a bigger weight on maximizing adaptations post-workout rather than pre-workout for e.g. a race
+
 # related
 1. [[sports periodization (road cycling)]]
 
