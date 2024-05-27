@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fasted training.md",
+                "file": "nutrition periodization.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "fasted training.md",
+                "file": "nutrition periodization.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fasted training.md",
+                "file": "nutrition periodization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fasted training.md",
+                "file": "nutrition periodization.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fasted training.md"
+                "file": "nutrition periodization.md"
               }
             }
           },
@@ -182,8 +182,8 @@
   },
   "active": "c4a5089db3de577f",
   "lastOpenFiles": [
-    "VO2 max.md",
     "fasted training.md",
+    "VO2 max.md",
     "glycogen sparing.md",
     "Fig. 2. Fat oxidation rates versus exercise intensity expressed as percentage of VO2max.png",
     "nutrition periodization.md",
