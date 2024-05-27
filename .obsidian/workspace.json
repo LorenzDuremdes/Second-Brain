@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nutrition periodization.md",
+                "file": "sports periodization (road cycling).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "nutrition periodization.md",
+                "file": "sports periodization (road cycling).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nutrition periodization.md",
+                "file": "sports periodization (road cycling).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nutrition periodization.md",
+                "file": "sports periodization (road cycling).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nutrition periodization.md"
+                "file": "sports periodization (road cycling).md"
               }
             }
           },
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -182,16 +182,16 @@
   },
   "active": "c4a5089db3de577f",
   "lastOpenFiles": [
+    "nutrition periodization.md",
+    "sports periodization (road cycling).md",
     "peroxisome proliferator-activated receptor delta.md",
     "lipid metabolism.md",
     "Fuel for the Work Required A Theoretical Framework for Carbohydrate Periodization and the Glycogen Threshold Hypothesis.webp",
-    "nutrition periodization.md",
     "train low, race high.md",
     "fasted training.md",
     "lactate threshold.md",
     "muscle protein synthesis.md",
     "glycogen threshold.md",
-    "sports periodization (road cycling).md",
     "sports periodization.md",
     "caffeine.md",
     "ventricular hypertrophy.md",
