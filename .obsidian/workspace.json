@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "peroxisome proliferator-activated receptor delta.md",
+                "file": "nutrition periodization.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "peroxisome proliferator-activated receptor delta.md",
+                "file": "nutrition periodization.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "peroxisome proliferator-activated receptor delta.md",
+                "file": "nutrition periodization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "peroxisome proliferator-activated receptor delta.md",
+                "file": "nutrition periodization.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "peroxisome proliferator-activated receptor delta.md"
+                "file": "nutrition periodization.md"
               }
             }
           },
@@ -161,7 +161,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,8 +182,8 @@
   },
   "active": "c4a5089db3de577f",
   "lastOpenFiles": [
-    "lipid metabolism.md",
     "peroxisome proliferator-activated receptor delta.md",
+    "lipid metabolism.md",
     "Fuel for the Work Required A Theoretical Framework for Carbohydrate Periodization and the Glycogen Threshold Hypothesis.webp",
     "nutrition periodization.md",
     "train low, race high.md",
