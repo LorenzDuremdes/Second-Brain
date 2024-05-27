@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "institutionalized overtraining.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "institutionalized overtraining.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aerodynamics",
+                "query": "rushall",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "institutionalized overtraining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "institutionalized overtraining.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aerodynamics (road cycling).md"
+                "file": "institutionalized overtraining.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -183,12 +183,14 @@
   },
   "active": "c4a5089db3de577f",
   "lastOpenFiles": [
+    "sports periodization (road cycling).md",
+    "institutionalized overtraining.md",
+    "aerodynamics (road cycling).md",
     "fasted training.md",
     "nutrition periodization.md",
     "VO2 max.md",
     "glycogen sparing.md",
     "Fig. 2. Fat oxidation rates versus exercise intensity expressed as percentage of VO2max.png",
-    "sports periodization (road cycling).md",
     "peroxisome proliferator-activated receptor delta.md",
     "lipid metabolism.md",
     "Fuel for the Work Required A Theoretical Framework for Carbohydrate Periodization and the Glycogen Threshold Hypothesis.webp",
@@ -210,8 +212,6 @@
     "body fat percentage.md",
     "excess post-exercise oxygen consumption.md",
     "death pull (TTT).md",
-    "drafting (aerodynamics).md",
-    "peloton (road bicycle racing).md",
     "BelgischerKreisel.gif",
     "Tcore cooling vest.jpg",
     "Heart-Rate cooling vest.jpg",
