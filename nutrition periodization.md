@@ -19,7 +19,7 @@ The model is presented for an elite endurance athlete (e.g. road cyclist) who tr
 	1. below [[lactate threshold]] (see their example table)^[[Table 4 | Fuel for the Work Required: A Theoretical Framework for Carbohydrate Periodization and the Glycogen Threshold Hypothesis | Sports Medicine (springer.com)](https://link.springer.com/article/10.1007/s40279-018-0867-7/tables/4)]
 2. what would the "fuel for the work required paradigm" perhaps say how many carbohydrates should be distributed pre- vs. post-workout?
 	1. as little as possible pre-workout and as much as possible post-workout
-		1. this could maximize adaptations (e.g. [[glycogen threshold]]) while also maximizing recovery/adaptations post-workout
+		1. this could maximize adaptations (e.g. [[glycogen threshold]]) while also maximizing recovery (and avoiding accumulative fatigue)/adaptations post-workout
 		2. perhaps also more easily avoids the problem of overfueling (an extreme example would be consuming all the carbohydrates immediately after waking up and doing the workout just before going to bed → the opposite scenario could avoid this (although still suboptimal)
 			1. 1. like how you can't store excess sleep (but can accumulate sleep debt)
 3. acute ingestion of carbohydrates → [[fatty acid metabolism|rate of fat oxidation]] during exercise
