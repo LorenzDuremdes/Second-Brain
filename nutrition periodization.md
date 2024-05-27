@@ -20,6 +20,8 @@ The model is presented for an elite endurance athlete (e.g. road cyclist) who tr
 2. what would the "fuel for the work required paradigm" perhaps say how many carbohydrates should be distributed pre- vs. post-workout?
 	1. as little as possible pre-workout and as much as possible post-workout
 		1. this could maximize adaptations (e.g. [[glycogen threshold]]) while also maximizing recovery/adaptations post-workout
+		2. perhaps also more easily avoids the problem of overfueling (an extreme example would be consuming all the carbohydrates immediately after waking up and doing the workout just before going to bed → the opposite scenario could avoid this (although still suboptimal)
+			1. 1. like how you can't store excess sleep (but can accumulate sleep debt)
 3. acute ingestion of carbohydrates → [[fatty acid metabolism|rate of fat oxidation]] during exercise
 	1. Ingestion of [[carbohydrate]] in the hours before or on commencement of exercise reduces the [[fatty acid metabolism|rate of fat oxidation]] significantly compared with fasted conditions, whereas fasting longer than 6 h optimizes [[fat]] oxidation. [[Fat]] oxidation rates have been shown to decrease after ingestion of high-[[fat]] diets, partly as a result of decreased [[glycogen]] stores and partly because of adaptations at the muscle level.^[[Optimizing Fat Oxidation Through Exercise and Diet, Juul Achten, PhD, and Asker E. Jeukendrup, PhD](https://pubmed.ncbi.nlm.nih.gov/15212756/)]
 4. can you consume carbohydrates intra-workout according to the "fuel for the work required paradigm"?
