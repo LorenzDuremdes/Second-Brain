@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lactate threshold.md",
+                "file": "nutrition periodization.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "lactate threshold.md",
+                "file": "nutrition periodization.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lactate",
+                "query": "carbohydrates fat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lactate threshold.md",
+                "file": "nutrition periodization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lactate threshold.md",
+                "file": "nutrition periodization.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lactate threshold.md"
+                "file": "nutrition periodization.md"
               }
             }
           },
@@ -183,6 +182,9 @@
   },
   "active": "ce86713e5aaec722",
   "lastOpenFiles": [
+    "train low, race high.md",
+    "fasted training.md",
+    "lactate threshold.md",
     "muscle protein synthesis.md",
     "nutrition periodization.md",
     "glycogen threshold.md",
@@ -210,9 +212,6 @@
     "Tcore cooling vest.jpg",
     "Heart-Rate cooling vest.jpg",
     "aerodynamics (road cycling).md",
-    "sociale woningbouw.md",
-    "socioeconomic status.md",
-    "upper class.md",
     "autisme, gehorigheid, wonen_2.jpeg",
     "autisme, gehorigheid, wonen.jpeg",
     "WhatsApp Image 2024-05-17 at 14.38.30_2 1.jpeg",
