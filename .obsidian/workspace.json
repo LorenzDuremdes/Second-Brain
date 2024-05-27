@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nutrition periodization.md",
+                "file": "fasted training.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "nutrition periodization.md",
+                "file": "fasted training.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nutrition periodization.md",
+                "file": "fasted training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nutrition periodization.md",
+                "file": "fasted training.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nutrition periodization.md"
+                "file": "fasted training.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,15 +180,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "064dd5af93373ca8",
+  "active": "c4a5089db3de577f",
   "lastOpenFiles": [
-    "sports periodization (road cycling).md",
+    "VO2 max.md",
+    "fasted training.md",
+    "glycogen sparing.md",
+    "Fig. 2. Fat oxidation rates versus exercise intensity expressed as percentage of VO2max.png",
     "nutrition periodization.md",
+    "sports periodization (road cycling).md",
     "peroxisome proliferator-activated receptor delta.md",
     "lipid metabolism.md",
     "Fuel for the Work Required A Theoretical Framework for Carbohydrate Periodization and the Glycogen Threshold Hypothesis.webp",
     "train low, race high.md",
-    "fasted training.md",
     "lactate threshold.md",
     "muscle protein synthesis.md",
     "glycogen threshold.md",
@@ -208,15 +211,12 @@
     "death pull (TTT).md",
     "drafting (aerodynamics).md",
     "peloton (road bicycle racing).md",
-    "conservation of energy.md",
-    "Belgischer Kreisel.md",
     "BelgischerKreisel.gif",
     "Tcore cooling vest.jpg",
     "Heart-Rate cooling vest.jpg",
     "autisme, gehorigheid, wonen_2.jpeg",
     "autisme, gehorigheid, wonen.jpeg",
     "WhatsApp Image 2024-05-17 at 14.38.30_2 1.jpeg",
-    "Sweet Spot Progression (WindWarrior, TrainerRoad).png",
-    "grwoolf, chronic training load, TrainerRoad.png"
+    "Sweet Spot Progression (WindWarrior, TrainerRoad).png"
   ]
 }
