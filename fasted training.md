@@ -13,17 +13,24 @@
 1. how long to not eat carbohydrates beforehand for "fasted training"?^[https://www.trainerroad.com/blog/program-body-burn-fat-instead-store-fasted-training/]
 	1. ≥12 hours
 2. how long "fasted training (session)"? + why
-	1. until most of your muscle [[glycogen]] is depleted, because you will hit a wall afterward = ~60–90 minutes^[https://www.trainerroad.com/blog/program-body-burn-fat-instead-store-fasted-training/]
-2. [[carbohydrate]] restriction pre-workout might matter less (in terms of [[glycogen sparing]]) at higher intensities^[[Optimizing Fat Oxidation Through Exercise and Diet, Juul Achten, PhD, and Asker E. Jeukendrup, PhD](https://pubmed.ncbi.nlm.nih.gov/15212756/)]
+	1. until most of your muscle [[glycogen]] is depleted, because you will hit a wall afterward = ~60–90 minutes^[https://www.trainerroad.com/blog/program-body-burn-fat-instead-store-fasted-training/], Chad Timmerman
+		1. what is a sign that you have depleted most of your [[glycogen]] stores?
+			1. smell of ammonia in your breath
+3. [[carbohydrate]] restriction pre-workout might matter less (in terms of [[glycogen sparing]]) at higher intensities^[[Optimizing Fat Oxidation Through Exercise and Diet, Juul Achten, PhD, and Asker E. Jeukendrup, PhD](https://pubmed.ncbi.nlm.nih.gov/15212756/)]
    
    Fig. 2. [[lipid metabolism|Fat oxidation]] rates versus exercise intensity expressed as percentage of [[VO2 max]] determined in (A) moderately trained [[men]] (_n_ = 11)<sup>18</sup> (B) a large group of trained male cyclists with wide range of VO<sub>2max</sub> values (_n_ = 53)<sup>19</sup> (C) moderately (_n_ = 26) and highly (_n_ = 27) trained male cyclists (VO<sub>2max</sub>, 59 versus 72 mL · kg-1 · min-1)<sup>19</sup> (D) cycle-[[ergometer]]-based and treadmill-based tests in moderately trained triathletes (_n_ = 12),<sup>85</sup> (E) moderately trained cyclists after overnight fast and 45 min after ingestion of 75 g of [[glucose]] (_n_ = 11),<sup>108</sup> and (F) large group of individuals on the treadmill-based test (157 [[men]] and 143 [[women]]).<sup>20</sup>
    
    CHO, [[carbohydrate]];
    VO2max, maximum [[oxygen]] consumption.
    ![[Fig. 2. Fat oxidation rates versus exercise intensity expressed as percentage of VO2max.png]]
+## two-a-days
+1. The second way you can implement fasted training into your routine is by doing two-a-days, i.e., completing two workouts in a 24-hour timeframe. If you’re the type of athlete who feels like they can’t get their best high-intensity workouts done in the mornings, this is probably your best option. I know it is for me.
+   
+   In the mornings, again, before you’ve had anything to eat except for maybe a cup of black coffee, do a soft-pedal workout for about 30 minutes — we recommend the workout Dans for this — to reap the benefits of fasted training. Then, in the afternoons or evenings, complete your higher intensity workouts. If two-a-days sound like something you might like, start by giving it a try three times a week right out of bed and see how you feel.^[[Fasted Cycling: Program Your Body to Burn Fat with Fasted Training - TrainerRoad Blog, Chad Timmerman](https://www.trainerroad.com/blog/program-body-burn-fat-instead-store-fasted-training/)]
 
 # related
 1. [[sports periodization (road cycling)]]
 
 # see also
-1. [fasted training, Chad Timmerman](https://www.trainerroad.com/forum/t/a-few-questions-about-fasting-rides-fasted-training/3629/2?u=lorenz_duremdes)
+1. [Fasted Cycling: Program Your Body to Burn Fat with Fasted Training - TrainerRoad Blog, Chad Timmerman](https://www.trainerroad.com/blog/program-body-burn-fat-instead-store-fasted-training/)
+2. [fasted training, TrainerRoad (forum)](https://www.trainerroad.com/forum/t/a-few-questions-about-fasting-rides-fasted-training/3629/2?u=lorenz_duremdes)
