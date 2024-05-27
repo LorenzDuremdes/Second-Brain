@@ -23,3 +23,6 @@
 	1. either ~15 minutes before working out or ~45 minutes
 		1. why not in between?^[https://youtu.be/o0S5iPm-hjs?t=360, TrainerRoad]
 			1. because that's when a drop happens in [[blood]] [[glucose]] levels
+
+# miscellaneous
+1. [Nutrition and Supplement Update for the Endurance Athlete: Review and Recommendations - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6628334/)
