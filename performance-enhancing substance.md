@@ -1,7 +1,7 @@
 for legal supplements, see: [[sports supplement]]
 
 # performance-enhancing drugs (prioritized)
-1. [[darbepoetin alfa]] | 'super-EPO'
+1. [[Mircera]] | third-generation CERA
 2. [[GW501516]] | [[fatty acid metabolism]]
 3. [[chlorodehydromethyltestosterone]] | [[erythropoiesis]]
 4. [[boldenone undecylenate]] | [[erythropoiesis]]

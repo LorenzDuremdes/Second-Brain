@@ -1,0 +1,3 @@
+1. continuous erythropoietin receptor activator; the generic term for drugs in a new class of third-generation [[erythropoiesis]]-stimulating agents (ESAs)
+   
+   [[Mircera]] is similar to the previous synthetic EPO drugs, except that it is connected to a chemical called polyethylene glycol (PEG), which makes it last longer in the body. According to Roche, the product has the longest [[half-life]] of all FDA-approved [[erythropoiesis]]-stimulating agents (ESAs): up to 6 times longer than [[darbepoetin alfa]] and up to 20 times longer than epoetin^[https://en.wikipedia.org/wiki/Continuous_erythropoietin_receptor_activator]
