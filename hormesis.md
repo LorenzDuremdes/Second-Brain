@@ -1,0 +1,1 @@
+1. hormesis; a two-phased dose-response relationship to an environmental agent whereby low-dose amounts have a beneficial effect and high-dose amounts are either inhibitory to function or toxic.^[https://en.wikipedia.org/wiki/Hormesis]
