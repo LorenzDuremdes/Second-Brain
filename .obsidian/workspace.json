@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "continuous erythropoietin receptor activator.md",
+                "file": "nature versus nurture.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "continuous erythropoietin receptor activator.md",
+                "file": "nature versus nurture.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "performance enhancing",
+                "query": "nature nurt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "continuous erythropoietin receptor activator.md",
+                "file": "nature versus nurture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "continuous erythropoietin receptor activator.md",
+                "file": "nature versus nurture.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "continuous erythropoietin receptor activator.md"
+                "file": "nature versus nurture.md"
               }
             }
           },
@@ -182,8 +183,8 @@
   },
   "active": "78984271916afd43",
   "lastOpenFiles": [
-    "performance-enhancing substance.md",
     "continuous erythropoietin receptor activator.md",
+    "performance-enhancing substance.md",
     "darbepoetin alfa.md",
     "sleep low-train low.md",
     "fasted training.md",
