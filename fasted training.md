@@ -49,6 +49,7 @@ Thus, from an evolutionary standpoint, it makes sense that mechanisms which impr
 
 # related
 1. [[sports periodization (road cycling)]]
+2. [[sleep low-train low]]
 
 # see also
 1. [Fasted Cycling: Program Your Body to Burn Fat with Fasted Training - TrainerRoad Blog, Chad Timmerman](https://www.trainerroad.com/blog/program-body-burn-fat-instead-store-fasted-training/)
