@@ -20,6 +20,9 @@
 		1. a little (short-term) fatigue (from previous session(s)) might not be bad as long as it doesn't hinder CTL e.g. [[block training]]
 			1. i.e. sometimes you just have to continue a little longer (e.g. days) and see what the workouts do rather than being scared of '[[overtraining]]'  
 	2. you can estimate this e.g. when a (or the same) workout becomes more difficult to finish over [[time]] → only sustainable short-term
+	3. is the idea of Dr. Andrew Coggan's / Rushall's training philosophy to not accumulate any fatigue?
+			1. the idea is probably more to have the highest volume (CTL) as well as frequency (as that matters as well), both aimed at maximizing adaptations/performance
+				1. e.g. Dr. Andrew Coggan probably accumulated some fatigue during his interval days hence he had to titrate the intensity of his 'moderate-intensity filler days'
 # [[microcycle]]
 1. when could "drop sets" not be as beneficial? ([[road cycling]])
 	1. when the [[goal]] is something associated with metabolic waste e.g. [[lactate]]

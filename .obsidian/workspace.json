@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nature versus nurture.md",
+                "file": "sports periodization (road cycling).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "nature versus nurture.md",
+                "file": "sports periodization (road cycling).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nature nurt",
+                "query": "rushall",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nature versus nurture.md",
+                "file": "sports periodization (road cycling).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nature versus nurture.md",
+                "file": "sports periodization (road cycling).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nature versus nurture.md"
+                "file": "sports periodization (road cycling).md"
               }
             }
           },
@@ -163,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -183,6 +183,10 @@
   },
   "active": "78984271916afd43",
   "lastOpenFiles": [
+    "road cycling.md",
+    "sports periodization (road cycling).md",
+    "institutionalized overtraining.md",
+    "nature versus nurture.md",
     "continuous erythropoietin receptor activator.md",
     "performance-enhancing substance.md",
     "darbepoetin alfa.md",
@@ -195,8 +199,6 @@
     "sports supplement.md",
     "L-theanine.md",
     "nutrition (road cycling).md",
-    "institutionalized overtraining.md",
-    "sports periodization (road cycling).md",
     "aerodynamics (road cycling).md",
     "VO2 max.md",
     "Fig. 2. Fat oxidation rates versus exercise intensity expressed as percentage of VO2max.png",
@@ -209,9 +211,7 @@
     "sports periodization.md",
     "caffeine.md",
     "ventricular hypertrophy.md",
-    "cell signaling.md",
     "Table 3 Theoretical overview of the ‘fuel for the work required’ model.png",
-    "road cycling.md",
     "BelgischerKreisel.gif",
     "Tcore cooling vest.jpg",
     "Heart-Rate cooling vest.jpg",
