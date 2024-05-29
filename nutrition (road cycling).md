@@ -5,7 +5,7 @@
 1. how can [[sodium]] help with [[physical exercise]] recovery?
 	1. [[sodium]] plays an important role in transporting [[carbohydrate]] out of the gut and into the bloodstream^[The [[Time]]-Crunched Cyclist: Race-Winning Fitness in 6 Hours a Week, 3rd Edition, p. 22]
 
-# macronutrients
+# [[macronutrients]]
 1. recommended carbohydrates for optimal endurance performance ≈ 6–10g per kg of bodyweight^[https://www.trainerroad.com/blog/cycling-nutrition-everything-you-need-to-know/]
 2. can a high carb intake make you at risk for diabetes type 2?^[https://www.trainerroad.com/forum/t/high-carb-intake-a-risk-for-diabetes/61428/2?u=lorenz_duremdes]^[https://www.trainerroad.com/forum/t/high-carb-intake-a-risk-for-diabetes/61428/9]
 	1. not as much if it's centered around [[physical exercise]]
