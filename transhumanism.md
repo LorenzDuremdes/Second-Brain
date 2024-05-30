@@ -4,6 +4,11 @@
    ![image|500](https://i.imgur.com/8cxOoWv.jpeg)
 2. it's easier for most people to spend e.g. $12k on a watch than get into top 1% fitness levels^[https://www.reddit.com/r/fatFIRE/comments/r0e88f/comment/hlt1gzb/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button]
 
+## miscellaneous
+1. I'd even say many of the more [[health]] conscious people these days would be seen as top-tier bodies compared to people from a few hundred years ago.
+   
+   Taller, stronger, healthier, and if we go back a few thousand years, some of the fitness freaks today might even pass as a perfect bodied lesser deity.^[https://www.reddit.com/r/Showerthoughts/comments/1d3h3iy/comment/l69llak/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button]
+
 # transhuman
 1. transhuman → "[[good]] ↮ [[evil]]"
 	1. they are not driven by "[[good]] ↮ [[evil]]" but by necessity
