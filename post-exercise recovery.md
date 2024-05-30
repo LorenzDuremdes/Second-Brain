@@ -11,7 +11,7 @@
 	1. 4:1 ([[carbohydrate]]:[[protein]])
 
 ## exogenous ketones
-1. what were they trying to improve recovery in Tour de France 2022?
+1. what were they trying to improve recovery in [[Tour de France]] 2022?
 	1. exogenous ketones e.g. team Jumbo-Visma^[https://www.welovecycling.com/wide/2022/07/19/jumbo-visma-nutrition-at-the-tour-ketones/]
 		1. some studies say it can be effective^[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5670148/]
 

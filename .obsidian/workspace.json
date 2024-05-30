@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "33675bfae8060356",
+            "id": "f5f2a6866f870af6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "transhumanism.md",
+                "file": "Tour de France.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "transhumanism.md",
+                "file": "Tour de France.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "transhumanism.md",
+                "file": "Tour de France.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "transhumanism.md",
+                "file": "Tour de France.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "transhumanism.md"
+                "file": "Tour de France.md"
               }
             }
           },
@@ -181,8 +180,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "33675bfae8060356",
+  "active": "f5f2a6866f870af6",
   "lastOpenFiles": [
+    "transhumanism.md",
+    "Tour de France.md",
+    "Untitled",
     "Avogadro's law.md",
     "density of air.md",
     "density of air vs. power (myWindsock).png",
@@ -210,9 +212,7 @@
     "VO2 max.md",
     "Fig. 2. Fat oxidation rates versus exercise intensity expressed as percentage of VO2max.png",
     "peroxisome proliferator-activated receptor delta.md",
-    "lipid metabolism.md",
     "Fuel for the Work Required A Theoretical Framework for Carbohydrate Periodization and the Glycogen Threshold Hypothesis.webp",
-    "train low, race high.md",
     "Table 3 Theoretical overview of the ‘fuel for the work required’ model.png",
     "BelgischerKreisel.gif",
     "Tcore cooling vest.jpg",

@@ -1,4 +1,4 @@
 1. *hors catégorie*; a French term used in stage [[road cycling|bicycle races]] to designate a climb that is "beyond categorization"
 2. The HC climb is the most difficult type of climb in a race. It is more demanding than a Category 1 climb which in turn is more demanding than a Category 2 climb and so on. The easiest category is Category 4.
-3. The average HC climb in the Tour de France from 2012 to 2016 is 16.1 kilometers long and has a grade of 7.4. There are around 7 HC climbs per Tour.^[https://en.wikipedia.org/wiki/Hors_cat%C3%A9gorie#cite_note-1]
+3. The average HC climb in the [[Tour de France]] from 2012 to 2016 is 16.1 kilometers long and has a grade of 7.4. There are around 7 HC climbs per Tour.^[https://en.wikipedia.org/wiki/Hors_cat%C3%A9gorie#cite_note-1]
 4. ![image](https://www.yapp.co.uk/wp/wp-content/uploads/2014/07/Tour-de-France-Hill-Classifications.jpg)

@@ -1,0 +1,4 @@
+1. how many calories do pro cyclists eat during Tour de France?
+	1. this can be anything from 4,000 calories a day on a flat stage to 9,000 calories on a hilly stage
+	   
+	   The amount of [[food]] needed is close to the body’s maximum capacity for digestion, so failure to keep up with the enormous calorie intake can spell disaster, because playing catch-up is near impossible. And ending up in calorie deficit is a no-no because riders risk losing precious muscle.^[[This is what you have to eat to compete in the Tour de France | Cycling Weekly](https://www.cyclingweekly.com/news/racing/tour-de-france/this-is-what-you-have-to-eat-to-compete-in-the-tour-de-france-182775)]
