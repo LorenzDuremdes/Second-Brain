@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f5f2a6866f870af6",
+            "id": "cf9a92fef82ae297",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sports nutrition.md",
+                "file": "digestion.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sports nutrition.md",
+                "file": "digestion.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sucrose",
+                "query": "digestion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sports nutrition.md",
+                "file": "digestion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sports nutrition.md",
+                "file": "digestion.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sports nutrition.md"
+                "file": "digestion.md"
               }
             }
           },
@@ -181,8 +180,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f5f2a6866f870af6",
+  "active": "cf9a92fef82ae297",
   "lastOpenFiles": [
+    "sports nutrition.md",
+    "digestion.md",
     "sucrose.md",
     "fasted training.md",
     "Tour de France.md",
@@ -210,8 +211,6 @@
     "sports supplement.md",
     "L-theanine.md",
     "nutrition (road cycling).md",
-    "aerodynamics (road cycling).md",
-    "VO2 max.md",
     "Fig. 2. Fat oxidation rates versus exercise intensity expressed as percentage of VO2max.png",
     "Fuel for the Work Required A Theoretical Framework for Carbohydrate Periodization and the Glycogen Threshold Hypothesis.webp",
     "Table 3 Theoretical overview of the ‘fuel for the work required’ model.png",
