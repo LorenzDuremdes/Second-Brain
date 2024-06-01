@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "79e1122f73e2ba80",
+            "id": "72d8ac6d7f96ad7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "power-to-weight ratio (road cycling).md",
+                "file": "fasted training.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "power-to-weight ratio (road cycling).md",
+                "file": "fasted training.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "watts per kg",
+                "query": "fasted training",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "power-to-weight ratio (road cycling).md",
+                "file": "fasted training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "power-to-weight ratio (road cycling).md",
+                "file": "fasted training.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "power-to-weight ratio (road cycling).md"
+                "file": "fasted training.md"
               }
             }
           },
@@ -180,15 +180,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "79e1122f73e2ba80",
+  "active": "72d8ac6d7f96ad7c",
   "lastOpenFiles": [
-    "chronic training load.md",
+    "PPARGC1A.md",
+    "fasted training.md",
     "power-to-weight ratio (road cycling).md",
+    "chronic training load.md",
     "personal achievements.md",
     "digestion.md",
     "sports nutrition.md",
     "sucrose.md",
-    "fasted training.md",
     "Tour de France.md",
     "transhumanism.md",
     "Untitled",
@@ -210,7 +211,6 @@
     "hormesis.md",
     "glycogen threshold.md",
     "glycogen sparing.md",
-    "nutrition periodization.md",
     "Fig. 2. Fat oxidation rates versus exercise intensity expressed as percentage of VO2max.png",
     "Fuel for the Work Required A Theoretical Framework for Carbohydrate Periodization and the Glycogen Threshold Hypothesis.webp",
     "Table 3 Theoretical overview of the ‘fuel for the work required’ model.png",

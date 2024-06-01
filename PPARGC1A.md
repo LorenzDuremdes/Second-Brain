@@ -1,0 +1,2 @@
+1. PPARGC1A; the master regulator of [[mitochondrial biogenesis]].^[https://en.wikipedia.org/wiki/PPARGC1A]
+2. it is well established that the exercise-induced increase of PGC-1a mRNA occurs with a delay of several hours, and differences in expression are therefore not expected to occur that early in the recovery period.^[[Exercise with low glycogen increases PGC-1α gene expression in human skeletal muscle | European Journal of Applied Physiology (springer.com)](https://link.springer.com/article/10.1007/s00421-012-2504-8)]
