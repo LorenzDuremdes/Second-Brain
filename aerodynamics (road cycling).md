@@ -67,3 +67,7 @@
 
 # TTT
 1. when two cyclists ride next to each other, they both must put in 8% extra power to overcome the increased air resistance^[https://www.inthefieldstories.net/the-science-behind-a-cycling-victory/]
+
+# marginal gains
+1. how can you replicate having aerobars without aerobars (i.e. including its support)?
+	1. use the bike computer like Dylan Johnson did at Unbound Gravel 2024^[https://www.instagram.com/p/C7pLaMaOWJK/?img_index=1] ![[Dylan Johnson Unbound Gravel 2024 (Instagram).png]]

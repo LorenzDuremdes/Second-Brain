@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fasted training.md",
+                "file": "aerodynamics (road cycling).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "fasted training.md",
+                "file": "aerodynamics (road cycling).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fasted training",
+                "query": "aerodynamics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fasted training.md",
+                "file": "aerodynamics (road cycling).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fasted training.md",
+                "file": "aerodynamics (road cycling).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fasted training.md"
+                "file": "aerodynamics (road cycling).md"
               }
             }
           },
@@ -162,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -182,8 +183,9 @@
   },
   "active": "72d8ac6d7f96ad7c",
   "lastOpenFiles": [
-    "PPARGC1A.md",
+    "Dylan Johnson Unbound Gravel 2024 (Instagram).png",
     "fasted training.md",
+    "PPARGC1A.md",
     "power-to-weight ratio (road cycling).md",
     "chronic training load.md",
     "personal achievements.md",
@@ -210,7 +212,6 @@
     "sleep low-train low.md",
     "hormesis.md",
     "glycogen threshold.md",
-    "glycogen sparing.md",
     "Fig. 2. Fat oxidation rates versus exercise intensity expressed as percentage of VO2max.png",
     "Fuel for the Work Required A Theoretical Framework for Carbohydrate Periodization and the Glycogen Threshold Hypothesis.webp",
     "Table 3 Theoretical overview of the ‘fuel for the work required’ model.png",
