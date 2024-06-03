@@ -8,7 +8,7 @@
 3. [EZ Aero Chainring Guard 3-5 Watt Saving – EZ Gains Ltd](https://ezgains.co.uk/products/ez-aero-chainring-cover-1) €123.95
 4. [EZ Aero Front Derailleur Guard save 2-5.8 Watts – EZ Gains Ltd](https://ezgains.co.uk/products/ez-aero-front-derailleur-guard-save-2-6-watts) €106.95
 5. [[cooling vest]]
-	1. cycling tolerance time at a constant hard effort was longest at 11°C, similarly reduced at 4 and 21°C, and further reduced at 31°C^[https://pezcyclingnews.com/toolbox/beat-the-heat-are-ice-vests-effective/]
+	1. cycling tolerance [[time]] at a constant hard effort was longest at 11°C, similarly reduced at 4 and 21°C, and further reduced at 31°C^[https://pezcyclingnews.com/toolbox/beat-the-heat-are-ice-vests-effective/]
 
 # shops (prioritized high-to-low gain)
 1. Aerobars [57.6 W](https://www.aero-coach.co.uk/clip-on-aerobars)
@@ -71,3 +71,7 @@
 # marginal gains
 1. how can you replicate having aerobars without aerobars (i.e. including its support)?
 	1. use the bike computer like Dylan Johnson did at Unbound Gravel 2024^[https://www.instagram.com/p/C7pLaMaOWJK/?img_index=1] ![[Dylan Johnson Unbound Gravel 2024 (Instagram).png]]
+
+# history
+1. how did they try to minimize frontal area and aerodynamics before computers?
+	1. Once upon a [[time]] the cutting-edge way to optimise rider aerodynamics was by printing out photos of the rider taken head on, cutting them out, and weighing the paper. If you did this for a variety of positions on the bike, you found out which presented the smallest frontal area to the wind by finding the lightest bit of paper.^[Faster - The Obsession, Science and Luck Behind the World's Fastest Cyclists (by Michael Hutchinson), p. 120]
