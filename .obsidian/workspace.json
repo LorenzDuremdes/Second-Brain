@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a7d2e7f2ec578ff",
+            "id": "2754326bcf375825",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GW501516.md",
+                "file": "criterium.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "GW501516.md",
+                "file": "criterium.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GW501516.md",
+                "file": "criterium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GW501516.md",
+                "file": "criterium.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GW501516.md"
+                "file": "criterium.md"
               }
             }
           },
@@ -180,13 +180,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2a7d2e7f2ec578ff",
+  "active": "2754326bcf375825",
   "lastOpenFiles": [
+    "GW501516.md",
+    "criterium.md",
     "Figure S2. Effects of GW501516 treatment on SDH-positive fibres in trained mice. .png",
     "The effects of GW501516 on SDH-positive fibres in skeletal muscle of sedentary and trained KM mice.jpg",
     "The effects of GW501516 on running performance, blood glucose, and blood lactate in sedentary and trained KM mice..png",
     "protein catabolism.md",
-    "GW501516.md",
     "The effects of GW501516 treatment on skeletal muscle gene expression in trained and sedentary KM mice.png",
     "peroxisome proliferator-activated receptor delta.md",
     "peroxisome proliferator-activated receptor.md",
@@ -217,7 +218,6 @@
     "nature versus nurture.md",
     "Fig. 2. Fat oxidation rates versus exercise intensity expressed as percentage of VO2max.png",
     "Fuel for the Work Required A Theoretical Framework for Carbohydrate Periodization and the Glycogen Threshold Hypothesis.webp",
-    "Table 3 Theoretical overview of the ‘fuel for the work required’ model.png",
-    "BelgischerKreisel.gif"
+    "Table 3 Theoretical overview of the ‘fuel for the work required’ model.png"
   ]
 }

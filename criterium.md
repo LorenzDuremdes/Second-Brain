@@ -1,0 +1,10 @@
+1. how many watts do you usually need to go ~45 km/h at crits ([[road cycling]])?
+	1. ~230–260 W^[https://www.reddit.com/r/Velo/comments/maczkc/my_first_crit/]
+	2. Categories reflect racing experience more than fitness, so it’s best to just get out there and do it unless you are worried you’ll drive 2+ hours to get whistled off the course within minutes. Given the popularity of things like [[zwift]], I imagine there are plenty of very fit cat5’s.
+	   
+	   You have to learn how to corner in a pack, stay close to the wheel in front, not make unnecessary lateral movements, pace efforts in the wind, identify who you need to stay away from, anticipate gaps forming/riders blowing up in front of you, execute a sprint, etc etc. The more you race, the faster you’ll be competent in many ways. Those are general skills.
+	   
+	   Familiarity with each individual race course also helps a ton. It’s a very different experience racing on a course for the first [[time]] versus racing on a course you’ve done before as you’ll know how the pack generally behaves in response to course elements. In other words, do X race now so you’ll have a better experience next year or later in the season jf it’s used again. There’s a similar advantage in knowing your competition.^[[Good average speed or watt goal to feel comfortable with Cat5/Novice racing? : r/Velo (reddit.com)](https://www.reddit.com/r/Velo/comments/11b5dht/good_average_speed_or_watt_goal_to_feel/)]
+	   1. Less about 5’s… but i feel like the Cat4 fields have gone from “fit newish racers trying to catup” and become “super strong super fast newish racers who only know how to smash and beat up on each other because no one wants to Cat up”.
+	      
+	      You nailed it with [[Zwift]]. Plus a couple of years of covid when no one got to race. So people kept getting fit AF while watching YouTube crit videos of Legion and Norcal.
