@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ultra-distance cycling.md",
+                "file": "GW501516.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ultra-distance cycling.md",
+                "file": "GW501516.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ultra-",
+                "query": "gw50",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ultra-distance cycling.md",
+                "file": "GW501516.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ultra-distance cycling.md",
+                "file": "GW501516.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ultra-distance cycling.md"
+                "file": "GW501516.md"
               }
             }
           },
@@ -183,6 +183,9 @@
   },
   "active": "72d8ac6d7f96ad7c",
   "lastOpenFiles": [
+    "peroxisome proliferator-activated receptor delta.md",
+    "peroxisome proliferator-activated receptor.md",
+    "ultra-distance cycling.md",
     "aerodynamics (road cycling).md",
     "Dylan Johnson Unbound Gravel 2024 (Instagram).png",
     "fasted training.md",
@@ -210,9 +213,6 @@
     "continuous erythropoietin receptor activator.md",
     "performance-enhancing substance.md",
     "darbepoetin alfa.md",
-    "sleep low-train low.md",
-    "hormesis.md",
-    "glycogen threshold.md",
     "Fig. 2. Fat oxidation rates versus exercise intensity expressed as percentage of VO2max.png",
     "Fuel for the Work Required A Theoretical Framework for Carbohydrate Periodization and the Glycogen Threshold Hypothesis.webp",
     "Table 3 Theoretical overview of the ‘fuel for the work required’ model.png",
