@@ -15,7 +15,7 @@
 	   
 	   *This is partially where people go wrong in holding up [[lactate]] testing as the “gold standard”, as in fact it is more, not less, variable than just measuring performance.*^[https://www.trainerroad.com/forum/t/comparing-actual-ftp-test-to-the-ai-ftp-detection-feature/71200/175?u=lorenz_duremdes, Dr. Andrew Coggan]
 2. MCT-1; takes [[lactate]] inside slow-twitch muscle fibers^[https://www.trainingpeaks.com/blog/what-is-lactate-and-lactate-threshold/]
-3. MCT-4; might be especially appropriate for export of [[lactate]] derived from glycolysis^[https://en.wikipedia.org/wiki/Monocarboxylate_transporter_4]
+3. MCT-4; might be especially appropriate for export of [[lactate]] derived from [[glycolysis]]^[https://en.wikipedia.org/wiki/Monocarboxylate_transporter_4]
 	1. mostly present in fast-twitch muscle fibers^[https://www.trainingpeaks.com/blog/what-is-lactate-and-lactate-threshold/]
 4. muscle [[glycogen]] → [[blood]] [[lactate]] concentration
 	1. higher muscle [[glycogen]] increases [[lactate]] concentration (even at rest, but to a lesser degree)^[Dr. Andrew Coggan: https://www.trainerroad.com/forum/t/lactate-testing-data-and-results/6484/546?u=lorenz_duremdes]

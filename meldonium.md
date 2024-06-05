@@ -1,0 +1,1 @@
+1. meldonium; shifts the myocardial [[energy]] metabolism from [[lipid metabolism|fatty acid oxidation]] to the more favorable oxidation of [[glucose]], or [[glycolysis]], under conditions where [[oxygen]] is limited^[https://en.wikipedia.org/wiki/Meldonium]
