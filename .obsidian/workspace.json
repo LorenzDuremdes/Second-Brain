@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "criterium.md",
+                "file": "GW501516.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "criterium.md",
+                "file": "GW501516.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "criterium.md",
+                "file": "GW501516.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "criterium.md",
+                "file": "GW501516.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "criterium.md"
+                "file": "GW501516.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -182,8 +182,8 @@
   },
   "active": "2754326bcf375825",
   "lastOpenFiles": [
-    "GW501516.md",
     "criterium.md",
+    "GW501516.md",
     "Figure S2. Effects of GW501516 treatment on SDH-positive fibres in trained mice. .png",
     "The effects of GW501516 on SDH-positive fibres in skeletal muscle of sedentary and trained KM mice.jpg",
     "The effects of GW501516 on running performance, blood glucose, and blood lactate in sedentary and trained KM mice..png",
