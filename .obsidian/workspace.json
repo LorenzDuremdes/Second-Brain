@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fba87fc6ce20c1ca",
+            "id": "ab4a56c93290c4aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meldonium.md",
+                "file": "audiophile.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "meldonium.md",
+                "file": "audiophile.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "meldonium",
+                "query": "audiophile",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meldonium.md",
+                "file": "audiophile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meldonium.md",
+                "file": "audiophile.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meldonium.md"
+                "file": "audiophile.md"
               }
             }
           },
@@ -179,10 +179,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fba87fc6ce20c1ca",
+  "active": "ab4a56c93290c4aa",
   "lastOpenFiles": [
-    "glycolysis.md",
     "meldonium.md",
+    "audiophile.md",
+    "glycolysis.md",
     "carbohydrate.md",
     "GW501516.md",
     "criterium.md",
@@ -214,7 +215,6 @@
     "sex hormone.md",
     "foam roller.md",
     "foam rolling transiently increases flexibility and alters perceptions of stretch.jpg",
-    "sports periodization (road cycling).md",
     "Fig. 2. Fat oxidation rates versus exercise intensity expressed as percentage of VO2max.png",
     "Fuel for the Work Required A Theoretical Framework for Carbohydrate Periodization and the Glycogen Threshold Hypothesis.webp",
     "Table 3 Theoretical overview of the ‘fuel for the work required’ model.png"
