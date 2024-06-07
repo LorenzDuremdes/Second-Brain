@@ -23,6 +23,8 @@
 	3. is the idea of Dr. Andrew Coggan's / Rushall's training philosophy to not accumulate any fatigue?
 			1. the idea is probably more to have the highest volume (CTL) as well as frequency (as that matters as well), both aimed at maximizing adaptations/performance
 				1. e.g. Dr. Andrew Coggan probably accumulated some fatigue during his interval days hence he had to titrate the intensity of his 'moderate-intensity filler days'
+2. why shouldn't you have 'major ups/downs' (Dr. Andrew Coggan's / Rushall's training philosophy) > [[sleep]] analogy
+	1. once recovered, you can't 'accumulate more recovery' (like with oversleeping) → you have to recover **longer** ([[diminishing returns]]) for extremely hard sessions and after as well (both bringing down e.g. CTL)
 # [[microcycle]]
 1. when could "drop sets" not be as beneficial? ([[road cycling]])
 	1. when the [[goal]] is something associated with metabolic waste e.g. [[lactate]]

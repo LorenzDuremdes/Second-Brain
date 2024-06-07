@@ -20,12 +20,24 @@
             }
           },
           {
+            "id": "5a1cf52f01d1dc35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sports periodization (road cycling).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "77d650f224c125d3",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "audiophile.md",
+                "file": "sports periodization (road cycling).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -54,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "audiophile",
+                "query": "rushall",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "audiophile.md",
+                "file": "sports periodization (road cycling).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "audiophile.md",
+                "file": "sports periodization (road cycling).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "audiophile.md"
+                "file": "sports periodization (road cycling).md"
               }
             }
           },
@@ -161,7 +174,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,8 +193,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ab4a56c93290c4aa",
+  "active": "4c7c506bcb1fd0b8",
   "lastOpenFiles": [
+    "institutionalized overtraining.md",
     "meldonium.md",
     "audiophile.md",
     "glycolysis.md",
@@ -213,7 +228,6 @@
     "density of air vs. power (myWindsock).png",
     "macronutrients.md",
     "sex hormone.md",
-    "foam roller.md",
     "foam rolling transiently increases flexibility and alters perceptions of stretch.jpg",
     "Fig. 2. Fat oxidation rates versus exercise intensity expressed as percentage of VO2max.png",
     "Fuel for the Work Required A Theoretical Framework for Carbohydrate Periodization and the Glycogen Threshold Hypothesis.webp",
