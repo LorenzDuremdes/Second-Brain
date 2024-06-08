@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sports periodization (road cycling).md",
+                "file": "overtraining.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sports periodization (road cycling).md",
+                "file": "overtraining.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rushall",
+                "query": "overtraining",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sports periodization (road cycling).md",
+                "file": "overtraining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sports periodization (road cycling).md",
+                "file": "overtraining.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sports periodization (road cycling).md"
+                "file": "overtraining.md"
               }
             }
           },
@@ -174,8 +174,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,11 +192,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4c7c506bcb1fd0b8",
+  "active": "51fbbfaf155022b6",
   "lastOpenFiles": [
+    "Predictive model for the identification of overtraining syndrome (OTS). EROS, Endocrine and Metabolic Responses on Overtraining Syndrome; GH, growth hormone; yo, years old..png",
+    "bmjsem-2019-000542f05.jpg",
+    "audiophile.md",
     "institutionalized overtraining.md",
     "meldonium.md",
-    "audiophile.md",
     "glycolysis.md",
     "carbohydrate.md",
     "GW501516.md",
@@ -227,10 +228,8 @@
     "density of air.md",
     "density of air vs. power (myWindsock).png",
     "macronutrients.md",
-    "sex hormone.md",
     "foam rolling transiently increases flexibility and alters perceptions of stretch.jpg",
     "Fig. 2. Fat oxidation rates versus exercise intensity expressed as percentage of VO2max.png",
-    "Fuel for the Work Required A Theoretical Framework for Carbohydrate Periodization and the Glycogen Threshold Hypothesis.webp",
-    "Table 3 Theoretical overview of the ‘fuel for the work required’ model.png"
+    "Fuel for the Work Required A Theoretical Framework for Carbohydrate Periodization and the Glycogen Threshold Hypothesis.webp"
   ]
 }

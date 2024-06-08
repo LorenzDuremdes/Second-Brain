@@ -1,5 +1,5 @@
 1. requirement for functional overreaching
-	1. sufficient recovery after overtraining to allow further [[progressive overload]]^[Cutting-Edge Cycling, 132]
+	1. sufficient recovery after [[overtraining]] to allow further [[progressive overload]]^[Cutting-Edge Cycling, 132]
 		1. e.g. deload week after ↑MRV last [[microcycle]] of a [[mesocycle]]
 	2. not too much muscle damage --> preventing [[deconditioning (fitness)|detraining]] while still recovering
 2. normal [[progressive overload]] + (non)functional overreaching
