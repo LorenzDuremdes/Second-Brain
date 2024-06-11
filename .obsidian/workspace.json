@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "229cf6baad9a090f",
+            "id": "cac02d35209e0913",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HiFiMAN Edition XS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6279b7fe919a66a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HiFiMAN Arya.md",
+                "file": "earwax.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HiFiMAN Arya.md",
+                "file": "earwax.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -66,8 +54,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "overtraining",
+                "query": "earwax",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -133,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HiFiMAN Arya.md",
+                "file": "earwax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HiFiMAN Arya.md",
+                "file": "earwax.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HiFiMAN Arya.md"
+                "file": "earwax.md"
               }
             }
           },
@@ -193,10 +180,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e6279b7fe919a66a",
+  "active": "cac02d35209e0913",
   "lastOpenFiles": [
-    "HiFiMAN Edition XS.md",
     "HiFiMAN Arya.md",
+    "earwax.md",
+    "HiFiMAN Edition XS.md",
     "audiophile.md",
     "Predictive model for the identification of overtraining syndrome (OTS). EROS, Endocrine and Metabolic Responses on Overtraining Syndrome; GH, growth hormone; yo, years old..png",
     "bmjsem-2019-000542f05.jpg",
@@ -228,7 +216,6 @@
     "transhumanism.md",
     "Untitled",
     "Avogadro's law.md",
-    "density of air.md",
     "density of air vs. power (myWindsock).png",
     "foam rolling transiently increases flexibility and alters perceptions of stretch.jpg",
     "Fig. 2. Fat oxidation rates versus exercise intensity expressed as percentage of VO2max.png"
