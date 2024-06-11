@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab4a56c93290c4aa",
+            "id": "229cf6baad9a090f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "audiophile.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a1cf52f01d1dc35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "overtraining.md",
+                "file": "HiFiMAN Edition XS.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "overtraining.md",
+                "file": "HiFiMAN Edition XS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -66,8 +54,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "overtraining.md",
+                "file": "HiFiMAN Edition XS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "overtraining.md",
+                "file": "HiFiMAN Edition XS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "overtraining.md"
+                "file": "HiFiMAN Edition XS.md"
               }
             }
           },
@@ -192,11 +179,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "51fbbfaf155022b6",
+  "active": "229cf6baad9a090f",
   "lastOpenFiles": [
+    "audiophile.md",
+    "HiFiMAN Edition XS.md",
     "Predictive model for the identification of overtraining syndrome (OTS). EROS, Endocrine and Metabolic Responses on Overtraining Syndrome; GH, growth hormone; yo, years old..png",
     "bmjsem-2019-000542f05.jpg",
-    "audiophile.md",
     "institutionalized overtraining.md",
     "meldonium.md",
     "glycolysis.md",
@@ -229,7 +217,6 @@
     "density of air vs. power (myWindsock).png",
     "macronutrients.md",
     "foam rolling transiently increases flexibility and alters perceptions of stretch.jpg",
-    "Fig. 2. Fat oxidation rates versus exercise intensity expressed as percentage of VO2max.png",
-    "Fuel for the Work Required A Theoretical Framework for Carbohydrate Periodization and the Glycogen Threshold Hypothesis.webp"
+    "Fig. 2. Fat oxidation rates versus exercise intensity expressed as percentage of VO2max.png"
   ]
 }
