@@ -1,4 +1,5 @@
-1. Massive Soundstage​
+1. [Headphones & portable audio - HIFIMAN.com](https://www.hifiman.com/products/detail/315)
+2. Massive Soundstage​
    
    Planars have a flat diaphragm and Hifiman Planars especially have extra thin diagphram’s providing much more sound from a larger surface in each ear. Further the earpads on the Hifiman XS are angled which enhances that sense of listening to music presented in front of you. This together with the open back mean they sound much more like I can in a room than with other headphones (including the AKG K702) with different instruments / vocals in clearly separately distinct places in 3D space.
 2. [HiFiMan Edition XS v Arya Stealth- the shocking truth (youtube.com)](https://www.youtube.com/watch?v=DEEhqsASBj0)
