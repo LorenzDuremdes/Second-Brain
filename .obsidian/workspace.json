@@ -161,7 +161,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,7 +180,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "229cf6baad9a090f",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
     "audiophile.md",
     "HiFiMAN Edition XS.md",
