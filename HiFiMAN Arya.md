@@ -1,0 +1,2 @@
+# Stealth
+1. They also sound wide, maybe it’s because they sit so far from your head, but they sound like the [[audio]] just exists around you, doesn’t sound like its coming from a single point source next to your ear. For a few songs it is what some describe as soundstage, truly sounds like it's coming from speakers and the sound just exists in the room with you, even the AKG don’t feel as wide.^[[1 year detailed Hifiman Arya Stealth review : r/headphones (reddit.com)](https://www.reddit.com/r/headphones/comments/1bu2igv/1_year_detailed_hifiman_arya_stealth_review/)]

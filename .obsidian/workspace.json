@@ -20,12 +20,24 @@
             }
           },
           {
+            "id": "e6279b7fe919a66a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HiFiMAN Arya.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "77d650f224c125d3",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HiFiMAN Edition XS.md",
+                "file": "HiFiMAN Arya.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -54,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HiFiMAN Edition XS.md",
+                "file": "HiFiMAN Arya.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HiFiMAN Edition XS.md",
+                "file": "HiFiMAN Arya.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HiFiMAN Edition XS.md"
+                "file": "HiFiMAN Arya.md"
               }
             }
           },
@@ -180,10 +193,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "e6279b7fe919a66a",
   "lastOpenFiles": [
-    "audiophile.md",
     "HiFiMAN Edition XS.md",
+    "HiFiMAN Arya.md",
+    "audiophile.md",
     "Predictive model for the identification of overtraining syndrome (OTS). EROS, Endocrine and Metabolic Responses on Overtraining Syndrome; GH, growth hormone; yo, years old..png",
     "bmjsem-2019-000542f05.jpg",
     "institutionalized overtraining.md",
@@ -216,7 +230,6 @@
     "Avogadro's law.md",
     "density of air.md",
     "density of air vs. power (myWindsock).png",
-    "macronutrients.md",
     "foam rolling transiently increases flexibility and alters perceptions of stretch.jpg",
     "Fig. 2. Fat oxidation rates versus exercise intensity expressed as percentage of VO2max.png"
   ]
