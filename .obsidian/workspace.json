@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cac02d35209e0913",
+            "id": "388648db78ff8ac5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "earwax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9924a7f507649ac3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bang & Olufsen.md",
+                "file": "in-ear monitor.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bang & Olufsen.md",
+                "file": "in-ear monitor.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -66,8 +54,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bang an",
+                "query": "in-ear monitor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -134,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bang & Olufsen.md",
+                "file": "in-ear monitor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bang & Olufsen.md",
+                "file": "in-ear monitor.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bang & Olufsen.md"
+                "file": "in-ear monitor.md"
               }
             }
           },
@@ -194,8 +180,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9924a7f507649ac3",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
+    "Bang & Olufsen.md",
+    "in-ear monitor.md",
     "Beoplay H95 (Bang & Olufsen).md",
     "HiFiMAN Edition XS.md",
     "HiFiMAN Arya.md",
@@ -227,8 +215,6 @@
     "digestion.md",
     "sports nutrition.md",
     "sucrose.md",
-    "Tour de France.md",
-    "transhumanism.md",
     "Untitled",
     "density of air vs. power (myWindsock).png",
     "foam rolling transiently increases flexibility and alters perceptions of stretch.jpg",
