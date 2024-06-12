@@ -28,6 +28,21 @@
 ## optimization
 1. optimal crossover frequency (average) = 80 Hz^[https://www.reddit.com/r/audiophile/comments/59fnng/crossover_frequency/]
 
+# planar magnetic
+## advantages
+1. Only thing i think planars have going for them is high tuning ability and a clean bass.
+   
+   My he400se without EQ sound just above average. But with EQ they sound exceptionally well. Like you wont want to keep them down. For 109$ + free EQ, they are hard to beat.^[[Are planar magnetic headphones really more accurate than dynamic driver headphones? : r/headphones (reddit.com)](https://www.reddit.com/r/headphones/comments/13pvroc/are_planar_magnetic_headphones_really_more/)]
+2. planar magnetic headphones usually extends further down in the bass (bass is also cleaner) and has more details in the treble (due to the fact that they're usually faster than dynamic driver)^[[Are planar magnetic headphones really more accurate than dynamic driver headphones? : r/headphones (reddit.com)](https://www.reddit.com/r/headphones/comments/13pvroc/are_planar_magnetic_headphones_really_more/)]
+	1. e.g. the [[Bang & Olufsen]] - Beoplay H95 'only' go down to 20 Hz while the [[HiFiMAN Edition XS]] goes down to 8 Hz
+
+## disadvantages
+1. planar magnetic headphones usually require relatively more power e.g. not ideal for a limited accu^[[Why do not more companies use planar magentic drives? (Such as Apple for instance) : r/headphones (reddit.com)](https://www.reddit.com/r/headphones/comments/18dr4ny/why_do_not_more_companies_use_planar_magentic/)]
+   
+   planar magnetic headphones take significantly more work to get its tonality right, especially on closed-back planars
+   
+   planar magnetic headphones usually weigh more
+
 # testing
 1. [TIMELAPSE OF THE FUTURE: A Journey to the End of Time (4K)](https://www.youtube.com/watch?v=uD4izuDMUQA)
 2. [Dolby Cinema | Pre Show](https://www.youtube.com/watch?v=o5M5T5gHkhg)

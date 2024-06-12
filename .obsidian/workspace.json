@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "in-ear monitor.md",
+                "file": "headphones.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "in-ear monitor.md",
+                "file": "headphones.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "in-ear monitor",
+                "query": "headphones",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "in-ear monitor.md",
+                "file": "headphones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "in-ear monitor.md",
+                "file": "headphones.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "in-ear monitor.md"
+                "file": "headphones.md"
               }
             }
           },
@@ -182,8 +182,8 @@
   },
   "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "Bang & Olufsen.md",
     "in-ear monitor.md",
+    "Bang & Olufsen.md",
     "Beoplay H95 (Bang & Olufsen).md",
     "HiFiMAN Edition XS.md",
     "HiFiMAN Arya.md",
