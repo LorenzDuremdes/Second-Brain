@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HiFiMAN Edition XS.md",
+                "file": "Beoplay H95 (Bang & Olufsen).md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HiFiMAN Edition XS.md",
+                "file": "Beoplay H95 (Bang & Olufsen).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "earwax",
+                "query": "beoplay",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,7 +113,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HiFiMAN Edition XS.md",
+                "file": "Beoplay H95 (Bang & Olufsen).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HiFiMAN Edition XS.md",
+                "file": "Beoplay H95 (Bang & Olufsen).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HiFiMAN Edition XS.md"
+                "file": "Beoplay H95 (Bang & Olufsen).md"
               }
             }
           },
@@ -195,9 +196,9 @@
   },
   "active": "9924a7f507649ac3",
   "lastOpenFiles": [
+    "HiFiMAN Edition XS.md",
     "HiFiMAN Arya.md",
     "earwax.md",
-    "HiFiMAN Edition XS.md",
     "audiophile.md",
     "Predictive model for the identification of overtraining syndrome (OTS). EROS, Endocrine and Metabolic Responses on Overtraining Syndrome; GH, growth hormone; yo, years old..png",
     "bmjsem-2019-000542f05.jpg",
