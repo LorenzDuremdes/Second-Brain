@@ -1,7 +1,7 @@
 1. [Headphones & portable audio - HIFIMAN.com](https://www.hifiman.com/products/detail/315)
 2. [HiFiMan Edition XS v Arya Stealth- the shocking truth (youtube.com)](https://www.youtube.com/watch?v=DEEhqsASBj0)
 	1. [What are your favorite headphones for cinematic experiences - things like action/space movies and video games? : r/headphones (reddit.com)](https://www.reddit.com/r/headphones/comments/zblj0h/what_are_your_favorite_headphones_for_cinematic/)
-		1. Hifiman Arya. I feel like I'm in a movie theater
+		1. [[Hifiman Arya]]. I feel like I'm in a movie theater
 		2. IT will literally be night and day. I like Focal [[headphones]] but they have a really intimate soundstage, not much separation but a still very 3d like imaging. The Arya SE have a very wide and more importantly very tall soundstage. It is much more concert hall like. The separation is much better and while the Focals imaging is probably slightly more accurate the added space and separation make the whole experience much better for me. Don't have that same slam though the Focals are known for but it is very well extended and takes to EQ very well if you want to add a nice shelf.
 
 # soundstage
