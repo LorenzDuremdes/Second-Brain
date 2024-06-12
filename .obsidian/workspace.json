@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Beoplay H95 (Bang & Olufsen).md",
+                "file": "Bang & Olufsen.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Beoplay H95 (Bang & Olufsen).md",
+                "file": "Bang & Olufsen.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "beoplay",
+                "query": "bang an",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beoplay H95 (Bang & Olufsen).md",
+                "file": "Bang & Olufsen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beoplay H95 (Bang & Olufsen).md",
+                "file": "Bang & Olufsen.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beoplay H95 (Bang & Olufsen).md"
+                "file": "Bang & Olufsen.md"
               }
             }
           },
@@ -196,6 +196,7 @@
   },
   "active": "9924a7f507649ac3",
   "lastOpenFiles": [
+    "Beoplay H95 (Bang & Olufsen).md",
     "HiFiMAN Edition XS.md",
     "HiFiMAN Arya.md",
     "earwax.md",
@@ -229,7 +230,6 @@
     "Tour de France.md",
     "transhumanism.md",
     "Untitled",
-    "Avogadro's law.md",
     "density of air vs. power (myWindsock).png",
     "foam rolling transiently increases flexibility and alters perceptions of stretch.jpg",
     "Fig. 2. Fat oxidation rates versus exercise intensity expressed as percentage of VO2max.png"
