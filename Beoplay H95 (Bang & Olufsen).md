@@ -1,3 +1,21 @@
+1. [Beoplay H95 - Premium Noise-Cancelling Headphones | B&O (bang-olufsen.com)](https://www.bang-olufsen.com/en/nl/headphones/beoplay-h95) €999
+	1. Pure sound. Pure silence. Pure bliss.
+	   
+	   Lose yourself in [[music]]. Find yourself in silence. Beoplay H95 is all about depth, detail and delight. From sound to finish.
+	   
+	   **Standout sound quality**
+	   Custom titanium drivers – nestled under detachable magnetic earcups – are tuned for outstanding fidelity. It's done under the watchful ear of our in-house [[Tonmeister]]. The result? More lush lows, punchier mids and crisper highs. Put simply, you'll hear magical details you've never heard before.
+	   
+	   **Crafted for the senses**
+	   You can see it in the soft lambskin leather, picked and stitched with exacting attention to detail. You can feel it in the precision-cut aluminium frame that's robust yet beautiful. Even the carry case tells the story. Timeless design, made to last for generations.
+	   
+	   **Awards and reviews**
+	   So what does spending the equivalent of two pairs of the outstanding Sony WH-1000XM4 get you? The Beoplay H95 takes almost a century’s worth of [[Bang & Olufsen]]’s very specific talents and condenses them into a pair of [[headphones]] that combine aural and tactile gratification in a way that’s without obvious comparison.^[[Bang & Olufsen Beoplay H95 review: Perfect headphones | British GQ (gq-magazine.co.uk)](https://www.gq-magazine.co.uk/lifestyle/article/bang-and-olufsen-beoplay-h95-review)]
+	   
+	2. Every bit the premium pair of wireless [[headphones]], this [[Bang & Olufsen]] Beoplay H95 review won’t be for everyone...  because these are so expensive it won’t be for many people actually, but if you’re willing to spend this much then it will be _oh-so-worth-it_.
+	   
+	  As you might expect, they absolutely scream sophistication. The [[Bang & Olufsen]] Beoplay H95 are excellent. They’re luxurious, they sound amazing and the smartphone app gives you a good amount of control.^[[Bang & Olufsen Beoplay H95 review | T3](https://www.t3.com/reviews/bang-and-olufsen-beoplay-h95-review)]
+
 # improve
 1. how can you experience the same song 'more than once'?
 	1. switch between EQ settings (or turn it off on the Bang and Olufsen Beoplay H95)
