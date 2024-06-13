@@ -8,54 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77d650f224c125d3",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "biological-half life.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0,
-                  "repelStrength": 20,
-                  "linkStrength": 1,
-                  "linkDistance": 30,
-                  "scale": 1.3573465037742733,
-                  "close": false
-                }
-              }
-            }
-          },
-          {
-            "id": "ff782b3441453aaf",
+            "id": "259029fe518479ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biological-half life.md",
+                "file": "ghrelin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "869c45f1c367477c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "growth hormone.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "half-life",
+                "query": "ghrelin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -101,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "biological-half life.md",
+                "file": "ghrelin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biological-half life.md",
+                "file": "ghrelin.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "biological-half life.md"
+                "file": "ghrelin.md"
               }
             }
           },
@@ -184,8 +159,11 @@
   },
   "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "Beoplay H95 (Bang & Olufsen).md",
     "biological-half life.md",
+    "growth hormone.md",
+    "ghrelin.md",
+    "Untitled 1.md",
+    "Beoplay H95 (Bang & Olufsen).md",
     "HiFiMAN Arya.md",
     "headphones.md",
     "in-ear monitor.md",
@@ -214,9 +192,6 @@
     "fasted training.md",
     "PPARGC1A.md",
     "power-to-weight ratio (road cycling).md",
-    "chronic training load.md",
-    "personal achievements.md",
-    "digestion.md",
     "Untitled",
     "density of air vs. power (myWindsock).png",
     "foam rolling transiently increases flexibility and alters perceptions of stretch.jpg",
