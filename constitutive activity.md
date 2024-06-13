@@ -1,0 +1,1 @@
+1. constitutive activity; a receptor which is capable of producing a biological response in the absence of a bound ligand^[https://en.wikipedia.org/wiki/Receptor_(biochemistry)#Constitutive_activity]

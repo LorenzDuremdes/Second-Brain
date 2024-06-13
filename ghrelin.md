@@ -1,2 +1,3 @@
 1. ghrelin; stimulates [[brain]] structures having a specific receptor – the [[growth hormone]] secretagogue receptor 1A (GHSR-1A).^[https://en.wikipedia.org/wiki/Ghrelin]
 2. [[blood]] levels of ghrelin are highest before meals when hungry, returning to lower levels after mealtimes.^[https://en.wikipedia.org/wiki/Ghrelin]
+3. One important feature of GHS-R1a is that there is still some activity in the receptor even when it is not actively being stimulated. This is called [[constitutive activity]], and it means that the receptor is always "on," unless acted on by an [[inverse agonist]].^[https://en.wikipedia.org/wiki/Growth_hormone_secretagogue_receptor]
