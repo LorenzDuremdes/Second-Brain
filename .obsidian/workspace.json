@@ -8,43 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea2dd89f5e3ca5c8",
+            "id": "a94312253c161437",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MK-677.md",
+                "file": "calf (leg).md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "55296f526b6a85ac"
           },
           {
-            "id": "869c45f1c367477c",
+            "id": "2a9c24149c7872f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "localgraph",
               "state": {
-                "file": "growth hormone.md",
-                "mode": "source",
-                "source": false
+                "file": "calf (leg).md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0,
+                  "repelStrength": 20,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 1,
+                  "close": false
+                }
               }
-            }
-          },
-          {
-            "id": "2a9838e6ee3cd41a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chocolate milk.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            },
+            "group": "55296f526b6a85ac"
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chocolate milk.md",
+                "file": "calf (leg).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chocolate milk.md",
+                "file": "calf (leg).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chocolate milk.md"
+                "file": "calf (leg).md"
               }
             }
           },
@@ -170,10 +182,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2a9838e6ee3cd41a",
+  "active": "a94312253c161437",
   "lastOpenFiles": [
-    "MK-677.md",
     "chocolate milk.md",
+    "calf (leg).md",
+    "MK-677.md",
     "ghrelin.md",
     "inverse agonist.md",
     "constitutive activity.md",
@@ -203,7 +216,6 @@
     "peroxisome proliferator-activated receptor delta.md",
     "peroxisome proliferator-activated receptor.md",
     "ultra-distance cycling.md",
-    "aerodynamics (road cycling).md",
     "Dylan Johnson Unbound Gravel 2024 (Instagram).png",
     "Untitled",
     "density of air vs. power (myWindsock).png",
