@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ghrelin.md",
+                "file": "MK-677.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ghrelin.md",
+                "file": "MK-677.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ghrelin.md",
+                "file": "MK-677.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ghrelin.md"
+                "file": "MK-677.md"
               }
             }
           },
@@ -159,8 +159,8 @@
   },
   "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "inverse agonist.md",
     "ghrelin.md",
+    "inverse agonist.md",
     "constitutive activity.md",
     "biological-half life.md",
     "growth hormone.md",
