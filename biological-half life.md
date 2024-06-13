@@ -1,0 +1,8 @@
+1. does the biological [[half-life]] occur immediately after consumption + why
+	1. the [[time]] taken for concentration of a biological substance (such as a [[medication]]) to **decrease from its maximum concentration** (C<sub>max</sub>) to half of C<sub>max</sub> in the [[blood plasma]]^[https://en.wikipedia.org/wiki/Biological_half-life]
+	2. The elimination [[half-life]] of a [[drug]] generally begins after its [[onset of action]], not immediately after consumption. Here's a step-by-step explanation:
+		1. **[[Drug]] Consumption**: When a [[drug]] is taken, it starts to be absorbed into the [[circulatory system|bloodstream]]. The [[speed]] of absorption depends on the [[drug]]'s formulation and the mode of administration (e.g., oral, intravenous, etc.).
+		2. **[[Onset of Action]]**: After the [[drug]] is absorbed, it reaches the target site and begins to exert its therapeutic effects. The [[onset of action]] is the [[time]] it takes for a [[drug]] to start having a noticeable effect after administration.
+		3. **Elimination [[Half-Life]]**: This is the period of [[time]] required for the concentration of the [[drug]] in the bloodstream to reduce by half. This process does not start until the [[drug]] has been absorbed and has reached peak levels in the [[blood]], which typically occurs after the [[onset of action]].
+		   
+		   Therefore, the elimination [[half-life]] effectively measures how long the [[drug]] remains active and is being metabolized and excreted after it has already started working.^[GPT-4]

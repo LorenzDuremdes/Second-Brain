@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "388648db78ff8ac5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Beoplay H95 (Bang & Olufsen).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "77d650f224c125d3",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Beoplay H95 (Bang & Olufsen).md",
+                "file": "biological-half life.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -53,8 +41,21 @@
                 }
               }
             }
+          },
+          {
+            "id": "ff782b3441453aaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "biological-half life.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "headphones",
+                "query": "half-life",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +101,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Beoplay H95 (Bang & Olufsen).md",
+                "file": "biological-half life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Beoplay H95 (Bang & Olufsen).md",
+                "file": "biological-half life.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Beoplay H95 (Bang & Olufsen).md"
+                "file": "biological-half life.md"
               }
             }
           },
@@ -182,11 +184,12 @@
   },
   "active": "183b09389d505b81",
   "lastOpenFiles": [
+    "Beoplay H95 (Bang & Olufsen).md",
+    "biological-half life.md",
     "HiFiMAN Arya.md",
     "headphones.md",
     "in-ear monitor.md",
     "Bang & Olufsen.md",
-    "Beoplay H95 (Bang & Olufsen).md",
     "HiFiMAN Edition XS.md",
     "earwax.md",
     "audiophile.md",
@@ -214,7 +217,6 @@
     "chronic training load.md",
     "personal achievements.md",
     "digestion.md",
-    "sports nutrition.md",
     "Untitled",
     "density of air vs. power (myWindsock).png",
     "foam rolling transiently increases flexibility and alters perceptions of stretch.jpg",
