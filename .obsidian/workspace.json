@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "873ee0f79f4cd2e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Harman target.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2a9c24149c7872f6",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Harman target.md",
+                "file": "orthorexia nervosa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -53,8 +41,21 @@
                 }
               }
             }
+          },
+          {
+            "id": "63c94906cf574956",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "orthorexia nervosa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "harman",
+                "query": "orthorexia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Harman target.md",
+                "file": "orthorexia nervosa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Harman target.md",
+                "file": "orthorexia nervosa.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Harman target.md"
+                "file": "orthorexia nervosa.md"
               }
             }
           },
@@ -180,10 +181,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "873ee0f79f4cd2e3",
+  "active": "63c94906cf574956",
   "lastOpenFiles": [
-    "calf (leg).md",
+    "orthorexia.md",
     "Harman target.md",
+    "calf (leg).md",
     "chocolate milk.md",
     "MK-677.md",
     "ghrelin.md",
@@ -213,7 +215,6 @@
     "protein catabolism.md",
     "The effects of GW501516 treatment on skeletal muscle gene expression in trained and sedentary KM mice.png",
     "peroxisome proliferator-activated receptor delta.md",
-    "peroxisome proliferator-activated receptor.md",
     "Dylan Johnson Unbound Gravel 2024 (Instagram).png",
     "Untitled",
     "density of air vs. power (myWindsock).png",
