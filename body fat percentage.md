@@ -1,0 +1,2 @@
+# low body [[fat]] %
+1. [[Infographic] Here's the cost of getting lean. Is it really worth the trade-off? | Precision Nutrition](https://www.precisionnutrition.com/cost-of-getting-lean-infographic)]] ![[Here’s the cost of getting lean. [Infographic] Is it really worth the trade-off.png]]

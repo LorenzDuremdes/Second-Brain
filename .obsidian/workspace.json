@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "orthorexia nervosa.md",
+                "file": "body fat percentage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "orthorexia nervosa.md",
+                "file": "body fat percentage.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "orthorexia",
+                "query": "body fat per",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -101,7 +101,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "orthorexia nervosa.md",
+                "file": "body fat percentage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "orthorexia nervosa.md",
+                "file": "body fat percentage.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "orthorexia nervosa.md"
+                "file": "body fat percentage.md"
               }
             }
           },
@@ -181,8 +182,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "63c94906cf574956",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
+    "Here’s the cost of getting lean. [Infographic] Is it really worth the trade-off.png",
+    "orthorexia nervosa.md",
     "orthorexia.md",
     "Harman target.md",
     "calf (leg).md",
@@ -212,9 +215,7 @@
     "Figure S2. Effects of GW501516 treatment on SDH-positive fibres in trained mice. .png",
     "The effects of GW501516 on SDH-positive fibres in skeletal muscle of sedentary and trained KM mice.jpg",
     "The effects of GW501516 on running performance, blood glucose, and blood lactate in sedentary and trained KM mice..png",
-    "protein catabolism.md",
     "The effects of GW501516 treatment on skeletal muscle gene expression in trained and sedentary KM mice.png",
-    "peroxisome proliferator-activated receptor delta.md",
     "Dylan Johnson Unbound Gravel 2024 (Instagram).png",
     "Untitled",
     "density of air vs. power (myWindsock).png",
