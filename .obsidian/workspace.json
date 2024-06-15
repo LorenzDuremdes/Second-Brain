@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "body fat percentage.md",
+                "file": "benzodiazepine.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "63c94906cf574956",
+            "id": "a28e5b5e06a66cf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "body fat percentage.md",
+                "file": "benzodiazepine.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "body fat per",
+                "query": "benzo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -101,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "body fat percentage.md",
+                "file": "benzodiazepine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "body fat percentage.md",
+                "file": "benzodiazepine.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "body fat percentage.md"
+                "file": "benzodiazepine.md"
               }
             }
           },
@@ -184,6 +183,10 @@
   },
   "active": "183b09389d505b81",
   "lastOpenFiles": [
+    "bromazolam.md",
+    "benzodiazepine.md",
+    "nonbenzodiazepine.md",
+    "body fat percentage.md",
     "Here’s the cost of getting lean. [Infographic] Is it really worth the trade-off.png",
     "orthorexia nervosa.md",
     "orthorexia.md",
@@ -209,9 +212,6 @@
     "institutionalized overtraining.md",
     "meldonium.md",
     "glycolysis.md",
-    "carbohydrate.md",
-    "GW501516.md",
-    "criterium.md",
     "Figure S2. Effects of GW501516 treatment on SDH-positive fibres in trained mice. .png",
     "The effects of GW501516 on SDH-positive fibres in skeletal muscle of sedentary and trained KM mice.jpg",
     "The effects of GW501516 on running performance, blood glucose, and blood lactate in sedentary and trained KM mice..png",
@@ -219,7 +219,6 @@
     "Dylan Johnson Unbound Gravel 2024 (Instagram).png",
     "Untitled",
     "density of air vs. power (myWindsock).png",
-    "foam rolling transiently increases flexibility and alters perceptions of stretch.jpg",
-    "Fig. 2. Fat oxidation rates versus exercise intensity expressed as percentage of VO2max.png"
+    "foam rolling transiently increases flexibility and alters perceptions of stretch.jpg"
   ]
 }
