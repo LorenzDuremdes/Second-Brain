@@ -1,0 +1,1 @@
+1. unlike many other [[benzodiazepine]] and [[nonbenzodiazepine]] hypnotics such as [[diazepam]], flunitrazepam, and zopiclone, cinazepam does not violate [[sleep]] architecture, and the continuity of [[NREM sleep|slow-wave sleep]] and [[REM sleep]] are proportionally increased.^[https://en.wikipedia.org/wiki/Cinazepam]
