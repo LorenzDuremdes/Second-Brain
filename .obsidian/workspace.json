@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bb31ede332df901c",
+            "id": "5265724b22cd7015",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bromazolam.md",
+                "file": "high fidelity.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "bromazolam.md",
+                "file": "high fidelity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "benzo",
+                "query": "high fidelity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bromazolam.md",
+                "file": "high fidelity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bromazolam.md",
+                "file": "high fidelity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bromazolam.md"
+                "file": "high fidelity.md"
               }
             }
           },
@@ -180,11 +180,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bb31ede332df901c",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
+    "HiFiMAN Edition XS.md",
+    "high fidelity.md",
+    "bromazolam.md",
     "cinazepam.md",
     "benzodiazepine.md",
-    "bromazolam.md",
     "nonbenzodiazepine.md",
     "body fat percentage.md",
     "Here’s the cost of getting lean. [Infographic] Is it really worth the trade-off.png",
@@ -204,13 +206,11 @@
     "headphones.md",
     "in-ear monitor.md",
     "Bang & Olufsen.md",
-    "HiFiMAN Edition XS.md",
     "earwax.md",
     "audiophile.md",
     "Predictive model for the identification of overtraining syndrome (OTS). EROS, Endocrine and Metabolic Responses on Overtraining Syndrome; GH, growth hormone; yo, years old..png",
     "bmjsem-2019-000542f05.jpg",
     "institutionalized overtraining.md",
-    "meldonium.md",
     "Figure S2. Effects of GW501516 treatment on SDH-positive fibres in trained mice. .png",
     "The effects of GW501516 on SDH-positive fibres in skeletal muscle of sedentary and trained KM mice.jpg",
     "The effects of GW501516 on running performance, blood glucose, and blood lactate in sedentary and trained KM mice..png",
