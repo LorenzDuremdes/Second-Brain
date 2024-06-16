@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "high fidelity.md",
+                "file": "HiFiMAN Edition XS.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "high fidelity.md",
+                "file": "HiFiMAN Edition XS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "high fidelity.md",
+                "file": "HiFiMAN Edition XS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "high fidelity.md",
+                "file": "HiFiMAN Edition XS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "high fidelity.md"
+                "file": "HiFiMAN Edition XS.md"
               }
             }
           },
@@ -180,10 +180,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "5265724b22cd7015",
   "lastOpenFiles": [
-    "HiFiMAN Edition XS.md",
     "high fidelity.md",
+    "HiFiMAN Edition XS.md",
     "bromazolam.md",
     "cinazepam.md",
     "benzodiazepine.md",
