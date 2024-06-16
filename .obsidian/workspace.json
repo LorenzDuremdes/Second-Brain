@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "free will.md",
+                "file": "HiFiMAN Edition XS.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "free will.md",
+                "file": "HiFiMAN Edition XS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "free will.md",
+                "file": "HiFiMAN Edition XS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "free will.md",
+                "file": "HiFiMAN Edition XS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "free will.md"
+                "file": "HiFiMAN Edition XS.md"
               }
             }
           },
@@ -161,7 +161,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,10 +180,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "51fbbfaf155022b6",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "quantum physics.md",
     "free will.md",
+    "quantum physics.md",
     "HiFiMAN Edition XS.md",
     "high fidelity.md",
     "bromazolam.md",
