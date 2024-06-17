@@ -1,0 +1,3 @@
+1. functional training; a classification of exercise which involves training the body for the activities performed in daily life
+   
+   For example, exercises that mimic what patients did at home or work may be included in treatment in order to help them return to their lives or jobs after an injury or surgery. Thus if a patient's job required repeatedly heavy lifting, rehabilitation would be targeted towards heavy lifting^[https://en.wikipedia.org/wiki/Functional_training]
