@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="291">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:#5A7ED6;stroke-width:6;stroke-linejoin:round}
+    .str0 {stroke:#5A7ED6;stroke-width:6;stroke-linecap:round;stroke-linejoin:round}
+    .str1 {stroke:#7A8AAE;stroke-width:6;stroke-linecap:round}
+    .fil1 {fill:none}
+    .fil4 {fill:#000000}
+    .fil3 {fill:#5A7ED6}
+    .fil0 {fill:#FEFAEA}
+    .fil2 {fill:#FF0000}
+    .fnt0 {font-weight:normal;font-size:23;font-family:Arial}
+   ]]>
+  </style>
+ </defs>
+ <path class="fil0" d="M0 0l500 0 0 292 -500 0 0 -292z"/>
+  <path class="fil1 str0" d="M75 84l145 66c3,1 24,-8 18,-15 -20,-21 -41,-41 -62,-62l-25 -41 -38 -16c-11,5 -20,11 -29,17 -15,12 -16,30 -9,51z"/>
+  <path class="fil1 str0" d="M98 95l-17 21"/>
+  <path class="fil1 str0" d="M107 98l-17 22"/>
+  <path class="fil1 str0" d="M175 130l-19 19"/>
+  <path class="fil1 str0" d="M184 133l-18 20"/>
+  <path class="fil1 str0" d="M49 102l174 77 -6 9 -174 -77 6 -9z"/>
+  <path class="fil1 str1" d="M18 196l225 0"/>
+  <path class="fil1 str1" d="M261 196l224 0"/>
+  <path class="fil1 str0" d="M310 87l145 66c3,0 24,-9 18,-15 -20,-22 -41,-42 -62,-62l-25 -42 -38 -15c-11,5 -20,11 -29,17 -15,12 -16,30 -9,51z"/>
+  <path class="fil1 str0" d="M279 149l175 30 -1 9 -175 -29 1 -10z"/>
+  <path class="fil1 str2" d="M328 97l-6 7 6 5 9 -9"/>
+  <path class="fil1 str2" d="M315 153l0 -18 13 5 -2 17"/>
+  <path class="fil1 str2" d="M416 171l0 -11 8 1 4 14"/>
+  <path class="fil1 str2" d="M422 141l-4 13 6 1 7 -12"/>
+  <circle class="fil2" cx="421" cy="158" r="7"/>
+   <path class="fil3" d="M482 167l-2 1 -20 42 3 2 20 -43 -1 -2 1 2 0 -2 -1 0z"/>
+   <path class="fil3" d="M467 168l14 2 1 -3 -14 -2z"/>
+   <path class="fil3" d="M468 174l-13 -9 15 -6 -2 15 -13 -9z"/>
+  <text x="428" y="227" class="fil4 fnt0">Hinge</text>
+  <text x="65" y="269" class="fil4 fnt0">Regular skate</text>
+  <text x="320" y="269" class="fil4 fnt0">Clap skate</text>
+</svg>

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ace731b18273ec22",
+            "id": "1fd315865e97dbec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "functional training.md",
+                "file": "clap skate.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "functional training.md",
+                "file": "clap skate.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "functional training.md",
+                "file": "clap skate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "functional training.md",
+                "file": "clap skate.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "functional training.md"
+                "file": "clap skate.md"
               }
             }
           },
@@ -182,8 +182,10 @@
   },
   "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "HiFiMAN Edition XS.md",
+    "Clap_skate.svg",
     "functional training.md",
+    "clap skate.md",
+    "HiFiMAN Edition XS.md",
     "free will.md",
     "quantum physics.md",
     "high fidelity.md",
@@ -207,8 +209,6 @@
     "Beoplay H95 (Bang & Olufsen).md",
     "HiFiMAN Arya.md",
     "headphones.md",
-    "in-ear monitor.md",
-    "Bang & Olufsen.md",
     "Predictive model for the identification of overtraining syndrome (OTS). EROS, Endocrine and Metabolic Responses on Overtraining Syndrome; GH, growth hormone; yo, years old..png",
     "bmjsem-2019-000542f05.jpg",
     "Figure S2. Effects of GW501516 treatment on SDH-positive fibres in trained mice. .png",
