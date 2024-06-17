@@ -19,6 +19,8 @@ for legal supplements, see: [[sports supplement]]
 	1. e.g. [[chlorodehydromethyltestosterone]]
 4. [Nootropics That Enhances Athletic Performance : r/Nootropics (reddit.com)](https://www.reddit.com/r/Nootropics/comments/akk63r/nootropics_that_enhances_athletic_performance/)
 	1. [Any nootropics that help with athletics? : r/Nootropics (reddit.com)](https://www.reddit.com/r/Nootropics/comments/3jd06u/any_nootropics_that_help_with_athletics/)
+2. can you use steroids / PEDs safely?
+	1. yes e.g. proper cycling or dosages^[https://youtu.be/lmClPGvdWTI?si=hfWhytHbblxYDmXL&t=688, Dr. Mike israetel]
 
 # cycles
 ## endurance
