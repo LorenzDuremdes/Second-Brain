@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1fd315865e97dbec",
+            "id": "9949666c57d976ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clap skate.md",
+                "file": "technology doping.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "clap skate.md",
+                "file": "technology doping.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "clap skate.md",
+                "file": "technology doping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "clap skate.md",
+                "file": "technology doping.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "clap skate.md"
+                "file": "technology doping.md"
               }
             }
           },
@@ -182,9 +182,10 @@
   },
   "active": "183b09389d505b81",
   "lastOpenFiles": [
+    "clap skate.md",
+    "technology doping.md",
     "Clap_skate.svg",
     "functional training.md",
-    "clap skate.md",
     "HiFiMAN Edition XS.md",
     "free will.md",
     "quantum physics.md",
@@ -217,7 +218,6 @@
     "The effects of GW501516 treatment on skeletal muscle gene expression in trained and sedentary KM mice.png",
     "Dylan Johnson Unbound Gravel 2024 (Instagram).png",
     "Untitled",
-    "density of air vs. power (myWindsock).png",
-    "foam rolling transiently increases flexibility and alters perceptions of stretch.jpg"
+    "density of air vs. power (myWindsock).png"
   ]
 }

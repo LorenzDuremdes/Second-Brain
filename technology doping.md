@@ -1,0 +1,1 @@
+1. technology [[doping]]; the practice of gaining a competitive advantage using sports equipment^[https://en.wikipedia.org/wiki/Technology_doping]
