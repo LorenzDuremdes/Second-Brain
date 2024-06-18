@@ -1,0 +1,1 @@
+1. theanine ([[biological-half life|elimination half-life]]) ≈ 1.2 hours (capsule)^[https://en.wikipedia.org/wiki/Theanine]

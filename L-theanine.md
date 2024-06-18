@@ -1,2 +1,2 @@
-1. L-theanine → mental regeneration
-	1. It is concluded that post-workout supplementation of 50 mg L-theanine accelerates mental regeneration after [[physical exercise]]. The effect is not based on hormonal changes and higher amounts of L-theanine do not result in additional benefits.^[[Improving mental regeneration after physical exercise - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3313114/)]
+1. L-[[theanine]] → mental regeneration
+	1. It is concluded that post-workout supplementation of 50 mg L-[[theanine]] accelerates mental regeneration after [[physical exercise]]. The effect is not based on hormonal changes and higher amounts of L-[[theanine]] do not result in additional benefits.^[[Improving mental regeneration after physical exercise - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3313114/)]
