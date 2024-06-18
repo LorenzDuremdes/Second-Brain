@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "performance-enhancing substance.md",
+                "file": "HiFiMAN Edition XS.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "performance-enhancing substance.md",
+                "file": "HiFiMAN Edition XS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "performance-enhancing substance.md",
+                "file": "HiFiMAN Edition XS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "performance-enhancing substance.md",
+                "file": "HiFiMAN Edition XS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "performance-enhancing substance.md"
+                "file": "HiFiMAN Edition XS.md"
               }
             }
           },
@@ -183,6 +182,8 @@
   },
   "active": "9949666c57d976ea",
   "lastOpenFiles": [
+    "HiFiMAN Arya.md",
+    "performance-enhancing substance.md",
     "technology doping.md",
     "clap skate.md",
     "Clap_skate.svg",
@@ -209,8 +210,6 @@
     "biological-half life.md",
     "growth hormone.md",
     "Beoplay H95 (Bang & Olufsen).md",
-    "HiFiMAN Arya.md",
-    "headphones.md",
     "Predictive model for the identification of overtraining syndrome (OTS). EROS, Endocrine and Metabolic Responses on Overtraining Syndrome; GH, growth hormone; yo, years old..png",
     "bmjsem-2019-000542f05.jpg",
     "Figure S2. Effects of GW501516 treatment on SDH-positive fibres in trained mice. .png",
