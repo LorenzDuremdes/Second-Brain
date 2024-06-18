@@ -16,6 +16,7 @@
 
 # set-up
 1. Dolby Home Theater v4 (HeSuVi > dht-) without reverb is best to maintain the headphone's wideness while improving its tallness and bass and keeping [[audio]] fidelity as high as possible (does reduce it a little)
+	1. e.g. test it with: https://www.youtube.com/watch?v=vlO6tUjOMdE | Opening Fight Scene | DUNE PART TWO (2024)
 
 ## [[music]]
 1. to experience the same [[music]] differently → off followed by HeSuVi > dht-
