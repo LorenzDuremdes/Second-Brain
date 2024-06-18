@@ -15,7 +15,7 @@
 7. Lcd X does sound great but the soundstage of edition XS just really sealed the deal for me... Auditioned both of these [[headphones]] yesterday and bought the XS.^[[Does a $500 Hifiman Beat a $1200 Audeze? The Audeze LCD-X Review (youtube.com)](https://www.youtube.com/watch?v=WGfJJr8Z1oM)]
 
 # set-up
-1. Dolby Home Theater v4 (HeSuVi > dht-) without reverb is best to maintain the headphone's wideness while improving its tallness and bass and keeping [[audio]] as 'clean' as possible
+1. Dolby Home Theater v4 (HeSuVi > dht-) without reverb is best to maintain the headphone's wideness while improving its tallness and bass and keeping [[audio]] fidelity as high as possible (does reduce it a little)
 
 ## [[music]]
 1. to experience the same [[music]] differently → off followed by HeSuVi > dht-
