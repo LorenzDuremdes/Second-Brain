@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f38c97df73b49cc7",
+            "id": "78959f62ab7570ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HiFiMAN Edition XS.md",
+                "file": "Super X-Fi.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HiFiMAN Edition XS.md",
+                "file": "Super X-Fi.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "training load",
+                "query": "super x-fi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HiFiMAN Edition XS.md",
+                "file": "Super X-Fi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HiFiMAN Edition XS.md",
+                "file": "Super X-Fi.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HiFiMAN Edition XS.md"
+                "file": "Super X-Fi.md"
               }
             }
           },
@@ -180,8 +180,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f38c97df73b49cc7",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
+    "HiFiMAN Edition XS.md",
+    "Super X-Fi.md",
     "bicycle wheel.md",
     "obelus.md",
     "Training Load and Its Role in Injury Prevention, Part I Back to the Future.png",
@@ -192,7 +194,6 @@
     "capitalization of Internet.md",
     "Untitled 2.md",
     "theanine.md",
-    "HiFiMAN Edition XS.md",
     "HiFiMAN Arya.md",
     "performance-enhancing substance.md",
     "technology doping.md",
