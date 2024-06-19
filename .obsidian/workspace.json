@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "277dc230424900b3",
+            "id": "9ad58c476667b825",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -161,7 +161,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,10 +180,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "51fbbfaf155022b6",
+  "active": "9ad58c476667b825",
   "lastOpenFiles": [
-    "capitalization of Internet.md",
+    "obelus.md",
+    "Crystal Structure Determination of a (μ-Amido)(μ-hydroxo)(μ-superoxo)dicobalt(III) Complex from the Werner Collection.jpg",
     "smoking.md",
+    "capitalization of Internet.md",
     "Untitled 2.md",
     "theanine.md",
     "HiFiMAN Edition XS.md",
@@ -207,8 +210,6 @@
     "calf (leg).md",
     "chocolate milk.md",
     "MK-677.md",
-    "ghrelin.md",
-    "inverse agonist.md",
     "Predictive model for the identification of overtraining syndrome (OTS). EROS, Endocrine and Metabolic Responses on Overtraining Syndrome; GH, growth hormone; yo, years old..png",
     "bmjsem-2019-000542f05.jpg",
     "Figure S2. Effects of GW501516 treatment on SDH-positive fibres in trained mice. .png",
@@ -216,7 +217,6 @@
     "The effects of GW501516 on running performance, blood glucose, and blood lactate in sedentary and trained KM mice..png",
     "The effects of GW501516 treatment on skeletal muscle gene expression in trained and sedentary KM mice.png",
     "Dylan Johnson Unbound Gravel 2024 (Instagram).png",
-    "Untitled",
-    "density of air vs. power (myWindsock).png"
+    "Untitled"
   ]
 }
