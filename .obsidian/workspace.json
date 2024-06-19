@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9ad58c476667b825",
+            "id": "58fc658e6b4bdb36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chronic training load.md",
+                "file": "WinCompose.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "chronic training load.md",
+                "file": "WinCompose.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chronic training load.md",
+                "file": "WinCompose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chronic training load.md",
+                "file": "WinCompose.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chronic training load.md"
+                "file": "WinCompose.md"
               }
             }
           },
@@ -181,8 +180,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9ad58c476667b825",
+  "active": "58fc658e6b4bdb36",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "WinCompose.md",
+    "chronic training load.md",
     "smoking.md",
     "obelus.md",
     "Crystal Structure Determination of a (μ-Amido)(μ-hydroxo)(μ-superoxo)dicobalt(III) Complex from the Werner Collection.jpg",
@@ -209,8 +211,6 @@
     "orthorexia.md",
     "Harman target.md",
     "calf (leg).md",
-    "chocolate milk.md",
-    "MK-677.md",
     "Predictive model for the identification of overtraining syndrome (OTS). EROS, Endocrine and Metabolic Responses on Overtraining Syndrome; GH, growth hormone; yo, years old..png",
     "bmjsem-2019-000542f05.jpg",
     "Figure S2. Effects of GW501516 treatment on SDH-positive fibres in trained mice. .png",
