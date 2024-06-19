@@ -24,7 +24,8 @@
 1. to experience the same [[music]] differently → off followed by HeSuVi > dht-
 
 ## gaming / movies
-1. HeSuVi > dht- + Oratory1990's [[Harman target]] (Peace GUI) with +3 dB bass
+1. Super X-Fi + Oratory1990's [[Harman target]] with +3 dB bass
+2. HeSuVi > dht- + Oratory1990's [[Harman target]] (Peace GUI) with +0 dB bass
 
 # miscellaneous
 1. [20211231081523_68032.pdf (hifiman.com)](https://hifiman.com/attachments/file/20211231/20211231081523_68032.pdf) | manual
