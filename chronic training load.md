@@ -2,6 +2,9 @@
 1. how much training load do you need to get your "Fitness" to a given number? (e.g. Intervals.icu)^[https://forum.intervals.icu/t/fitness-score-or-how-fit-is-fit/4485]
 	1. e.g. an average of 50 CTL/day results in a "Fitness" of 50
 		1. Fitness ≠ fitness (e.g. you can still make progress while keeping CTL the same)
+2. no evidence supports the quantitative use of TL data to manipulate future training with the purpose of preventing injury
+   
+   our message to practitioners is to stop seeking overly simplistic solutions to complex problems and instead embrace the risks and uncertainty inherent in the training process and injury prevention^[[Training Load and Its Role in Injury Prevention, Part I: Back to the Future - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7534945/)]
 
 # [[physiology]]
 1. chronic training load → [[fatigue resistance (road cycling)|fatigue resistance]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "smoking.md",
+                "file": "chronic training load.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "smoking.md",
+                "file": "chronic training load.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "theanine",
+                "query": "training load",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "smoking.md",
+                "file": "chronic training load.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "smoking.md",
+                "file": "chronic training load.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "smoking.md"
+                "file": "chronic training load.md"
               }
             }
           },
@@ -182,9 +183,9 @@
   },
   "active": "9ad58c476667b825",
   "lastOpenFiles": [
+    "smoking.md",
     "obelus.md",
     "Crystal Structure Determination of a (μ-Amido)(μ-hydroxo)(μ-superoxo)dicobalt(III) Complex from the Werner Collection.jpg",
-    "smoking.md",
     "capitalization of Internet.md",
     "Untitled 2.md",
     "theanine.md",
