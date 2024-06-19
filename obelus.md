@@ -1,5 +1,7 @@
 1. obelus (†); used as a reference mark in printed matter, or to indicate that a person is deceased; also called dagger^[[Obelus - Oxford Reference](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100243403)]
-2. In terms of papers with deceased authors, I think the record holder is probably [this one](http://pubs.acs.org/doi/abs/10.1021/ic001137t): ![[Crystal Structure Determination of a (μ-Amido)(μ-hydroxo)(μ-superoxo)dicobalt(III) Complex from the Werner Collection.jpg]]
+2. **caveat**: you do have to look in Author information to assess it e.g. [Training Load and Its Role in Injury Prevention, Part I: Back to the Future - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7534945/):
+   ![[Training Load and Its Role in Injury Prevention, Part I Back to the Future.png]]
+3. In terms of papers with deceased authors, I think the record holder is probably [this one](http://pubs.acs.org/doi/abs/10.1021/ic001137t): ![[Crystal Structure Determination of a (μ-Amido)(μ-hydroxo)(μ-superoxo)dicobalt(III) Complex from the Werner Collection.jpg]]
    Can you spot it? One author died in 1919, and one had her PhD in 1911: while no date of death is provided for her, I don't think she's still around. (Also, it was probably quite an achievement for a woman to get a PhD at the [[time]].)
    
    As we say: old chemists don't die, they just reach equilibrium!^[[publications - How to acknowledge a deceased advisor’s contributions to a paper? - Academia Stack Exchange](https://academia.stackexchange.com/questions/776/how-to-acknowledge-a-deceased-advisor-s-contributions-to-a-paper)]
