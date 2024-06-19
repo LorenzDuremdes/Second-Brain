@@ -18,6 +18,8 @@
 1. Super X-Fi vs. dht- (HiFiMAN Edition XS)
 	1. the latter narrows soundstage by a lot
 	2. the tunnel effect of Super X-Fi can be countered via Oratory1990's [[Harman target]]
+	3. Oratory1990's Harman target → Super X-Fi (soundstage)
+		1. makes the soundstage even bigger
 2. how can you reduce the treble of Super X-Fi (HiFiMAN Edition XS)?
 	1. with Oratory1990's [[Harman target]]
 3. Dolby Home Theater v4 (HeSuVi > dht-) without reverb is best to maintain the headphone's wideness while improving its tallness and bass and keeping [[audio]] fidelity as high as possible (does reduce it a little)
