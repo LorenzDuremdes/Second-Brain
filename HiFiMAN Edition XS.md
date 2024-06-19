@@ -15,7 +15,9 @@
 7. Lcd X does sound great but the soundstage of edition XS just really sealed the deal for me... Auditioned both of these [[headphones]] yesterday and bought the XS.^[[Does a $500 Hifiman Beat a $1200 Audeze? The Audeze LCD-X Review (youtube.com)](https://www.youtube.com/watch?v=WGfJJr8Z1oM)]
 
 # set-up
-1. Dolby Home Theater v4 (HeSuVi > dht-) without reverb is best to maintain the headphone's wideness while improving its tallness and bass and keeping [[audio]] fidelity as high as possible (does reduce it a little)
+1. how can you reduce the treble of Super X-Fi (HiFiMAN Edition XS)?
+	1. with Oratory1990's [[Harman target]]
+2. Dolby Home Theater v4 (HeSuVi > dht-) without reverb is best to maintain the headphone's wideness while improving its tallness and bass and keeping [[audio]] fidelity as high as possible (does reduce it a little)
 	1. e.g. test it with: [The Ultimate Headphones Test Video! (youtube.com)](https://www.youtube.com/watch?v=tezCWPLwu3Q)
 
 ## [[music]]
