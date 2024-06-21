@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6bd0619febe1eeac",
+            "id": "77a455563677810d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dr. Banister impulse-response model.md",
+                "file": "sports injury.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dr. Banister impulse-response model.md",
+                "file": "sports injury.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "banister",
+                "query": "volume landmark",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dr. Banister impulse-response model.md",
+                "file": "sports injury.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dr. Banister impulse-response model.md",
+                "file": "sports injury.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dr. Banister impulse-response model.md"
+                "file": "sports injury.md"
               }
             }
           },
@@ -180,11 +180,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "77a455563677810d",
   "lastOpenFiles": [
+    "sports periodization.md",
+    "sports injury.md",
+    "Dr. Banister impulse-response model.md",
     "Training process framework and measurable components for monitoring.png",
     "lactate.md",
-    "Dr. Banister impulse-response model.md",
     "cubit.md",
     "paroxysm.md",
     "HiFiMAN Edition XS.md",
@@ -210,14 +212,12 @@
     "high fidelity.md",
     "bromazolam.md",
     "cinazepam.md",
-    "benzodiazepine.md",
     "Here’s the cost of getting lean. [Infographic] Is it really worth the trade-off.png",
     "Predictive model for the identification of overtraining syndrome (OTS). EROS, Endocrine and Metabolic Responses on Overtraining Syndrome; GH, growth hormone; yo, years old..png",
     "bmjsem-2019-000542f05.jpg",
     "Figure S2. Effects of GW501516 treatment on SDH-positive fibres in trained mice. .png",
     "The effects of GW501516 on SDH-positive fibres in skeletal muscle of sedentary and trained KM mice.jpg",
     "The effects of GW501516 on running performance, blood glucose, and blood lactate in sedentary and trained KM mice..png",
-    "The effects of GW501516 treatment on skeletal muscle gene expression in trained and sedentary KM mice.png",
     "Untitled"
   ]
 }
