@@ -1,0 +1,3 @@
+1. But when the McNamara discipline is applied too literally, the first step is to measure whatever can be easily measured. The second step is to disregard that which can't easily be measured or given a quantitative value. The third step is to presume that what can't be measured easily really isn't important. The fo[u]rth step is to say that what can't be easily measured really doesn't exist. This is suicide.
+
+— Daniel Yankelovich, "Interpreting the New Life Styles", Sales Management (1971)^[https://en.wikipedia.org/wiki/McNamara_fallacy]
