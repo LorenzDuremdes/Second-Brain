@@ -1,0 +1,2 @@
+1. cubit; an ancient unit of length based on the distance from the elbow to the tip of the middle finger.^[https://en.wikipedia.org/wiki/Cubit]
+	1. it was primarily associated with the Sumerians, Egyptians, and Israelites
