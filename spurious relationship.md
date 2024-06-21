@@ -1,0 +1,1 @@
+1. spurious relationship; a mathematical relationship in which two or more events or variables are associated but *not* causally related, due to either coincidence or the presence of a certain third, unseen factor (referred to as a "common response variable", "confounding factor", or "lurking variable")^[https://en.wikipedia.org/wiki/Spurious_relationship]

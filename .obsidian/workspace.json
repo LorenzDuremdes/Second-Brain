@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77a455563677810d",
+            "id": "1dec46557761b65a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sports injury.md",
+                "file": "spurious relationship.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sports injury.md",
+                "file": "spurious relationship.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sports injury.md",
+                "file": "spurious relationship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sports injury.md",
+                "file": "spurious relationship.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sports injury.md"
+                "file": "spurious relationship.md"
               }
             }
           },
@@ -180,10 +180,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "77a455563677810d",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "sports periodization.md",
+    "Simpson's paradox.md",
+    "spurious relationship.md",
+    "correlation does not imply causation.md",
     "sports injury.md",
+    "sports periodization.md",
     "Dr. Banister impulse-response model.md",
     "Training process framework and measurable components for monitoring.png",
     "lactate.md",
@@ -209,9 +212,6 @@
     "functional training.md",
     "free will.md",
     "quantum physics.md",
-    "high fidelity.md",
-    "bromazolam.md",
-    "cinazepam.md",
     "Here’s the cost of getting lean. [Infographic] Is it really worth the trade-off.png",
     "Predictive model for the identification of overtraining syndrome (OTS). EROS, Endocrine and Metabolic Responses on Overtraining Syndrome; GH, growth hormone; yo, years old..png",
     "bmjsem-2019-000542f05.jpg",

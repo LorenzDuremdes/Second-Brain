@@ -1,0 +1,3 @@
+1. Simpson's paradox; a phenomenon in [[probability]] and [[statistics]] in which a trend appears in several groups of data but disappears or reverses when the groups are combined
+   
+   The paradox can be resolved when confounding variables and causal relations are appropriately addressed in the statistical modeling (e.g., through cluster analysis).^[https://en.wikipedia.org/wiki/Simpson%27s_paradox]
