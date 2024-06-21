@@ -1,0 +1,1 @@
+1. paroxysm; (noun) a sudden recurrence of a [[disease]], such as a seizure or a coughing fit^[https://en.wiktionary.org/wiki/paroxysm]

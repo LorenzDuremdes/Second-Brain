@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "78959f62ab7570ad",
+            "id": "cbdd7027684f7ee6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HiFiMAN Edition XS.md",
+                "file": "paroxysm.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HiFiMAN Edition XS.md",
+                "file": "paroxysm.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HiFiMAN Edition XS.md",
+                "file": "paroxysm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HiFiMAN Edition XS.md",
+                "file": "paroxysm.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HiFiMAN Edition XS.md"
+                "file": "paroxysm.md"
               }
             }
           },
@@ -180,10 +180,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "78959f62ab7570ad",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "Super X-Fi.md",
     "HiFiMAN Edition XS.md",
+    "paroxysm.md",
+    "Super X-Fi.md",
     "bicycle wheel.md",
     "obelus.md",
     "Training Load and Its Role in Injury Prevention, Part I Back to the Future.png",
@@ -211,7 +212,6 @@
     "Here’s the cost of getting lean. [Infographic] Is it really worth the trade-off.png",
     "orthorexia nervosa.md",
     "orthorexia.md",
-    "Harman target.md",
     "Predictive model for the identification of overtraining syndrome (OTS). EROS, Endocrine and Metabolic Responses on Overtraining Syndrome; GH, growth hormone; yo, years old..png",
     "bmjsem-2019-000542f05.jpg",
     "Figure S2. Effects of GW501516 treatment on SDH-positive fibres in trained mice. .png",
