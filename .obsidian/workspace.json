@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "McNamara fallacy.md",
+                "file": "macrocycle (sports periodization).md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "McNamara fallacy.md",
+                "file": "macrocycle (sports periodization).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "volume landmark",
+                "query": "sports periodization",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,7 +113,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "McNamara fallacy.md",
+                "file": "macrocycle (sports periodization).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "McNamara fallacy.md",
+                "file": "macrocycle (sports periodization).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "McNamara fallacy.md"
+                "file": "macrocycle (sports periodization).md"
               }
             }
           },
@@ -195,12 +196,12 @@
   },
   "active": "183b09389d505b81",
   "lastOpenFiles": [
+    "sports periodization.md",
     "spurious relationship.md",
     "McNamara fallacy.md",
     "Simpson's paradox.md",
     "correlation does not imply causation.md",
     "sports injury.md",
-    "sports periodization.md",
     "Dr. Banister impulse-response model.md",
     "Training process framework and measurable components for monitoring.png",
     "lactate.md",
