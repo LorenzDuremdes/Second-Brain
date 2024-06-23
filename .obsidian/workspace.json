@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1dec46557761b65a",
+            "id": "6f94213509d3e2b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spurious relationship.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c4d8064476ea90b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "macrocycle (sports periodization).md",
+                "file": "pagoclone.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "macrocycle (sports periodization).md",
+                "file": "pagoclone.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -66,8 +54,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sports periodization",
+                "query": "z drug",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "macrocycle (sports periodization).md",
+                "file": "pagoclone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "macrocycle (sports periodization).md",
+                "file": "pagoclone.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "macrocycle (sports periodization).md"
+                "file": "pagoclone.md"
               }
             }
           },
@@ -196,8 +183,9 @@
   },
   "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "sports periodization.md",
     "spurious relationship.md",
+    "pagoclone.md",
+    "sports periodization.md",
     "McNamara fallacy.md",
     "Simpson's paradox.md",
     "correlation does not imply causation.md",
@@ -225,7 +213,6 @@
     "clap skate.md",
     "Clap_skate.svg",
     "functional training.md",
-    "free will.md",
     "Here’s the cost of getting lean. [Infographic] Is it really worth the trade-off.png",
     "Predictive model for the identification of overtraining syndrome (OTS). EROS, Endocrine and Metabolic Responses on Overtraining Syndrome; GH, growth hormone; yo, years old..png",
     "bmjsem-2019-000542f05.jpg",
