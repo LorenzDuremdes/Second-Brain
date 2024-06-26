@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f94213509d3e2b9",
+            "id": "2928e8f2fe0a778a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pagoclone.md",
+                "file": "video game.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pagoclone.md",
+                "file": "video game.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "z drug",
+                "query": "video game",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pagoclone.md",
+                "file": "video game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pagoclone.md",
+                "file": "video game.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pagoclone.md"
+                "file": "video game.md"
               }
             }
           },
@@ -181,10 +180,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "2928e8f2fe0a778a",
   "lastOpenFiles": [
-    "spurious relationship.md",
     "pagoclone.md",
+    "video game.md",
+    "spurious relationship.md",
     "sports periodization.md",
     "McNamara fallacy.md",
     "Simpson's paradox.md",
@@ -212,7 +212,6 @@
     "technology doping.md",
     "clap skate.md",
     "Clap_skate.svg",
-    "functional training.md",
     "Here’s the cost of getting lean. [Infographic] Is it really worth the trade-off.png",
     "Predictive model for the identification of overtraining syndrome (OTS). EROS, Endocrine and Metabolic Responses on Overtraining Syndrome; GH, growth hormone; yo, years old..png",
     "bmjsem-2019-000542f05.jpg",
