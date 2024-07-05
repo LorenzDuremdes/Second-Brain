@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2928e8f2fe0a778a",
+            "id": "500ec84a8af4f97d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "video game.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "958b01a77cb29c26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gut microbiota.md",
+                "file": "gastrointestinal tract.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "gut microbiota.md",
+                "file": "gastrointestinal tract.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -66,8 +54,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gut mic",
+                "query": "sodium",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -134,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gut microbiota.md",
+                "file": "gastrointestinal tract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gut microbiota.md",
+                "file": "gastrointestinal tract.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gut microbiota.md"
+                "file": "gastrointestinal tract.md"
               }
             }
           },
@@ -194,8 +180,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "958b01a77cb29c26",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
+    "sodium.md",
+    "sodium-dependent glucose cotransporter.md",
+    "gastrointestinal tract.md",
+    "sodium-glucose cotransporter 1.md",
+    "sodium",
+    "gut microbiota.md",
     "sports injury.md",
     "video game.md",
     "block training.md",
@@ -220,11 +212,6 @@
     "chronic training load.md",
     "smoking.md",
     "Crystal Structure Determination of a (μ-Amido)(μ-hydroxo)(μ-superoxo)dicobalt(III) Complex from the Werner Collection.jpg",
-    "capitalization of Internet.md",
-    "Untitled 2.md",
-    "theanine.md",
-    "HiFiMAN Arya.md",
-    "performance-enhancing substance.md",
     "Clap_skate.svg",
     "Here’s the cost of getting lean. [Infographic] Is it really worth the trade-off.png",
     "Predictive model for the identification of overtraining syndrome (OTS). EROS, Endocrine and Metabolic Responses on Overtraining Syndrome; GH, growth hormone; yo, years old..png",

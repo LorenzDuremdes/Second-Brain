@@ -12,7 +12,7 @@
 2. It is also not correct to say that there have been no large-scale prospective studies to assess the role of [[water]] and salt balance in the etiology of muscle cramps. Dill et al. (1936) reported the findings of intervention studies carried out at the construction site of the Hoover Dam and in the steel mills of Youngstown, Ohio. At both locations, large numbers of men undertook hard physical work in extremely hot environments on a daily basis. They found that those suffering from cramp displayed the following characteristics:
 	1) [[Dehydration]]
 	2) Lowered concentration of [[sodium]] and chloride in [[blood plasma]]
-	3) Little or no sodium or chloride in urine
+	3) Little or no [[sodium]] or chloride in urine
 	4) Increased serum [[protein]] concentration
 	5) Increased [[red blood cell|red cell]] count
 	6) Normal osmotic pressure
