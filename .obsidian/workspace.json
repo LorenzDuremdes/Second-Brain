@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "500ec84a8af4f97d",
+            "id": "6468517c30c02192",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gastrointestinal tract.md",
+                "file": "gastric inhibitory polypeptide.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "gastrointestinal tract.md",
+                "file": "gastric inhibitory polypeptide.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gastrointestinal tract.md",
+                "file": "gastric inhibitory polypeptide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gastrointestinal tract.md",
+                "file": "gastric inhibitory polypeptide.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gastrointestinal tract.md"
+                "file": "gastric inhibitory polypeptide.md"
               }
             }
           },
@@ -182,9 +182,11 @@
   },
   "active": "183b09389d505b81",
   "lastOpenFiles": [
+    "gastric acid.md",
+    "gastric inhibitory polypeptide.md",
+    "gastrointestinal tract.md",
     "sodium.md",
     "sodium-dependent glucose cotransporter.md",
-    "gastrointestinal tract.md",
     "sodium-glucose cotransporter 1.md",
     "sodium",
     "gut microbiota.md",
@@ -209,8 +211,6 @@
     "obelus.md",
     "Training Load and Its Role in Injury Prevention, Part I Back to the Future.png",
     "WinCompose.md",
-    "chronic training load.md",
-    "smoking.md",
     "Crystal Structure Determination of a (μ-Amido)(μ-hydroxo)(μ-superoxo)dicobalt(III) Complex from the Werner Collection.jpg",
     "Clap_skate.svg",
     "Here’s the cost of getting lean. [Infographic] Is it really worth the trade-off.png",
