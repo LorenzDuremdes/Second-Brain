@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sports injury.md",
+                "file": "gut microbiota.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sports injury.md",
+                "file": "gut microbiota.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sports injury",
+                "query": "gut mic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sports injury.md",
+                "file": "gut microbiota.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sports injury.md",
+                "file": "gut microbiota.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sports injury.md"
+                "file": "gut microbiota.md"
               }
             }
           },
@@ -194,8 +194,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "958b01a77cb29c26",
   "lastOpenFiles": [
+    "sports injury.md",
     "video game.md",
     "block training.md",
     "density (physical exercise).md",
@@ -205,7 +206,6 @@
     "McNamara fallacy.md",
     "Simpson's paradox.md",
     "correlation does not imply causation.md",
-    "sports injury.md",
     "Dr. Banister impulse-response model.md",
     "Training process framework and measurable components for monitoring.png",
     "lactate.md",

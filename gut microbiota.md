@@ -6,3 +6,7 @@
 	4. [[histamine]]
 	5. [[melatonin]]
 	6. [[serotonin]]
+
+# [[sports science]]
+1. how can one potentially alter gut microbiota to enhance athletic performance?
+	1. there is evidence of the upregulation of [[carbohydrate]] transporters in the intestine in response to [[carbohydrate]] feeding and there are alterations in gut micro flora in response to changes in diet. Such changes could alter the delivery of nutrients and potentially affect performance^[[Periodized Nutrition for Athletes | Sports Medicine (springer.com)](https://link.springer.com/article/10.1007/s40279-017-0694-2)]
