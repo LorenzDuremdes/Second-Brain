@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gastric inhibitory polypeptide.md",
+                "file": "gastric emptying.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "gastric inhibitory polypeptide.md",
+                "file": "gastric emptying.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sodium",
+                "query": "gastric",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gastric inhibitory polypeptide.md",
+                "file": "gastric emptying.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gastric inhibitory polypeptide.md",
+                "file": "gastric emptying.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gastric inhibitory polypeptide.md"
+                "file": "gastric emptying.md"
               }
             }
           },
@@ -180,11 +180,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "6468517c30c02192",
   "lastOpenFiles": [
-    "gastric acid.md",
-    "gastric inhibitory polypeptide.md",
     "gastrointestinal tract.md",
+    "gastric emptying.md",
+    "gastric inhibitory polypeptide.md",
+    "gastric acid.md",
     "sodium.md",
     "sodium-dependent glucose cotransporter.md",
     "sodium-glucose cotransporter 1.md",
@@ -210,7 +211,6 @@
     "bicycle wheel.md",
     "obelus.md",
     "Training Load and Its Role in Injury Prevention, Part I Back to the Future.png",
-    "WinCompose.md",
     "Crystal Structure Determination of a (μ-Amido)(μ-hydroxo)(μ-superoxo)dicobalt(III) Complex from the Werner Collection.jpg",
     "Clap_skate.svg",
     "Here’s the cost of getting lean. [Infographic] Is it really worth the trade-off.png",
