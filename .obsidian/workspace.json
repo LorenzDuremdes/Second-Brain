@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "phenibut.md",
+                "file": "pagoclone.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "phenibut.md",
+                "file": "pagoclone.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gastric",
+                "query": "pagoclone",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "phenibut.md",
+                "file": "pagoclone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "phenibut.md",
+                "file": "pagoclone.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "phenibut.md"
+                "file": "pagoclone.md"
               }
             }
           },
@@ -180,11 +181,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2f274532903ca90b",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
+    "phenibut.md",
+    "Untitled 1.md",
     "normal vs. phenibut sleep.png",
     "gastric emptying.md",
-    "phenibut.md",
     "gastrointestinal tract.md",
     "gastric inhibitory polypeptide.md",
     "gastric acid.md",
@@ -218,7 +220,6 @@
     "bmjsem-2019-000542f05.jpg",
     "Figure S2. Effects of GW501516 treatment on SDH-positive fibres in trained mice. .png",
     "The effects of GW501516 on SDH-positive fibres in skeletal muscle of sedentary and trained KM mice.jpg",
-    "The effects of GW501516 on running performance, blood glucose, and blood lactate in sedentary and trained KM mice..png",
     "Untitled"
   ]
 }
