@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "phenibut.md",
+                "file": "sleep deprivation.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "phenibut.md",
+                "file": "sleep deprivation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pagoclone",
+                "query": "sleep deprivation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "phenibut.md",
+                "file": "sleep deprivation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "phenibut.md",
+                "file": "sleep deprivation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "phenibut.md"
+                "file": "sleep deprivation.md"
               }
             }
           },
@@ -180,12 +181,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4a14fead9ff63d27",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
+    "phenibut.md",
     "pagoclone.md",
     "bromazolam.md",
     "doxylamine.md",
-    "phenibut.md",
     "normal vs. phenibut sleep.png",
     "gastric emptying.md",
     "gastrointestinal tract.md",

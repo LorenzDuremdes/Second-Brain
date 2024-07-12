@@ -1,0 +1,2 @@
+1. [[sleep]] deprivation → hypnogram
+	1. during rest following a [[sleep]]-deprived state, there is a period of rebound [[sleep]] which has longer and deeper episodes of SWS to make up for the lack of [[sleep]]^[https://en.wikipedia.org/wiki/Hypnogram]
