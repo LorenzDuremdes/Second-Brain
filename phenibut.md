@@ -9,7 +9,7 @@
 6. first experience phenibut (thursday 11/7/2024):
 	1. you felt very calm and somewhat euphoric (like with [[bromazolam]]) + it calmed your SNS as well (including high [[heart rate]] and [[blood pressure]])
 	2. very fatigued (but sadly doesn't knock you out)
-	3. turned you into a supersleeper with [[MK-677]] (only 4 hours of [[sleep]] and [[subjective sleep quality|feeling somewhat rested]])
+	3. turned you into a supersleeper with [[MK-677]] (only 4 hours of [[sleep]] and [[subjective sleep quality|feeling somewhat physically and mentally rested]] e.g. high [[motivation]] + low RHR/BP))
 
 # research
 1. phenibut acts as a full [[agonist]] of the GABAB receptor, similarly to baclofen.^[https://en.wikipedia.org/wiki/Phenibut]
