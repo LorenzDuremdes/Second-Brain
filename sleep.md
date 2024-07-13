@@ -6,6 +6,12 @@
 	1. no, because it can raise your [[blood pressure]] (i.e. simply imagining the activities)
 		1. what about dreaming about such activities → effect on [[sleep quality]]/quantity?
 
+## marginal gains
+1. They determined the type of pillow and mattress that led to the best night’s sleep for each rider.^[[Marginal Gains: This Coach Improved Every Tiny Thing by 1 Percent (jamesclear.com)](https://jamesclear.com/marginal-gains)]
+2. every minute in the **morning** (e.g. [[light therapy]], [[food]] or [[physical exercise]]) can affect e.g. sleep latency that night
+	1. (loud) [[music]] can help waking up
+3. every stressor that day can affect your sleep that same night
+
 # [[nutrition]]
 ## [[nutrient timing]]
 ### [[circadian rhythm]]
@@ -15,8 +21,8 @@
 ### [[sleep onset latency]]
 1. eating within 3 h of bedtime is associated with a ~40% increase in the odds of nocturnal awakening after accounting for ethnicity and BMI^[[Does the Proximity of Meals to Bedtime Influence the Sleep of Young Adults? A Cross-Sectional Survey of University Students - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7215804/)]
 	1. however, meal timing was not associated with SOL or sleep duration. Sensitivity analysis with different cut-off points for meal timing—within 2 h of bedtime and within 4 h of bedtime—revealed similar results (see Appendix B)
-		1. the absence of a relationship between meal timing and sleep duration is less surprising because sleep duration is predominately determined by the time since last sleep and social factors such as hours of employment or study, which influence habitual bed- and wake-times
-	2. normal digestion and gastroesophageal reflux may be responsible for the association between evening meal timing and nocturnal awakenings. Reflux has been shown to be associated with eating close to bedtime as well as disrupted sleep, and [[gastric emptying]] time is estimated to be between 2 and 4 h after meal ingestion
+		1. the absence of a relationship between meal timing and sleep duration is less surprising because sleep duration is predominately determined by the [[time]] since last sleep and social factors such as hours of employment or study, which influence habitual bed- and wake-times
+	2. normal [[digestion]] and gastroesophageal reflux may be responsible for the association between evening meal timing and nocturnal awakenings. Reflux has been shown to be associated with eating close to bedtime as well as disrupted sleep, and [[gastric emptying]] [[time]] is estimated to be between 2 and 4 h after meal ingestion
 	3. a previous study of 300 patients with [[sleep apnea]] found that later meal timing was associated with longer objectively measured sleep latency, higher apnea-hypopnea index, and poorer [[subjective sleep quality]]
 		1. However, in that study, the proximity of the final meal relative to bedtime was not evaluated. Rather, those with dinner times later than 8 p.m. were compared to those with earlier dinner times. The longer sleep latency observed in that study was small, in the order of 0.1 min on polysomnography, and thus may not be well captured by self-reported measures of sleep latency in the current study.
 	4. Afaghi and colleagues reported that the consumption of a high glycaemic index (GI) evening meal was associated with a shorter [[sleep onset latency]], while Crispim et al. found that high-calorie and high-[[fat]] meals within 60 min of sleep were correlated with longer sleep latency, decreased [[sleep efficiency]], and increased [[wake after sleep onset]]
@@ -41,7 +47,7 @@
 # anecdotes
 1. lack of (N)[[REM sleep]] → subjective fatigue
 	1. a lack of [[NREM sleep]] personally feels less tiresome? e.g. getting in most [[REM sleep]] in the last hours and still [[feeling]] well despite having only slept for a couple hours
-		1. can also be due to bupropion
+		1. can also be due to [[bupropion]]
 	2. **see also**
 		1. [How To Recover From A High Volume Training Week (Ask a Cycling Coach 274)](https://youtu.be/rKm3BNIWQoo?t=870)
 

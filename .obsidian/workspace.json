@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "block training.md",
+                "file": "sleep.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "block training.md",
+                "file": "sleep.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "block period",
+                "query": "sleep",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "block training.md",
+                "file": "sleep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "block training.md",
+                "file": "sleep.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "block training.md"
+                "file": "sleep.md"
               }
             }
           },
@@ -183,6 +183,10 @@
   },
   "active": "4a14fead9ff63d27",
   "lastOpenFiles": [
+    "light therapy.md",
+    "sleep.md",
+    "nutrition.md",
+    "block training.md",
     "block (sports periodization).md",
     "phenibut.md",
     "sleep deprivation.md",
@@ -201,17 +205,13 @@
     "gut microbiota.md",
     "sports injury.md",
     "video game.md",
-    "block training.md",
     "density (physical exercise).md",
     "spurious relationship.md",
     "sports periodization.md",
     "McNamara fallacy.md",
     "Simpson's paradox.md",
     "correlation does not imply causation.md",
-    "Dr. Banister impulse-response model.md",
     "Training process framework and measurable components for monitoring.png",
-    "lactate.md",
-    "cubit.md",
     "Training Load and Its Role in Injury Prevention, Part I Back to the Future.png",
     "Crystal Structure Determination of a (μ-Amido)(μ-hydroxo)(μ-superoxo)dicobalt(III) Complex from the Werner Collection.jpg",
     "Clap_skate.svg",
