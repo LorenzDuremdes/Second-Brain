@@ -1,2 +1,2 @@
-1. naltrexone; a [[medication]] primarily used to manage alcohol or opioid use disorder by reducing cravings and feelings of euphoria associated with substance use disorder.^[https://en.wikipedia.org/wiki/Naltrexone#cite_note-AHFS2017-4]
+1. naltrexone; a [[medication]] primarily used to manage alcohol or opioid use disorder by reducing cravings and feelings of euphoria associated with [[substance use disorder]].^[https://en.wikipedia.org/wiki/Naltrexone#cite_note-AHFS2017-4]
 	1. sold under the brand names ReVia and Vivitrol among others

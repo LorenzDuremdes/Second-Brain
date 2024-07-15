@@ -1,0 +1,1 @@
+1. relapse prevention; a cognitive-behavioral approach to relapse with the goal of identifying and preventing high-risk situations such as [[substance use disorder|unhealthy substance use]], obsessive-compulsive behavior, sexual offending, [[obesity]], and [[depression]]^[https://en.wikipedia.org/wiki/Relapse_prevention]
