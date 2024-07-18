@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pagoclone.md",
+                "file": "fasted training.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "pagoclone.md",
+                "file": "fasted training.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "exposure therapy",
+                "query": "fasted",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pagoclone.md",
+                "file": "fasted training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pagoclone.md",
+                "file": "fasted training.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pagoclone.md"
+                "file": "fasted training.md"
               }
             }
           },
@@ -182,6 +183,9 @@
   },
   "active": "3fabe02f6ebe2ea6",
   "lastOpenFiles": [
+    "glycogen threshold.md",
+    "fasted training.md",
+    "pagoclone.md",
     "relapse prevention.md",
     "substance use disorder.md",
     "exposure therapy.md",
@@ -192,7 +196,6 @@
     "block (sports periodization).md",
     "phenibut.md",
     "sleep deprivation.md",
-    "pagoclone.md",
     "bromazolam.md",
     "doxylamine.md",
     "normal vs. phenibut sleep.png",
@@ -208,8 +211,6 @@
     "sports injury.md",
     "video game.md",
     "density (physical exercise).md",
-    "spurious relationship.md",
-    "sports periodization.md",
     "Training process framework and measurable components for monitoring.png",
     "Training Load and Its Role in Injury Prevention, Part I Back to the Future.png",
     "Crystal Structure Determination of a (μ-Amido)(μ-hydroxo)(μ-superoxo)dicobalt(III) Complex from the Werner Collection.jpg",
