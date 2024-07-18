@@ -1,0 +1,1 @@
+1. diphenhydramine; an [[antihistamine]] and sedative mainly used to treat allergies, [[insomnia]], and symptoms of the common cold^[https://en.wikipedia.org/wiki/Diphenhydramine]
