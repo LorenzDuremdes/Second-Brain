@@ -1,0 +1,1 @@
+1. positivism; a philosophical school that holds that all genuine [[knowledge]] is either true by [[definition]] or positive—meaning [[a posteriori]] facts derived by reason and logic from sensory experience^[https://en.wikipedia.org/wiki/Positivism]
