@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "postpositivism.md",
+                "file": "socioeconomic status.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "postpositivism.md",
+                "file": "socioeconomic status.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adipose tissue",
+                "query": "upper class",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "postpositivism.md",
+                "file": "socioeconomic status.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "postpositivism.md",
+                "file": "socioeconomic status.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "postpositivism.md"
+                "file": "socioeconomic status.md"
               }
             }
           },
@@ -180,10 +181,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "5f69b60f51da8153",
   "lastOpenFiles": [
-    "positivism.md",
+    "upper class.md",
     "postpositivism.md",
+    "positivism.md",
     "antipositivism.md",
     "adipose tissue.md",
     "orexin antagonist.md",
@@ -208,7 +210,6 @@
     "doxylamine.md",
     "normal vs. phenibut sleep.png",
     "gastric emptying.md",
-    "gastrointestinal tract.md",
     "sodium",
     "Training process framework and measurable components for monitoring.png",
     "Training Load and Its Role in Injury Prevention, Part I Back to the Future.png",

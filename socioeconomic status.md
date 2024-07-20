@@ -7,6 +7,7 @@
 ### appearance
 1. They look naturally healthy and fit.^[https://www.reddit.com/r/AskReddit/comments/1abur4l/comment/kjrsket/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button]
 2. No logos on their clothes, but very well-fitted (tailored) and pressed/cleaned.^[https://www.reddit.com/r/AskReddit/comments/t9g5it/comment/hzu074h/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button]
+3. [Luxury Fashion Is For Broke People (youtube.com)](https://www.youtube.com/watch?v=FGDB22dpmwk)
 
 ### 'difficulties'
 1. Speaking about your plans for your life with full expectations that they will be successful no matter how unrealistic they would be to the rest of us.
