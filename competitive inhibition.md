@@ -1,0 +1,1 @@
+1. competitive inhibition; interruption of a chemical pathway owing to one chemical substance inhibiting the effect of another by competing with it for binding or bonding^[https://en.wikipedia.org/wiki/Competitive_inhibition]

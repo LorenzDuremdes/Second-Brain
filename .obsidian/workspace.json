@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5f69b60f51da8153",
+            "id": "fd4cb0bf0ecf70f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sleep.md",
+                "file": "competitive inhibition.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sleep.md",
+                "file": "competitive inhibition.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sleep.md",
+                "file": "competitive inhibition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sleep.md",
+                "file": "competitive inhibition.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sleep.md"
+                "file": "competitive inhibition.md"
               }
             }
           },
@@ -181,8 +180,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5f69b60f51da8153",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
+    "competitive inhibition.md",
     "quiet luxury.md",
     "socioeconomic status.md",
     "upper class.md",
@@ -208,7 +208,6 @@
     "block (sports periodization).md",
     "phenibut.md",
     "sleep deprivation.md",
-    "bromazolam.md",
     "normal vs. phenibut sleep.png",
     "sodium",
     "Training process framework and measurable components for monitoring.png",
