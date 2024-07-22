@@ -17,9 +17,12 @@
 	  As you might expect, they absolutely scream sophistication. The [[Bang & Olufsen]] Beoplay H95 are excellent. They’re luxurious, they sound amazing and the smartphone app gives you a good amount of control.^[[Bang & Olufsen Beoplay H95 review | T3](https://www.t3.com/reviews/bang-and-olufsen-beoplay-h95-review)]
 
 # improve
-1. how can you experience the same song 'more than once'?
+1. [NEW Bang & Olufsen Beoplay H95 ANC Headphones - Reviews & Impressions | Page 43 | Headphone Reviews and Discussion - Head-Fi.org](https://www.head-fi.org/threads/new-bang-olufsen-beoplay-h95-anc-headphones-reviews-impressions.941031/page-43)
+	1. The H95 is indeed a punchy pair o' phones. Transients are very fast all across the board, and that's probably the main reason why the mids don't sound as recessed as the graph would suggest, along with the fact that you almost get no range of frequencies bleeding into another, which is indeed saying a lot. How they managed to achieve that with a single 40mm dynamic driver is really hard to explain for me.  
+Positioning is also definitely more that just "not bad", and I'm comparing it to a king-in-positioning pair of IEMs like the ThieAudio Monarch here, so I know what I'm talking about. Soundstage is also pretty wide for a closed-back set.
+2. how can you experience the same song 'more than once'?
 	1. switch between EQ settings (or turn it off on the Bang and Olufsen Beoplay H95)
-2. [Dolby Experience - 5.1 Surround Sound on YouTube- Optimised for Dolby certified systems (2022)](https://www.youtube.com/watch?v=ClpEj1ayNSs)
+3. [Dolby Experience - 5.1 Surround Sound on YouTube- Optimised for Dolby certified systems (2022)](https://www.youtube.com/watch?v=ClpEj1ayNSs)
 
 ## testing
 1. test soundstage: [Yosi Horikawa - Bubbles](https://www.youtube.com/watch?v=4CuJqtNdcJU)
