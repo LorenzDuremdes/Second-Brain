@@ -2,7 +2,8 @@
 	1. via the glymphatic system and cerebrospinal [[fluid]], mostly active during deep [[NREM sleep]] together with its sleep spindles as well as the shrinking of neurons by 60%
 
 # improving sleep
-1. should you think about physical activities to fall asleep (e.g. tennis)?
+1. https://www.youtube.com/watch?v=Wk9p3dhMYdk | Bryan Johnson evidence-based sleep improvements (has a nigh 100% [[sleep efficiency]] with 10 minutes of falling asleep and 8-hour [[total sleep time]])
+2. should you think about physical activities to fall asleep (e.g. tennis)?
 	1. no, because it can raise your [[blood pressure]] (i.e. simply imagining the activities)
 		1. what about dreaming about such activities → effect on [[sleep quality]]/quantity?
 

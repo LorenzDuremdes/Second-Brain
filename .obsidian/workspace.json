@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quiet luxury.md",
+                "file": "sleep.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "quiet luxury.md",
+                "file": "sleep.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quiet luxury",
+                "query": "sleep",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "quiet luxury.md",
+                "file": "sleep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "quiet luxury.md",
+                "file": "sleep.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "quiet luxury.md"
+                "file": "sleep.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "5f69b60f51da8153",
   "lastOpenFiles": [
+    "quiet luxury.md",
     "socioeconomic status.md",
     "upper class.md",
     "postpositivism.md",
@@ -208,7 +209,6 @@
     "phenibut.md",
     "sleep deprivation.md",
     "bromazolam.md",
-    "doxylamine.md",
     "normal vs. phenibut sleep.png",
     "sodium",
     "Training process framework and measurable components for monitoring.png",
