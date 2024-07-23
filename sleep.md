@@ -1,11 +1,18 @@
 1. how does sleep remove toxic waste?
-	1. via the glymphatic system and cerebrospinal [[fluid]], mostly active during deep [[NREM sleep]] together with its sleep spindles as well as the shrinking of neurons by 60%
+	1. via the [[glymphatic system]] and [[cerebrospinal fluid]], mostly active during deep [[NREM sleep]] together with its sleep spindles as well as the shrinking of neurons by 60%
 
 # improving sleep
 1. https://www.youtube.com/watch?v=Wk9p3dhMYdk | Bryan Johnson evidence-based sleep improvements (has a nigh 100% [[sleep efficiency]] with 10 minutes of falling asleep and 8-hour [[total sleep time]])
 2. should you think about physical activities to fall asleep (e.g. tennis)?
 	1. no, because it can raise your [[blood pressure]] (i.e. simply imagining the activities)
 		1. what about dreaming about such activities → effect on [[sleep quality]]/quantity?
+
+## [[music]]
+1. in direct comparisons, [[music]] has improved [[sleep quality]] greater than audiobooks and has been comparable to sedative hypnotics. In addition, [[music]] can be combined with relaxation techniques such as breathing exercises and progressive muscle relaxation. One review of non-pharmacological sleep aids identified [[music]] as the only sleep aid with adequate research.
+   
+   research suggests that [[music]] contributes to higher perceived [[sleep quality]], greater [[sleep efficiency]], [[total sleep time|longer sleep durations]], [[wake after sleep onset|less sleep disturbance]], and less daytime dysfunction for older adults.
+   
+   [[Music]] can reduce [[sympathetic nervous system]] activity, decrease [[blood pressure]] and [[heart rate]]. The decrease in Systolic [[Blood pressure]], [[diastolic blood pressure|Diastolic Blood pressure]], and [[heart rate]] signal a state of calmness, which is essential for having a good night sleep. Sedative [[music]], which is characterized by a slow tempo, repetitive rhythm, gentle contours, and strings, is effective in generating [[anxiolytic]] responses to aid sleep.^[https://en.wikipedia.org/wiki/Music_and_sleep]
 
 ## marginal gains
 1. They determined the type of pillow and mattress that led to the best night’s sleep for each rider.^[[Marginal Gains: This Coach Improved Every Tiny Thing by 1 Percent (jamesclear.com)](https://jamesclear.com/marginal-gains)]
