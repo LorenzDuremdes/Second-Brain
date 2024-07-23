@@ -3,6 +3,7 @@
 
 # improving sleep
 1. https://www.youtube.com/watch?v=Wk9p3dhMYdk | Bryan Johnson evidence-based sleep improvements (has a nigh 100% [[sleep efficiency]] with 10 minutes of falling asleep and 8-hour [[total sleep time]])
+	1. [Bryan Johnson gives his 10 sleep habits for combating terrible sleep. (nad.com)](https://www.nad.com/news/bryan-johnsons-free-guide-to-becoming-a-professional-sleeper)
 2. should you think about physical activities to fall asleep (e.g. tennis)?
 	1. no, because it can raise your [[blood pressure]] (i.e. simply imagining the activities)
 		1. what about dreaming about such activities → effect on [[sleep quality]]/quantity?
