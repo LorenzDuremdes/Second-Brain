@@ -161,7 +161,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,7 +180,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b2c9e6d4e6f3ae26",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
     "circadian rhythm.md",
     "sleep.md",
