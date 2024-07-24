@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soviet cosmonaut medical kit.md",
+                "file": "phenylpiracetam.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Soviet cosmonaut medical kit.md",
+                "file": "phenylpiracetam.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "phenibut",
+                "query": "phenyl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,7 +113,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Soviet cosmonaut medical kit.md",
+                "file": "phenylpiracetam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Soviet cosmonaut medical kit.md",
+                "file": "phenylpiracetam.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soviet cosmonaut medical kit.md"
+                "file": "phenylpiracetam.md"
               }
             }
           },
@@ -195,8 +196,8 @@
   },
   "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "phenibut.md",
     "Soviet cosmonaut medical kit.md",
+    "phenibut.md",
     "go and no-go pills.md",
     "etizolam.md",
     "headphones.md",
