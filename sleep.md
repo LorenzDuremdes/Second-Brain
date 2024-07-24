@@ -21,6 +21,7 @@
 2. every minute in the **morning** (e.g. [[light therapy]], [[food]] or [[physical exercise]]) can affect e.g. sleep latency that night
 	1. (loud) [[music]] can help waking up
 3. every stressor that day can affect your sleep that same night
+4. slow movements
 
 # [[nutrition]]
 ## [[nutrient timing]]
@@ -87,3 +88,7 @@
 
 # miscellaneous
 1. [How Elite Athletes ACTUALLY Sleep (youtube.com)](https://www.youtube.com/watch?v=1uT4ldxU6l8)
+
+# accessories
+1. [Emma AirGrid Kussen: met speciale AirGrid®-technologie. (emma-sleep.nl)](https://www.emma-sleep.nl/kussens/airgrid-kussen/)
+2. [Eight Sleep | Now in Europe](https://www.eightsleep.com/eu/)
