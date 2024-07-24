@@ -2,12 +2,14 @@
 	1. via the [[glymphatic system]] and [[cerebrospinal fluid]], mostly active during deep [[NREM sleep]] together with its sleep spindles as well as the shrinking of neurons by 60%
 
 # improving sleep
-1. https://www.youtube.com/watch?v=Wk9p3dhMYdk | Bryan Johnson evidence-based sleep improvements (has a nigh 100% [[sleep efficiency]] with 10 minutes of falling asleep and 8-hour [[total sleep time]])
+1. I’d never thought of sleep as something that could be engineered. The schools I attended didn’t offer sleep classes. No one pulled me aside and gave me tips. So, like most, I just crossed my fingers each day and hoped for the best until I read Matthew Walker’s book Why We Sleep, which introduced me to the science of sleep.^[[Sleep and Impulse Control. It’s 7 pm. A freshly baked sugar cookie… | by Bryan Johnson | Future Literacy | Medium](https://medium.com/future-literacy/sleep-and-impulse-control-87e844218ff2)]
+2. https://www.youtube.com/watch?v=Wk9p3dhMYdk | Bryan Johnson evidence-based sleep improvements (has a nigh 100% [[sleep efficiency]] with 10 minutes of falling asleep and 8-hour [[total sleep time]])
 	1. [Bryan Johnson gives his 10 sleep habits for combating terrible sleep. (nad.com)](https://www.nad.com/news/bryan-johnsons-free-guide-to-becoming-a-professional-sleeper)
 		1. [Eight Sleep | Bed Cooling System](https://www.eightsleep.com/eu/pod-cover/)
-2. should you think about physical activities to fall asleep (e.g. tennis)?
+3. should you think about physical activities to fall asleep (e.g. tennis)?
 	1. no, because it can raise your [[blood pressure]] (i.e. simply imagining the activities)
 		1. what about dreaming about such activities → effect on [[sleep quality]]/quantity?
+4. 
 
 ## [[music]]
 1. in direct comparisons, [[music]] has improved [[sleep quality]] greater than audiobooks and has been comparable to sedative hypnotics. In addition, [[music]] can be combined with relaxation techniques such as breathing exercises and progressive muscle relaxation. One review of non-pharmacological sleep aids identified [[music]] as the only sleep aid with adequate research.
