@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sleep.md",
+                "file": "headphones.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sleep.md",
+                "file": "headphones.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sleep",
+                "query": "headphones",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sleep.md",
+                "file": "headphones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sleep.md",
+                "file": "headphones.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sleep.md"
+                "file": "headphones.md"
               }
             }
           },
@@ -180,10 +181,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "064dd5af93373ca8",
+  "active": "b2c9e6d4e6f3ae26",
   "lastOpenFiles": [
-    "circadian rhythm.md",
     "sleep.md",
+    "circadian rhythm.md",
     "diastolic blood pressure.md",
     "glymphatic system.md",
     "Beoplay H95 (Bang & Olufsen).md",
