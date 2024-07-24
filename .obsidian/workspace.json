@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4bd1d7420c497c5f",
+            "id": "788a00e88314463a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "etizolam.md",
+                "file": "go and no-go pills.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "etizolam.md",
+                "file": "go and no-go pills.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "etizolam.md",
+                "file": "go and no-go pills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "etizolam.md",
+                "file": "go and no-go pills.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "etizolam.md"
+                "file": "go and no-go pills.md"
               }
             }
           },
@@ -182,8 +182,9 @@
   },
   "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "headphones.md",
     "etizolam.md",
+    "go and no-go pills.md",
+    "headphones.md",
     "sleep.md",
     "circadian rhythm.md",
     "diastolic blood pressure.md",
@@ -207,7 +208,6 @@
     "fasted training.md",
     "glycogen threshold.md",
     "pagoclone.md",
-    "relapse prevention.md",
     "normal vs. phenibut sleep.png",
     "sodium",
     "Training process framework and measurable components for monitoring.png",
