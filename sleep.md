@@ -2,14 +2,20 @@
 	1. via the [[glymphatic system]] and [[cerebrospinal fluid]], mostly active during deep [[NREM sleep]] together with its sleep spindles as well as the shrinking of neurons by 60%
 
 # improving sleep
-1. I’d never thought of sleep as something that could be engineered. The schools I attended didn’t offer sleep classes. No one pulled me aside and gave me tips. So, like most, I just crossed my fingers each day and hoped for the best until I read Matthew Walker’s book Why We Sleep, which introduced me to the science of sleep.^[[Sleep and Impulse Control. It’s 7 pm. A freshly baked sugar cookie… | by Bryan Johnson | Future Literacy | Medium](https://medium.com/future-literacy/sleep-and-impulse-control-87e844218ff2)]
-2. https://www.youtube.com/watch?v=Wk9p3dhMYdk | Bryan Johnson evidence-based sleep improvements (has a nigh 100% [[sleep efficiency]] with 10 minutes of falling asleep and 8-hour [[total sleep time]])
+1. I’d never thought of sleep as something that could be engineered. The schools I attended didn’t offer sleep classes. No one pulled me aside and gave me tips. So, like most, I just crossed my fingers each day and hoped for the best until I read Matthew Walker’s book Why We Sleep, which introduced me to the science of sleep.
+   
+   First, close the blackout blinds in your bedroom. Eat dinner at 4pm, and do not eat or drink anything after 6pm. Put on your blue-light blocking glasses at 8pm. Set your bedroom temperature to 67ºF (19.4ºC) and your electric blanket to 69.8ºF (21ºC). At 8.45pm, meditate for five to ten minutes. Switch on your deep-wave sound machine. Put on your sleep-tracking [device]. You are now, finally, ready for slumber. This may all sound a bit over the top. But this is the “sleep hygiene” routine described in a recent blog post by Bryan Johnson, who sold his previous company to eBay for $800m and is now chief executive of Kernel, a startup developing brain-computer interfaces. He admits that his sleep routine has “decimated my social life”, and that his partner sleeps in a different room, but says all this trouble is worth it, because it has boosted his level of “deep sleep” by as much as 157%. He has bought [wearable sleep trackers] for all his employees.
+   
+   Such measures may seem extreme, but that’s what it takes to understand and break the connection between sleep and cookies. So what did I learn?
+   
+   I can predict with high accuracy what my sleep metrics will be if I eat a 6pm dinner instead of sticking to my normal 5am-10am window (my last meal of the day comes even earlier than described in the Economist’s article, nowadays!). I know the different impacts of various foods. I know the likely outcomes if I experience negative emotional arousal before bed. I know with high accuracy that if I eat that 6pm dinner, my sleep will be severely compromised which will obliterate my impulse control the following day and put me at high risk of kickstarting a vicious cycle.^[[Sleep and Impulse Control. It’s 7 pm. A freshly baked sugar cookie… | by Bryan Johnson | Future Literacy | Medium](https://medium.com/future-literacy/sleep-and-impulse-control-87e844218ff2)]
+1. https://www.youtube.com/watch?v=Wk9p3dhMYdk | Bryan Johnson evidence-based sleep improvements (has a nigh 100% [[sleep efficiency]] with 10 minutes of falling asleep and 8-hour [[total sleep time]])
 	1. [Bryan Johnson gives his 10 sleep habits for combating terrible sleep. (nad.com)](https://www.nad.com/news/bryan-johnsons-free-guide-to-becoming-a-professional-sleeper)
 		1. [Eight Sleep | Bed Cooling System](https://www.eightsleep.com/eu/pod-cover/)
-3. should you think about physical activities to fall asleep (e.g. tennis)?
+2. should you think about physical activities to fall asleep (e.g. tennis)?
 	1. no, because it can raise your [[blood pressure]] (i.e. simply imagining the activities)
 		1. what about dreaming about such activities → effect on [[sleep quality]]/quantity?
-4. 
+3. 
 
 ## [[music]]
 1. in direct comparisons, [[music]] has improved [[sleep quality]] greater than audiobooks and has been comparable to sedative hypnotics. In addition, [[music]] can be combined with relaxation techniques such as breathing exercises and progressive muscle relaxation. One review of non-pharmacological sleep aids identified [[music]] as the only sleep aid with adequate research.
