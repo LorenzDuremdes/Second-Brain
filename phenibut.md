@@ -10,6 +10,8 @@
 	1. you felt very calm and somewhat euphoric (like with [[bromazolam]]) + it calmed your SNS as well (including high [[heart rate]] and [[blood pressure]])
 	2. very fatigued (but sadly doesn't knock you out)
 	3. turned you into a supersleeper with [[MK-677]] (only 4 hours of [[sleep]] and [[subjective sleep quality|feeling somewhat physically and mentally rested]] e.g. high [[motivation]] + low RHR/BP))
+7. phenibut; it was previously used as part of the Russian cosmonaut space kit as an [[anxiolytic|anti-anxiety medication]] to help the astronauts stay calm in space^[https://med.virginia.edu/toxicology/wp-content/uploads/sites/268/2021/07/July21-Phenibut.pdf]
+	1. along with [[phenylpiracetam]] in cosmonaut medical kits
 
 # research
 1. phenibut acts as a full [[agonist]] of the GABAB receptor, similarly to baclofen.^[https://en.wikipedia.org/wiki/Phenibut]
