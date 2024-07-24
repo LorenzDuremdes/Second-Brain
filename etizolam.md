@@ -1,0 +1,1 @@
+1. etizolam; has a reduced liability to induce tolerance, and dependence, compared with classic [[benzodiazepine|benzodiazepines]]^[https://en.wikipedia.org/wiki/Etizolam]^[[Low tolerance and dependence liabilities of etizolam: Molecular, functional, and pharmacological correlates - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0014299905007223)]
