@@ -1,0 +1,1 @@
+1. [[sleep]] state misperception; a term in the International Classification of [[Sleep]] Disorders (ICSD) most commonly used for people who mistakenly perceive their [[sleep]] as wakefulness, though it has been proposed that it be applied to those who severely overestimate their [[total sleep time|sleep time]] as well

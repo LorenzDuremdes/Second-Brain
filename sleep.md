@@ -34,8 +34,10 @@
 4. slow movements
 
 ## increasing sleep pressure
-1. walking (early) after waking up
-2. learning (e.g. Anki) after waking upt
+1. how can you perhaps estimate beforehand whether you built sufficient sleep pressure in the morning or not?
+	1. assess sleep pressure during the short afternoon dip (e.g. adenosine)
+2. walking (early) after waking up
+3. learning (e.g. Anki) after waking upt
 
 # [[nutrition]]
 ## [[nutrient timing]]
