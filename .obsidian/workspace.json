@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sleep.md",
+                "file": "glymphatic system.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sleep.md",
+                "file": "glymphatic system.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sleep",
+                "query": "glymphatic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,7 +113,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sleep.md",
+                "file": "glymphatic system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sleep.md",
+                "file": "glymphatic system.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sleep.md"
+                "file": "glymphatic system.md"
               }
             }
           },
@@ -193,14 +194,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d8e9acfa09dbb780",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
+    "sleep.md",
     "phenibut.md",
     "Soviet cosmonaut medical kit.md",
     "go and no-go pills.md",
     "etizolam.md",
     "headphones.md",
-    "sleep.md",
     "circadian rhythm.md",
     "diastolic blood pressure.md",
     "glymphatic system.md",

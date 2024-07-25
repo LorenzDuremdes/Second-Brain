@@ -1,0 +1,2 @@
+1. laying position → glymphatic system
+	1. One last thing about the glymphatic system: it seems to work better when you [[sleep]] on your side. Stony Brook University researchers Hedok Lee and colleagues studying rodents found that the glymphatic system worked more efficiently when the rodent was placed on its side.^[The Sleep Solution Why Your Sleep is Broken and How to Fix It (W. Chris Winter), p. 20]
