@@ -1,0 +1,1 @@
+1. [[obesity]] hypoventilation [[syndrome]]; a condition in which severely overweight people fail to breathe rapidly or deeply enough, resulting in low [[oxygen]] levels and high [[blood]] [[carbon dioxide]] (CO2) levels^[https://en.wikipedia.org/wiki/Obesity_hypoventilation_syndrome]
