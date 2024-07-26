@@ -108,3 +108,8 @@
 # accessories
 1. [Emma AirGrid Kussen: met speciale AirGrid®-technologie. (emma-sleep.nl)](https://www.emma-sleep.nl/kussens/airgrid-kussen/)
 2. [Eight Sleep | Now in Europe](https://www.eightsleep.com/eu/)
+	1. [Herma Bookprotection Film Roll 3700546706516 New: sleep analyzer grey (grau grau) 1 : Amazon.nl: Health & Personal Care](https://www.amazon.nl/-/en/Herma-Bookprotection-Film-Roll-3700546706516/dp/B084HS3HRD/)^[[JMIR mHealth and uHealth - Accuracy of 11 Wearable, Nearable, and Airable Consumer Sleep Trackers: Prospective Multicenter Validation Study](https://mhealth.jmir.org/2023/1/e50983/)]
+	2. [Withings BPM Connect - Electric Arm Blood Pressure Monitor, WiFi Sync](https://www.amazon.nl/-/en/Withings-BPM-Connect-Electric-Pressure/dp/B07SJV1HNR/)
+	3. [Nest Hub (2e generatie) - Google Store]^[[JMIR mHealth and uHealth - Accuracy of 11 Wearable, Nearable, and Airable Consumer Sleep Trackers: Prospective Multicenter Validation Study](https://mhealth.jmir.org/2023/1/e50983/)]
+		1. [SleepScore Max Sleep Improvement System | SleepScore Labs - SleepScore Labs](https://shop.sleepscore.com/products/sleepscore-product)
+3. [Manta Sleep Sleeping mask: eye mask for 100% darkness, no pressure on the eyes, adjustable eye pads, deepest possible rest, perfect blindfold for light sleepers, travel, afternoon sleep : Amazon.nl: Health & Personal Care](https://www.amazon.nl/-/en/Manta-Sleep-Sleeping-mask-adjustable/dp/B07PRG2CQY)
