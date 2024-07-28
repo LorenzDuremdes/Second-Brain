@@ -1,0 +1,1 @@
+1. N of 1 trial; a multiple crossover clinical trial, conducted in a single patient.^[https://en.wikipedia.org/wiki/N_of_1_trial]

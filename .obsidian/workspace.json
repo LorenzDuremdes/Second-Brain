@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8bb691478e3c55e7",
+            "id": "ac20a188ad5b7134",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sleep.md",
+                "file": "N of 1 trial.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sleep.md",
+                "file": "N of 1 trial.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sleep.md",
+                "file": "N of 1 trial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sleep.md",
+                "file": "N of 1 trial.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sleep.md"
+                "file": "N of 1 trial.md"
               }
             }
           },
@@ -180,10 +180,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8bb691478e3c55e7",
+  "active": "ac20a188ad5b7134",
   "lastOpenFiles": [
-    "sleep state misperception.md",
     "sleep.md",
+    "N of 1 trial.md",
+    "sleep state misperception.md",
     "obesity hypoventilation syndrome.md",
     "glymphatic system.md",
     "phenibut.md",
@@ -207,7 +208,6 @@
     "orexin antagonist.md",
     "diphenhydramine.md",
     "total sleep time.md",
-    "benzodiazepine.md",
     "normal vs. phenibut sleep.png",
     "sodium",
     "Training process framework and measurable components for monitoring.png",
