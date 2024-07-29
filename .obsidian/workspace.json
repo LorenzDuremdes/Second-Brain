@@ -161,7 +161,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,10 +180,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "68eb93cd73ab52f7",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "sleep cycle.md",
+    "orexin.md",
     "excitatory-inhibitory imbalance theory of autism.md",
+    "polysomnography.md",
+    "sleep cycle.md",
     "Schematic illustration of Hypotheses 1, 2, and 3.jpg",
     "non-rapid eye movement sleep.md",
     "Table 1. EI balance and neurotransmitter changes in early visual areas during NREM and REM sleep with or without presleep learning compared to baseline.png",
@@ -207,8 +210,6 @@
     "headphones.md",
     "circadian rhythm.md",
     "diastolic blood pressure.md",
-    "Beoplay H95 (Bang & Olufsen).md",
-    "cinazepam.md",
     "normal vs. phenibut sleep.png",
     "sodium",
     "Training process framework and measurable components for monitoring.png",
