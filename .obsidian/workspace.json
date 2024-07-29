@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac20a188ad5b7134",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sleep.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f9e6f994bcf0a95a",
             "type": "leaf",
             "state": {
@@ -66,8 +54,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,8 +182,11 @@
   },
   "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "sleep.md",
+    "AMPA.md",
     "excitatory-inhibitory imbalance theory of autism.md",
+    "glutamate receptor.md",
+    "sleep.md",
+    "excitatory amino acid transporter 1.md",
     "N of 1 trial.md",
     "sleep state misperception.md",
     "obesity hypoventilation syndrome.md",
@@ -218,9 +208,6 @@
     "postpositivism.md",
     "positivism.md",
     "antipositivism.md",
-    "adipose tissue.md",
-    "orexin antagonist.md",
-    "diphenhydramine.md",
     "normal vs. phenibut sleep.png",
     "sodium",
     "Training process framework and measurable components for monitoring.png",
