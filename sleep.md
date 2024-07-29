@@ -33,6 +33,13 @@
 3. every stressor that day can affect your sleep that same night
 4. slow movements
 
+### [[food]]
+1. how do you like to use [[food]] before sleeping?
+	1. mindful eating (and calming) especially with being hungry before from [[intermittent fasting]] ([[contrast effect]])
+2. do you like flushing your mouth after eating before bedtime (but after brushing teeth) + why
+	1. no, the sensations of [[food]] calms you (especially after hunger with IF)
+	2. it's usually [[food]] that doesn't contain much sugar
+
 ## increasing sleep pressure
 1. how can you perhaps estimate beforehand whether you built sufficient sleep pressure in the morning or not?
 	1. assess sleep pressure during the short afternoon dip (e.g. adenosine)
