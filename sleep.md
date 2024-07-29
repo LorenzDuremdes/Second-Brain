@@ -93,6 +93,7 @@
 		1. [How To Recover From A High Volume Training Week (Ask a Cycling Coach 274)](https://youtu.be/rKm3BNIWQoo?t=870)
 
 # [[autism]]
+1. sleep disturbances, including longer [[sleep onset latency]] and shorter sleep duration, are closely associated with the core and secondary symptoms of ASD^[[Are sleep disturbances a cause or consequence of autism spectrum disorder? - Yamada - 2023 - Psychiatry and Clinical Neurosciences - Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1111/pcn.13550)]
 ## [[neuroscience]]
 1. being [[female]] is a strong predictor of [[dyssomnia|poor sleep quality]]^[[Sleep Quality in Autism from Adolescence to Old Age | Autism in Adulthood (liebertpub.com)](https://www.liebertpub.com/doi/10.1089/aut.2019.0034)]
 	1. e.g. due to being more vulnerable to [[anxiety]] and [[depression]], and hormonal differences (e.g. menstruation)
