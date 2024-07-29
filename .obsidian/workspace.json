@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f9e6f994bcf0a95a",
+            "id": "68eb93cd73ab52f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "excitatory-inhibitory imbalance theory of autism.md",
+                "file": "in vivo magnetic resonance spectroscopy.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "excitatory-inhibitory imbalance theory of autism.md",
+                "file": "in vivo magnetic resonance spectroscopy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "excitatory-inhibitory imbalance theory of autism.md",
+                "file": "in vivo magnetic resonance spectroscopy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "excitatory-inhibitory imbalance theory of autism.md",
+                "file": "in vivo magnetic resonance spectroscopy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "excitatory-inhibitory imbalance theory of autism.md"
+                "file": "in vivo magnetic resonance spectroscopy.md"
               }
             }
           },
@@ -182,8 +182,12 @@
   },
   "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "AMPA.md",
+    "phosphorus.md",
+    "in vivo magnetic resonance spectroscopy.md",
+    "nitrogen.md",
+    "carbon.md",
     "excitatory-inhibitory imbalance theory of autism.md",
+    "AMPA.md",
     "glutamate receptor.md",
     "sleep.md",
     "excitatory amino acid transporter 1.md",
@@ -204,10 +208,6 @@
     "competitive inhibition.md",
     "quiet luxury.md",
     "socioeconomic status.md",
-    "upper class.md",
-    "postpositivism.md",
-    "positivism.md",
-    "antipositivism.md",
     "normal vs. phenibut sleep.png",
     "sodium",
     "Training process framework and measurable components for monitoring.png",
