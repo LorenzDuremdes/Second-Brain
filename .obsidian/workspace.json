@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "excitatory-inhibitory imbalance theory of autism.md",
+                "file": "sleep deprivation.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "excitatory-inhibitory imbalance theory of autism.md",
+                "file": "sleep deprivation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "glymphatic",
+                "query": "sleep deprivation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "excitatory-inhibitory imbalance theory of autism.md",
+                "file": "sleep deprivation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "excitatory-inhibitory imbalance theory of autism.md",
+                "file": "sleep deprivation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "excitatory-inhibitory imbalance theory of autism.md"
+                "file": "sleep deprivation.md"
               }
             }
           },
@@ -161,8 +162,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,10 +180,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "51fbbfaf155022b6",
   "lastOpenFiles": [
-    "information processing (psychology).md",
     "excitatory-inhibitory imbalance theory of autism.md",
+    "information processing (psychology).md",
     "sleep.md",
     "in vivo magnetic resonance spectroscopy.md",
     "phosphorus.md",
