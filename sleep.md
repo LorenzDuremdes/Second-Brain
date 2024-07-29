@@ -22,6 +22,7 @@
 ### pre-bedtime
 1. what should the composition of the meal be if you want to eat before bedtime?
 	1. Evening whey protein supplementation, rich in tryptophan, does not improve acute sleep duration or quality in elite male Australian Football League players. However, elite athletes may be able to ingest a high protein/energy intake close to bedtime without impairing sleep, which is important for athlete recovery.^[[Evening Whey Protein Intake, Rich in Tryptophan, and Sleep in Elite Male Australian Rules Football Players on Training and Nontraining Days - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/34875624/)]^[[[PDF] The Impact of Dietary Factors on the Sleep of Athletically Trained Populations: A Systematic Review | Semantic Scholar](https://www.semanticscholar.org/reader/950985f4337895eac5a687522ffd60323bdd898c), discussion (page 18)]
+	2. evening protein intake (gkg-1) was associated with shortened SOL [β=-2, 95%CI: -4 to -0.4), p=0.02]^[[Nutrient intake, meal timing and sleep in elite male Australian football players - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/32624442/)]
 
 ## [[music]]
 1. in direct comparisons, [[music]] has improved [[sleep quality]] greater than audiobooks and has been comparable to sedative hypnotics. In addition, [[music]] can be combined with relaxation techniques such as breathing exercises and progressive muscle relaxation. One review of non-pharmacological sleep aids identified [[music]] as the only sleep aid with adequate research.
