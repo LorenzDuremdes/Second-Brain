@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sleep deprivation.md",
+                "file": "excitatory-inhibitory imbalance theory of autism.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sleep deprivation.md",
+                "file": "excitatory-inhibitory imbalance theory of autism.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -100,8 +100,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sleep deprivation.md",
+                "file": "excitatory-inhibitory imbalance theory of autism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sleep deprivation.md",
+                "file": "excitatory-inhibitory imbalance theory of autism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sleep deprivation.md"
+                "file": "excitatory-inhibitory imbalance theory of autism.md"
               }
             }
           },
@@ -180,9 +179,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "51fbbfaf155022b6",
+  "active": "68eb93cd73ab52f7",
   "lastOpenFiles": [
+    "non-rapid eye movement sleep.md",
     "excitatory-inhibitory imbalance theory of autism.md",
+    "Table 1. EI balance and neurotransmitter changes in early visual areas during NREM and REM sleep with or without presleep learning compared to baseline.png",
+    "sleep deprivation.md",
     "information processing (psychology).md",
     "sleep.md",
     "in vivo magnetic resonance spectroscopy.md",
@@ -206,8 +208,6 @@
     "Beoplay H95 (Bang & Olufsen).md",
     "cinazepam.md",
     "nonbenzodiazepine.md",
-    "competitive inhibition.md",
-    "quiet luxury.md",
     "normal vs. phenibut sleep.png",
     "sodium",
     "Training process framework and measurable components for monitoring.png",
@@ -218,7 +218,6 @@
     "Predictive model for the identification of overtraining syndrome (OTS). EROS, Endocrine and Metabolic Responses on Overtraining Syndrome; GH, growth hormone; yo, years old..png",
     "bmjsem-2019-000542f05.jpg",
     "Figure S2. Effects of GW501516 treatment on SDH-positive fibres in trained mice. .png",
-    "The effects of GW501516 on SDH-positive fibres in skeletal muscle of sedentary and trained KM mice.jpg",
     "Untitled"
   ]
 }
