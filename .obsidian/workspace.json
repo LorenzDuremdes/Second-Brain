@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5bfc49975a5be98c",
+            "id": "785cf0ebc7433403",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REM sleep.md",
+                "file": "solitary nucleus.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "REM sleep.md",
+                "file": "solitary nucleus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REM sleep.md",
+                "file": "solitary nucleus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REM sleep.md",
+                "file": "solitary nucleus.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REM sleep.md"
+                "file": "solitary nucleus.md"
               }
             }
           },
@@ -180,10 +180,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5bfc49975a5be98c",
+  "active": "785cf0ebc7433403",
   "lastOpenFiles": [
-    "brain stem.md",
     "REM sleep.md",
+    "solitary nucleus.md",
+    "brain stem.md",
     "brainstem.md",
     "non-rapid eye movement sleep.md",
     "slow-wave sleep.md",
@@ -209,7 +210,6 @@
     "sleep deprivation.md",
     "information processing (psychology).md",
     "in vivo magnetic resonance spectroscopy.md",
-    "phosphorus.md",
     "normal vs. phenibut sleep.png",
     "sodium",
     "Training process framework and measurable components for monitoring.png",

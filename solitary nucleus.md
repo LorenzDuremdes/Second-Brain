@@ -1,0 +1,1 @@
+1. solitary nucleus; it receives and relays stimuli related to taste and visceral sensation. It sends outputs to various parts of the [[brain]], such as the [[hypothalamus]], [[thalamus]], and [[reticular formation]]^[https://en.wikipedia.org/wiki/Solitary_nucleus]
