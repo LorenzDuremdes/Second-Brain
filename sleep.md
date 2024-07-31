@@ -30,6 +30,11 @@
 	   
 	   One consequence of artificial light pollution is that even brief periods of relatively bright light during the night may prevent plants or animals (including humans) from measuring the length of the dark period, and therefore from behaving in a normal or required manner. This is a critical aspect of [[scotobiology]], and one of the major areas in the study of the responses of biological systems to darkness.^[https://en.wikipedia.org/wiki/Scotobiology]
 
+## pre-bedtime
+1. [[water]]-based passive body heating (PBHWB) of 40-42.5 °C was associated with both improved self-rated [[sleep quality]] and [[sleep efficiency|SE]], and when scheduled 1-2 h before bedtime for little as 10 min significant shortening of [[sleep onset latency|SOL]]^[[Before-bedtime passive body heating by warm shower or bath to improve sleep: A systematic review and meta-analysis - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/31102877/)]
+   
+   "We know that your core body temperature needs to drop by about 2 to 3 degrees Fahrenheit to initiate good sleep and then maintain deep sleep," says Walker, the author of *Why We Sleep*.^[[Trouble Sleeping? Try A Warm Bath To Cool Down : Shots - Health News : NPR](https://www.npr.org/sections/health-shots/2019/07/25/745010965/a-warm-bedtime-bath-can-help-you-cool-down-and-sleep-better)]
+
 ## [[food]]
 ### pre-bedtime
 1. what should the composition of the meal be if you want to eat before bedtime?

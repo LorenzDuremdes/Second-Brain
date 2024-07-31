@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8bd6805b1066fc1e",
+            "id": "0464a7dd59b63fe2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "baroreceptor.md",
+                "file": "sleep.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "baroreceptor.md",
+                "file": "sleep.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rem sleep",
+                "query": "sleep",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "baroreceptor.md",
+                "file": "sleep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "baroreceptor.md",
+                "file": "sleep.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "baroreceptor.md"
+                "file": "sleep.md"
               }
             }
           },
@@ -182,34 +182,35 @@
   },
   "active": "183b09389d505b81",
   "lastOpenFiles": [
+    "ketamine.md",
+    "vigabatrin.md",
+    "ventrolateral preoptic nucleus.md",
+    "solitary nucleus.md",
+    "slow-wave sleep.md",
+    "process S.md",
+    "membrane potential.md",
+    "hyperpolarization (biology).md",
+    "galanin.md",
     "carotid sinus.md",
     "carotid arteries.png",
-    "baroreceptor.md",
-    "solitary nucleus.md",
-    "REM sleep.md",
     "brain stem.md",
-    "brainstem.md",
-    "non-rapid eye movement sleep.md",
-    "slow-wave sleep.md",
-    "NREM sleep.md",
-    "autonomic nervous system.md",
-    "ventrolateral preoptic nucleus.md",
-    "GABAergic.md",
-    "hyperpolarization (biology).md",
+    "baroreceptor.md",
     "action potential.md",
-    "neural backpropagation.md",
-    "membrane potential.md",
-    "galanin.md",
-    "sleep.md",
-    "process S.md",
-    "vigabatrin.md",
-    "ketamine.md",
+    "GABAergic.md",
     "excitatory-inhibitory imbalance theory of autism.md",
     "orexin.md",
     "polysomnography.md",
     "sleep cycle.md",
     "Schematic illustration of Hypotheses 1, 2, and 3.jpg",
+    "non-rapid eye movement sleep.md",
     "Table 1. EI balance and neurotransmitter changes in early visual areas during NREM and REM sleep with or without presleep learning compared to baseline.png",
+    "sleep deprivation.md",
+    "information processing (psychology).md",
+    "sleep.md",
+    "in vivo magnetic resonance spectroscopy.md",
+    "phosphorus.md",
+    "nitrogen.md",
+    "carbon.md",
     "normal vs. phenibut sleep.png",
     "sodium",
     "Training process framework and measurable components for monitoring.png",
