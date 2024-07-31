@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ade251d8b78b52cd",
+            "id": "5bfc49975a5be98c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sleep.md",
+                "file": "REM sleep.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "sleep.md",
+                "file": "REM sleep.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sleep deprivation",
+                "query": "rem sleep",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sleep.md",
+                "file": "REM sleep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sleep.md",
+                "file": "REM sleep.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sleep.md"
+                "file": "REM sleep.md"
               }
             }
           },
@@ -180,10 +180,24 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "5bfc49975a5be98c",
   "lastOpenFiles": [
-    "process S.md",
+    "brain stem.md",
+    "REM sleep.md",
+    "brainstem.md",
+    "non-rapid eye movement sleep.md",
+    "slow-wave sleep.md",
+    "NREM sleep.md",
+    "autonomic nervous system.md",
+    "ventrolateral preoptic nucleus.md",
+    "GABAergic.md",
+    "hyperpolarization (biology).md",
+    "action potential.md",
+    "neural backpropagation.md",
+    "membrane potential.md",
+    "galanin.md",
     "sleep.md",
+    "process S.md",
     "vigabatrin.md",
     "ketamine.md",
     "excitatory-inhibitory imbalance theory of autism.md",
@@ -191,25 +205,11 @@
     "polysomnography.md",
     "sleep cycle.md",
     "Schematic illustration of Hypotheses 1, 2, and 3.jpg",
-    "non-rapid eye movement sleep.md",
     "Table 1. EI balance and neurotransmitter changes in early visual areas during NREM and REM sleep with or without presleep learning compared to baseline.png",
     "sleep deprivation.md",
     "information processing (psychology).md",
     "in vivo magnetic resonance spectroscopy.md",
     "phosphorus.md",
-    "nitrogen.md",
-    "carbon.md",
-    "AMPA.md",
-    "glutamate receptor.md",
-    "excitatory amino acid transporter 1.md",
-    "N of 1 trial.md",
-    "sleep state misperception.md",
-    "obesity hypoventilation syndrome.md",
-    "glymphatic system.md",
-    "phenibut.md",
-    "Soviet cosmonaut medical kit.md",
-    "go and no-go pills.md",
-    "etizolam.md",
     "normal vs. phenibut sleep.png",
     "sodium",
     "Training process framework and measurable components for monitoring.png",

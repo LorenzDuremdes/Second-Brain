@@ -7,7 +7,7 @@
 	1. ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Neuro_Muscular_Junction.png/632px-Neuro_Muscular_Junction.png)
 6. chemical synapses can be classified according to the [[neurotransmitter]] released:
 	1. glutamatergic (often excitatory)
-	2. GABAergic (often inhibitory)
+	2. [[GABAergic]] (often inhibitory)
 	3. cholinergic (e.g. vertebrate [[neuromuscular junction]]), and
 	4. adrenergic (releasing [[norepinephrine]])
 

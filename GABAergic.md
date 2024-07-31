@@ -1,0 +1,1 @@
+1. GABAergic neurons are located within the [[hippocampus]], [[thalamus]], [[basal ganglia]], [[hypothalamus]], and [[brainstem]]^[https://www.ncbi.nlm.nih.gov/books/NBK526124/]

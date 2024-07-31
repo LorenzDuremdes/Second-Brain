@@ -1,0 +1,1 @@
+1. hyperpolarization ([[biology]]); inhibits action potentials by increasing the stimulus required to move the [[membrane potential]] to the [[action potential]] threshold. It is the opposite of a depolarization.^[https://en.wikipedia.org/wiki/Hyperpolarization_(biology)]
