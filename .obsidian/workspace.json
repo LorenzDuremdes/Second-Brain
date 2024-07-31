@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vigabatrin.md",
+                "file": "sleep.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "vigabatrin.md",
+                "file": "sleep.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vigabatrin.md",
+                "file": "sleep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vigabatrin.md",
+                "file": "sleep.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vigabatrin.md"
+                "file": "sleep.md"
               }
             }
           },
@@ -182,8 +182,10 @@
   },
   "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "ketamine.md",
+    "process S.md",
+    "sleep.md",
     "vigabatrin.md",
+    "ketamine.md",
     "excitatory-inhibitory imbalance theory of autism.md",
     "orexin.md",
     "polysomnography.md",
@@ -193,7 +195,6 @@
     "Table 1. EI balance and neurotransmitter changes in early visual areas during NREM and REM sleep with or without presleep learning compared to baseline.png",
     "sleep deprivation.md",
     "information processing (psychology).md",
-    "sleep.md",
     "in vivo magnetic resonance spectroscopy.md",
     "phosphorus.md",
     "nitrogen.md",
@@ -209,7 +210,6 @@
     "Soviet cosmonaut medical kit.md",
     "go and no-go pills.md",
     "etizolam.md",
-    "headphones.md",
     "normal vs. phenibut sleep.png",
     "sodium",
     "Training process framework and measurable components for monitoring.png",

@@ -18,6 +18,18 @@
 	1. no, because it can raise your [[blood pressure]] (i.e. simply imagining the activities)
 		1. what about dreaming about such activities → effect on [[sleep quality]]/quantity?
 
+## increasing sleep pressure
+1. how can you perhaps estimate beforehand whether you built sufficient sleep pressure in the morning or not?
+	1. assess sleep pressure during the short afternoon dip (e.g. adenosine)
+2. walking (early) after waking up
+3. learning (e.g. Anki) after waking upt
+
+## [[circadian rhythm]]
+1. should you increase the length of dark period or light period when wanting to e.g. adjust [[circadian rhythm]] or [[process S|sleep pressure]]?
+	1. in many of these biological processes (e.g. operational control of the human [[immune system]]) the critical point is the length of the dark period rather than that of the light
+	   
+	   One consequence of artificial light pollution is that even brief periods of relatively bright light during the night may prevent plants or animals (including humans) from measuring the length of the dark period, and therefore from behaving in a normal or required manner. This is a critical aspect of [[scotobiology]], and one of the major areas in the study of the responses of biological systems to darkness.^[https://en.wikipedia.org/wiki/Scotobiology]
+
 ## [[food]]
 ### pre-bedtime
 1. what should the composition of the meal be if you want to eat before bedtime?
@@ -46,12 +58,6 @@
 2. do you like flushing your mouth after eating before bedtime (but after brushing teeth) + why
 	1. no, the sensations of [[food]] calms you (especially after hunger with IF)
 	2. it's usually [[food]] that doesn't contain much sugar
-
-## increasing sleep pressure
-1. how can you perhaps estimate beforehand whether you built sufficient sleep pressure in the morning or not?
-	1. assess sleep pressure during the short afternoon dip (e.g. adenosine)
-2. walking (early) after waking up
-3. learning (e.g. Anki) after waking upt
 
 # [[nutrition]]
 ## [[nutrient timing]]
