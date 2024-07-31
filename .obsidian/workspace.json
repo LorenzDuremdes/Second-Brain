@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0464a7dd59b63fe2",
+            "id": "ade251d8b78b52cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ketamine.md",
+                "file": "vigabatrin.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ketamine.md",
+                "file": "vigabatrin.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ketamine.md",
+                "file": "vigabatrin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ketamine.md",
+                "file": "vigabatrin.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ketamine.md"
+                "file": "vigabatrin.md"
               }
             }
           },
@@ -182,8 +182,9 @@
   },
   "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "excitatory-inhibitory imbalance theory of autism.md",
     "ketamine.md",
+    "vigabatrin.md",
+    "excitatory-inhibitory imbalance theory of autism.md",
     "orexin.md",
     "polysomnography.md",
     "sleep cycle.md",
@@ -209,7 +210,6 @@
     "go and no-go pills.md",
     "etizolam.md",
     "headphones.md",
-    "circadian rhythm.md",
     "normal vs. phenibut sleep.png",
     "sodium",
     "Training process framework and measurable components for monitoring.png",
