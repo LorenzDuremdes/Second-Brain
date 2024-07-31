@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "785cf0ebc7433403",
+            "id": "8bd6805b1066fc1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "solitary nucleus.md",
+                "file": "baroreceptor.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "solitary nucleus.md",
+                "file": "baroreceptor.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "solitary nucleus.md",
+                "file": "baroreceptor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "solitary nucleus.md",
+                "file": "baroreceptor.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "solitary nucleus.md"
+                "file": "baroreceptor.md"
               }
             }
           },
@@ -180,10 +180,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "785cf0ebc7433403",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "REM sleep.md",
+    "carotid sinus.md",
+    "carotid arteries.png",
+    "baroreceptor.md",
     "solitary nucleus.md",
+    "REM sleep.md",
     "brain stem.md",
     "brainstem.md",
     "non-rapid eye movement sleep.md",
@@ -207,9 +210,6 @@
     "sleep cycle.md",
     "Schematic illustration of Hypotheses 1, 2, and 3.jpg",
     "Table 1. EI balance and neurotransmitter changes in early visual areas during NREM and REM sleep with or without presleep learning compared to baseline.png",
-    "sleep deprivation.md",
-    "information processing (psychology).md",
-    "in vivo magnetic resonance spectroscopy.md",
     "normal vs. phenibut sleep.png",
     "sodium",
     "Training process framework and measurable components for monitoring.png",
@@ -218,7 +218,6 @@
     "Clap_skate.svg",
     "Here’s the cost of getting lean. [Infographic] Is it really worth the trade-off.png",
     "Predictive model for the identification of overtraining syndrome (OTS). EROS, Endocrine and Metabolic Responses on Overtraining Syndrome; GH, growth hormone; yo, years old..png",
-    "bmjsem-2019-000542f05.jpg",
     "Untitled"
   ]
 }

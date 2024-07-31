@@ -1,0 +1,2 @@
+1. the carotid sinus is a dilated area at the base of the internal carotid artery just superior to the bifurcation of the internal carotid and external carotid at the level of the superior border of thyroid cartilage
+2. By BruceBlaus. When using this image in external sources it can be cited as:Blausen.com staff (2014). "Medical gallery of Blausen Medical 2014". WikiJournal of Medicine 1 (2). DOI:10.15347/wjm/2014.010. ISSN 2002-4436. - Own work, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=30634275 ![[carotid arteries.png]]
