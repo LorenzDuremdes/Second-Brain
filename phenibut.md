@@ -12,8 +12,11 @@
 	3. turned you into a supersleeper with [[MK-677]] (only 4 hours of [[sleep]] and [[subjective sleep quality|feeling somewhat physically and mentally rested]] e.g. high [[motivation]] + low RHR/BP))
 7. phenibut; it was previously used as part of the Russian cosmonaut space kit as an [[anxiolytic|anti-anxiety medication]] to help the astronauts stay calm in space^[https://med.virginia.edu/toxicology/wp-content/uploads/sites/268/2021/07/July21-Phenibut.pdf]
 	1. along with [[phenylpiracetam]] in cosmonaut medical kits
+8. phenibut vs. [[nonbenzodiazepine|(non)benzodiazepines]]
+	1. phenibut acts as a [[full agonist]] of the [[GABAB|GABA]]<sub>B</sub> receptor, similarly to baclofen.^[https://en.wikipedia.org/wiki/Phenibut]
+	2. [[benzodiazepine|benzodiazepines]] are depressants that enhance the effect of the neurotransmitter gamma-aminobutyric acid ([[GABA]]) at the [[GABAA|GABA]]<sub>A</sub> receptor
 
 # research
-1. phenibut acts as a full [[agonist]] of the GABAB receptor, similarly to baclofen.^[https://en.wikipedia.org/wiki/Phenibut]
+1. phenibut acts as a full [[agonist]] of the [[GABAB receptor]], similarly to baclofen.^[https://en.wikipedia.org/wiki/Phenibut]
 	1. [[Total sleep time]] was significantly prolonged by baclofen (placebo 356 +/- 9.9 SEM min; baclofen 386 +/- 9.9 min). Both nonrapid eye movement(REM) and [[REM sleep]] duration were increased (nonREM: placebo 295 +/- 6.8 min; baclofen 311 +/- 8.9 min; REM: placebo 61 +/- 7.5 min; baclofen 76 +/- 9.0 min). Time spent awake after [[sleep onset latency|sleep onset]] was reduced after baclofen (placebo 71 +/- 10.3 min; baclofen 51 +/- 9.7 min).^[[The effects of the GABA agonist, baclofen, on sleep and breathing - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/7758556/)]
 	2. [My sleep on a normal night (left) versus after taking phenibut (right) : r/phenibut (reddit.com)](https://www.reddit.com/r/phenibut/comments/9jtqeq/my_sleep_on_a_normal_night_left_versus_after/) ![[normal vs. phenibut sleep.png]]
