@@ -13,8 +13,8 @@
 7. phenibut; it was previously used as part of the Russian cosmonaut space kit as an [[anxiolytic|anti-anxiety medication]] to help the astronauts stay calm in space^[https://med.virginia.edu/toxicology/wp-content/uploads/sites/268/2021/07/July21-Phenibut.pdf]
 	1. along with [[phenylpiracetam]] in cosmonaut medical kits
 8. phenibut vs. [[nonbenzodiazepine|(non)benzodiazepines]]
-	1. phenibut acts as a [[full agonist]] of the [[GABAB|GABA]]<sub>B</sub> receptor, similarly to baclofen.^[https://en.wikipedia.org/wiki/Phenibut]
-	2. [[benzodiazepine|benzodiazepines]] are depressants that enhance the effect of the neurotransmitter gamma-aminobutyric acid ([[GABA]]) at the [[GABAA|GABA]]<sub>A</sub> receptor
+	1. phenibut acts as a [[full agonist]] of the [[GABAB receptor|GABA]]<sub>B</sub> receptor, similarly to baclofen.^[https://en.wikipedia.org/wiki/Phenibut]
+	2. [[benzodiazepine|benzodiazepines]] are depressants that enhance the effect of the neurotransmitter gamma-aminobutyric acid ([[GABA]]) at the [[GABAA receptor|GABA]]<sub>A</sub> receptor
 
 # research
 1. phenibut acts as a full [[agonist]] of the [[GABAB receptor]], similarly to baclofen.^[https://en.wikipedia.org/wiki/Phenibut]

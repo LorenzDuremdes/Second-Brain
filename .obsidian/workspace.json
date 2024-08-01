@@ -161,7 +161,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,15 +180,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4f5dabbcea17345b",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "GABAA.md",
+    "GABAA receptor.md",
     "phenibut.md",
+    "GABAB receptor.md",
+    "GABAA.md",
     "GABAB.md",
     "GABA.md",
     "GABA receptor.md",
     "excitatory-inhibitory imbalance theory of autism.md",
-    "GABAB receptor.md",
     "full agonist.md",
     "sleep.md",
     "ketamine.md",
@@ -207,7 +209,6 @@
     "GABAergic.md",
     "orexin.md",
     "polysomnography.md",
-    "sleep cycle.md",
     "Schematic illustration of Hypotheses 1, 2, and 3.jpg",
     "Table 1. EI balance and neurotransmitter changes in early visual areas during NREM and REM sleep with or without presleep learning compared to baseline.png",
     "normal vs. phenibut sleep.png",
