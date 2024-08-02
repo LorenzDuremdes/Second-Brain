@@ -1,1 +1,2 @@
-1. 80% of the fibers of the vagus nerve are afferent^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 242]
+1. vagus nerve; a cranial nerve that carries sensory fibers that create a pathway that interfaces with the parasympathetic control of the [[heart]], [[lungs]], and [[gastrointestinal tract|digestive tract]].^[https://en.wikipedia.org/wiki/Vagus_nerve]
+2. 80% of the fibers of the vagus nerve are afferent^[The Body Keeps the Score: [[Brain]], [[Mind]], and Body in the Healing of Trauma, p. 242]
