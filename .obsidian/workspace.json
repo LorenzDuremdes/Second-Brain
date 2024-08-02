@@ -8,53 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a9e1181c8070352",
+            "id": "bfd188bcfb8431e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nondipping blood pressure.md",
+                "file": "insomnia.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "2a9c24149c7872f6",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "nondipping blood pressure.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": true,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0,
-                  "repelStrength": 20,
-                  "linkStrength": 1,
-                  "linkDistance": 30,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -120,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nondipping blood pressure.md",
+                "file": "insomnia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nondipping blood pressure.md",
+                "file": "insomnia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nondipping blood pressure.md"
+                "file": "insomnia.md"
               }
             }
           },
@@ -180,10 +146,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "bfd188bcfb8431e9",
   "lastOpenFiles": [
-    "obstructive sleep apnea.md",
+    "tired but wired.md",
+    "hyperarousal.md",
+    "bradycardia.md",
     "nondipping blood pressure.md",
+    "obstructive sleep apnea.md",
     "periodic limb movement disorder.md",
     "restless legs syndrome.md",
     "sleep disorder.md",
@@ -205,9 +174,6 @@
     "solitary nucleus.md",
     "slow-wave sleep.md",
     "process S.md",
-    "membrane potential.md",
-    "hyperpolarization (biology).md",
-    "galanin.md",
     "carotid arteries.png",
     "Schematic illustration of Hypotheses 1, 2, and 3.jpg",
     "Table 1. EI balance and neurotransmitter changes in early visual areas during NREM and REM sleep with or without presleep learning compared to baseline.png",

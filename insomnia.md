@@ -1,5 +1,8 @@
 1. how many people report never to have experienced insomnia?
 	1. ~5%
 
+# [[hyperarousal]]
+1. Moreover, the frequent arousals associated with [[sleep disorder|sleep disorders]] can lead to [[tachycardia]] or [[bradycardia]], followed by increased [[sympathetic nervous system|sympathetic]] and [[baroreceptor]] tone that may impair the [[autonomic nervous system|ANS]].^[[ Cardiovascular variability after arousal from sleep: time-varying spectral analysis. | Semantic Scholar](https://www.semanticscholar.org/paper/Cardiovascular-variability-after-arousal-from-Blasi-Jo/1a7ac49489aa505772a5b39f3830c546f191f391)]^[[ Sympathetic neural responses to 24-hour sleep deprivation in humans: sex differences. | Semantic Scholar](https://www.semanticscholar.org/paper/Sympathetic-neural-responses-to-24-hour-sleep-in-Carter-Durocher/3aaa6879469e3190c9cfedc6a8cc2b7ece40da15)] Indeed, a cardiovascular study demonstrated the connection between severe [[sleep deprivation]] and sympathovagal imbalance.^[[Cardiovascular autonomic dysfunction in insomnia patients with objective short sleep duration | Semantic Scholar](https://www.semanticscholar.org/paper/Cardiovascular-autonomic-dysfunction-in-insomnia-Jarrin-Ivers/bf1dfb34002819fb422f76d90e69c9246ecfd66e)] That study found that patients with a sleep duration of less than 6 hours have elevated mean heart-rate variability metrics and reduced parasympathetic activities compared with the normal population. Other studies have also provided evidence of autonomic dysfunction in the form of hyperarousal, which is the “tired but wired” condition that prevents patients from falling asleep despite being exhausted.
+
 # related
 1. [[sleep]]

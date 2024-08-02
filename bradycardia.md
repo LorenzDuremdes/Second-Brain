@@ -1,0 +1,3 @@
+1. bradycardia; a resting [[heart rate]] under 60 beats per minute (BPM).
+   
+   Resting [[heart]] rates of less than 50 BPM are often normal during [[sleep]] in young and healthy adults and athletes. In large population studies of adults without underlying [[heart]] disease, resting [[heart]] rates of 45-50 BPM appear to be the lower limits of normal, dependent on age and sex.^[https://en.wikipedia.org/wiki/Bradycardia]
