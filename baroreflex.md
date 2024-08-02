@@ -1,3 +1,3 @@
 1. baroreflex; one of the body's homeostatic mechanisms that helps to maintain [[blood pressure]] at nearly constant levels^[https://en.wikipedia.org/wiki/Baroreflex]
 	1. the baroreflex provides a rapid **negative feedback loop** in which an elevated [[blood pressure]] reflexively causes the heart rate to decrease and also causes [[blood pressure]] to decrease
-	2. the baroreflex can begin to act in less than the **duration** of a cardiac cycle (fractions of a second)
+	2. the baroreflex can begin to act in less than the **duration** of a [[cardiac cycle]] (fractions of a second)
