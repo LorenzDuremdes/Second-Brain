@@ -1,0 +1,2 @@
+1. depressor response; a physiological reaction that results in a decrease in [[blood pressure]] or [[mean arterial pressure|arterial pressure]]^[Perplexity AI]
+	1. e.g. [[PDF] Autonomic Dysfunction in Sleep Disorders: From Neurobiological Basis to Potential Therapeutic Approaches | Semantic Scholar](https://www.semanticscholar.org/reader/f9d6a046ba7f1c5800768b8e4a0453774c18246f) > Carotid baroreceptor stimulation
