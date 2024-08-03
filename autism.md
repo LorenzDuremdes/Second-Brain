@@ -1,6 +1,8 @@
 # advantages
 ## [[intelligence]]
 1. autism → embodied [[cognition]] ⇒ autism might enhance [[embodied cognition]] (in optimal conditions) due to e.g. higher sensitivity?
+2. what might cause the correlation between autism and lower [[intelligence]]?
+	1. given the protective and enabling effect of HCFs on autism (116, 117, 127–129), it is not surprising that they are often reported to be low in the clinical population^[[A Unifying Theory for Autism: The Pathogenetic Triad as a Theoretical Framework - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8637925/)]
 
 # [[psychology]]
 1. what could cause people with autism take things more personally?

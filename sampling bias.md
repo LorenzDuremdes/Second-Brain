@@ -1,0 +1,1 @@
+1. sampling bias; a sample is collected in such a way that some members of the intended population have a lower or higher sampling [[probability]] than others^[https://en.wikipedia.org/wiki/Sampling_bias]
