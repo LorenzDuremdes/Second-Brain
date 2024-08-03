@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c80030cbd0097b1c",
+            "id": "f14d38a60b6d4ed8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cardiac cycle.md",
+                "file": "pathogenetic triad of autism.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cardiac cycle.md",
+                "file": "pathogenetic triad of autism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cardiac cycle.md",
+                "file": "pathogenetic triad of autism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cardiac cycle.md"
+                "file": "pathogenetic triad of autism.md"
               }
             }
           },
@@ -146,8 +146,9 @@
   },
   "active": "51fbbfaf155022b6",
   "lastOpenFiles": [
-    "mean arterial pressure.md",
     "cardiac cycle.md",
+    "pathogenetic triad of autism.md",
+    "mean arterial pressure.md",
     "depressor response.md",
     "hypopnea.md",
     "apnea.md",
@@ -171,7 +172,6 @@
     "REM sleep.md",
     "nerve conduction velocity.md",
     "phenibut.md",
-    "GABAA receptor.md",
     "carotid arteries.png",
     "Schematic illustration of Hypotheses 1, 2, and 3.jpg",
     "Table 1. EI balance and neurotransmitter changes in early visual areas during NREM and REM sleep with or without presleep learning compared to baseline.png",
