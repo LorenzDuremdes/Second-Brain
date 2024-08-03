@@ -3,6 +3,8 @@
 1. autism → embodied [[cognition]] ⇒ autism might enhance [[embodied cognition]] (in optimal conditions) due to e.g. higher sensitivity?
 2. what might cause the correlation between autism and lower [[intelligence]]?
 	1. given the protective and enabling effect of HCFs on autism (116, 117, 127–129), it is not surprising that they are often reported to be low in the clinical population^[[A Unifying Theory for Autism: The Pathogenetic Triad as a Theoretical Framework - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8637925/)]
+		1. despite the strong clinical connection to low cognitive ability, the [[broader autism phenotype|BAP]] and [[intelligence]] have been shown to be genetically distinct^[[Association between extreme autistic traits and intellectual disability: insights from a general population twin study
+](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8637925/#B149)]^[[Limited genetic covariance between autistic traits and intelligence: findings from a longitudinal twin study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8637925/#B150)] [for clinical correlate see: ^[[Subtypes of Pervasive Developmental Disorder: Clinical Characteristics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8637925/#B111)]].
 
 # [[psychology]]
 1. what could cause people with autism take things more personally?
