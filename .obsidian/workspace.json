@@ -126,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,8 +144,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "c68e7979d078a358",
   "lastOpenFiles": [
+    "continuous glucose monitor.md",
+    "sleep.md",
+    "sphygmomanometer.md",
     "autism.md",
     "sampling bias.md",
     "broader autism phenotype.md",
@@ -156,7 +158,6 @@
     "depressor response.md",
     "hypopnea.md",
     "apnea.md",
-    "sleep.md",
     "transcutaneous auricular vagus nerve stimulation.md",
     "sedation.md",
     "locus coeruleus.md",
@@ -171,8 +172,6 @@
     "nondipping blood pressure.md",
     "obstructive sleep apnea.md",
     "periodic limb movement disorder.md",
-    "restless legs syndrome.md",
-    "sleep disorder.md",
     "carotid arteries.png",
     "Schematic illustration of Hypotheses 1, 2, and 3.jpg",
     "Table 1. EI balance and neurotransmitter changes in early visual areas during NREM and REM sleep with or without presleep learning compared to baseline.png",

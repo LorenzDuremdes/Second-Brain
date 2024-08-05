@@ -21,6 +21,8 @@
 ## technology
 1. [Eight Sleep | Now in Europe](https://www.eightsleep.com/eu/)
 2. [Emma AirGrid Kussen: met speciale AirGrid®-technologie. (emma-sleep.nl)](https://www.emma-sleep.nl/kussens/airgrid-kussen/)
+3. [[sphygmomanometer]]
+4. [[continuous glucose monitor]]
 
 ## increasing sleep pressure
 1. how can you perhaps estimate beforehand whether you built sufficient sleep pressure in the morning or not?
