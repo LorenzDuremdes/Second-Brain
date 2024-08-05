@@ -1,0 +1,1 @@
+1. sphygmomanometer; also known as a [[blood pressure]] monitor, or [[blood pressure]] gauge, is a device used to measure [[blood pressure]], composed of an inflatable cuff to collapse and then release the artery under the cuff in a controlled manner, and a mercury or aneroid manometer to measure the pressure^[https://en.wikipedia.org/wiki/Sphygmomanometer]
