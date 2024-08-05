@@ -18,6 +18,10 @@
 	1. no, because it can raise your [[blood pressure]] (i.e. simply imagining the activities)
 		1. what about dreaming about such activities → effect on [[sleep quality]]/quantity?
 
+## technology
+1. [Eight Sleep | Now in Europe](https://www.eightsleep.com/eu/)
+2. [Emma AirGrid Kussen: met speciale AirGrid®-technologie. (emma-sleep.nl)](https://www.emma-sleep.nl/kussens/airgrid-kussen/)
+
 ## increasing sleep pressure
 1. how can you perhaps estimate beforehand whether you built sufficient sleep pressure in the morning or not?
 	1. assess sleep pressure during the short afternoon dip (e.g. adenosine)
