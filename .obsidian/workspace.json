@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c68e7979d078a358",
+            "id": "2c361a03da6e0f89",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sphygmomanometer.md",
+                "file": "M99 Stanchion Gauss rifle (Halo).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sphygmomanometer.md",
+                "file": "M99 Stanchion Gauss rifle (Halo).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sphygmomanometer.md",
+                "file": "M99 Stanchion Gauss rifle (Halo).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sphygmomanometer.md"
+                "file": "M99 Stanchion Gauss rifle (Halo).md"
               }
             }
           },
@@ -147,9 +147,10 @@
   },
   "active": "183b09389d505b81",
   "lastOpenFiles": [
+    "sphygmomanometer.md",
+    "M99 Stanchion Gauss rifle (Halo).md",
     "continuous glucose monitor.md",
     "sleep.md",
-    "sphygmomanometer.md",
     "autism.md",
     "sampling bias.md",
     "broader autism phenotype.md",
@@ -172,7 +173,6 @@
     "bradycardia.md",
     "nondipping blood pressure.md",
     "obstructive sleep apnea.md",
-    "periodic limb movement disorder.md",
     "carotid arteries.png",
     "Schematic illustration of Hypotheses 1, 2, and 3.jpg",
     "Table 1. EI balance and neurotransmitter changes in early visual areas during NREM and REM sleep with or without presleep learning compared to baseline.png",
