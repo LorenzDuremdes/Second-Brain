@@ -1,0 +1,1 @@
+1. reconnaissance by fire; a warfare tactic used in which military forces may fire on likely enemy positions to provoke a reaction, which confirms the presence and the position of enemy forces.^[https://en.wikipedia.org/wiki/Reconnaissance_by_fire]

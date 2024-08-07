@@ -1,0 +1,1 @@
+1. defense in depth; once an attacker has lost momentum or is forced to spread out to pacify a large area, defensive counter-attacks can be mounted on the attacker's weak points, with the goal being to cause attrition or drive the attacker back to its original starting position.^[https://en.wikipedia.org/wiki/Defence_in_depth]

@@ -1,0 +1,1 @@
+1. salvo; the simultaneous discharge of artillery or firearms including the firing of guns either to hit a target or to perform a salute. As a tactic in warfare, the intent is to cripple an enemy in many blows at once and prevent them from fighting back.^[https://en.wikipedia.org/wiki/Salvo]

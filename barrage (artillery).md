@@ -1,0 +1,1 @@
+1. barrage (artillery); massed sustained artillery fire (shelling) aimed at a series of points along a line^[https://en.wikipedia.org/wiki/Barrage_(artillery)]

@@ -1,0 +1,1 @@
+1. envelopment (military tactic); the military tactic of seizing objectives in the enemy's rear with the goal of destroying specific enemy forces and denying them the ability to withdraw^[https://en.wikipedia.org/wiki/Envelopment]

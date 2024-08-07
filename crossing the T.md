@@ -1,0 +1,1 @@
+1. crossing the T; a classic naval warfare tactic used from the late 19th to the mid-20th centuries in which a line of warships crosses in front of a line of enemy ships to allow the crossing line to bring all their guns to bear while it receives fire from only the forward guns of the enemy.^[https://en.wikipedia.org/wiki/Crossing_the_T]

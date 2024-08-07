@@ -1,0 +1,1 @@
+1. pincer movement; a military maneuver in which forces simultaneously attack both flanks (sides) of an enemy formation^[https://en.wikipedia.org/wiki/Pincer_movement]

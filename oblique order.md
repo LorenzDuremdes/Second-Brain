@@ -1,0 +1,1 @@
+1. oblique order; a military tactic whereby an attacking army focuses its forces to attack a single enemy flank. The force commander concentrates the majority of their strength on one flank and uses the remainder to fix the enemy line.^[https://en.wikipedia.org/wiki/Oblique_order]

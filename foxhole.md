@@ -1,0 +1,1 @@
+1. foxhole; one type of defensive strategic position. It is a "small pit used for cover, usually for one or two personnel, and so constructed that the occupants can effectively fire from it".^[https://en.wikipedia.org/wiki/Defensive_fighting_position#Terminology]
