@@ -63,6 +63,9 @@
 3. every stressor that day can affect your sleep that same night
 4. slow movements
 
+## [[dysautonomia]]
+1. extra [[sodium chloride|salt]]/[[electrolyte|electrolytes]] and [[fluid]]
+
 ### [[food]]
 1. how do you like to use [[food]] before sleeping?
 	1. mindful eating (and calming) especially with being hungry before from [[intermittent fasting]] ([[contrast effect]])
