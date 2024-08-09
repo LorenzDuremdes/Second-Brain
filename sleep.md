@@ -24,6 +24,7 @@
 3. [[sphygmomanometer]]
 4. [[continuous glucose monitor]]
 5. anti-snoring mouth tape + nose dilator
+	1. Conclusions: Mouth-taping during sleep improved snoring and the severity of sleep apnea in mouth-breathers with mild OSA, with apnea/hypopnea index (AHI) and SI being reduced by about half. The higher the level of baseline AHI and snoring index (SI), the greater the improvement was shown after mouth-taping. Mouth-taping could be an alternative treatment in patients with mild OSA before turning to CPAP therapy or surgical intervention.^[[The Impact of Mouth-Taping in Mouth-Breathers with Mild Obstructive Sleep Apnea: A Preliminary Study - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9498537/)]
 
 ## increasing sleep pressure
 1. how can you perhaps estimate beforehand whether you built sufficient sleep pressure in the morning or not?
