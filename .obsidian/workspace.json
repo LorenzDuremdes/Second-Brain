@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -128,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -146,7 +145,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8412e88b9e28c8ed",
+  "active": "064dd5af93373ca8",
   "lastOpenFiles": [
     "defense in depth.md",
     "crossing the T.md",

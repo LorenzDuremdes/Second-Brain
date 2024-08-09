@@ -23,6 +23,7 @@
 2. [Emma AirGrid Kussen: met speciale AirGrid®-technologie. (emma-sleep.nl)](https://www.emma-sleep.nl/kussens/airgrid-kussen/)
 3. [[sphygmomanometer]]
 4. [[continuous glucose monitor]]
+5. anti-snoring mouth tape + nose dilator
 
 ## increasing sleep pressure
 1. how can you perhaps estimate beforehand whether you built sufficient sleep pressure in the morning or not?
