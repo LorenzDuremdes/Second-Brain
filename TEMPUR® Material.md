@@ -1,0 +1,5 @@
+1. TEMPUR® Material; In the late 1960s, NASA scientists invented an entirely new material that was then used aboard space shuttles. Our founders realized the material’s unique potential. So they took that original NASA invention and spent years perfecting it into TEMPUR® Material and created the world’s first viscoelastic mattress and pillow.
+   
+   That’s why we’re the only mattress brand recognized by NASA for improving the quality of life
+   
+   The company and its products were recognized by NASA. At a joint press conference on May 6, 1998, at NASA headquarters in Washington, D.C., NASA recognized TEMPUR®’s outstanding achievements in adapting the original NASA technology for everyday use and improving the quality of life.^[[Learn About TEMPUR® | NASA | TEMPUR® UK](https://uk.tempur.com/brand-page.html)]

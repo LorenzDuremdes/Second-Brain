@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cfea82f261acd20e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEMPUR® Material.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "primitive behavior.md",
+                "file": "TEMPUR® Material.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "primitive behavior.md",
+                "file": "TEMPUR® Material.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "primitive behavior.md"
+                "file": "TEMPUR® Material.md"
               }
             }
           },
@@ -147,8 +160,9 @@
   },
   "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "Remco Evenepoel.md",
     "primitive behavior.md",
+    "TEMPUR® Material.md",
+    "Remco Evenepoel.md",
     "sleep.md",
     "defense in depth.md",
     "crossing the T.md",
@@ -172,7 +186,6 @@
     "depressor response.md",
     "hypopnea.md",
     "apnea.md",
-    "transcutaneous auricular vagus nerve stimulation.md",
     "carotid arteries.png",
     "Schematic illustration of Hypotheses 1, 2, and 3.jpg",
     "Table 1. EI balance and neurotransmitter changes in early visual areas during NREM and REM sleep with or without presleep learning compared to baseline.png",
