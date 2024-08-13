@@ -20,7 +20,8 @@
 
 ## technology
 1. [Eight Sleep | Now in Europe](https://www.eightsleep.com/eu/)
-2. [Emma AirGrid Kussen: met speciale AirGrid®-technologie. (emma-sleep.nl)](https://www.emma-sleep.nl/kussens/airgrid-kussen/)
+2. [Cloudpillo | Live your dreams | 30 Nachten Proefslapen](https://www.cloudpillo.nl/) | Plus version for side sleepers 
+	1. [Emma AirGrid Kussen: met speciale AirGrid®-technologie. (emma-sleep.nl)](https://www.emma-sleep.nl/kussens/airgrid-kussen/)
 3. [[sphygmomanometer]]
 4. [[continuous glucose monitor]]
 5. anti-snoring mouth tape + nose dilator
