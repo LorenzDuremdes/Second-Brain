@@ -2,4 +2,4 @@
    
    That’s why we’re the only mattress brand recognized by NASA for improving the quality of life
    
-   The company and its products were recognized by NASA. At a joint press conference on May 6, 1998, at NASA headquarters in Washington, D.C., NASA recognized TEMPUR®’s outstanding achievements in adapting the original NASA technology for everyday use and improving the quality of life.^[[Learn About TEMPUR® | NASA | TEMPUR® UK](https://uk.tempur.com/brand-page.html)]
+   The company and its products were recognized by NASA. At a joint press conference on May 6, 1998, at NASA headquarters in Washington, D.C., NASA recognized TEMPUR®’s outstanding achievements in adapting the original NASA technology for everyday use and improving the quality of life.^[[Learn About TEMPUR® | NASA | TEMPUR® UK](https://uk.tempur.com/brand-page.html)]^[[Memory Foam - NASA](https://www.nasa.gov/image-article/memory-foam/)]
