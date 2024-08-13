@@ -20,13 +20,13 @@
 
 ## technology
 1. [Eight Sleep | Now in Europe](https://www.eightsleep.com/eu/)
-	1. [Matras kopen? | Het beste matras voor de beste prijs | Matt (mattsleeps.com)](https://www.mattsleeps.com/nl/het-matras) | aanpasbare matras
+	1. [Matras kopen? | Het beste matras voor de beste prijs | Matt (mattsleeps.com)](https://www.mattsleeps.com/nl/het-matras) | aanpasbare matras ![[Matt sleep matras.png]]
 2. [Cloudpillo | Live your dreams | 30 Nachten Proefslapen](https://www.cloudpillo.nl/) | Plus version for side sleepers 
 	1. [Emma AirGrid Kussen: met speciale AirGrid®-technologie. (emma-sleep.nl)](https://www.emma-sleep.nl/kussens/airgrid-kussen/)
 3. [[sphygmomanometer]]
 4. [[continuous glucose monitor]]
 5. anti-snoring mouth tape + nose dilator
-	1. Conclusions: Mouth-taping during sleep improved snoring and the severity of sleep apnea in mouth-breathers with mild OSA, with apnea/hypopnea index (AHI) and SI being reduced by about half. The higher the level of baseline AHI and snoring index (SI), the greater the improvement was shown after mouth-taping. Mouth-taping could be an alternative treatment in patients with mild OSA before turning to CPAP therapy or surgical intervention.^[[The Impact of Mouth-Taping in Mouth-Breathers with Mild Obstructive Sleep Apnea: A Preliminary Study - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9498537/)]
+	1. Conclusions: Mouth-taping during sleep improved snoring and the severity of [[sleep apnea]] in mouth-breathers with mild OSA, with [[apnea]]/[[hypopnea]] index (AHI) and SI being reduced by about half. The higher the level of baseline AHI and snoring index (SI), the greater the improvement was shown after mouth-taping. Mouth-taping could be an alternative treatment in patients with mild OSA before turning to CPAP therapy or surgical intervention.^[[The Impact of Mouth-Taping in Mouth-Breathers with Mild Obstructive Sleep Apnea: A Preliminary Study - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9498537/)]
 
 ## increasing sleep pressure
 1. how can you perhaps estimate beforehand whether you built sufficient sleep pressure in the morning or not?
