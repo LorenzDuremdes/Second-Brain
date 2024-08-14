@@ -1,0 +1,1 @@
+1. regulator [[gene]]; a [[gene]] involved in controlling the expression of one or more other genes^[https://en.wikipedia.org/wiki/Regulator_gene]
