@@ -21,7 +21,7 @@
 ## technology
 1. [Eight Sleep | Now in Europe](https://www.eightsleep.com/eu/)
 	1. [Matras kopen? | Het beste matras voor de beste prijs | Matt (mattsleeps.com)](https://www.mattsleeps.com/nl/het-matras) | aanpasbare matras ![[Matt sleep matras.png]]
-2. [Cloudpillo | Live your dreams | 30 Nachten Proefslapen](https://www.cloudpillo.nl/) | Plus version for side sleepers 
+2. [Cloudpillo | Live your dreams | 30 Nachten Proefslapen](https://www.cloudpillo.nl/) | Plus version for side sleepers + [Cloudpillo ICE Buitenhoes](https://www.cloudpillo.nl/products/cloudpillo-ice-buitenhoes)
 	1. [Emma AirGrid Kussen: met speciale AirGrid®-technologie. (emma-sleep.nl)](https://www.emma-sleep.nl/kussens/airgrid-kussen/)
 3. [[sphygmomanometer]]
 4. [[continuous glucose monitor]]
