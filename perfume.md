@@ -18,6 +18,12 @@
 2. [Moon Dust - MiN New York](https://www.fragrantica.com/perfume/MiN-New-York/Moon-Dust-25382.html)
 	1. Conceptually it’s so exquisitely niche. In so many ways it absolutely smells like one’s imagination of what the dusty surface of the moon smells like.
 
+# surreal
+1. Neandertal - Them
+	1. echoes a message from a time we have not yet experienced. It is a portrait of an optimistic future full of technological advances, hinting at an improved human life and the progress of generations to come.
+	   
+	   I wouldn't personally pick this as my perfume, it's far too conceptual. I haven't smelled anything like it before, so definitely ultra-niche when it comes to originality. This would fit a very avant-garde minimalist fashionista. Moderate performer.^[https://www.fragrantica.com/perfume/Neandertal/Neandertal-Them-64123.html]
+
 # how
 1. where to apply perfume + why?
 	1. behind the ears, at the nape of the neck, under the armpits and at the insides of wrists, elbows and knees, so that the pulse point will warm the perfume and release fragrance continuously^[https://en.wikipedia.org/wiki/Perfume]
