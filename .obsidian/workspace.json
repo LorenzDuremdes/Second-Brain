@@ -126,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -143,16 +144,16 @@
       "random-note:Open random note": false
     }
   },
-  "active": "70175ecea56c0dbc",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "vitamin B3.md",
+    "sleep.md",
     "tryptophan.md",
+    "vitamin B3.md",
     "cognitive behavioral therapy for insomnia.md",
     "tired but wired.md",
     "insomnia.md",
     "cognitive behavioral therapy.md",
     "somnifacient.md",
-    "sleep.md",
     "perfume.md",
     "regulator gene.md",
     "Matt sleep matras.png",
