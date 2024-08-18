@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sleep.md",
+                "file": "cognitive behavioral therapy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfad25d29ca2a3ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cognitive behavioral therapy for insomnia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "perfume",
+                "query": "cbt-i",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sleep.md",
+                "file": "cognitive behavioral therapy for insomnia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sleep.md",
+                "file": "cognitive behavioral therapy for insomnia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sleep.md"
+                "file": "cognitive behavioral therapy for insomnia.md"
               }
             }
           },
@@ -145,10 +158,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "064dd5af93373ca8",
+  "active": "dfad25d29ca2a3ab",
   "lastOpenFiles": [
-    "perfume.md",
+    "cognitive behavioral therapy.md",
+    "cognitive behavioral therapy for insomnia.md",
     "sleep.md",
+    "perfume.md",
     "regulator gene.md",
     "Matt sleep matras.png",
     "TEMPUR® Material.md",
@@ -172,8 +187,6 @@
     "broader autism phenotype.md",
     "pathogenetic triad of autism.md",
     "cardiac cycle.md",
-    "mean arterial pressure.md",
-    "depressor response.md",
     "carotid arteries.png",
     "Schematic illustration of Hypotheses 1, 2, and 3.jpg",
     "Table 1. EI balance and neurotransmitter changes in early visual areas during NREM and REM sleep with or without presleep learning compared to baseline.png",
