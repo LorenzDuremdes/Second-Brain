@@ -19,15 +19,31 @@
 		1. what about dreaming about such activities → effect on [[sleep quality]]/quantity?
 
 ## technology
-1. [Eight Sleep | Now in Europe](https://www.eightsleep.com/eu/)
+1. [[algorithm]] for optimal bedtime = >T<sub>morning</sub> - TST/x=0.85
+	1. **>T**<sub>morning</sub>; moment when temperature increases next morning (as that's what wakes you up the most with sleeping mask or blinds)
+	2. **0.85**; [[sleep efficiency]]
+	3. **x**; [[sleep onset latency|SOL]]+[[wake after sleep onset|WASO]]<sub>max</sub>
+	4. e.g. if it increases at 6 AM in the [[summer]] with an average TST of 7h → go to bed at 6-(7/x=0.85)≈21:45 (SOL+WASO<sub>max</sub>=74m)
+	5. what's another advantage of following an [[algorithm]] to determine optimal sleep times rather than guessing it intuitively?
+		1. it can have many factors you don't think about determining the sleep times
+		2. also makes you less doubtful e.g. sleep [[anxiety]]
+		3. makes it function similarly as an RMR [[algorithm]] (as well as making you focus more on how to increase/decrease it and things around it e.g. exercise) → you have a certain budget and if you want to increase it, you have to find ways to do so
+	6. why do you like to use SE=0.85 for calculating your optimal bedtime and waking [[time]]?
+		1. it automatically allows for more TST if SE increases (which can be self-reinforcing of done right)
+			1. e.g.:
+				1. 5h with SE=0.85 gives TST≈5.9h and SOL+WASO=0.9h or if SE=0.95 gives TST=5.6h with SOL=18m
+				2. 5.6h with SE=0.85 gives TST≈6.3h with SOL=20m if SE=0.95
+				3. 6.3h with SE=0.85 gives TST≈7h with SOL=24m if SE=0.95
+				4. And so on...
+2. [Eight Sleep | Now in Europe](https://www.eightsleep.com/eu/)
 	1. [Matras kopen? | Het beste matras voor de beste prijs | Matt (mattsleeps.com)](https://www.mattsleeps.com/nl/het-matras) | aanpasbare matras ![[Matt sleep matras.png]]
-2. [Cloudpillo | Live your dreams | 30 Nachten Proefslapen](https://www.cloudpillo.nl/) | Plus version for side sleepers + [Cloudpillo ICE Buitenhoes](https://www.cloudpillo.nl/products/cloudpillo-ice-buitenhoes)
+3. [Cloudpillo | Live your dreams | 30 Nachten Proefslapen](https://www.cloudpillo.nl/) | Plus version for side sleepers + [Cloudpillo ICE Buitenhoes](https://www.cloudpillo.nl/products/cloudpillo-ice-buitenhoes)
 	1. [Emma AirGrid Kussen: met speciale AirGrid®-technologie. (emma-sleep.nl)](https://www.emma-sleep.nl/kussens/airgrid-kussen/)
-3. [[sphygmomanometer]]
-4. [[continuous glucose monitor]]
-5. anti-snoring mouth tape + nose dilator
+4. [[sphygmomanometer]]
+5. [[continuous glucose monitor]]
+6. anti-snoring mouth tape + nose dilator
 	1. Conclusions: Mouth-taping during sleep improved snoring and the severity of [[sleep apnea]] in mouth-breathers with mild OSA, with [[apnea]]/[[hypopnea]] index (AHI) and SI being reduced by about half. The higher the level of baseline AHI and snoring index (SI), the greater the improvement was shown after mouth-taping. Mouth-taping could be an alternative treatment in patients with mild OSA before turning to CPAP therapy or surgical intervention.^[[The Impact of Mouth-Taping in Mouth-Breathers with Mild Obstructive Sleep Apnea: A Preliminary Study - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9498537/)]
-2. nightlight with motion sensor
+7. nightlight with motion sensor
 
 ### apparel
 1. should you sleep with socks on if it's cold + why

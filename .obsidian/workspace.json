@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tryptophan.md",
+                "file": "sleep.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tryptophan.md",
+                "file": "sleep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tryptophan.md",
+                "file": "sleep.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,16 +114,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tryptophan.md"
+                "file": "sleep.md"
               }
-            }
-          },
-          {
-            "id": "c6002d6ebe41ef8a",
-            "type": "leaf",
-            "state": {
-              "type": "graph-analysis",
-              "state": {}
             }
           }
         ],
@@ -146,6 +138,7 @@
   },
   "active": "183b09389d505b81",
   "lastOpenFiles": [
+    "wake after sleep onset.md",
     "sleep.md",
     "tryptophan.md",
     "vitamin B3.md",
@@ -172,7 +165,6 @@
     "military tactics.md",
     "M99 Stanchion Gauss rifle (Halo).md",
     "sphygmomanometer.md",
-    "continuous glucose monitor.md",
     "carotid arteries.png",
     "Schematic illustration of Hypotheses 1, 2, and 3.jpg",
     "Table 1. EI balance and neurotransmitter changes in early visual areas during NREM and REM sleep with or without presleep learning compared to baseline.png",
