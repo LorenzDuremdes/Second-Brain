@@ -107,6 +107,13 @@
 	2. SE=0.95 doesn't result in a smaller number than SE=0.85 until TST>9h → 10h with [[somnifacient]]
 	3. usually SE=0.95 as you tend to use a [[somnifacient]] due to e.g. [[stress]] (and WASO can increase it critically, reducing TST)
 
+### miscellaneous
+1. [Prolonged oral treatment with MK-677, a novel growth hormone secretagogue, improves sleep quality in man - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/9349662/)
+	1. In the present study, we investigated the effects of prolonged treatment with a novel, orally active, [[growth hormone]] secretagogue ([[MK-677]]) on [[sleep quality]] in healthy young and older adults.
+	   
+	   Each subject participated in three 7-day treatment periods (with bedtime [[drug]] administration).
+	   
+	   In young subjects, high-dose [[MK-677]] treatment resulted in an approximately 50% increase in the duration of stage IV and in a more than 20% increase in [[REM sleep]] as compared to placebo (p < 0.05). The frequency of deviations from normal sleep decreased from 42% under placebo to 8% under high-dose [[MK-677]] (p < 0.03). In older adults, treatment with [[MK-677]] was associated with a nearly 50% increase in [[REM sleep]] (p < 0.05) and a decrease in REM latency (p < 0.02). The frequency of deviations from normal sleep also decreased (p < 0.02). The present findings suggest that [[MK-677]] may simultaneously improve [[sleep quality]] and correct the relative hyposomatotropism of senescence.
 # [[nutrition]]
 ## [[nutrient timing]]
 ### [[circadian rhythm]]
