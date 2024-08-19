@@ -19,10 +19,10 @@
 		1. what about dreaming about such activities → effect on [[sleep quality]]/quantity?
 
 ## technology
-1. [[algorithm]] for optimal bedtime = >T<sub>morning</sub> - TST/x=0.85
+1. [[algorithm]] for optimal bedtime = >T<sub>morning</sub> - [[total sleep time|TST]]/x=0.85
 	1. **>T**<sub>morning</sub>; moment when temperature increases next morning (as that's what wakes you up the most with sleeping mask or blinds)
 	2. **0.85**; [[sleep efficiency]]
-	3. **x**; [[sleep onset latency|SOL]]+[[wake after sleep onset|WASO]]<sub>max</sub>
+	3. **x**; [[time in bed|TIB]]; [[sleep onset latency|SOL]]+[[wake after sleep onset|WASO]]<sub>max</sub>
 	4. e.g. if it increases at 6 AM in the [[summer]] with an average TST of 7h → go to bed at 6-(7/x=0.85)≈21:45 (SOL+WASO<sub>max</sub>=74m)
 	5. what's another advantage of following an [[algorithm]] to determine optimal sleep times rather than guessing it intuitively?
 		1. it can have many factors you don't think about determining the sleep times
@@ -100,6 +100,12 @@
 2. do you like flushing your mouth after eating before bedtime (but after brushing teeth) + why
 	1. no, the sensations of [[food]] calms you (especially after hunger with IF)
 	2. it's usually [[food]] that doesn't contain much sugar
+
+## [[somnifacient]]
+1. if around 7:00 is the optimal wake up time (e.g. rise in temperature) and a [[somnifacient]] gives you +1h TST (with a current TST<sub>average</sub> = 7h), what [[time]] should you go to bed?
+	1. 7-((7+1)/x=0.95) i.e. ~22:36
+	2. SE=0.95 doesn't result in a smaller number than SE=0.85 until TST>9h → 10h with [[somnifacient]]
+	3. usually SE=0.95 as you tend to use a [[somnifacient]] due to e.g. [[stress]] (and WASO can increase it critically, reducing TST)
 
 # [[nutrition]]
 ## [[nutrient timing]]
