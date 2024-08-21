@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sleep.md",
+                "file": "sleep state misperception.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cbt-i",
+                "query": "sleep state misperception",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sleep.md",
+                "file": "sleep state misperception.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sleep.md",
+                "file": "sleep state misperception.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sleep.md"
+                "file": "sleep state misperception.md"
               }
             }
           }
@@ -136,10 +136,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "70175ecea56c0dbc",
   "lastOpenFiles": [
-    "MK-677.md",
     "sleep.md",
+    "sleep state misperception.md",
+    "Untitled 1.md",
+    "MK-677.md",
     "time in bed.md",
     "wake after sleep onset.md",
     "tryptophan.md",
@@ -163,8 +165,6 @@
     "reconnaissance by fire.md",
     "foxhole.md",
     "barrage (artillery).md",
-    "salvo.md",
-    "military tactics.md",
     "carotid arteries.png",
     "Schematic illustration of Hypotheses 1, 2, and 3.jpg",
     "Table 1. EI balance and neurotransmitter changes in early visual areas during NREM and REM sleep with or without presleep learning compared to baseline.png",
