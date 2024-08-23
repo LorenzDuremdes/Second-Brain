@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dim light melatonin onset.md",
+                "file": "slow-wave sleep.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dim light melatonin",
+                "query": "slow-wave",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dim light melatonin onset.md",
+                "file": "slow-wave sleep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dim light melatonin onset.md",
+                "file": "slow-wave sleep.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dim light melatonin onset.md"
+                "file": "slow-wave sleep.md"
               }
             }
           }
@@ -138,8 +139,9 @@
   },
   "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "high-frequency oscillations.md",
+    "REM sleep.md",
     "dim light melatonin onset.md",
+    "high-frequency oscillations.md",
     "gamma wave.md",
     "large-scale brain network.md",
     "beta wave.md",
@@ -163,7 +165,6 @@
     "insomnia.md",
     "cognitive behavioral therapy.md",
     "perfume.md",
-    "regulator gene.md",
     "Matt sleep matras.png",
     "carotid arteries.png",
     "Schematic illustration of Hypotheses 1, 2, and 3.jpg",
