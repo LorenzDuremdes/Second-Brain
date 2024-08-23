@@ -1,1 +1,4 @@
 1. menopause marks the end of reproductive function and is characterized by a decline in [[estrogen]] and [[progesterone]] production^[[View of Recent advances in sleep cycle regulation and hormonal imbalance: a comprehensive review (shodhsagar.com)](https://jrps.shodhsagar.com/index.php/j/article/view/1412/1383)]
+
+# perimenopause
+1. Hormonal fluctuations during perimenopause, the transitional period leading up to menopause, can contribute to [[sleep disorder|disturbances]] such as [[insomnia]], night sweats, and hot flashes. [[Estrogen]]  plays  a  role  in  [[thermoregulation]],  and  its  decline  is  thought  to  contribute  to  the  onset  of vasomotor symptoms such as hot flashes, which can disrupt [[wake after sleep onset|sleep continuity]] and [[sleep quality|quality]]^[[View of Recent advances in sleep cycle regulation and hormonal imbalance: a comprehensive review (shodhsagar.com)](https://jrps.shodhsagar.com/index.php/j/article/view/1412/1383)]
