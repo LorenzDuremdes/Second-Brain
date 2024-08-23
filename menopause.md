@@ -1,0 +1,1 @@
+1. menopause marks the end of reproductive function and is characterized by a decline in [[estrogen]] and [[progesterone]] production^[[View of Recent advances in sleep cycle regulation and hormonal imbalance: a comprehensive review (shodhsagar.com)](https://jrps.shodhsagar.com/index.php/j/article/view/1412/1383)]

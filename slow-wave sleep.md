@@ -1,2 +1,2 @@
-1. progesterone → [[sleep]]
-	1. progesterone has sedative effects, contributing to deeper and more restorative [[sleep]]^[[View of Recent advances in sleep cycle regulation and hormonal imbalance: a comprehensive review (shodhsagar.com)](https://jrps.shodhsagar.com/index.php/j/article/view/1412/1383)]
+1. [[progesterone]] → [[sleep]]
+	1. [[progesterone]] has sedative effects, contributing to deeper and more restorative [[sleep]]^[[View of Recent advances in sleep cycle regulation and hormonal imbalance: a comprehensive review (shodhsagar.com)](https://jrps.shodhsagar.com/index.php/j/article/view/1412/1383)]

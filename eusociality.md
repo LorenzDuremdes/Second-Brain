@@ -12,7 +12,7 @@
 
 # Humans
 1. are humans eusocial? + why
-	1. potentially yes e.g. suicide, homosexuality, menopause^[https://en.wikipedia.org/wiki/Eusociality#In_humans]
+	1. potentially yes e.g. suicide, homosexuality, [[menopause]]^[https://en.wikipedia.org/wiki/Eusociality#In_humans]
 	2. no, because one caste does not lose one ability (e.g. reproduction)^[https://www.reddit.com/r/evolution/comments/bm998i/are_humans_eusocial_creatures/]
 
 # Paradox

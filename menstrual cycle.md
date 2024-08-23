@@ -35,7 +35,7 @@
 # [[neuroscience]]
 1. menstrual cycle → spatial reasoning ability^[https://en.wikipedia.org/wiki/Menstrual_cycle#cite_note-FOOTNOTEElse-QuestHyde2021258–61-75]
 	1. improvements in spatial reasoning ability during the menstruation phase of the cycle
-		1. probably caused by decreases in levels of [[estrogen]] and progesterone.
+		1. probably caused by decreases in levels of [[estrogen]] and [[progesterone]].
 
 # related
 1. [[sexual selection in humans]]

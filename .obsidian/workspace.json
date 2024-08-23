@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1786c2e8b4028833",
+            "id": "e5df26d581494d44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "slow-wave sleep.md",
+                "file": "menopause.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "slow-wave sleep.md",
+                "file": "menopause.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "slow-wave sleep.md",
+                "file": "menopause.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "slow-wave sleep.md"
+                "file": "menopause.md"
               }
             }
           }
@@ -139,6 +138,9 @@
   },
   "active": "183b09389d505b81",
   "lastOpenFiles": [
+    "progesterone.md",
+    "menopause.md",
+    "slow-wave sleep.md",
     "REM sleep.md",
     "dim light melatonin onset.md",
     "high-frequency oscillations.md",
@@ -162,9 +164,6 @@
     "vitamin B3.md",
     "cognitive behavioral therapy for insomnia.md",
     "tired but wired.md",
-    "insomnia.md",
-    "cognitive behavioral therapy.md",
-    "perfume.md",
     "Matt sleep matras.png",
     "carotid arteries.png",
     "Schematic illustration of Hypotheses 1, 2, and 3.jpg",
