@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e5df26d581494d44",
+            "id": "e7d39d1160f2342b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "menopause.md",
+                "file": "Mediterranean diet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "menopause.md",
+                "file": "Mediterranean diet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "menopause.md",
+                "file": "Mediterranean diet.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "menopause.md"
+                "file": "Mediterranean diet.md"
               }
             }
           }
@@ -138,8 +138,21 @@
   },
   "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "progesterone.md",
+    "olive oil.md",
+    "Mediterranean diet.md",
+    "red meat.md",
+    "yogurt.md",
+    "cheese.md",
+    "fruit.md",
+    "vegetables.md",
+    "legumes.md",
+    "cereal.md",
+    "plant-based diet.md",
+    "canalisation (genetics).md",
+    "abdominal obesity.md",
+    "visceral fat.md",
     "menopause.md",
+    "progesterone.md",
     "slow-wave sleep.md",
     "REM sleep.md",
     "dim light melatonin onset.md",
@@ -151,19 +164,6 @@
     "GABA.md",
     "sleep state misperception.md",
     "sleep.md",
-    "kratom.md",
-    "consciousness.md",
-    "theta wave.md",
-    "alpha wave.md",
-    "somnifacient.md",
-    "performance-enhancing substance.md",
-    "MK-677.md",
-    "time in bed.md",
-    "wake after sleep onset.md",
-    "tryptophan.md",
-    "vitamin B3.md",
-    "cognitive behavioral therapy for insomnia.md",
-    "tired but wired.md",
     "Matt sleep matras.png",
     "carotid arteries.png",
     "Schematic illustration of Hypotheses 1, 2, and 3.jpg",

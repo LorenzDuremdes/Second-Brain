@@ -1,0 +1,1 @@
+1. abdominal [[obesity]]; the [[human]] condition of an excessive concentration of [[visceral fat]] around the stomach and abdomen to such an extent that it is likely to harm its bearer's [[health]]^[https://en.wikipedia.org/wiki/Abdominal_obesity]
