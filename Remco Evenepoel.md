@@ -36,3 +36,22 @@
    
    “I’ve trained with him, it’s infernal. He’s so strong,” Kenny Elissonde told the Cycling Podcast. “If we attack once like he does, we need five minutes of recovery. But he can keep going, going, going.”^[https://velo.outsideonline.com/road/road-racing/vuelta-a-espana/its-infernal-why-chasing-remco-evenepoel-leaves-his-rivals-in-ruins/]
 1. Everybody knows even if it's 40 kilometers to go, you don't give Remco Evenepoel an inch because you won't be getting it back.^[https://www.reddit.com/r/Damnthatsinteresting/comments/1ejbm61/remco_evenepoel_of_belgium_wins_gold_in_style_his/]
+2. Een lichtgewicht van 1,71 meter en +/- 63 kilogram tegenover een beer van 1,93 meter en 83 kilogram.
+   
+   Het lijkt als een bokskamp tussen een lichtgewicht en een zwaargewicht, een oneerlijke strijd.
+   
+   Dat was het ook vorige zaterdag tijdens de openingstijdrit van de Giro, weliswaar met een onlogisch (?) resultaat.
+   
+   Remco Evenepoel verpletterde de tegenstand, Filippo Ganna kreeg liefst 22 seconden aan zijn broek.
+   
+   Hoe verklaar je zo'n tijdsverschil tussen een pluimpje en een machtsmens als Ganna? "Aerodynamica en kracht", antwoordde Tom Boonen deze week kordaat in Wielerclub Wattage.
+   
+   "Je hebt als renner een CX-waarde die wordt gecreëerd door je fiets, je kledij en je lichaam. Bij je lichaam kun je niet veel meer dan je positie veranderen, maar je bent beperkt door je bouw."
+   
+   "Ik was vorig jaar in de Vuelta", pikte Jan Bakelants in. Daar haalde Remco Evenepoel in de tijdrit in Alicante ook al verwoestend uit.
+   
+   "Het ging er een beetje bergaf van het binnenland naar de kust. Het verschil dat hij daar maakte, was fenomenaal."
+   
+   "Ik heb het al dikwijls gezegd: niemand rijdt op het vlakke zo snel als hij. En als je als renner achter hem zit, dan vang je ook nog eens heel veel wind."
+   
+   "Je voelt dat de wind op hem geen vat heeft omdat hij zo laag zit."
