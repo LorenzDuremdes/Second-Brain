@@ -55,3 +55,6 @@
    "Ik heb het al dikwijls gezegd: niemand rijdt op het vlakke zo snel als hij. En als je als renner achter hem zit, dan vang je ook nog eens heel veel wind."
    
    "Je voelt dat de wind op hem geen vat heeft omdat hij zo laag zit."
+
+# performance
+1. [REMCO's SECRET FOR WINNING FLAT RACES! (youtube.com)](https://www.youtube.com/watch?app=desktop&v=vzEg4_V2CsA)
