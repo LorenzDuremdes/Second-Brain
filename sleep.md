@@ -44,6 +44,8 @@
 6. anti-snoring mouth tape + nose dilator
 	1. Conclusions: Mouth-taping during sleep improved snoring and the severity of [[sleep apnea]] in mouth-breathers with mild OSA, with [[apnea]]/[[hypopnea]] index (AHI) and SI being reduced by about half. The higher the level of baseline AHI and snoring index (SI), the greater the improvement was shown after mouth-taping. Mouth-taping could be an alternative treatment in patients with mild OSA before turning to CPAP therapy or surgical intervention.^[[The Impact of Mouth-Taping in Mouth-Breathers with Mild Obstructive Sleep Apnea: A Preliminary Study - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9498537/)]
 7. nightlight with motion sensor
+8. body temperature meter → falling asleep earlier than when hitting minimum core body temperature
+	1. A study from 1981 demonstrated that sleep typically starts while the body is cooling off, shortly before it hits the minimum temperature for the day.  These researchers found that the duration of sleep heavily depends on the [[time]] difference between falling asleep and when the body reaches its minimum temperature.  The earlier you fall asleep before you hit minimum temperature, the longer you sleep.^[[Sleep Myth Debunked: The 68° Sleeping Temperature (eightsleep.com)](https://www.eightsleep.com/blog/temperature-sleep-myth-debunked)]^[[The dependence of onset and duration of sleep on the circadian rhythm of rectal temperature | Pflügers Archiv - European Journal of Physiology (springer.com)](https://link.springer.com/article/10.1007/BF00581514)]
 
 ### apparel
 1. should you sleep with socks on if it's cold + why
