@@ -9,7 +9,7 @@
 2. resting [[heart]] rate and core temperatures progressively increase with increasing levels of [[dehydration]] (Sawka et al. 1985).^[Cutting-Edge Cycling, p. 244]
 	1. why?
 		1. because of the strong demand by the [[skeletal muscle|muscles]] for [[blood]] to maintain pedaling force, [[blood]] flow to other systems in the body may be reduced to maintain adequate [[blood]] pressure and [[blood]] flow back to the [[heart]]
-			1. e.g. core → temperature increases
+			1. e.g. core → [[temperature]] increases
 3. [[dehydration]] → skin [[blood]] flow
 	1. skin [[blood]] flow diminishes
 		1. propagation → apart from sweating, skin [[blood]] flow is another important pathway for the body to get rid of extra heat^[Cutting-Edge Cycling, p. 244]
@@ -37,7 +37,7 @@
 1. hydration during exercise → recovery
 	1. riders can tolerate mild [[dehydration]] during exercise to a certain extent, but too much of a deficit during exercise eventually impairs performance and makes it harder to recover adequately for subsequent training^[Cutting-Edge Cycling, p. 244]
 2. 
-3. Eight well-trained male cyclists consumed either 2.4 liters of a 7 percent [[carbohydrate]] drink or .4 liter of [[water]] with sufficient gels to provide equal [[carbohydrate]] consumption during a 2-hour endurance ride in a 30 °C lab temperature. The subjects then rode to exhaustion at 88 percent of maximal aerobic power. As expected, body weight was lower with the gel condition. **These subjects were 1.9 kilograms lighter** because of their low [[fluid]] intake, and a lower power output was sufficient for them to maintain a constant speed.^[Cutting-Edge Cycling, p. 249]
+3. Eight well-trained male cyclists consumed either 2.4 liters of a 7 percent [[carbohydrate]] drink or .4 liter of [[water]] with sufficient gels to provide equal [[carbohydrate]] consumption during a 2-hour endurance ride in a 30 °C lab [[temperature]]. The subjects then rode to exhaustion at 88 percent of maximal aerobic power. As expected, body weight was lower with the gel condition. **These subjects were 1.9 kilograms lighter** because of their low [[fluid]] intake, and a lower power output was sufficient for them to maintain a constant speed.^[Cutting-Edge Cycling, p. 249]
 4. can [[dehydration]] improve the power-to-weight ratio? + why
 	1. overall, any power-to-weight advantage from voluntary [[dehydration]] was offset by the physiological and performance impairment^[Cutting-Edge Cycling, p. 249]
 	2. **see also:** nidd1611256812790
@@ -71,7 +71,7 @@
 		1. large individuals who are heavy sweaters and are exercising in the heat may lean toward the higher end of this range, and small individuals who are exercising at low intensities in a cool environment may aim toward the lower rate
 		2. should be below sweating rates to e.g. prevent [[hyponatremia]] while avoiding ≥2% bodyweight [[dehydration]]
 ## content
-1. in one of the few studies that looked at voluntary drinking behavior in humans, a [[water]] temperature of 15 °C had the highest consumption rate in subjects who were allowed to choose the [[water]] temperature (Boulze et al. 1983)^[Cutting-Edge Cycling, p. 253]
+1. in one of the few studies that looked at voluntary drinking behavior in humans, a [[water]] [[temperature]] of 15 °C had the highest consumption rate in subjects who were allowed to choose the [[water]] [[temperature]] (Boulze et al. 1983)^[Cutting-Edge Cycling, p. 253]
 2. cooling and flavoring drinks increased the consumption rate; consumption of flavored [[water]] at 15 °C was 120 percent greater than consumption of unflavored [[water]] at 40 °C (Hubbard et al. 1984)^[Cutting-Edge Cycling, p. 253]
 3. [[carbohydrate]] vs. [[carbohydrate]]-[[protein]] [[sport]] drink
 	1. the latter is more effective^[Cutting-Edge Cycling, p. 259]

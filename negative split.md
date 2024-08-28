@@ -10,7 +10,7 @@
 8. Therefore, you will be safe because you will not push more than you need to.
 9. It will not impact your distance significantly. People say there is non-linearity with aerodynamic drag, so riding slower and faster will cost you more. However, the differences are minimal when you run the numbers.
 10. For example, in my case, it cost me 12 meters. (0.2 W in terms of power production)
-11. By doing that, I keep my body core temperature lower and improve my line and position.
+11. By doing that, I keep my body core [[temperature]] lower and improve my line and position.
 
 [The Positives Of A Negative Bike Split – Triathlete](https://www.triathlete.com/training/the-positives-of-a-negative-bike-split/)
 1. Another issue, especially in longer races, is a phenomenon called [[cardiovascular drift|cardiac drift]]. As [[dehydration]] creeps in and fatigue builds the [[heart rate|heart beats]] faster to do the same work, and you might find yourself going very slowly to stay on target.

@@ -1,1 +1,1 @@
-1. Avogadro's law; equal volumes of all gases, at the same temperature and pressure, have the same number of molecules.^[https://en.wikipedia.org/wiki/Avogadro%27s_law]
+1. Avogadro's law; equal volumes of all gases, at the same [[temperature]] and pressure, have the same number of molecules.^[https://en.wikipedia.org/wiki/Avogadro%27s_law]

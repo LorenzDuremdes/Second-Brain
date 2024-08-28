@@ -11,8 +11,8 @@
 	1. after ovulation (luteal phase)
 
 # [[physiology]]
-1. menstrual cycle → basal **body temperature**
-	1. "basal body temperature" is lower during "follicular phase" and higher during "luteal phase"
+1. menstrual cycle → basal **body [[temperature]]**
+	1. "basal body [[temperature]]" is lower during "follicular phase" and higher during "luteal phase"
 		
 		Ovulation occurs about midway through the menstrual cycle, after the follicular phase, and is followed by the luteal phase. Note that ovulation is characterized by a sharp spike in levels of luteinizing hormone (LH) and follicle-stimulating hormone (FSH), resulting from the peak of [[estrogen]] levels during the follicular phase.^[By Isometrik - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=8703107]
 		

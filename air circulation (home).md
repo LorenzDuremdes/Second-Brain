@@ -1,2 +1,2 @@
 1. why is proper air circulation important in the home?^[https://www.lennox.com/help/faqs/importance-of-proper-air-circulation]
-	1. Air flowing freely throughout your home helps to regulate temperature, prevent buildup of particles and mold, and it makes breathing easier for everyone in your family. Also, if you enjoy cooking or use a lot of hobby supplies (glue, spray paints, epoxy, etc.), good air circulation can help dissipate odors and fumes.
+	1. Air flowing freely throughout your home helps to regulate [[temperature]], prevent buildup of particles and mold, and it makes breathing easier for everyone in your family. Also, if you enjoy cooking or use a lot of hobby supplies (glue, spray paints, epoxy, etc.), good air circulation can help dissipate odors and fumes.
