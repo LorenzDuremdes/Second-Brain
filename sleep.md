@@ -54,6 +54,7 @@
 	1. Wearing socks can help a process called distal [[vasodilation]], which refers to an increase of [[blood]] to your hands and feet that reduces your core body [[temperature]] quicker.
 	   
 	   Increasing [[circulatory system|blood flow]] by warming the feet, either through wearing socks to bed or other means, can help you fall asleep quicker. In one research study, participants who used socks or other foot warming methods not only fell asleep quicker but they reported staying asleep longer and experiencing an overall better [[sleep quality|quality of sleep]].^[https://www.sleepfoundation.org/sleep-hygiene/sleeping-with-socks-on]
+2. [[cooling vest]] to reduce core body [[temperature]] pre-bedtime
 
 ## increasing sleep pressure
 1. how can you perhaps estimate beforehand whether you built sufficient sleep pressure in the morning or not?
