@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sleep.md",
+                "file": "time trial bike.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sleep",
+                "query": "time trial bike",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sleep.md",
+                "file": "time trial bike.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sleep.md",
+                "file": "time trial bike.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sleep.md"
+                "file": "time trial bike.md"
               }
             }
           }
@@ -138,10 +139,13 @@
   },
   "active": "183b09389d505b81",
   "lastOpenFiles": [
+    "time trial.md",
+    "aerodynamics (road cycling).md",
+    "bike fit.md",
+    "sleep.md",
     "delayed sleep phase disorder.md",
     "somnifacient.md",
     "Remco Evenepoel.md",
-    "aerodynamics (road cycling).md",
     "Mediterranean diet.md",
     "olive oil.md",
     "red meat.md",
@@ -161,9 +165,6 @@
     "REM sleep.md",
     "dim light melatonin onset.md",
     "high-frequency oscillations.md",
-    "gamma wave.md",
-    "large-scale brain network.md",
-    "beta wave.md",
     "Matt sleep matras.png",
     "carotid arteries.png",
     "Schematic illustration of Hypotheses 1, 2, and 3.jpg",
