@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7d39d1160f2342b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "insomnia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "957fd8c1b31ea6ad",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,10 +138,10 @@
   },
   "active": "183b09389d505b81",
   "lastOpenFiles": [
+    "insomnia.md",
     "depressor response.md",
     "sleep.md",
     "temperature.md",
-    "insomnia.md",
     "REM sleep.md",
     "NREM sleep.md",
     "aerodynamics (road cycling).md",
