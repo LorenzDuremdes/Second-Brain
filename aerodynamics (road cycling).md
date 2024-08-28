@@ -11,10 +11,11 @@
 	1. cycling tolerance [[time]] at a constant hard effort was longest at 11°C, similarly reduced at 4 and 21°C, and further reduced at 31°C^[https://pezcyclingnews.com/toolbox/beat-the-heat-are-ice-vests-effective/]
 
 # shops (prioritized high-to-low gain)
-1. Aerobars [57.6 W](https://www.aero-coach.co.uk/clip-on-aerobars)
-2. Aero body position [22.38 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades)
-3. Aero wheels [10.17 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades)
-4. Narrow handlebars [2.43 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades) | can be replicated by putting hands inward
+1. [EZ Gains Store – EZ Gains Ltd](https://ezgains.co.uk/) | cheap aero upgrades
+2. Aerobars [57.6 W](https://www.aero-coach.co.uk/clip-on-aerobars)
+3. Aero body position [22.38 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades)
+4. Aero wheels [10.17 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades)
+5. Narrow handlebars [2.43 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades) | can be replicated by putting hands inward
 	1. [Skat Endurance Handlebar](https://www.velobike.co.nz/products/skat-endurance-handlebar?variant=42869638693047)
 # apparel
 1. Aero helmet [7.56 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades)
