@@ -5,6 +5,7 @@
 ![[TT position.jpeg|400]]
 1. having his elbows and hands more forward might allow him to shrug his shoulders more easily and be more narrow
 ![[TT position Remco Evenepoel.jpg|400]]
+1. [Remco Evenepoel | Feeling fast in my 🇧🇪 TT jersey. 🚀⛰️ #TheWolfpack #AeroBullet | Instagram](https://www.instagram.com/reel/CpdAtaSDHKt/?utm_source=ig_embed)
 ## self
 1. why do you like stack your hands (TT bike)?
 	1. One thought from another rider is that the stacked hands may also change the way a rider shrugs their shoulders. So the hands themselves make a small difference but if it allows you to turtle your shoulders it can improve your aerodynamics
