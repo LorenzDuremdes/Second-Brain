@@ -1,0 +1,1 @@
+1. the preoptic area (a region of the [[hypothalamus]]) is responsible for [[thermoregulation]] and receives nervous stimulation from [[thermoreceptor|thermoreceptors]] in the skin, [[mucous membrane|mucous membranes]], and [[hypothalamus]] itself^[https://en.wikipedia.org/wiki/Preoptic_area]
