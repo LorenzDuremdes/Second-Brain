@@ -1,0 +1,2 @@
+1. how long can the human skin survive sub-physiological blood flow and oyxgenation?
+	1. skin can survive for long periods of time (hours) with sub-physiological blood flow and oxygenation, and, as long as this is followed by a period of good perfusion, necrosis will not occur^[https://en.wikipedia.org/wiki/Thermal_neutral_zone]
