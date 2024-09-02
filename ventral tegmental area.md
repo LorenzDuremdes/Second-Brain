@@ -1,0 +1,5 @@
+1. ventral tegmental area ([[neurophysiology]]); the origin of the dopaminergic cell bodies of the [[mesocorticolimbic system|mesocorticolimbic dopamine system]] and other [[dopamine pathways]]; it is widely implicated in the [[drug]] and natural reward circuitry of the [[brain]]
+   
+   the VTA plays an important role in a number of processes, including reward [[cognition]] ([[motivational salience]], [[associative learning]], and positively-valenced emotions) and orgasm, among others, as well as several psychiatric disorders
+   
+   as stated above, the VTA, in particular the VTA [[dopamine]] neurons, serve several functions in the [[reward system]], [[motivation]], [[cognition]], and [[substance dependence|drug addiction]], and may be the focus of several psychiatric disorders.^[https://en.wikipedia.org/wiki/Ventral_tegmental_area]

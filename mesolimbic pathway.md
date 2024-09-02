@@ -1,4 +1,4 @@
 1. The mesolimbic pathway and its positioning in relation to the other dopaminergic pathways^[By User:Slashme; Patrick J. Lynch; User:Fvasconcellos - self-made; re-use File:Brain bulbar region.svg, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=44401887]
 
 	<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Mesolimbic_pathway.svg" width="400" />
-2. the pathway (sometimes referred to as the [[reward system|reward pathway]]) connects the ventral tegmental area in the midbrain to the ventral striatum of the basal ganglia in the forebrain^[https://en.wikipedia.org/wiki/Mesolimbic_pathway]
+2. the pathway (sometimes referred to as the [[reward system|reward pathway]]) connects the [[ventral tegmental area]] in the midbrain to the ventral striatum of the basal ganglia in the forebrain^[https://en.wikipedia.org/wiki/Mesolimbic_pathway]
