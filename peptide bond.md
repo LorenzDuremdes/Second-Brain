@@ -1,0 +1,1 @@
+1. [[peptide]] bond; an [[amide]] type of covalent [[chemical bond]] linking two consecutive alpha-amino acids from C1 ([[carbon]] number one) of one alpha-[[amino acid]] and N2 ([[nitrogen]] number two) of another, along a [[peptide]] or [[protein]] chain.^[https://en.wikipedia.org/wiki/Peptide_bond]

@@ -1,0 +1,3 @@
+1. amide (Lewis structure)^[By Hbf878 - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=74264745]
+   ![[Amide-(tertiary).png]]
+2. amide; a compound with the general formula R−C(=O)−NR′R″, where R, R', and R″ represent any group, typically organyl groups or [[hydrogen]] atoms. The amide group is called a [[peptide bond]] when it is part of the main chain of a protein, and an isopeptide bond when it occurs in a side chain, as in asparagine and glutamine.^[https://en.wikipedia.org/wiki/Amide]
