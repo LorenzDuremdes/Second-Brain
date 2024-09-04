@@ -1,1 +1,1 @@
-1. absence seizure; characterized by a brief loss and return of [[consciousness]], generally not followed by a period of lethargy (i.e. without a notable [[postictal state]])^[https://en.wikipedia.org/wiki/Absence_seizure]
+1. absence [[seizure]]; characterized by a brief loss and return of [[consciousness]], generally not followed by a period of lethargy (i.e. without a notable [[postictal state]])^[https://en.wikipedia.org/wiki/Absence_seizure]

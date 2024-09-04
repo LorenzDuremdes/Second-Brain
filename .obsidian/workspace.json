@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "692c43aece53f268",
+            "id": "32767038c4dacbee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arcuate nucleus.md",
+                "file": "polyphagia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arcuate nucleus.md",
+                "file": "polyphagia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arcuate nucleus.md",
+                "file": "polyphagia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arcuate nucleus.md"
+                "file": "polyphagia.md"
               }
             }
           }
@@ -136,10 +136,27 @@
       "random-note:Open random note": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "32767038c4dacbee",
   "lastOpenFiles": [
-    "neuronal nitric oxide synthase.md",
+    "polyuria.md",
+    "polyphagia.md",
+    "hyperglycemia.md",
+    "diabetes insipidus.md",
+    "seizure.md",
+    "polydipsia.md",
+    "diabetes mellitus.md",
+    "orexigenic.md",
+    "neuropeptide Y.md",
+    "hyperphagia.md",
+    "agouti-related peptide.md",
+    "metabolism.md",
+    "peroxisome proliferator-activated receptor delta.md",
+    "carbohydrate metabolism.md",
+    "lipid metabolism.md",
+    "peroxisome.md",
+    "neuropeptide.md",
     "arcuate nucleus.md",
+    "neuronal nitric oxide synthase.md",
     "vasodilation.md",
     "caspase.md",
     "enzyme.md",
@@ -147,23 +164,6 @@
     "programmed cell death.md",
     "cell death.md",
     "parabrachial nuclei.md",
-    "thermoreceptor.md",
-    "asphyxia.md",
-    "hypercapnia.md",
-    "hypoxia.md",
-    "pyrogen.md",
-    "parasympathetic nervous system.md",
-    "post-exercise recovery.md",
-    "sympatholytic.md",
-    "dexmedetomidine.md",
-    "alpha-2 adrenergic receptor.md",
-    "time trial bike.md",
-    "ventral tegmental area.md",
-    "motivational salience.md",
-    "dopamine pathways.md",
-    "mesocorticolimbic system.md",
-    "thermal neutral zone.md",
-    "human skin.md",
     "ambient and microclimate temperature during sleep.jpg",
     "Matt sleep matras.png",
     "carotid arteries.png",

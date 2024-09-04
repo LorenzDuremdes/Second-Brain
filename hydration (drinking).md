@@ -22,8 +22,8 @@
 6. heat stress → [[blood]]-[[brain]] barrier^[Cutting-Edge Cycling, p. 245]
 	1. the [[blood]]–[[brain]] barrier, which protects the [[brain]] from being exposed to damaging substances in the [[blood]], may become leakier (Watson et al. 2005)
 		1. in combination with [[physical exercise]]
-		2. Also, reduced [[blood]] flow and heat stress may alter [[brain]] metabolism and neurochemistry, which may contribute to changes in mental arousal and fatigue (Meeusen et al. 2006).
-7. low levels of [[blood]] [[sodium]] concentration and [[blood]] dilution may cause symptoms such as “confusion, disorientation, progressively worsening headache, nausea, vomiting, aphasia, impaired coordination, muscle cramps, and muscle weakness. Complications of severe [[hyponatremia]] include cerebral and pulmonary edema that can result in seizure, coma, and cardiorespiratory arrest” (Casa et al. 2005).^[Cutting-Edge Cycling, p. 251]
+		2. Also, reduced [[blood]] flow and heat stress may alter [[brain]] [[metabolism]] and neurochemistry, which may contribute to changes in mental arousal and fatigue (Meeusen et al. 2006).
+7. low levels of [[blood]] [[sodium]] concentration and [[blood]] dilution may cause symptoms such as “confusion, disorientation, progressively worsening headache, nausea, vomiting, aphasia, impaired coordination, muscle cramps, and muscle weakness. Complications of severe [[hyponatremia]] include cerebral and pulmonary edema that can result in [[seizure]], coma, and cardiorespiratory arrest” (Casa et al. 2005).^[Cutting-Edge Cycling, p. 251]
 	1. how?
 		1. this degree of dilution of the [[blood]] may produce dangerous swelling of the [[central nervous system]]
 

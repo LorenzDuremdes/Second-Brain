@@ -2,4 +2,4 @@
    
    much of galanin's functional role is still undiscovered
    
-   galanin is predominantly an inhibitory, hyperpolarizing neuropeptide and as such inhibits [[neurotransmitter]] release^[https://en.wikipedia.org/wiki/Galanin]
+   galanin is predominantly an inhibitory, hyperpolarizing [[neuropeptide]] and as such inhibits [[neurotransmitter]] release^[https://en.wikipedia.org/wiki/Galanin]

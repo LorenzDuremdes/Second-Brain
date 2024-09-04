@@ -1,0 +1,1 @@
+1. diabetes insipidus; a condition characterized by large amounts of dilute [[urine]] and increased thirst. The amount of [[urine]] produced can be nearly 20 liters per day. Reduction of [[fluid]] has little effect on the concentration of the [[urine]]. Complications may include [[dehydration]] or [[seizure|seizures]].^[https://en.wikipedia.org/wiki/Diabetes_insipidus]

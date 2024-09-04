@@ -1,0 +1,3 @@
+1. polyphagia; an abnormally strong, incessant sensation of hunger or desire to eat often leading to overeating.
+   
+   It is frequently a result of abnormal blood glucose levels (both [[hyperglycemia]] and [[hypoglycemia]]), and, along with [[polydipsia]] and [[polyuria]], it is one of the "3 Ps" commonly associated with uncontrolled [[diabetes mellitus]].^[https://en.wikipedia.org/wiki/Polyphagia]
