@@ -1,0 +1,3 @@
+1. activation of caspases ensures that the cellular components are degraded in a controlled manner, carrying out [[cell death]] with minimal effect on surrounding tissues.
+   
+   caspases (cysteine-aspartic proteases, cysteine aspartases or cysteine-dependent aspartate-directed proteases) are a family of [[protease]] [[enzyme|enzymes]] playing essential roles in [[programmed cell death]]. They are named caspases due to their specific cysteine [[protease]] activity – a cysteine in its active site nucleophilically attacks and cleaves a target [[protein]] only after an aspartic acid residue.^[https://en.wikipedia.org/wiki/Caspase]

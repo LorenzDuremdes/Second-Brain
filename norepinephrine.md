@@ -1,2 +1,2 @@
-1. norepinephrine is converted into [[epinephrine]] by the enzyme phenylethanolamine N-methyltransferase with S-adenosyl-L-methionine as the cofactor.^[https://en.wikipedia.org/wiki/Dopamine#cite_note-Musacchio-26]
+1. norepinephrine is converted into [[epinephrine]] by the [[enzyme]] phenylethanolamine N-methyltransferase with S-adenosyl-L-methionine as the cofactor.^[https://en.wikipedia.org/wiki/Dopamine#cite_note-Musacchio-26]
 2. norepinephrine (etymology); from Latin/Greek "at/alongside the kidneys"^[https://en.wikipedia.org/wiki/Norepinephrine]
