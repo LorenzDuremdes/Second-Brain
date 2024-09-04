@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3b58779acdeaacb3",
+            "id": "23fc8bb583363bbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "parasympathetic nervous system.md",
+                "file": "pyrogen.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "parasympathetic nervous system.md",
+                "file": "pyrogen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "parasympathetic nervous system.md",
+                "file": "pyrogen.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "parasympathetic nervous system.md"
+                "file": "pyrogen.md"
               }
             }
           }
@@ -137,8 +136,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "8412e88b9e28c8ed",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
+    "parasympathetic nervous system.md",
+    "pyrogen.md",
     "post-exercise recovery.md",
     "sympatholytic.md",
     "dexmedetomidine.md",
@@ -164,8 +165,6 @@
     "aerodynamics (road cycling).md",
     "Remco Evenepoel.md",
     "time trial.md",
-    "bike fit.md",
-    "delayed sleep phase disorder.md",
     "Matt sleep matras.png",
     "carotid arteries.png",
     "Schematic illustration of Hypotheses 1, 2, and 3.jpg",

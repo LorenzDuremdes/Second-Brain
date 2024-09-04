@@ -1,0 +1,1 @@
+1. pyrogen; a substance that induces fever^[https://en.wikipedia.org/wiki/Fever#Pyrogens] e.g. prostaglandin E2^[[The Temperature Dependence of Sleep - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6491889/)]
