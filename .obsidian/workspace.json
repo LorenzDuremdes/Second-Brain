@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fc81207127454fc8",
+            "id": "70b408f40e4abf7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "caspase.md",
+                "file": "neuronal nitric oxide synthase.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "caspase.md",
+                "file": "neuronal nitric oxide synthase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "caspase.md",
+                "file": "neuronal nitric oxide synthase.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "caspase.md"
+                "file": "neuronal nitric oxide synthase.md"
               }
             }
           }
@@ -136,10 +136,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "70b408f40e4abf7f",
   "lastOpenFiles": [
-    "enzyme.md",
+    "vasodilation.md",
+    "neuronal nitric oxide synthase.md",
     "caspase.md",
+    "enzyme.md",
     "protease.md",
     "programmed cell death.md",
     "cell death.md",
@@ -163,8 +165,6 @@
     "human skin.md",
     "microclimate.md",
     "ambient and microclimate temperature during sleep.jpg",
-    "sleep.md",
-    "preoptic area.md",
     "Matt sleep matras.png",
     "carotid arteries.png",
     "Schematic illustration of Hypotheses 1, 2, and 3.jpg",
