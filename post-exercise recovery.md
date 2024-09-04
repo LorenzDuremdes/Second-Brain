@@ -25,6 +25,6 @@
 2. [[hypoglycemia]] → catecholamines
 	1. the former can increase the latter[https://youtu.be/xuBsqTJcRqc?t=2860, Chad Timmerman (TrainerRoad)]
 		1. [[hypoglycemia]] can e.g. increase [[stress]]
-3. hypoxia → catecholamines
+3. [[hypoxia]] → catecholamines
 	1. the former can increase the latter^[https://youtu.be/xuBsqTJcRqc?t=2850, Chad Timmerman (TrainerRoad)]
 4. [[physical exercise]] **characteristics** can elevate (nor)epinephrine levels by 1.5–20x basal rates^[https://youtu.be/xuBsqTJcRqc?t=2910, Chad Timmerman (TrainerRoad)]
