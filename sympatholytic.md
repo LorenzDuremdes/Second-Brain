@@ -1,0 +1,1 @@
+1. sympatholytic; a [[medication]] that opposes the downstream effects of postganglionic nerve firing in effector organs innervated by the [[sympathetic nervous system]] (SNS).^[https://en.wikipedia.org/wiki/Sympatholytic]

@@ -1,0 +1,3 @@
+1. dexmedetomidine (Precedex); a [[drug]] used in humans for [[sedation]]. It is also used in humans to treat acute agitation associated with [[schizophrenia]] or [[bipolar disorder|bipolar I or II disorder]].
+   
+   similar to [[clonidine]], it is a [[sympatholytic]] [[drug]] that acts as an [[agonist]] of [[alpha-2 adrenergic receptor|α2-adrenergic receptors]] in certain parts of the [[brain]].^[https://en.wikipedia.org/wiki/Dexmedetomidine]
