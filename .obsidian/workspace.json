@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hibernation.md",
+                "file": "non-rapid eye movement sleep.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "thermogenin",
+                "query": "nrem sleep",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hibernation.md",
+                "file": "non-rapid eye movement sleep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hibernation.md",
+                "file": "non-rapid eye movement sleep.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hibernation.md"
+                "file": "non-rapid eye movement sleep.md"
               }
             }
           }
@@ -138,8 +139,9 @@
   },
   "active": "e843f7592ade64fe",
   "lastOpenFiles": [
-    "torpor.md",
+    "NREM sleep.md",
     "hibernation.md",
+    "torpor.md",
     "basal metabolic rate.md",
     "uncoupling protein 1.md",
     "beta-3 adrenergic receptor.md",
@@ -164,7 +166,6 @@
     "leptin.md",
     "satiety.md",
     "polyphagia.md",
-    "polyuria.md",
     "ambient and microclimate temperature during sleep.jpg",
     "Matt sleep matras.png",
     "carotid arteries.png",
