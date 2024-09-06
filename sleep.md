@@ -209,7 +209,10 @@
 1. [[phase response curve]]
 
 # research
-1. **To Read**: [Auditory stimulation of sleep slow oscillations modulates subsequent memory encoding through altered hippocampal function | SLEEP | Oxford Academic (oup.com)](https://academic.oup.com/sleep/article/41/5/zsy031/4841646)
+## function
+1. is [[energy conservation]] the primary function of sleep + why
+	1. It was proposed that a lower brain [[temperature]] would reduce cerebral [[metabolism]], conserve energy and assist other functions from immune regulation to circadian coordination (McGinty and Szymusiak, 1990). [[Conservation of energy]] for sleep in its entirety has also been proposed (Berger and Phillips, 1995). However, we have seen that when mammals of all sizes prioritise conservation of energy, extremes of hypometabolism in [[torpor]] and [[hibernation]] are selected at the expense of sleep (Ruf and Geiser, 2015). This suggests that [[energy conservation]] alone is not the primary function of sleep. Indeed, estimates of energy use over 24 h put the cost of sleep as high as 85–95% of the [[basal metabolic rate|metabolic cost]] of waking (Jung et al., 2011; Abreu-Vieira et al., 2015; Hibi et al., 2017).^[[The Temperature Dependence of Sleep - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6491889/)]
+2. **To Read**: [Auditory stimulation of sleep slow oscillations modulates subsequent memory encoding through altered hippocampal function | SLEEP | Oxford Academic (oup.com)](https://academic.oup.com/sleep/article/41/5/zsy031/4841646)
 	1. can be used in combination with e.g. Dreem headband^[https://www.spectrumnews.org/news/capturing-autisms-sleep-problems-with-devices-nearable-and-wearable/]
 
 # miscellaneous
