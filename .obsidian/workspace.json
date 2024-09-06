@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f373f76c1db0755",
+            "id": "aaef1389599913fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "uncoupling protein.md",
+                "file": "deafferentiation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "proton-motive force.md",
+                "file": "deafferentiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "proton-motive force.md",
+                "file": "deafferentiation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,11 +114,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "proton-motive force.md"
+                "file": "deafferentiation.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -135,8 +136,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "51fbbfaf155022b6",
+  "active": "aaef1389599913fc",
   "lastOpenFiles": [
+    "afferent nerve fiber.md",
+    "deafferentiation.md",
     "uncoupling protein.md",
     "proton-motive force.md",
     "proton.md",
@@ -162,8 +165,6 @@
     "polydipsia.md",
     "diabetes mellitus.md",
     "orexigenic.md",
-    "neuropeptide Y.md",
-    "hyperphagia.md",
     "ambient and microclimate temperature during sleep.jpg",
     "Matt sleep matras.png",
     "carotid arteries.png",

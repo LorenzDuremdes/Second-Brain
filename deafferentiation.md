@@ -1,0 +1,1 @@
+1. deafferentiation; the state of having an incomplete [[afferent nerve fiber|afferent connection]] with the [[central nervous system]]^[https://en.wiktionary.org/wiki/deafferentation]
