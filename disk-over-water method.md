@@ -1,0 +1,1 @@
+1. disk-over-[[water]] method; a technique for causing [[sleep deprivation]] in laboratory animals. The subject—for example, a rat or pigeon—is placed on a disk. When the subject shows signs of falling asleep, the disk begins to slowly rotate, at a few revolutions per minute. The subject must walk to keep pace with the disk, or it will be carried into a pool of [[water]].

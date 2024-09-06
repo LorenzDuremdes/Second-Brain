@@ -1,5 +1,5 @@
 1. neutrino; a fermion (an elementary particle with spin of 1/2) that interacts only via the weak interaction and gravity.^[https://en.wikipedia.org/wiki/Neutrino#cite_note-Close-2010-νν-2]^[https://en.wikipedia.org/wiki/Neutrino#cite_note-Jayawrdh-2015-νhunt-3]
 	1. The neutrino is so named because it is electrically neutral and because its rest mass is so small (*-ino*) that it was long thought to be zero
-2. The first use of a hydrogen bubble chamber to detect neutrinos, on 13 November 1970, at Argonne National Laboratory. Here a neutrino hits a proton in a hydrogen [[atom]]; the collision occurs at the point where three tracks emanate on the right of the photograph.^[By Argonne National Laboratory - Image courtesy of Argonne National Laboratory, Public Domain, https://commons.wikimedia.org/w/index.php?curid=10949136]
+2. The first use of a hydrogen bubble chamber to detect neutrinos, on 13 November 1970, at Argonne National Laboratory. Here a neutrino hits a [[proton]] in a hydrogen [[atom]]; the collision occurs at the point where three tracks emanate on the right of the photograph.^[By Argonne National Laboratory - Image courtesy of Argonne National Laboratory, Public Domain, https://commons.wikimedia.org/w/index.php?curid=10949136]
 
 	<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/FirstNeutrinoEventAnnotated.jpg" width="500" />

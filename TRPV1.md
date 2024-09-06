@@ -1,0 +1,3 @@
+1. transient receptor potential cation channel subfamily V member 1 (TRPV1); detection and regulation of body [[temperature]]. In addition, provides a sensation of scalding heat and pain (nociception).
+   
+   The best-known activators of TRPV1 are: [[temperature]] greater than 43 °C (109 °F); acidic conditions; capsaicin (the irritating compound in hot chili peppers); and allyl isothiocyanate, the pungent compound in mustard and wasabi.^[https://en.wikipedia.org/wiki/TRPV1]
