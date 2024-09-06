@@ -1,4 +1,4 @@
-1. uncoupling [[protein]]; play a role in normal [[physiology]], as in cold exposure or hibernation, because the [[energy]] is used to generate heat (see [[thermogenesis]]) instead of producing [[adenosine triphosphate|ATP]]
+1. uncoupling [[protein]]; play a role in normal [[physiology]], as in cold exposure or [[hibernation]], because the [[energy]] is used to generate heat (see [[thermogenesis]]) instead of producing [[adenosine triphosphate|ATP]]
    
    uncoupling proteins are increased by [[thyroid hormones|thyroid hormone]], [[norepinephrine]], [[epinephrine]], and [[leptin]].
    

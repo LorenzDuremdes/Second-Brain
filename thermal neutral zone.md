@@ -1,4 +1,4 @@
 # humans
-1. thermal neutral zone (humans); describes a range of temperatures of the immediate environment in which a standard healthy [[adult]] can maintain normal body [[temperature]] without needing to use [[energy]] above and beyond normal basal metabolic rate
+1. thermal neutral zone (humans); describes a range of temperatures of the immediate environment in which a standard healthy [[adult]] can maintain normal body [[temperature]] without needing to use [[energy]] above and beyond normal [[basal metabolic rate]]
    
    It starts at approximately 21 °C (69.8 °F) for normal weight [[men]] and at around 18 °C (64.4 °F) for those who are overweight and extends towards circa 30 °C (86.0 °F). Note this is for a resting [[human]] and does not allow for shivering, sweating or exercising. Even with light clothing, radiation and convection losses are dramatically reduced, effectively reducing the TNZ. Hence, a comfortable [[temperature]] in a heated building may be 18 - 22 degrees Celsius (64.4 - 71.6 degrees Fahrenheit).^[https://en.wikipedia.org/wiki/Thermal_neutral_zone]
