@@ -1,0 +1,1 @@
+# redirect: [[uncoupling protein 1]]
