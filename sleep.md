@@ -75,7 +75,9 @@
 1. [[water]]-based passive body heating (PBHWB) of 40-42.5 °C was associated with both improved self-rated [[sleep quality]] and [[sleep efficiency|SE]], and when scheduled 1-2 h before bedtime for little as 10 min significant shortening of [[sleep onset latency|SOL]]^[[Before-bedtime passive body heating by warm shower or bath to improve sleep: A systematic review and meta-analysis - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/31102877/)]
    
    "We know that your core body [[temperature]] needs to drop by about 2 to 3 degrees Fahrenheit to initiate good sleep and then maintain deep sleep," says Walker, the author of *Why We Sleep*.^[[Trouble Sleeping? Try A Warm Bath To Cool Down : Shots - Health News : NPR](https://www.npr.org/sections/health-shots/2019/07/25/745010965/a-warm-bedtime-bath-can-help-you-cool-down-and-sleep-better)]
-2. the proximal-to-distal [[temperature]] gradient has to increase to improve sleep i.e. higher distal and lower proximal (core body) [[temperature]]
+   1. is specific warming of the hands and feet (rather than a 'whole body shower') sufficient for the warm bath effect?
+	   1. specific warming of the hands and feet promotes [[NREM sleep]] induction^[[Sleep and thermoregulation - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7323637/)]
+1. the proximal-to-distal [[temperature]] gradient has to increase to improve sleep i.e. higher distal and lower proximal (core body) [[temperature]]
    
    Understanding how warmth might be encountered on a daily basis to precipitate these changes that initiate sleep and [[vasodilation]] is crucial. But it seems that the ‘warm bath effect’ is more subtle than previously thought. [Raymann et al. (2008)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6491889/#B107) have extended the warming paradigm with the aid of a custom-made ‘thermosuit’ for the manipulation of skin [[temperature]]. Small changes in skin [[temperature]] of only 0.4°C (in the 31–35 range), can shorten sleep latencies without altering core [[temperature]].^[[The Temperature Dependence of Sleep - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6491889/)]
    
