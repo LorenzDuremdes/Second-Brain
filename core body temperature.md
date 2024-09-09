@@ -1,0 +1,1 @@
+1. core body [[temperature]]; the operating [[temperature]] of an [[organism]], specifically in deep structures of the body such as the [[liver]], in comparison to temperatures of peripheral tissues^[https://en.wikipedia.org/wiki/Human_body_temperature#Core_temperature]
