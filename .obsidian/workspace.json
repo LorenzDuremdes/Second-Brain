@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "core body temperature.md",
+                "file": "ventral tegmental area.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sleep pressure",
+                "query": "ventral tegmental area",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "core body temperature.md",
+                "file": "dopaminergic neuron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "core body temperature.md",
+                "file": "dopaminergic neuron.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -115,12 +115,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "core body temperature.md"
+                "file": "dopaminergic neuron.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,10 +136,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "51fbbfaf155022b6",
   "lastOpenFiles": [
-    "liver.md",
+    "ventral tegmental area.md",
+    "dopaminergic neuron.md",
+    "dopaminergic cell groups.md",
     "core body temperature.md",
+    "liver.md",
     "non-rapid eye movement sleep.md",
     "Untitled 1.md",
     "NREM sleep.md",
@@ -163,9 +165,6 @@
     "afferent nerve fiber.md",
     "proton-motive force.md",
     "proton.md",
-    "adenosine triphosphate.md",
-    "thyroid hormones.md",
-    "flowerpot technique.md",
     "Amide-(tertiary).png",
     "ambient and microclimate temperature during sleep.jpg",
     "Matt sleep matras.png",
