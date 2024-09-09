@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ventral tegmental area",
+                "query": "endotherm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -119,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -138,6 +139,8 @@
   },
   "active": "47a1883d65560ef6",
   "lastOpenFiles": [
+    "endtherm.md",
+    "sleep.md",
     "ventral tegmental area.md",
     "dopaminergic neuron.md",
     "dopaminergic cell groups.md",
@@ -152,7 +155,6 @@
     "homeothermy.md",
     "RNA-binding protein.md",
     "cold-inducible RNA binding protein.md",
-    "sleep.md",
     "energy conservation.md",
     "hibernation.md",
     "torpor.md",
@@ -164,7 +166,6 @@
     "deafferentiation.md",
     "afferent nerve fiber.md",
     "proton-motive force.md",
-    "proton.md",
     "Amide-(tertiary).png",
     "ambient and microclimate temperature during sleep.jpg",
     "Matt sleep matras.png",

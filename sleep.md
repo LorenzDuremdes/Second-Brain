@@ -150,6 +150,16 @@
 	   Each subject participated in three 7-day treatment periods (with bedtime [[drug]] administration).
 	   
 	   In young subjects, high-dose [[MK-677]] treatment resulted in an approximately 50% increase in the duration of stage IV and in a more than 20% increase in [[REM sleep]] as compared to placebo (p < 0.05). The frequency of deviations from normal sleep decreased from 42% under placebo to 8% under high-dose [[MK-677]] (p < 0.03). In older adults, treatment with [[MK-677]] was associated with a nearly 50% increase in [[REM sleep]] (p < 0.05) and a decrease in REM latency (p < 0.02). The frequency of deviations from normal sleep also decreased (p < 0.02). The present findings suggest that [[MK-677]] may simultaneously improve [[sleep quality]] and correct the relative hyposomatotropism of senescence.
+
+# [[temperature]]
+## [[core body temperature]]
+1. why does core body temperature perhaps have to decrease to permit/improve (NREM) sleep as opposed to just having the environment 'replacing' the [[endtherm|endothermy]] without any decrease?
+	1. perhaps because a lower core body temperature improves [[energy conservation]] and more can be allocated toward e.g. maintaining the body (which is more the case during NREM sleep → less the case during REM sleep hence lowering of core body temperature not as necessary?)
+		1. 1. a too high ambient temperature would not result in this energy conservation (as it can speed up processes in the body even if it 'replaces' the endothermy) as well as making the transitions between (N)REM sleep more difficult
+			1. the microclimate (which cannot be replaced solely by ambient temperature) can permit this process
+		2. a too low ambient temperature would not facillitate those processes as the body has to work harder to keep [[homeostasis]]
+		3. i.e. there's a new homeostatis to optimize all these processes
+
 # [[nutrition]]
 ## [[nutrient timing]]
 ### [[circadian rhythm]]
