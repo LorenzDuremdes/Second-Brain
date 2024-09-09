@@ -159,6 +159,9 @@
 			1. the microclimate (which cannot be replaced solely by ambient temperature) can permit this process
 		2. a too low ambient temperature would not facillitate those processes as the body has to work harder to keep [[homeostasis]]
 		3. i.e. there's a new homeostatis to optimize all these processes
+	2. The relationship between sleep and ambient temperature.
+
+a, The changing relationship of skin to core temperature as mice approach the [[thermal neutral zone|thermoneutral zone]] (TNZ). This has similarities to the [[distal-proximal skin temperature|distal-proximal gradient]] in humans where vasodilation in distal regions increases peripheral skin temperature and facilitates heat redistribution from the core. Having reached the cooler night-time temperature, the formation and maintenance of warm microclimates minimises [[energy conservation|energy loss]] while maintaining [[vasodilation]]. b, The structure of sleep is sensitive to ambient temperature. In mice, increasing ambient temperature promotes NREM sleep until the upper threshold of the thermoneutral zone where it declines sharply most likely due to heat stress. REM sleep is maximised in a narrow thermal window that appears to align with the TNZ. It should be noted that the thermoneutral pulsing method employed in [9] did not fully replicate warm-induced increases in NREM sleep.^[[Sleep and thermoregulation - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7323637/)] ![[The relationship between sleep and ambient temperature.jpg]]
 
 # [[nutrition]]
 ## [[nutrient timing]]

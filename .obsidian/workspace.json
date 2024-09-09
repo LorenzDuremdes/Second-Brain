@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "endotherm",
+                "query": "distal proximal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -119,8 +119,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,8 +138,10 @@
   },
   "active": "47a1883d65560ef6",
   "lastOpenFiles": [
-    "endtherm.md",
+    "distal-proximal skin temperature.md",
     "sleep.md",
+    "The relationship between sleep and ambient temperature.jpg",
+    "endtherm.md",
     "ventral tegmental area.md",
     "dopaminergic neuron.md",
     "dopaminergic cell groups.md",
@@ -165,7 +166,6 @@
     "uncoupling protein.md",
     "deafferentiation.md",
     "afferent nerve fiber.md",
-    "proton-motive force.md",
     "Amide-(tertiary).png",
     "ambient and microclimate temperature during sleep.jpg",
     "Matt sleep matras.png",
@@ -175,7 +175,6 @@
     "normal vs. phenibut sleep.png",
     "sodium",
     "Training process framework and measurable components for monitoring.png",
-    "Training Load and Its Role in Injury Prevention, Part I Back to the Future.png",
     "Untitled"
   ]
 }
