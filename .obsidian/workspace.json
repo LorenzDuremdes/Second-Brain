@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c76176f4404ca436",
+            "id": "c685ed5b5942cca5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "endotherm.md",
+                "file": "pancreatic duct.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "endotherm.md",
+                "file": "pancreatic duct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "endotherm.md",
+                "file": "pancreatic duct.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "endotherm.md"
+                "file": "pancreatic duct.md"
               }
             }
           }
@@ -136,10 +136,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c76176f4404ca436",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "homeothermy.md",
+    "pancreatic duct.png",
     "endotherm.md",
+    "pancreatic duct.md",
+    "homeothermy.md",
     "RNA-binding protein.md",
     "cold-inducible RNA binding protein.md",
     "sleep.md",
@@ -162,8 +164,6 @@
     "flowerpot technique.md",
     "disk-over-water method.md",
     "optogenetics.md",
-    "TRPV1.md",
-    "sucralose.md",
     "Amide-(tertiary).png",
     "ambient and microclimate temperature during sleep.jpg",
     "Matt sleep matras.png",

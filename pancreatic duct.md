@@ -1,0 +1,2 @@
+1. pancreatic duct; supplies it with pancreatic juice from the exocrine pancreas, which aids in [[digestion]].^[https://en.wikipedia.org/wiki/Pancreatic_duct]
+2. By training.seer.cancer.govSVG: Cradel - http://training.seer.cancer.gov/module_anatomy/images/illu_pancrease.jpg, Public Domain, https://commons.wikimedia.org/w/index.php?curid=8954245 ![[pancreatic duct.png]]
