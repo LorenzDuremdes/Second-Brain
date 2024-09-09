@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nrem sleep",
+                "query": "sleep pressure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "liver.md",
+                "file": "core body temperature.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "liver.md",
+                "file": "core body temperature.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,11 +115,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "liver.md"
+                "file": "core body temperature.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -135,10 +137,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "51fbbfaf155022b6",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "core body temperature.md",
     "liver.md",
+    "core body temperature.md",
     "non-rapid eye movement sleep.md",
     "Untitled 1.md",
     "NREM sleep.md",
