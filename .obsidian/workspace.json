@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "distal proximal",
+                "query": "beta 3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +118,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -136,10 +136,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "47a1883d65560ef6",
+  "active": "4c7c506bcb1fd0b8",
   "lastOpenFiles": [
-    "distal-proximal skin temperature.md",
+    "contrast effect.md",
     "sleep.md",
+    "distal-proximal skin temperature.md",
     "The relationship between sleep and ambient temperature.jpg",
     "endtherm.md",
     "ventral tegmental area.md",
@@ -165,7 +166,6 @@
     "thermogenin.md",
     "uncoupling protein.md",
     "deafferentiation.md",
-    "afferent nerve fiber.md",
     "Amide-(tertiary).png",
     "ambient and microclimate temperature during sleep.jpg",
     "Matt sleep matras.png",

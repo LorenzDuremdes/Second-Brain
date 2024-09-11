@@ -137,13 +137,16 @@
 	1. no, the sensations of [[food]] calms you (especially after hunger with IF)
 	2. it's usually [[food]] that doesn't contain much sugar
 
-## [[somnifacient]]
+## [[pharmacology]]
+1. pharmacological stimulation of [[brown adipose tissue|BAT]] [[thermogenesis]] with [[beta-3 adrenergic receptor|β3-adrenergic agonists]] (the β3 adrenergic receptor is expressed on BAT) enhances [[NREM sleep]]^[[Sleep and thermoregulation - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7323637/)]
+
+### [[somnifacient]]
 1. if around 7:00 is the optimal wake up time (e.g. rise in [[temperature]]) and a [[somnifacient]] gives you +1h TST (with a current TST<sub>average</sub> = 7h), what [[time]] should you go to bed?
 	1. 7-((7+1)/x=0.95) i.e. ~22:36
 	2. SE=0.95 doesn't result in a smaller number than SE=0.85 until TST>9h → 10h with [[somnifacient]]
 	3. usually SE=0.95 as you tend to use a [[somnifacient]] due to e.g. [[stress]] (and WASO can increase it critically, reducing TST)
 
-### miscellaneous
+#### miscellaneous
 1. [Prolonged oral treatment with MK-677, a novel growth hormone secretagogue, improves sleep quality in man - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/9349662/)
 	1. In the present study, we investigated the effects of prolonged treatment with a novel, orally active, [[growth hormone]] secretagogue ([[MK-677]]) on [[sleep quality]] in healthy young and older adults.
 	   
