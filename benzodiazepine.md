@@ -1,6 +1,8 @@
 1. is the potential to abuse benzodiazepines high when taking them as prescribed?
 	1. usually not^[[Stop the benzo fearmongering please : r/Anxiety (reddit.com)](https://www.reddit.com/r/Anxiety/comments/12xv5zw/stop_the_benzo_fearmongering_please/)]
 2. benzodiazepine-like compounds are rarely fatal when taken alone^[https://en.wikipedia.org/wiki/Bromazolam]
+3. what could perhaps cause [[nonbenzodiazepine|(non)benzodiazepines]] to induce less deep [[sleep]]?
+	1. Harding et al. identify nitrergic/glutamatergic neurons in the MnPO-MPO hypothalamus, which after activity tagging by a warm external stimulus induce both sleep and hypothermia when reactivated. This suggests sleep and body cooling are inextricably linked. **Reactivating GABAergic neurons, however, induces only sleep**^[[A Neuronal Hub Binding Sleep Initiation and Body Cooling in Response to a Warm External Stimulus - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6078908/)] i.e. [[core body temperature]] cooling usually facilitates [[NREM sleep]]
 
 # list
 1. [[bromazolam]]
