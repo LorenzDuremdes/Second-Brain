@@ -1,0 +1,1 @@
+1. putative [[RNA-binding protein]] 3 (RBM3); a cold-induced RNA binding protein and is involved in [[messenger RNA|mRNA]] [[biogenesis]] exerting anti-[[apoptosis|apoptotic]] effects.^[https://en.wikipedia.org/wiki/RBM3]

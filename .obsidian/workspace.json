@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sleep.md",
+                "file": "caspase.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "beta 3",
+                "query": "caspases",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sleep.md",
+                "file": "caspase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sleep.md",
+                "file": "caspase.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,12 +114,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sleep.md"
+                "file": "caspase.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -138,8 +137,17 @@
   },
   "active": "4c7c506bcb1fd0b8",
   "lastOpenFiles": [
-    "contrast effect.md",
+    "apoptosis.md",
+    "TRPV1.md",
+    "uncoupling protein 1.md",
+    "RNA-binding protein.md",
+    "cold-inducible RNA binding protein.md",
+    "uncoupling protein.md",
+    "putative RNA-binding protein 3.md",
+    "biogenesis.md",
+    "mitochondrial biogenesis.md",
     "sleep.md",
+    "contrast effect.md",
     "distal-proximal skin temperature.md",
     "The relationship between sleep and ambient temperature.jpg",
     "endtherm.md",
@@ -149,23 +157,14 @@
     "core body temperature.md",
     "liver.md",
     "non-rapid eye movement sleep.md",
-    "Untitled 1.md",
     "NREM sleep.md",
     "pancreatic duct.md",
     "pancreatic duct.png",
     "endotherm.md",
     "homeothermy.md",
-    "RNA-binding protein.md",
-    "cold-inducible RNA binding protein.md",
     "energy conservation.md",
     "hibernation.md",
     "torpor.md",
-    "basal metabolic rate.md",
-    "uncoupling protein 1.md",
-    "beta-3 adrenergic receptor.md",
-    "thermogenin.md",
-    "uncoupling protein.md",
-    "deafferentiation.md",
     "Amide-(tertiary).png",
     "ambient and microclimate temperature during sleep.jpg",
     "Matt sleep matras.png",
