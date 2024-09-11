@@ -1,0 +1,1 @@
+1. expression of c-fos is an indirect marker of [[neuron|neuronal]] activity because c-fos is often expressed when neurons fire [[action potential|action potentials]].^[https://en.wikipedia.org/wiki/Protein_c-Fos]

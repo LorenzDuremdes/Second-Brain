@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1af7ed0207742256",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "protein c-Fos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "caspases",
+                "query": "action potential",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "caspase.md",
+                "file": "protein c-Fos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "caspase.md",
+                "file": "protein c-Fos.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,11 +127,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "caspase.md"
+                "file": "protein c-Fos.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -137,6 +151,8 @@
   },
   "active": "4c7c506bcb1fd0b8",
   "lastOpenFiles": [
+    "caspase.md",
+    "protein c-Fos.md",
     "apoptosis.md",
     "TRPV1.md",
     "uncoupling protein 1.md",
@@ -163,8 +179,6 @@
     "endotherm.md",
     "homeothermy.md",
     "energy conservation.md",
-    "hibernation.md",
-    "torpor.md",
     "Amide-(tertiary).png",
     "ambient and microclimate temperature during sleep.jpg",
     "Matt sleep matras.png",
