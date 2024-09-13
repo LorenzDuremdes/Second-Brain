@@ -1,5 +1,5 @@
 1. the preoptic area (a region of the [[hypothalamus]]) is responsible for [[thermoregulation]] and receives nervous stimulation from [[thermoreceptor|thermoreceptors]] in the skin, [[mucous membrane|mucous membranes]], and [[hypothalamus]] itself^[https://en.wikipedia.org/wiki/Preoptic_area]
-]
+2. preoptic [[neuron|neurons]] command [[efferent nerve fiber|descending pathways]] to switch off heat production in brown adipocytes, promote vasodilation, and induce drinking^[[A Neuronal Hub Binding Sleep Initiation and Body Cooling in Response to a Warm External Stimulus - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6078908/)]
 
 # [[sleep]]
 1. about 60% of warm-sensitive neurons (WSN) also increased their activity during NREM ([Alam et al., 1995](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6491889/#B3))^[[The Temperature Dependence of Sleep - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6491889/)]
