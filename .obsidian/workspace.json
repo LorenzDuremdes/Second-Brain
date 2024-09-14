@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "road bike",
+                "query": "remco",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -150,8 +150,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "064dd5af93373ca8",
+  "active": "c53898a06c611b15",
   "lastOpenFiles": [
+    "Remco Evenepoel.md",
+    "aerodynamics (road cycling).md",
     "Dreo.md",
     "Dreo Pilot Max.md",
     "afferent nerve fiber.md",
@@ -176,8 +178,6 @@
     "uncoupling protein.md",
     "putative RNA-binding protein 3.md",
     "biogenesis.md",
-    "mitochondrial biogenesis.md",
-    "contrast effect.md",
     "The relationship between sleep and ambient temperature.jpg",
     "pancreatic duct.png",
     "Amide-(tertiary).png",
