@@ -35,6 +35,7 @@
    “It’s now that I understand how he can do these solo attacks 100 K from the finish. It’s amazing.”
    
    “I’ve trained with him, it’s infernal. He’s so strong,” Kenny Elissonde told the Cycling Podcast. “If we attack once like he does, we need five minutes of recovery. But he can keep going, going, going.”^[https://velo.outsideonline.com/road/road-racing/vuelta-a-espana/its-infernal-why-chasing-remco-evenepoel-leaves-his-rivals-in-ruins/]
+   ![[Remco Evenepoel mobility.png]]
 1. Everybody knows even if it's 40 kilometers to go, you don't give Remco Evenepoel an inch because you won't be getting it back.^[https://www.reddit.com/r/Damnthatsinteresting/comments/1ejbm61/remco_evenepoel_of_belgium_wins_gold_in_style_his/]
 2. Een lichtgewicht van 1,71 meter en +/- 63 kilogram tegenover een beer van 1,93 meter en 83 kilogram.
    
