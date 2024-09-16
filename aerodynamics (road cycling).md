@@ -67,6 +67,8 @@
    ![[TRed-Peregrine-Falcon-prototype-track-bike_Ashaa-track-bar_side.jpg]]
 3. Julius Johansen (Team Intermarche-Circus-Wanty) was another, of many, who appeared to be resting his forearms on the tops of his handlebars for additional support. - Tim de Waele/Getty Images^[Extreme positions, road bikes, time trial wheels and big helmets at the Tour Down Under prologue | BikeRadar](https://www.bikeradar.com/features/pro-bike/tour-down-under-prologue-time-trial-tech)
    ![[Aero position TT bike.webp]]
+4. [Road bike TT Masterclass by NZ's strongest riders 🛩 | A clinic on getting AERO (youtube.com)](https://www.youtube.com/watch?v=u7KNq3O_KMU)
+5. [This is what a time trial on a road bike looks like | UAE Tour 2022 Stage 3 (youtube.com)](https://www.youtube.com/watch?v=N80fNqrpeLM)
 
 # TTT
 1. when two cyclists ride next to each other, they both must put in 8% extra power to overcome the increased air resistance^[https://www.inthefieldstories.net/the-science-behind-a-cycling-victory/]
