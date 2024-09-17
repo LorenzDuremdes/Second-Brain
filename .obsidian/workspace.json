@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "perspiration.md",
+                "file": "phenylpiracetam.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "perspir",
+                "query": "performance enh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "perspiration.md",
+                "file": "phenylpiracetam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "perspiration.md",
+                "file": "phenylpiracetam.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "perspiration.md"
+                "file": "phenylpiracetam.md"
               }
             }
           }
@@ -136,10 +136,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "3183f9b414097fd0",
   "lastOpenFiles": [
-    "wind chill.md",
+    "facultative thermogenesis.md",
+    "phenylpiracetam.md",
+    "performance-enhancing substance.md",
+    "thermogenesis.md",
+    "adaptive thermogenesis.md",
     "perspiration.md",
+    "wind chill.md",
     "aerodynamics (road cycling).md",
     "road bike.md",
     "Remco Evenepoel.md",
@@ -160,11 +165,6 @@
     "somnifacient.md",
     "medial preoptic nucleus.md",
     "median preoptic nucleus.md",
-    "neuronal nitric oxide synthase.md",
-    "protein c-Fos.md",
-    "caspase.md",
-    "apoptosis.md",
-    "TRPV1.md",
     "The relationship between sleep and ambient temperature.jpg",
     "pancreatic duct.png",
     "Amide-(tertiary).png",

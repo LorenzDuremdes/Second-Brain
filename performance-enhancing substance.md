@@ -6,11 +6,11 @@ for legal supplements, see: [[sports supplement]]
 3. [[chlorodehydromethyltestosterone]] | [[erythropoiesis]] and recovery
 4. [[boldenone undecylenate]] | [[erythropoiesis]] and recovery
 5. [[bromantane]] ([[actoprotector]]) | better researched than e.g. [[bemethyl]]
-	2. [[phenylpiracetam]]
-6. [[2-fluormethamphetamine]]^[[Tramadol is a performance-enhancing drug in highly trained cyclists: a randomized controlled trial - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/37410900/)]
+	2. [[phenylpiracetam]] | [[facultative thermogenesis|cold resistance]], mental and physical stress, enhanced [[sleep]]
+6. [[2-fluormethamphetamine]]^[[Tramadol is a performance-enhancing drug in highly trained cyclists: a randomized controlled trial - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/37410900/)] | increasing time till exhaustion via decrease in [[core body temperature]] and motivation
 7. [[myo-inositol trispyrophosphate]]
 8. [[MK-677]]
-9. [[kratom]]
+9. [[kratom]] | reducing stress
 
 # articles
 1. [(PDF) Doping in Cycling: Past and Present (researchgate.net)](https://www.researchgate.net/publication/300453288_Doping_in_Cycling_Past_and_Present)
