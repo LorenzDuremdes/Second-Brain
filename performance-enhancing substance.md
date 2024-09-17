@@ -7,7 +7,8 @@ for legal supplements, see: [[sports supplement]]
 4. [[boldenone undecylenate]] | [[erythropoiesis]] and recovery
 5. [[bromantane]] ([[actoprotector]]) | better researched than e.g. [[bemethyl]]
 	2. [[phenylpiracetam]] | [[facultative thermogenesis|cold resistance]], mental and physical stress, enhanced [[sleep]]
-6. [[2-fluormethamphetamine]]^[[Tramadol is a performance-enhancing drug in highly trained cyclists: a randomized controlled trial - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/37410900/)] | increasing time till exhaustion via decrease in [[core body temperature]] and motivation
+6. [[2-fluormethamphetamine]]^[[Tramadol is a performance-enhancing drug in highly trained cyclists: a randomized controlled trial - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/37410900/)] | increasing time to exhaustion via decrease in [[core body temperature]] and motivation
+	1. [[caffeine]] | cold resistance and time to exhaustion
 7. [[myo-inositol trispyrophosphate]]
 8. [[MK-677]]
 9. [[kratom]] | reducing stress

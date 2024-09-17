@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "phenylpiracetam.md",
+                "file": "caffeine.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "phenylpiracetam.md",
+                "file": "caffeine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "phenylpiracetam.md",
+                "file": "caffeine.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,12 +114,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "phenylpiracetam.md"
+                "file": "caffeine.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -138,9 +137,12 @@
   },
   "active": "3183f9b414097fd0",
   "lastOpenFiles": [
+    "ephedrine.md",
+    "caffeine.md",
+    "vasoconstriction.md",
+    "performance-enhancing substance.md",
     "facultative thermogenesis.md",
     "phenylpiracetam.md",
-    "performance-enhancing substance.md",
     "thermogenesis.md",
     "adaptive thermogenesis.md",
     "perspiration.md",
@@ -162,9 +164,6 @@
     "sleep.md",
     "benzodiazepine.md",
     "nonbenzodiazepine.md",
-    "somnifacient.md",
-    "medial preoptic nucleus.md",
-    "median preoptic nucleus.md",
     "The relationship between sleep and ambient temperature.jpg",
     "pancreatic duct.png",
     "Amide-(tertiary).png",
