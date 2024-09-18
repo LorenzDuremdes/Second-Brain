@@ -1,4 +1,8 @@
-1. how does sleep remove toxic waste?
+# related
+1. [[sleep (neuroscience)]]
+2. [[phase response curve]]
+
+3. how does sleep remove toxic waste?
 	1. via the [[glymphatic system]] and [[cerebrospinal fluid]], mostly active during deep [[NREM sleep]] together with its sleep spindles as well as the shrinking of neurons by 60%
 
 # improving sleep
@@ -223,9 +227,6 @@ a, The changing relationship of skin to core temperature as mice approach the [[
 
 # [[sociology]]
 1.  [[domination analysis|dominance analysis]] revealed that objective [[sleep]] and [[circadian rhythm|circadian]] measures together explain **17% to 36%** of the variance in these behavioral issues, emphasizing the critical role of [[sleep]] quality, specifically the duration of uninterrupted [[sleep]], in the daily functioning of children with ASD^[[JCM | Free Full-Text | Disturbances of Continuous Sleep and Circadian Rhythms Account for Behavioral Difficulties in Children with Autism Spectrum Disorder (mdpi.com), GPT-4](https://www.mdpi.com/2077-0383/9/6/1978)]
-
-# related
-1. [[phase response curve]]
 
 # research
 ## function
