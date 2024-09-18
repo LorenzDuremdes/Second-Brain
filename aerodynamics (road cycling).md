@@ -28,14 +28,14 @@
 			2. **summer:** [Summer Arm Sleeves – Aero Cycling Gear](https://www.aerocyclinggear.nl/products/summer-arm-sleeves) €28.95
 	4. **cheaper alternative**: [PRO AERO SPEEDSUIT Double Number and Double Gel (Velotec)](https://www.velotec.cc/products/long-sleeve-aero-speedsuit?variant=47050627481946) €130 with Aero Leg Warmers / NON UCI AERO OVERSHOES (Rule 28) | **Short Sleeve** version might be better as arm sleeves don't lower CdA by a lot i.e. cooling might give more performance in summer
 		1. [Non UCI Aero Overshoes - Rule 28](https://www.rule28.com/products/non-uci-aero-overshoes?variant=39433246441547) €47.95 (in combination with Aero Leg Warmers (Rule 28))
-		2. [Aero Leg Warmers | Rule 28](https://www.rule28.com/products/aero-leg-warmers?variant=44290112454944) €53.95 | 5.5^[[EZ Velotoze Calf Guards - 5.5 Watts – EZ Gains Ltd](https://ezgains.co.uk/pages/calf-guards)]–[12 W](https://www.cyclingnews.com/news/taco-van-der-hoorns-aero-leg-warmers-present-loophole-to-ucis-sock-height-rule/)
+		2. [Aero Leg Warmers | Rule 28](https://www.rule28.com/products/aero-leg-warmers?variant=44290112454944) €53.95 | [5.5](https://ezgains.co.uk/pages/calf-guards)–[12 W](https://www.cyclingnews.com/news/taco-van-der-hoorns-aero-leg-warmers-present-loophole-to-ucis-sock-height-rule/)
 			1. Dylan Johnson also wears them
 		3. **group rides**: [PRO Aero Speedsuit - Short Sleeve - Black – Velotec](https://www.velotec.cc/collections/mens-speedsuits/products/short-sleeve-pro-aero-speedsuit-with-pocket?variant=7067904540732) €130
 3. [Aero Gloves – Aero Cycling Gear](https://www.aerocyclinggear.nl/products/aero-gloves) €39.95 | [4.7 W](https://www.thesartorialcyclist.com/post/less-power-more-speed-on-the-bike-calculating-the-benefits-of-aero-testing) on TT bike with hands in front
 4. [FUTURUM Face Mask Merino (Futurumshop.nl)](https://www.futurumshop.nl/futurum-face-mask-merino.phtml) €30.99 (Specialized 2023 S-Works TT 5 Team)
 5. [[Monarch (VeloVetta)]] €405 | **cheaper alternative:** Non UCI Aero Overshoes (Rule 28) | ~[14.2 W](https://www.velovetta.com/pages/wind-tunnel-testing)
 
-**Total = -89.09 W**
+**Total = -148.04 W**
 
 ---
 
