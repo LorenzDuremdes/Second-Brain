@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a0f2836b2c8045fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "clozapine N-oxide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "968bc1b06b0910f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clozapine N-oxide.md",
+                "file": "preoptic area.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adrener",
+                "query": "median",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "clozapine N-oxide.md",
+                "file": "preoptic area.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "clozapine N-oxide.md",
+                "file": "preoptic area.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "clozapine N-oxide.md"
+                "file": "preoptic area.md"
               }
             }
           }
@@ -149,11 +137,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4c7c506bcb1fd0b8",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
+    "hypothermia.md",
+    "preoptic area.md",
+    "clozapine N-oxide.md",
     "5-HT receptor.md",
     "serotonin receptor.md",
-    "clozapine N-oxide.md",
     "clozapine.md",
     "Parkinson's disease.md",
     "atypical antipsychotic.md",
@@ -177,8 +167,6 @@
     "phenylpiracetam.md",
     "thermogenesis.md",
     "adaptive thermogenesis.md",
-    "perspiration.md",
-    "wind chill.md",
     "Remco Evenepoel mobility.png",
     "The relationship between sleep and ambient temperature.jpg",
     "pancreatic duct.png",
