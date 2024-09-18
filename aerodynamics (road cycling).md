@@ -15,7 +15,7 @@
 2. Aerobars [57.6 W](https://www.aero-coach.co.uk/clip-on-aerobars)
 3. Aero body position [22.38 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades)
 4. Aero wheels [10.17 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades)
-5. Narrow handlebars [2.43 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades) | can be replicated by rolling wrists inward
+5. Narrow handlebars [2.43 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades) | can be replicated by rolling wrists inward ~[-2 W](https://www.instagram.com/p/C_aUBhtuUXg/)
 	1. [Skat Endurance Handlebar](https://www.velobike.co.nz/products/skat-endurance-handlebar?variant=42869638693047)
 # apparel
 1. Aero helmet [7.56 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades)
