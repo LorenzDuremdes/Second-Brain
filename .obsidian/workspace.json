@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "skin warming",
+                "query": "pomc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sleep (neuroscience).md",
+                "file": "hypothalamus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sleep (neuroscience).md",
+                "file": "hypothalamus.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,12 +115,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sleep (neuroscience).md"
+                "file": "hypothalamus.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -136,12 +136,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "283ed2ebd9bb57a8",
+  "active": "51fbbfaf155022b6",
   "lastOpenFiles": [
+    "sleep (neuroscience).md",
+    "homeostasis.md",
     "Conceptual Circuit Model for How External Warming Induces and Links Sleep and Body Cooling.png",
     "Signal integration in the preoptic hypothalamus.jpg",
     "sleep.md",
-    "sleep (neuroscience).md",
     "microclimate.md",
     "parabrachial nuclei.md",
     "preoptic area.md",
@@ -173,7 +174,6 @@
     "pancreatic duct.png",
     "Amide-(tertiary).png",
     "ambient and microclimate temperature during sleep.jpg",
-    "Matt sleep matras.png",
     "sodium",
     "Untitled"
   ]
