@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "632fa46dcf6a256e",
+            "id": "a0f2836b2c8045fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "receptor activated solely by a synthetic ligand.md",
+                "file": "clozapine N-oxide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "968bc1b06b0910f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clozapine N-oxide.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "receptor",
+                "query": "adrener",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "receptor activated solely by a synthetic ligand.md",
+                "file": "clozapine N-oxide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "receptor activated solely by a synthetic ligand.md",
+                "file": "clozapine N-oxide.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "receptor activated solely by a synthetic ligand.md"
+                "file": "clozapine N-oxide.md"
               }
             }
           }
@@ -136,10 +149,16 @@
       "random-note:Open random note": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "4c7c506bcb1fd0b8",
   "lastOpenFiles": [
-    "G protein-coupled receptor.md",
+    "5-HT receptor.md",
+    "serotonin receptor.md",
+    "clozapine N-oxide.md",
+    "clozapine.md",
+    "Parkinson's disease.md",
+    "atypical antipsychotic.md",
     "receptor activated solely by a synthetic ligand.md",
+    "G protein-coupled receptor.md",
     "ligand (coordination chemistry).md",
     "cobalt complex HCo(CO)4 with five ligands.png",
     "coordination complex.md",
@@ -160,13 +179,7 @@
     "adaptive thermogenesis.md",
     "perspiration.md",
     "wind chill.md",
-    "road bike.md",
-    "Remco Evenepoel.md",
     "Remco Evenepoel mobility.png",
-    "apparel (road cycling).md",
-    "time trial.md",
-    "windbreaker.md",
-    "Dreo.md",
     "The relationship between sleep and ambient temperature.jpg",
     "pancreatic duct.png",
     "Amide-(tertiary).png",
