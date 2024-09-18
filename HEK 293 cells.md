@@ -1,0 +1,3 @@
+1. HEK 293 cells; has been widely used in research for decades due to its reliable and fast growth and propensity for transfection. The [[cell]] line is used by the biotechnology industry to produce therapeutic [[protein|proteins]] and [[virus|viruses]] for [[gene therapy]] as well as safety testing for a vast array of chemicals.
+   
+   an immortalised cell line derived from HEK cells isolated from a female fetus in the 1970s.^[https://en.wikipedia.org/wiki/HEK_293_cells]

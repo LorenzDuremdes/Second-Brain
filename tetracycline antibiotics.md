@@ -1,0 +1,3 @@
+1. tetracycline antibiotics; a group of broad-spectrum antibiotic compounds that have a common basic structure and are either isolated directly from several species of Streptomyces bacteria or produced semi-synthetically from those isolated compounds.
+   
+   tetracyclines were discovered in the 1940s and exhibited activity against a wide range of microorganisms including gram-positive and gram-negative bacteria, chlamydiota, mycoplasmatota, rickettsiae, and protozoan parasites.^[https://en.wikipedia.org/wiki/Tetracycline_antibiotics]
