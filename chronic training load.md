@@ -1,4 +1,11 @@
-# [[sports data science]]
+# [[sports science (cycling)]]
+1. how can you perhaps increase TSS in the future while making it mentally and physically sustainable (especially on block trainings)? assuming 76% IF:
+	1. switch between 1h [[ergometer]] > 1h real-life > 1h ergometer on the same day ~172 TSS
+	2. do some endurance in the gym e.g. 1h [[conditioning]] circuits ~57 TSS
+	3. add an 1h ergometer workout on the same day as a ~4h group ride (and extend the group ride with ~1h alone afterward) ~345 TSS
+	4. should be enough for ~100 CTL with [[block training]] for 2 microcycles > 1 recovery [[microcycle]] dedicated to [[resistance training]]
+
+## [[sports data science]]
 1. how much training load do you need to get your "Fitness" to a given number? (e.g. Intervals.icu)^[https://forum.intervals.icu/t/fitness-score-or-how-fit-is-fit/4485]
 	1. e.g. an average of 50 CTL/day results in a "Fitness" of 50
 		1. Fitness ≠ fitness (e.g. you can still make progress while keeping CTL the same)
