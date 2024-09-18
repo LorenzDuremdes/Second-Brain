@@ -1,0 +1,2 @@
+1. ligand (coordination chemistry); an ion or molecule with a functional group that binds to a central metal atom to form a coordination complex^[https://en.wikipedia.org/wiki/Ligand]
+2. cobalt complex HCo(CO)4 with five ligands^[Public Domain, https://commons.wikimedia.org/w/index.php?curid=1632678] ![[cobalt complex HCo(CO)4 with five ligands.png]]
