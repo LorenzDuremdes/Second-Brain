@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chronic training",
+                "query": "chronic intensity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -137,7 +137,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "8412e88b9e28c8ed",
   "lastOpenFiles": [
     "sleep (neuroscience).md",
     "homeostasis.md",
