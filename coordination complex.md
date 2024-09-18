@@ -1,0 +1,4 @@
+1. coordination complex; a chemical compound consisting of a central [[atom]] or [[ion]], which is usually metallic and is called the coordination centre, and a surrounding array of bound [[molecule|molecules]] or ions, that are in turn known as ligands or complexing agents.
+   
+   coordination refers to the "coordinate covalent bonds" (dipolar bonds) between the ligands and the central atom.^[https://en.wikipedia.org/wiki/Coordination_complex]
+2. Cisplatin, PtCl2(NH3)2, is a coordination complex of platinum(II) with two chloride and two ammonia ligands. It is one of the most successful anticancer drugs.^[By Benrr101 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=18871038]^[By Benjah-bmm27 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1990049]^[By Benjah-bmm27 - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1009188] ![[cisplatin.png]]

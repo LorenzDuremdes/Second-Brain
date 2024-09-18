@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82541cf3a2e03aca",
+            "id": "e88f862089a083dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HEK 293 cells.md",
+                "file": "coordination complex.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gene therapy.md",
+                "file": "coordination complex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gene therapy.md",
+                "file": "coordination complex.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gene therapy.md"
+                "file": "coordination complex.md"
               }
             }
           }
@@ -137,6 +137,9 @@
   },
   "active": "51fbbfaf155022b6",
   "lastOpenFiles": [
+    "cisplatin.png",
+    "ion.md",
+    "coordination complex.md",
     "HEK 293 cells.md",
     "gene therapy.md",
     "doxycycline.md",
@@ -161,9 +164,6 @@
     "Dreo.md",
     "Dreo Pilot Max.md",
     "afferent nerve fiber.md",
-    "sensory neuron.md",
-    "deafferentiation.md",
-    "efferent nerve fiber.md",
     "The relationship between sleep and ambient temperature.jpg",
     "pancreatic duct.png",
     "Amide-(tertiary).png",
