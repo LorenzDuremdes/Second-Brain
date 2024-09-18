@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "975ec821bfa97fb8",
+            "id": "632fa46dcf6a256e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ligand (coordination chemistry).md",
+                "file": "receptor activated solely by a synthetic ligand.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "performance enh",
+                "query": "receptor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ligand (coordination chemistry).md",
+                "file": "receptor activated solely by a synthetic ligand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ligand (coordination chemistry).md",
+                "file": "receptor activated solely by a synthetic ligand.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,11 +114,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ligand (coordination chemistry).md"
+                "file": "receptor activated solely by a synthetic ligand.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -135,11 +136,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "975ec821bfa97fb8",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
+    "G protein-coupled receptor.md",
+    "receptor activated solely by a synthetic ligand.md",
+    "ligand (coordination chemistry).md",
     "cobalt complex HCo(CO)4 with five ligands.png",
     "coordination complex.md",
-    "ligand (coordination chemistry).md",
     "cisplatin.png",
     "ion.md",
     "HEK 293 cells.md",
@@ -164,7 +167,6 @@
     "time trial.md",
     "windbreaker.md",
     "Dreo.md",
-    "Dreo Pilot Max.md",
     "The relationship between sleep and ambient temperature.jpg",
     "pancreatic duct.png",
     "Amide-(tertiary).png",
@@ -172,7 +174,6 @@
     "Matt sleep matras.png",
     "carotid arteries.png",
     "Schematic illustration of Hypotheses 1, 2, and 3.jpg",
-    "Table 1. EI balance and neurotransmitter changes in early visual areas during NREM and REM sleep with or without presleep learning compared to baseline.png",
     "sodium",
     "Untitled"
   ]
