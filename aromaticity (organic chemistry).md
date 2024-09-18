@@ -1,0 +1,5 @@
+1. aromaticity ([[organic chemistry]]); a chemical property describing the way in which a conjugated ring of unsaturated bonds, lone pairs, or empty orbitals exhibits a stabilization stronger than would be expected by the stabilization of conjugation alone
+   
+   Since they are out of the plane of the [[atom|atoms]], these orbitals can interact with each other freely, and become delocalized. This means that, instead of being tied to one atom of [[carbon]], each [[electron]] is shared by all six in the ring. Thus, there are not enough electrons to form double bonds on all the carbon atoms, but the "extra" electrons strengthen all of the bonds on the ring equally. The resulting molecular orbital has π symmetry.^[https://en.wikipedia.org/wiki/Aromaticity]
+   
+   [By Vladsinger - Own work by uploader, based on en:File:Benzene-orbitals2.png, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7531044] ![[benzene orbital delocalization.png]]

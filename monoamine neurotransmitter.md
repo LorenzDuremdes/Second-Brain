@@ -1,0 +1,3 @@
+1. monoamine [[neurotransmitter]]; neurotransmitters and [[neuromodulation|neuromodulators]] that contain one [[amine|amino]] group connected to an [[aromaticity (organic chemistry)|aromatic ring]] by a two-[[carbon]] chain (such as -CH<sub>2</sub>-CH<sub>2</sub>-)
+   
+   examples are [[dopamine]], [[norepinephrine]] and [[serotonin]] ([[catecholamine|catecholamines]])^[https://en.wikipedia.org/wiki/Monoamine_neurotransmitter]
