@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "283ed2ebd9bb57a8",
+            "id": "4f4c13663f50906e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chronic training load.md",
+                "file": "rice.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chronic training load.md",
+                "file": "rice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chronic training load.md",
+                "file": "rice.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chronic training load.md"
+                "file": "rice.md"
               }
             }
           }
@@ -137,8 +136,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "8412e88b9e28c8ed",
+  "active": "4f4c13663f50906e",
   "lastOpenFiles": [
+    "chronic training load.md",
+    "rice.md",
     "sleep (neuroscience).md",
     "homeostasis.md",
     "Conceptual Circuit Model for How External Warming Induces and Links Sleep and Body Cooling.png",
@@ -168,8 +169,6 @@
     "gene therapy.md",
     "doxycycline.md",
     "tetracycline antibiotics.md",
-    "aerodynamics (road cycling).md",
-    "caffeine.md",
     "Remco Evenepoel mobility.png",
     "The relationship between sleep and ambient temperature.jpg",
     "pancreatic duct.png",
