@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meninges.md",
+                "file": "cortisol.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mammal",
+                "query": "sleep deprivation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "meninges.md",
+                "file": "cortisol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "meninges.md",
+                "file": "cortisol.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,11 +115,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "meninges.md"
+                "file": "cortisol.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -135,10 +137,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "51fbbfaf155022b6",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "cerebrospinal fluid.md",
+    "sleep deprivation.md",
     "meninges.md",
+    "cerebrospinal fluid.md",
     "pia mater.md",
     "arachnoid mater.md",
     "dura mater.md",
@@ -166,7 +169,6 @@
     "parabrachial nuclei.md",
     "preoptic area.md",
     "monoamine neurotransmitter.md",
-    "aromaticity (organic chemistry).md",
     "benzene orbital delocalization.png",
     "cobalt complex HCo(CO)4 with five ligands.png",
     "cisplatin.png",
