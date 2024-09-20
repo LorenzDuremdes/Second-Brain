@@ -1,0 +1,3 @@
+1. G [[protein]] (also known as **guanine nucleotide-binding proteins**); a family of proteins that act as molecular switches inside cells, and are involved in transmitting signals from a variety of stimuli outside a [[cell]] to its interior
+   
+   Heterotrimeric G proteins located within the cell are activated by [[G protein-coupled receptor|G protein-coupled receptors (GPCRs)]] that span the [[cell membrane]]. [[cell signaling|Signaling molecules]] bind to a domain of the GPCR located outside the cell, and an intracellular GPCR domain then in turn activates a particular G protein.^[https://en.wikipedia.org/wiki/G_protein]

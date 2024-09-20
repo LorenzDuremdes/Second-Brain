@@ -1,0 +1,1 @@
+1. [[G protein]]-coupled receptor; form a large group of evolutionarily related proteins that are cell surface receptors that detect molecules outside the cell and activate cellular responses. They are coupled with [[G protein|G proteins]].^[https://en.wikipedia.org/wiki/G_protein-coupled_receptor]
