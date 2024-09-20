@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ecdd445323fca9f",
+            "id": "1318a2a5abddbfb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "G protein.md",
+                "file": "electrooculography.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "G protein.md",
+                "file": "electrooculography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "G protein.md",
+                "file": "electrooculography.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,12 +114,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "G protein.md"
+                "file": "electrooculography.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -136,11 +135,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "2ecdd445323fca9f",
+  "active": "51fbbfaf155022b6",
   "lastOpenFiles": [
+    "eye movement.md",
+    "electrooculography.md",
+    "G protein.md",
     "G protein-coupled receptor.md",
     "neuropeptide.md",
-    "G protein.md",
     "chemogenetics.md",
     "macromolecule.md",
     "cortisol.md",
@@ -164,8 +165,6 @@
     "carbon dioxide.md",
     "picrotoxin.md",
     "convulsant.md",
-    "rice.md",
-    "chronic training load.md",
     "Conceptual Circuit Model for How External Warming Induces and Links Sleep and Body Cooling.png",
     "Signal integration in the preoptic hypothalamus.jpg",
     "benzene orbital delocalization.png",
