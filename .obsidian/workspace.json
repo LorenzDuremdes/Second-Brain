@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fever.md",
+                "file": "meninges.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ventrolateral",
+                "query": "mammal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fever.md",
+                "file": "meninges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fever.md",
+                "file": "meninges.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,12 +114,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fever.md"
+                "file": "meninges.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -136,11 +135,19 @@
       "random-note:Open random note": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "51fbbfaf155022b6",
   "lastOpenFiles": [
-    "ventral lateral preoptic nucleus.md",
-    "fever.md",
+    "cerebrospinal fluid.md",
     "meninges.md",
+    "pia mater.md",
+    "arachnoid mater.md",
+    "dura mater.md",
+    "mammal.md",
+    "The meninges dura mater, arachnoid mater and pia mater.png",
+    "Image depicting meninges around the brain.jpg",
+    "fever.md",
+    "Untitled 1.md",
+    "ventral lateral preoptic nucleus.md",
     "prostaglandin D2.md",
     "leptin.md",
     "sleep (neuroscience).md",
@@ -161,19 +168,11 @@
     "monoamine neurotransmitter.md",
     "aromaticity (organic chemistry).md",
     "benzene orbital delocalization.png",
-    "hypothermia.md",
-    "clozapine N-oxide.md",
-    "5-HT receptor.md",
-    "serotonin receptor.md",
-    "clozapine.md",
-    "Parkinson's disease.md",
     "cobalt complex HCo(CO)4 with five ligands.png",
     "cisplatin.png",
     "Remco Evenepoel mobility.png",
     "The relationship between sleep and ambient temperature.jpg",
     "pancreatic duct.png",
-    "Amide-(tertiary).png",
-    "ambient and microclimate temperature during sleep.jpg",
     "sodium",
     "Untitled"
   ]
