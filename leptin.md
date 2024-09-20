@@ -1,0 +1,4 @@
+1. [[neuronal nitric oxide synthase|nitrergic]]/[[glutamate receptor|glutamatergic cells]] → leptin receptors (LepRb)
+	1. It seems highly likely that these nitrergic/glutamatergic cells also express leptin receptors (LepRb), as LepRb-expressing neurons in the [[median preoptic nucleus|MnPO area]] that cause body cooling when activated are glutamatergic
+	   
+	   Circulating leptin released from [[adipose tissue]] might inhibit the glutamatergic [[medial preoptic nucleus|MPO]]/MnPO cells and would consequently induce both wakefulness and body warming (Figure 6) and therefore increase [[metabolism|energy expenditure]]. Such a mechanism would put these glutamatergic MnPO cells at a nodal point of [[homeostasis|metabolic regulation]].^[[A Neuronal Hub Binding Sleep Initiation and Body Cooling in Response to a Warm External Stimulus - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6078908/)]
