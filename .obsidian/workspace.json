@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sleep deprivation",
+                "query": "immune",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -137,8 +137,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "8412e88b9e28c8ed",
   "lastOpenFiles": [
+    "stress.md",
+    "cortisol.md",
     "sleep deprivation.md",
     "meninges.md",
     "cerebrospinal fluid.md",
@@ -167,8 +169,6 @@
     "sleep.md",
     "microclimate.md",
     "parabrachial nuclei.md",
-    "preoptic area.md",
-    "monoamine neurotransmitter.md",
     "benzene orbital delocalization.png",
     "cobalt complex HCo(CO)4 with five ligands.png",
     "cisplatin.png",

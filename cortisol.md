@@ -1,4 +1,6 @@
 1. cortisol is released with a [[diurnal rhythm|diurnal cycle]] and its release is increased in response to [[stress]] and [[hypoglycemia|low blood-glucose]] concentration.^[https://en.wikipedia.org/wiki/Cortisol#cite_note-light-1]
 	1. levels are high on waking, surge an average of 50–60% in the 30–40 minutes after waking, drop rapidly in subsequent few hours after the awakening surge and then drop more slowly until reaching a nadir around bedtime (Pruessner et al., 1997; Adam and Kumari, 2009)^[Diurnal Cortisol Slopes and Mental and Physical Health Outcomes:A Systematic Review and Meta-analysis - PMC (nih.gov)]
 2. [[hypoglycemia]] → cortisol
-	1. cortisol is released and increases in response to stress and a low [[blood sugar level|blood-glucose concentration]]^[https://en.wikipedia.org/wiki/Cortisol]
+	1. cortisol is released and increases in response to [[stress]] and a low [[blood sugar level|blood-glucose concentration]]^[https://en.wikipedia.org/wiki/Cortisol]
+3. cortisol → gluconeogenesis
+	1. cortisol is released and increases in response to stress and a low blood-glucose concentration. It functions to increase blood sugar through [[gluconeogenesis]], suppress the [[immune system]], and aid in the [[metabolism]] of calories.^[https://en.wikipedia.org/wiki/Cortisol]
