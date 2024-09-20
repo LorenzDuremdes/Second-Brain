@@ -28,7 +28,7 @@
 
 # nutrition
 1. is "[[nutrient timing]] · composition" important for "active recovery"? + why^[https://youtu.be/tz7vvvnzU4w?t=420, TrainerRoad with Chad Timmerman]
-	1. can be, because e.g. insulin sensitivity increases (and e.g. allows for quicker [[glycogen]] replenishment)
+	1. can be, because e.g. [[insulin]] sensitivity increases (and e.g. allows for quicker [[glycogen]] replenishment)
 
 # possible mistakes
 1. should you skip "active recovery" if noticing that it impaired your recovery/next workout(s)? + what^[https://www.youtube.com/watch?v=tz7vvvnzU4w (13:00), TrainerRoad with Chad Timmerman]
