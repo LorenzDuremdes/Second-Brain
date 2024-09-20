@@ -1,0 +1,1 @@
+**redirect**: [[ventrolateral preoptic nucleus]]

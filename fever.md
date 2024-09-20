@@ -1,0 +1,4 @@
+1. fever → [[sleep]] (neuroscience)
+	1. for fever, it is proposed that [[prostaglandin D2]] activates cells in the [[meninges]] to release [[adenosine]], which in turn activates [[GABA receptor|GABAergic cells]] in the [[ventrolateral preoptic nucleus|ventral lateral preoptic nucleus]] to induce sleep
+	   
+	   and while GABAergic neurons in the preoptic area can induce [[NREM sleep]], including the GABAergic cells we have identified here (Figure 6), we emphasize that it is actually [[glutamate receptor|glutamatergic neurons]] in the [[median preoptic nucleus|MnPO area]] that are activated for NREM sleep induction, at least for inducing sleep in response to external warming.^[[A Neuronal Hub Binding Sleep Initiation and Body Cooling in Response to a Warm External Stimulus - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6078908/)]

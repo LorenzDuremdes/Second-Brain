@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "025025c7db6e325d",
+            "id": "ded45c4af16ca0cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leptin.md",
+                "file": "fever.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "leptin",
+                "query": "ventrolateral",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leptin.md",
+                "file": "fever.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leptin.md",
+                "file": "fever.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leptin.md"
+                "file": "fever.md"
               }
             }
           }
@@ -139,8 +138,12 @@
   },
   "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "sleep (neuroscience).md",
+    "ventral lateral preoptic nucleus.md",
+    "fever.md",
+    "meninges.md",
+    "prostaglandin D2.md",
     "leptin.md",
+    "sleep (neuroscience).md",
     "neuronal nitric oxide synthase.md",
     "respiratory failure.md",
     "carbon dioxide.md",
@@ -164,10 +167,6 @@
     "serotonin receptor.md",
     "clozapine.md",
     "Parkinson's disease.md",
-    "atypical antipsychotic.md",
-    "receptor activated solely by a synthetic ligand.md",
-    "G protein-coupled receptor.md",
-    "ligand (coordination chemistry).md",
     "cobalt complex HCo(CO)4 with five ligands.png",
     "cisplatin.png",
     "Remco Evenepoel mobility.png",
