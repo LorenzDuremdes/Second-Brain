@@ -1,0 +1,1 @@
+1. respiratory failure; results from inadequate gas exchange by the [[respiratory system]], meaning that the arterial oxygen, [[carbon dioxide]], or both cannot be kept at normal levels^[https://en.wikipedia.org/wiki/Respiratory_failure]

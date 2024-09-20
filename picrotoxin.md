@@ -1,0 +1,3 @@
+1. picrotoxin; due to its interactions with the inhibitory neurotransmitter [[GABA]], it acts as a [[stimulant]] and [[convulsant]]. It mainly impacts the [[central nervous system]], causing [[seizure|seizures]] and [[respiratory failure|respiratory paralysis]] in high enough doses.
+   
+   a poisonous crystalline plant compound. It was first isolated by the French pharmacist and chemist Pierre François Guillaume Boullay (1777–1869) in 1812. The name "picrotoxin" is a combination of the Greek words "picros" (bitter) and "toxicon" (poison). A mixture of two different compounds, picrotoxin occurs naturally in the fruit of the Anamirta cocculus plant, although it can also be synthesized chemically.^[https://en.wikipedia.org/wiki/Picrotoxin]
