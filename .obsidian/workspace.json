@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dawn phenomenon.md",
+                "file": "rice.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hypogl",
+                "query": "rice",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dawn phenomenon.md",
+                "file": "rice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dawn phenomenon.md",
+                "file": "rice.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dawn phenomenon.md"
+                "file": "rice.md"
               }
             }
           }
@@ -135,10 +136,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "51fbbfaf155022b6",
+  "active": "c4b3fb696343485e",
   "lastOpenFiles": [
-    "glucagon.md",
     "dawn phenomenon.md",
+    "glucagon.md",
     "insulin.md",
     "gastric inhibitory polypeptide.md",
     "electrooculography.md",
