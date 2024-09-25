@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cortico",
+                "query": "stevia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -135,7 +136,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "06b235f73a0834b4",
+  "active": "8412e88b9e28c8ed",
   "lastOpenFiles": [
     "hypothalamic–pituitary–gonadal axis.md",
     "oatmeal.md",
