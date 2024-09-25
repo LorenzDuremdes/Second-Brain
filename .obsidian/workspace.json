@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sympathoadrenal system.md",
+                "file": "hypothalamic–pituitary–gonadal axis.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adrenal",
+                "query": "cortico",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sympathoadrenal system.md",
+                "file": "hypothalamic–pituitary–gonadal axis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sympathoadrenal system.md",
+                "file": "hypothalamic–pituitary–gonadal axis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sympathoadrenal system.md"
+                "file": "hypothalamic–pituitary–gonadal axis.md"
               }
             }
           }
@@ -135,10 +136,18 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4c7c506bcb1fd0b8",
+  "active": "51fbbfaf155022b6",
   "lastOpenFiles": [
-    "adrenal medulla.md",
+    "adrenal cortex.md",
+    "hypothalamic–pituitary–gonadal axis.md",
+    "glucocorticoid.md",
+    "adrenocorticotropic hormone.md",
+    "endocrine gland.md",
+    "gonad.md",
+    "pituitary gland.md",
+    "corticotropin-releasing hormone.md",
     "sympathoadrenal system.md",
+    "adrenal medulla.md",
     "rice.md",
     "dawn phenomenon.md",
     "glucagon.md",
@@ -155,16 +164,8 @@
     "stress.md",
     "sleep deprivation.md",
     "meninges.md",
-    "cerebrospinal fluid.md",
-    "pia mater.md",
-    "arachnoid mater.md",
-    "dura mater.md",
-    "mammal.md",
     "The meninges dura mater, arachnoid mater and pia mater.png",
     "Image depicting meninges around the brain.jpg",
-    "fever.md",
-    "ventral lateral preoptic nucleus.md",
-    "prostaglandin D2.md",
     "Conceptual Circuit Model for How External Warming Induces and Links Sleep and Body Cooling.png",
     "Signal integration in the preoptic hypothalamus.jpg",
     "benzene orbital delocalization.png",
