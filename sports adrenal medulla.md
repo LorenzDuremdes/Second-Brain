@@ -1,1 +1,1 @@
-1. sports adrenal medulla; endurance trained athletes have a higher epinephrine secretion capacity compared to sedentary individuals^[https://pubmed.ncbi.nlm.nih.gov/9535578/]^[https://youtu.be/xuBsqTJcRqc?t=2930, Chad Timmerman (TrainerRoad)]
+1. sports [[adrenal medulla]]; endurance trained athletes have a higher epinephrine secretion capacity compared to sedentary individuals^[https://pubmed.ncbi.nlm.nih.gov/9535578/]^[https://youtu.be/xuBsqTJcRqc?t=2930, Chad Timmerman (TrainerRoad)]

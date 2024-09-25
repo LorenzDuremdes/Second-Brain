@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c4b3fb696343485e",
+            "id": "55736a01681080b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rice.md",
+                "file": "sympathoadrenal system.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rice",
+                "query": "adrenal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rice.md",
+                "file": "sympathoadrenal system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rice.md",
+                "file": "sympathoadrenal system.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -115,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rice.md"
+                "file": "sympathoadrenal system.md"
               }
             }
           }
@@ -136,8 +135,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c4b3fb696343485e",
+  "active": "4c7c506bcb1fd0b8",
   "lastOpenFiles": [
+    "adrenal medulla.md",
+    "sympathoadrenal system.md",
+    "rice.md",
     "dawn phenomenon.md",
     "glucagon.md",
     "insulin.md",
@@ -163,9 +165,6 @@
     "fever.md",
     "ventral lateral preoptic nucleus.md",
     "prostaglandin D2.md",
-    "leptin.md",
-    "sleep (neuroscience).md",
-    "neuronal nitric oxide synthase.md",
     "Conceptual Circuit Model for How External Warming Induces and Links Sleep and Body Cooling.png",
     "Signal integration in the preoptic hypothalamus.jpg",
     "benzene orbital delocalization.png",

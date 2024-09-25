@@ -1,0 +1,1 @@
+1. sympathoadrenal system; a physiological connection between the [[sympathetic nervous system]] and the [[adrenal medulla]] and is crucial in an organism's physiological response to outside stimuli^[https://en.wikipedia.org/wiki/Sympathoadrenal_system]
