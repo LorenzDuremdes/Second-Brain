@@ -43,3 +43,9 @@ The model is presented for an elite endurance athlete (e.g. road cyclist) who tr
 
 # related
 1. [[nutrient timing]]; this takes the periodization down to the level of hours and minutes^[[Understanding Nutrition Periodization (trainingpeaks.com)](https://www.trainingpeaks.com/blog/understanding-nutrition-periodization/)]
+
+# guides
+1. [Optimizing Bulking Diets To Facilitate Hypertrophy • Stronger by Science](https://www.strongerbyscience.com/bulking/) + [Bulking For Muscle Growth Is Dead (New Study Explained) - YouTube, Dr. Mike Israetel](https://www.youtube.com/watch?v=q1J3WGz_QJU) + [MENNO HENSELMANS: How to LEAN BULK: Calories, Macros, Meal Timing - YouTube](https://www.youtube.com/watch?v=r2QvEZfKEuw)
+	1. **personal**: moderate cutting (90%) based on TDEE when doing lots of endurance training (i.e. the more [[endurance training]], the bigger the deficit) followed by a very light -100 kcal below estimated [[resting metabolic rate|RMR]] → e.g. still allows for hard training and not disturbing [[sleep]] a lot
+	   
+	   moderate bulking based on a 'flat' 200 caloric surplus^[[Bulking For Muscle Growth Is Dead (New Study Explained) - YouTube](https://www.youtube.com/watch?v=q1J3WGz_QJU), Dr. Mike Israetel] or 105% TDEE^[[https://youtu.be/r2QvEZfKEuw?si=0GOJdX2BIwCzTMyq&t=420](https://youtu.be/r2QvEZfKEuw?si=0GOJdX2BIwCzTMyq&t=420), Menno Henselmans]
