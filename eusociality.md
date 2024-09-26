@@ -19,4 +19,4 @@
 1. why was "eusociality" seen as a paradox?
 	1. Prior to the [gene-centered view of evolution](https://en.wikipedia.org/wiki/Gene-centered_view_of_evolution), eusociality was seen as an apparent evolutionary paradox: if adaptive [[evolution]] unfolds by differential reproduction of individual organisms, how can individuals incapable of passing on their genes evolve and persist?
 2. why is "eusociality" and the "non-reproductive caste" not a paradox?
-	1. After the [[gene]]-centered view of evolution was developed in the mid 1970s, non-reproductive individuals were seen as an extended phenotype of the genes, which are the primary beneficiaries of natural selection.^[https://en.wikipedia.org/wiki/Eusociality#cite_note-52]
+	1. After the [[gene]]-centered view of evolution was developed in the mid 1970s, non-reproductive individuals were seen as an extended [[phenotype]] of the genes, which are the primary beneficiaries of natural selection.^[https://en.wikipedia.org/wiki/Eusociality#cite_note-52]

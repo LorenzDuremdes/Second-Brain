@@ -1,0 +1,1 @@
+1. endophenotype; a term used to separate behavioral symptoms into more stable [[phenotype|phenotypes]] with a clear [[gene|genetic]] connection^[https://en.wikipedia.org/wiki/Endophenotype]

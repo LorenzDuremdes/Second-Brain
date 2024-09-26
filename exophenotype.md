@@ -1,0 +1,1 @@
+1. exophenotype; (biology) a [[phenotype]] that is based on external appearance or behaviour^[https://en.wiktionary.org/wiki/exophenotype]

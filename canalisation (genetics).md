@@ -1,1 +1,1 @@
-1. canalisation (genetics); a measure of the ability of a population to produce the same phenotype regardless of variability of its environment or [[genotype]]^[https://en.wikipedia.org/wiki/Canalisation_(genetics)]
+1. canalisation (genetics); a measure of the ability of a population to produce the same [[phenotype]] regardless of variability of its environment or [[genotype]]^[https://en.wikipedia.org/wiki/Canalisation_(genetics)]
