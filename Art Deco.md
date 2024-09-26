@@ -1,0 +1,6 @@
+1. why is there still 'a lot left to explore' with Art Deco style?
+	1. it was cut short due to World War II and the Great Depression^[[Art Deco - Wikipedia](https://en.wikipedia.org/wiki/Art_Deco)]^[[The Revival of Art Deco (novatr.com)](https://www.novatr.com/blog/art-deco-revival/)]^[[Can Art Deco Revivalism be the architecture of the future? : r/architecture (reddit.com)](https://www.reddit.com/r/architecture/comments/18twwpz/can_art_deco_revivalism_be_the_architecture_of/)]
+	   
+	   During its heyday, Art Deco represented luxury, glamour, exuberance, and faith in social and technological progress. The movement featured rare and expensive materials, such as ebony and ivory, and exquisite craftsmanship. It also introduced new materials such as chrome plating, stainless steel and plastic.
+	   
+	   In the 1930s, during the Great Depression, Art Deco gradually became more subdued. A sleeker form of the style, called Streamline Moderne, appeared in the 1930s, featuring curving forms and smooth, polished surfaces. Art Deco was a truly international style, but its dominance ended with the beginning of World War II and the rise of the strictly functional and unadorned styles of modern architecture and the International Style of architecture that followed.^[https://en.wikipedia.org/wiki/Art_Deco]
