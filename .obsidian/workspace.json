@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0512e08301101a90",
+            "id": "b24983f1c54a7af4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Art Deco.md",
+                "file": "compound (linguistics).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Art Deco.md",
+                "file": "compound (linguistics).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Art Deco.md",
+                "file": "compound (linguistics).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,11 +114,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Art Deco.md"
+                "file": "compound (linguistics).md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -135,10 +136,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "51fbbfaf155022b6",
+  "active": "b24983f1c54a7af4",
   "lastOpenFiles": [
-    "cycling memes.md",
     "Art Deco.md",
+    "compound (linguistics).md",
+    "cycling memes.md",
     "Lekker op de fiets r_NederlandseMemes.jpeg",
     "exophenotype.md",
     "endophenotype.md",
@@ -163,7 +165,6 @@
     "glucagon.md",
     "insulin.md",
     "gastric inhibitory polypeptide.md",
-    "electrooculography.md",
     "The meninges dura mater, arachnoid mater and pia mater.png",
     "Image depicting meninges around the brain.jpg",
     "Conceptual Circuit Model for How External Warming Induces and Links Sleep and Body Cooling.png",

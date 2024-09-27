@@ -1,0 +1,3 @@
+1. compound ([[linguistics]]); a lexeme (less precisely, a word or sign) that consists of more than one stem
+   
+   If they are joined without an intervening space, it is a closed compound (e.g., footpath, blackbird). If they are joined with a space (e.g. school bus, high school, lowest common denominator), then the result – at least in English[1] – may be an open compound.^[https://en.wikipedia.org/wiki/Compound_(linguistics)]
