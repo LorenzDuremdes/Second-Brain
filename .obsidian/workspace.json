@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "compound (linguistics).md",
+                "file": "exposure and response prevention.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "art deco",
+                "query": "exposure and respon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "compound (linguistics).md",
+                "file": "exposure and response prevention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "compound (linguistics).md",
+                "file": "exposure and response prevention.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "compound (linguistics).md"
+                "file": "exposure and response prevention.md"
               }
             }
           }
@@ -136,10 +137,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b24983f1c54a7af4",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "Art Deco.md",
     "compound (linguistics).md",
+    "Art Deco.md",
     "cycling memes.md",
     "Lekker op de fiets r_NederlandseMemes.jpeg",
     "exophenotype.md",
