@@ -1,3 +1,4 @@
+[HiFi: The Devialet Phantom GOLD Speakers. Full Stereo Pair Review. | Steve Huff Hi-Fi and Photo (stevehuffphoto.com)](https://www.stevehuffphoto.com/2016/12/01/hifi-the-devialet-phantom-gold-speakers-full-stereo-pair-review/) ![[Gold Phantom Extreme Engineering.png]]
 # Phantom II
 1. [SONOS 5.1 vs DEVIALET PHANTOM GOLD STEREO](https://www.youtube.com/watch?v=W9PVwa8-Q7E)
 3. [Phantom Tutorials - Positioning](https://www.youtube.com/watch?v=PxTPySvQBLo)
