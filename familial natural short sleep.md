@@ -1,0 +1,1 @@
+1. very short sleepers (<5 h) ingested significantly less [[zinc]] than did normal or long sleepers^[[Dietary Zinc Acts as a Sleep Modulator - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5713303/)]
