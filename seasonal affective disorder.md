@@ -1,2 +1,2 @@
 1. light seems to have therapeutic [[antidepressant]] effects when an [[organism]] is exposed to it at appropriate times during the [[circadian rhythm]], regulating the [[sleep]]-wake cycle^[https://en.wikipedia.org/wiki/Light_effects_on_circadian_rhythm#cite_note-Stephenson_2012-10]^[https://en.wikipedia.org/wiki/Light_effects_on_circadian_rhythm#cite_note-LeGates_2014-8]
-	1. what about other Zeitgeber e.g. [[melatonin]]?
+	1. what about other [[Zeitgeber]] e.g. [[melatonin]]?

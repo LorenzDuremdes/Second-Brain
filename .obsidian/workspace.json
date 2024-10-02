@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "primary insomnia.md",
+                "file": "zinc.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "magnesium",
+                "query": "zinc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "primary insomnia.md",
+                "file": "zeitgeber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "primary insomnia.md",
+                "file": "zeitgeber.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -115,11 +115,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "primary insomnia.md"
+                "file": "zeitgeber.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -136,10 +137,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "51fbbfaf155022b6",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "magnesium.md",
+    "zinc.md",
+    "zeitgeber.md",
     "primary insomnia.md",
+    "magnesium.md",
     "insomnia.md",
     "familial natural short sleep.md",
     "gluzinergic neuron.md",
@@ -159,13 +162,11 @@
     "tuber cinereum.md",
     "nucleus (neuroanatomy.md",
     "mesal aspect of a brain sectioned in the median sagittal plane.png",
-    "zinc.md",
     "Devialet.md",
     "Gold Phantom Extreme Engineering.png",
     "sleep hygiene.md",
     "exposure and response prevention.md",
     "compound (linguistics).md",
-    "Art Deco.md",
     "Lekker op de fiets r_NederlandseMemes.jpeg",
     "The meninges dura mater, arachnoid mater and pia mater.png",
     "Image depicting meninges around the brain.jpg",
