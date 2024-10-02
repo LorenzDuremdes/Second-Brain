@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82cad7e183eac637",
+            "id": "36e9c00a7b3f5464",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "amyloid plaques.md",
+                "file": "zinc transporter SLC39A7.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "amyloid plaques.md",
+                "file": "zinc transporter SLC39A7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "amyloid plaques.md",
+                "file": "zinc transporter SLC39A7.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "amyloid plaques.md"
+                "file": "zinc transporter SLC39A7.md"
               }
             }
           }
@@ -135,11 +135,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "82cad7e183eac637",
+  "active": "36e9c00a7b3f5464",
   "lastOpenFiles": [
+    "Golgi apparatus.md",
+    "zinc transporter SLC39A7.md",
+    "endoplasmic reticulum.md",
+    "zinc transporter protein.md",
+    "amyloid plaques.md",
     "Alzheimer’s disease.md",
     "Alzheimer's disease.md",
-    "amyloid plaques.md",
     "parafacial zone.md",
     "glutamate (neurotransmitter).md",
     "tuberomammillary nucleus.md",
@@ -162,10 +166,6 @@
     "phenotype.md",
     "nutrition periodization.md",
     "cutting (diet).md",
-    "resting metabolic rate.md",
-    "endurance training.md",
-    "oatmeal.md",
-    "hypothalamic–pituitary–gonadal axis.md",
     "The meninges dura mater, arachnoid mater and pia mater.png",
     "Image depicting meninges around the brain.jpg",
     "Conceptual Circuit Model for How External Warming Induces and Links Sleep and Body Cooling.png",
