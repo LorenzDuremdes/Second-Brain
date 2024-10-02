@@ -1,0 +1,1 @@
+1. [[protein]] folding; the physical process by which a protein, after synthesis by a [[ribosome]] as a linear chain of [[amino acid|amino acids]], changes from an unstable random coil into a more ordered three-dimensional structure. This structure permits the protein to become biologically functional.^[https://en.wikipedia.org/wiki/Protein_folding]

@@ -1,0 +1,1 @@
+1. endoplasmic reticulum; a part of a transportation system of the [[eukaryote|eukaryotic]] [[cell]], and has many other important functions such as [[protein folding]]^[https://en.wikipedia.org/wiki/Endoplasmic_reticulum]

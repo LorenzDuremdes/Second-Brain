@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "36e9c00a7b3f5464",
+            "id": "bae2b8bd78fc660f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zinc transporter SLC39A7.md",
+                "file": "protein folding.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zinc transporter SLC39A7.md",
+                "file": "protein folding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zinc transporter SLC39A7.md",
+                "file": "protein folding.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zinc transporter SLC39A7.md"
+                "file": "protein folding.md"
               }
             }
           }
@@ -135,12 +135,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "36e9c00a7b3f5464",
+  "active": "bae2b8bd78fc660f",
   "lastOpenFiles": [
+    "endoplasmic reticulum.md",
+    "protein folding.md",
+    "zinc transporter protein.md",
     "Golgi apparatus.md",
     "zinc transporter SLC39A7.md",
-    "endoplasmic reticulum.md",
-    "zinc transporter protein.md",
+    "Untitled 1.md",
     "amyloid plaques.md",
     "Alzheimer’s disease.md",
     "Alzheimer's disease.md",
@@ -164,8 +166,6 @@
     "exophenotype.md",
     "endophenotype.md",
     "phenotype.md",
-    "nutrition periodization.md",
-    "cutting (diet).md",
     "The meninges dura mater, arachnoid mater and pia mater.png",
     "Image depicting meninges around the brain.jpg",
     "Conceptual Circuit Model for How External Warming Induces and Links Sleep and Body Cooling.png",
