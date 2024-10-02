@@ -1,0 +1,2 @@
+1. amyloid plaques · [[zinc]]
+	1. some [[Alzheimer’s disease]] patients exhibit a systemic deficiency in zinc, however, it has also been proven that amyloid plaques are highly enriched in zinc. It is possible that the amyloid plaques immobilize the pool of zinc in the [[brain]] and therefore reduce the bioavailability into the [[neuron|neurons]].^[[Dietary Zinc Acts as a Sleep Modulator - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5713303/)]

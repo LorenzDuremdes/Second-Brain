@@ -1,0 +1,1 @@
+**redirect**: [[Alzheimer's disease]]
