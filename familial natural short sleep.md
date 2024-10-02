@@ -1,1 +1,3 @@
-1. very short sleepers (<5 h) ingested significantly less [[zinc]] than did normal or long sleepers^[[Dietary Zinc Acts as a Sleep Modulator - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5713303/)]
+1. very short sleepers (<5 h) ingested significantly less [[zinc]] than did normal or long sleepers
+   
+   the highest concentration of serum zinc was found in subjects sleeping a “normal” amount of 7 to 9 h per night (1.337–1.442 mg/L), compared to short (<7 h) and long (>9 h) sleepers (0.789–0.934 mg/L)^[[Dietary Zinc Acts as a Sleep Modulator - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5713303/)]
