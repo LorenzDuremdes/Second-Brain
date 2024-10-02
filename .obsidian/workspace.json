@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "familial natural short sleep.md",
+                "file": "primary insomnia.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "familial",
+                "query": "magnesium",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "familial natural short sleep.md",
+                "file": "primary insomnia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "familial natural short sleep.md",
+                "file": "primary insomnia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "familial natural short sleep.md"
+                "file": "primary insomnia.md"
               }
             }
           }
@@ -135,10 +136,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "456242eaa0a54f5b",
+  "active": "51fbbfaf155022b6",
   "lastOpenFiles": [
-    "gluzinergic neuron.md",
+    "magnesium.md",
+    "primary insomnia.md",
+    "insomnia.md",
     "familial natural short sleep.md",
+    "gluzinergic neuron.md",
     "protein folding.md",
     "endoplasmic reticulum.md",
     "zinc transporter protein.md",
@@ -162,10 +166,7 @@
     "exposure and response prevention.md",
     "compound (linguistics).md",
     "Art Deco.md",
-    "cycling memes.md",
     "Lekker op de fiets r_NederlandseMemes.jpeg",
-    "exophenotype.md",
-    "endophenotype.md",
     "The meninges dura mater, arachnoid mater and pia mater.png",
     "Image depicting meninges around the brain.jpg",
     "Conceptual Circuit Model for How External Warming Induces and Links Sleep and Body Cooling.png",
