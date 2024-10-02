@@ -1,1 +1,1 @@
-1. brass; an alloy of copper and zinc, in proportions which can be varied to achieve varying mechanical, electrical, and chemical properties.^[https://en.wikipedia.org/wiki/Brass#cite_note-1]
+1. brass; an alloy of copper and [[zinc]], in proportions which can be varied to achieve varying mechanical, electrical, and chemical properties.^[https://en.wikipedia.org/wiki/Brass#cite_note-1]
