@@ -1,0 +1,1 @@
+1. [[zinc]] has its own receptor called [[G protein-coupled receptor|G protein-coupled receptor]] 39 (GPR39)^[[Dietary Zinc Acts as a Sleep Modulator - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5713303/)]
