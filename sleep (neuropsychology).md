@@ -1,0 +1,2 @@
+# [[psychological stress]]
+1. sleep quality seems to play a more important role in stress reactivity than sleep quantity^[[Sleep deprivation and stress: a reciprocal relationship - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7202382/)]
