@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "456242eaa0a54f5b",
+            "id": "4fc4c1118759977b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zinc.md",
+                "file": "glycine.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zinc.md",
+                "file": "glycine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zinc.md",
+                "file": "glycine.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zinc.md"
+                "file": "glycine.md"
               }
             }
           }
@@ -135,10 +135,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4c7c506bcb1fd0b8",
+  "active": "51fbbfaf155022b6",
   "lastOpenFiles": [
-    "glutamatergic neuron.md",
+    "retina.md",
+    "glycine.md",
     "zinc.md",
+    "glutamatergic neuron.md",
     "nutrition.md",
     "zeitgeber.md",
     "primary insomnia.md",
@@ -162,9 +164,7 @@
     "tuber cinereum.md",
     "nucleus (neuroanatomy.md",
     "mesal aspect of a brain sectioned in the median sagittal plane.png",
-    "Devialet.md",
     "Gold Phantom Extreme Engineering.png",
-    "sleep hygiene.md",
     "Lekker op de fiets r_NederlandseMemes.jpeg",
     "The meninges dura mater, arachnoid mater and pia mater.png",
     "Image depicting meninges around the brain.jpg",

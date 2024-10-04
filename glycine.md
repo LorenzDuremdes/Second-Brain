@@ -1,0 +1,1 @@
+1. glycine; an inhibitory [[neurotransmitter]] in the [[central nervous system]], especially in the [[spinal cord]], [[brainstem]], and [[retina]]^[https://en.wikipedia.org/wiki/Glycine#As_a_neurotransmitter]
