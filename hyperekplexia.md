@@ -1,0 +1,1 @@
+1. hyperekplexia; a very rare [[neurologic disorder]], classically characterised by a pronounced [[startle response]] to tactile or acoustic stimuli and an ensuing period of [[hypertonia]]^[https://en.wikipedia.org/wiki/Hyperekplexia]

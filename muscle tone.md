@@ -1,0 +1,1 @@
+1. muscle tone; the continuous and passive partial contraction of the [[muscle|muscles]], or the muscle's resistance to passive stretch during resting state.^[https://en.wikipedia.org/wiki/Muscle_tone]

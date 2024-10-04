@@ -1,0 +1,1 @@
+1. muscle spindle; stretch receptors within the body of a [[skeletal muscle]] that primarily detect changes in the length of the muscle^[https://en.wikipedia.org/wiki/Muscle_spindle]
