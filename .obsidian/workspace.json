@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4fc4c1118759977b",
+            "id": "f176dfb19c036f15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "glycine.md",
+                "file": "glycine receptor.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "glycine.md",
+                "file": "glycine receptor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "glycine.md",
+                "file": "glycine receptor.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "glycine.md"
+                "file": "glycine receptor.md"
               }
             }
           }
@@ -135,10 +135,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "51fbbfaf155022b6",
+  "active": "f176dfb19c036f15",
   "lastOpenFiles": [
-    "retina.md",
     "glycine.md",
+    "glycine receptor.md",
+    "retina.md",
     "zinc.md",
     "glutamatergic neuron.md",
     "nutrition.md",
@@ -162,7 +163,6 @@
     "learning.md",
     "histaminergic neuron.md",
     "tuber cinereum.md",
-    "nucleus (neuroanatomy.md",
     "mesal aspect of a brain sectioned in the median sagittal plane.png",
     "Gold Phantom Extreme Engineering.png",
     "Lekker op de fiets r_NederlandseMemes.jpeg",

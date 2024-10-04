@@ -1,0 +1,2 @@
+1. [[zinc]] → [[glycine|glycinergic]] receptors
+	1. The glycinergic receptor (GlyR) exhibits an atypical reaction in the presence of zinc. First, the synaptic activity of the α1β GlyR isoform is increased in vitro even in the presence of a very low concentration of zinc (10 nM–1 µM). However, at a higher concentration (3–300 µM), zinc exhibits a dose-dependent inhibition of GlyR excitability.^[[Dietary Zinc Acts as a Sleep Modulator - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5713303/)]
