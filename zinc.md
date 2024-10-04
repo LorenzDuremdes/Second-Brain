@@ -1,3 +1,6 @@
+# [[neuroscience]]
+1. Zn2+ exists predominantly in the presynaptic vesicles of [[glutamatergic neuron|glutamatergic neurons]] to be co-released with [[glutamate (neurotransmitter)|glutamate]]^[[Dietary Zinc Acts as a Sleep Modulator - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5713303/)]
+
 # [[nutrition]]
 ## [[sleep]]
 1. zinc → sleep

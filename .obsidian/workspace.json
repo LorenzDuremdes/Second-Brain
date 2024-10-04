@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zinc",
+                "query": "glutamate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,8 +118,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -137,9 +135,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "4c7c506bcb1fd0b8",
   "lastOpenFiles": [
+    "glutamatergic neuron.md",
     "zinc.md",
+    "nutrition.md",
     "zeitgeber.md",
     "primary insomnia.md",
     "magnesium.md",
@@ -165,8 +165,6 @@
     "Devialet.md",
     "Gold Phantom Extreme Engineering.png",
     "sleep hygiene.md",
-    "exposure and response prevention.md",
-    "compound (linguistics).md",
     "Lekker op de fiets r_NederlandseMemes.jpeg",
     "The meninges dura mater, arachnoid mater and pia mater.png",
     "Image depicting meninges around the brain.jpg",
