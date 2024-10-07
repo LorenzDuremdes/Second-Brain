@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "insomnia.md",
+                "file": "indoor air quality.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "insomnia.md",
+                "file": "indoor air quality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "insomnia.md",
+                "file": "indoor air quality.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "insomnia.md"
+                "file": "indoor air quality.md"
               }
             }
           }
@@ -138,9 +138,10 @@
   },
   "active": "8d212491bf0541f0",
   "lastOpenFiles": [
-    "Positive and Negative Affect Schedule.md",
-    "insomnia.md",
+    "air purifier.md",
     "indoor air quality.md",
+    "insomnia.md",
+    "Positive and Negative Affect Schedule.md",
     "attentional control.md",
     "sleep.md",
     "sleep (neuroscience).md",
@@ -163,7 +164,6 @@
     "glutamatergic neuron.md",
     "nutrition.md",
     "zeitgeber.md",
-    "primary insomnia.md",
     "mesal aspect of a brain sectioned in the median sagittal plane.png",
     "Gold Phantom Extreme Engineering.png",
     "Lekker op de fiets r_NederlandseMemes.jpeg",
