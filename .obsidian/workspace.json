@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indoor air quality.md",
+                "file": "insomnia.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sleep",
+                "query": "insomnia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "indoor air quality.md",
+                "file": "insomnia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "indoor air quality.md",
+                "file": "insomnia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,11 +115,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "indoor air quality.md"
+                "file": "insomnia.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -135,10 +137,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "51fbbfaf155022b6",
+  "active": "064dd5af93373ca8",
   "lastOpenFiles": [
-    "attentional control.md",
     "indoor air quality.md",
+    "attentional control.md",
     "sleep.md",
     "sleep (neuroscience).md",
     "Lovecraftian horror.md",

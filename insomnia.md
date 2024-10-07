@@ -11,5 +11,8 @@
    
    In all mammals, [[sleep]] appears to be indispensable and coincides with a conserved circadian [[temperature]] rhythm. When our core and [[brain]] temperatures are in rapid decline we are most likely to choose to [[sleep]], and if we dissociate from this cycle of body cooling we experience insomnia ([Hayward, 1968](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6491889/#B56); [Campbell and Broughton, 1994](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6491889/#B18); [Lack et al., 2008](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6491889/#B75)).^[[The Temperature Dependence of Sleep - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6491889/)]
 
+# tests
+1. [The Insomnia Severity Index: Psychometric Indicators to Detect Insomnia Cases and Evaluate Treatment Response - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3079939/)
+
 # related
 1. [[sleep]]
