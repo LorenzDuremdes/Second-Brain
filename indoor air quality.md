@@ -1,0 +1,7 @@
+# [[sleep]]
+1. studies by Tynjälä et al. (1999) and Meijer et al. (2000) among children in Finland and Holland, respectively, showed a strong correlation between [[sleep quality]] and the ability to [[attentional control|concentrate]] the next day
+   
+   In laboratory experiments in which a small flow of outdoor air was supplied directly to the breathing zone (personal ventilation), Lan et al. (2013) found that this reduced the [[sleep onset latency|time it took elderly subjects to fall asleep]], and Zhou et al. (2014) found that [[heart rate variability|heart-rate variability]] during sleep was reduced, from which they concluded that subjects slept more soundly.^[[The effects of bedroom air quality on sleep and next‐day performance - Strøm‐Tejsen - 2016 - Indoor Air - Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1111/ina.12254)]
+
+## [[air purifier]]
+1. the purifier filter was associated with increased [[total sleep time]] for an average of 12 min per night, and increased total [[time in bed]] for an average of 19 min per night relative to the placebo^[[Can air purification improve sleep quality? A 2‐week randomised‐controlled crossover pilot study in healthy adults - Lamport - 2023 - Journal of Sleep Research - Wiley Online Library](https://onlinelibrary.wiley.com/doi/full/10.1111/jsr.13782)]
