@@ -1,0 +1,1 @@
+1. Positive and Negative Affect Schedule (PANAS); a self-report questionnaire that consists of two 10-item scales to measure both positive and negative affect^[https://en.wikipedia.org/wiki/Positive_and_Negative_Affect_Schedule]
