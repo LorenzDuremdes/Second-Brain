@@ -13,6 +13,7 @@
 
 # tests
 1. [The Insomnia Severity Index: Psychometric Indicators to Detect Insomnia Cases and Evaluate Treatment Response - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3079939/)
+2. [Pittsburgh Sleep Quality Index - Wikipedia](https://en.wikipedia.org/wiki/Pittsburgh_Sleep_Quality_Index)
 
 # related
 1. [[sleep]]
