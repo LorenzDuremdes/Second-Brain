@@ -1,8 +1,9 @@
 # related
 1. [[sleep (neuroscience)]]
-2. [[phase response curve]]
+2. [[indoor air quality]] > sleep
+3. [[phase response curve]]
 
-3. how does sleep remove toxic waste?
+4. how does sleep remove toxic waste?
 	1. via the [[glymphatic system]] and [[cerebrospinal fluid]], mostly active during deep [[NREM sleep]] together with its sleep spindles as well as the shrinking of neurons by 60%
 
 # improving sleep

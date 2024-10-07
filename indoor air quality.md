@@ -1,0 +1,2 @@
+# [[sleep]]
+1. studies by Tynjälä et al. (1999) and Meijer et al. (2000) among children in Finland and Holland, respectively, showed a strong correlation between [[sleep quality]] and the ability to [[attentional control|concentrate]] the next day^[[The effects of bedroom air quality on sleep and next‐day performance - Strøm‐Tejsen - 2016 - Indoor Air - Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1111/ina.12254)]
