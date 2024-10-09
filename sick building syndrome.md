@@ -1,0 +1,1 @@
+1. sick building [[syndrome]]; a condition in which people develop symptoms of [[disease|illness]] or become infected with [[chronic condition|chronic disease]] from the building in which they work or reside.^[https://en.wikipedia.org/wiki/Sick_building_syndrome]
