@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "indoor air quality.md",
+                "file": "sleep.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sleep",
+                "query": "temperature sleep",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "indoor air quality.md",
+                "file": "sleep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "indoor air quality.md",
+                "file": "sleep.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -114,11 +115,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "indoor air quality.md"
+                "file": "sleep.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -137,6 +139,7 @@
   },
   "active": "5c708990301a8138",
   "lastOpenFiles": [
+    "indoor air quality.md",
     "Warframe.md",
     "Lovecraftian horror.md",
     "sleep (neuropsychology).md",
@@ -162,7 +165,6 @@
     "magnesium.md",
     "insomnia.md",
     "familial natural short sleep.md",
-    "gluzinergic neuron.md",
     "mesal aspect of a brain sectioned in the median sagittal plane.png",
     "Gold Phantom Extreme Engineering.png",
     "Lekker op de fiets r_NederlandseMemes.jpeg",

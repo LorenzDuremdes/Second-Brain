@@ -109,6 +109,7 @@
    
    Not only do different people have various sleeping [[temperature]] needs, but each person may themselves have a range of [ideal sleeping temperatures](https://www.tandfonline.com/doi/abs/10.1080/00140137308924552). Temperatures further outside a person’s ideal range result in increased discomfort and more interrupted sleep, making it crucial for each individual to find the right temperatures to achieve the best sleep possible.^[[Sleep Myth Debunked: The 68° Sleeping Temperature (eightsleep.com)](https://www.eightsleep.com/blog/temperature-sleep-myth-debunked)]
 2. the earlier you fall asleep before you hit minimum [[temperature]], the longer you sleep.^[[Sleep Myth Debunked: The 68° Sleeping Temperature (eightsleep.com)](https://www.eightsleep.com/blog/temperature-sleep-myth-debunked)]^[[The dependence of onset and duration of sleep on the circadian rhythm of rectal temperature | Pflügers Archiv - European Journal of Physiology (springer.com)](https://link.springer.com/article/10.1007/BF00581514)]
+3. The results showed that neutral temperature for waking state (before sleep) was estimated to be 23.8°C while for sleep state it was 26.5°C. Furthermore, pre-sleep thermal sensation vote was found to be positively correlated with deep sleep percentage.^[[Associations of bedroom air temperature and CO2 concentration with subjective perceptions and sleep quality during transition seasons - Zhang - 2021 - Indoor Air - Wiley Online Library](https://sci-hub.se/https://onlinelibrary.wiley.com/doi/full/10.1111/ina.12809)]
 
 ## [[food]]
 ### pre-bedtime
