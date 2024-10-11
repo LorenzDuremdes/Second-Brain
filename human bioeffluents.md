@@ -1,0 +1,1 @@
+1. [[human]] bioeffluents; [[metabolism|metabolic]] emissions from humans^[[Effects of a gas-phase air cleaner in removing human bioeffluents and improving perceived air quality](https://www.sciencedirect.com/science/article/pii/S0360132324003822)]^[[Human bioeffluents (AIVC)](https://www.aivc.org/keywords/human-bioeffluents)]
