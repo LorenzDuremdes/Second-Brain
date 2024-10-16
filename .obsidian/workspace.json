@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "truthear",
+                "query": "frequency response",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -138,8 +138,9 @@
   },
   "active": "96517b569eff86a4",
   "lastOpenFiles": [
-    "head-related transfer function.md",
+    "frequency response.md",
     "TRUTHEAR.md",
+    "head-related transfer function.md",
     "chilblains.md",
     "topsport.md",
     "human bioeffluents.md",
@@ -163,7 +164,6 @@
     "neurologic disorder.md",
     "glycine receptor.md",
     "glycine.md",
-    "retina.md",
     "mesal aspect of a brain sectioned in the median sagittal plane.png",
     "Gold Phantom Extreme Engineering.png",
     "Lekker op de fiets r_NederlandseMemes.jpeg",
