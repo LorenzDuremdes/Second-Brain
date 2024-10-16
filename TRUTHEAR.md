@@ -1,0 +1,3 @@
+# NOVA
+1. NOVA has slightly less bass gain than [[Harman curve|HARMAN IE 2019 curve]] and is close to the high-frequency amplitude response of HARMAN OE 2013 with high [[head-related transfer function|HRTF]] characteristics, which results in a warm, soft, clear and natural sound thanks to the brand-new overall system design of lowering the Q value.^[[TRUTHEAR NOVA In-ear Monitor](https://truthear.com/products/nova)]
+2. This is a hybrid set using dynamic and balanced armature drivers aiming to give you a great reproduction of the [[Harman target]] for a reasonable price.^[[Truthear NOVA In-Ear Monitors Review - Harman Fans Rejoice! | TechPowerUp](https://www.techpowerup.com/review/truthear-nova-in-ear-monitors/)]
