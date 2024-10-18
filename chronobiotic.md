@@ -1,0 +1,1 @@
+1. chronobiotic; an agent that can cause phase adjustment of the [[circadian rhythm]] (biological body clock) e.g. [[melatonin]]^[https://en.wikipedia.org/wiki/Chronobiotic]
