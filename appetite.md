@@ -14,6 +14,10 @@
 4. psyllium^[https://www.healthline.com/nutrition/fiber-and-belly-fat]
    
    The fiber you're talking about really helped me. Especially at night time when i couldn't sleep cause i was hungry but i knew i didnt need to eat . It was like a mental thing that if i didn't eat, I didnt sleep. Took a couple before bed to make my tummy stop rumbling and feeling "empty". It really helped me stop eating outside of meal time. It makes you feel full or like youve eaten a snack and its gotten easier to ignore the "empty" feeling in my stomach. ^[https://www.reddit.com/r/loseit/comments/131nkam/thoughts_on_dietary_fiber_supplements_for_weight/]
+5. some physical activity e.g. 5m light walking
+	1. Refined carbs are digested quickly and converted into glucose, which could lead to rapid spikes in your blood sugar. This leads to increased levels of insulin, a hormone responsible for transporting sugar into your cells.
+	   
+	   Insulin removes sugar from your blood, which may lead to a sudden drop in blood sugar levels. This signals your body that it needs more food.^[[14 Reasons Why You’re Always Hungry, healthline](https://www.healthline.com/nutrition/14-reasons-always-hungry#refined-carbs)]
 
 # related
 1. [[anorectic]]
