@@ -1,0 +1,1 @@
+1. The [[obesity]] epidemic emerged in Westernized countries during the 1980s. Our best evidence is that this major event started a few years earlier in the USA, namely in 1976–1980^[[The Origins of the Obesity Epidemic in the USA–Lessons for Today](https://pmc.ncbi.nlm.nih.gov/articles/PMC9611578/)]
