@@ -1,0 +1,1 @@
+1. evolutionary mismatch; the [[evolutionary biology]] concept that a previously advantageous trait may become maladaptive due to change in the environment, especially when change is rapid^[https://en.wikipedia.org/wiki/Evolutionary_mismatch]
