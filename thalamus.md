@@ -1,0 +1,2 @@
+# function
+1. the [[cortex]] doesn’t just send inputs to the [[basal ganglia]]—it also receives input back, just like the [[lamprey]] [[pallium (neuroanatomy)|pallium]]. These connections are relayed to the cortex using the thalamus as an intermediary.^[The Hungry Brain (Stephan J. Guyenet, Ph.D.), p. 38]

@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5159efc4e4156245",
+            "id": "ff3a6cff6bd80d0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cafetaria diet.md",
+                "file": "basal ganglia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cafetaria diet"
+              "title": "basal ganglia"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "epidemio",
+                "query": "basal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cafetaria diet.md",
+                "file": "basal ganglia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cafetaria diet"
+              "title": "Backlinks for basal ganglia"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cafetaria diet.md",
+                "file": "basal ganglia.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from cafetaria diet"
+              "title": "Outgoing links from basal ganglia"
             }
           },
           {
@@ -150,11 +151,20 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5159efc4e4156245",
+  "active": "ff3a6cff6bd80d0a",
   "lastOpenFiles": [
+    "cocaine.md",
+    "basal ganglia.md",
+    "neurochemistry.md",
+    "Parkinson's disease.md",
+    "dorsal striatum.md",
+    "substantia nigra.md",
+    "thalamus.md",
+    "lamprey.md",
+    "chemotaxis.md",
+    "cafetaria diet.md",
     "epidemiology of obesity.md",
     "obesity.md",
-    "cafetaria diet.md",
     "Neolithic Revolution.md",
     "Holocene.md",
     "evolutionary mismatch.md",
@@ -169,15 +179,6 @@
     "chilblains.md",
     "topsport.md",
     "human bioeffluents.md",
-    "sick building syndrome.md",
-    "chronic condition.md",
-    "sleep.md",
-    "indoor air quality.md",
-    "Warframe.md",
-    "Lovecraftian horror.md",
-    "sleep (neuropsychology).md",
-    "sleep (neuroscience).md",
-    "G protein-coupled receptor 39.md",
     "mesal aspect of a brain sectioned in the median sagittal plane.png",
     "Gold Phantom Extreme Engineering.png",
     "Lekker op de fiets r_NederlandseMemes.jpeg",

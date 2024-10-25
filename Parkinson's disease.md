@@ -1,0 +1,2 @@
+# [[neurophysiology]]
+1. results from the progressive loss of cells in a part of the [[basal ganglia]] called the [[substantia nigra]]. These cells send connections to the [[dorsal striatum]], where they produce [[dopamine]], a chemical messenger that plays a very important role in the function of the [[corpus striatum]|striatum]^[The Hungry Brain (Stephan J. Guyenet, Ph.D.), p. 44]

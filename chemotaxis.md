@@ -1,0 +1,1 @@
+1. chemotaxis; the movement of an [[organism]] or entity in response to a chemical stimulus^[https://en.wikipedia.org/wiki/Chemotaxis]
