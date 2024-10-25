@@ -1,1 +1,2 @@
 1. dopamine used as precursor in the synthesis of the neurotransmitters [[norepinephrine]] and [[epinephrine]].^[https://en.wikipedia.org/wiki/Dopamine#cite_note-Musacchio-26]
+2. [[Pleasure]] is more related to a class of chemicals called [[endorphins]] that are often released in the striatum simultaneously with dopamine, although these are probably only one component of the experience of pleasure. Dopamine is the “[[learning]] chemical” rather than the “pleasure chemical.”^[The Hungry Brain (Stephan J. Guyenet, Ph.D.), p. 55]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basal ganglia.md",
+                "file": "palatability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "basal ganglia"
+              "title": "palatability"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "basal",
+                "query": "palatability",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "basal ganglia.md",
+                "file": "palatability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for basal ganglia"
+              "title": "Backlinks for palatability"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "basal ganglia.md",
+                "file": "palatability.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from basal ganglia"
+              "title": "Outgoing links from palatability"
             }
           },
           {
@@ -153,8 +153,12 @@
   },
   "active": "ff3a6cff6bd80d0a",
   "lastOpenFiles": [
-    "cocaine.md",
+    "micronutrient.md",
+    "palatability.md",
+    "dopamine.md",
+    "endorphins.md",
     "basal ganglia.md",
+    "cocaine.md",
     "neurochemistry.md",
     "Parkinson's disease.md",
     "dorsal striatum.md",
@@ -175,10 +179,6 @@
     "chronobiotic.md",
     "TRUTHEAR.md",
     "frequency response.md",
-    "head-related transfer function.md",
-    "chilblains.md",
-    "topsport.md",
-    "human bioeffluents.md",
     "mesal aspect of a brain sectioned in the median sagittal plane.png",
     "Gold Phantom Extreme Engineering.png",
     "Lekker op de fiets r_NederlandseMemes.jpeg",
