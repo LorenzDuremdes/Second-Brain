@@ -18,6 +18,10 @@
 	1. Refined carbs are digested quickly and converted into glucose, which could lead to rapid spikes in your blood sugar. This leads to increased levels of insulin, a hormone responsible for transporting sugar into your cells.
 	   
 	   Insulin removes sugar from your blood, which may lead to a sudden drop in blood sugar levels. This signals your body that it needs more food.^[[14 Reasons Why You’re Always Hungry, healthline](https://www.healthline.com/nutrition/14-reasons-always-hungry#refined-carbs)]
+6. [[tea]]
+	1. It is presupposed that tea molecules reduce [[adipose tissue|fat stores]] through several pathways (Huang et al. 2014, Pan et al. 2016, Yang et al. 2016, Rothenberg et al. 2018, Silvester et al. 2018, Willems et al. 2018)^[[The Anti-Obesity and Health-Promoting Effects of Tea and Coffee (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8820582/)]:
+		- they influence neuroendocrine metabolic regulators of appetite and reduce food consumption (Huang et al. 2014),
+		- they reduce emulsion and absorption of lipids and protein in gastrointestinal system and consequently reduce calorie intake (Huang et al. 2014, Pan et al. 2016)
 
 # related
 1. [[anorectic]]

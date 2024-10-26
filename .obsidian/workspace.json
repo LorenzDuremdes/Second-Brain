@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cannabis (drug).md",
+                "file": "appetite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cannabis (drug)"
+              "title": "appetite"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cannab",
+                "query": "water loss",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cannabis (drug).md",
+                "file": "appetite.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from cannabis (drug)"
+              "title": "Outgoing links from appetite"
             }
           },
           {
@@ -152,8 +153,11 @@
   },
   "active": "35f38d0a3e22ba0c",
   "lastOpenFiles": [
-    "sensory-specific satiety.md",
+    "tea.md",
+    "appetite.md",
+    "anorectic.md",
     "cannabis (drug).md",
+    "sensory-specific satiety.md",
     "weight loss.md",
     "potato.md",
     "palatability.md",
@@ -175,9 +179,6 @@
     "obesity.md",
     "Neolithic Revolution.md",
     "Holocene.md",
-    "evolutionary mismatch.md",
-    "anorectic.md",
-    "appetite.md",
     "mesal aspect of a brain sectioned in the median sagittal plane.png",
     "Gold Phantom Extreme Engineering.png",
     "Lekker op de fiets r_NederlandseMemes.jpeg",
