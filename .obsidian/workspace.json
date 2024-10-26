@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ff3a6cff6bd80d0a",
+            "id": "0b05d779431bef4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "palatability.md",
+                "file": "food craving.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "palatability"
+              "title": "food craving"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "palatability",
+                "query": "food craving",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "palatability.md",
+                "file": "food craving.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from palatability"
+              "title": "Outgoing links from food craving"
             }
           },
           {
@@ -151,10 +150,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ff3a6cff6bd80d0a",
+  "active": "0b05d779431bef4c",
   "lastOpenFiles": [
-    "micronutrient.md",
     "palatability.md",
+    "food craving.md",
+    "micronutrient.md",
     "dopamine.md",
     "endorphins.md",
     "basal ganglia.md",
@@ -178,7 +178,6 @@
     "dim light melatonin onset.md",
     "chronobiotic.md",
     "TRUTHEAR.md",
-    "frequency response.md",
     "mesal aspect of a brain sectioned in the median sagittal plane.png",
     "Gold Phantom Extreme Engineering.png",
     "Lekker op de fiets r_NederlandseMemes.jpeg",
