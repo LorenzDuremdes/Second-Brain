@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "appetite.md",
+                "file": "anorectic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "appetite"
+              "title": "anorectic"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "water loss",
+                "query": "anor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "appetite.md",
+                "file": "anorectic.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from appetite"
+              "title": "Outgoing links from anorectic"
             }
           },
           {
@@ -153,8 +153,8 @@
   },
   "active": "35f38d0a3e22ba0c",
   "lastOpenFiles": [
-    "tea.md",
     "appetite.md",
+    "tea.md",
     "anorectic.md",
     "cannabis (drug).md",
     "sensory-specific satiety.md",
