@@ -1,0 +1,4 @@
+1. relative reinforcing value of [[food]]; defined as how hard an individual is prepared to work to gain access to food rather than a nonfood alternative
+   
+   has been shown to be higher in [[obesity|obese]] adults and children than in their normal-weight counterparts^[[https://pubmed.ncbi.nlm.nih.gov/19535428/](https://pubmed.ncbi.nlm.nih.gov/19535428/)]
+2. On the other hand, people who have a high RRV food but who aren’t impulsive (lead foot and good brakes) aren’t at an increased risk of overeating or weight gain. “If you have really good [[self-control]],” explains Epstein, “you can overcome the reward value, and you can be a foodie: someone who loves food, who’s a gourmet cook, but who is lean because they can regulate the amount of food.”^[The Hungry Brain (Stephan J. Guyenet, Ph.D.), p. 76]

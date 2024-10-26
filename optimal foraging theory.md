@@ -1,0 +1,2 @@
+# formulae
+1. value of a [[food]] item = (calories gained − calories expended)/time^[The Hungry Brain (Stephan J. Guyenet, Ph.D.), p. 101]^[https://boisestate.pressbooks.pub/evolutionhumanbehavior/chapter/12-1-optimal-foraging-theory/]
