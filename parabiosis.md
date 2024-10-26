@@ -1,0 +1,1 @@
+1. parabiosis; the technique involves the surgical joining of two living organisms in such a way that they develop a single, shared physiological system^[https://en.wikipedia.org/wiki/Parabiosis]
