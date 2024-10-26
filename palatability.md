@@ -1,5 +1,7 @@
 1. palatability; the hedonic reward (i.e., pleasure) provided by foods or fluids that are agreeable to the "[[palate]]", which often varies relative to the homeostatic satisfaction of nutritional, [[water]], or energy needs.^[https://en.wikipedia.org/wiki/Palatability#cite_note-1]
 2. The palatability of a [[food]] or fluid, unlike its flavor or taste, varies with the state of an individual: it is lower after consumption and higher when deprived. It has increasingly been appreciated that this can create a hunger that is independent of homeostatic needs.^[https://en.wikipedia.org/wiki/Palatability#cite_note-Lowe-2]
+3. food digestibility → palatability
+	1. easily digested food increases its palatability^[The Hungry Brain (Stephan J. Guyenet, Ph.D.), p. 65]. Misschien waarom e.g. wolkentoetjes een hogere palatability kunnen hebben.
 
 # [[micronutrient]]
 1. why haven't we evolved to seek out and find micronutrients (except e.g. salt) rewarding?

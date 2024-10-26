@@ -1,0 +1,2 @@
+1. cannabis → [[appetite]]
+	1. The men ate 40 percent more calories while they were stoned than while they were sober, and their body weights also climbed rapidly. Interestingly, they didn’t overeat at meals, but instead ate more highly [[palatability|palatable]] sweet snacks, such as candy bars, between meals. A number of other studies have confirmed that marijuana increases [[food]] intake.^[The Hungry Brain (Stephan J. Guyenet, Ph.D.), p. 72]
