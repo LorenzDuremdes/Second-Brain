@@ -23,5 +23,8 @@
 		- they influence neuroendocrine metabolic regulators of appetite and reduce food consumption (Huang et al. 2014),
 		- they reduce emulsion and absorption of lipids and protein in gastrointestinal system and consequently reduce calorie intake (Huang et al. 2014, Pan et al. 2016)
 
+## personal
+1. something meant to be eaten in small quantities e.g. Roquefort
+
 # related
 1. [[anorectic]]

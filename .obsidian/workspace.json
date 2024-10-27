@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obesity.md",
+                "file": "appetite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "obesity"
+              "title": "appetite"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obesity.md",
+                "file": "appetite.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from obesity"
+              "title": "Outgoing links from appetite"
             }
           },
           {
@@ -150,14 +150,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4c7c506bcb1fd0b8",
+  "active": "85f30d7987204c00",
   "lastOpenFiles": [
+    "obesity.md",
     "parabiosis.md",
     "ventromedial nucleus of the hypothalamus.md",
     "perseveration.md",
     "optimal foraging theory.md",
     "supernormal stimulus.md",
-    "obesity.md",
     "ultra-processed food.md",
     "sugar.md",
     "relative reinforcing value of food.md",
