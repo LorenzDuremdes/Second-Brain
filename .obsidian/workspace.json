@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "appetite.md",
+                "file": "cheese.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "appetite"
+              "title": "cheese"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lipostat",
+                "query": "cheese",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "appetite.md",
+                "file": "cheese.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from appetite"
+              "title": "Outgoing links from cheese"
             }
           },
           {
@@ -152,6 +153,8 @@
   },
   "active": "85f30d7987204c00",
   "lastOpenFiles": [
+    "appetite.md",
+    "Untitled 1.md",
     "obesity.md",
     "parabiosis.md",
     "ventromedial nucleus of the hypothalamus.md",
@@ -163,7 +166,6 @@
     "relative reinforcing value of food.md",
     "self-control.md",
     "anorectic.md",
-    "appetite.md",
     "tea.md",
     "cannabis (drug).md",
     "sensory-specific satiety.md",
@@ -177,7 +179,6 @@
     "basal ganglia.md",
     "cocaine.md",
     "neurochemistry.md",
-    "Parkinson's disease.md",
     "mesal aspect of a brain sectioned in the median sagittal plane.png",
     "Gold Phantom Extreme Engineering.png",
     "Lekker op de fiets r_NederlandseMemes.jpeg",
