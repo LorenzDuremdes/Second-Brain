@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "parabiosis.md",
+                "file": "obesity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "parabiosis"
+              "title": "obesity"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obesity",
+                "query": "lipostat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "parabiosis.md",
+                "file": "obesity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from parabiosis"
+              "title": "Outgoing links from obesity"
             }
           },
           {
@@ -150,10 +150,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "85f30d7987204c00",
+  "active": "4c7c506bcb1fd0b8",
   "lastOpenFiles": [
-    "ventromedial nucleus of the hypothalamus.md",
     "parabiosis.md",
+    "ventromedial nucleus of the hypothalamus.md",
     "perseveration.md",
     "optimal foraging theory.md",
     "supernormal stimulus.md",
