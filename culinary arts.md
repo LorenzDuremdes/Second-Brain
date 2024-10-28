@@ -1,0 +1,1 @@
+1. culinary arts; the cuisine arts of [[food]] preparation, cooking, and presentation of food, usually in the form of meals.^[https://en.wikipedia.org/wiki/Culinary_arts]

@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6cd138f4b6a66d28",
+            "id": "bf8248521ce47cce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gastronomy.md",
+                "file": "gourmand.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gastronomy"
+              "title": "gourmand"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "optimal foraging theory.md",
+                "file": "gourmand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for optimal foraging theory"
+              "title": "Backlinks for gourmand"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gastronomy.md",
+                "file": "gourmand.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from gastronomy"
+              "title": "Outgoing links from gourmand"
             }
           },
           {
@@ -150,10 +150,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "6cd138f4b6a66d28",
+  "active": "bf8248521ce47cce",
   "lastOpenFiles": [
-    "cheese.md",
+    "culinary arts.md",
+    "gourmand.md",
+    "haute cuisine.md",
     "gastronomy.md",
+    "cheese.md",
     "appetite.md",
     "obesity.md",
     "parabiosis.md",
@@ -175,9 +178,6 @@
     "food craving.md",
     "micronutrient.md",
     "dopamine.md",
-    "endorphins.md",
-    "basal ganglia.md",
-    "cocaine.md",
     "mesal aspect of a brain sectioned in the median sagittal plane.png",
     "Gold Phantom Extreme Engineering.png",
     "Lekker op de fiets r_NederlandseMemes.jpeg",

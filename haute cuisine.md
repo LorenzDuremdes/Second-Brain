@@ -1,0 +1,1 @@
+1. haute cuisine; a style of cooking characterised by meticulous preparation, elaborate presentation, and the use of high quality ingredients^[https://en.wikipedia.org/wiki/Haute_cuisine]

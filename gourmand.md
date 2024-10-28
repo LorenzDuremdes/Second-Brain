@@ -1,0 +1,1 @@
+1. gourmand; a person who takes great pleasure and interest in consuming particularly good [[food]] and drink.^[https://en.wikipedia.org/wiki/Gourmand]
