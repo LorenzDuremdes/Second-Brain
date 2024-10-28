@@ -1,0 +1,1 @@
+1. gastronomy; the study of the relationship between [[food]] and [[culture]], the art of preparing and serving rich or delicate and appetizing food, the cooking styles of particular regions, and the science of good eating.^[https://en.wikipedia.org/wiki/Gastronomy]
