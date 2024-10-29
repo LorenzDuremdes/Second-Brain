@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bf8248521ce47cce",
+            "id": "fd9cb8f35fdfb496",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gourmand.md",
+                "file": "Xert.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gourmand"
+              "title": "Xert"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cheese",
+                "query": "xert",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gourmand.md",
+                "file": "Xert.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from gourmand"
+              "title": "Outgoing links from Xert"
             }
           },
           {
@@ -150,10 +150,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "bf8248521ce47cce",
+  "active": "fd9cb8f35fdfb496",
   "lastOpenFiles": [
-    "culinary arts.md",
     "gourmand.md",
+    "Xert.md",
+    "culinary arts.md",
     "haute cuisine.md",
     "gastronomy.md",
     "cheese.md",
@@ -177,7 +178,6 @@
     "palatability.md",
     "food craving.md",
     "micronutrient.md",
-    "dopamine.md",
     "mesal aspect of a brain sectioned in the median sagittal plane.png",
     "Gold Phantom Extreme Engineering.png",
     "Lekker op de fiets r_NederlandseMemes.jpeg",
