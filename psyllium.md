@@ -1,0 +1,3 @@
+1. psyllium (zwelgetal) = >40
+   
+   De in de zaadhuid voorkomende voedingsvezel - de vlosine-slijmpolysaccharide – kan meer dan het vijftigvoudige van het eigen gewicht aan [[water]] binden. Het zwelgetal is groter dan 40. Gebruik van het middel leidt tot een volumetoename in de darm. Door de toenemende druk op de darmwand wordt de peristaltiek geprikkeld en uiteindelijk de ontlasting op gang gebracht, waarbij het middel ook als smeermiddel behulpzaam is. Het eindeffect is dat de motiliteit van de darm gereguleerd wordt en de verblijftijd van het opgenomen water in de darm langer wordt, wat ook de werkzaamheid bij diarree verklaart.^[https://nl.wikipedia.org/wiki/Psyllium]

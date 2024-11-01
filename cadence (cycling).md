@@ -1,5 +1,12 @@
 1. optimal cadence (personal hypothesis + preference)
-	1. as low as possible while utilizing your slow-twitch muscle fibers as much as possible
+	1. ![[Effect of cadence on average power output during a time trial.jpg]]
+	   1. Greater energy was required simply to move the legs at the higher speed, therefore causing greater fatigue (although the cyclist may be pushing against less resistance with each pedal stroke, more energy is used to move 120 times compared with 100 times, even against no resistance).
+	      
+	      The higher speed of movement caused greater recruitment of fast-twitch muscle fibers, which are less efficient aerobically and produce more lactic acid.  
+    
+
+―Cutting-Edge Cycling, 237, coauthored by renowned cycling coach Hunter Allen and sport scientist Stephen Cheung (Xert)
+	2. as low as possible while utilizing your slow-twitch muscle fibers as much as possible
 
 		e.g. going downhill at 120+ RPM and spending more [[energy]] lifting your legs up each time rather than moving the bike forward is (personally) inefficient
 1. cadence (strength training analogy ([[road cycling]]))

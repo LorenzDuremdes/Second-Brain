@@ -1,0 +1,4 @@
+1. nutritionism; a paradigm that assumes that it is the scientifically identified nutrients in foods that determine the value of individual [[food]] stuffs in the diet.
+   
+   The term is largely pejorative, implying that this way of viewing food is simplistic and harmful, and the term is usually used to label others' views. The greatest popularizer of the term, journalist and professor of journalism Michael Pollan, argues that a food's nutritional value is "more than the sum of its parts."^[https://en.wikipedia.org/wiki/Nutritionism]
+2. e.g. [[ultra-processed food]] promoting more consumption^[Ultra-Processed People The Science Behind the Food That Isnt Food (Chris van Tulleken), p. 38]

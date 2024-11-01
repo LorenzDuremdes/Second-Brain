@@ -1,0 +1,1 @@
+1. for example, if your HIE is 20 kJ, after performing 500 seconds at 10 watts above [[functional threshold power]|TP], your HIE would be reduced by 500·10 joules or 5kJ, i.e. 15kJ^[https://baronbiosys.com/glossary/high-intensity-energy/]
