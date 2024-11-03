@@ -1,0 +1,3 @@
+1. rückkehrunruhe ("-kair-oon-roo-uh.”); (noun) the [[feeling]] of returning from an immersive trip only to notice it fading rapidly from your awareness, as if your brain had automatically assumed it was all just a dream and already went to work scrubbing it from your [[memory]]^[https://www.thedictionaryofobscuresorrows.com/word/ruckkehrunruhe]
+2. 2017 April 10, M. Coté Warner, The Stratus Estate, Xlibris Corporation, →ISBN:
+   Although happy to be home, I feel a disconcerting sense of rückkehrunruhe and keep grasping at the memory of friends lost. I'd never been away from home for so long, and after being on Mars I can now truly appreciate the home my family […]^[https://en.wiktionary.org/wiki/Citations:rückkehrerunruhe]

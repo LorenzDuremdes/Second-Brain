@@ -1,0 +1,1 @@
+1. kairosclerosis; (noun) (neologism) the phenomenon of recognizing one's [[happiness]] and then diminishing this feeling by overanalyzing or questioning it^[https://en.wiktionary.org/wiki/Citations:kairosclerosis]

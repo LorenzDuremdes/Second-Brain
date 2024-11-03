@@ -14,3 +14,7 @@
 	3. “Ending things at the peak allows the memory to live on, unsullied by the trials that [[time]] inevitably brings.” – Unknown
 	4. “It’s better to end it with a smile than to drag it out and lose the warmth of what was.” – Unknown
 	5. “When something reaches its height, it must begin to diminish. Timing is everything.” – Lao Tzu
+
+# related
+1. [[anticipatory nostalgia]]
+2. [[rückkehrunruhe]]
