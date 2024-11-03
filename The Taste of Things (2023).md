@@ -1,0 +1,6 @@
+1. what made _The Taste of Things (2023)_ a very good movie according to you?
+	1. 1. [[slow cinema]]
+	2. deeper meanings (e.g. Eugénie wanting to be respected for being Dodin Bouffant's cook rather than wife)
+2. https://www.reddit.com/r/TrueFilm/comments/1c49een/the_taste_of_things_is_an_extraordinary_film_and/
+	1. >When Magimel says, "may I knock at your door tonight Eugénie?" it becomes a transcendent romance that isn't necessarily about butterflies in your stomach young love but something richer and more meaningful of two people who have a deep understanding and take pleasure in and with each other.
+	2. >While the opening sequence is the one that I think will be remembered, for me the most breathtaking sequence is where Dodin cooks a meal specifically for Eugenie. The sequence is mostly dialogue free, no words are needed. His love for her is on full display in the preparation and the finished dishes he presents to her. When it culminates with the reveal of the proposal and the match cut of the form of the pears with the nude silhouette of Eugenie in the bed, it became one of the most romantic and sexy sequences I’d ever seen.

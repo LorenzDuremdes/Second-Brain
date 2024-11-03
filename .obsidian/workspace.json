@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3579a0e6bb60ce5b",
+            "id": "6c3075eb1b77782d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "slow cinema.md",
+                "file": "Portrait de la jeune fille en feu (2019).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "slow cinema"
+              "title": "Portrait de la jeune fille en feu (2019)"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "movie",
+                "query": "ephemerality",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cadence (cycling).md",
+                "file": "Portrait de la jeune fille en feu (2019).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for cadence (cycling)"
+              "title": "Backlinks for Portrait de la jeune fille en feu (2019)"
             }
           },
           {
@@ -113,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "slow cinema.md",
+                "file": "Portrait de la jeune fille en feu (2019).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from slow cinema"
+              "title": "Outgoing links from Portrait de la jeune fille en feu (2019)"
             }
           },
           {
@@ -151,10 +150,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "8412e88b9e28c8ed",
+  "active": "6c3075eb1b77782d",
   "lastOpenFiles": [
-    "cadence (cycling).md",
+    "The Taste of Things (2023).md",
+    "Portrait de la jeune fille en feu (2019).md",
     "slow cinema.md",
+    "ephemerality.md",
+    "film.md",
+    "cadence (cycling).md",
     "Effect of cadence on average power output during a time trial.jpg",
     "sweetener.md",
     "obesity.md",
@@ -176,10 +179,6 @@
     "gourmand.md",
     "culinary arts.md",
     "haute cuisine.md",
-    "gastronomy.md",
-    "cheese.md",
-    "appetite.md",
-    "parabiosis.md",
     "mesal aspect of a brain sectioned in the median sagittal plane.png",
     "Gold Phantom Extreme Engineering.png",
     "Lekker op de fiets r_NederlandseMemes.jpeg",

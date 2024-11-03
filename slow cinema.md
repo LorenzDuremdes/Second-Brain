@@ -12,5 +12,5 @@
 > You have to actively engage with the film, it is not passive like a blockbuster. ^[https://www.reddit.com/r/TrueFilm/comments/32c1mj/what_is_the_purpose_of_slow_cinema/]
 
 # list (ranked)
-1. _Portrait de la jeune fille en feu (2019)_
-2. _The Taste of Things (2023)_
+1. _[[Portrait de la jeune fille en feu (2019)]]_
+2. _[[The Taste of Things (2023)]]_
