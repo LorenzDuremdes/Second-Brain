@@ -19,6 +19,9 @@
 	1. Noémie Merlant: "We created everything during the shooting ... And so the gazes were real (laughs)" (9:00)
 2. It is really poignant how the farewell scene coincided with Adèle's last day shooting. Céline says Néomie's face was drained of blood, white as a sheet, because she was so emotional. The parting wasn't just between the characters but between the actresses too.^[https://www.reddit.com/r/PortraitofaLadyonFire/comments/j9ehzl/watching_again_with_commentary_on_comments_by/]
 
+# miscellaneous
+1. [Adèle Haenel & Noémie Merlant funny & cute moments💕](https://www.youtube.com/watch?v=sR6BNR5LMU8)
+
 # related
 1. [[anticipatory nostalgia]]
 2. [[rückkehrunruhe]]
