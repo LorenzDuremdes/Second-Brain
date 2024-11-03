@@ -21,6 +21,7 @@
 
 # miscellaneous
 1. [Adèle Haenel & Noémie Merlant funny & cute moments💕](https://www.youtube.com/watch?v=sR6BNR5LMU8)
+	1. holding hands at 4:00
 
 # related
 1. [[anticipatory nostalgia]]
