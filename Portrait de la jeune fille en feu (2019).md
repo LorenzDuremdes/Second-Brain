@@ -17,6 +17,7 @@
 	5. “When something reaches its height, it must begin to diminish. Timing is everything.” – Lao Tzu
 6. [PORTRAIT OF A LADY ON FIRE Cast and Crew Q&A | TIFF 2019](https://www.youtube.com/watch?v=88L8pIEr1nk)
 	1. Noémie Merlant: "We created everything during the shooting ... And so the gazes were real (laughs)" (9:00)
+2. It is really poignant how the farewell scene coincided with Adèle's last day shooting. Céline says Néomie's face was drained of blood, white as a sheet, because she was so emotional. The parting wasn't just between the characters but between the actresses too.^[https://www.reddit.com/r/PortraitofaLadyonFire/comments/j9ehzl/watching_again_with_commentary_on_comments_by/]
 
 # related
 1. [[anticipatory nostalgia]]
