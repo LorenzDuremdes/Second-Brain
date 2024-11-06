@@ -1,0 +1,3 @@
+1. Ediacaran; a geological period of the Neoproterozoic Era that spans 96 million years from the end of the Cryogenian Period at 635 Mya to the beginning of the Cambrian Period at 538.8 Mya.
+   
+   The Ediacaran marks the first widespread appearance of complex multicellular fauna following the end of the Cryogenian global glaciation known as the Snowball [[Earth]]. The relatively sudden evolutionary radiation event is known as the Avalon Explosion.^[https://en.wikipedia.org/wiki/Ediacaran]

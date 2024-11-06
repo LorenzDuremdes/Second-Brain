@@ -1,0 +1,1 @@
+1. geochemistry; the science that uses the tools and principles of [[chemistry]] to explain the mechanisms behind major geological systems such as the [[Earth]]'s crust and its oceans.^[https://en.wikipedia.org/wiki/Geochemistry]
