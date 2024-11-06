@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ediacaran.md",
+                "file": "transhumanism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ediacaran"
+              "title": "transhumanism"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ephemerality",
+                "query": "transhumanism",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ediacaran.md",
+                "file": "transhumanism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ediacaran"
+              "title": "Outgoing links from transhumanism"
             }
           },
           {
@@ -126,14 +127,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "appetite.md"
+                "file": "transhumanism.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of appetite"
+              "title": "Outline of transhumanism"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -150,10 +151,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c14826c2547d3de9",
+  "active": "064dd5af93373ca8",
   "lastOpenFiles": [
-    "geochemistry.md",
     "Ediacaran.md",
+    "geochemistry.md",
     "Hadean.md",
     "Earth.md",
     "vinaigrette.md",
