@@ -1,0 +1,1 @@
+1. vinaigrette; made by mixing an edible oil with a mild acid such as vinegar or lemon juice (citric acid). The mixture can be enhanced with [[salt]], herbs and/or spices. It is used most commonly as a salad dressing, but can also be used as a marinade^[https://en.wikipedia.org/wiki/Vinaigrette]

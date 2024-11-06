@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44c2d1c05e681781",
+            "id": "29826c5b58df33c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portrait de la jeune fille en feu (2019).md",
+                "file": "vinaigrette.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Portrait de la jeune fille en feu (2019)"
+              "title": "vinaigrette"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Portrait de la jeune fille en feu (2019).md",
+                "file": "vinaigrette.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Portrait de la jeune fille en feu (2019)"
+              "title": "Outgoing links from vinaigrette"
             }
           },
           {
@@ -150,12 +150,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "44c2d1c05e681781",
+  "active": "29826c5b58df33c9",
   "lastOpenFiles": [
+    "Portrait de la jeune fille en feu (2019).md",
+    "vinaigrette.md",
     "kairosclerosis.md",
     "rückkehrunruhe.md",
     "anticipatory nostalgia.md",
-    "Portrait de la jeune fille en feu (2019).md",
     "The Taste of Things (2023).md",
     "slow cinema.md",
     "ephemerality.md",
@@ -178,7 +179,6 @@
     "margarine.md",
     "fat hydrogenation.md",
     "Nova classification.md",
-    "nutritionism.md",
     "mesal aspect of a brain sectioned in the median sagittal plane.png",
     "Gold Phantom Extreme Engineering.png",
     "Lekker op de fiets r_NederlandseMemes.jpeg",
