@@ -1,0 +1,3 @@
+1. Hadean; the first and oldest of the four known geologic eons of [[Earth]]'s [[history]], starting with the planet's formation about 4.6 billion years ago (estimated 4567.30 ± 0.16 million years ago set by the age of the oldest solid material in the [[Solar System]] found in some meteorites about 4.567 billion years old), and ended 4.031 billion years ago
+   
+   The Hadean eon was succeeded by the Archean eon, with the Late Heavy Bombardment hypothesized to have occurred at the Hadean-Archean boundary.^[https://en.wikipedia.org/wiki/Hadean]
