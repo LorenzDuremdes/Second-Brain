@@ -9,6 +9,7 @@
 4. Face mask
 5. Leg covers under pants
 6. **Optional**: ski goggles
+7. **indoor**: bodywarmer
 
 **0–8 °C**
 1. [[Winter]] handshoes
