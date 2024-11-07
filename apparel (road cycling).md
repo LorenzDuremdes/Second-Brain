@@ -4,6 +4,7 @@
 **<0 °C**
 1. [[Winter]] handshoes with [[windbreaker]]
 2. Merino base layer shirt + Merino jacket + [[windbreaker]]
+	1. [Icebreaker heren 300](https://www.icebreaker.com/nl-nl/mens-baselayers/300-merinofine-thermische-top-polar-met-lange-mouwen-en-col/0A5756E2.html?dwvar_0A5756E2_color=01C&dwvar_0A5756E2_EU=in_line)
 3. Shoe covers
 4. Face mask
 5. Leg covers under pants
