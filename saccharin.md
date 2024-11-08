@@ -1,0 +1,1 @@
+1. saccharin; a sultam that is about 500 times sweeter than sucrose, but has a bitter or metallic aftertaste, especially at high concentrations.^[https://en.wikipedia.org/wiki/Saccharin]

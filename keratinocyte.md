@@ -1,0 +1,3 @@
+1. keratinocyte; the primary type of [[cell]] found in the epidermis, the outermost layer of the skin. In humans, they constitute 90% of epidermal skin cells.
+   
+   keratinocytes differentiate from epidermal stem cells in the lower part of the epidermis and migrate towards the surface, finally becoming [[corneocyte|corneocytes]] and eventually being shed, which happens every 40 to 56 days in humans.^[https://en.wikipedia.org/wiki/Keratinocyte]

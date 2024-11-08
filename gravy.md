@@ -1,0 +1,1 @@
+1. gravy; a sauce made from the juices of [[meat|meats]] and [[vegetables]] that run naturally during cooking and often thickened with thickeners for added texture.^[https://en.wikipedia.org/wiki/Gravy]

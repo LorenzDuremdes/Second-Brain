@@ -1,0 +1,2 @@
+By Henry Vandyke Carter - Henry Gray (1918) Anatomy of the Human Body (See "Book" section below)Bartleby.com: Gray's Anatomy, Plate 994, Public Domain, https://commons.wikimedia.org/w/index.php?curid=698750 ![[334px-Gray994-adenoid.png]]
+1. adenoid; pharyngeal tonsil^[https://en.wikipedia.org/wiki/Adenoid]
