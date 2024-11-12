@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8e1d812aa2a6fb6b",
+            "id": "c29131b42618f8f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "woonwijk.md",
+                "file": "mocktail.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "woonwijk"
+              "title": "mocktail"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "woonwijk.md",
+                "file": "mocktail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for woonwijk"
+              "title": "Backlinks for mocktail"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "woonwijk.md",
+                "file": "mocktail.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from woonwijk"
+              "title": "Outgoing links from mocktail"
             }
           },
           {
@@ -150,10 +150,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "c29131b42618f8f9",
   "lastOpenFiles": [
-    "sociale woningbouw.md",
+    "cosmopolitan (cocktail).md",
+    "mocktail.md",
     "woonwijk.md",
+    "sociale woningbouw.md",
     "buurteffecten.md",
     "adenoid.md",
     "334px-Gray994-adenoid.png",
@@ -177,8 +179,6 @@
     "The Taste of Things (2023).md",
     "slow cinema.md",
     "ephemerality.md",
-    "film.md",
-    "cadence (cycling).md",
     "Effect of cadence on average power output during a time trial.jpg",
     "mesal aspect of a brain sectioned in the median sagittal plane.png",
     "Gold Phantom Extreme Engineering.png",

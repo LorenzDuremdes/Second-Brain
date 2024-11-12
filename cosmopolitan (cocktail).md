@@ -1,0 +1,2 @@
+1. cosmopolitan (cocktail); a cocktail made with vodka, Cointreau, cranberry juice, and freshly squeezed or sweetened lime juice^[https://en.wikipedia.org/wiki/Cosmopolitan_(cocktail)]
+2. alcohol free: https://www.seedlipdrinks.com/nl-nl/recipes/
