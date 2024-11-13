@@ -1,0 +1,16 @@
+# recipes
+## success
+1. Kruimige aardappelen met magere melk, wei-eiwitpoeder met gezouten karamel, knoflookpoeder, en Italiaanse kruiden (woensdag 13/11/2024)
+	1. **ChatGPT**: **Aardappelpuree** met knoflookpoeder, wei-eiwitpoeder met gezouten karamelsmaak, en Italiaanse kruiden is een vrij unieke combinatie! Dit mengt zowel hartige als zoete elementen, wat een interessante smaak kan opleveren.
+	   
+	   **Knoflookpoeder en Italiaanse kruiden**: Deze twee zullen goed samengaan voor een hartige basis, waardoor de puree een lekkere kruidige en aromatische smaak krijgt.
+	   
+	   **Gezouten karamelsmaak van het wei-eiwitpoeder**: De karamelsmaak kan een zoetige, bijna dessertachtige toets geven aan de puree, wat misschien wat ongebruikelijk is bij hartige aardappelen. Dit kan echter een verrassende smaakdimensie toevoegen, vooral als je van zoet-hartige combinaties houdt (denk aan een vleugje zoet in je aardappelpuree).
+	   
+	   **Tip**: Als je het wilt proberen, zou ik aanraden om een klein beetje van het eiwitpoeder toe te voegen en goed te proeven. Als de karamelsmaak te sterk is, kun je altijd wat meer van de andere kruiden (knoflook of Italiaanse kruiden) toevoegen om de balans te verbeteren.
+	   
+	   Het is een gedurfde combinatie, maar het kan verrassend lekker zijn als je van experimenteren houdt!
+	   
+	   Als je van contrasten houdt, zou je een snufje **chilipoeder** of een beetje **gerookte paprikapoeder** kunnen proberen om een pittige kick te geven die het zoet van het eiwitpoeder en de hartigheid van de kruiden in evenwicht houdt.
+
+## failed
