@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mocktail.md",
+                "file": "cosmopolitan (cocktail).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mocktail"
+              "title": "cosmopolitan (cocktail)"
             }
           }
         ],
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mocktail.md",
+                "file": "cosmopolitan (cocktail).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from mocktail"
+              "title": "Outgoing links from cosmopolitan (cocktail)"
             }
           },
           {
@@ -167,8 +167,8 @@
   },
   "active": "034f473d3b416de2",
   "lastOpenFiles": [
-    "cosmopolitan (cocktail).md",
     "mocktail.md",
+    "cosmopolitan (cocktail).md",
     "woonwijk.md",
     "sociale woningbouw.md",
     "buurteffecten.md",

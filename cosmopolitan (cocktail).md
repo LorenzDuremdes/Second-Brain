@@ -1,2 +1,5 @@
 1. cosmopolitan (cocktail); a cocktail made with vodka, Cointreau, cranberry juice, and freshly squeezed or sweetened lime juice^[https://en.wikipedia.org/wiki/Cosmopolitan_(cocktail)]
 2. alcohol free: https://www.seedlipdrinks.com/nl-nl/recipes/
+	1. Ja, een alcoholvrije cosmopolitan met Grove 42 (de citrusvariant van Seedlip), cranberrysap, vers geperste sinaasappels en limoenen kan een uitstekende keuze zijn voor een kerstdiner! Het heeft een feestelijke uitstraling door de cranberry en de rijke, frisse smaak van citrus die goed past bij de winterse sfeer. Dit drankje is niet alleen stijlvol en feestelijk, maar ook toegankelijk voor gasten die liever geen alcohol drinken.
+	   
+	   De combinatie van cranberry, sinaasappel en limoen geeft het een frisse, licht zurige smaak die goed aansluit bij een verscheidenheid aan gerechten, van voorgerechten tot hoofdgerechten en zelfs desserts. Door het lage suikergehalte is het ook een verfrissende keuze, zonder zwaar of te zoet te zijn, wat fijn is voor tijdens een lang diner.^[ChatGPT]
