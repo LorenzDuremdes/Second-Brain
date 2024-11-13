@@ -12,5 +12,7 @@
 	   Het is een gedurfde combinatie, maar het kan verrassend lekker zijn als je van experimenteren houdt!
 	   
 	   Als je van contrasten houdt, zou je een snufje **chilipoeder** of een beetje **gerookte paprikapoeder** kunnen proberen om een pittige kick te geven die het zoet van het eiwitpoeder en de hartigheid van de kruiden in evenwicht houdt.
+	   
+	   **Stoomtijd voor melk**: Ongeveer **5-7 minuten**. Dit zou voldoende moeten zijn om de melk op te warmen, zonder dat het te snel verdampt of aan de kom kleeft.
 
 ## failed
