@@ -16,5 +16,7 @@
 	   Als je van contrasten houdt, zou je een snufje **chilipoeder** of een beetje **gerookte paprikapoeder** kunnen proberen om een pittige kick te geven die het zoet van het eiwitpoeder en de hartigheid van de kruiden in evenwicht houdt.
 	   
 	   **Stoomtijd voor melk**: Ongeveer **5-7 minuten**. Dit zou voldoende moeten zijn om de melk op te warmen, zonder dat het te snel verdampt of aan de kom kleeft.
+	   
+	   **Proeven is de sleutel!** Begin met minder zout en voeg beetje bij beetje meer toe, totdat je de gewenste smaak hebt bereikt. Het is gemakkelijker om meer zout toe te voegen dan om het eruit te halen. Als je daarnaast ook Italiaanse kruiden of knoflookpoeder toevoegt, kun je het zout wat milder houden omdat deze smaken ook wat zoutiger kunnen aanvoelen.
 
 ## failed
