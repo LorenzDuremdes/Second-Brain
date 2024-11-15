@@ -1,0 +1,1 @@
+1. millet; a highly varied group of small-seeded grasses, widely grown around the world as [[cereal]] crops or grains for fodder and human [[food]]^[https://en.wikipedia.org/wiki/Millet]
