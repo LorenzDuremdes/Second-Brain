@@ -1,0 +1,3 @@
+1. [[peptide]] YY; a short (36-[[amino acid]]) peptide released from cells in the [[ileum]] and [[large intestine|colon]] in response to [[food|feeding]]. In the blood, gut, and other elements of periphery, it acts to reduce [[appetite]]
+   
+   [[dietary fiber|Dietary fibers]] from [[fruit|fruits]], [[vegetable|vegetables]], and whole grains, consumed, increase the speed of transit of intestinal chyme into the ileum, to raise PYY3-36, and induce [[satiety]]. Peptide YY cannot be produced as the result of enzymatic breakdown of crude [[fish]] [[protein|proteins]] and ingested as a food product.^[https://en.wikipedia.org/wiki/Peptide_YY]
