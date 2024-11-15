@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2eee890386f3af3b",
+            "id": "e5dd94d3b60342ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "peptide YY.md",
+                "file": "glucagon-like peptide 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "peptide YY"
+              "title": "glucagon-like peptide 1"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "peptide YY.md",
+                "file": "glucagon-like peptide 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for peptide YY"
+              "title": "Backlinks for glucagon-like peptide 1"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "peptide YY.md",
+                "file": "glucagon-like peptide 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from peptide YY"
+              "title": "Outgoing links from glucagon-like peptide 1"
             }
           },
           {
@@ -150,11 +150,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "e5dd94d3b60342ed",
   "lastOpenFiles": [
-    "vegetable.md",
-    "vegetable.md",
     "peptide YY.md",
+    "glucagon-like peptide 1.md",
+    "vegetable.md",
+    "vegetable.md",
     "large intestine.md",
     "ileum.md",
     "cholecystokinin.md",
@@ -178,7 +179,6 @@
     "cell nucleus.md",
     "keratinocyte.md",
     "dandruff.md",
-    "[.md",
     "Effect of cadence on average power output during a time trial.jpg",
     "mesal aspect of a brain sectioned in the median sagittal plane.png",
     "Gold Phantom Extreme Engineering.png",

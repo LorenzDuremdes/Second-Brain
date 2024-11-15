@@ -1,0 +1,2 @@
+1. [[glucagon]]-like [[peptide]] 1; an incretin; thus, it has the ability to decrease [[blood sugar level|blood sugar levels]] in a [[glucose]]-dependent manner by enhancing the secretion of [[insulin]]^[https://en.wikipedia.org/wiki/Glucagon-like_peptide-1]
+2. Then there’s peptide YY and glucagon-like peptide 1, which flow in the blood to the [[hypothalamus]] and [[satiety|reduce the joy of eating]]^[Ultra-Processed People The Science Behind the Food That Isnt Food (Chris van Tulleken), p. 98]
