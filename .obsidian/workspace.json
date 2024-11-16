@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "motif.md",
+                "file": "film.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "motif"
+              "title": "film"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "motif.md",
+                "file": "film.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for motif"
+              "title": "Backlinks for film"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "motif.md",
+                "file": "film.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from motif"
+              "title": "Outgoing links from film"
             }
           },
           {
@@ -150,10 +150,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "287c5a9e8373c01d",
   "lastOpenFiles": [
-    "The Favourite (2018).md",
     "motif.md",
+    "The Favourite (2018).md",
     "film.md",
     "movie.md",
     "slow cinema.md",
