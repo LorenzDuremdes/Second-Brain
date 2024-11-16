@@ -1,0 +1,5 @@
+1. [[food]] noise; a mental preoccupation with food in general (as opposed to one specific food) that is largely independent from physiological hunger but nonetheless is distracting for many people; it includes recurring thoughts about what one has or hasn't eaten in recent hours, what one would like to eat right now or "shouldn't" eat right now, and what one might be eating (or "should" avoid eating) in upcoming hours
+   
+   has gotten more attention in the early 2020s since the advent of antiobesity indications for a class of medications called GLP1 agonists (such as semaglutide)
+   
+   Among people for whom these medications are effective in helping with [[weight loss]], most express that the level of food noise in their mind is noticeably reduced.^[https://en.wikipedia.org/wiki/Hunger_(physiology)#Similar_conditions]
