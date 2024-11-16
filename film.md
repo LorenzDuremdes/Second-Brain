@@ -10,3 +10,4 @@ current movie criteria (-0.5 star per bad area or -1 for very bad):
 6. plot (development) and coherence e.g. are they making (illogically) dumb decisions or not e.g. happened frequently in _Life (2017)_  
     1. logical dumb decisions e.g. human error, stress, or simply human emotions are still logical and coherent  
     2. engagement e.g. does it feel like no time has passed (e.g. _[[The Taste of Things (2023)]]_ did this well)
+7. not e.g. novelty due to wanting to rate movies 'standalone'
