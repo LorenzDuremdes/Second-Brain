@@ -1,0 +1,1 @@
+1. canapé; a type of starter, a small, prepared, and often decorative [[food]], consisting of a small piece of bread (sometimes toasted) or cracker, wrapped or topped with some savoury food, held in the fingers and often eaten in one bite.^[https://en.wikipedia.org/wiki/Canap%C3%A9]
