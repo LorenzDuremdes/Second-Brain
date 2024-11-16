@@ -55,7 +55,8 @@ Je kunt de aardappelen koken en daarna de kruiden toevoegen met een klontje bote
 ### **Warm en verrassend**
 
 - Aardappelen met een vleugje **kaneelpoeder**, **zout**, en een beetje **zwarte peper**.
-- Serveer met ijsbergsla gemengd met stukjes appel of rozijnen voor een zoet-frisse tegenhanger.
+- Serveer met ijsbergsla gemengd met stukjes appel/appelmoes of rozijnen voor een zoet-frisse tegenhanger.
+- Ja, "warm en verrassend" kan zeker met appelmoes in plaats van stukjes appel! De zoete en zachte smaak van appelmoes combineert perfect met de aardse tonen van kaneel en kruimige aardappelen.
 ### **Licht en luchtig**
 
 - Aardappelen kruiden met alleen **peterselie**, **zout**, en een beetje **zwarte peper**.
