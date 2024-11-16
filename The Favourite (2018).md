@@ -1,0 +1,2 @@
+1. [[movie]] showcases luxury and excess (e.g. game, duck race, tomatoes at naked man...) while a war with France is ongoing on + possibly raised taxes^[[The Favourite - When Style Becomes Substance](https://www.youtube.com/watch?v=CIaSMvzZDRc)]
+2. made you think about how most people get to power via psychology/personality (Abigail)
