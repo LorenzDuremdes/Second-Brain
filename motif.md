@@ -1,0 +1,1 @@
+1. motif; a recurring element or theme in a work of art or media^[https://en.wikipedia.org/wiki/Motif]
