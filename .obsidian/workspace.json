@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "millet.md",
+                "file": "mashed potato.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "millet"
+              "title": "mashed potato"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vegeta",
+                "query": "recipes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "millet.md",
+                "file": "mashed potato.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from millet"
+              "title": "Outgoing links from mashed potato"
             }
           },
           {
@@ -152,8 +153,9 @@
   },
   "active": "c5169ad67385d841",
   "lastOpenFiles": [
-    "glucagon-like peptide 1.md",
+    "potato.md",
     "millet.md",
+    "glucagon-like peptide 1.md",
     "peptide YY.md",
     "vegetable.md",
     "vegetable.md",
@@ -178,7 +180,6 @@
     "saccharin.md",
     "corneocyte.md",
     "cell nucleus.md",
-    "keratinocyte.md",
     "Effect of cadence on average power output during a time trial.jpg",
     "mesal aspect of a brain sectioned in the median sagittal plane.png",
     "Gold Phantom Extreme Engineering.png",
