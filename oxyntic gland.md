@@ -1,0 +1,1 @@
+1. the oxyntic gland contains the parietal cells that produce hydrochloric acid and intrinsic factor, and chief cells that produce pepsinogen and gastric lipase^[https://en.wikipedia.org/wiki/Gastric_glands]
