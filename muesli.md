@@ -3,7 +3,8 @@
 1. 1 g appelstroop per 2 g muesli
 2. 2x4 min. 170 °C
 3. kom afkoelen in andere kom met koud water, waardoor het 'karamel' hard wordt (en kom veilig om vast te pakken en uit te eten)
-4. eventueel met melk
+4. Tip: Als je van tevoren een dun laagje olie in de kom doet voordat je begint met mengen, blijft het minder snel plakken!
+5. eventueel met melk
 ## Original Bircher-Benner recipe
 1. The original Bircher-Benner recipe consists of the following ingredients^[https://en.wikipedia.org/wiki/Muesli#Original_Bircher-Benner_recipe]:
 - Apples, "two or three small apples or one large one". The whole apple was to be used, including skin, core, and pips.
