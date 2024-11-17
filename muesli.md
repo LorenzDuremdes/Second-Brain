@@ -1,5 +1,5 @@
 # recipes
-## appelstroop met kaneelpoeder
+## appelstroop met kaneelpoeder in [[air fryer]]
 1. 1 g appelstroop per 2 g muesli
 2. 2x4 min. 170 °C
 3. kom afkoelen in andere kom met koud water, waardoor het 'karamel' hard wordt (en kom veilig om vast te pakken en uit te eten)
