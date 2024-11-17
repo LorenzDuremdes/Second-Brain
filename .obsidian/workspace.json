@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "703006d8bce5673a",
+            "id": "3dc9eedf799b97ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "banana.md",
+                "file": "bain-marie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "banana"
+              "title": "bain-marie"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "banana.md",
+                "file": "bain-marie.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from banana"
+              "title": "Outgoing links from bain-marie"
             }
           },
           {
@@ -150,10 +150,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "703006d8bce5673a",
+  "active": "3dc9eedf799b97ee",
   "lastOpenFiles": [
-    "muesli.md",
+    "Can-in-can_steaming.png",
     "banana.md",
+    "bain-marie.md",
+    "muesli.md",
     "Parasite (2019).md",
     "film.md",
     "motif.md",
@@ -176,8 +178,6 @@
     "large intestine.md",
     "ileum.md",
     "cholecystokinin.md",
-    "peptide hormone.md",
-    "ultra-processed food.md",
     "334px-Gray994-adenoid.png",
     "Effect of cadence on average power output during a time trial.jpg",
     "mesal aspect of a brain sectioned in the median sagittal plane.png",
