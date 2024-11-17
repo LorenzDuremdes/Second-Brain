@@ -2,3 +2,13 @@
 ## appelstroop met kaneelpoeder
 1. 1 g appelstroop per 2 g muesli
 2. 2x4 min. 170 °C
+3. eventueel met melk
+## Original Bircher-Benner recipe
+1. The original Bircher-Benner recipe consists of the following ingredients^[https://en.wikipedia.org/wiki/Muesli#Original_Bircher-Benner_recipe]:
+- Apples, "two or three small apples or one large one". The whole apple was to be used, including skin, core, and pips.
+- Nuts, either walnuts, almonds, or hazelnuts, one tablespoon.
+- Rolled oats, one tablespoon, "previously soaked in 3 tablespoons water for 12 hours".
+- Lemon juice from half a lemon.
+- Either cream and honey or sweetened condensed milk, 1 tablespoon.
+
+The dish was prepared by mixing the cream and honey or condensed milk with the soaked oats and lemon juice and, while stirring, grating the whole apple into the mixture. This method prevented the apple pulp from browning. The intent was to serve the dish fresh, immediately before any other dishes in the meal.
