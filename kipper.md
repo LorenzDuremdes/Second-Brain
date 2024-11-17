@@ -1,0 +1,1 @@
+1. kipper; a whole herring, a small, oily [[fish]], that has been split in a [[butterflying|butterfly fashion]] from tail to head along the dorsal ridge, gutted, salted or pickled, and cold-smoked over smouldering wood chips (typically oak)^[https://en.wikipedia.org/wiki/Kipper]

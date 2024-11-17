@@ -1,0 +1,1 @@
+1. butterflying; a way of preparing meat, fish, or poultry for cooking by cutting it almost in two, but leaving the two parts connected; it is then often boned and flattened.^[https://en.wikipedia.org/wiki/Butterflying]
