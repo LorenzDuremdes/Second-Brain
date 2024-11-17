@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "endocrine gland.md",
+                "file": "banana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "endocrine gland"
+              "title": "banana"
             }
           }
         ]
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "endocrine gland.md",
+                "file": "banana.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from endocrine gland"
+              "title": "Outgoing links from banana"
             }
           },
           {
@@ -127,14 +126,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "adenoid.md"
+                "file": "banana.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of adenoid"
+              "title": "Outline of banana"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -153,6 +152,7 @@
   },
   "active": "3d6c3bd05257ce4b",
   "lastOpenFiles": [
+    "endocrine gland.md",
     "oxyntic gland.md",
     "film.md",
     "kipper.md",
@@ -180,7 +180,6 @@
     "peptide YY.md",
     "vegetable.md",
     "vegetable.md",
-    "large intestine.md",
     "334px-Gray994-adenoid.png",
     "Effect of cadence on average power output during a time trial.jpg",
     "mesal aspect of a brain sectioned in the median sagittal plane.png",

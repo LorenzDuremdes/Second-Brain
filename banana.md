@@ -42,3 +42,6 @@ De combinatie van zoet, zout en mild pittig zorgt voor een soort "laagjes" in de
 ### **Tips voor meer pit of zout-effect:**
 - **Voor pittigheid:** Strooi wat extra chilipoeder na het bakken, zodat je zowel de diepe als frisse pittige smaak krijgt.
 - **Voor zout:** Experimenteer met verschillende soorten zout, zoals zeezout of rookzout, om te zien hoe dat de smaak verder verrijkt.
+
+## zie ook
+1. https://cookeatlivelove.com/air-fryer-bananas/, cinnamon, coconut oil, Himalayan pink salt
