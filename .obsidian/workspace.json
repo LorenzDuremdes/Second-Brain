@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "banana.md",
+                "file": "mashed potato.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "banana"
+              "title": "mashed potato"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "endocrine",
+                "query": "potat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -126,10 +127,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "banana.md"
+                "file": "mashed potato.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of banana"
+              "title": "Outline of mashed potato"
             }
           }
         ],
@@ -152,6 +153,7 @@
   },
   "active": "3d6c3bd05257ce4b",
   "lastOpenFiles": [
+    "banana.md",
     "endocrine gland.md",
     "oxyntic gland.md",
     "film.md",
@@ -160,7 +162,6 @@
     "bain-marie.md",
     "Untitled",
     "Can-in-can_steaming.png",
-    "banana.md",
     "muesli.md",
     "Parasite (2019).md",
     "motif.md",
