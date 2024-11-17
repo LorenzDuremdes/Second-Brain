@@ -11,6 +11,7 @@
 - **Textuur:** Een dun laagje olie kan een licht knapperige textuur bevorderen, vooral als de muesli geroosterd wordt. Dit maakt het geheel smaakvoller en aangenamer om te eten.
 
 Als je bijvoorbeeld olijfolie met een lichte smaak of kokosolie gebruikt, voegt dit een zachte nootachtige of tropische smaak toe die goed kan combineren met appelstroop en kaneel. Let er wel op dat je niet te veel olie gebruikt, zodat het subtiel blijft!
+
 ## Original Bircher-Benner recipe
 1. The original Bircher-Benner recipe consists of the following ingredients^[https://en.wikipedia.org/wiki/Muesli#Original_Bircher-Benner_recipe]:
 - Apples, "two or three small apples or one large one". The whole apple was to be used, including skin, core, and pips.
