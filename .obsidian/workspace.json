@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "oxyntic gland.md",
+                "file": "endocrine gland.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "oxyntic gland"
+              "title": "endocrine gland"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "banana",
+                "query": "endocrine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "oxyntic gland.md",
+                "file": "endocrine gland.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from oxyntic gland"
+              "title": "Outgoing links from endocrine gland"
             }
           },
           {
@@ -152,8 +153,8 @@
   },
   "active": "3d6c3bd05257ce4b",
   "lastOpenFiles": [
-    "film.md",
     "oxyntic gland.md",
+    "film.md",
     "kipper.md",
     "butterflying.md",
     "bain-marie.md",
