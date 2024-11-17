@@ -4,7 +4,13 @@
 2. 2x4 min. 170 °C
 3. kom afkoelen in andere kom met koud water, waardoor het 'karamel' hard wordt (en kom veilig om vast te pakken en uit te eten)
 4. Tip: Als je van tevoren een dun laagje olie in de kom doet voordat je begint met mengen, blijft het minder snel plakken!
-5. eventueel met melk
+5. Ja, het gebruik van een beetje olie kan inderdaad de smaak subtiel verbeteren! Dit gebeurt op verschillende manieren:
+
+- **Smaakversterker:** Olie (vooral als je een smaakvolle olie zoals kokosolie, hazelnootolie of amandelolie gebruikt) kan een extra laagje aroma toevoegen, waardoor de appelstroop en kaneel nog beter tot hun recht komen.
+- **Karamelisatie:** De olie helpt de hitte gelijkmatig te verdelen, wat zorgt voor een betere karamelisatie van de suikers in de appelstroop. Dit geeft een diepere, rijkere smaak aan de muesli.
+- **Textuur:** Een dun laagje olie kan een licht knapperige textuur bevorderen, vooral als de muesli geroosterd wordt. Dit maakt het geheel smaakvoller en aangenamer om te eten.
+
+Als je bijvoorbeeld olijfolie met een lichte smaak of kokosolie gebruikt, voegt dit een zachte nootachtige of tropische smaak toe die goed kan combineren met appelstroop en kaneel. Let er wel op dat je niet te veel olie gebruikt, zodat het subtiel blijft!
 ## Original Bircher-Benner recipe
 1. The original Bircher-Benner recipe consists of the following ingredients^[https://en.wikipedia.org/wiki/Muesli#Original_Bircher-Benner_recipe]:
 - Apples, "two or three small apples or one large one". The whole apple was to be used, including skin, core, and pips.
