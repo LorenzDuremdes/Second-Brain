@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "79444b7a6dc23825",
+            "id": "928847ebd179dac7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pinda.md",
+                "file": "sous vide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pinda"
+              "title": "sous vide"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "banana.md",
+                "file": "sous vide.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from banana"
+              "title": "Outgoing links from sous vide"
             }
           },
           {
@@ -126,14 +126,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pinda.md"
+                "file": "sous vide.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of pinda"
+              "title": "Outline of sous vide"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,10 +150,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "79444b7a6dc23825",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "mashed potato.md",
     "pinda.md",
+    "sous vide.md",
+    "mashed potato.md",
     "banana.md",
     "endocrine gland.md",
     "oxyntic gland.md",
@@ -179,7 +180,6 @@
     "millet.md",
     "glucagon-like peptide 1.md",
     "peptide YY.md",
-    "vegetable.md",
     "334px-Gray994-adenoid.png",
     "Effect of cadence on average power output during a time trial.jpg",
     "mesal aspect of a brain sectioned in the median sagittal plane.png",
