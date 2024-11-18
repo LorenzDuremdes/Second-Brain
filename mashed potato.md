@@ -21,6 +21,4 @@
 	   
    **1 tot 2 gram eiwitpoeder per 100 gram aardappelen**. Dit zou een subtiele smaak moeten geven zonder dat de karamelsmaak te sterk is. Als je van de zoetere smaak houdt, kun je meer toevoegen, maar wees voorzichtig, omdat het te zoet kan worden in combinatie met de hartige knoflook en Italiaanse kruiden.
 
-## Kruimige aardappelen met knoflookpoeder, zwarte peper, zout (stoomkoker) + bloemkool met knoflookpoeder, zout, en chilipoeder ([[air fryer]])
-1. Kruimige aardappelen met zwarte peper, zout, en knoflookpoeder tijdens het stomen
-	1. Zelfde met bloemkool in air fryer
+## 

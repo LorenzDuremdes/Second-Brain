@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mashed potato.md",
+                "file": "potato.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mashed potato"
+              "title": "potato"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spice",
+                "query": "potato",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mashed potato.md",
+                "file": "potato.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from mashed potato"
+              "title": "Outgoing links from potato"
             }
           },
           {
@@ -152,8 +153,8 @@
   },
   "active": "f7825700fd46238d",
   "lastOpenFiles": [
-    "spice.md",
     "mashed potato.md",
+    "spice.md",
     "sous vide.md",
     "pinda.md",
     "banana.md",
