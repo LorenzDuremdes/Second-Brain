@@ -6,4 +6,4 @@
 # recipes
 # Kruimige aardappelen met knoflookpoeder, zwarte peper, zout (stoomkoker) + bloemkool met knoflookpoeder, zout, en chilipoeder ([[air fryer]])
 1. Kruimige aardappelen met zwarte peper, zout, en knoflookpoeder tijdens het stomen
-	1. Zelfde met bloemkool in [[air fryer]]
+	1. Zelfde met bloemkool in [[air fryer]] 2x6 min. 200 °C
