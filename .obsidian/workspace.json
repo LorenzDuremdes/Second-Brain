@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "potato.md",
+                "file": "banana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "potato"
+              "title": "banana"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "potato",
+                "query": "banana",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "potato.md",
+                "file": "banana.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from potato"
+              "title": "Outgoing links from banana"
             }
           },
           {
@@ -153,8 +153,8 @@
   },
   "active": "f7825700fd46238d",
   "lastOpenFiles": [
-    "mashed potato.md",
     "potato.md",
+    "mashed potato.md",
     "spice.md",
     "sous vide.md",
     "pinda.md",

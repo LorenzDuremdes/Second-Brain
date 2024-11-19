@@ -1,4 +1,7 @@
 # recipes
+## honing en kaneelpoeder
+1. [[air fryer]] 180 °C 5–7 min. (1x tussendoor omrollen)
+
 ## chili met zout
 1. Ja, alleen zout, banaan en chilipoeder kan ook een interessante combinatie zijn in de [[air fryer]]! De zoetheid van de banaan, het pittige van de chilipoeder en de zoute smaak kunnen een verrassend lekkere mix vormen. Dit zou een meer hartige snack kunnen opleveren met een vleugje zoetheid.
 
