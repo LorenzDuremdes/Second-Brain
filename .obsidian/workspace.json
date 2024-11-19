@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spaghetti.md",
+                "file": "rice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "spaghetti"
+              "title": "rice"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spaghetti",
+                "query": "rice",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spaghetti.md",
+                "file": "rice.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from spaghetti"
+              "title": "Outgoing links from rice"
             }
           },
           {
@@ -152,8 +153,8 @@
   },
   "active": "dcabc2ed8f168b3f",
   "lastOpenFiles": [
-    "confectionery.md",
     "spaghetti.md",
+    "confectionery.md",
     "pâtisserie.md",
     "banana.md",
     "potato.md",
