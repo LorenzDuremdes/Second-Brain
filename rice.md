@@ -5,3 +5,4 @@
 	3. **sauzen**: knoflooksaus
 
 ## Zilvervliesrijst met ei, knoflooksaus, zout, ijsbergsla, en zwarte peper
+1. 15 g knoflooksaus met 80 g zilvervliesrijst en 1 licht gekookte ei + 100 g ijsbergsla
