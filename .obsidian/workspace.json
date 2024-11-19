@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rice.md",
+                "file": "pinda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rice"
+              "title": "pinda"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rice",
+                "query": "rooster",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rice.md",
+                "file": "pinda.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from rice"
+              "title": "Outgoing links from pinda"
             }
           },
           {
@@ -150,8 +150,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "dcabc2ed8f168b3f",
+  "active": "4c7c506bcb1fd0b8",
   "lastOpenFiles": [
+    "muesli.md",
+    "rice.md",
     "spaghetti.md",
     "confectionery.md",
     "pâtisserie.md",
@@ -169,7 +171,6 @@
     "bain-marie.md",
     "Untitled",
     "Can-in-can_steaming.png",
-    "muesli.md",
     "Parasite (2019).md",
     "motif.md",
     "The Favourite (2018).md",
@@ -179,7 +180,6 @@
     "food desert.md",
     "food noise.md",
     "game pie.md",
-    "Victorian era.md",
     "334px-Gray994-adenoid.png",
     "Effect of cadence on average power output during a time trial.jpg",
     "mesal aspect of a brain sectioned in the median sagittal plane.png",

@@ -6,7 +6,7 @@
 - **Afkoelen**: Laat de pinda's na het roosteren een paar minuten afkoelen. Ze worden knapperiger naarmate ze afkoelen.
 - **Gebruik ze direct**: Nu kun je de geroosterde pinda's mengen met de gesmolten chocolade voor een lekker tussendoortje of snack!
 
-1. **Smelt de chocolade**: Hak de melkchocolade in kleine stukjes en smelt deze au bain-marie (door de chocolade boven een pan met heet water te plaatsen) of in de magnetron. Als je de magnetron gebruikt, doe dit dan in korte intervallen van 20-30 seconden en roer steeds door om aanbranden te voorkomen.
+1. **Smelt de chocolade**: Hak de melkchocolade in kleine stukjes en smelt deze au [[bain-marie]] (door de chocolade boven een pan met heet water te plaatsen) of in de magnetron. Als je de magnetron gebruikt, doe dit dan in korte intervallen van 20-30 seconden en roer steeds door om aanbranden te voorkomen.
 2. **Voeg de pinda's toe**: Zodra de chocolade gesmolten is, voeg je de gezouten pinda's toe aan de gesmolten chocolade. Meng goed zodat alle pinda's bedekt zijn met chocolade.
 3. **Giet op bakpapier**: Bekleed een bakplaat of een groot bord met bakpapier en giet het mengsel van chocolade en pinda's erop. Verspreid het mengsel gelijkmatig.
 4. **Laat het opstijven**: Zet de bakplaat in de koelkast of op een koele plaats om de chocolade weer hard te laten worden. Dit duurt ongeveer 30-60 minuten.
