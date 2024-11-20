@@ -1,0 +1,1 @@
+1. galette bretonne (French: Galette bretonne [galɛt bʁətɔn]); a pancake made with buckwheat [[flour]] usually with a savoury filling^[https://en.wikipedia.org/wiki/Galette]
