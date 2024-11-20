@@ -1,0 +1,3 @@
+1. *pain au chocolat* (French: [pɛ̃ o ʃɔkɔla] ⓘ; lit. 'bread with [[chocolate]]'); also known as chocolatine (French: [ʃɔkɔlatin] ⓘ) in the south-west part of France and in French speaking parts of Canada, couque au chocolat in Belgium, or chocolate croissant in the United States, is a type of Viennoiserie [[pastry]] consisting of a cuboid-shaped piece of yeast-leavened laminated dough, similar in texture to a puff pastry, with one or two pieces of dark chocolate in the center^[https://en.wikipedia.org/wiki/Pain_au_chocolat]
+   
+   By I, Luc Viatour, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=986493 ![[640px-Pain_au_chocolat_Luc_Viatour.jpg]]

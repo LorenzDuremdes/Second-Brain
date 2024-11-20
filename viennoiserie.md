@@ -1,0 +1,1 @@
+1. viennoiserie (French: [vjɛnwazʁi]; French baked goods made from a yeast-leavened dough in a manner similar to bread, or from puff [[pastry]], but with added ingredients (particularly eggs, butter, [[milk]], cream and sugar), which give them a richer, sweeter character that approaches that of pastry. E.g. [[pain au chocolat]]^[https://en.wikipedia.org/wiki/Viennoiserie]
