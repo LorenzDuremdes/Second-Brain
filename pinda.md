@@ -1,5 +1,5 @@
 # recipes
-## geroosterde gezouten pinda's met chocolade
+## geroosterde gezouten pinda's met [[chocolade]]
 1. - **Voorverwarmen**: Verwarm je airfryer voor op 160°C voor een paar minuten.
  - **Pinda's voorbereiden**: Verspreid de gezouten pinda's gelijkmatig in het mandje van de airfryer. Je kunt ze eventueel licht in olie besprenkelen als je een nog krokanter resultaat wilt, maar dit is niet noodzakelijk omdat de pinda's al gezouten zijn.
 - **Roosteren**: Zet de pinda's in de airfryer en rooster ze gedurende 5-7 minuten. Schud het mandje halverwege de tijd om ervoor te zorgen dat ze gelijkmatig roosteren.
