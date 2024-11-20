@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "crêpe.md",
+                "file": "galette bretonne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "crêpe"
+              "title": "galette bretonne"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "crêpe.md",
+                "file": "galette bretonne.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from crêpe"
+              "title": "Outgoing links from galette bretonne"
             }
           },
           {
@@ -150,10 +150,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "76cebba9ecd5dcec",
   "lastOpenFiles": [
-    "frying pan.md",
     "crêpe.md",
+    "frying pan.md",
     "dough.md",
     "640px-Crepes_dsc07085.jpg",
     "galette bretonne.md",
