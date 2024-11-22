@@ -1,0 +1,1 @@
+1. *nouvelle cuisine*; characterized by lighter, more delicate dishes and an increased emphasis on presentation^[https://en.wikipedia.org/wiki/Nouvelle_cuisine]
