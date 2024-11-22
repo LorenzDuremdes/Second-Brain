@@ -1,0 +1,1 @@
+1. *service à la française* (French: [sɛʁvis a la fʁɑ̃sɛːz]; "service in the French style"); the practice of serving various dishes of a meal at the same time, with the diners helping themselves from the serving dishes^[https://en.wikipedia.org/wiki/Service_%C3%A0_la_fran%C3%A7aise]

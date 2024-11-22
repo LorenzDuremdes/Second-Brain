@@ -1,0 +1,3 @@
+1. *service à la russe* (French: [sɛʁvis a la ʁys]; 'service in the Russian style'); a manner of dining with courses brought to the table sequentially, and the [[food]] portioned on individual plates by the waiter (typically from a sideboard in the dining room)
+   
+   It contrasts with the older *[[service à la française]]* ('service in the French style'), based on several courses brought to the table simultaneously in an impressive display of tureens and serving dishes with diners plating food themselves.^[https://en.wikipedia.org/wiki/Service_%C3%A0_la_russe]
