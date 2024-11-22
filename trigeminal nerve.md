@@ -1,0 +1,1 @@
+1. a cranial nerve responsible for sensation in the face and motor functions such as biting and chewing^[https://en.wikipedia.org/wiki/Trigeminal_nerve]
