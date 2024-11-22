@@ -1,0 +1,5 @@
+1. '[[obesity|obesogenic]] eating style'; characterised by faster eating rates, achieved through larger bites, reduced chewing and shorter oral exposure time^[[A description of an 'obesogenic' eating style that promotes higher energy intake and is associated with greater adiposity in 4.5year-old children: Results from the GUSTO cohort](https://pubmed.ncbi.nlm.nih.gov/28213204/)]
+2. We show that going from unprocessed, to processed, to UPFs that the average energy intake rate increases from 35.5 ± 4.4, to 53.7 ± 4.3, to 69.4 ± 3.1 kcal/min (_P_ < 0.05)^[[Ultra-Processing or Oral Processing? A Role for Energy Density and Eating Rate in Moderating Energy Intake from Processed Foods](https://pubmed.ncbi.nlm.nih.gov/32110771/)]
+
+# see also
+1. Ultra-Processed People The Science Behind the [[Food]] That Isnt Food (Chris van Tulleken), p. 158
