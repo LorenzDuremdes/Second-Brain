@@ -1,0 +1,3 @@
+1. Measured by weight, vanilla is the second-most expensive [[spice]] after saffron, because growing the vanilla seed pods is labor-intensive. Nevertheless, vanilla is widely used in both commercial and domestic baking, [[perfume]] production, and aromatherapy, as only small amounts are needed to impart its signature flavor and aroma.^[https://en.wikipedia.org/wiki/Vanilla]
+2. how can vanilla make something sweeter even if it doesn't add sugar nor is an artificial sweetener?
+	1. vanilla, technically a molecule you smell, when added to ice cream will make it seem sweeter, even without adding more sugar.^[Ultra-Processed People The Science Behind the Food That Isnt Food (Chris van Tulleken), p. 162]
