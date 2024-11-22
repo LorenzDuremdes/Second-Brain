@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vanilla.md",
+                "file": "gastronomy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vanilla"
+              "title": "gastronomy"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ultra",
+                "query": "gastronomy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vanilla.md",
+                "file": "gastronomy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for vanilla"
+              "title": "Backlinks for gastronomy"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vanilla.md",
+                "file": "gastronomy.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from vanilla"
+              "title": "Outgoing links from gastronomy"
             }
           },
           {
@@ -152,8 +153,10 @@
   },
   "active": "92c89f54e3207262",
   "lastOpenFiles": [
-    "reverse perspective.md",
+    "odor.md",
+    "gastronomy.md",
     "vanilla.md",
+    "reverse perspective.md",
     "'obesogenic eating style'.md",
     "ultra-processed food.md",
     "trigeminal nerve.md",
@@ -179,8 +182,6 @@
     "chocolade.md",
     "Grand Tour (cycling).md",
     "rice.md",
-    "spaghetti.md",
-    "confectionery.md",
     "Untitled",
     "Can-in-can_steaming.png",
     "334px-Gray994-adenoid.png",
