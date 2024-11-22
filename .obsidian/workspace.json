@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gastronomy.md",
+                "file": "Grand Tour (cycling).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gastronomy"
+              "title": "Grand Tour (cycling)"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gastronomy",
+                "query": "grand tour",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gastronomy.md",
+                "file": "Grand Tour (cycling).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from gastronomy"
+              "title": "Outgoing links from Grand Tour (cycling)"
             }
           },
           {
@@ -153,8 +153,8 @@
   },
   "active": "92c89f54e3207262",
   "lastOpenFiles": [
-    "odor.md",
     "gastronomy.md",
+    "odor.md",
     "vanilla.md",
     "reverse perspective.md",
     "'obesogenic eating style'.md",
