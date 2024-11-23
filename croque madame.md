@@ -1,0 +1,1 @@
+1. croque madame; a croque monsieur served with a poached or lightly fried [[egg]] on top^[https://en.wikipedia.org/wiki/Croque_monsieur#Variations]
