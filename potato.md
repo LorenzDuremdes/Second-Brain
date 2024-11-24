@@ -6,6 +6,8 @@
 # recipes
 # Kruimige aardappelen met peterselie en bieslook + ham met zwarte peper + gesmolten Zwitserse [[Gruyère cheese|Gruyère]] + ijsbergsla
 1. Stoomkoker: onderste bak aardappelen, middelste ham, bovenste kaas
+	1. De ham pas de laatste 10 minuten
+	2. De kaas pas laatste minuten
 2. Daarna de ham met zwarte peper bakken in een pan met gezouten roomboter
 3. Peterselie en bieslook over de aardappelen op het eind
 4. Plaats ijsbergsla onder de ham voor visuele presentatie
