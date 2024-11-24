@@ -1,0 +1,1 @@
+1. Gruyère [[cheese]]; classified as a [[Swiss-type cheeses|Swiss-type or Alpine cheese]] and is sweet but slightly salty, with a flavour that varies widely with age. It is often described as creamy and nutty when young, becoming more assertive, earthy, and complex as it matures

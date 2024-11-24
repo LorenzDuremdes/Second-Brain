@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "potato.md",
+                "file": "Gruyère cheese.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "potato"
+              "title": "Gruyère cheese"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "potato",
+                "query": "gruyère",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "potato.md",
+                "file": "Gruyère cheese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for potato"
+              "title": "Backlinks for Gruyère cheese"
             }
           },
           {
@@ -113,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "potato.md",
+                "file": "Gruyère cheese.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from potato"
+              "title": "Outgoing links from Gruyère cheese"
             }
           },
           {
@@ -153,6 +152,7 @@
   },
   "active": "cf6c7bb039d4510d",
   "lastOpenFiles": [
+    "Swiss-type cheeses.md",
     "Gruyère cheese.md",
     "potato.md",
     "banana.md",
@@ -179,7 +179,6 @@
     "dough.md",
     "640px-Crepes_dsc07085.jpg",
     "galette bretonne.md",
-    "viennoiserie.md",
     "640px-Jean_Philippe_-_Pastries.jpg",
     "640px-Pain_au_chocolat_Luc_Viatour.jpg",
     "Untitled",
