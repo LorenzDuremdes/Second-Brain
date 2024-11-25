@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "haute cuisine.md",
+                "file": "tea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "haute cuisine"
+              "title": "tea"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "haute cuisine",
+                "query": "\"tea\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "haute cuisine.md",
+                "file": "tea.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from haute cuisine"
+              "title": "Outgoing links from tea"
             }
           },
           {
@@ -153,6 +153,7 @@
   },
   "active": "cf6c7bb039d4510d",
   "lastOpenFiles": [
+    "haute cuisine.md",
     "culinary arts.md",
     "gastronomy.md",
     "Gruyère cheese.md",
@@ -174,7 +175,6 @@
     "nouvelle cuisine.md",
     "service à la russe.md",
     "service à la française.md",
-    "haute cuisine.md",
     "French cuisine.md",
     "crêpe.md",
     "frying pan.md",
