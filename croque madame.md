@@ -1,7 +1,7 @@
 1. croque madame; a croque monsieur served with a poached or lightly fried [[egg]] on top^[https://en.wikipedia.org/wiki/Croque_monsieur#Variations]
 
 # recipes
-## Met boerenbrood volkoren meergranen, comté 45+ en serranoham reserva
+## Met boerenbrood volkoren meergranen, comté 45+, serranoham reserva, en gepocheerd ei
 1. 40 (2x20) g Comté met 30 g serranoham reserva (of 1 plak), en 2 sneetjes boerenbrood volkoren meergranen + 2x5 g gezouten roomboter
 2. Een croque madame zoals deze zal een heerlijke balans hebben van rijke, zoute en nootachtige smaken. Hier is een idee van hoe de smaken zich mengen:
 - **Boerenbrood volkoren meerzaden:** De stevige structuur van het brood en de aardse smaken van de zaden vormen een robuuste basis. De licht geroosterde korst zorgt voor een extra knapperige textuur.
