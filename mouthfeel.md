@@ -1,0 +1,1 @@
+1. mouthfeel; refers to the physical sensations in the mouth caused by [[food]] or [[drink]], making it distinct from [[taste]]. Mouthfeel is also sometimes referred to as texture.^[https://en.wikipedia.org/wiki/Mouthfeel]
