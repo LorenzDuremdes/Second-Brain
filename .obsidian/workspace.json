@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tea.md",
+                "file": "pancake.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tea"
+              "title": "pancake"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tea.md",
+                "file": "pancake.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from tea"
+              "title": "Outgoing links from pancake"
             }
           },
           {
@@ -152,11 +152,11 @@
   },
   "active": "d4f29f0d220b73b6",
   "lastOpenFiles": [
+    "tea.md",
     "spice.md",
     "[OC] Percent of recipes including herb spice seasoning by cuisine.jpg",
     "pancake.md",
     "galette bretonne.md",
-    "tea.md",
     "haute cuisine.md",
     "culinary arts.md",
     "gastronomy.md",
