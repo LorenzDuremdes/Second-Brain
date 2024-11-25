@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pancake.md",
+                "file": "spice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pancake"
+              "title": "spice"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pancake",
+                "query": "spice",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pancake.md",
+                "file": "spice.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from pancake"
+              "title": "Outgoing links from spice"
             }
           },
           {
@@ -153,8 +153,9 @@
   },
   "active": "d4f29f0d220b73b6",
   "lastOpenFiles": [
-    "galette bretonne.md",
+    "[OC] Percent of recipes including herb spice seasoning by cuisine.jpg",
     "pancake.md",
+    "galette bretonne.md",
     "tea.md",
     "haute cuisine.md",
     "culinary arts.md",
@@ -178,7 +179,6 @@
     "nouvelle cuisine.md",
     "service à la russe.md",
     "service à la française.md",
-    "French cuisine.md",
     "640px-Crepes_dsc07085.jpg",
     "640px-Jean_Philippe_-_Pastries.jpg",
     "640px-Pain_au_chocolat_Luc_Viatour.jpg",
