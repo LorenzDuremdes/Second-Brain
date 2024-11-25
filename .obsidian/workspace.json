@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gruyère cheese.md",
+                "file": "haute cuisine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gruyère cheese"
+              "title": "haute cuisine"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gruyère",
+                "query": "haute cuisine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gruyère cheese.md",
+                "file": "haute cuisine.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Gruyère cheese"
+              "title": "Outgoing links from haute cuisine"
             }
           },
           {
@@ -152,11 +153,12 @@
   },
   "active": "cf6c7bb039d4510d",
   "lastOpenFiles": [
-    "Swiss-type cheeses.md",
+    "culinary arts.md",
+    "gastronomy.md",
     "Gruyère cheese.md",
+    "Swiss-type cheeses.md",
     "potato.md",
     "banana.md",
-    "gastronomy.md",
     "croque madame.md",
     "sauce mère.md",
     "sauce hollandaise.md",
@@ -178,7 +180,6 @@
     "frying pan.md",
     "dough.md",
     "640px-Crepes_dsc07085.jpg",
-    "galette bretonne.md",
     "640px-Jean_Philippe_-_Pastries.jpg",
     "640px-Pain_au_chocolat_Luc_Viatour.jpg",
     "Untitled",
