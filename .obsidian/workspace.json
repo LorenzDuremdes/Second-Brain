@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mouthfeel.md",
+                "file": "croque madame.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mouthfeel"
+              "title": "croque madame"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"salt\"",
+                "query": "croque",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mouthfeel.md",
+                "file": "croque madame.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from mouthfeel"
+              "title": "Outgoing links from croque madame"
             }
           },
           {
@@ -152,8 +153,8 @@
   },
   "active": "689c101c59e7d3b6",
   "lastOpenFiles": [
-    "taste.md",
     "mouthfeel.md",
+    "taste.md",
     "drink.md",
     "salt.md",
     "pancake.md",
