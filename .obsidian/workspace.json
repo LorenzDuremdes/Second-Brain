@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spice.md",
+                "file": "tea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "spice"
+              "title": "tea"
             }
           }
         ]
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spice.md",
+                "file": "tea.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from spice"
+              "title": "Outgoing links from tea"
             }
           },
           {
@@ -153,6 +152,7 @@
   },
   "active": "d4f29f0d220b73b6",
   "lastOpenFiles": [
+    "spice.md",
     "[OC] Percent of recipes including herb spice seasoning by cuisine.jpg",
     "pancake.md",
     "galette bretonne.md",
@@ -189,7 +189,6 @@
     "mesal aspect of a brain sectioned in the median sagittal plane.png",
     "Gold Phantom Extreme Engineering.png",
     "Lekker op de fiets r_NederlandseMemes.jpeg",
-    "The meninges dura mater, arachnoid mater and pia mater.png",
     "sodium"
   ]
 }
