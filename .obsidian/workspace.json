@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pancake.md",
+                "file": "salt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pancake"
+              "title": "salt"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "spice",
+                "query": "\"salt\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pancake.md",
+                "file": "salt.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from pancake"
+              "title": "Outgoing links from salt"
             }
           },
           {
@@ -152,10 +153,10 @@
   },
   "active": "d4f29f0d220b73b6",
   "lastOpenFiles": [
+    "pancake.md",
     "tea.md",
     "spice.md",
     "[OC] Percent of recipes including herb spice seasoning by cuisine.jpg",
-    "pancake.md",
     "galette bretonne.md",
     "haute cuisine.md",
     "culinary arts.md",
