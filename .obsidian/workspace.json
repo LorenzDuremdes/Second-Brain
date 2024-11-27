@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28f4fb2bd485491d",
+            "id": "ca2a1717545e6de1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "croque madame.md",
+                "file": "Comté cheese.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "croque madame"
+              "title": "Comté cheese"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "croque",
+                "query": "comté",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gruyère cheese.md",
+                "file": "Comté cheese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gruyère cheese"
+              "title": "Backlinks for Comté cheese"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "croque madame.md",
+                "file": "Comté cheese.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from croque madame"
+              "title": "Outgoing links from Comté cheese"
             }
           },
           {
@@ -150,10 +150,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "28f4fb2bd485491d",
+  "active": "ca2a1717545e6de1",
   "lastOpenFiles": [
-    "poached egg.md",
     "croque madame.md",
+    "Comté cheese.md",
+    "poached egg.md",
     "mouthfeel.md",
     "taste.md",
     "drink.md",
@@ -178,7 +179,6 @@
     "odor.md",
     "vanilla.md",
     "reverse perspective.md",
-    "'obesogenic eating style'.md",
     "640px-Crepes_dsc07085.jpg",
     "640px-Jean_Philippe_-_Pastries.jpg",
     "640px-Pain_au_chocolat_Luc_Viatour.jpg",
