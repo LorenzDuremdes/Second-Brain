@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "poached egg.md",
+                "file": "croque madame.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "poached egg"
+              "title": "croque madame"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "poached egg.md",
+                "file": "croque madame.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from poached egg"
+              "title": "Outgoing links from croque madame"
             }
           },
           {
@@ -152,8 +152,8 @@
   },
   "active": "28f4fb2bd485491d",
   "lastOpenFiles": [
-    "croque madame.md",
     "poached egg.md",
+    "croque madame.md",
     "mouthfeel.md",
     "taste.md",
     "drink.md",

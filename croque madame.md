@@ -2,7 +2,7 @@
 
 # recipes
 ## Met boerenbrood volkoren meergranen, comté 45+, serranoham reserva, en gepocheerd ei
-1. 40 (2x20) g Comté met 30 g serranoham reserva (of 1 plak), en 2 sneetjes boerenbrood volkoren meergranen + 2x5 g gezouten roomboter
+1. 20 (2x10) g Comté met 10 g serranoham reserva (of 1 plak), en 2 sneetjes boerenbrood volkoren meergranen + 2x5 g gezouten roomboter
 2. Een croque madame zoals deze zal een heerlijke balans hebben van rijke, zoute en nootachtige smaken. Hier is een idee van hoe de smaken zich mengen:
 - **Boerenbrood volkoren meerzaden:** De stevige structuur van het brood en de aardse smaken van de zaden vormen een robuuste basis. De licht geroosterde korst zorgt voor een extra knapperige textuur.
 - **Comté 45+:** Deze kaas smelt romig en heeft een volle, nootachtige smaak met subtiele zoetheid, die perfect in balans is met de hartigheid van de ham.
