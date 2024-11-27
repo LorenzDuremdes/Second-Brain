@@ -11,3 +11,4 @@
 - **Ei:** Het zacht lopende eigeel (bij een gebakken of gepocheerd ei) brengt alles samen met zijn romige en milde smaak.
 
 Het geheel is een harmonieuze mix van hartig, romig en krokant, met een vleugje luxe van de comté en serranoham. Het is een perfecte comfortfood met verfijnde smaken.
+3. Met vanillevla en studentenhaver + Appelsientje voor een samenhangende 'late 19e eeuw Frankrijk' ervaring
