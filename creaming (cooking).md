@@ -1,0 +1,1 @@
+1. In baking, it is the blending of ingredients with a softened form of a solid [[fat]]. When a dish is described as being "creamed", it may mean that it has been poached in [[milk]], cream or a similar liquid. "Creaming" can also refer to the separation of cream from milk.^[https://en.wikipedia.org/wiki/Creaming_(cooking)]

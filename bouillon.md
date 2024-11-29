@@ -1,0 +1,1 @@
+1. Broth, also known as bouillon (French pronunciation: [bu.jɔ̃]), is a savory liquid made of water in which [[meat]], [[fish]], or [[vegetable|vegetables]] have been [[simmering|simmered]] for a short period of time^[https://en.wikipedia.org/wiki/Broth]

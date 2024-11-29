@@ -1,4 +1,7 @@
 1. [[food|foods]] containing both [[sugar]] and [[fat]] rarely occur in nature^[The Hungry Brain (Stephan J. Guyenet, Ph.D.), p. 88]
+2. why have humans evolved a very sophisticated detection system in our mouths for glutamate, guanylate, and inosinate?
+	1. because they signify easily digestible [[protein]] not the protein of raw [[meat]], but the protein of perfectly aged, cooked meat. They’re the signature of fermented [[fish]] and [[plant|plants]], rich meaty [[bouillon|broths]], vintage cheese. That’s why foods with these molecules in them taste great.^[Ultra-Processed People The Science Behind the Food That Isnt Food (Chris van Tulleken), p. 172]
+	2. they are all usually added (in conjunction) in UPF
 
 # [[obesity]]
 1. is obesity simply a matter of 'being surrounded by too delicious food e.g. UPF' + why

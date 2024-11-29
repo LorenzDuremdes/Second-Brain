@@ -1,0 +1,3 @@
+1. simmering; a [[cooking|food preparation]] technique by which [[food|foods]] are cooked in hot liquids kept just below the [[boiling point]] of [[water]] (lower than 100 °C) and above [[poaching (cooking)|poaching]] [[temperature]] (higher than 71–80 °C)
+   
+   Simmering ensures gentler treatment than boiling to prevent food from toughening and/or breaking up. Simmering is usually a rapid and efficient method of cooking. Food that has simmered in [[milk]] or cream instead of water is sometimes referred to as [[creaming (cooking)|creamed]]. The appropriate simmering temperature is a topic of debate among chefs, with some contending that a simmer is as low as 82 °C.^[https://en.wikipedia.org/wiki/Simmering]
