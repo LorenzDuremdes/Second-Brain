@@ -1,0 +1,5 @@
+1. are flavor and smell distinct (scientifically)?
+	1. either the sensory perception of [[taste]] or [[sense of smell|smell]], or a flavoring in [[food]] that produces such perception^[https://en.wikipedia.org/wiki/Flavor]
+	2. in scientific terms, flavour is both taste and smell, and flavour molecules are detected by receptors in the nose as well as by taste receptors in the mouth and throat. So, scientifically speaking, two boiled sweets with the same amount of [[sugar]] but different ‘flavours’ may taste identical (sweet), but smell distinct.
+	   
+	   If you put food in your mouth and chew, molecules go up your [[nose]] from the back of your [[mouth]]. This retronasal smell feels like taste, and you experience this kind of smelling as being ‘in the mouth’ – but it isn’t, and it makes a huge contribution to flavour. With a nose clip on, the two sweets will taste the same – sweet. But when you take the nose clip off and odours travel from the mouth to the nose, we can taste their different [[fruit]] flavours.^[Ultra-Processed People The Science Behind the Food That Isnt Food (Chris van Tulleken), p. 163¸ 170]

@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ca2a1717545e6de1",
+            "id": "9fc881bc3d93252e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "croque madame.md",
+                "file": "flavor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "croque madame"
+              "title": "flavor"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "croque madame.md",
+                "file": "flavor.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from croque madame"
+              "title": "Outgoing links from flavor"
             }
           },
           {
@@ -150,10 +150,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ca2a1717545e6de1",
+  "active": "9fc881bc3d93252e",
   "lastOpenFiles": [
-    "Comté cheese.md",
+    "mouth.md",
+    "flavor.md",
+    "nose.md",
+    "sense of smell.md",
     "croque madame.md",
+    "Comté cheese.md",
     "poached egg.md",
     "mouthfeel.md",
     "taste.md",
@@ -175,10 +179,6 @@
     "sauce hollandaise.md",
     "apératif and digestif.md",
     "wine and food pairing.md",
-    "Grand Tour (cycling).md",
-    "odor.md",
-    "vanilla.md",
-    "reverse perspective.md",
     "640px-Crepes_dsc07085.jpg",
     "640px-Jean_Philippe_-_Pastries.jpg",
     "640px-Pain_au_chocolat_Luc_Viatour.jpg",
