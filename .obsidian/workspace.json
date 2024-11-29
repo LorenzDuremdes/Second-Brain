@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9fc881bc3d93252e",
+            "id": "dcbcc7d61f305cc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sense of smell.md",
+                "file": "retronasal smell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sense of smell"
+              "title": "retronasal smell"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "comté",
+                "query": "savoriness",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sense of smell.md",
+                "file": "umami.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from sense of smell"
+              "title": "Outgoing links from umami"
             }
           },
           {
@@ -150,10 +150,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "9fc881bc3d93252e",
+  "active": "4c7c506bcb1fd0b8",
   "lastOpenFiles": [
-    "human.md",
+    "retronasal smell.md",
+    "umami.md",
+    "sourness.md",
+    "bitterness.md",
+    "sweetness.md",
     "sense of smell.md",
+    "human.md",
     "dog.md",
     "flavor.md",
     "mouth.md",
@@ -174,11 +179,6 @@
     "culinary arts.md",
     "gastronomy.md",
     "Gruyère cheese.md",
-    "Swiss-type cheeses.md",
-    "potato.md",
-    "banana.md",
-    "sauce mère.md",
-    "sauce hollandaise.md",
     "640px-Crepes_dsc07085.jpg",
     "640px-Jean_Philippe_-_Pastries.jpg",
     "640px-Pain_au_chocolat_Luc_Viatour.jpg",

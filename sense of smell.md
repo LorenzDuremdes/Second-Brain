@@ -1,5 +1,9 @@
-1. how many different smells can we distinguish?
-	1. A 2014 study tested people using a matrix of different smells and estimated that we can distinguish between more than 1 trillion potential compounds, meaning that you could take any two of the trillion and be able to say: ‘Yes, those are different.’^[Bushdid C, Magnasco MO, Vosshall LB, et al. Humans can discriminate more than 1 trillion olfactory stimuli. Science 2014; 343: 1370–72.]^[McGann JP. Poor human olfaction is a 19th-century myth. Science 2017; 356: eaam7263.]^[Ultra-Processed People The Science Behind the Food That Isnt Food (Chris van Tulleken), p. 164]
+1. can the sense of smell be improved/trained?
+	1. humans can learn to follow a [[odor|scent]] trail like a dog and we improve massively with a little training, indicating that our smell is an underused sense – like our bones and muscles, it has become flabby and inactive^[Ultra-Processed People The Science Behind the Food That Isnt Food (Chris van Tulleken), p. 170]
+2. how many different smells can we distinguish?
+	1. A 2014 study tested people using a matrix of different smells and estimated that we can distinguish between more than 1 trillion potential compounds, meaning that you could take any two of the trillion and be able to say: ‘Yes, those are different.’^[Bushdid C, Magnasco MO, Vosshall LB, et al. Humans can discriminate more than 1 trillion olfactory stimuli. Science 2014; 343: 1370–72.]^[McGann JP. Poor human olfaction is a 19th-century myth. Science 2017; 356: eaam7263.]
+	   
+	   The actual number of discriminable olfactory stimuli – i.e. smells – may be much higher than a trillion. You aren’t just able to distinguish between individual molecules, but between mixtures of thirty different molecules. You can also distinguish mixtures of identical molecules in slightly different ratios.^[Ultra-Processed People The Science Behind the Food That Isnt Food (Chris van Tulleken), p. 164, 170]
 2. can smells be conditioned to smell good?
 	1. humans and animals will learn to love almost any flavour with a smell barcode that is associated with nutritional reward^[Ultra-Processed People The Science Behind the Food That Isnt Food (Chris van Tulleken), p. 165]
 3. are e.g. [[dog|dogs]] per se better at smelling than [[human|humans]]?
