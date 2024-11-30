@@ -11,3 +11,6 @@
 
 # related
 1. [[cafetaria diet]]
+
+# miscellaneous
+1. [Why is it so Easy to be Thin in France?](https://www.youtube.com/watch?v=sHKXlAnVgo8)

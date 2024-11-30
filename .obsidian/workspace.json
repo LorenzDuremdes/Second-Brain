@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "poaching (cooking).md",
+                "file": "obesity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "poaching (cooking)"
+              "title": "obesity"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "plant",
+                "query": "obesity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "poaching (cooking).md",
+                "file": "obesity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from poaching (cooking)"
+              "title": "Outgoing links from obesity"
             }
           },
           {
@@ -152,9 +153,10 @@
   },
   "active": "43cd2a1272f7bf8c",
   "lastOpenFiles": [
+    "abdominal obesity.md",
+    "poaching (cooking).md",
     "simmering.md",
     "creaming (cooking).md",
-    "poaching (cooking).md",
     "boiling point.md",
     "cooking.md",
     "ultra-processed food.md",
@@ -177,7 +179,6 @@
     "human.md",
     "dog.md",
     "flavor.md",
-    "mouth.md",
     "[OC] Percent of recipes including herb spice seasoning by cuisine.jpg",
     "640px-Crepes_dsc07085.jpg",
     "640px-Jean_Philippe_-_Pastries.jpg",
