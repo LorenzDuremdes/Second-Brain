@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "atypical anorexia nervosa.md",
+                "file": "film.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "atypical anorexia nervosa"
+              "title": "film"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obesity",
+                "query": "\"film\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "atypical anorexia nervosa.md",
+                "file": "film.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from atypical anorexia nervosa"
+              "title": "Outgoing links from film"
             }
           },
           {
@@ -150,10 +150,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "4c7c506bcb1fd0b8",
   "lastOpenFiles": [
-    "underweight.md",
+    "computer vision syndrome.md",
     "atypical anorexia nervosa.md",
+    "underweight.md",
     "obesity.md",
     "abdominal obesity.md",
     "poaching (cooking).md",
@@ -177,7 +178,6 @@
     "sourness.md",
     "bitterness.md",
     "sweetness.md",
-    "sense of smell.md",
     "[OC] Percent of recipes including herb spice seasoning by cuisine.jpg",
     "640px-Crepes_dsc07085.jpg",
     "640px-Jean_Philippe_-_Pastries.jpg",
