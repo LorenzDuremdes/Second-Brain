@@ -2,6 +2,9 @@
 1. Een goede verhouding voor aardappelpuree met magere melk is ongeveer **10 ml melk per 100 gram kruimige aardappelen**.^[ChatGPT]
 2. grote aardappelen 25–30 min. stoomkoker
 
+## Froth milk for mashed potatoes
+1. https://www.tastingtable.com/1097115/the-absolute-best-uses-for-your-milk-frother/
+
 ## Kruimige aardappelen met magere melk, wei-eiwitpoeder met gezouten karamel, knoflookpoeder, en Italiaanse kruiden (woensdag 13/11/2024)
 1. **ChatGPT**: **Aardappelpuree** met knoflookpoeder, wei-eiwitpoeder met gezouten karamelsmaak, en Italiaanse kruiden is een vrij unieke combinatie! Dit mengt zowel hartige als zoete elementen, wat een interessante smaak kan opleveren.
 	   
@@ -20,5 +23,3 @@
 	  **Proeven is de sleutel!** Begin met minder zout en voeg beetje bij beetje meer toe, totdat je de gewenste smaak hebt bereikt. Het is gemakkelijker om meer zout toe te voegen dan om het eruit te halen. Als je daarnaast ook Italiaanse kruiden of knoflookpoeder toevoegt, kun je het zout wat milder houden omdat deze smaken ook wat zoutiger kunnen aanvoelen.
 	   
    **1 tot 2 gram eiwitpoeder per 100 gram aardappelen**. Dit zou een subtiele smaak moeten geven zonder dat de karamelsmaak te sterk is. Als je van de zoetere smaak houdt, kun je meer toevoegen, maar wees voorzichtig, omdat het te zoet kan worden in combinatie met de hartige knoflook en Italiaanse kruiden.
-
-## 
