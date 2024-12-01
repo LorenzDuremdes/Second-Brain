@@ -4,6 +4,7 @@
 
 ## Froth milk for mashed potatoes
 1. https://www.tastingtable.com/1097115/the-absolute-best-uses-for-your-milk-frother/
+2. **Optioneel**: Met gesmolten gezouten roomboter
 
 ## Kruimige aardappelen met magere melk, wei-eiwitpoeder met gezouten karamel, knoflookpoeder, en Italiaanse kruiden (woensdag 13/11/2024)
 1. **ChatGPT**: **Aardappelpuree** met knoflookpoeder, wei-eiwitpoeder met gezouten karamelsmaak, en Italiaanse kruiden is een vrij unieke combinatie! Dit mengt zowel hartige als zoete elementen, wat een interessante smaak kan opleveren.
