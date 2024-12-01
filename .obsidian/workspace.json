@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "film.md",
+                "file": "mashed potato.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "film"
+              "title": "mashed potato"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"film\"",
+                "query": "potato",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "film.md",
+                "file": "mashed potato.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from film"
+              "title": "Outgoing links from mashed potato"
             }
           },
           {
@@ -150,8 +151,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4c7c506bcb1fd0b8",
+  "active": "87e97ad7c9cad4e8",
   "lastOpenFiles": [
+    "pinda.md",
+    "rice.md",
+    "film.md",
     "computer vision syndrome.md",
     "atypical anorexia nervosa.md",
     "underweight.md",
@@ -175,9 +179,6 @@
     "vitamin A.md",
     "umami.md",
     "retronasal smell.md",
-    "sourness.md",
-    "bitterness.md",
-    "sweetness.md",
     "[OC] Percent of recipes including herb spice seasoning by cuisine.jpg",
     "640px-Crepes_dsc07085.jpg",
     "640px-Jean_Philippe_-_Pastries.jpg",
