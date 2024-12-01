@@ -8,7 +8,7 @@
 ## Froth milk for mashed potatoes
 1. https://www.tastingtable.com/1097115/the-absolute-best-uses-for-your-milk-frother/
 2. ~20 g opgeschuimde melk per 100 g aardappels
-3. **Optioneel**: Met ~10 g gesmolten gezouten roomboter met 100 g aardappelpurree
+3. **Optioneel**: Met ~10 g gesmolten gezouten roomboter met 100 g aardappelpurree^[https://www.reddit.com/r/Cooking/comments/6vfgyz/mashed_potatoes_with_butter_to_potato_ratio_11_is/]
 
 ## Kruimige aardappelen met magere melk, wei-eiwitpoeder met gezouten karamel, knoflookpoeder, en Italiaanse kruiden (woensdag 13/11/2024)
 1. **ChatGPT**: **Aardappelpuree** met knoflookpoeder, wei-eiwitpoeder met gezouten karamelsmaak, en Italiaanse kruiden is een vrij unieke combinatie! Dit mengt zowel hartige als zoete elementen, wat een interessante smaak kan opleveren.
