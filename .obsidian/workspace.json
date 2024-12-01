@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "87e97ad7c9cad4e8",
+            "id": "29cf461016335b31",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -151,8 +150,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "87e97ad7c9cad4e8",
+  "active": "29cf461016335b31",
   "lastOpenFiles": [
+    "butter.md",
+    "mashed potato.md",
+    "black pepper.md",
     "pinda.md",
     "rice.md",
     "film.md",
@@ -176,9 +178,6 @@
     "calcium in biology.md",
     "calcium.md",
     "saffron.md",
-    "vitamin A.md",
-    "umami.md",
-    "retronasal smell.md",
     "[OC] Percent of recipes including herb spice seasoning by cuisine.jpg",
     "640px-Crepes_dsc07085.jpg",
     "640px-Jean_Philippe_-_Pastries.jpg",

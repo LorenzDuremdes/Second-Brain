@@ -1,3 +1,6 @@
+1. [[Butter]], [[milk]] or cream, [[salt]], and [[black pepper|pepper]] are usually added. Many other seasonings may also be used, including herbs (notably parsley and chives), spices (notably nutmeg), garlic, [[cheese]], bacon, sour cream, crisp onion or spring onion, caramelized onion, and mustard.^[https://en.wikipedia.org/wiki/Mashed_potato]
+	1. You can add the butter while the potatoes are still hot so it melts easily and blends well.^[ChatGPT]
+
 # recipes
 1. Een goede verhouding voor aardappelpuree met magere melk is ongeveer **10 ml melk per 100 gram kruimige aardappelen**.^[ChatGPT]
 2. grote aardappelen 25–30 min. stoomkoker
