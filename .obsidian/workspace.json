@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "74278f7838446a61",
+            "id": "4d5d26339f76c205",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "France.md",
+                "file": "LG Corporation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "France"
+              "title": "LG Corporation"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "France.md",
+                "file": "LG Corporation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for France"
+              "title": "Backlinks for LG Corporation"
             }
           },
           {
@@ -149,10 +149,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "51fbbfaf155022b6",
+  "active": "4d5d26339f76c205",
   "lastOpenFiles": [
-    "carafe.md",
     "France.md",
+    "LG Corporation.md",
+    "carafe.md",
     "coffee.md",
     "wine.md",
     "atypical anorexia nervosa.md",
@@ -176,7 +177,6 @@
     "vitamin C.md",
     "copper in biology.md",
     "iron in biology.md",
-    "iron.md",
     "[OC] Percent of recipes including herb spice seasoning by cuisine.jpg",
     "640px-Crepes_dsc07085.jpg",
     "640px-Jean_Philippe_-_Pastries.jpg",
