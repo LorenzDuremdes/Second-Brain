@@ -1,0 +1,2 @@
+1. why are Pringles shaped like that?
+	1. The saddle shape of the Pringle, properly known as a hyperbolic paraboloid, is almost exactly congruent with the [[tongue|tongue]]’s curves, meaning that every [[taste bud]] in Andrea’s [[mouth]] was in contact with the Pringle.^[Ultra-Processed People The Science Behind the Food That Isnt Food (Chris van Tulleken), p. 182]
