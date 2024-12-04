@@ -1,0 +1,1 @@
+1. umami or savoury taste comes from those three molecules familiar from UPF ingredients lists: [[inosinic acid|inosinate]], [[disodium guanylate|guanylate]] and [[glutamate favoring|glutamate]].

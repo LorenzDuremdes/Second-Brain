@@ -1,0 +1,1 @@
+1. inosinate is found mainly in [[fish]] dried bonito and dried sardines. It starts to form as soon as a fish dies, reaching a maximum level about ten hours later.^[Ultra-Processed People The Science Behind the Food That Isnt Food (Chris van Tulleken), p. 174]

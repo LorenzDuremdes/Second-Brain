@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3a229911e5c18ab3",
+            "id": "a75c7ff5481c83eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SharkNinja.md",
+                "file": "inosinic acid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SharkNinja"
+              "title": "inosinic acid"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "creami",
+                "query": "umami",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SharkNinja.md",
+                "file": "inosinic acid.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SharkNinja"
+              "title": "Outgoing links from inosinic acid"
             }
           },
           {
@@ -150,10 +150,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "a75c7ff5481c83eb",
   "lastOpenFiles": [
-    "LG Corporation.md",
+    "disodium guanylate.md",
+    "umami.md",
+    "glutamate favoring.md",
+    "inosinic acid.md",
+    "retronasal smell.md",
     "SharkNinja.md",
+    "LG Corporation.md",
     "France.md",
     "carafe.md",
     "coffee.md",
@@ -173,11 +178,6 @@
     "simmering.md",
     "creaming (cooking).md",
     "boiling point.md",
-    "cooking.md",
-    "ultra-processed food.md",
-    "bouillon.md",
-    "vitamin C.md",
-    "copper in biology.md",
     "[OC] Percent of recipes including herb spice seasoning by cuisine.jpg",
     "640px-Crepes_dsc07085.jpg",
     "640px-Jean_Philippe_-_Pastries.jpg",

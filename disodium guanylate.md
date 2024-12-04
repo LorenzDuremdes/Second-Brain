@@ -1,0 +1,1 @@
+1. guanylate is found mainly in dried shiitake and other mushrooms, forming from the breakdown of DNA in dying cells.^[Ultra-Processed People The Science Behind the Food That Isnt Food (Chris van Tulleken), p. 174]
