@@ -1,0 +1,1 @@
+1. emulsifier; a substance that stabilizes an emulsion by reducing the [[oil]]-[[water]] [[surface tension|interface tension]]^[https://en.wikipedia.org/wiki/Emulsion#Emulsifiers]
