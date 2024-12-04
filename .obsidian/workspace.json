@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "umami.md",
+                "file": "flavor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "umami"
+              "title": "flavor"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "monosodium",
+                "query": "conditioning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "umami.md",
+                "file": "flavor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for umami"
+              "title": "Backlinks for flavor"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "umami.md",
+                "file": "flavor.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from umami"
+              "title": "Outgoing links from flavor"
             }
           },
           {
@@ -152,12 +152,18 @@
   },
   "active": "56f3784b85c7ec67",
   "lastOpenFiles": [
+    "conditioning.md",
+    "flavor.md",
+    "classical conditioning.md",
+    "neurosscience.md",
+    "diabetes mellitus.md",
+    "kidney.md",
+    "umami.md",
     "monosodium glutamate.md",
     "glutamate favoring.md",
     "putrefaction.md",
     "inosinic acid.md",
     "disodium guanylate.md",
-    "umami.md",
     "retronasal smell.md",
     "SharkNinja.md",
     "LG Corporation.md",
@@ -172,12 +178,6 @@
     "pinda.md",
     "rice.md",
     "film.md",
-    "computer vision syndrome.md",
-    "underweight.md",
-    "obesity.md",
-    "abdominal obesity.md",
-    "poaching (cooking).md",
-    "simmering.md",
     "[OC] Percent of recipes including herb spice seasoning by cuisine.jpg",
     "640px-Crepes_dsc07085.jpg",
     "640px-Jean_Philippe_-_Pastries.jpg",

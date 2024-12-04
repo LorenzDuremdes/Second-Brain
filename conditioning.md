@@ -1,1 +1,1 @@
-*redirect: [[associative learning]]*
+*redirect: [[classical conditioning]]*

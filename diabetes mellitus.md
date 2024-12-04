@@ -1,0 +1,2 @@
+1. why is peeing a lot one of the first signs of diabetes?
+	1. having lots of [[sugar]] in the [[blood]] also causes large shifts of [[water]] from [[cell|cells]] into the blood. This increases the [[blood volume]] and makes the [[kidney|kidneys]] produce [[urine]], resulting in [[dehydration]]^[Ultra-Processed People The Science Behind the Food That Isnt Food (Chris van Tulleken), p. 176]
