@@ -3,6 +3,11 @@
 	1. because they signify easily digestible [[protein]] not the protein of raw [[meat]], but the protein of perfectly aged, cooked meat. They’re the signature of fermented [[fish]] and [[plant|plants]], rich meaty [[bouillon|broths]], vintage cheese. That’s why foods with these molecules in them taste great.^[Ultra-Processed People The Science Behind the Food That Isnt Food (Chris van Tulleken), p. 172]
 	2. they are all usually added (in conjunction) in UPF
 
+# [[food]]
+## [[sweetener]]
+1. how can sweeteners cause hunger (physiology)?
+	1. When sweeteners are consumed with even a small amount of sugar, insulin levels seem to rise significantly. This will cause a drop in blood sugar and may then cause hunger, driving increased intake of food^[Ultra-Processed People The Science Behind the Food That Isnt Food (Chris van Tulleken), p. 180]
+
 # [[obesity]]
 1. is obesity simply a matter of 'being surrounded by too delicious food e.g. UPF' + why
 	1. Hall’s theory is not simply that UPF food is delicious and so creates ‘hedonic overdrive’, where we enjoy eating more than we hate being full. Instead, it’s that the new UPF food environment is affecting our ability to self-regulate.
