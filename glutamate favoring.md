@@ -1,1 +1,2 @@
 1. glutamate is found in breastmilk, seaweed, tomatoes, scallops, anchovies, [[cheese]], soy sauce, cured ham and many more foods.^[Ultra-Processed People The Science Behind the Food That Isnt Food (Chris van Tulleken), p. 174]
+2. e.g. [[monosodium glutamate]] (MSG)

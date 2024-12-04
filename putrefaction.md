@@ -1,0 +1,1 @@
+1. putrefaction; in broad terms, it can be viewed as the decomposition of [[protein|proteins]], and the eventual breakdown of the cohesiveness between tissues, and the liquefaction of most organs^[https://en.wikipedia.org/wiki/Putrefaction]

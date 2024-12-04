@@ -1,0 +1,2 @@
+1. is monosodium glutamate on its own good tasting?
+	1. we like savoury but only in the context of salt or sugar – MSG on its own is not pleasant^[Ultra-Processed People The Science Behind the Food That Isnt Food (Chris van Tulleken), p. 175]
