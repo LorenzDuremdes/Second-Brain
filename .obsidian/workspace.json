@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "00ccd98735c38efc",
+            "id": "7873afc23e188ff9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "emulsifier.md",
+                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "emulsifier"
+              "title": "Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "artificial sweet",
+                "query": "ninja creami",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "surface tension.md",
+                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from surface tension"
+              "title": "Outgoing links from Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU"
             }
           },
           {
@@ -137,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,9 +152,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "7873afc23e188ff9",
   "lastOpenFiles": [
+    "Ninja CREAMi NC300 functions tested.jpeg",
     "emulsifier.md",
+    "Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU.md",
     "oil.md",
     "Pringles.md",
     "taste bud.md",
@@ -176,8 +180,6 @@
     "SharkNinja.md",
     "LG Corporation.md",
     "France.md",
-    "carafe.md",
-    "coffee.md",
     "[OC] Percent of recipes including herb spice seasoning by cuisine.jpg",
     "640px-Crepes_dsc07085.jpg",
     "640px-Jean_Philippe_-_Pastries.jpg",
