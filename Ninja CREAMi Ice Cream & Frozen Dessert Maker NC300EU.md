@@ -23,3 +23,9 @@ https://www.grillsportverein.de/forum/threads/ninja-creami-eine-pacojet-alternat
 | + Extra         | 30                               | 450                                     | 35                            | 450                                  |
 | Re-Spin         | 30                               | 1200                                    | 35                            | 1200                                 |
 | START/PARK Zeit | -8                               |                                         | -5                            |                                      |
+
+2. As I understand from Ninja demonstrations. **The different settings generally relate to fat content. The higher the content the shorter the time.** Non-fatty ice creams (lite), yoghurt, and sorbet have low to zero fat and thus run longer due to a harder icier block. The rpm I believe is the same it's just how quick it's pushed through. Thus a slow process like for sorbet shaves it a bit finer. I tend to run everything on the longer times on the first pass no matter the mix. Then maybe the shorter ones on second eat, once I know how loose the consistency is. Hope that helps.^[https://www.reddit.com/r/icecreamery/comments/v5tmqy/comment/lkodmj7/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button]
+3. ChatGPT: **Key Differences in Settings**:
+
+- For **lower-fat content mixtures** like sorbet or light ice cream, both the downward (abwärts) and upward (hoch) RPM are higher (e.g., 1790 RPM). This is likely because the machine needs more force and faster movement to break through and refine the icier, less creamy texture.
+- For **higher-fat content mixtures** like regular ice cream, the speeds are lower (1200 RPM downward, 450 RPM upward), as these are easier to process due to their softer consistency.
