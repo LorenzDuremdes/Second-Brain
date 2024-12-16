@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bfb0671afcb95878",
+            "id": "fe9254a589a98b79",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "short-chain fatty acid.md",
+                "file": "dysbiosis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "short-chain fatty acid"
+              "title": "dysbiosis"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "short-chain fatty acid.md",
+                "file": "dysbiosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for short-chain fatty acid"
+              "title": "Backlinks for dysbiosis"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "short-chain fatty acid.md",
+                "file": "dysbiosis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from short-chain fatty acid"
+              "title": "Outgoing links from dysbiosis"
             }
           },
           {
@@ -150,10 +150,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4c7c506bcb1fd0b8",
+  "active": "fe9254a589a98b79",
   "lastOpenFiles": [
-    "intestinal epithelium.md",
+    "skin flora.md",
+    "dysbiosis.md",
+    "human microbiota.md",
+    "microbiota.md",
+    "microbiome.md",
     "short-chain fatty acid.md",
+    "intestinal epithelium.md",
     "fermentation.md",
     "fatty acid.md",
     "large intestine.md",
@@ -174,11 +179,6 @@
     "sweetener.md",
     "sucralose.md",
     "flavor.md",
-    "conditioning.md",
-    "classical conditioning.md",
-    "neurosscience.md",
-    "diabetes mellitus.md",
-    "kidney.md",
     "[OC] Percent of recipes including herb spice seasoning by cuisine.jpg",
     "640px-Crepes_dsc07085.jpg",
     "640px-Jean_Philippe_-_Pastries.jpg",
