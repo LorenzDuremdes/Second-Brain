@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7873afc23e188ff9",
+            "id": "83bb17b5cd34ca27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU.md",
+                "file": "heterotroph.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU"
+              "title": "heterotroph"
             }
           }
         ]
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "surface tension.md",
+                "file": "heterotroph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for surface tension"
+              "title": "Backlinks for heterotroph"
             }
           },
           {
@@ -113,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU.md",
+                "file": "heterotroph.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU"
+              "title": "Outgoing links from heterotroph"
             }
           },
           {
@@ -138,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,11 +150,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "7873afc23e188ff9",
+  "active": "83bb17b5cd34ca27",
   "lastOpenFiles": [
+    "protozoa.md",
+    "Amoeba (genus).md",
+    "heterotroph.md",
+    "microorganism.md",
+    "parasitism.md",
+    "glycoprotein.md",
+    "Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU.md",
     "Ninja CREAMi NC300 functions tested.jpeg",
     "emulsifier.md",
-    "Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU.md",
     "oil.md",
     "Pringles.md",
     "taste bud.md",
@@ -175,11 +179,6 @@
     "glutamate favoring.md",
     "putrefaction.md",
     "inosinic acid.md",
-    "disodium guanylate.md",
-    "retronasal smell.md",
-    "SharkNinja.md",
-    "LG Corporation.md",
-    "France.md",
     "[OC] Percent of recipes including herb spice seasoning by cuisine.jpg",
     "640px-Crepes_dsc07085.jpg",
     "640px-Jean_Philippe_-_Pastries.jpg",
@@ -190,7 +189,6 @@
     "Effect of cadence on average power output during a time trial.jpg",
     "mesal aspect of a brain sectioned in the median sagittal plane.png",
     "Gold Phantom Extreme Engineering.png",
-    "Lekker op de fiets r_NederlandseMemes.jpeg",
     "sodium"
   ]
 }

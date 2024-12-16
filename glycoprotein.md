@@ -1,0 +1,1 @@
+1. glycoprotein; proteins which contain oligosaccharide ([[sugar]]) chains covalently attached to [[amino acid]] side-chains^[https://en.wikipedia.org/wiki/Glycoprotein]
