@@ -1,10 +1,10 @@
 # functions
 1. **Ice Cream** – use this to turn dairy and dairy-alternative recipes into an indulgent, creamy, scoopable dessert.
-2. **Sorbet** – best used for fruit-based recipes with high water and sugar content.
-3. **Lite Ice Cream** – use this when making ice cream recipes that are low sugar, low fat or sugar alternative recipes. Recommended for keto and paleo recipes. This is the perfect setting for making frozen yogurt.
-4. **Smoothie Bowl** – perfect for recipes with frozen fruit and veggies mixed with juice, dairy or dairy alternatives.
-5. **Gelato** – use this for custard-based recipes to make Italian styled ice-cream.
-6. **Milkshake** – add ice cream, milk and any desired mix-ins to create the perfect milkshake.
+2. **Sorbet** – best used for [[fruit]]-based recipes with high [[water]] and [[sugar]] content.
+3. **Lite Ice Cream** – use this when making ice cream recipes that are low sugar, low [[fat]] or sugar alternative recipes. Recommended for keto and paleo recipes. This is the perfect setting for making frozen [[yogurt]].
+4. **Smoothie Bowl** – perfect for recipes with frozen fruit and [[vegetable|veggies]] mixed with juice, dairy or dairy alternatives.
+5. **Gelato** – use this for [[custard]]-based recipes to make Italian styled ice-cream.
+6. **Milkshake** – add [[ice cream]], [[milk]] and any desired mix-ins to create the perfect [[milkshake]].
 7. **Mix-In** – This program folds your favourite pieces of candy, nuts, frozen fruit, etc., to customize your frozen dessert. Think of this as the stage where you can make a dessert similar to the DQ Blizzard or McFlurry.
    
    https://blenderhappy.com/how-to-get-the-most-out-of-your-ninja-creami/
@@ -29,3 +29,15 @@ https://www.grillsportverein.de/forum/threads/ninja-creami-eine-pacojet-alternat
 
 - For **lower-fat content mixtures** like sorbet or light ice cream, both the downward (abwärts) and upward (hoch) RPM are higher (e.g., 1790 RPM). This is likely because the machine needs more force and faster movement to break through and refine the icier, less creamy texture.
 - For **higher-fat content mixtures** like regular ice cream, the speeds are lower (1200 RPM downward, 450 RPM upward), as these are easier to process due to their softer consistency.
+
+# [[culinary arts]]
+1. how do you generally get a more 'milkshake texture' with the Ninja CREAMi?
+	1. First, I'm going to assume you're using low fat milks and no cream. This means you have a lot of [[water]] content and that is going to give you LOTS of ice. The two most common ways to fix this are to a) Add more solids and b) and more thickeners.
+	   
+	   A: **Solids**
+	   Solids include greek yogurt, [[cottage cheese]] (blended), protein powder, or skim milk powder. There are a zillion ways to do this but by 'bulking out' your base, you are basically making sure your base isn't ONLY water.
+	   
+	   B: **Thickeners**
+	   Thickeners bind you water up so the formation of ice crystals is much harder. There are a range of things that do this: Cornstarch (if you heat it!) modified cornstarch (which works with cold liquids), xanthan/guar gum (and a bunch of more esoteric things). The reason people tend to use Instant pudding mix (not regular!) is that it contains modified cornstarch so mixes and thickens the cold base easily. It also includes [[maltodextrin]] (which bulks things up and lowers the freezing point) and some small amount of gums. It's kind of a "total package' that is inexpensive. It also adds [[flavor]] and [[sweetness]].
+	   
+	   So to start, I'd suggest adding a "solid" of your choice and a heaping spoon of an instant pudding, blend well and try again. You can get MUCH fancier with more exotic ingredients if you want (I have) but that would be a simple and cheap place to start.

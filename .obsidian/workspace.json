@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe9254a589a98b79",
+            "id": "d12e073abb1c7953",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dysbiosis.md",
+                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dysbiosis"
+              "title": "Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "liver",
+                "query": "ninja",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dysbiosis.md",
+                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for dysbiosis"
+              "title": "Backlinks for Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dysbiosis.md",
+                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from dysbiosis"
+              "title": "Outgoing links from Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU"
             }
           },
           {
@@ -126,10 +127,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sous vide.md"
+                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of sous vide"
+              "title": "Outline of Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU"
             }
           }
         ],
@@ -150,10 +151,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "fe9254a589a98b79",
+  "active": "d12e073abb1c7953",
   "lastOpenFiles": [
-    "skin flora.md",
+    "cottage cheese.md",
+    "Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU.md",
+    "milkshake.md",
+    "ice cream.md",
+    "maltodextrin.md",
     "dysbiosis.md",
+    "skin flora.md",
     "human microbiota.md",
     "microbiota.md",
     "microbiome.md",
@@ -168,17 +174,12 @@
     "microorganism.md",
     "parasitism.md",
     "glycoprotein.md",
-    "Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU.md",
     "Ninja CREAMi NC300 functions tested.jpeg",
     "emulsifier.md",
     "oil.md",
     "Pringles.md",
     "taste bud.md",
     "tongue.md",
-    "ultra-processed food.md",
-    "sweetener.md",
-    "sucralose.md",
-    "flavor.md",
     "[OC] Percent of recipes including herb spice seasoning by cuisine.jpg",
     "640px-Crepes_dsc07085.jpg",
     "640px-Jean_Philippe_-_Pastries.jpg",
