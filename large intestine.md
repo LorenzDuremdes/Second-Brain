@@ -1,0 +1,1 @@
+1. the large intestine, or colon, where [[water]] is absorbed and [[dietary fiber|fibre]] is fermented^[Ultra-Processed People The Science Behind the Food That Isnt Food (Chris van Tulleken), p. 190]

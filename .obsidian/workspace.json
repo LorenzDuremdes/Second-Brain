@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "heterotroph.md",
+                "file": "large intestine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "heterotroph"
+              "title": "large intestine"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ninja creami",
+                "query": "fiber",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "heterotroph.md",
+                "file": "large intestine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for heterotroph"
+              "title": "Backlinks for large intestine"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "heterotroph.md",
+                "file": "large intestine.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from heterotroph"
+              "title": "Outgoing links from large intestine"
             }
           },
           {
@@ -150,11 +151,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "83bb17b5cd34ca27",
+  "active": "8412e88b9e28c8ed",
   "lastOpenFiles": [
+    "heterotroph.md",
     "protozoa.md",
     "Amoeba (genus).md",
-    "heterotroph.md",
     "microorganism.md",
     "parasitism.md",
     "glycoprotein.md",
