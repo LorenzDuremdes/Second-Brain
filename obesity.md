@@ -7,8 +7,6 @@
 1. Although [[leptin]] reduces [[appetite]] as a circulating signal, obese individuals generally exhibit a higher circulating concentration of leptin than normal weight individuals due to their higher [[body fat percentage|percentage body fat]]. These people show resistance to leptin, similar to resistance of insulin in type 2 diabetes, with the elevated levels failing to control hunger and modulate their weight.^[https://en.wikipedia.org/wiki/Leptin#Obesity]
 2. We now know that one of the signals that told the rats to stop eating is a [[hormone]] called leptin, which is produced in the fat tissue and detected by the [[hypothalamus]] in the brain.^[Ultra-Processed People The Science Behind the Food That Isnt Food (Chris van Tulleken), p. 94 > Hervey GR. The effects of lesions in the hypothalamus in parabiotic rats. J Physiol. 1959 Mar]
 
-3;145(2):336–52.]
-
 # related
 1. [[cafetaria diet]]
 
