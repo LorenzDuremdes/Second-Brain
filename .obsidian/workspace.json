@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba85f76d97d0bf07",
+            "id": "76615a115eec2a43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROUVY.md",
+                "file": "ochre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROUVY"
+              "title": "ochre"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROUVY.md",
+                "file": "ochre.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ROUVY"
+              "title": "Outgoing links from ochre"
             }
           },
           {
@@ -150,12 +150,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "183b09389d505b81",
+  "active": "76615a115eec2a43",
   "lastOpenFiles": [
+    "iron(III) oxide.md",
+    "ochre.md",
+    "ROUVY.md",
     "you can't outrun your fork.md",
     "obesity.md",
     "abdominal obesity.md",
-    "ROUVY.md",
     "The Count of Monte Cristo (2024).md",
     "réveillon.md",
     "film.md",
@@ -176,8 +178,6 @@
     "large intestine.md",
     "heterotroph.md",
     "protozoa.md",
-    "Amoeba (genus).md",
-    "microorganism.md",
     "Ninja CREAMi NC300 functions tested.jpeg",
     "[OC] Percent of recipes including herb spice seasoning by cuisine.jpg",
     "640px-Crepes_dsc07085.jpg",

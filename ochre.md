@@ -1,0 +1,4 @@
+1. ochre; a natural clay [[earth]] pigment, a mixture of ferric oxide and varying amounts of clay and sand.^[https://en.wikipedia.org/wiki/Ochre]
+	1. ferric oxide; [[iron(III) oxide]]^[https://en.wikipedia.org/wiki/Iron(III)_oxide]
+	2. It ranges in colour from yellow to deep orange or brown. The word ochre also describes clays coloured with [[iron]] oxide derived during the extraction of tin and copper.
+3. ochre pigment^[By Marco Almbauer - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=44716051] <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Hellocker-_Pigment.JPG" />
