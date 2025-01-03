@@ -1,0 +1,3 @@
+1. buttercream; used for either [[stuffing|filling]], coating or [[cake decorating|decorating]] [[cake|cakes]]. The main ingredients are [[butter]] and some type of [[sugar]].
+   
+   Buttercream is commonly flavored with [[vanilla]]. Other common flavors are [[chocolate]], fruits, and other liquid extracts. [[Food coloring]] is commonly added if the buttercream is being used as decoration.^[https://en.wikipedia.org/wiki/Buttercream]
