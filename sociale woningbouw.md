@@ -29,7 +29,7 @@ Het is niet alleen maar een walhalla. Soms is het een dynamisch buurtje. Toen he
 
 ## Mijn socialehuurbuurt anno 2021
 
-Stel dat ik in een sociale huurwoning in eenzelfde kwetsbare wijk zou wonen. Hoe woonde ik dan? Misschien wel zo:  
+Stel dat ik in een [[sociale huurwoning]] in eenzelfde kwetsbare wijk zou wonen. Hoe woonde ik dan? Misschien wel zo:  
 
 Ik woon in een portiekflat, samen met 29 andere huishoudens. Toen ik hier kwam wonen vroeg ik me allereerst af: hoe leer ik mijn medebewoners kennen? Ik maakte kennis met de buren en daar stopte het. In deze flat is geen groepsapp (waar je als nieuwe huurder in wordt opgenomen), geen buurtfeest, of een gezamenlijke ruimte. Ontmoeting tussen bewoners vindt nauwelijks plaats en als het plaatsvindt, is het in een krappe entree.
 
