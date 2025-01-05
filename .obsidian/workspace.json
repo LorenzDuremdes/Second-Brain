@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROUVY.md",
+                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROUVY"
+              "title": "Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vinex",
+                "query": "creami",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROUVY.md",
+                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ROUVY"
+              "title": "Outgoing links from Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU"
             }
           },
           {
@@ -126,10 +127,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "you can't outrun your fork.md"
+                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of you can't outrun your fork"
+              "title": "Outline of Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU"
             }
           }
         ],
@@ -150,8 +151,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "f51b857e7b19ea61",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
+    "ROUVY.md",
     "woning in Nederland.md",
     "vinex.md",
     "buttercream.md",
@@ -162,7 +164,6 @@
     "Bourbon.md",
     "ochre.md",
     "iron(III) oxide.md",
-    "ROUVY.md",
     "you can't outrun your fork.md",
     "obesity.md",
     "abdominal obesity.md",

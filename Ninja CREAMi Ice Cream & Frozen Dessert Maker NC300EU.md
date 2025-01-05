@@ -41,3 +41,9 @@ https://www.grillsportverein.de/forum/threads/ninja-creami-eine-pacojet-alternat
 	   Thickeners bind you water up so the formation of ice crystals is much harder. There are a range of things that do this: Cornstarch (if you heat it!) modified cornstarch (which works with cold liquids), xanthan/guar gum (and a bunch of more esoteric things). The reason people tend to use Instant pudding mix (not regular!) is that it contains modified cornstarch so mixes and thickens the cold base easily. It also includes [[maltodextrin]] (which bulks things up and lowers the freezing point) and some small amount of gums. It's kind of a "total package' that is inexpensive. It also adds [[flavor]] and [[sweetness]].
 	   
 	   So to start, I'd suggest adding a "solid" of your choice and a heaping spoon of an instant pudding, blend well and try again. You can get MUCH fancier with more exotic ingredients if you want (I have) but that would be a simple and cheap place to start.
+
+# recipes
+## frozen Oreos
+1. remove the Oreo fillings > freeze with some milk
+2. store the cookies somewhere
+3. add the icecream Ore fillings in between the cookies later on
