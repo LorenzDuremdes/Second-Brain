@@ -1,1 +1,3 @@
 1. nimbostratus cloud; a multilevel, amorphous, nearly uniform, and often dark-grey cloud that usually produces continuous rain, snow, or sleet, but no lightning or thunder.^[https://en.wikipedia.org/wiki/Nimbostratus_cloud]
+2. how far can rain clouds travel on their own?
+	1. Rain clouds on their own cannot travel more than 400km from the sea, so rain in the centre of a continent – the very rain that creates the central forest of the Amazon for example – requires continuous forest to the coast^[Ultra-Processed People The Science Behind the Food That Isnt Food (Chris van Tulleken), p. 230]
