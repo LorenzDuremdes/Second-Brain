@@ -1,0 +1,1 @@
+1. Stratus clouds form when weak vertical currents lift a layer of air off the ground and it depressurizes, following the [[lapse rate]]. This causes the relative humidity to increase due to the adiabatic cooling.^[https://en.wikipedia.org/wiki/Stratus_cloud]

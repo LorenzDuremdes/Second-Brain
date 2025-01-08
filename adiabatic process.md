@@ -1,0 +1,3 @@
+1. adiabatic process; a type of thermodynamic process that occurs without transferring [[heat]] or [[mass]] between the [[thermodynamic system]] and its [[open system (systems theory)|environment]]
+   
+   Some chemical and physical processes occur too rapidly for [[energy]] to enter or leave the system as heat, allowing a convenient "adiabatic approximation". For example, the adiabatic flame [[temperature]] uses this approximation to calculate the upper limit of flame temperature by assuming combustion loses no heat to its surroundings.^[https://en.wikipedia.org/wiki/Adiabatic_process]

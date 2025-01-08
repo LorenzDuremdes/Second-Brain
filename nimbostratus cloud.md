@@ -1,0 +1,1 @@
+1. nimbostratus cloud; a multilevel, amorphous, nearly uniform, and often dark-grey cloud that usually produces continuous rain, snow, or sleet, but no lightning or thunder.^[https://en.wikipedia.org/wiki/Nimbostratus_cloud]
