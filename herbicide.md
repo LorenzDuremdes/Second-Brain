@@ -1,0 +1,1 @@
+1. herbicide; also commonly known as weed killers, are substances used to control undesired plants, also known as weeds.^[https://en.wikipedia.org/wiki/Herbicide]
