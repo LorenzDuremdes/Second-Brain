@@ -1,0 +1,2 @@
+1. edamame; an East Asian dish prepared with immature soybeans in their pods, which are boiled or steamed, and may be served with salt or other condiments^[https://en.wikipedia.org/wiki/Edamame]
+2. Boiled green [[soybean|soybeans]] in the pod^[By Tammy Green (aka Zesmerelda) from Chicago Upscale Dining + Lounge Republic Pan-Asian Restaurant [1] in Ontario & Rush Street, Chicago, Illinois 60611 - Flickr, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=4034213] ![image](https://upload.wikimedia.org/wikipedia/commons/e/e7/Edamame_by_Zesmerelda_in_Chicago.jpg)
