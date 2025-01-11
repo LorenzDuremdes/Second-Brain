@@ -1,0 +1,3 @@
+1. *beurre noisette* (French pronunciation: [bœʁ nwazɛt], literally: hazelnut [[butter]], loosely: brown butter); When unsalted butter is melted over low [[heat]] and allowed to separate into [[butterfat]] and [[milk]] solids, the latter naturally sink to the bottom of the pan and, if left warming over gentle heat, will begin to cook slightly and turn a deep brown color. As they reach a toasty hazelnut colour, the pan is removed from the heat.
+   
+   It has a deep yellow, almost brown, colour and a nutty scent and flavour from the heating process.^[https://en.wikipedia.org/wiki/Beurre_noisette]
