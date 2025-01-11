@@ -1,0 +1,1 @@
+1. passive house; a voluntary standard for [[efficient energy use|energy efficiency]] in a building that reduces the building's [[carbon footprint]]. Conforming to these standards results in [[low-energy house|ultra-low energy buildings]] that require less [[energy]] for space heating or cooling.^[https://en.wikipedia.org/wiki/Passive_house]
