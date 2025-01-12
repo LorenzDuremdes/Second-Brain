@@ -1,4 +1,4 @@
-current movie criteria (-0.5 star per bad area or -1 for very bad):
+current [[movie]] criteria (-0.5 star per bad area or -1 for very bad):
 1. does it have a longer-lasting impact or was it inspirational (e.g. lessons or wanting to see prequels/sequels/similar movies)?  
 2. I wrote automotive criticism for about six years, and my review process was to first determine what the car was intending to do, and then evaluate it based on how well it did that.
    
@@ -7,7 +7,7 @@ current movie criteria (-0.5 star per bad area or -1 for very bad):
 3. sound design (e.g. _Dune (2024)_ did this well)  
 4. cinematography (e.g. _[[Portrait de la jeune fille en feu (2019)]]_ did this well)  
 5. immersion (does it make you feel like you are actually 'there')? E.g. _The Last Duel (2021)_ did this well
-	1. doesn't always have to be the case if that's not the intention of the movie  (probably somewhat e.g. *Parasite (2019)*)
+	1. doesn't always have to be the case if that's not the intention of the movie  (probably somewhat e.g. *[[Parasite (2019)]]*)
 6. plot (development) and coherence e.g. are they making (illogically) dumb decisions or not e.g. happened frequently in _Life (2017)_  
     1. logical dumb decisions e.g. human error, stress, or simply human emotions are still logical and coherent  
 7. engagement e.g. does it feel like no time has passed (e.g. _[[The Taste of Things (2023)]]_ did this well)

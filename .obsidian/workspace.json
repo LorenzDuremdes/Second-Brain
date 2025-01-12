@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notalgia paresthetica.md",
+                "file": "film.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notalgia paresthetica"
+              "title": "film"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aerodyn",
+                "query": "film",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notalgia paresthetica.md",
+                "file": "film.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from notalgia paresthetica"
+              "title": "Outgoing links from film"
             }
           },
           {
@@ -152,8 +153,8 @@
   },
   "active": "3426f1bfb4b2b9d5",
   "lastOpenFiles": [
-    "spinal nerve.md",
     "notalgia paresthetica.md",
+    "spinal nerve.md",
     "peripheral neuropathy.md",
     "somatosensory system.md",
     "glissando.md",
