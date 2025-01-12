@@ -1,0 +1,3 @@
+1. shish kebab; a popular meal of [[skewer|skewered]] and grilled cubes of [[meat]].^[https://en.wikipedia.org/wiki/Shish_kebab]
+	1. [[shashlik]] (Russian: шашлык *shashlyk*)
+2. Shish kebab with (orzo pilaf), onions with sumac, a grilled pepper, a grilled slice of tomato, and rucula leaves^[By E4024 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=43107465] ![image](https://upload.wikimedia.org/wikipedia/commons/5/50/%C5%9Ei%C5%9F_kebap_and_pilav.jpg)
