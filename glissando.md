@@ -1,0 +1,4 @@
+1. glissando; a glide from one pitch to another
+   
+   In some contexts, it is equivalent to portamento, which is a continuous, seamless glide between notes. In other contexts, it refers to discrete, stepped glides across notes, such as on a piano.^[https://en.wikipedia.org/wiki/Glissando]
+2. Several examples of the musical notation of glissando^[By The original uploader was Fabrizio bastianini at Italian Wikipedia. - Transferred from it.wikipedia to Commons., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=1542696] ![image](https://upload.wikimedia.org/wikipedia/commons/0/0d/Glissando.JPG)
