@@ -5,7 +5,7 @@ for [[doping]], see: [[performance-enhancing substance]]
 2. [[multivitamin|multivitamins]]
 3. [[antioxidant|antioxidants]] (e.g. [[vitamin C]])
 4. [[caffeine]]^[https://youtu.be/pPc8qnIkhsg?t=3190]
-5. [[beta alanine]]
+5. [[β-alanine]]
 6. [[sodium bicarbonate]]
 7. [[beta-hydroxy beta-methylbutyric acid|HMB]]
 8. [[exogenous ketone]] (Jumbo-Visma)
