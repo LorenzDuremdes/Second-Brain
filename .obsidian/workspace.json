@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "β-alanine.md",
+                "file": "ROUVY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "β-alanine"
+              "title": "ROUVY"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "beta",
+                "query": "rouvy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "β-alanine.md",
+                "file": "ROUVY.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from β-alanine"
+              "title": "Outgoing links from ROUVY"
             }
           },
           {
@@ -153,8 +153,8 @@
   },
   "active": "9c3359a857dc9e54",
   "lastOpenFiles": [
-    "carnosine.md",
     "β-alanine.md",
+    "carnosine.md",
     "acetic ether.md",
     "solvent.md",
     "acetic acid.md",

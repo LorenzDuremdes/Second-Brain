@@ -10,4 +10,5 @@
 1. La Vuelta 2024 | Raceday | Stage 6 - Yunquera | 30.6 km/h
 
 ## uphill
-1. La Vuelta 2024 | Raceday | Stage 6 - El Bosque | with corner sprints at the end downhill | 26.2 km/h
+1. La Vuelta 2024 | Raceday | Stage 6 - El Bosque ― with corner sprints at the end downhill | 26.2 km/h
+2. Dar al Bayda | Oman ― 'natural negative split' 27.1 km/h
