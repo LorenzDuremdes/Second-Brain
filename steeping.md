@@ -1,0 +1,1 @@
+1. steeping; the soaking of an organic solid, such as leaves, in a [[liquid]] (usually water) to extract [[flavor|flavours]] or to soften it^[https://en.wikipedia.org/wiki/Steeping]

@@ -1,0 +1,1 @@
+1. germination; the process by which an [[organism]] grows from a seed or [[spore]]^[https://en.wikipedia.org/wiki/Germination]

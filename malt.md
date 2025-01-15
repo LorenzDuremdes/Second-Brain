@@ -1,0 +1,1 @@
+1. malt; any [[cereal]] [[grain]] that has been made to germinate by [[steeping|soaking in water]] and then stopped from [[germination|germinating]] further by drying with hot air, a process known as "[[malting]]".^[https://en.wikipedia.org/wiki/Malt]
