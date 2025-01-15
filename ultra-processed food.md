@@ -4,6 +4,8 @@
 	2. they are all usually added (in conjunction) in UPF
 
 # [[food]]
+1. we may be eating more food to compensate for becoming increasingly [[micronutrient deficient|deficient in micronutrients]]. Ultra-processing reduces [[micronutrient|micronutrients]] to the point that modern diets lead to [[malnutrition]] even as they cause obesity^[Ultra-Processed People The Science Behind the Food That Isnt Food (Chris van Tulleken), p. 168]
+
 ## [[sweetener]]
 1. how can sweeteners cause hunger (physiology)?
 	1. When sweeteners are consumed with even a small amount of sugar, insulin levels seem to rise significantly. This will cause a drop in blood sugar and may then cause hunger, driving increased intake of food^[Ultra-Processed People The Science Behind the Food That Isnt Food (Chris van Tulleken), p. 180]
