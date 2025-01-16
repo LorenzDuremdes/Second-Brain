@@ -1,0 +1,1 @@
+1. grupetto (professional [[road cycling]]); the trailing group of riders in a stage race that tries to finish the race stage in which it was formed at a [[time]] just under the cut-off time for when they would otherwise be disqualified from continuing on to the next stage of the race.^[https://en.wiktionary.org/wiki/grupetto]
