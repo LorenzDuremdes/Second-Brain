@@ -17,3 +17,13 @@
 	1. Start accelerating before you’re at the back. You just pulled off and you’re tired; the last thing you want is to miss the tail end of the group and chase back through the wind. You should know how many riders are in your paceline and count them as you drift back. Shift to a higher gear with one or two riders to go and return to the group’s [[speed]] to get on the back of the line.^[https://www.reddit.com/r/Velo/comments/18tjl4/tactics_series_entry_2_pacelines/]
 3. what concept in [[physics]] matters most in peloton tactics (e.g. [[Belgischer Kreisel]])?
 	1. [[conservation of energy]] e.g. not trying to accelerate hard when taking a pull or starting to accelerate too late when latching on again in the back
+
+# miscellaneous
+1. [What’s your towns “fast” group ride like?](https://www.reddit.com/r/Velo/comments/ny5aze/whats_your_towns_fast_group_ride_like/)
+	1. Not really my towns fast ride, but some of my colleagues who ride together with other people they know also.
+	   
+	   Their normal training rides are 80-100k at ~35km/h or something.
+	   
+	   Also today some of them did a 100km event at 43km/h, one of them did 304 watt average over 2h19m...
+	   
+	   It was like 40 meters of elevation, so basically pancake flat. But still, mad average speed!

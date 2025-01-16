@@ -63,6 +63,9 @@
 	1. limiting factors (required for e.g. an upcoming race)
 		1. e.g. a [[mesocycle]]/block is aimed at targetting specific [[limiting factor]](s)
 
+# [[peloton (road bicycle racing)]]
+1. 
+
 # miscellaneous
 1. what makes road cycling one of the toughest [[sport]]?^[https://www.cyclingweekly.com/fitness/training/cycling-toughest-sport-264258]
 	1. “What makes cycling uniquely difficult on a psychological level are the uncontrollable conditions which most other sports don’t have,” says sports psychologist Dr Josephine Perry.
