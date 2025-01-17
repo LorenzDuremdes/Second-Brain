@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "middle ear.md",
+                "file": "film.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "middle ear"
+              "title": "film"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "peloton",
+                "query": "film",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "middle ear.md",
+                "file": "film.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for middle ear"
+              "title": "Backlinks for film"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "middle ear.md",
+                "file": "film.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from middle ear"
+              "title": "Outgoing links from film"
             }
           },
           {
@@ -126,10 +127,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "middle ear.md"
+                "file": "film.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of middle ear"
+              "title": "Outline of film"
             }
           }
         ],
@@ -152,8 +153,8 @@
   },
   "active": "3a5a09b0778037c0",
   "lastOpenFiles": [
-    "ear.md",
     "middle ear.md",
+    "ear.md",
     "otitis media.md",
     "gastroenterology.md",
     "human digestive system.md",
