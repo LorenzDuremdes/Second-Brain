@@ -1,0 +1,3 @@
+1. chasse patate; een term uit het wielrennen, die voor wat betreft het wielrennen op de weg, gebruikt wordt wanneer één renner (of, uitzonderlijk, meerdere renners) vanuit het peloton naar de kop(groep) demarreert en halverwege blijft hangen
+   
+   Indien deze zijn achtervolging volhoudt (of zelfs begint) – zonder uitzicht op aansluiting bij die kop(groep) – wordt die achtervolging een chasse patate genoemd^[https://nl.wikipedia.org/wiki/Chasse_patate]
