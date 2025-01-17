@@ -1,0 +1,1 @@
+1. gastroenterology (from the Greek gastḗr- "belly", -énteron "intestine", and -logía "study of"); the branch of [[medicine]] focused on the [[human digestive system|digestive system]] and its disorders.^[https://en.wikipedia.org/wiki/Gastroenterology]
