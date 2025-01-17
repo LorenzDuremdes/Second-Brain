@@ -99,6 +99,22 @@
    At least in the Unites States, the average household income of cyclists is quite a bit higher than golfers.^[https://www.reddit.com/r/AskReddit/comments/11a6s9b/comment/j9rein0/?utm_source=share&utm_medium=web2x&context=3]
 
 ## averages
+1. >32 kph aka 20 miles an hour is a sort of bench mark.
+   
+   First reaching it under your own steam, then holding it.
+   
+   It means if you can hold it you'll do well on the local group ride, it's your first real taste of how wind resistance feels on the bike and is the new enemy.
+   
+   It's where bike handling becomes more important, corners become harder. The bike feels like it has less grip, or should I say bumps can be scary.
+   
+   It's where your ability to eat distance given you the ability to reach new ride locations.
+   
+   It's a big achievement for amateurs doing it between work and responsibilities for sure.
+   
+   It usually means you're cleaning up your local commute ride, like there is a new sheriff in town.
+
+If you can solo ride 30+ miles and average 20mph, that’s pretty respectable and many would consider fast.^[https://www.reddit.com/r/cycling/comments/1d75kxw/for_road_riding_do_you_consider_20_mph_32_kmh_a/]
+
 ### beginner - professional
 1. 28 km/h (beginner) - 34 km/h (amateur racer) - competitive racer (36 km/h)^[https://www.reddit.com/r/cycling/comments/1dqjryk/road_bike_average_speed/]
 	1. 4 min/km running I would say is more 35 kmh+ on bike
