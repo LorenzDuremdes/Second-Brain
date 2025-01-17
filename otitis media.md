@@ -1,0 +1,1 @@
+1. otitis media; a group of inflammatory diseases of the [[middle ear]].^[https://en.wikipedia.org/wiki/Otitis_media]
