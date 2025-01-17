@@ -1,0 +1,3 @@
+1. acidulant; chemical compounds that give a tart, sour, or acidic [[flavor]] to [[food|foods]] or enhance the perceived [[sweetness]] of foods
+   
+   Typical acidulants are [[acetic acid]] (e.g. in [[pickled cucumber|pickles]]) and [[citric acid]]. Many beverages, such as colas, contain [[phosphoric acid]]. Sour candies often are formulated with [[malic acid]]. Other acidulants used in food production include: [[fumaric acid]], [[tartaric acid]], [[lactic acid]] and [[gluconic acid]].^[https://en.wikipedia.org/wiki/Acidulant]
