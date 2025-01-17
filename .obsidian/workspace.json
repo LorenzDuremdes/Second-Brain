@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "film.md",
+                "file": "human digestive system.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "film"
+              "title": "human digestive system"
             }
           }
         ]
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "film.md",
+                "file": "human digestive system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for film"
+              "title": "Backlinks for human digestive system"
             }
           },
           {
@@ -113,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "film.md",
+                "file": "human digestive system.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from film"
+              "title": "Outgoing links from human digestive system"
             }
           },
           {
@@ -127,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "film.md"
+                "file": "human digestive system.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of film"
+              "title": "Outline of human digestive system"
             }
           }
         ],
@@ -153,6 +152,7 @@
   },
   "active": "3a5a09b0778037c0",
   "lastOpenFiles": [
+    "film.md",
     "middle ear.md",
     "ear.md",
     "otitis media.md",
@@ -178,7 +178,6 @@
     "divestment.md",
     "Future Group.md",
     "Ford Motor Company.md",
-    "Kodak.md",
     "Ninja CREAMi NC300 functions tested.jpeg",
     "[OC] Percent of recipes including herb spice seasoning by cuisine.jpg",
     "640px-Crepes_dsc07085.jpg",
