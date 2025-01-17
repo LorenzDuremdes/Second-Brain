@@ -97,3 +97,10 @@
 1. Lots of folks saying golf, but I haven’t seen anybody mention cycling. [[Sport]] cycling, not utility cycling to the corner store for a gallon of milk. Mid-level road bikes are now $5000 usd. And it’s pretty common to spend low five-figures on a complete setup.
    
    At least in the Unites States, the average household income of cyclists is quite a bit higher than golfers.^[https://www.reddit.com/r/AskReddit/comments/11a6s9b/comment/j9rein0/?utm_source=share&utm_medium=web2x&context=3]
+
+## averages
+### beginner - professional
+1. 28 km/h (beginner) - 34 km/h (amateur racer) - competitive racer (36 km/h)^[https://www.reddit.com/r/cycling/comments/1dqjryk/road_bike_average_speed/]
+	1. 4 min/km running I would say is more 35 kmh+ on bike
+2. 18–23 km/h - 40 km/h^[https://en.upway.be/blogs/news/vitesse-moyenne-velo]
+3. 24–32 km/h beginners - 40 km/h super competitive cyclists^[https://www.howtocycling.com/cycling-guides-and-advice/cycling-training-and-fitness/70-average-cycling-speed-for-new-and-experienced-cyclists-a-comprehensive-guide]
