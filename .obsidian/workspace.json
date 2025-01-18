@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "ROUVY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aerodynamics (road cycling)"
+              "title": "ROUVY"
             }
           }
         ]
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -127,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aerodynamics (road cycling).md"
+                "file": "ROUVY.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of aerodynamics (road cycling)"
+              "title": "Outline of ROUVY"
             }
           }
         ],
@@ -153,6 +152,7 @@
   },
   "active": "5b4a9d29c6bfd216",
   "lastOpenFiles": [
+    "aerodynamics (road cycling).md",
     "road cycling.md",
     "chasse patate.md",
     "human digestive system.md",
@@ -172,7 +172,6 @@
     "pickled cucumber.md",
     "peloton (road bicycle racing).md",
     "apparel (road cycling).md",
-    "aerodynamics (road cycling).md",
     "grupetto (professional road cycling).md",
     "hypervolemia.md",
     "ROUVY.md",
