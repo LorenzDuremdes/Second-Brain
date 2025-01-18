@@ -3,8 +3,9 @@
 1. Al Khabbah | Oman | 51 km/h
 
 ## downhill
-1. Winter Hilchenbach | Germany - 48.3 km/h
-2. Izki to Al Aliyah | Oman - 48.2 km/h
+1. Sossusvlei desert | Namibia | 47.4 km/h (Z1)
+2. Winter Hilchenbach | Germany - 48.3 km/h
+3. Izki to Al Aliyah | Oman - 48.2 km/h
 
 ## variable
 1. La Vuelta 2024 | Raceday | Stage 6 - Yunquera | 30.6 km/h
