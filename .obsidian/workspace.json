@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "warming-up.md",
+                "file": "ROUVY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "warming-up"
+              "title": "ROUVY"
             }
           }
         ]
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -127,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "warming-up.md"
+                "file": "ROUVY.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of warming-up"
+              "title": "Outline of ROUVY"
             }
           }
         ],
@@ -153,6 +152,7 @@
   },
   "active": "5b4a9d29c6bfd216",
   "lastOpenFiles": [
+    "warming-up.md",
     "Summary of the methodology of studies investigating warm-up as a performance improvement measure for physical activity.[Effects of Warming-up on Physical Performance A Systematic Review With Meta-analysis].png",
     "ROUVY.md",
     "aerodynamics (road cycling).md",
@@ -189,7 +189,6 @@
     "334px-Gray994-adenoid.png",
     "Effect of cadence on average power output during a time trial.jpg",
     "mesal aspect of a brain sectioned in the median sagittal plane.png",
-    "Gold Phantom Extreme Engineering.png",
     "sodium"
   ]
 }

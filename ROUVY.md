@@ -1,4 +1,7 @@
 # routes (prioritized by quality)
+# warming-up / cooling-down
+1. SwissTri Linthathlon | ~12 min.
+
 # flat
 1. Al Khabbah | Oman | 51 km/h
 
