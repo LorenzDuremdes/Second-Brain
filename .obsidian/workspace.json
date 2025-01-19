@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "road cycling.md",
+                "file": "chronic training load.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "road cycling"
+              "title": "chronic training load"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "road bike",
+                "query": "chronic training load",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "road cycling.md",
+                "file": "chronic training load.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from road cycling"
+              "title": "Outgoing links from chronic training load"
             }
           },
           {
@@ -126,14 +127,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "road cycling.md"
+                "file": "chronic training load.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of road cycling"
+              "title": "Outline of chronic training load"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,10 +151,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "064dd5af93373ca8",
+  "active": "183b09389d505b81",
   "lastOpenFiles": [
-    "chasse patate.md",
+    "Volume Guidelines for Triathletes CTL - 10283-how-to-plan-your-season-with-tss-fig4.png",
+    "Beginner-Novice Athlete CTL - 10283-how-to-plan-your-season-with-tss-fig3 1.png",
+    "Beginner-Novice Athlete CTL - 10283-how-to-plan-your-season-with-tss-fig3.png",
+    "Advanced-Elite Athlete CTL - 10283-how-to-plan-your-season-with-tss-fig2.png",
+    "Volume Guideline for Cyclists CTL - 10283-how-to-plan-your-season-with-tss-fig1.png",
     "road cycling.md",
+    "chasse patate.md",
     "human digestive system.md",
     "film.md",
     "middle ear.md",
@@ -177,7 +183,6 @@
     "ROUVY.md",
     "β-alanine.md",
     "divestment.md",
-    "Future Group.md",
     "Ninja CREAMi NC300 functions tested.jpeg",
     "[OC] Percent of recipes including herb spice seasoning by cuisine.jpg",
     "640px-Crepes_dsc07085.jpg",
@@ -185,10 +190,6 @@
     "640px-Pain_au_chocolat_Luc_Viatour.jpg",
     "Untitled",
     "Can-in-can_steaming.png",
-    "334px-Gray994-adenoid.png",
-    "Effect of cadence on average power output during a time trial.jpg",
-    "mesal aspect of a brain sectioned in the median sagittal plane.png",
-    "Gold Phantom Extreme Engineering.png",
     "sodium"
   ]
 }

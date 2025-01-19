@@ -23,3 +23,11 @@
 3. fast- vs. slow-twitch dominant → optimal intensity for CTL
 	1. faster-twitch dominant might benefit more with incorporating more lower-intensity workouts?
 		1. faster-twitch dominance might also increase the stimulus despite also increasing fatigue at higher intensities?
+
+# miscellaneous
+## target CTL per category
+[How To Plan Your Season with Training Stress Score (TrainingPeaks) by Dave Schell](https://www.trainingpeaks.com/learn/articles/how-to-plan-your-season-with-training-stress-score/)
+![[Volume Guideline for Cyclists CTL - 10283-how-to-plan-your-season-with-tss-fig1.png]]
+![[Advanced-Elite Athlete CTL - 10283-how-to-plan-your-season-with-tss-fig2.png]]
+![[Beginner-Novice Athlete CTL - 10283-how-to-plan-your-season-with-tss-fig3.png]]
+![[Volume Guidelines for Triathletes CTL - 10283-how-to-plan-your-season-with-tss-fig4.png]]
