@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROUVY.md",
+                "file": "warming-up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROUVY"
+              "title": "warming-up"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aerody",
+                "query": "warming-up",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -126,10 +127,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROUVY.md"
+                "file": "warming-up.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of ROUVY"
+              "title": "Outline of warming-up"
             }
           }
         ],
@@ -152,6 +153,8 @@
   },
   "active": "5b4a9d29c6bfd216",
   "lastOpenFiles": [
+    "Summary of the methodology of studies investigating warm-up as a performance improvement measure for physical activity.[Effects of Warming-up on Physical Performance A Systematic Review With Meta-analysis].png",
+    "ROUVY.md",
     "aerodynamics (road cycling).md",
     "road cycling.md",
     "chasse patate.md",
@@ -174,10 +177,8 @@
     "apparel (road cycling).md",
     "grupetto (professional road cycling).md",
     "hypervolemia.md",
-    "ROUVY.md",
     "β-alanine.md",
     "divestment.md",
-    "Future Group.md",
     "Ninja CREAMi NC300 functions tested.jpeg",
     "[OC] Percent of recipes including herb spice seasoning by cuisine.jpg",
     "640px-Crepes_dsc07085.jpg",
