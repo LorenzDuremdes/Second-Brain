@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chronic training load.md",
+                "file": "film.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chronic training load"
+              "title": "film"
             }
           }
         ]
@@ -52,10 +52,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "film",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chronic training load.md",
+                "file": "film.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from chronic training load"
+              "title": "Outgoing links from film"
             }
           },
           {
@@ -150,6 +151,8 @@
       "random-note:Open random note": false
     }
   },
-  "active": "36ec44c3027e09cc",
-  "lastOpenFiles": []
+  "active": "afb281c455e611b3",
+  "lastOpenFiles": [
+    "chronic training load.md"
+  ]
 }
