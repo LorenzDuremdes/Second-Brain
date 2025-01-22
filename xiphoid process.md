@@ -1,0 +1,1 @@
+1. Position of the xiphoid process (shown in red)^[By Anatomography - en:Anatomography (setting page of this image), CC BY-SA 2.1 jp, https://commons.wikimedia.org/w/index.php?curid=22529292] ![image](https://upload.wikimedia.org/wikipedia/commons/3/3c/Xiphoid_process_frontal.png)
