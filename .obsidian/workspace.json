@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xiphoid process.md",
+                "file": "drafting (aerodynamics).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "xiphoid process"
+              "title": "drafting (aerodynamics)"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "film",
+                "query": "aerodynamics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "xiphoid process.md",
+                "file": "drafting (aerodynamics).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from xiphoid process"
+              "title": "Outgoing links from drafting (aerodynamics)"
             }
           },
           {
@@ -152,8 +153,9 @@
   },
   "active": "2cef91f20b44b145",
   "lastOpenFiles": [
-    "ROUVY.md",
+    "aerodynamics (road cycling).md",
     "xiphoid process.md",
+    "ROUVY.md",
     "film.md",
     "chronic training load.md"
   ]
