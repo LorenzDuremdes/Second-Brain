@@ -127,10 +127,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chronic training load.md"
+                "file": "aerodynamics (road cycling).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of chronic training load"
+              "title": "Outline of aerodynamics (road cycling)"
             }
           }
         ],
@@ -153,8 +153,10 @@
   },
   "active": "2cef91f20b44b145",
   "lastOpenFiles": [
-    "drafting (aerodynamics).md",
+    "drag (physics).md",
     "aerodynamics (road cycling).md",
+    "Olympic Games.md",
+    "drafting (aerodynamics).md",
     "xiphoid process.md",
     "ROUVY.md",
     "film.md",

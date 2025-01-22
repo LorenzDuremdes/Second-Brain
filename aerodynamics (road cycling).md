@@ -37,6 +37,9 @@
 
 **Total = -148.04 W**
 
+## miscellaneous
+1. The plastic suits were banned not long after the [[Olympic Games|Olympics]]. They were felt to confer an unfair advantage, and to unacceptably increase costs. The GB team response for the 2012 Olympics was to use the knowledge gained from the plastic suits to develop fabric suits. Plastic was simple – smooth is smooth. Fabric is harder, because the exact texture is critical. This, and the consequent [[drag (physics)|drag]], vary from one fabric to another.^[Faster - The Obsession, Science and Luck Behind the World's Fastest Cyclists (by Michael Hutchinson), p. 130–131]
+
 ---
 
 # biomechanics
