@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "film.md",
+                "file": "ROUVY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "film"
+              "title": "ROUVY"
             }
           }
         ]
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "film.md",
+                "file": "ROUVY.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from film"
+              "title": "Outgoing links from ROUVY"
             }
           },
           {
@@ -153,6 +152,7 @@
   },
   "active": "afb281c455e611b3",
   "lastOpenFiles": [
+    "film.md",
     "chronic training load.md"
   ]
 }
