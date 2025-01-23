@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "road cycling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aerodynamics (road cycling)"
+              "title": "road cycling"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aerodynamics",
+                "query": "road cycling",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -126,10 +127,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aerodynamics (road cycling).md"
+                "file": "road cycling.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of aerodynamics (road cycling)"
+              "title": "Outline of road cycling"
             }
           }
         ],
@@ -150,12 +151,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "05b317b79e347fd9",
+  "active": "bd25fc88dad9e7da",
   "lastOpenFiles": [
+    "FTP Table by Dr. Andrew Coggan.png",
+    "aerodynamics (road cycling).md",
     "anemometer.md",
     "wind direction.md",
     "wind speed.md",
-    "aerodynamics (road cycling).md",
     "drag (physics).md",
     "Olympic Games.md",
     "drafting (aerodynamics).md",
