@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aerodynamics",
+                "query": "zwift",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,7 +151,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "05b317b79e347fd9",
+  "active": "e94a94bc6de09fb7",
   "lastOpenFiles": [
     "genetics.md",
     "road cycling.md",
