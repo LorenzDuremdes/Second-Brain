@@ -99,7 +99,9 @@
    At least in the Unites States, the average household income of cyclists is quite a bit higher than golfers.^[https://www.reddit.com/r/AskReddit/comments/11a6s9b/comment/j9rein0/?utm_source=share&utm_medium=web2x&context=3]
 
 ## averages
-1. >32 kph aka 20 miles an hour is a sort of bench mark.
+1. Rider Categorization Based on FTP: How Do I Rank? (Dr. Andrew Coggan)^[https://www.cyclinganalytics.com/blog/2018/06/how-does-your-cycling-power-output-compare]^[https://www.trainingpeaks.com/blog/power-profiling/]
+   ![[FTP Table by Dr. Andrew Coggan.png]]
+2. 32 kph aka 20 miles an hour is a sort of bench mark.
    
    First reaching it under your own steam, then holding it.
    
@@ -120,3 +122,21 @@ If you can solo ride 30+ miles and average 20mph, that’s pretty respectable an
 	1. 4 min/km running I would say is more 35 kmh+ on bike
 2. 18–23 km/h - 40 km/h^[https://en.upway.be/blogs/news/vitesse-moyenne-velo]
 3. 24–32 km/h beginners - 40 km/h super competitive cyclists^[https://www.howtocycling.com/cycling-guides-and-advice/cycling-training-and-fitness/70-average-cycling-speed-for-new-and-experienced-cyclists-a-comprehensive-guide]
+
+## vs. competitive athletes (e.g. on Zwift or TrainerRoad)
+1. https://www.cyclinganalytics.com/blog/2018/06/how-does-your-cycling-power-output-compare
+2. A 200 Watt FTP is bottom 10% of cyclist!?!^[https://www.reddit.com/r/Zwift/comments/hfy8et/a_200_watt_ftp_is_bottom_10_of_cyclist/]^[https://www.trainerroad.com/forum/t/the-bell-curve-of-cylists-how-fast-are-the-average-tr-users/5840]
+   
+   That sounds about right, minus 1 word- 200 is the bottom 10% of COMPETITIVE cyclists. If you’re doing structured training, or even just riding hard 4+ days per week, most people will get over 200 without much trouble.
+   
+   But competitive cyclists are already the top percentile of riders. I can’t say the exact number, but based on the customers at my shop I’d say a 200 FTP rider is already the top 5-10% of all people who ride bikes. If you walked into a YMCA and did a spin class with an FTP of 200, you’d be treated like the next Armstrong compared to most others in there. It’s all relative
+   ―
+   Just remember that the average TrainerRoad user is already going to be faster than a lot people not doing structured training. Average here is above average out in the real world.^[https://www.trainerroad.com/forum/t/the-bell-curve-of-cylists-how-fast-are-the-average-tr-users/5840/103?u=lorenz_duremdes]
+2. How is God's name do people cycling at 250 watts plus. I thought I was fairly fit but I'm struggling to maintain 180w for an hour? My watts per kg is 1.8^[https://www.reddit.com/r/Zwift/comments/1696et9/how_is_gods_name_do_people_cycling_at_250_watts/]
+   
+   The good news is you're fitter than the average person. The bad news is you're not
+   fitter than the average person on Zwift. But that's normal, because those people really love riding bikes.
+   ―
+   Couple of billion people in the world. Around 4000 of them so into bikes at any given time that they've invested in a turbo trainer, paid a Zwift subscription and are training indoors when they could be watching TV.
+   
+   You're just comparing yourself to people in the 0.1%, you're doing great and will keep progressing the more you ride
