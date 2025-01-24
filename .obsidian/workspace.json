@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e5687caaa013821f",
+            "id": "f465a1d50871f91c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flax.md",
+                "file": "pirouette.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "flax"
+              "title": "pirouette"
             }
           }
         ]
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flax.md",
+                "file": "pirouette.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from flax"
+              "title": "Outgoing links from pirouette"
             }
           },
           {
@@ -127,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flax.md"
+                "file": "pirouette.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of flax"
+              "title": "Outline of pirouette"
             }
           }
         ],
@@ -151,10 +150,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e5687caaa013821f",
+  "active": "f465a1d50871f91c",
   "lastOpenFiles": [
-    "flowering plant.md",
     "flax.md",
+    "pirouette.md",
+    "flowering plant.md",
     "France.md",
     "fiber crop.md",
     "road cycling.md",

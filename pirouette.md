@@ -1,0 +1,1 @@
+1. pirouette; a type of dance turn on one foot^[https://en.wikipedia.org/wiki/Turn_(dance_and_gymnastics)#Pirouette]
