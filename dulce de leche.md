@@ -1,0 +1,3 @@
+1. dulce de leche; a [[confectionery]] popular in Latin America, [[France]], Poland, and the Philippines prepared by slowly heating [[sugar]] and [[milk]] over several hours. The substance takes on a spreadable, sauce-like consistency and derives its rich flavour and colour from non-enzymatic browning. It is typically used to top or fill other sweet foods.^[https://en.wikipedia.org/wiki/Dulce_de_leche]
+   
+   By audinou from Paris, France - Flickr, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=2204444 ![image](https://upload.wikimedia.org/wikipedia/commons/5/5a/DulceDeLeche.jpg)
