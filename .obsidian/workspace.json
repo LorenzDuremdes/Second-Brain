@@ -133,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -150,7 +150,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "1d73b5d8b181e67b",
+  "active": "05b317b79e347fd9",
   "lastOpenFiles": [
     "genetics.md",
     "road cycling.md",
