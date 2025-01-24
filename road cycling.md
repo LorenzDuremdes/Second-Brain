@@ -27,6 +27,17 @@
 	1. FTP and FTHR
 		1. functional threshold [[heart rate]] (why?)
 
+## [[genetics|nature]] vs. nurture
+1. He told me about a study that took a group of rats, and tested their time to exhaustion running on a treadmill. [[selective breeding|The top 10% of performers were then bred, and the same with the bottom 10%]]. The progeny of each of those groups was subjected to the same protocol, and the top 10% of the top 10% was bred, and the bottom 10% of the bottom 10%. And so on. After six generations, the über-rats were between 150% and 200% ahead of the under-rats. After 18 generations, the divergence was more like 700%.^[Faster - The Obsession, Science and Luck Behind the World's Fastest Cyclists (by Michael Hutchinson), p. 145]
+2. nurture (trainability) vs. nature ('natural advantage')
+	1. You’d think that would be a natural advantage, and it can be. Former British Cycling head physio Phil Burt says: “Geraint Thomas is the kid in the playground who is good at everything. He could have succeeded at a range of sports; he’s naturally fit and was an excellent cyclist from the day he started.” And just look how good Thomas became.
+	   
+	   However, Bouchard also discovered that some individuals who start out with a high VO<sub>2</sub> max don’t improve as much as the high-responders. It was often the better responders who ended up with a higher trained VO<sub>2</sub> max than the naturally talented. That’s why I put trainability ahead of natural ability. Bouchard’s research group has samples of DNA from 300 endurance athletes with very high VO<sub>2</sub> max scores and, based on their gene variants, none of them is at the low end of the responder spectrum.
+	   
+	   But where does that leave the best? The probability that a person starts out with a high VO<sub>2</sub> max and is also highly trainable is a very rare combination. The geneticist Alun Williams and his team identified 23 gene variants – there may be more – strongly linked with endurance talent. Some of these variants were discovered in 80 per cent of people they tested, others in fewer than five per cent. The crunch came when Williams ran the statistical algorithm on his computer and found the odds of a single person possessing the perfect set of gene variants, which includes those related to trainability, as one in a quadrillion (that’s a number with 15 zeros).
+	   
+	   But what about the best? It’s a reasonable hypothesis that they are in that top 15 per cent of the population with exceptional trainability. Around all of the cycling’s true greats, you hear stories of how rapidly their fitness improves in response to training. They recover from training sessions faster than team-mates, which allows them to take on much bigger training loads, and the bigger the training load, the more it boosts fitness – it’s a positive cycle. The greats of cycling are all super-responders.^[https://www.cyclingweekly.com/news/racing/what-separates-the-best-from-the-rest-2-498100]
+
 # [[sports periodization]]
 1. why is "I want to ride faster" a vague [[goal]]?^[The Cyclist's Training Bible, p. 18]
 	1. because it depends on e.g. distance
