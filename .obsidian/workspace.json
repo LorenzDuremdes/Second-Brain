@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hybrid athlete.md",
+                "file": "sports periodization (road cycling).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hybrid athlete"
+              "title": "sports periodization (road cycling)"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hybrid athlete",
+                "query": "block periodization",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hybrid athlete.md",
+                "file": "sports periodization (road cycling).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from hybrid athlete"
+              "title": "Outgoing links from sports periodization (road cycling)"
             }
           },
           {
@@ -127,10 +127,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hybrid athlete.md"
+                "file": "sports periodization (road cycling).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of hybrid athlete"
+              "title": "Outline of sports periodization (road cycling)"
             }
           }
         ],
@@ -153,6 +153,9 @@
   },
   "active": "36ec44c3027e09cc",
   "lastOpenFiles": [
+    "block (sports periodization).md",
+    "principle of specificity.md",
+    "hybrid athlete.md",
     "road cycling.md",
     "bicycle tire.md",
     "casing losses.md",

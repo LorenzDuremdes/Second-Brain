@@ -25,6 +25,11 @@
 				1. e.g. Dr. Andrew Coggan probably accumulated some fatigue during his interval days hence he had to titrate the intensity of his 'moderate-intensity filler days'
 2. why shouldn't you have 'major ups/downs' (Dr. Andrew Coggan's / Rushall's training philosophy) > [[sleep]] analogy
 	1. once recovered, you can't 'accumulate more recovery' (like with oversleeping) → you have to recover **longer** ([[diminishing returns]]) for extremely hard sessions and after as well (both bringing down e.g. CTL)
+# [[mesocycle]]
+1. what might be the best current way to decide how long to do the supra-MRV microcycles of block periodization (road cycling)?
+	1. try to do as much as possible (with perhaps some 'microcycle pre-exhaust' to maximize adaptations e.g. XSSR) for as many days as possible while meeting conditions such as fasted training (also to maximize adaptations) and see 'when you hit a wall' and stay a little below this the following mesocycles (while ramping it up according to recommended ramp rates)
+		1. e.g. rather than trying to be restricted to the 7-day microcycles
+
 # [[microcycle]]
 1. when could "drop sets" not be as beneficial? ([[road cycling]])
 	1. when the [[goal]] is something associated with metabolic waste e.g. [[lactate]]
