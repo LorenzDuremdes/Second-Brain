@@ -32,3 +32,11 @@
 
 # related
 1. [[superhuman]]
+
+# miscellaneous
+1. I’m very, very skeptical that any of these guys are natural. I used to be a marathoner running 50 miles a week and I was fatigued all the time, my legs shrank despite continuing to lift hard. I just can’t see how guys like Nick Bare maintain that kind of [[muscle]] mass while running that much and that fast.
+   
+   Is it possible to run and lift concurrently? Absolutely. You can be good at both, you can’t be great at both concurrently.^[https://www.reddit.com/r/naturalbodybuilding/comments/1fzuoip/comment/lr4bx25/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button]
+2. There is zero science backing up a [[human]] carrying that much muscle and consistently running long distances without performance enhancing substances. Zero.
+   
+   Maintaining elite size and shreds while pursuing VERY catabolic goals (endurance running, marathons,etc).^[https://www.reddit.com/r/nattyorjuice/comments/16toxhv/nick_bare_the_hybrid_athlete/]
