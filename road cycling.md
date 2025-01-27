@@ -128,7 +128,12 @@
    I work in rich neighborhoods often and the really nice once always have cyclists riding around.
    -
    That’s not even considering how much the cycling kits (clothing) and gear costs. New pair of shorts? $150. New short sleeved jersey? $100. New jacket? $200.
-
+2. https://www.reddit.com/r/AskReddit/comments/72ccgh/what_hobby_screams_rich_people/
+   I'm surprised no one has said triathlon yet. The average income for Ironman participants is $200,000+. Sure, not exactly billionaire status, but it is not something a lot of regular joes get into.
+   -
+   That's actually not too surprising. Bike enthusiasts can spend as much on their bicycles as some people spend on cars. Plus it takes an enormous amount of time to devote to training and people who can take that much time out of their work are usually not living pay check to paycheck. Even flying to Hawaii for the ironman is costly.
+   -
+   I think it has to do with the type of people that compete too. Like for example my girlfriend is a veterinary surgeon. She likes to get up at 6am, go to the gym and run 5 miles.. before doing surgeries all day. Its that super A type personality usually leads to higher income imo.
 ## averages
 1. Rider Categorization Based on FTP: How Do I Rank? (Dr. Andrew Coggan)^[https://www.cyclinganalytics.com/blog/2018/06/how-does-your-cycling-power-output-compare]^[https://www.trainingpeaks.com/blog/power-profiling/]
    ![[FTP Table by Dr. Andrew Coggan.png]]
