@@ -1,0 +1,4 @@
+1. contrast sensitivity; a measure of the ability to discern different luminances in a static image^[https://en.wikipedia.org/wiki/Contrast_(vision)#Contrast_sensitivity]
+2. video games → contrast sensitivity
+	1. We found that the very act of action [[video game]] playing also enhanced contrast sensitivity, providing a complementary route to eyesight improvement.^[[Enhancing the contrast sensitivity function through action video game training](https://pubmed.ncbi.nlm.nih.gov/19330003/)]
+	2. There is some evidence that playing video games may improve contrast sensitivity somewhat. But they have to be action games. A relevant study found that Call of Duty 2 helped, but The Sims 2 did not.^[The Sports Gene: Inside the Science of Extraordinary Athletic Performance, p. 323]

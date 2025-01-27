@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d58db6d8fd0f3b8d",
+            "id": "3b706b89ebd25518",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "visual acuity.md",
+                "file": "contrast sensitivity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "visual acuity"
+              "title": "contrast sensitivity"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "visual acuity.md",
+                "file": "contrast sensitivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for visual acuity"
+              "title": "Backlinks for contrast sensitivity"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "visual acuity.md",
+                "file": "contrast sensitivity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from visual acuity"
+              "title": "Outgoing links from contrast sensitivity"
             }
           },
           {
@@ -126,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "visual acuity.md"
+                "file": "contrast sensitivity.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of visual acuity"
+              "title": "Outline of contrast sensitivity"
             }
           }
         ],
@@ -150,10 +150,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d58db6d8fd0f3b8d",
+  "active": "3b706b89ebd25518",
   "lastOpenFiles": [
-    "macula.md",
     "visual acuity.md",
+    "contrast sensitivity.md",
+    "macula.md",
     "human eye.md",
     "stereopsis.md",
     "Rogerian argument.md",
@@ -178,7 +179,6 @@
     "casing losses.md",
     "pirouette.md",
     "flax.md",
-    "flowering plant.md",
     "FTP Table by Dr. Andrew Coggan.png"
   ]
 }
