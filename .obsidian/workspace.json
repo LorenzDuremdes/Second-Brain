@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f7019c9fc5e3cc8a",
+            "id": "d58db6d8fd0f3b8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "macula.md",
+                "file": "visual acuity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "macula"
+              "title": "visual acuity"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chess",
+                "query": "visual acuity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "macula.md",
+                "file": "visual acuity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for macula"
+              "title": "Backlinks for visual acuity"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "macula.md",
+                "file": "visual acuity.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from macula"
+              "title": "Outgoing links from visual acuity"
             }
           },
           {
@@ -126,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "macula.md"
+                "file": "visual acuity.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of macula"
+              "title": "Outline of visual acuity"
             }
           }
         ],
@@ -150,10 +150,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "f7019c9fc5e3cc8a",
+  "active": "d58db6d8fd0f3b8d",
   "lastOpenFiles": [
-    "human eye.md",
     "macula.md",
+    "visual acuity.md",
+    "human eye.md",
     "stereopsis.md",
     "Rogerian argument.md",
     "person-centered therapy.md",
@@ -178,7 +179,6 @@
     "pirouette.md",
     "flax.md",
     "flowering plant.md",
-    "France.md",
     "FTP Table by Dr. Andrew Coggan.png"
   ]
 }

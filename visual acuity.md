@@ -1,0 +1,4 @@
+1. visual acuity; technically rates an [[animal]]'s ability to recognize small details with precision^[https://en.wikipedia.org/wiki/Visual_acuity]
+2. when does visual acuity start to deteriorate?
+	1. Mean logMAR VA improved from -0.13 (Snellen equivalent 6/4.5) in 18- to 24-year-olds to -0.16 (Snellen 6/4(-1)) in 25- to 29-year-olds and then gradually became worse with age to a mean value of -0.02 (Snellen 6/6+1) for subjects over 75 years of age.^[[Visual acuity changes throughout adulthood in normal, healthy eyes: seeing beyond 6/6](https://pubmed.ncbi.nlm.nih.gov/7609941/)]
+	2. Coincidentally, or perhaps not, twenty-nine often is the age at which visual acuity starts to deteriorate and the age when hitters, as a group, begin to decline.)^[The Sports Gene: Inside the Science of Extraordinary Athletic Performance, p. 48]
