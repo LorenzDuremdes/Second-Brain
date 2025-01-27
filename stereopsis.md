@@ -1,0 +1,1 @@
+1. stereopsis (from Ancient Greek στερεός (*stereós*) 'solid' and ὄψις (*ópsis*) 'appearance, sight'); the component of depth perception retrieved through binocular vision.^[https://en.wikipedia.org/wiki/Stereopsis]
