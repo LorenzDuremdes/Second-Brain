@@ -110,9 +110,24 @@
    Basically bikes tick a ton of boxes that engineers are looking for.^[https://www.reddit.com/r/Velo/comments/q0o53u/comment/hf9jqgq/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button]
 
 ### rich man's [[sport]]
-1. Lots of folks saying golf, but I haven’t seen anybody mention cycling. [[Sport]] cycling, not utility cycling to the corner store for a gallon of milk. Mid-level road bikes are now $5000 usd. And it’s pretty common to spend low five-figures on a complete setup.
+1. https://www.reddit.com/r/AskReddit/comments/11a6s9b/comment/j9rein0/?utm_source=share&utm_medium=web2x&context=3 
+   Lots of folks saying golf, but I haven’t seen anybody mention cycling. [[Sport]] cycling, not utility cycling to the corner store for a gallon of milk. Mid-level road bikes are now $5000 usd. And it’s pretty common to spend low five-figures on a complete setup.
    
-   At least in the Unites States, the average household income of cyclists is quite a bit higher than golfers.^[https://www.reddit.com/r/AskReddit/comments/11a6s9b/comment/j9rein0/?utm_source=share&utm_medium=web2x&context=3]
+   At least in the Unites States, **the average household income of cyclists is quite a bit higher than golfers.**
+   -
+   Agreed. The **wheelsets on my TT bike and road bike alone were $2K each**.
+   -
+   Add in Triathlons as a subset of this. You gotta have a good road bike (with clip-on aero bars) at the “entry-level” athlete, and a dedicated triathlon bike (along with another road bike for training, and maybe a peloton for off-season) if you’re trying to be “serious” about it as a hobby. Plus wetsuit, gym membership to somewhere with a pool, running shoes, $150-500 entry-fees, etc.
+   
+   But **it’s not even the gear that really shows off the wealth. It’s the time investment these people are able to sink into training (especially as you ratchet up the distances).** A sprint Triathlon your average person with no disabilities and an average competence level at swimming/biking could get off the couch and cross the finish line any day of the week. Olympic distance needs a little training for a few weeks/months with decent consistency. Half-Ironman or full-Ironman distance, you’d better have months of consistent training—sometimes two-a-days—along with several days per week where you can get in 2-4hrs worth of training on your long runs/rides/swims.
+   
+   **No one with an average 9-5 can do this without serious lifestyle sacrifice.**
+   -
+   Everyone in this thread is sleeping on triathlons. In addition to everything you mentioned, **being able to meet the nutrition requirements sucks up a lot of time and money**, and lots of folks train with a team (more cost) or raise/donate money for charity as part of their training (more time/money). When I was training with a team, all of the athletes were affluent and childless.
+   -
+   I work in rich neighborhoods often and the really nice once always have cyclists riding around.
+   -
+   That’s not even considering how much the cycling kits (clothing) and gear costs. New pair of shorts? $150. New short sleeved jersey? $100. New jacket? $200.
 
 ## averages
 1. Rider Categorization Based on FTP: How Do I Rank? (Dr. Andrew Coggan)^[https://www.cyclinganalytics.com/blog/2018/06/how-does-your-cycling-power-output-compare]^[https://www.trainingpeaks.com/blog/power-profiling/]

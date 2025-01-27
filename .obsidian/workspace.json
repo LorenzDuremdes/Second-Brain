@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sports periodization (road cycling).md",
+                "file": "road cycling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sports periodization (road cycling)"
+              "title": "road cycling"
             }
           }
         ]
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sports periodization (road cycling).md",
+                "file": "road cycling.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from sports periodization (road cycling)"
+              "title": "Outgoing links from road cycling"
             }
           },
           {
@@ -127,14 +126,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sports periodization (road cycling).md"
+                "file": "road cycling.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of sports periodization (road cycling)"
+              "title": "Outline of road cycling"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -151,8 +150,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "36ec44c3027e09cc",
+  "active": "05b317b79e347fd9",
   "lastOpenFiles": [
+    "sports periodization (road cycling).md",
     "block (sports periodization).md",
     "principle of specificity.md",
     "hybrid athlete.md",
