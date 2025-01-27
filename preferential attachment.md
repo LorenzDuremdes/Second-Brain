@@ -1,0 +1,3 @@
+1. preferential attachment; any of a class of processes in which some quantity, typically some form of wealth or credit, is distributed among a number of individuals or objects according to how much they already have, so that those who are already wealthy receive more than those who are not
+   
+   They are also referred to under the names Yule process, cumulative advantage, [[the rich get richer and the poor get poorer|the rich get richer]], and the [[Matthew effect]]^[https://en.wikipedia.org/wiki/Preferential_attachment]

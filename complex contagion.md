@@ -1,0 +1,3 @@
+1. complex contagion; the phenomenon in social networks in which multiple sources of exposure to an innovation are required before an individual adopts the change of behavior.
+   
+   The spread of complex contagion across a network of people may depend on many social and economic factors; for instance, how many of one's friends adopt the new idea as well as how many of them cannot influence the individual, as well as their own disposition in embracing change^[https://en.wikipedia.org/wiki/Complex_contagion]

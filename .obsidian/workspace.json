@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "26bd9e2fbbcd5db0",
+            "id": "e56ac0c1d88f26ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chess.md",
+                "file": "Rogerian argument.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chess"
+              "title": "Rogerian argument"
             }
           }
         ]
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chess.md",
+                "file": "Rogerian argument.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for chess"
+              "title": "Backlinks for Rogerian argument"
             }
           },
           {
@@ -113,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chess.md",
+                "file": "Rogerian argument.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from chess"
+              "title": "Outgoing links from Rogerian argument"
             }
           },
           {
@@ -127,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chess.md"
+                "file": "Rogerian argument.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of chess"
+              "title": "Outline of Rogerian argument"
             }
           }
         ],
@@ -151,10 +150,22 @@
       "random-note:Open random note": false
     }
   },
-  "active": "36ec44c3027e09cc",
+  "active": "e56ac0c1d88f26ba",
   "lastOpenFiles": [
-    "road cycling.md",
+    "person-centered therapy.md",
+    "Rogerian argument.md",
+    "argumentum ad populum.md",
+    "fallacy.md",
+    "groupshift.md",
+    "complex contagion.md",
+    "link-centric preferential attachment.md",
+    "temporal network.md",
+    "preferential attachment.md",
+    "Untitled",
+    "Matthew effect.md",
+    "the rich get richer and the poor get poorer.md",
     "chess.md",
+    "road cycling.md",
     "sports periodization (road cycling).md",
     "block (sports periodization).md",
     "principle of specificity.md",
@@ -168,17 +179,6 @@
     "fiber crop.md",
     "genetics.md",
     "dulce de leche.md",
-    "Normandy.md",
-    "FTP Table by Dr. Andrew Coggan.png",
-    "aerodynamics (road cycling).md",
-    "anemometer.md",
-    "wind direction.md",
-    "wind speed.md",
-    "drag (physics).md",
-    "Olympic Games.md",
-    "drafting (aerodynamics).md",
-    "xiphoid process.md",
-    "ROUVY.md",
-    "film.md"
+    "FTP Table by Dr. Andrew Coggan.png"
   ]
 }

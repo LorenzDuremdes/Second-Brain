@@ -1,0 +1,3 @@
+1. Rogerian argument; a rhetorical and conflict resolution strategy based on empathizing with others, seeking common ground and mutual understanding and learning, while avoiding the negative effects of extreme attitude polarization.
+   
+   The term Rogerian refers to the psychologist [[Carl Rogers]], whose [[person-centered therapy|client-centered therapy]] has also been called Rogerian therapy^[https://en.wikipedia.org/wiki/Rogerian_argument]

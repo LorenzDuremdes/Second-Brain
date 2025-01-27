@@ -1,0 +1,3 @@
+1. groupshift; a phenomenon in which the initial positions of individual members of a group are exaggerated toward a more extreme position.
+   
+   When people are in groups, they make decisions about risk differently from when they are alone. The decision made tends to be even more risk-averse if the group members' opinions are risk-averse on average, and even more risk-seeking if the group members' opinions are risk seeking on average. In a group, people are likely to exhibit a slight preference towards riskier decisions as the risk is divided among the group members rather than borne by an individual.^[https://en.wikipedia.org/wiki/Groupshift]

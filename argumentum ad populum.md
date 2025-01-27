@@ -1,0 +1,1 @@
+1. *argumentum ad populum*; a [[fallacy|fallacious argument]] which is based on claiming a truth or affirming something is good or correct because many people think so.^[https://en.wikipedia.org/wiki/Argumentum_ad_populum]
