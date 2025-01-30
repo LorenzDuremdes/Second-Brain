@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tdee",
+                "query": "obesity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -127,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "contrast sensitivity.md"
+                "file": "non-exercise activity thermogenesis.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of contrast sensitivity"
+              "title": "Outline of non-exercise activity thermogenesis"
             }
           }
         ],
@@ -151,13 +150,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c5c3b2e8df193b7c",
+  "active": "36ec44c3027e09cc",
   "lastOpenFiles": [
+    "Effects of physical activity on PEEAEE and its components (adapted from (153))..png",
     "specific dynamic action.md",
+    "obesity.md",
     "non-exercise activity thermogenesis.md",
     "energy expenditure.md",
     "calorie.md",
-    "obesity.md",
     "abdominal obesity.md",
     "contrast sensitivity.md",
     "visual acuity.md",
@@ -179,7 +179,6 @@
     "chess.md",
     "road cycling.md",
     "sports periodization (road cycling).md",
-    "block (sports periodization).md",
     "FTP Table by Dr. Andrew Coggan.png"
   ]
 }
