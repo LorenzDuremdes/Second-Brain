@@ -1,0 +1,1 @@
+1. [[sex]]-determining region Y [[protein]]; a [[DNA-binding protein]] (also known as [[gene]]-regulatory protein/[[transcription factor]]) encoded by the SRY gene that is responsible for the initiation of [[male]] sex determination in therian [[mammal|mammals]] (placentals and marsupials).^[https://en.wikipedia.org/wiki/Sex-determining_region_Y_protein]
