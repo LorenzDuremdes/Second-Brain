@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "'interesting' research.md",
+                "file": "aerodynamics (road cycling).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "'interesting' research"
+              "title": "aerodynamics (road cycling)"
             }
           }
         ]
@@ -40,8 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
-                "autoReveal": false
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obesity",
+                "query": "aerodynamics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "'interesting' research.md",
+                "file": "aerodynamics (road cycling).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 'interesting' research"
+              "title": "Outgoing links from aerodynamics (road cycling)"
             }
           },
           {
@@ -127,14 +127,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "non-exercise activity thermogenesis.md"
+                "file": "aerodynamics (road cycling).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of non-exercise activity thermogenesis"
+              "title": "Outline of aerodynamics (road cycling)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -151,10 +151,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "db8a3293d8d9e0c6",
+  "active": "05b317b79e347fd9",
   "lastOpenFiles": [
-    "Leydig cell.md",
     "'interesting' research.md",
+    "Leydig cell.md",
     "luteinizing hormone.md",
     "testicle.md",
     "sexual differentiation in humans.md",

@@ -15,8 +15,11 @@
 2. Aerobars [57.6 W](https://www.aero-coach.co.uk/clip-on-aerobars)
 3. Aero body position [22.38 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades)
 4. Aero wheels [10.17 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades)
-5. Narrow handlebars [2.43 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades) | can be replicated by rolling wrists inward ~[-2 W](https://www.instagram.com/p/C_aUBhtuUXg/)
+5. Aero front derailleur guard [2–5.8 W](https://ezgains.co.uk/collections/all-products/products/ez-aero-front-derailleur-guard-save-2-6-watts)
+6. Aero chainrings guards [3–5 W](https://ezgains.co.uk/collections/all-products/products/ez-gains%C2%AE-aero-chainring-guard-2-5-watt-saving-copy)
+7. Narrow handlebars [2.43 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades) | can be replicated by rolling wrists inward ~[-2 W](https://www.instagram.com/p/C_aUBhtuUXg/)
 	1. [Skat Endurance Handlebar](https://www.velobike.co.nz/products/skat-endurance-handlebar?variant=42869638693047)
+2. Aero skewer
 # apparel
 1. Aero helmet [7.56 W](https://www.bikeradar.com/features/tech/best-value-aero-upgrades)
 2. [Encapsulator TT Suit for cyclists. Riding suit optimised for TT position (drag2zero.co.uk)](https://drag2zero.co.uk/product/encapsulator-tt-suit/?v=796834e7a283) £366.65 | [15 W](https://silca.cc/blogs/silca/top-10-marginal-gains-to-save-watts-on-the-bike)
@@ -35,8 +38,6 @@
 4. [FUTURUM Face Mask Merino (Futurumshop.nl)](https://www.futurumshop.nl/futurum-face-mask-merino.phtml) €30.99 (Specialized 2023 S-Works TT 5 Team)
 5. [[Monarch (VeloVetta)]] €405 | **cheaper alternative:** Non UCI Aero Overshoes (Rule 28) | ~[14.2 W](https://www.velovetta.com/pages/wind-tunnel-testing)
 
-**Total = -148.04 W**
-
 ## miscellaneous
 1. could aerobars without extensions make you faster + why
 	1. The one bottle that we have found to work on everybody is a 28-ounce, normal **water bottle**, and you keep it up high. You don’t put it down in your stomach. You keep it up high on your chest, and that’s when it works.”
@@ -45,6 +46,8 @@
 	   
 	   Blocken found that the type of chest fairing he tested, which is equivalent to sticking a drinking bottle down a tight-fitting, stretchable shirt, can give a drag reduction of more than 9%.^[https://www.triathlete.com/gear/bike/expert-tested-the-water-bottle-jersey-trend-produces-shocking-results/] | see also their pictures of air flow with(out) bottles
 2. The **plastic suits** were banned not long after the [[Olympic Games|Olympics]]. They were felt to confer an unfair advantage, and to unacceptably increase costs. The GB team response for the 2012 Olympics was to use the knowledge gained from the plastic suits to develop fabric suits. Plastic was simple – smooth is smooth. Fabric is harder, because the exact texture is critical. This, and the consequent [[drag (physics)|drag]], vary from one fabric to another.^[Faster - The Obsession, Science and Luck Behind the World's Fastest Cyclists (by Michael Hutchinson), p. 130–131]
+3. why do you like SPD pedals on a road bike shoe?
+	1. because you can use SPD-SL adapters to increase stack height > increase saddle height > go even lower on the bike
 
 ---
 
