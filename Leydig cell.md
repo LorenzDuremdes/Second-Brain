@@ -1,0 +1,1 @@
+1. Leydig [[cell]]; are found adjacent to the seminiferous tubules in the [[testicle]] and produce [[testosterone]] in the presence of [[luteinizing hormone]] (LH).^[https://en.wikipedia.org/wiki/Leydig_cell]

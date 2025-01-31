@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leydig cells.md",
+                "file": "Leydig cell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leydig cells"
+              "title": "Leydig cell"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Leydig cells.md",
+                "file": "Leydig cell.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Leydig cells"
+              "title": "Outgoing links from Leydig cell"
             }
           },
           {
@@ -154,7 +154,7 @@
   "active": "9b926558d7dcb80c",
   "lastOpenFiles": [
     "luteinizing hormone.md",
-    "Leydig cells.md",
+    "Leydig cell.md",
     "testicle.md",
     "sexual differentiation in humans.md",
     "mother.md",
