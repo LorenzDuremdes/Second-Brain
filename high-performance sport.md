@@ -1,0 +1,2 @@
+# behavior
+1. Some of the traits that help predict the future pros are behavioral. The future pros not only tend to practice more, but they take responsibility for practicing better. Says Elferink-Gemser, “We see already when we first test them at the age of twelve that they are the players who will go up and ask the trainer, ‘Why should I do this?’ if they don’t agree with the training.”^[The Sports Gene: Inside the Science of Extraordinary Athletic Performance, p. 53]
