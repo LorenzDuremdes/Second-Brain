@@ -1,0 +1,2 @@
+1. [So I wrote a research paper to prove whether or not anime titties are aerodynamic (using Lucoa)...](https://www.reddit.com/r/anime/comments/7ra71j/so_i_wrote_a_research_paper_to_prove_whether_or/)
+2. [Aerodynamics of a cow...just in case you wondered.](https://www.reddit.com/r/anime/comments/7ra71j/so_i_wrote_a_research_paper_to_prove_whether_or/)
