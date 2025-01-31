@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -73,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,6 +156,13 @@
   },
   "active": "db8a3293d8d9e0c6",
   "lastOpenFiles": [
+    "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
+    "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transform Screenshot 2024-12-26 at 22-59-24 .png",
+    "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-59-24 George Fox Cycling Solutions (@georgefox07) • Instagram photos and videos.png",
+    "aerodynamics (road cycling).md",
+    "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformed into a road bike.  Screenshot 2024-12-26 225611.png",
+    "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-59-24 George Fox Cycling Solutions (@georgefox07) • Instagram photos and videos 1.png",
+    "Screenshot 2024-12-26 225611.png",
     "'interesting' research.md",
     "Leydig cell.md",
     "luteinizing hormone.md",
@@ -180,9 +187,7 @@
     "contrast sensitivity.md",
     "high-performance sport.md",
     "non-exercise activity thermogenesis.md",
-    "adolescence.md",
     "Effects of physical activity on PEEAEE and its components (adapted from (153))..png",
-    "specific dynamic action.md",
     "Untitled",
     "FTP Table by Dr. Andrew Coggan.png"
   ]
