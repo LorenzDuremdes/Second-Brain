@@ -127,7 +127,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aerodynamics (road cycling).md"
+                "file": "aerodynamics (road cycling).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of aerodynamics (road cycling)"
@@ -151,7 +154,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "05b317b79e347fd9",
+  "active": "db8a3293d8d9e0c6",
   "lastOpenFiles": [
     "'interesting' research.md",
     "Leydig cell.md",
