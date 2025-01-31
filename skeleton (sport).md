@@ -1,4 +1,4 @@
-1. skeleton (sport); a winter sliding sport in which a person rides a small sled down a frozen track while lying face down and head-first
+1. skeleton ([[sport]]); a [[winter]] sliding sport in which a person rides a small sled down a frozen track while lying face down and head-first
 
 	The sport and the sled may have been named from the bony appearance of the sled.^[https://en.wikipedia.org/wiki/Skeleton_(sport)]
 	

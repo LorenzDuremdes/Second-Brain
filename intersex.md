@@ -1,0 +1,3 @@
+1. intersex; individuals born with any of several [[sexual characteristics|sex characteristics]], including chromosome patterns, gonads, or genitals that, according to the Office of the United Nations High Commissioner for Human Rights, "do not fit typical binary notions of [[male]] or [[female]] bodies".
+
+	Sex assignment at birth usually aligns with a child's external genitalia. The number of births with ambiguous genitals is in the range of 1:4,500–1:2,000 (0.02%–0.05%). Other conditions involve the development of atypical chromosomes, gonads, or hormones.^[https://en.wikipedia.org/wiki/Intersex]
