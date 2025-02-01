@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "relative energy deficiency in sport.md",
+                "file": "non-exercise activity thermogenesis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "relative energy deficiency in sport"
+              "title": "non-exercise activity thermogenesis"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "relative energy deficiency in sport",
+                "query": "neat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "non-exercise activity thermogenesis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from aerodynamics (road cycling)"
+              "title": "Outgoing links from non-exercise activity thermogenesis"
             }
           },
           {
@@ -128,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "relative energy deficiency in sport.md",
+                "file": "non-exercise activity thermogenesis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of relative energy deficiency in sport"
+              "title": "Outline of non-exercise activity thermogenesis"
             }
           }
         ],
@@ -157,8 +157,10 @@
   },
   "active": "db8a3293d8d9e0c6",
   "lastOpenFiles": [
-    "sport.md",
+    "bulking (diet).md",
+    "non-exercise activity thermogenesis.md",
     "relative energy deficiency in sport.md",
+    "sport.md",
     "aerodynamics (road cycling).md",
     "Untitled 1.md",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
@@ -187,8 +189,6 @@
     "male.md",
     "sexual characteristics.md",
     "skeleton (sport).md",
-    "peak height velocity age.md",
-    "contrast sensitivity.md",
     "Effects of physical activity on PEEAEE and its components (adapted from (153))..png",
     "Untitled",
     "FTP Table by Dr. Andrew Coggan.png"

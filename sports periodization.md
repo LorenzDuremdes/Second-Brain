@@ -20,7 +20,7 @@
 	1. intensity training^[How Much Should I Train by Dr. Mike Israetel and Dr. James Hoffmann), p. 46]
 		1. e.g. having to drop volume to continue to increase intensity (and intensity lowering the MRV)
 
-# [[bulking]] vs. cutting
+# [[bulking (diet)]] vs. cutting
 1. should I cut or mass?
 
 <iframe src="https://www.instagram.com/p/CPBY_mrr1Zy/" width="600" height="600"></iframe>
