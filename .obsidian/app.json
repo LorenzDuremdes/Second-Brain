@@ -14,5 +14,6 @@
   "communityPluginSortOrder": "download",
   "legacyEditor": false,
   "livePreview": true,
-  "spellcheck": false
+  "spellcheck": false,
+  "trashOption": "local"
 }
