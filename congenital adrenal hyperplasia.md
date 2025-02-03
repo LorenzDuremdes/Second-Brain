@@ -1,0 +1,1 @@
+1. congenital adrenal hyperplasia; a group of autosomal recessive disorders characterized by impaired [[cortisol]] synthesis.^[https://en.wikipedia.org/wiki/Congenital_adrenal_hyperplasia]
