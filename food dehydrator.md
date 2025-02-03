@@ -1,0 +1,1 @@
+1. [[food]] dehydrator; a device that removes moisture from food to aid in its [[food preservation|preservation]]. Food drying is a method of preserving fruit, vegetables and meats that has been practiced since antiquity.^[https://en.wikipedia.org/wiki/Food_dehydrator]
