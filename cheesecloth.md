@@ -1,0 +1,3 @@
+1. cheesecloth; a loose-woven gauze-like carded cotton cloth used primarily in cheesemaking and [[cooking]]. The fabric has holes large enough to quickly allow liquids (like whey) to percolate through the fabric, but small enough to retain solids like cheese curds.^[https://en.wikipedia.org/wiki/Cheesecloth]
+
+	Cheesecloth on sauerkraut (fermented cabbage)^[By Veganbaking.net from USA - Cheesecloth on Sauerkraut, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=35716757] ![image](https://upload.wikimedia.org/wikipedia/commons/c/cc/Cheesecloth_on_Sauerkraut_%285504152472%29.jpg)
