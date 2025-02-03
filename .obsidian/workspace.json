@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9cca7561b8daa884",
+            "id": "695aed21c8116bc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nutrition periodization.md",
+                "file": "stone (unit).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nutrition periodization"
+              "title": "stone (unit)"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nutrition periodization.md",
+                "file": "stone (unit).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from nutrition periodization"
+              "title": "Outgoing links from stone (unit)"
             }
           },
           {
@@ -128,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nutrition periodization.md",
+                "file": "stone (unit).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of nutrition periodization"
+              "title": "Outline of stone (unit)"
             }
           }
         ],
@@ -155,10 +154,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "9cca7561b8daa884",
+  "active": "695aed21c8116bc3",
   "lastOpenFiles": [
-    "strength training.md",
     "nutrition periodization.md",
+    "stone (unit).md",
+    "strength training.md",
     "low energy availability.md",
     "isocaloric diet.md",
     "dieting.md",
@@ -182,7 +182,6 @@
     "woman.md",
     "man.md",
     "body composition.md",
-    "non-exercise activity thermogenesis.md",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transform Screenshot 2024-12-26 at 22-59-24 .png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-59-24 George Fox Cycling Solutions (@georgefox07) • Instagram photos and videos.png",

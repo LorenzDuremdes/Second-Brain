@@ -1,0 +1,1 @@
+1. stone (unit) = 6.35 kg^[https://en.wikipedia.org/wiki/Stone_(unit)]
