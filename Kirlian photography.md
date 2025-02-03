@@ -1,0 +1,3 @@
+1. Kirlian [[photography]]; a collection of photographic techniques used to capture the phenomenon of electrical coronal discharges^[https://en.wikipedia.org/wiki/Kirlian_photography]
+	
+	Kirlian photograph of two coins^[By The original uploader was Chemikus69 at German Wikipedia.(Original text: Chemikus69) - Self-photographed, CC BY-SA 2.0 de, https://commons.wikimedia.org/w/index.php?curid=3201081] ![image](https://upload.wikimedia.org/wikipedia/commons/5/51/Kirl66_g.png)
