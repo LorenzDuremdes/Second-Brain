@@ -1,0 +1,1 @@
+1. courgette (synonym); zucchini^[https://en.wikipedia.org/wiki/Zucchini]
