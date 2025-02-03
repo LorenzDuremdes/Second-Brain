@@ -1,0 +1,1 @@
+1. [[mind]] over matter; a situation in which someone is able to control a physical condition, problem, etc., by using the mind^[https://en.wikipedia.org/wiki/Mind_over_matter]
