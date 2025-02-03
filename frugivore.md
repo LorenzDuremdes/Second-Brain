@@ -1,0 +1,1 @@
+1. frugivore; an [[animal]] that thrives mostly on raw fruits or succulent [[fruit]]-like produce of plants such as roots, shoots, nuts and seeds^[https://en.wikipedia.org/wiki/Frugivore]

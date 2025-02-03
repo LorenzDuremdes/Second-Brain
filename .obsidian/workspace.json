@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1858bcdedd92021",
+            "id": "9cca7561b8daa884",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ionization.md",
+                "file": "frugivore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ionization"
+              "title": "frugivore"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ionization.md",
+                "file": "frugivore.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ionization"
+              "title": "Outgoing links from frugivore"
             }
           },
           {
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ionization.md",
+                "file": "frugivore.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ionization"
+              "title": "Outline of frugivore"
             }
           }
         ],
@@ -154,10 +154,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c1858bcdedd92021",
+  "active": "9cca7561b8daa884",
   "lastOpenFiles": [
-    "electron.md",
     "ionization.md",
+    "frugivore.md",
+    "electron.md",
     "electric charge.md",
     "corona discharge.md",
     "Kirlian photography.md",
@@ -187,7 +188,6 @@
     "Screenshot 2024-12-26 225611.png",
     "'interesting' research.md",
     "Leydig cell.md",
-    "luteinizing hormone.md",
     "Effects of physical activity on PEEAEE and its components (adapted from (153))..png",
     "Untitled",
     "FTP Table by Dr. Andrew Coggan.png"
