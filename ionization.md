@@ -1,0 +1,1 @@
+1. onization; the process by which an [[atom]] or a [[molecule]] acquires a negative or positive [[electric charge|charge]] by gaining or losing [[electron|electrons]], often in conjunction with other chemical changes^[https://en.wikipedia.org/wiki/Ionization]

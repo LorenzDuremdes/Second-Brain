@@ -1,0 +1,3 @@
+1. corona discharge; an [[electric discharge|electrical discharge]] caused by the [[ionization]] of a [[fluid]] such as air surrounding a [[conductor]] carrying a high [[voltage]]^[https://en.wikipedia.org/wiki/Corona_discharge]
+
+	Corona discharges on the 380kV [[overhead power line]] over the Albula Pass (Switzerland) in foggy weather conditions (30 second long exposure)^[By Schnubo - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=128181722] ![image](https://upload.wikimedia.org/wikipedia/commons/f/f5/Koronaentladungen_an_Hochspannungsleitung.jpg)
