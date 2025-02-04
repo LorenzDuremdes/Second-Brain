@@ -7,4 +7,5 @@
 	**Verklaring van de naam Bebogeen**
 	Er bestaan twee verklaringen voor de naam. Volgens [[De Ruijter (bedrijf)|De Ruijter]] is de naam Bebogeen ontstaan door de samenvoeging en omkering van **Geen bo**ter **be**schikbaar. De zoon van de laatste particuliere eigenaar vertelde echter in 2009 aan een verslaggever van de Telegraaf, dat de naam **Be**ter dan **bo**ter betekent én een samenvoeging is van de namen van de zoon en neef van de oorspronkelijke producent Benno Benninga: **Be**nno en **Bo**b.[bron?]
 	
+	Bebogeen oud en nieuw^[Door Visserman - Eigen werk, CC0, https://commons.wikimedia.org/w/index.php?curid=25968835] ![image](https://upload.wikimedia.org/wikipedia/commons/5/56/Bebogeen_oud_en_nieuw.jpg)
 	https://nl.wikipedia.org/wiki/Bebogeen
