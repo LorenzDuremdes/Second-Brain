@@ -6,6 +6,6 @@
    What shocked me most was just how much carbohydrate I would need to consume in liquid form.
    
    Food fatigue and repetition can be a real problem for riders, and I began to understand why. Eating was the last thing on my mind as dinnertime approached. For my biggest meal of the day, I was expected to eat a whopping 217g of carbs – almost three grams per kilo of body weight. How do pro riders manage it? “We rotate themes,” Girling told me. “Mexican food one night, Japanese the next, then perhaps local cuisine from the area – whatever it takes to keep it interesting and appetising.” Heeding Girling’s final tip, “learn to love rice”, I cooked myself a chicken stir-fry. ^[https://www.cyclingweekly.com/fitness/nutrition/gorging-like-a-pro-for-a-day-what-is-it-actually-like-to-fuel-a-tour-de-france-stage]
+2. The most important nutritional consideration for riders is getting enough calories to meet the extreme demands of the race.  This can be anything from 4,000 calories a day on a flat stage to 9,000 calories on a hilly stage.
 
-## articles
-1. [This is what you have to eat to compete in the Tour de France](https://www.cyclingweekly.com/news/racing/tour-de-france/this-is-what-you-have-to-eat-to-compete-in-the-tour-de-france-182775)
+	Guzzling around 6,000 calories a day might sound blissful, but the reality of consuming such huge quantities of food day in, day out for three weeks presents one of the biggest challenges for the riders.^[https://www.cyclingweekly.com/news/racing/tour-de-france/this-is-what-you-have-to-eat-to-compete-in-the-tour-de-france-182775]
