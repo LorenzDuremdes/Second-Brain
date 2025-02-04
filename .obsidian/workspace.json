@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grand Tour (cycling).md",
+                "file": "specific dynamic action.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grand Tour (cycling)"
+              "title": "specific dynamic action"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tour de france",
+                "query": "specific dynamic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grand Tour (cycling).md",
+                "file": "specific dynamic action.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Grand Tour (cycling)"
+              "title": "Outgoing links from specific dynamic action"
             }
           },
           {
@@ -157,6 +157,9 @@
   },
   "active": "2dc5ee1c82684c1d",
   "lastOpenFiles": [
+    "protein.md",
+    "specific dynamic action.md",
+    "Grand Tour (cycling).md",
     "block training.md",
     "active recovery.md",
     "gambeson.md",
@@ -180,9 +183,6 @@
     "food dehydrator.md",
     "food drying.md",
     "food preservation.md",
-    "courgette.md",
-    "kombucha.md",
-    "yeast.md",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transform Screenshot 2024-12-26 at 22-59-24 .png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-59-24 George Fox Cycling Solutions (@georgefox07) • Instagram photos and videos.png",
