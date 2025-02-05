@@ -1,0 +1,1 @@
+1. XYY [[syndrome]]; There are usually few symptoms. These may include being taller than average and an increased risk of learning disabilities. The person is generally otherwise normal, including typical rates of [[fertility]].^[https://en.wikipedia.org/wiki/XYY_syndrome]
