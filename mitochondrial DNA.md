@@ -1,0 +1,3 @@
+1. mitochondrial [[DNA]] (mtDNA and mDNA); the DNA located in the [[mitochondrion|mitochondria]] [[organelle|organelles]] in a [[eukaryote|eukaryotic]] [[cell]] that converts chemical [[energy]] from [[food]] into [[adenosine triphosphate]] (ATP)
+
+	The mitochondria, and thus mitochondrial DNA, are passed exclusively from [[mother]] to [[offspring]] through the egg cell.^[https://en.wikipedia.org/wiki/Mitochondrial_DNA]
