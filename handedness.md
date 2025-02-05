@@ -1,0 +1,4 @@
+# left-handed
+1. [[Men]] are twice as likely to be left-handed as [[women]]—an athletic asset in a number of [[sport|sports]].
+
+	Lefties are rare, so opponents do not face them regularly and consequently have a shallow mental database of their body movements, giving southpaws what scientists call a “negative frequency dependent advantage.” In the foil fencing competition at the 1980 Moscow Olympics, for example, the entire six-man final pool was made up of lefties. French scientists Charlotte Faurie and Michel Raymond have analyzed the higher rates of left-handedness in native societies with more hand-to-hand combat. They, and others, have hypothesized that natural selection preserves a certain amount of left- handedness, particularly in males, as a combat advantage.^[The Sports Gene: Inside the Science of Extraordinary Athletic Performance, p. 68, 329]
