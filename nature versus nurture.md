@@ -5,7 +5,10 @@
 	   
 		People like you scare me the most, because it seems like you're entirely unprepared to resist what you could be capable of in the right (wrong) circumstances.^[https://www.reddit.com/r/MorbidReality/comments/w73sej/comment/ihj4the/?utm_source=share&utm_medium=web2x&context=3]
 
-# [[road cycling]]
+# [[endurance training]]
+1. the amount of improvement that any one person experienced had nothing to do with how good they were to start^[The Sports Gene: Inside the Science of Extraordinary Athletic Performance, p. 82]
+
+## [[road cycling]]
 1. nurture (trainability) vs. nature ('natural advantage')
    
    You’d think that would be a natural advantage, and it can be. Former British Cycling head physio Phil Burt says: “Geraint Thomas is the kid in the playground who is good at everything. He could have succeeded at a range of sports; he’s naturally fit and was an excellent cyclist from the day he started.” And just look how good Thomas became.

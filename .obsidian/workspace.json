@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tuber.md",
+                "file": "nature versus nurture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tuber"
+              "title": "nature versus nurture"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "adult",
+                "query": "trainability",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tuber.md",
+                "file": "nature versus nurture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for tuber"
+              "title": "Backlinks for nature versus nurture"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tuber.md",
+                "file": "nature versus nurture.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from tuber"
+              "title": "Outgoing links from nature versus nurture"
             }
           },
           {
@@ -127,17 +128,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bebogeen.md",
+                "file": "nature versus nurture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bebogeen"
+              "title": "Outline of nature versus nurture"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -154,10 +155,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "28f3b82826cf2c55",
+  "active": "05b317b79e347fd9",
   "lastOpenFiles": [
-    "nutrient.md",
     "tuber.md",
+    "nutrient.md",
     "storage organ.md",
     "congenital adrenal hyperplasia.md",
     "endocrine system.md",
