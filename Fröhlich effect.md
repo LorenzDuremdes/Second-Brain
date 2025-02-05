@@ -1,0 +1,6 @@
+1. Fröhlich effect; a [[optical illusion|visual illusion]] wherein the first position of a moving object entering a window is misperceived. When observers are asked to localize the onset position of the moving target, they typically make localization errors in the direction of movement ("ahead" of its true localization).
+
+	A proposed explanation for this effect is that the visual system is predictive, accounting for neural delays by extrapolating the trajectory of a moving stimulus into the future. In other words, when light from a moving object hits the [[retina]], a certain amount of time is required before the object is perceived. In that time, the object has moved to a new location in the world. The motion extrapolation hypothesis asserts that the visual system will take care of such delays by extrapolating the position of moving objects forward in time. As such it is related to the [[flash lag illusion]].
+
+	The Fröhlich effect. When a visual stimulus moves along a continuous trajectory, the initial position of this trajectory may be seen ahead of its veridical position with respect to an unpredictable event such as a punctuate flash.^[By LaurentPerrinet - Own work, CC BY 4.0, https://commons.wikimedia.org/w/index.php?curid=79746746]
+	![image](https://upload.wikimedia.org/wikipedia/commons/9/96/Froelich.gif)
