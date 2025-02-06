@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bodybuilding.md",
+                "file": "Brinta.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bodybuilding"
+              "title": "Brinta"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bodybuilding.md",
+                "file": "Brinta.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from bodybuilding"
+              "title": "Outgoing links from Brinta"
             }
           },
           {
@@ -154,10 +154,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "36ec44c3027e09cc",
+  "active": "1465f570be9b7b72",
   "lastOpenFiles": [
-    "hybrid athlete.md",
     "bodybuilding.md",
+    "hybrid athlete.md",
     "Brinta.md",
     "nature versus nurture.md",
     "tuber.md",
