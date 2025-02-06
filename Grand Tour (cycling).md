@@ -9,3 +9,4 @@
 2. The most important nutritional consideration for riders is getting enough calories to meet the extreme demands of the race.  This can be anything from 4,000 calories a day on a flat stage to 9,000 calories on a hilly stage.
 
 	Guzzling around 6,000 calories a day might sound blissful, but the reality of consuming such huge quantities of food day in, day out for three weeks presents one of the biggest challenges for the riders.^[https://www.cyclingweekly.com/news/racing/tour-de-france/this-is-what-you-have-to-eat-to-compete-in-the-tour-de-france-182775]
+3. [Remco’s insane calories intake on a training day | 7000 kcalories and still in deficit.](https://www.reddit.com/r/triathlon/comments/1fqydqo/remcos_insane_calories_intake_on_a_training_day/)^[https://www.youtube.com/watch?v=gr2zt2UEJBY&feature=youtu.be]
