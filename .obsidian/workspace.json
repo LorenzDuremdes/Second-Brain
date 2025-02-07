@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1465f570be9b7b72",
+            "id": "2545b174e05f83b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hybrid athlete.md",
+                "file": "cloister.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hybrid athlete"
+              "title": "cloister"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bodybuilding.md",
+                "file": "cloister.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for bodybuilding"
+              "title": "Backlinks for cloister"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hybrid athlete.md",
+                "file": "cloister.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from hybrid athlete"
+              "title": "Outgoing links from cloister"
             }
           },
           {
@@ -127,17 +127,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hybrid athlete.md",
+                "file": "cloister.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of hybrid athlete"
+              "title": "Outline of cloister"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,13 +154,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "05b317b79e347fd9",
+  "active": "36ec44c3027e09cc",
   "lastOpenFiles": [
+    "hybrid athlete.md",
+    "cloister.md",
     "Grand Tour (cycling).md",
     "active recovery.md",
     "Brinta.md",
     "bodybuilding.md",
-    "hybrid athlete.md",
     "nature versus nurture.md",
     "tuber.md",
     "nutrient.md",
@@ -181,7 +182,6 @@
     "hip.md",
     "skeleton.md",
     "bone density.md",
-    "handedness.md",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transform Screenshot 2024-12-26 at 22-59-24 .png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-59-24 George Fox Cycling Solutions (@georgefox07) • Instagram photos and videos.png",
