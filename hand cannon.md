@@ -1,0 +1,3 @@
+1.  Swiss soldier firing a hand cannon, with powder bag and ramrod at his feet, c. late 15th century (produced in 1874)^[By Viollet-le-Duc - https://archive.org/details/dictionnairerai06violuoft, Public Domain, https://commons.wikimedia.org/w/index.php?curid=8818718]
+	![image](https://upload.wikimedia.org/wikipedia/commons/f/f1/Dictionnaire_raisonn%C3%A9_du_mobilier_fran%C3%A7ais_de_l%E2%80%99%C3%A9poque_carlovingienne_%C3%A0_la_Renaissance%2C_tome_6_-_357.png)
+	also known as the gonne or handgonne, is the first true firearm and the successor of the fire lance. It is the oldest type of small arms, as well as the most mechanically simple form of metal barrel firearms^[https://en.wikipedia.org/wiki/Hand_cannon]
