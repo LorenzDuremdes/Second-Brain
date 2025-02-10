@@ -15,7 +15,8 @@
 1. La Vuelta 2024 | Raceday | Stage 6 - Yunquera | 30.6 km/h
 
 ## uphill
-1. Dar al Bayda | Oman ― 'natural negative split' | 1690 m
-2. Jebel Akhdar | Oman ― with corner sprints at the end downhill | 1560 m
-3. Puig Major from Port de Soller | Mallorca | 980 m
-4. La Vuelta 2024 | Raceday | Stage 6 - El Bosque ― with corner sprints at the end downhill | 916 m
+1. Col du Télégraphe - Galibier | France ― with short supra-FTP segments | 2092 m
+2. Dar al Bayda | Oman ― 'natural negative split' | 1690 m
+3. Jebel Akhdar | Oman ― with corner sprints at the end downhill | 1560 m
+4. Puig Major from Port de Soller | Mallorca | 980 m
+5. La Vuelta 2024 | Raceday | Stage 6 - El Bosque ― with corner sprints at the end downhill | 916 m
