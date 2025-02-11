@@ -18,5 +18,6 @@
 1. Col du Télégraphe - Galibier | France ― with short supra-FTP segments | 2092 m
 2. Dar al Bayda | Oman ― 'natural negative split' | 1690 m
 3. Jebel Akhdar | Oman ― with corner sprints at the end downhill | 1560 m
-4. Puig Major from Port de Soller | Mallorca | 980 m
-5. La Vuelta 2024 | Raceday | Stage 6 - El Bosque ― with corner sprints at the end downhill | 916 m
+4. Cormet de Roselend | France ― positive split with many corner sprints at the end | 1251 m
+5. Puig Major from Port de Soller | Mallorca | 980 m
+6. La Vuelta 2024 | Raceday | Stage 6 - El Bosque ― with corner sprints at the end downhill | 916 m
