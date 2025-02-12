@@ -1,1 +1,4 @@
 1. myostatin (synonym); growth differentiation factor 8^[https://en.wikipedia.org/wiki/Myostatin]
+2. physical activity → myostatin
+	1. Myostatin expression is decreased in physically active individuals, while [[obesity]] is linked to having a higher level myostatin as well as plasma in circulation.^[https://en.wikipedia.org/wiki/Myostatin#Lifestyle_effects_on_myostatin]
+	2. A decline in myostatin is actually a normal adaptation among people who lift weights regularly, apparently part of the body’s way of clearing the road for [[hypertrophy|muscle building]].^[The Sports Gene: Inside the Science of Extraordinary Athletic Performance, p. 336]
