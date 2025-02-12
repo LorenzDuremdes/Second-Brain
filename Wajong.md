@@ -1,0 +1,12 @@
+# [[armoede]]
+1. Armoede is meer dan alleen hoe kort je zit op geld, het is ook een status. Ik ben niet rijk, als zelfstandige met een wajong, maar ik kan me zo nu en dan met een meevaller, denk vakantiegeld of iets dergelijks, gevoelsmatig een beetje scharen onder "gewoon", bedoelende achteraf kunnen kijken wat de boodschappen hebben gekost.
+
+	Die maand/maanden voelen bijna fysiek anders, er mist een zwaarte op je rug, je voelt je minder onwelkom op straat, je kan rustig om je heen kijken.
+
+	In hele krappe tijden leef je anders en denk je anders, onder je dagelijkse beslommeringen ben je continue aan het rekenen, plannen, rantsoeneren, indexeren en indekken, je moet je van ieder aspect van je hebben en houden bewust zijn, want teveel onverwachte zaken en het kaartenhuis stort in elkaar, en dat kaartenhuis is je werkelijke huis, je staat op straat. Alle apparatuur in je huis is sjofel, en vaak gaan dingen niet spontaan stuk, je ziet het aankomen, en op welk apparaat valt nu het rad van fortuin, of vreet er een muis door een plint, die onzekerheid mag je ook meenemen.
+
+	Het voelt hulpeloos, en men ziet het van je af; grappig genoeg daardoor helpen mensen je ook minder graag, misschien is pech besmettelijk, of is het loze moeite?
+
+	Hogerop klimmen in je carrière is maar voor een deel inzet, die wordt sowieso verwacht; een groot deel is sociaal, kennen je collega's je? Weten ze waar je naar op zoek bent? Word je algemeen gemogen en kan je snel met mensen gelijke grond vinden? Om dat allemaal te hebben en te kunnen moet je absoluut een beetje zonnig van geest zijn: uitgeput, suicidaal depressief en met een verwoest zelfbeeld, kan ik uit ervaring spreken, kom je helemaal nergens, je adverteert slecht.
+
+	En zo werkt armoe op enorm veel vlakken sterk op zichzelf in, en zonder steun is er met kleine uitzondering geen helpen aan en aangezien ik er niet op vertrouw iedereen op hun hart aan te kunnen spreken, dan op pragmatisme: het verzaken en laten verergeren van armoede levert niet zoveel op aan behouden toeslagen of salarissen van hulpverleners, het verhaalt zich op een directe manier op burgers die anders niet zoveel opleverden misschien, maar nu met een zekerheid de staat veel gaan kosten op moeilijk te peilen en sociaal heel onwenselijke manieren, dit valt niet te prijzen of af te keuren aan de mens, dat is het gevolg.^[https://www.reddit.com/r/thenetherlands/comments/1cxh0oo/comment/l542a6v/]
