@@ -1,0 +1,2 @@
+1. anabolic steroids → [[myosatellite cell|myosatellite cells]]
+	1. one possible reason steroids help athletes [[hypertrophy|gain muscle]] rapidly is because the [[drug|drugs]] prompt the body to make more satellite cells available for [[muscle]] growth^[The Sports Gene: Inside the Science of Extraordinary Athletic Performance, p. 106]
