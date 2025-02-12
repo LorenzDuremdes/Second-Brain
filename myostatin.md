@@ -2,3 +2,4 @@
 2. physical activity → myostatin
 	1. Myostatin expression is decreased in physically active individuals, while [[obesity]] is linked to having a higher level myostatin as well as plasma in circulation.^[https://en.wikipedia.org/wiki/Myostatin#Lifestyle_effects_on_myostatin]
 	2. A decline in myostatin is actually a normal adaptation among people who lift weights regularly, apparently part of the body’s way of clearing the road for [[hypertrophy|muscle building]].^[The Sports Gene: Inside the Science of Extraordinary Athletic Performance, p. 336]
+	3. [[strength training|Resistance training]] reduces myostatin activity and increases [[follistatin]] activity. Pharmacological [[myostatin inhibitor|myostatin inhibitors]] can therefore be considered [[exercise mimetic|exercise mimetics]].^[https://en.wikipedia.org/wiki/Myostatin_inhibitor]

@@ -1,0 +1,1 @@
+1. exercise mimetic; a [[drug]] that mimics some of the biological effects of [[physical exercise]]^[https://en.wikipedia.org/wiki/Exercise_mimetic]
