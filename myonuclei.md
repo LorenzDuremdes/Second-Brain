@@ -1,0 +1,4 @@
+1. what happens when a [[muscle fiber]] grows too large for its respective myonuclei?
+	1. As a fiber grows, each myonuclei command center governs a larger area, until the point when the fiber gets big enough that the command center needs backup. [[myosatellite cell|Satellite cells]] then form new command centers so the [[skeletal muscle|muscle]] can continue to [[hypertrophy|grow]].
+	   
+	   A series of studies in 2007 and 2008 at the University of Alabama–Birmingham’s Core Muscle Research Laboratory and the Veterans Affairs Medical Center in Birmingham showed that individual differences in [[gene]] and satellite cell activity are critical to differentiating how people respond to [[strength training|weight training]].^[The Sports Gene: Inside the Science of Extraordinary Athletic Performance, p. 105]

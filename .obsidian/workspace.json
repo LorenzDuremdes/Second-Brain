@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "myosatellite cell.md",
+                "file": "myonuclei.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "myosatellite cell"
+              "title": "myonuclei"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "myosatellite cell.md",
+                "file": "myonuclei.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for myosatellite cell"
+              "title": "Backlinks for myonuclei"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "myosatellite cell.md",
+                "file": "myonuclei.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from myosatellite cell"
+              "title": "Outgoing links from myonuclei"
             }
           },
           {
@@ -156,9 +156,11 @@
   },
   "active": "1d205aed808433b0",
   "lastOpenFiles": [
-    "myoblast.md",
-    "myosatellite cell.md",
+    "gene.md",
     "myonuclei.md",
+    "muscle fiber.md",
+    "myosatellite cell.md",
+    "myoblast.md",
     "transgene.md",
     "genetic engineering.md",
     "exercise mimetic.md",
@@ -181,8 +183,6 @@
     "Graeme Obree.md",
     "apparel (road cycling).md",
     "aerodynamics (road cycling).md",
-    "cloister.md",
-    "hybrid athlete.md",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transform Screenshot 2024-12-26 at 22-59-24 .png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-59-24 George Fox Cycling Solutions (@georgefox07) • Instagram photos and videos.png",
