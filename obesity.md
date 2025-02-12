@@ -12,7 +12,8 @@
 
 # related
 1. [[cafetaria diet]]
+2. [[obesity in France]]
 
 # miscellaneous
-1. [Why is it so Easy to be Thin in France?](https://www.youtube.com/watch?v=sHKXlAnVgo8)
-2. [The Dark Truth Of America’s Skinniest City](https://www.youtube.com/watch?v=2rb198Hgllk)
+3. [Why is it so Easy to be Thin in France?](https://www.youtube.com/watch?v=sHKXlAnVgo8)
+4. [The Dark Truth Of America’s Skinniest City](https://www.youtube.com/watch?v=2rb198Hgllk)

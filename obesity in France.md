@@ -1,0 +1,3 @@
+1. https://www.reddit.com/r/dataisbeautiful/comments/1cleu0f/oc_obesity_rate_by_country_over_time/
+	![[[OC] Obesity rate by country over time.png]]
+	1. [[France]] is actually culturally very fatphobic. Many French people see fatness and [[obesity]] as a personal failing, and there is a lot of judgement surrounding obesity. Despite their [[French cuisine|cuisine]] being some of the richest and [[calorie]] dense in the world, they have a lot of regulation in their advertising about what can and cannot be depicted. For instance, ads cannot depict someone sitting in front of a television and eating. They are very conscious of the weight of their population so this result isn't surprising.

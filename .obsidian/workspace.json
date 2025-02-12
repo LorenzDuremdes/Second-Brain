@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "26102a8e946d6e08",
+            "id": "a86323d921e49ce5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wajong.md",
+                "file": "obesity in France.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wajong"
+              "title": "obesity in France"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wajong",
+                "query": "french",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wajong.md",
+                "file": "obesity in France.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Wajong"
+              "title": "Outgoing links from obesity in France"
             }
           },
           {
@@ -154,10 +155,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "26102a8e946d6e08",
+  "active": "e94a94bc6de09fb7",
   "lastOpenFiles": [
-    "armoede.md",
+    "[OC] Obesity rate by country over time.png",
+    "obesity in France.md",
+    "obesity.md",
+    "abdominal obesity.md",
     "Wajong.md",
+    "armoede.md",
     "bivariate overlap zone.md",
     "sports analytics.md",
     "anabolic steroid.md",
@@ -178,10 +183,6 @@
     "activin.md",
     "Thoroughbred.md",
     "horse.md",
-    "Whippet.md",
-    "brindle.md",
-    "ROUVY.md",
-    "Cronometer.md",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transform Screenshot 2024-12-26 at 22-59-24 .png",
