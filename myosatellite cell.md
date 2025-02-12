@@ -1,0 +1,3 @@
+1. myosatellite [[cell]]; precursors to [[skeletal muscle]] cells, able to give rise to differentiated skeletal [[muscle]] cells.
+
+	They have the potential to provide additional [[myonuclei]] to their parent muscle fiber, or return to a quiescent state. More specifically, upon activation, satellite cells can re-enter the cell cycle to [[cell growth|proliferate]] and [[cellular differentiation|differentiate]] into [[myoblast|myoblasts]].^[https://en.wikipedia.org/wiki/Myosatellite_cell]
