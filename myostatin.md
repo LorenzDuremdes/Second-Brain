@@ -1,0 +1,1 @@
+1. myostatin (synonym); growth differentiation factor 8^[https://en.wikipedia.org/wiki/Myostatin]
