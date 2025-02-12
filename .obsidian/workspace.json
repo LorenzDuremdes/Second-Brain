@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e1c3f879294ce235",
+            "id": "c59b3a41c7cf2050",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exercise mimetic.md",
+                "file": "transgene.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "exercise mimetic"
+              "title": "transgene"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exercise mimetic.md",
+                "file": "transgene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for exercise mimetic"
+              "title": "Backlinks for transgene"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exercise mimetic.md",
+                "file": "transgene.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from exercise mimetic"
+              "title": "Outgoing links from transgene"
             }
           },
           {
@@ -154,10 +154,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e1c3f879294ce235",
+  "active": "c59b3a41c7cf2050",
   "lastOpenFiles": [
-    "myostatin.md",
+    "genetic engineering.md",
+    "transgene.md",
     "exercise mimetic.md",
+    "myostatin.md",
     "follistatin.md",
     "myostatin inhibitor.md",
     "cellular differentiation.md",
@@ -181,8 +183,6 @@
     "Grand Tour (cycling).md",
     "active recovery.md",
     "Brinta.md",
-    "bodybuilding.md",
-    "nature versus nurture.md",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transform Screenshot 2024-12-26 at 22-59-24 .png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-59-24 George Fox Cycling Solutions (@georgefox07) • Instagram photos and videos.png",

@@ -1,0 +1,1 @@
+1. transgene; a [[gene]] that has been transferred naturally, or by any of a number of [[genetic engineering]] techniques, from one [[organism]] to another^[https://en.wikipedia.org/wiki/Transgene]
