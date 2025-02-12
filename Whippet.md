@@ -1,0 +1,5 @@
+1. a [[brindle]] Whippet^[By Canarian - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=72807458]
+	![image](https://upload.wikimedia.org/wikipedia/commons/7/76/Whippet_2018_6.jpg)
+2. Aside from size differences, the Whippet closely resembles these two breeds and is sometimes referred to as the "miniature Greyhound" or, colloquially, as "the poor man's racehorse." The breed is commonly kept as a companion [[dog]], for competitive showing, and for amateur racing. Additionally, Whippets participate in various dog sports, including lure coursing, agility, and flyball. Known for its remarkable speed, the Whippet holds the title for the fastest running speed within its weight and size range, and is believed to have the fastest idle-to-running acceleration of any dog.^[https://en.wikipedia.org/wiki/Whippet]
+
+	Whippet (Nederlands)

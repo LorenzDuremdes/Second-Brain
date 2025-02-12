@@ -1,0 +1,1 @@
+1. brindle; a coat coloring pattern in animals, particularly dogs, cattle, guinea pigs, cats, and, rarely, horses. It is sometimes described as "tiger-striped", although the brindle pattern is more subtle than that of a tiger's coat^[https://en.wikipedia.org/wiki/Brindle]
