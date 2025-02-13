@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a86323d921e49ce5",
+            "id": "6fa48a493eff3d7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obesity in France.md",
+                "file": "gewoon sneeuwklokje.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "obesity in France"
+              "title": "gewoon sneeuwklokje"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obesity in France.md",
+                "file": "gewoon sneeuwklokje.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from obesity in France"
+              "title": "Outgoing links from gewoon sneeuwklokje"
             }
           },
           {
@@ -155,10 +154,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e94a94bc6de09fb7",
+  "active": "6fa48a493eff3d7d",
   "lastOpenFiles": [
-    "[OC] Obesity rate by country over time.png",
     "obesity in France.md",
+    "gewoon sneeuwklokje.md",
+    "[OC] Obesity rate by country over time.png",
     "obesity.md",
     "abdominal obesity.md",
     "Wajong.md",
