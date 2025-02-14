@@ -1,0 +1,3 @@
+# [[physiology]]
+1. [[pelvis|pelvic]] width → swimming ([[sport]]) performance
+	1. Nonathlete [[women]] who were measured as a control group for the study had, of course, wider pelvic bones than nonathlete [[men]]. But [[female]] swimmers had more narrow pelvic bones than the normal, control population of [[men]]. And female [[diving (sport)|divers]] had more narrow pelvic bones than the female swimmers.^[The Sports Gene: Inside the Science of Extraordinary Athletic Performance, p. 116]
