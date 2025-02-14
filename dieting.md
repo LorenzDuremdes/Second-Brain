@@ -1,0 +1,5 @@
+# [[physiology]]
+1. [[fast-twitch muscle fibers type II|fast-]] vs. [[slow-twitch muscle fibers type I]] → [[fat]] loss
+	1. And just as an individual’s proportion of fast- and slow-twitch [[muscle fiber|muscle fibers]] influences his [[hypertrophy|muscle growth]] potential, it also influences his fat-burning capacity. Researchers in the United States and Finland have independently shown that, while adults with a high proportion of fast-twitch fibers can pack on muscle, they have a more difficult time losing fat. Fat is primarily burned as part of the [[cellular respiration|energy-making process]] that occurs in slow-twitch muscle fibers. The fewer slow-twitch muscle fibers an individual has, the lower his capacity to burn fat—one possible reason that sprint and power athletes tend to be stockier than endurance athletes, even before and after their competitive years.
+	   
+	   And while it is obvious that diet and training can dramatically alter an athlete’s build, there are limits. Limits delineated by an individual’s [[skeleton]].^[The Sports Gene: Inside the Science of Extraordinary Athletic Performance, p. 117]

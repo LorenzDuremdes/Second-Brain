@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marfan syndrome.md",
+                "file": "dieting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Marfan syndrome"
+              "title": "dieting"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lung",
+                "query": "muscle fiber",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marfan syndrome.md",
+                "file": "dieting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Marfan syndrome"
+              "title": "Backlinks for dieting"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marfan syndrome.md",
+                "file": "dieting.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Marfan syndrome"
+              "title": "Outgoing links from dieting"
             }
           },
           {
@@ -154,10 +155,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "36ec44c3027e09cc",
+  "active": "e94a94bc6de09fb7",
   "lastOpenFiles": [
-    "bone.md",
     "Marfan syndrome.md",
+    "bone.md",
     "eye.md",
     "lungs.md",
     "lung.md",
