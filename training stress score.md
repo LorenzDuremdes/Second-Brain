@@ -1,4 +1,4 @@
-1. **training stress score**; a composite number that takes into account the duration and intensity of a workout to arrive at a single estimate of the overall training load and physiological stress created by that training session
+1. **Training Stress Score**; a composite number that takes into account the duration and intensity of a workout to arrive at a single estimate of the overall training load and physiological stress created by that training session
 	1. By definition, one hour spent at [[functional threshold power]] (FTP) is equal to 100 points.^[https://help.trainingpeaks.com/hc/en-us/articles/204071944-Training-Stress-Scores-TSS-Explained]
 		1. maximum? → can go higher e.g. "drop sets"
 	2. **related**: [[allostatic load]]
