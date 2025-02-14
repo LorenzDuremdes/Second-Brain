@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gewoon sneeuwklokje.md",
+                "file": "bivariate overlap zone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gewoon sneeuwklokje"
+              "title": "bivariate overlap zone"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gewoon sneeuwklokje.md",
+                "file": "bivariate overlap zone.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from gewoon sneeuwklokje"
+              "title": "Outgoing links from bivariate overlap zone"
             }
           },
           {
@@ -156,8 +156,8 @@
   },
   "active": "6fa48a493eff3d7d",
   "lastOpenFiles": [
-    "obesity in France.md",
     "gewoon sneeuwklokje.md",
+    "obesity in France.md",
     "[OC] Obesity rate by country over time.png",
     "obesity.md",
     "abdominal obesity.md",
