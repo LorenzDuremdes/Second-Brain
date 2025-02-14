@@ -16,6 +16,7 @@
 ## [[sports science (cycling)]]
 1. could it make sense to do a lot of ~90 min. Z1 to increase TSS (or e.g. CIL) + why
 	1. perhaps e.g. the TSS/calories (i.e. how many calories 1 TSS requires) is less at lower intensities → you can consume more carbohydrates per TSS you are accumulating in Z1 vs. e.g. Z4 (and carbohydrates are the main macronutrient for recovery and performance)
+		1. this might even matter more if e.g. diet isn't tailored perfectly
 2. stad ↮ buiten de stad → active recovery/light session ([[road cycling]])
 	1. in de stad fietsen kan helpen met active recovery/light session doordat je geforceerde rustmomenten krijgt (e.g. stoplichten) of langzamer moet gaan door anderen
 		1. handig als wilskracht een probleem is, persoonlijk
