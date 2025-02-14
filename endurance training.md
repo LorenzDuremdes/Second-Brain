@@ -1,0 +1,3 @@
+# [[physiology]]
+1. height → [[heat]] dissipation
+	1. One reason that marathon runners tend to be diminutive is because small humans have a larger skin surface area compared with the volume of their body. The greater one’s surface area compared with volume, the better the [[human]] radiator and the more quickly the body unloads heat. (Hence, short skinny people get cold more easily than tall, hefty people.) Heat dissipation is critical for endurance performance, because the [[central nervous system]] forces a slowdown or complete stop of effort when the [[core body temperature|body’s core temperature]] passes about 40 °C.^[The Sports Gene: Inside the Science of Extraordinary Athletic Performance, p. 115]
