@@ -14,26 +14,28 @@
 		1. the active recovery sessions are more meant to enable more [[carbohydrate]] intake without reducing anabolism after workout or increase fatigue
 
 ## [[sports science (cycling)]]
-1. stad ↮ buiten de stad → active recovery/light session ([[road cycling]])
+1. could it make sense to do a lot of ~90 min. Z1 to increase TSS (or e.g. CIL) + why
+	1. perhaps e.g. the TSS/calories (i.e. how many calories 1 TSS requires) is less at lower intensities → you can consume more carbohydrates per TSS you are accumulating in Z1 vs. e.g. Z4 (and carbohydrates are the main macronutrient for recovery and performance)
+2. stad ↮ buiten de stad → active recovery/light session ([[road cycling]])
 	1. in de stad fietsen kan helpen met active recovery/light session doordat je geforceerde rustmomenten krijgt (e.g. stoplichten) of langzamer moet gaan door anderen
 		1. handig als wilskracht een probleem is, persoonlijk
-2. can effective recovery rides feel challenging? + why^[https://www.trainerroad.com/blog/recovery-for-cyclists-why-its-important-and-how-to-improve-it/]
+3. can effective recovery rides feel challenging? + why^[https://www.trainerroad.com/blog/recovery-for-cyclists-why-its-important-and-how-to-improve-it/]
 	1. yes due to being in a fatigued state
 		1. "Though they can feel challenging when you’re in a fatigued state, these workouts aren’t strenuous and should promote recovery."
 
 ## biopsychology
-1. active recovery → (para)[[sympathetic nervous system]]
+4. active recovery → (para)[[sympathetic nervous system]]
 	1. the former might increase the switch from sympathetic to parasympathetic^[https://youtu.be/xuBsqTJcRqc?t=3180, Chad Timmerman (TrainerRoad)]
 		1. including everything else e.g. cooling down [[temperature]] (◇+ melatonin)
 
 # nutrition
-1. is "[[nutrient timing]] · composition" important for "active recovery"? + why^[https://youtu.be/tz7vvvnzU4w?t=420, TrainerRoad with Chad Timmerman]
+5. is "[[nutrient timing]] · composition" important for "active recovery"? + why^[https://youtu.be/tz7vvvnzU4w?t=420, TrainerRoad with Chad Timmerman]
 	1. can be, because e.g. [[insulin]] sensitivity increases (and e.g. allows for quicker [[glycogen]] replenishment)
 
 # possible mistakes
-1. should you skip "active recovery" if noticing that it impaired your recovery/next workout(s)? + what^[https://www.youtube.com/watch?v=tz7vvvnzU4w (13:00), TrainerRoad with Chad Timmerman]
+6. should you skip "active recovery" if noticing that it impaired your recovery/next workout(s)? + what^[https://www.youtube.com/watch?v=tz7vvvnzU4w (13:00), TrainerRoad with Chad Timmerman]
 	1. no, then you might simply have to decrease intensity (or you went harder than planned/recommended)
 
 # sources
-1. [What do pro riders do on Tour de France rest days?](https://road.cc/content/feature/what-do-pro-riders-do-tour-de-france-rest-days-284687#:~:text=%E2%80%9CIt's%20feeding%20their%20body%20after,sponsored%20products%20to%20good%20use.)
-2. [Ask The Experts: Recovery, When, How Much, And Does It Work?](https://eu.wahoofitness.com/blog/ask-the-experts-recovery-when-how-much-and-does-it-work/)
+7. [What do pro riders do on Tour de France rest days?](https://road.cc/content/feature/what-do-pro-riders-do-tour-de-france-rest-days-284687#:~:text=%E2%80%9CIt's%20feeding%20their%20body%20after,sponsored%20products%20to%20good%20use.)
+8. [Ask The Experts: Recovery, When, How Much, And Does It Work?](https://eu.wahoofitness.com/blog/ask-the-experts-recovery-when-how-much-and-does-it-work/)

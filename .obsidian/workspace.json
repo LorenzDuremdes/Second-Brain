@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "body composition.md",
+                "file": "active recovery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "body composition"
+              "title": "active recovery"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "body compos",
+                "query": "active recovery",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "body composition.md",
+                "file": "active recovery.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from body composition"
+              "title": "Outgoing links from active recovery"
             }
           },
           {
@@ -157,6 +157,7 @@
   },
   "active": "1bd948a6bcbe69b6",
   "lastOpenFiles": [
+    "body composition.md",
     "dieting.md",
     "Marfan syndrome.md",
     "bone.md",
@@ -182,7 +183,6 @@
     "stimulant.md",
     "endurance training.md",
     "aerobic conditioning.md",
-    "bivariate overlap zone.md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
