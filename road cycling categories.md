@@ -1,0 +1,2 @@
+# cat. 4
+1. [Central Park Spring Classic Feb 8 2025 Men's 4/5 - Full Race](https://www.youtube.com/watch?v=9Ui8oKFMZAk) | mostly upright non-aero optimized positions and many people wobbling on their saddles (e.g. improper bike fit)
