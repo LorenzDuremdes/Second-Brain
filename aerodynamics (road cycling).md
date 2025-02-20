@@ -52,11 +52,12 @@
 	   
 	   Blocken found that the type of chest fairing he tested, which is equivalent to sticking a drinking bottle down a tight-fitting, stretchable shirt, can give a drag reduction of more than 9%.^[https://www.triathlete.com/gear/bike/expert-tested-the-water-bottle-jersey-trend-produces-shocking-results/] | see also their pictures of air flow with(out) bottles
 	   
-	   1–4 W savings at 30 kph^[https://www.triathlete.com/gear/bike/expert-tested-the-fastest-and-slowest-places-to-attach-your-water-bottle/]
+	   1–4 W savings at 30 kph^[https://www.triathlete.com/gear/bike/expert-tested-the-fastest-and-slowest-places-to-attach-your-water-bottle/] | 21 watts for a rider in the slightly upright position for a 1.5L bottle!!!^[https://forum.slowtwitch.com/t/here-you-go-chest-belly-bottle-aero-test-results/824132/]
 	   
 	   **see also:*
 	   - https://www.cyclingweekly.com/news/new-study-reveals-impact-of-chest-fairings-in-time-trials-and-its-big
 	   - [Why Are Pro Cyclists Doing THIS? (GCN Tech)](https://www.youtube.com/watch?v=BoEGD3Aaiis)
+	   - Remco Evenepoel did this as well
 2. The **plastic suits** were banned not long after the [[Olympic Games|Olympics]]. They were felt to confer an unfair advantage, and to unacceptably increase costs. The GB team response for the 2012 Olympics was to use the knowledge gained from the plastic suits to develop fabric suits. Plastic was simple – smooth is smooth. Fabric is harder, because the exact texture is critical. This, and the consequent [[drag (physics)|drag]], vary from one fabric to another.^[Faster - The Obsession, Science and Luck Behind the World's Fastest Cyclists (by Michael Hutchinson), p. 130–131]
     
     As Hutchinson points out, one of the worst things the UCI ever did was ban the "really simple, cheap, and yet effective" Team GB skinsuits post-2008 Beijing Olympics, a mostly plastic construction which proved "phenomenally difficult" to replicate in fabric. The genie was out of the bottle, though. Team GB knew of the gains available and so went on a spending spree to find those gains in fabric.^[https://escapecollective.com/simple-hack-or-simply-cheating-inside-the-uk-tt-scene-fairings-debate/]
