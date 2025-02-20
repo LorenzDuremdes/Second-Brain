@@ -51,6 +51,8 @@
 	   The pressure coefficient is a dimensionless pressure. In the figures above, red and yellow colors indicate overpressure (so a “push”), and blue indicates suction (so a “pull”). The less the red areas in front of the cyclist, the lower the air resistance. The less the blue areas behind the cyclist, the lower the air resistance.”
 	   
 	   Blocken found that the type of chest fairing he tested, which is equivalent to sticking a drinking bottle down a tight-fitting, stretchable shirt, can give a drag reduction of more than 9%.^[https://www.triathlete.com/gear/bike/expert-tested-the-water-bottle-jersey-trend-produces-shocking-results/] | see also their pictures of air flow with(out) bottles
+	   
+	   1–4 W savings at 30 kph^[https://www.triathlete.com/gear/bike/expert-tested-the-fastest-and-slowest-places-to-attach-your-water-bottle/]
 26. The **plastic suits** were banned not long after the [[Olympic Games|Olympics]]. They were felt to confer an unfair advantage, and to unacceptably increase costs. The GB team response for the 2012 Olympics was to use the knowledge gained from the plastic suits to develop fabric suits. Plastic was simple – smooth is smooth. Fabric is harder, because the exact texture is critical. This, and the consequent [[drag (physics)|drag]], vary from one fabric to another.^[Faster - The Obsession, Science and Luck Behind the World's Fastest Cyclists (by Michael Hutchinson), p. 130–131]
 27. why do you like SPD pedals on a road bike shoe?
 	1. because you can use SPD-SL adapters to increase stack height > increase saddle height > go even lower on the bike

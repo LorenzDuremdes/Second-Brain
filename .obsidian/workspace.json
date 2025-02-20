@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "ultra-distance cycling"
             }
+          },
+          {
+            "id": "b61164c41823c551",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aerodynamics (road cycling).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "aerodynamics (road cycling)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -128,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ultra-distance cycling.md",
+                "file": "aerodynamics (road cycling).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ultra-distance cycling"
+              "title": "Outline of aerodynamics (road cycling)"
             }
           }
         ],
@@ -155,7 +169,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "718705d150756aab",
+  "active": "b61164c41823c551",
   "lastOpenFiles": [
     "apparel (road cycling).md",
     "USWE.md",
