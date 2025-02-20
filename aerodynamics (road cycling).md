@@ -45,7 +45,7 @@
 24. [FUTURUM Face Mask Merino (Futurumshop.nl)](https://www.futurumshop.nl/futurum-face-mask-merino.phtml) €30.99 (Specialized 2023 S-Works TT 5 Team)
 
 ## miscellaneous
-25. could aerobars without extensions make you faster + why
+1. could aerobars without extensions make you faster + why (**chest bottle fairing**)
 	1. The one bottle that we have found to work on everybody is a 28-ounce, normal **water bottle**, and you keep it up high. You don’t put it down in your stomach. You keep it up high on your chest, and that’s when it works.”
 	   
 	   The pressure coefficient is a dimensionless pressure. In the figures above, red and yellow colors indicate overpressure (so a “push”), and blue indicates suction (so a “pull”). The less the red areas in front of the cyclist, the lower the air resistance. The less the blue areas behind the cyclist, the lower the air resistance.”
@@ -54,8 +54,10 @@
 	   
 	   1–4 W savings at 30 kph^[https://www.triathlete.com/gear/bike/expert-tested-the-fastest-and-slowest-places-to-attach-your-water-bottle/]
 	   
-	   **see also:** https://www.cyclingweekly.com/news/new-study-reveals-impact-of-chest-fairings-in-time-trials-and-its-big
-26. The **plastic suits** were banned not long after the [[Olympic Games|Olympics]]. They were felt to confer an unfair advantage, and to unacceptably increase costs. The GB team response for the 2012 Olympics was to use the knowledge gained from the plastic suits to develop fabric suits. Plastic was simple – smooth is smooth. Fabric is harder, because the exact texture is critical. This, and the consequent [[drag (physics)|drag]], vary from one fabric to another.^[Faster - The Obsession, Science and Luck Behind the World's Fastest Cyclists (by Michael Hutchinson), p. 130–131]
+	   **see also:*
+	   - https://www.cyclingweekly.com/news/new-study-reveals-impact-of-chest-fairings-in-time-trials-and-its-big
+	   - [Why Are Pro Cyclists Doing THIS? (GCN Tech)](https://www.youtube.com/watch?v=BoEGD3Aaiis)
+2. The **plastic suits** were banned not long after the [[Olympic Games|Olympics]]. They were felt to confer an unfair advantage, and to unacceptably increase costs. The GB team response for the 2012 Olympics was to use the knowledge gained from the plastic suits to develop fabric suits. Plastic was simple – smooth is smooth. Fabric is harder, because the exact texture is critical. This, and the consequent [[drag (physics)|drag]], vary from one fabric to another.^[Faster - The Obsession, Science and Luck Behind the World's Fastest Cyclists (by Michael Hutchinson), p. 130–131]
     
     As Hutchinson points out, one of the worst things the UCI ever did was ban the "really simple, cheap, and yet effective" Team GB skinsuits post-2008 Beijing Olympics, a mostly plastic construction which proved "phenomenally difficult" to replicate in fabric. The genie was out of the bottle, though. Team GB knew of the gains available and so went on a spending spree to find those gains in fabric.^[https://escapecollective.com/simple-hack-or-simply-cheating-inside-the-uk-tt-scene-fairings-debate/]
 27. why do you like SPD pedals on a road bike shoe?
