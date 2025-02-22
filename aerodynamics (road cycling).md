@@ -53,6 +53,8 @@
 	   Blocken found that the type of chest fairing he tested, which is equivalent to sticking a drinking bottle down a tight-fitting, stretchable shirt, can give a drag reduction of more than 9%.^[https://www.triathlete.com/gear/bike/expert-tested-the-water-bottle-jersey-trend-produces-shocking-results/] | see also their pictures of air flow with(out) bottles
 	   
 	   1–4 W savings at 30 kph^[https://www.triathlete.com/gear/bike/expert-tested-the-fastest-and-slowest-places-to-attach-your-water-bottle/] | 21 watts for a rider in the slightly upright position for a 1.5L bottle!!!^[https://forum.slowtwitch.com/t/here-you-go-chest-belly-bottle-aero-test-results/824132/]
+	2. what should you be wary of when placing a bottle as chest fairing (aerodynamics)?
+		1. those with low collars on their kit could create a parachute effect if the bottle opens the collar up too much. But if done right, the chest fairing works^[https://www.triathlete.com/gear/bike/expert-tested-the-water-bottle-jersey-trend-produces-shocking-results/]
 	   
 	   **see also:*
 	   - https://www.cyclingweekly.com/news/new-study-reveals-impact-of-chest-fairings-in-time-trials-and-its-big
