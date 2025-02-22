@@ -81,38 +81,40 @@
    I believe it was testing from findingfreestyle? Trentnix? Desert dude ? That says parallel bars are actually faster IF all things are the same, eg head position etc etc…..i think the idea with high hands position is to allow that change though. To allow other portions of the body to become more aerodynamic.^[https://forum.slowtwitch.com/forum/Slowtwitch_Forums_C1/Triathlon_Forum_F1/Finish_this_sentence..._Praying_mantis_aerobar_position_is_better_if..._P7818324/?forum_view=forum_view_collapsed&]
 
 ## images (TT)
-31. [[Remco Evenepoel]]^[[Head-down TT position: Dangers back in the spotlight, despite new UCI rules | GCN (globalcyclingnetwork.com)](https://www.globalcyclingnetwork.com/tech/news/head-down-tt-position-dangers-back-in-the-spotlight-despite-new-uci-rules)]
+1. [[Remco Evenepoel]]^[[Head-down TT position: Dangers back in the spotlight, despite new UCI rules | GCN (globalcyclingnetwork.com)](https://www.globalcyclingnetwork.com/tech/news/head-down-tt-position-dangers-back-in-the-spotlight-despite-new-uci-rules)]
    ![image](https://cdn.sanity.io/images/hk2y3slq/production/da56101f5d36180b26ee859bd43d448f06ec73eb-4523x3015.jpg/GettyImages-1661633447.jpg?w=1348&auto=format)
-32. https://www.trainerroad.com/forum/t/a-time-trialing-thread/46868/2053?u=lorenz_duremdes
+    **see also**:
+    1. [“Hongerig naar meer, streven naar perfectie”: Remco Evenepoel deelt foto’s van windtunneltests](https://www.nieuwsblad.be/cnt/dmf20241122_96877057)
+2. https://www.trainerroad.com/forum/t/a-time-trialing-thread/46868/2053?u=lorenz_duremdes
    ![image](https://global.discourse-cdn.com/trainerroad/original/3X/b/0/b036eb4a9d2f5b7fefbbc1d006f3eea8ea746a30.jpeg)
 
 ## images ([[road bike]])
-33. In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformed into a road bike.^[https://www.instagram.com/p/DCUANiIuTB3/?hl=en&img_index=1]
+1. In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformed into a road bike.^[https://www.instagram.com/p/DCUANiIuTB3/?hl=en&img_index=1]
 	![[In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformed into a road bike.  Screenshot 2024-12-26 225611.png]]
 	![[In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transform Screenshot 2024-12-26 at 22-59-24 .png]]
 	![[In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png]]
-34. Victor Campenaerts^[https://www.instagram.com/reel/Cs6aifLNdxx/?utm_source=ig_embed]^[[Are you aero? The wildly different positions of the top cyclists in the world - Velo (outsideonline.com)](https://velo.outsideonline.com/road/analyzing-aero-positions-best-cyclists-world/)]
+2. Victor Campenaerts^[https://www.instagram.com/reel/Cs6aifLNdxx/?utm_source=ig_embed]^[[Are you aero? The wildly different positions of the top cyclists in the world - Velo (outsideonline.com)](https://velo.outsideonline.com/road/analyzing-aero-positions-best-cyclists-world/)]
    ![[Aero position Victor Campenaerts.jpg]]
-   1. In fact, **Campenaerts bends his elbows more than 90°**, which is something rarely seen in cycling. Take a look at the picture above and you can see how Campenaerts puts an enormous amount of pressure on his wrists and shoulders in order to hold this aero position.
+   3. In fact, **Campenaerts bends his elbows more than 90°**, which is something rarely seen in cycling. Take a look at the picture above and you can see how Campenaerts puts an enormous amount of pressure on his wrists and shoulders in order to hold this aero position.
       
       Be warned, this kind of extreme aero position takes hundreds of hours to practice and perfect. Of all the [[bike fit]] terms on our list, Campenaerts pushes each of them to the extreme.
       
       His elbows are bent at more than 90°, his hip angle is as small as possible, his back and core is closed in as much as possible, and he tucks and turtles his head until it is almost sniffing his handlebars.
-35. [TOOT Ashaa RR Ultra-Aero Road Bars Beat UCI Turned-In Lever Rule in Steel, Ti, or Carbon - Bikerumor](https://bikerumor.com/toot-ashaa-rr-ultra-aero-road-bars-beat-uci-turned-in-lever-rule-in-steel-ti-or-carbon/)
+3. [TOOT Ashaa RR Ultra-Aero Road Bars Beat UCI Turned-In Lever Rule in Steel, Ti, or Carbon - Bikerumor](https://bikerumor.com/toot-ashaa-rr-ultra-aero-road-bars-beat-uci-turned-in-lever-rule-in-steel-ti-or-carbon/)
    ![[TOOT Ashaa RR 3D printe stainless steel ultra narrow aero road racing handlebar, Lezica-up-close.jpg]]
    ![[TRed-Peregrine-Falcon-prototype-track-bike_Ashaa-track-bar_side.jpg]]
-36. Julius Johansen (Team Intermarche-Circus-Wanty) was another, of many, who appeared to be resting his forearms on the tops of his handlebars for additional support. - Tim de Waele/Getty Images^[Extreme positions, road bikes, time trial wheels and big helmets at the Tour Down Under prologue | BikeRadar](https://www.bikeradar.com/features/pro-bike/tour-down-under-prologue-time-trial-tech)
+4. Julius Johansen (Team Intermarche-Circus-Wanty) was another, of many, who appeared to be resting his forearms on the tops of his handlebars for additional support. - Tim de Waele/Getty Images^[Extreme positions, road bikes, time trial wheels and big helmets at the Tour Down Under prologue | BikeRadar](https://www.bikeradar.com/features/pro-bike/tour-down-under-prologue-time-trial-tech)
    ![[Aero position TT bike.webp]]
-37. [Road bike TT Masterclass by NZ's strongest riders 🛩 | A clinic on getting AERO (youtube.com)](https://www.youtube.com/watch?v=u7KNq3O_KMU)
-38. [This is what a time trial on a road bike looks like | UAE Tour 2022 Stage 3 (youtube.com)](https://www.youtube.com/watch?v=N80fNqrpeLM)
+5. [Road bike TT Masterclass by NZ's strongest riders 🛩 | A clinic on getting AERO (youtube.com)](https://www.youtube.com/watch?v=u7KNq3O_KMU)
+6. [This is what a time trial on a road bike looks like | UAE Tour 2022 Stage 3 (youtube.com)](https://www.youtube.com/watch?v=N80fNqrpeLM)
 
 # TTT
-39. when two cyclists ride next to each other, they both must put in 8% extra power to overcome the increased air resistance^[https://www.inthefieldstories.net/the-science-behind-a-cycling-victory/]
+1. when two cyclists ride next to each other, they both must put in 8% extra power to overcome the increased air resistance^[https://www.inthefieldstories.net/the-science-behind-a-cycling-victory/]
 
 # marginal gains
-40. how can you replicate having aerobars without aerobars (i.e. including its support)?
+1. how can you replicate having aerobars without aerobars (i.e. including its support)?
 	1. use the bike computer like Dylan Johnson did at Unbound Gravel 2024^[https://www.instagram.com/p/C7pLaMaOWJK/?img_index=1] ![[Dylan Johnson Unbound Gravel 2024 (Instagram).png]]
 
 # history
-41. how did they try to minimize frontal area and aerodynamics before computers?
+1. how did they try to minimize frontal area and aerodynamics before computers?
 	1. Once upon a [[time]] the cutting-edge way to optimise rider aerodynamics was by printing out photos of the rider taken head on, cutting them out, and weighing the paper. If you did this for a variety of positions on the bike, you found out which presented the smallest frontal area to the wind by finding the lightest bit of paper.^[Faster - The Obsession, Science and Luck Behind the World's Fastest Cyclists (by Michael Hutchinson), p. 120]
