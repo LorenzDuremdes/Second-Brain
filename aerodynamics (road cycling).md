@@ -62,6 +62,7 @@
 	   - https://www.cyclingweekly.com/news/new-study-reveals-impact-of-chest-fairings-in-time-trials-and-its-big
 	   - [Why Are Pro Cyclists Doing THIS? (GCN Tech)](https://www.youtube.com/watch?v=BoEGD3Aaiis)
 	   - Remco Evenepoel did this as well
+	   - Bottle in jersey pocket saves 3.6 W^[[We Tested Gravel Equipment in a Wind Tunnel and the Results Were Surprising (Dylan Johnson)](https://youtu.be/N2_dey84MKY?si=uphbLR6usHhww-Ah&t=741)]
 2. The **plastic suits** were banned not long after the [[Olympic Games|Olympics]]. They were felt to confer an unfair advantage, and to unacceptably increase costs. The GB team response for the 2012 Olympics was to use the knowledge gained from the plastic suits to develop fabric suits. Plastic was simple – smooth is smooth. Fabric is harder, because the exact texture is critical. This, and the consequent [[drag (physics)|drag]], vary from one fabric to another.^[Faster - The Obsession, Science and Luck Behind the World's Fastest Cyclists (by Michael Hutchinson), p. 130–131]
     
     As Hutchinson points out, one of the worst things the UCI ever did was ban the "really simple, cheap, and yet effective" Team GB skinsuits post-2008 Beijing Olympics, a mostly plastic construction which proved "phenomenally difficult" to replicate in fabric. The genie was out of the bottle, though. Team GB knew of the gains available and so went on a spending spree to find those gains in fabric.^[https://escapecollective.com/simple-hack-or-simply-cheating-inside-the-uk-tt-scene-fairings-debate/]
