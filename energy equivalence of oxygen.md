@@ -2,3 +2,8 @@
    
    In summary, the relationship between [[respiratory exchange ratio|RER]] and energy equivalence shows that as RER increases, more energy is obtained per liter of oxygen consumed, making [[carbohydrate metabolism]] more oxygen-efficient compared to [[fatty acid metabolism|fat metabolism]].^[ChatGPT]
 2. To determine the contribution from [[aerobic exercise|aerobic energy]] production, O<sub>2</sub> values were converted to energy equivalents based on respiratory exchange ratio (RER) values using the conversion tables of Elia and Livesey. This allows RER-specific energy conversions to be used. For example, the energy equivalent of 1 L of O2 is 4.687 kcal at an RER of 0.71, and 5.048 kcal at an RER of 1.0^[[A Novel Method to Predict Carbohydrate and Energy Expenditure During Endurance Exercise Using Measures of Training Load](https://link.springer.com/article/10.1007/s40279-024-02131-z)]
+
+# [[carbohydrate]]
+1. the energy yield from carbohydrate varies depending on the source, with a range from 3.719 kcal/g of glucose to 4.187 kcal/g of glycogen
+   
+   The equations of Jeukendrup and Wallis vary based on exercise intensity, assuming 50% of the carbohydrate oxidation is derived from plasma glucose and 50% from muscle glycogen during low-intensity exercise (40–50% O2max), and 20% from glucose and 80% from muscle glycogen at moderate-to-high intensity exercise (50–75% O2max). This results in carbohydrate oxidation yielding 3.95 kcal/g of carbohydrate during low-intensity exercise, and 4.07 kcal/g of carbohydrate during moderate-to-high intensity exercise^[[A Novel Method to Predict Carbohydrate and Energy Expenditure During Endurance Exercise Using Measures of Training Load](https://link.springer.com/article/10.1007/s40279-024-02131-z)]

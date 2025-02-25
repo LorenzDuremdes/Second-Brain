@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "energy equivalence of oxygen.md",
+                "file": "glycogen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "energy equivalence of oxygen"
+              "title": "glycogen"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fat oxidation",
+                "query": "glycogen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "energy equivalence of oxygen.md",
+                "file": "glycogen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for energy equivalence of oxygen"
+              "title": "Backlinks for glycogen"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "energy equivalence of oxygen.md",
+                "file": "glycogen.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from energy equivalence of oxygen"
+              "title": "Outgoing links from glycogen"
             }
           },
           {
@@ -128,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "energy equivalence of oxygen.md",
+                "file": "glycogen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of energy equivalence of oxygen"
+              "title": "Outline of glycogen"
             }
           }
         ],
@@ -155,11 +155,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e94a94bc6de09fb7",
+  "active": "b2ea634f001b37f1",
   "lastOpenFiles": [
-    "respiratory exchange ratio.md",
     "energy equivalence of oxygen.md",
     "nutrition (road cycling).md",
+    "respiratory exchange ratio.md",
     "espuma.md",
     "nitrous oxide.md",
     "apparel (road cycling).md",
