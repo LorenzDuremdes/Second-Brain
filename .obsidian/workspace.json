@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vo2 max",
+                "query": "critical power",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -155,7 +155,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b2ea634f001b37f1",
+  "active": "e94a94bc6de09fb7",
   "lastOpenFiles": [
     "bioenergetic systems.md",
     "glycogen.md",
