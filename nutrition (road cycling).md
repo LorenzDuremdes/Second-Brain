@@ -10,6 +10,9 @@
 2. can a high carb intake make you at risk for diabetes type 2?^[https://www.trainerroad.com/forum/t/high-carb-intake-a-risk-for-diabetes/61428/2?u=lorenz_duremdes]^[https://www.trainerroad.com/forum/t/high-carb-intake-a-risk-for-diabetes/61428/9]
 	1. not as much if it's centered around [[physical exercise]]
 
+## [[carbohydrate|carbohydrates]]
+1. We observed very large to near-perfect within-subject correlations between both carbohydrate and energy expenditure and all measures of training load. Prediction models displayed good accuracy in cycling, and have potential application in running or kayaking when used with a calibration adjustment.^[[A Novel Method to Predict Carbohydrate and Energy Expenditure During Endurance Exercise Using Measures of Training Load](-)]
+
 # intra-workout
 1. max carbohydrates per hour (under research) ≈ 140g/hour^[https://www.trainerroad.com/forum/t/140g-carbs-per-hour/51650/]
 	1. 1:1 [[glucose]]-fructose ratio
