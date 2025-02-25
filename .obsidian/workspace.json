@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b61164c41823c551",
+            "id": "5552b9d8ad1c8bc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "apparel (road cycling).md",
+                "file": "espuma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "apparel (road cycling)"
+              "title": "espuma"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "masters cycling",
+                "query": "culinary",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "body composition.md",
+                "file": "espuma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for body composition"
+              "title": "Backlinks for espuma"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "espuma.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from aerodynamics (road cycling)"
+              "title": "Outgoing links from espuma"
             }
           },
           {
@@ -128,17 +128,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "apparel (road cycling).md",
+                "file": "espuma.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of apparel (road cycling)"
+              "title": "Outline of espuma"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,9 +155,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e94a94bc6de09fb7",
+  "active": "5552b9d8ad1c8bc3",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "nitrous oxide.md",
+    "espuma.md",
     "apparel (road cycling).md",
     "aerodynamics (road cycling).md",
     "performance-enhancing substance.md",
@@ -182,7 +183,6 @@
     "aorta.md",
     "scoliosis.md",
     "hypermobility (joints).md",
-    "arachnodactyly.md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
