@@ -10,3 +10,8 @@
 # Z5 training
 1. ◇it could perhaps be better to increase duration (VO2 max)
 	1. e.g. being able to hold Z5 longer due to e.g. more replenished [[glycogen]] + less SNS fatigue (latter exponential decay)
+
+# [[functional threshold power]]
+1. VO2 max = 16.6 + (8.87 · 5-min. relative power output)^[[https://journals.humankinetics.com/view/journals/ijspp/17/1/article-p9.xml](https://journals.humankinetics.com/view/journals/ijspp/17/1/article-p9.xml)]
+	1. where relative power output = W/kg
+	2. [[Intervals.icu]] uses this equation

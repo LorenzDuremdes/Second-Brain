@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "glycogen.md",
+                "file": "VO2 max.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "glycogen"
+              "title": "VO2 max"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "glycogen",
+                "query": "vo2 max",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "glycogen.md",
+                "file": "VO2 max.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from glycogen"
+              "title": "Outgoing links from VO2 max"
             }
           },
           {
@@ -157,6 +157,8 @@
   },
   "active": "b2ea634f001b37f1",
   "lastOpenFiles": [
+    "bioenergetic systems.md",
+    "glycogen.md",
     "energy equivalence of oxygen.md",
     "nutrition (road cycling).md",
     "respiratory exchange ratio.md",
@@ -181,8 +183,6 @@
     "lungs.md",
     "lung.md",
     "VO2 max.md",
-    "aortic aneurysm.md",
-    "mitral valve prolapse.md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
