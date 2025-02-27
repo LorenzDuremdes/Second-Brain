@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "ROUVY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aerodynamics (road cycling)"
+              "title": "ROUVY"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "critical power",
+                "query": "rouvy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -128,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aerodynamics (road cycling).md",
+                "file": "ROUVY.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of aerodynamics (road cycling)"
+              "title": "Outline of ROUVY"
             }
           }
         ],
@@ -155,8 +155,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "05b317b79e347fd9",
+  "active": "b2ea634f001b37f1",
   "lastOpenFiles": [
+    "aerodynamics (road cycling).md",
     "VO2 max.md",
     "bioenergetic systems.md",
     "glycogen.md",
@@ -166,7 +167,6 @@
     "espuma.md",
     "nitrous oxide.md",
     "apparel (road cycling).md",
-    "aerodynamics (road cycling).md",
     "performance-enhancing substance.md",
     "USWE.md",
     "road cycling categories.md",
