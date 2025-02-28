@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "topsport.md",
+                "file": "ROUVY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "topsport"
+              "title": "ROUVY"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -128,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "topsport.md",
+                "file": "ROUVY.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of topsport"
+              "title": "Outline of ROUVY"
             }
           }
         ],
@@ -157,6 +156,7 @@
   },
   "active": "f4f27bd49add48c4",
   "lastOpenFiles": [
+    "topsport.md",
     "Tim Declercq.md",
     "ROUVY.md",
     "aerodynamics (road cycling).md",
@@ -182,7 +182,6 @@
     "dieting.md",
     "Marfan syndrome.md",
     "bone.md",
-    "eye.md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
