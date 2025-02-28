@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "F-score.md",
+                "file": "training stress score.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "F-score"
+              "title": "training stress score"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "topsport",
+                "query": "training stress score",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "F-score.md",
+                "file": "training stress score.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for F-score"
+              "title": "Backlinks for training stress score"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "F-score.md",
+                "file": "training stress score.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from F-score"
+              "title": "Outgoing links from training stress score"
             }
           },
           {
@@ -127,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "F-score.md",
+                "file": "training stress score.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of F-score"
+              "title": "Outline of training stress score"
             }
           }
         ],
@@ -156,8 +157,8 @@
   },
   "active": "f9e981dc3440ca5d",
   "lastOpenFiles": [
-    "imputation (statistics).md",
     "F-score.md",
+    "imputation (statistics).md",
     "bias (statistics).md",
     "missing data.md",
     "energy equivalence of oxygen.md",
