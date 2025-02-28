@@ -1,0 +1,4 @@
+1. F-score; a measure of predictive performance. It is calculated from the precision and recall of the test, where the precision is the number of true positive results divided by the number of all samples predicted to be positive, including those not identified correctly, and the recall is the number of true positive results divided by the number of all samples that should have been identified as positive^[https://en.wikipedia.org/wiki/F-score]
+   
+   Precision and recall^[By Walber - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=36926283]
+   ![image](https://upload.wikimedia.org/wikipedia/commons/2/26/Precisionrecall.svg)
