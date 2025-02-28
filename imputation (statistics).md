@@ -1,0 +1,3 @@
+1. imputation ([[statistics]]); the process of replacing [[missing data]] with substituted values
+   
+   There are three main problems that missing data causes: missing data can introduce a substantial amount of [[bias (statistics)|bias]], make the handling and analysis of the data more arduous, and create reductions in [[efficiency (statistics)|efficiency]].^[https://en.wikipedia.org/wiki/Imputation_(statistics)]
