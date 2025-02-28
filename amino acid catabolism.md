@@ -1,0 +1,1 @@
+1. [[amino acid]] catabolism; utilized as an [[adenosine triphosphate|energy source]] or as precursors to new [[protein|proteins]].^[https://en.wikipedia.org/wiki/Protein_catabolism]

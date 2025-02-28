@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11b8443aefb284e3",
+            "id": "a33066fd11ca1aaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "energy equivalence of oxygen.md",
+                "file": "urea cycle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "energy equivalence of oxygen"
+              "title": "urea cycle"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "energy equivalence of oxygen.md",
+                "file": "urea cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for energy equivalence of oxygen"
+              "title": "Backlinks for urea cycle"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "energy equivalence of oxygen.md",
+                "file": "urea cycle.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from energy equivalence of oxygen"
+              "title": "Outgoing links from urea cycle"
             }
           },
           {
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "energy equivalence of oxygen.md",
+                "file": "urea cycle.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of energy equivalence of oxygen"
+              "title": "Outline of urea cycle"
             }
           }
         ],
@@ -154,10 +154,18 @@
       "random-note:Open random note": false
     }
   },
-  "active": "11b8443aefb284e3",
+  "active": "a33066fd11ca1aaf",
   "lastOpenFiles": [
+    "urine.md",
+    "urea cycle.md",
+    "metabolic waste.md",
+    "ammonia.md",
+    "urea.md",
     "respiratory exchange ratio.md",
+    "amino acid catabolism.md",
     "energy equivalence of oxygen.md",
+    "carbohydrate catabolism.md",
+    "protein catabolism.md",
     "respiratory quotient.md",
     "training stress score.md",
     "F-score.md",
@@ -174,14 +182,6 @@
     "nutrition (road cycling).md",
     "espuma.md",
     "nitrous oxide.md",
-    "apparel (road cycling).md",
-    "performance-enhancing substance.md",
-    "USWE.md",
-    "road cycling categories.md",
-    "microcycle (sports periodization).md",
-    "Training Stress Score.md",
-    "Chronic Intensity Load.md",
-    "microcycle.md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
