@@ -14,6 +14,7 @@
 ## variable
 1. Santa Maria to Alaro | Mallorca ― with many corner sprints immediately after a climb halfway through | 33.4 km/h
 2. La Vuelta 2024 | Raceday | Stage 6 - Yunquera | 30.6 km/h
+3. Bunyola to Soller | Mallorca ― almost continuous corner sprints after climbing | 24.6 km/h
 
 ## uphill
 1. Col du Télégraphe - Galibier | France ― with short supra-FTP segments | 2092 m
