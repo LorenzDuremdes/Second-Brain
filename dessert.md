@@ -1,0 +1,1 @@
+1. dessert (etyomology); originated from the French word *desservir*, meaning "to clear the table", and it referred to the final course of the meal, presented after the table was "cleared" (*deservi*)^[https://en.wikipedia.org/wiki/Dessert]

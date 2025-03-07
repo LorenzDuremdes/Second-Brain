@@ -1,0 +1,1 @@
+1. soufflé; a baked [[egg]] dish originating in [[French cuisine|France]] in the early 18th century. Combined with various other ingredients, it can be served as a savoury main dish or sweetened as a [[dessert]]. The word soufflé is the past participle of the French verb souffler, which means to blow, breathe, inflate or puff.
