@@ -1,0 +1,3 @@
+1. scorched [[rice]]; a thin crust of slightly [[browning (cooking|browned]] rice at the bottom of the cooking pot. It is produced during the cooking of rice over direct heat from a flame.^[https://en.wikipedia.org/wiki/Scorched_rice]
+2. Scorched rice in [[Iran]]^[By AilinParsa - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=28982704]
+   ![image](https://upload.wikimedia.org/wikipedia/commons/6/69/Ailin15VeganRiceWithTahdig.JPG)
