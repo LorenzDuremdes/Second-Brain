@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "braising.md",
+                "file": "Maillard reaction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "braising"
+              "title": "Maillard reaction"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "braising.md",
+                "file": "Maillard reaction.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from braising"
+              "title": "Outgoing links from Maillard reaction"
             }
           },
           {
@@ -156,8 +156,8 @@
   },
   "active": "40b01cda1dbb30f2",
   "lastOpenFiles": [
-    "Maillard reaction.md",
     "braising.md",
+    "Maillard reaction.md",
     "broth.md",
     "browning (cooking.md",
     "ROUVY.md",

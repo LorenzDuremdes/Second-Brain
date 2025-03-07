@@ -1,0 +1,3 @@
+1. Maillard reaction; a chemical reaction between amino acids and reducing sugars to create melanoidins, the compounds that give browned [[food]] its distinctive [[flavor]].
+   
+   The reaction is a form of non-enzymatic browning which typically proceeds rapidly from around 140 to 165 °C (280 to 330 °F). Many recipes call for an oven [[temperature]] high enough to ensure that a Maillard reaction occurs. At higher temperatures, caramelization (the browning of sugars, a distinct process) and subsequently pyrolysis (final breakdown leading to burning and the development of acrid flavors) become more pronounced.^[https://en.wikipedia.org/wiki/Maillard_reaction]
