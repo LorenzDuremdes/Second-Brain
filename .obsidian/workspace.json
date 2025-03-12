@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28e86366e42678af",
+            "id": "17cda116f4ce20e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "okonomiyaki.md",
+                "file": "panna cotta.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "okonomiyaki"
+              "title": "panna cotta"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "okonomiyaki.md",
+                "file": "panna cotta.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from okonomiyaki"
+              "title": "Outgoing links from panna cotta"
             }
           },
           {
@@ -154,10 +154,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "28e86366e42678af",
+  "active": "17cda116f4ce20e2",
   "lastOpenFiles": [
-    "teppan.md",
+    "gelatin.md",
+    "panna cotta.md",
     "okonomiyaki.md",
+    "teppan.md",
     "wheat flour.md",
     "teppanyaki.md",
     "Japanese cuisine.md",
@@ -180,8 +182,6 @@
     "dessert.md",
     "soufflé.md",
     "lardon.md",
-    "scorched rice.md",
-    "Iran.md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",

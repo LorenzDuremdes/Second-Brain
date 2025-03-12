@@ -1,0 +1,4 @@
+1. panna cotta (Italian: [ˈpanna ˈkɔtta]; Piedmontese: *panera cheuita* [paˈnera ˈkøjta]; lit. 'cooked cream'); an [[Italian cuisine|Italian]] [[dessert]] of sweetened cream thickened with [[gelatin]] and molded. The cream may be aromatized with [[coffee]], [[vanilla]], or other flavorings.^[https://en.wikipedia.org/wiki/Panna_cotta]
+   
+   Panna Cotta with cream and garnish.^[By hiro - originally posted to Flickr as Panna Cotta, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=10235132]
+   ![image](https://upload.wikimedia.org/wikipedia/commons/8/80/Panna_Cotta_with_cream_and_garnish.jpg)
