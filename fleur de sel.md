@@ -1,0 +1,5 @@
+1. fleur de sel (letterlijk: _zoutbloem_); een enigszins vochtig zout. Hierdoor lost de fleur de sel niet op wanneer het over vochtig voedsel gestrooid wordt: het behoudt haar kristalstructuur en geeft een knapperige laag op het voedsel en ook een witte gloed.^[https://nl.wikipedia.org/wiki/Fleur_de_sel]
+   
+   Fleur de sel is a highly sought after [[salt]], used globally in high end kitchens due to its long-lasting [[flavor]]. Properly harvested fleur de sel costs hundreds of times more than table salt due to the difficult-to-master harvesting technique and high demand globally.
+   
+   Only about 5% of salt is used for [[cooking]], but fleur de sel is used only to flavor [[food]]. It is not used in place of salt during the cooking process, instead, it is added just before serving, like a garnish, a "finishing salt," to boost the flavor of eggs, fish, meat, vegetables, chocolate, and caramel.^[https://en.wikipedia.org/wiki/Fleur_de_sel]

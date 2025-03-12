@@ -1,0 +1,3 @@
+1. kosher [[salt]]; coarse edible salt usually without common additives such as [[iodised salt|iodine]], typically used in [[cooking]] and not at the table. It consists mainly of [[sodium chloride]] and may include anticaking agents.
+   
+   Due to the lack of metallic or off-tasting additives such as iodine, fluoride or dextrose, it is often used in the kitchen instead of additive-containing table salt.
