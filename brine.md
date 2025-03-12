@@ -1,0 +1,3 @@
+1. brine; a high-concentration solution of [[salt]] (typically [[sodium chloride]] or [[calcium chloride]]) in [[water]]^[https://en.wikipedia.org/wiki/Brine]
+2. Graphic breakdown of water salinity, defining freshwater, brackish water, saltwater, and brine water.^[By Peter Summerlin - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=13274737]
+   ![image](https://upload.wikimedia.org/wikipedia/commons/9/98/Water_salinity_diagram.png)
