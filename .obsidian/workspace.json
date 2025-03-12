@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "efb590ac23059438",
+            "id": "28e86366e42678af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "frittata.md",
+                "file": "okonomiyaki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "frittata"
+              "title": "okonomiyaki"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "frittata.md",
+                "file": "okonomiyaki.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from frittata"
+              "title": "Outgoing links from okonomiyaki"
             }
           },
           {
@@ -154,10 +154,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "efb590ac23059438",
+  "active": "28e86366e42678af",
   "lastOpenFiles": [
-    "scrambled eggs.md",
+    "teppan.md",
+    "okonomiyaki.md",
+    "wheat flour.md",
+    "teppanyaki.md",
+    "Japanese cuisine.md",
     "frittata.md",
+    "scrambled eggs.md",
     "quiche.md",
     "omelette.md",
     "Italian cuisine.md",
@@ -177,11 +182,6 @@
     "lardon.md",
     "scorched rice.md",
     "Iran.md",
-    "salt.md",
-    "bliss point (food).md",
-    "Maillard reaction.md",
-    "braising.md",
-    "broth.md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
