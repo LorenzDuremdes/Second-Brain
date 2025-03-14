@@ -1,0 +1,1 @@
+1. julienne; a culinary knife cut in which the [[food]] item is cut into long thin strips, similar to matchsticks.^[https://en.wikipedia.org/wiki/Julienning]

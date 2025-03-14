@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "347abce283417a1e",
+            "id": "4572bfbbc45dba0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "carryover cooking.md",
+                "file": "brunoise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "carryover cooking"
+              "title": "brunoise"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "carryover cooking.md",
+                "file": "brunoise.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from carryover cooking"
+              "title": "Outgoing links from brunoise"
             }
           },
           {
@@ -154,10 +154,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "347abce283417a1e",
+  "active": "4572bfbbc45dba0f",
   "lastOpenFiles": [
-    "bricolage.md",
+    "julienne.md",
+    "brunoise.md",
+    "chiffonade.md",
     "carryover cooking.md",
+    "bricolage.md",
     "meal.md",
     "sautéing.md",
     "cooking technique.md",
@@ -179,9 +182,6 @@
     "frittata.md",
     "scrambled eggs.md",
     "quiche.md",
-    "omelette.md",
-    "Italian cuisine.md",
-    "prosciutto.md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
