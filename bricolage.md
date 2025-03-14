@@ -1,0 +1,2 @@
+1. bricolage; the preparation of a [[meal]] from whatever ingredients happen to be on hand.^[https://en.wikipedia.org/wiki/List_of_cooking_techniques]
+2. (French for "DIY" or "do-it-yourself projects"; French pronunciation: [bʁikɔlaʒ])^[https://en.wikipedia.org/wiki/Bricolage]

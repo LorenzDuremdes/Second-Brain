@@ -1,0 +1,5 @@
+1. carryover [[cooking]]; when [[food|foods]] are halted from actively cooking and allowed to equilibrate under their own retained [[heat]]
+   
+   Because foods such as meats are typically measured for cooking [[temperature]] near the center of mass, stopping cooking at a given central temperature means that the outer layers of the food will be at higher temperature than that measured. Heat therefore will continue to migrate inwards from the surface, and the food will cook further even after being removed from the source of heat.
+   
+   Resting, when used as a synonym for carryover cooking, also refers to the process of allowing the liquids in [[meat|meats]] to redistribute through the food over a 5- to 20-minute period. This allows for a more flavorful and juicy finished product, in contrast to immediately cutting meat and allowing the still mobile juices to be lost from the meat before redistribution.^[https://en.wikipedia.org/wiki/Carryover_cooking]

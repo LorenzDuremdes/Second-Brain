@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5f0edb50cc1a742e",
+            "id": "347abce283417a1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sautéing.md",
+                "file": "carryover cooking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sautéing"
+              "title": "carryover cooking"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sautéing.md",
+                "file": "carryover cooking.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from sautéing"
+              "title": "Outgoing links from carryover cooking"
             }
           },
           {
@@ -154,12 +154,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5f0edb50cc1a742e",
+  "active": "347abce283417a1e",
   "lastOpenFiles": [
+    "bricolage.md",
+    "carryover cooking.md",
+    "meal.md",
+    "sautéing.md",
     "cooking technique.md",
     "wok.md",
     "stir frying.md",
-    "sautéing.md",
     "gnocchi.md",
     "Salvia officinalis.md",
     "ricotta.md",
@@ -179,9 +182,6 @@
     "omelette.md",
     "Italian cuisine.md",
     "prosciutto.md",
-    "ham.md",
-    "kosher salt.md",
-    "iodised salt.md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
