@@ -1,0 +1,1 @@
+1. stir frying; a [[cooking technique]] in which ingredients are fried in a small amount of very hot [[oil]] while being stirred or tossed in a [[wok]]. The technique originated in [[China]] and in recent centuries has spread into other parts of Asia and the West. It is similar to [[sautéing]] in Western cooking technique.^[https://en.wikipedia.org/wiki/Stir_frying]

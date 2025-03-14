@@ -1,0 +1,1 @@
+1. sautéing (UK: /ˈsoʊteɪɪŋ/, US: /soʊˈteɪɪŋ, sɔː-/; from French *sauté*, French: [sote], 'jumped', 'bounced', in reference to tossing while [[cooking]]); a [[cooking technique|method of cooking]] that uses a relatively small amount of [[oil]] or [[fat]] in a shallow pan over relatively high heat^[https://en.wikipedia.org/wiki/Saut%C3%A9ing]
