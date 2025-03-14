@@ -1,0 +1,4 @@
+1. gnocchi; a varied family of [[dumpling|dumplings]] in [[Italian cuisine]]. They are made of small rolls of [[dough]], such as those composed of a simple combination of [[wheat flour]], [[potato]], [[egg]], and [[salt]].^[https://en.wikipedia.org/wiki/Gnocchi]
+	1. (/ˈn(j)ɒki/ N(Y)OK-ee, US: /ˈn(j)oʊki, ˈn(j)ɔːki/ N(Y)OH-kee, N(Y)AW-; Italian: [ˈɲɔkki]; sg.: gnocco)
+2. Gnocchi di [[ricotta]] dressed in [[butter]] and [[Salvia officinalis|sage]]^[By Paoletta S. - originally posted to Flickr as Gnocchi di ricotta burro e salvia, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=4245468]
+   ![image](https://upload.wikimedia.org/wikipedia/commons/8/86/Gnocchi_di_ricotta_burro_e_salvia.jpg)
