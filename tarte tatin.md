@@ -1,0 +1,1 @@
+1. tarte tatin; a [[pastry]] in which the [[fruit]] (usually apples) is [[caramelization|caramelized]] in [[butter]] and [[sugar]] before the tart is baked. It originated in [[France]] but has spread to other countries over the years.^[https://en.wikipedia.org/wiki/Tarte_Tatin]
