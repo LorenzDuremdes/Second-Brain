@@ -1,0 +1,1 @@
+1. mincing; a [[food]] preparation technique in which food [[ingredient|ingredients]] are finely divided into uniform pieces.^[https://en.wikipedia.org/wiki/Mincing]
