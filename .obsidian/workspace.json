@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1c4a67c9343cbd6",
+            "id": "25686fc49811e24e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "katsuobushi.md",
+                "file": "steak tartare.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "katsuobushi"
+              "title": "steak tartare"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "katsuobushi.md",
+                "file": "steak tartare.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from katsuobushi"
+              "title": "Outgoing links from steak tartare"
             }
           },
           {
@@ -154,10 +154,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c1c4a67c9343cbd6",
+  "active": "25686fc49811e24e",
   "lastOpenFiles": [
-    "skipjack tuna.md",
     "katsuobushi.md",
+    "steak tartare.md",
+    "skipjack tuna.md",
     "fermented fish.md",
     "smoked fish.md",
     "mincing.md",
@@ -181,7 +182,6 @@
     "ricotta.md",
     "dumpling.md",
     "tarte tatin.md",
-    "caramelization.md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",

@@ -1,0 +1,4 @@
+1. steak tartare; a French dish of raw ground (minced) beef. It is usually served with onions, capers, parsley or chive, salt, pepper, Worcestershire sauce, and other seasonings, often presented separately, to be added to taste. It is commonly served topped with a raw egg yolk.^[https://en.wikipedia.org/wiki/Steak_tartare]
+   
+   Beef steak tartare with raw egg yolk^[By insatiablemunch - Sydney Food Blog Review of Le Grande Bouffe, Rozelle: Classic Steak Tartare, $18, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=73174089]
+   ![image](https://upload.wikimedia.org/wikipedia/commons/d/db/Classic_steak_tartare.jpg)
