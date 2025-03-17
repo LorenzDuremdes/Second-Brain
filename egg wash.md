@@ -1,0 +1,1 @@
+1. [[egg]] wash; beaten eggs, sometimes mixed with another liquid such as [[water]] or [[milk]], which is brushed onto the surface of a [[pastry]] before baking^[https://en.wikipedia.org/wiki/Egg_wash]

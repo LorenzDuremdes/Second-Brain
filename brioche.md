@@ -1,0 +1,4 @@
+1. brioche (/ˈbriːoʊʃ/, also UK: /ˈbriːɒʃ, briːˈɒʃ/, US: /briːˈoʊʃ, ˈbriːɔːʃ, briːˈɔːʃ/; a [[pastry]] of [[French cuisine|French]] origin whose high [[egg]] and [[butter]] content gives it a rich and tender crumb. The chef Joël Robuchon described it as "light and slightly puffy, more or less fine, according to the proportion of butter and eggs". It has a dark, golden, and flaky crust, frequently accentuated by an [[egg wash]] applied after [[proofing (baking technique|proofing]]^[https://en.wikipedia.org/wiki/Brioche]
+   
+   CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=485645
+   ![image](https://upload.wikimedia.org/wikipedia/commons/4/4a/Brioche.jpg)
