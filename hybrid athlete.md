@@ -9,6 +9,7 @@
 1. On Feb. 5, 2023, Crawley took to his YouTube channel to share the diet of 5,000 daily calories he includes to fuel his programming. The additional energy expenditure from training like a hybrid athlete is exceptionally high. The calorie intake needs to be sufficient to not inadvertently be in a caloric deficit, which could lead to fatigue, lower energy, and lack of progress in the gym, on the track, in the water, or wherever else Crawley ends up with an elevated heart rate.^[https://barbend.com/hybrid-athlete-fergus-crawley-eats-4894-calories-per-day/]: https://www.youtube.com/watch?v=jIFm8ruHbnA
 
 # hybrid athletes
+1. [Hugo Barrette](https://www.instagram.com/hugebarrette/) (2x Olympian cyclist)
 2. [DadliftsnRuns](https://new.reddit.com/user/DadliftsnRuns/) ([Cody Furstenau](https://www.instagram.com/dadliftn/?hl=en))
 	1. [I completed a 100 mile ultramarathon, and then bench pressed 405 only 3 days later!](https://new.reddit.com/r/GYM/comments/1alzzrm/i_completed_a_100_mile_ultramarathon_and_then/)
 		1. Absolutely insane. Gotta imagine the % of people in the world who can do both is like .00001% (~788). Arguably even .000001% (~78). Truly world class fitness man. Would love to even achieve being able to run a marathon in a good time + bench 315.
@@ -17,7 +18,7 @@
 		2. Psycho behavior and I love it
 		3. Being 30+ is when you have a long run scheduled that you need to wrap up before work, but also need to stay close enough to home to supervise your daughter, because your wife is out of town... So you run a full marathon around the cul-de-sac. ~400 laps!
 	4. treadmill 50 miler^[https://new.reddit.com/r/Strava/comments/18xy2n0/january_1st/]
-3. [Blaine Lints](https://www.instagram.com/blainekets/?hl=en) | sports scientist, pro triathlete, former Navy SEAL
+2. [Blaine Lints](https://www.instagram.com/blainekets/?hl=en) | sports scientist, pro triathlete, former Navy SEAL
    ![[Blaine Lints.jpg]]^[[Should You Try Hybrid Athlete Training to Build Strength and Endurance? - Men's Journal (mensjournal.com)](https://www.mensjournal.com/health-fitness/hybrid-athlete-training)]
 4. [Nick Bare](https://www.instagram.com/nickbarefitness/?hl=en)
 5. Chad Timmerman
@@ -30,16 +31,16 @@
 11. [Alec Blenis](https://www.instagram.com/alecblenis/)
 
 # articles
-12. [What is a Hybrid Athlete | The Guide to Strength and Endurance – Bare Performance Nutrition](https://www.bareperformancenutrition.com/blogs/content/what-is-a-hybrid-athlete-the-full-guide-to-strength-endurance)
-13. [What Is a Hybrid Athlete - Nick Bare, Alex Viada Explain Training (menshealth.com)](https://www.menshealth.com/fitness/a45712102/hybrid-athlete/)
+1. [What is a Hybrid Athlete | The Guide to Strength and Endurance – Bare Performance Nutrition](https://www.bareperformancenutrition.com/blogs/content/what-is-a-hybrid-athlete-the-full-guide-to-strength-endurance)
+2. [What Is a Hybrid Athlete - Nick Bare, Alex Viada Explain Training (menshealth.com)](https://www.menshealth.com/fitness/a45712102/hybrid-athlete/)
 
 # related
-14. [[superhuman]]
+1. [[superhuman]]
 
 # miscellaneous
-15. I’m very, very skeptical that any of these guys are natural. I used to be a marathoner running 50 miles a week and I was fatigued all the time, my legs shrank despite continuing to lift hard. I just can’t see how guys like Nick Bare maintain that kind of [[muscle]] mass while running that much and that fast.
+1. I’m very, very skeptical that any of these guys are natural. I used to be a marathoner running 50 miles a week and I was fatigued all the time, my legs shrank despite continuing to lift hard. I just can’t see how guys like Nick Bare maintain that kind of [[muscle]] mass while running that much and that fast.
    
    Is it possible to run and lift concurrently? Absolutely. You can be good at both, you can’t be great at both concurrently.^[https://www.reddit.com/r/naturalbodybuilding/comments/1fzuoip/comment/lr4bx25/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button]
-16. There is zero science backing up a [[human]] carrying that much muscle and consistently running long distances without performance enhancing substances. Zero.
+2. There is zero science backing up a [[human]] carrying that much muscle and consistently running long distances without performance enhancing substances. Zero.
    
    Maintaining elite size and shreds while pursuing VERY catabolic goals (endurance running, marathons,etc).^[https://www.reddit.com/r/nattyorjuice/comments/16toxhv/nick_bare_the_hybrid_athlete/]
