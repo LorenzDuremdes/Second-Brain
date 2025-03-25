@@ -1,0 +1,6 @@
+1. *[[spaghetti]] all'assassina*; its preparation is markedly different from other spaghetti dishes; instead of being boiled in salted [[water]] and finished in sauce, the pasta is cooked directly in the pan (traditionally [[cast-iron cookware|cast iron]]). A [[broth]] typically made of [[tomato sauce]] diluted with water is gradually added to the pan as the pasta absorbs it, similar to a [[risotto]]. As the spaghetti absorbs the sauce, it cooks directly on the pan surface, developing significant [[Maillard reaction|browning]] and a distinctive, crispy texture unique among pasta dishes.
+   
+   (Italian: [spaˈɡetti allassasˈsiːna]; lit. 'assassin's spaghetti'), also known as *spaghetti bruciati* (Italian: [spaˈɡetti bruˈtʃaːti]; lit. 'burnt spaghetti')^[https://en.wikipedia.org/wiki/Spaghetti_all%27assassina]
+   
+   The spaghetti needs to burn and crisp. Do not be afraid of letting it burn!^[By ScotInPuglia - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=132444346]
+   ![image](https://upload.wikimedia.org/wikipedia/commons/0/03/Spaghetti_all%E2%80%99assassina_recipe.jpg)
