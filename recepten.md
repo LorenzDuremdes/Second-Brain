@@ -40,6 +40,10 @@
 ## [Ham and Bean Soup](https://www.seriouseats.com/ham-and-bean-soup-recipe-5221025)
 ![image](https://www.seriouseats.com/thmb/f9xsj61W86rUG9JRD3uysQiLD6w=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220215-Ham-and-Bean-Soup-Liz-Voltz-Hero-Horz-2-47668a2f054d4efc9041c36ad7e77359.jpg)
 
+# Plat d'accompagnement
+## [Waldorf Salad](https://www.seriouseats.com/waldorf-salad-recipe-8748968)
+![image](https://www.seriouseats.com/thmb/r-hjBLMZ_xmuXySgPgcZgLE1tmE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20241010-SEA-Waldorf-Salad-Lozano_3x4_517-c57d0603ff7e4ec1a201b896656ac1ee.jpg)
+
 # Apéritif and digestif
 ## [Cheese Foam Tea](https://www.seriouseats.com/cheese-foam-tea-recipe-6755262)
 ![image](https://www.seriouseats.com/thmb/k2jRFTVaaNgEzyOpydIRCVW384w=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20221205-Cheesefoam-Amanda-Suarez-14-e87bb57e755d4951a35751e311b1d520.JPG)
