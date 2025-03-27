@@ -12,9 +12,10 @@
 4. Izki to Al Aliyah | Oman - 48.2 km/h
 
 ## variable
-1. Santa Maria to Alaro | Mallorca ― with many corner sprints immediately after a climb halfway through | 33.4 km/h
-2. La Vuelta 2024 | Raceday | Stage 6 - Yunquera | 30.6 km/h
-3. Bunyola to Soller | Mallorca ― almost continuous corner sprints after climbing | 24.6 km/h
+1. Bunyola to Soller | Mallorca ― almost continuous (x27) corner sprints after climbing | 24.6 km/h
+2. Santa Maria to Alaro | Mallorca ― with 10 corner sprints immediately after a climb halfway through with little rest in between | 33.4 km/h
+3. Melden to Mater | Belgium ― Many corner sprints (as well as a couple immediately before a climb and finish) | 39.8 km/h
+4. La Vuelta 2024 | Raceday | Stage 6 - Yunquera | 30.6 km/h
 
 ## uphill
 1. Col du Télégraphe - Galibier | France ― with short supra-FTP segments | 2092 m
