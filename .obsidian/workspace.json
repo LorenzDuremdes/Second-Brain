@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ba7ba17c3cf0b64",
+            "id": "6108be617be5fe19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROUVY.md",
+                "file": "recepten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROUVY"
+              "title": "recepten"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rouvy",
+                "query": "recipes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROUVY.md",
+                "file": "recepten.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ROUVY"
+              "title": "Outgoing links from recepten"
             }
           },
           {
@@ -128,17 +127,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "urea cycle.md",
+                "file": "recepten.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of urea cycle"
+              "title": "Outline of recepten"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -155,8 +154,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "6ba7ba17c3cf0b64",
+  "active": "6108be617be5fe19",
   "lastOpenFiles": [
+    "ROUVY.md",
+    "recepten.md",
     "vloerbrood.md",
     "spaghetti all'assassina.md",
     "risotto.md",
@@ -181,8 +182,6 @@
     "grated cheese.md",
     "breadcrumbs.md",
     "dish.md",
-    "brunoise.md",
-    "julienne.md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
