@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ricotta.md",
+                "file": "monosodium glutamate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ricotta"
+              "title": "monosodium glutamate"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ricotta",
+                "query": "monosodium",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ricotta.md",
+                "file": "monosodium glutamate.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ricotta"
+              "title": "Outgoing links from monosodium glutamate"
             }
           },
           {
@@ -157,8 +156,10 @@
   },
   "active": "6108be617be5fe19",
   "lastOpenFiles": [
-    "globulin.md",
+    "tomato.md",
+    "monosodium glutamate.md",
     "ricotta.md",
+    "globulin.md",
     "casein.md",
     "whey.md",
     "Bufala Mediterranea Italiana.md",
@@ -181,8 +182,6 @@
     "flambé.md",
     "alcohol.md",
     "egg wash.md",
-    "brioche.md",
-    "proofing (baking technique.md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
