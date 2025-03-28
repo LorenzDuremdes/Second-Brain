@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "monosodium glutamate.md",
+                "file": "recepten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "monosodium glutamate"
+              "title": "recepten"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "monosodium glutamate.md",
+                "file": "recepten.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from monosodium glutamate"
+              "title": "Outgoing links from recepten"
             }
           },
           {
@@ -156,8 +156,8 @@
   },
   "active": "6108be617be5fe19",
   "lastOpenFiles": [
-    "tomato.md",
     "monosodium glutamate.md",
+    "tomato.md",
     "ricotta.md",
     "globulin.md",
     "casein.md",

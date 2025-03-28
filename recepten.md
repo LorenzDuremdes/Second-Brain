@@ -2,6 +2,9 @@
 ## [Patates Lemonates (Greek Lemon Potatoes)](https://www.seriouseats.com/greek-lemon-potatoes-recipe-5220151)
 ![image](https://www.seriouseats.com/thmb/dylnKTbz6euPVJ8XXaQsneQMGQ8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220303-greek-lemon-potatoes-vicky-wasik-15-9eee1457f56b436db16cd912e1e50e5f.jpg)
 
+## [Pommes de Terre Fondantes (Fondant Potatoes)](https://www.seriouseats.com/fondant-potatoes-recipe-5217320)
+![image](https://www.seriouseats.com/thmb/gsOqzAOngFLEsDjBEg1za_ikLZg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220201-fondant-potatoes-vicky-wasik-30-e4d30935f35f4a1c8140c533049e143e.jpg)
+
 ## [Spaghetti all’assassina](https://www.seriouseats.com/spaghetti-all-assassina-8733170)
 ![image](https://www.seriouseats.com/thmb/5MXhk4qmDn-lJAN5yrENONQit0A=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20241024-spaghettiallassasina-AmandaSuarez13-d76f630503a04d26bb37ad4a712010d1.jpg)
 
