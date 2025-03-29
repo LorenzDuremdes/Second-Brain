@@ -11,3 +11,9 @@
 	   If you want moist veggies, steam them. Then you can sprinkle them with a seasoning, or sautee them with some garlic or ginger and s&p. [[Butter]] will make them delicious but less healthy, [[olive oil]] for more healthy but less delicious.
 	   
 	   If you want them dry, roast them. Broccoli, carrots, cabbage, beets, cauliflower, and a lot more taste great roasted. Just google a recipe for whichever veg you have. Or put a bunch on a sheet pan and roast them together. I often do a sheet pan dinner with sausages, brussels, carrots and onions, and toss it with a little honey mustard at the end.^[https://www.reddit.com/r/cookingforbeginners/comments/1enea76/how_do_i_cook_veggies_the_healthy_way/]
+
+# [[salt]]
+1. The best advice I've gotten is that the main two differences between a restaurant chef and a home cook, other than training and basic cooking knowledge/skills, is that the chef will season (salt) much more generously.^[https://www.reddit.com/r/AskReddit/comments/15ivs8/comment/c7mxaow/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button]
+
+# [[fat]]
+1. "Use real [[butter]], it's a mistake to even have [[margarine]] on hand"^[https://www.reddit.com/r/AskReddit/comments/15ivs8/chefs_of_reddit_what_are_some_some_tips_and/]
