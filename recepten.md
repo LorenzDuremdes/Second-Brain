@@ -15,6 +15,9 @@
 ## [Basque Cheesecake](https://www.seriouseats.com/basque-cheesecake)
 ![image](https://www.seriouseats.com/thmb/Q5O7cWX3fGYkTd8e1Bf-XHkgk_c=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2021__03__20210228-basque-cheesecake-vicky-wasik-13-bcadee5c457b4564b0d11761939cfac2.jpg)
 
+# [Chocolate Ice Cream Bon Bons](https://www.seriouseats.com/chocolate-ice-cream-bon-bon-recipe)
+![image](https://www.seriouseats.com/thmb/sSexVZ-tn0vK4oj6nDzRdWn4LRo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2013__07__20130729-260987-chocolate-icecream-bonbons-1fa521da06fe4b37bd4f7359c714c199.jpg)
+
 ## [Chocolate Mayonnaise Cake](https://www.seriouseats.com/chocolate-mayonnaise-cake-recipe-8727794)
 ![image](https://www.seriouseats.com/thmb/12moZdZ6uwqFDnFugJWvKcAx84w=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20241015-ChocolateMayoCake-MaureenCelestine-25-39568fdceb274ec587a02a0dfd43e8f1.jpg)
 
@@ -23,6 +26,9 @@
 
 ## [Gâteau Basque](https://www.seriouseats.com/gateau-basque-recipe-6823020)
 ![image](https://www.seriouseats.com/thmb/5iDx46brMEf-gr33exSFJCPGqCo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/10282022-GateauBasque--AmandaSuarez-StepHero-97732b2ee5564320ac863a1fb54519b3.JPG)
+
+# [Gâteau Invisible (Invisible Apple Cake)](https://www.seriouseats.com/gateau-invisible)
+![image](https://www.seriouseats.com/thmb/gVZXYu149j9nvV3YjdktjJZNCMM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2020__11__20201115-gateau-invisible-apple-cake-tim-chin-hero-1-cb3c0a443dc844ada1029c5b0f2a0a54.jpg)
 
 ## [Lemon Ricotta Cake](https://www.seriouseats.com/lemon-ricotta-cake-recipe-8551536)
 ![image](https://www.seriouseats.com/thmb/g6nGOs6Nmone4BJ5C_5hPzzhNkY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240206-SEA--LemonRicottaCake-MaureenCelestine-27-d4868f9dca4542038209ca873ebff33d.jpg)
@@ -35,6 +41,9 @@
 
 ## [Pay De Queso (Mexican Cheese Pie)](https://www.seriouseats.com/pay-de-queso-mexican-cheese-pie-recipe-6829247)
 ![image](https://www.seriouseats.com/thmb/ZpUc0MSClaigapDLa--pCW6AIyQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20221116-Pays-de-Queso-Amanda-Suarez-hedenote2-b9d4268e8e2b4dd28f77940582070513.JPG)
+
+# [Sunny Lemon Bars](https://www.seriouseats.com/sunny-lemon-bars-recipe)
+![image](https://www.seriouseats.com/thmb/ZXWMPVnVFhHvlrV3cNaz8qFrVvo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2016__03__20160223-lemon-bars-vicky-wasik-21-08653d6abf6c442bb524f7b9b4fc0a2b.jpg)
 
 # Hors d’oeuvre
 ## [Creamy Braised Pork and Bean Stew With Cinnamon, Fennel, and Onion](https://www.seriouseats.com/creamy-braised-pork-and-bean-stew-cinnamon-fennel-and-onion-5217276)

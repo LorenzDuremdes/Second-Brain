@@ -127,17 +127,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ricotta.md",
+                "file": "recepten.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ricotta"
+              "title": "Outline of recepten"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -154,7 +154,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "6108be617be5fe19",
+  "active": "05b317b79e347fd9",
   "lastOpenFiles": [
     "monosodium glutamate.md",
     "tomato.md",
