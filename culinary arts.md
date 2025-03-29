@@ -22,6 +22,8 @@
    SALT. My god salt your food. If there is one mistake that home cooks make, and then wonder why it doesn't taste as good as a restaurant, it is usually too little salt. Salt opens up the receptors on your tongue and enhances the flavor of pretty much everything.
    
    Easiest example is salting the water you would use to boil any starch (pasta, potatoes, etc). You should put a lot of salt in the water. Think about how much you would consider a lot, then double it, and add that much. This is the best time to season any starch, when it is boiling. Then adjust the flavor (add more) if needed once it is cooked.
+3. [Gordon Ramsay really loves salt and pepper](https://www.youtube.com/watch?v=uPWsUAC3MR0)
 
 # [[fat]]
-1. "Use real [[butter]], it's a mistake to even have [[margarine]] on hand"^[https://www.reddit.com/r/AskReddit/comments/15ivs8/chefs_of_reddit_what_are_some_some_tips_and/]
+1. Three or four times the amount of butter and salt is a big part of why your food doesn’t taste like restaurant food.^[https://www.reddit.com/r/AskReddit/comments/k92vh5/comment/gf1um0l/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button]
+2. "Use real [[butter]], it's a mistake to even have [[margarine]] on hand"^[https://www.reddit.com/r/AskReddit/comments/15ivs8/chefs_of_reddit_what_are_some_some_tips_and/]
