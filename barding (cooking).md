@@ -1,0 +1,2 @@
+1. barding ([[cooking]]); consisting of laying or wrapping strips of bacon or other fats over a roast to provide additional [[fat]] to a lean piece of [[meat]]^[https://en.wikipedia.org/wiki/Bacon#Bacon_fat]
+2. Barding is the term for covering lean meat with slices of pork belly—either smoked and called bacon, cured and called pancetta, or left unadulterated—to protect it from the dry heat of roasting^[Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking, p. 104]
