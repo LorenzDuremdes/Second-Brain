@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "haute cuisine.md",
+                "file": "culinary arts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "haute cuisine"
+              "title": "culinary arts"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fine dining",
+                "query": "culinary arts",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "haute cuisine.md",
+                "file": "culinary arts.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from haute cuisine"
+              "title": "Outgoing links from culinary arts"
             }
           },
           {
@@ -127,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "haute cuisine.md",
+                "file": "culinary arts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of haute cuisine"
+              "title": "Outline of culinary arts"
             }
           }
         ],
@@ -156,8 +157,9 @@
   },
   "active": "b54ce0155a05f5ab",
   "lastOpenFiles": [
-    "fine dining.md",
     "haute cuisine.md",
+    "culinary arts.md",
+    "fine dining.md",
     "marbled meat.md",
     "Wagyu.md",
     "intramuscular fat.md",
@@ -181,7 +183,6 @@
     "gnocchi.md",
     "ROUVY.md",
     "vloerbrood.md",
-    "spaghetti all'assassina.md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
