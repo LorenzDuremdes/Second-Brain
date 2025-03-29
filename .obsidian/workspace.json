@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6108be617be5fe19",
+            "id": "d26bd9d2a563b02d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recepten.md",
+                "file": "clarified butter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "recepten"
+              "title": "clarified butter"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "recepten.md",
+                "file": "clarified butter.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from recepten"
+              "title": "Outgoing links from clarified butter"
             }
           },
           {
@@ -127,17 +127,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "recepten.md",
+                "file": "clarified butter.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of recepten"
+              "title": "Outline of clarified butter"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,8 +154,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "05b317b79e347fd9",
+  "active": "d26bd9d2a563b02d",
   "lastOpenFiles": [
+    "powdered milk.md",
+    "clarified butter.md",
+    "recepten.md",
     "monosodium glutamate.md",
     "tomato.md",
     "ricotta.md",
@@ -168,8 +171,6 @@
     "sheep.md",
     "whey cheese.md",
     "gnocchi.md",
-    "recepten.md",
-    "Untitled 1.md",
     "ROUVY.md",
     "vloerbrood.md",
     "spaghetti all'assassina.md",
@@ -181,7 +182,6 @@
     "hybrid athlete.md",
     "flambé.md",
     "alcohol.md",
-    "egg wash.md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
