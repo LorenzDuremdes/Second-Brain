@@ -43,6 +43,20 @@ https://www.grillsportverein.de/forum/threads/ninja-creami-eine-pacojet-alternat
 	   So to start, I'd suggest adding a "solid" of your choice and a heaping spoon of an instant pudding, blend well and try again. You can get MUCH fancier with more exotic ingredients if you want (I have) but that would be a simple and cheap place to start.
 
 # recipes
+## Black Forest gateau
+*Zondag 23/3/2025*
+1. 30 g Grothe pure chocolade gesmolten
+2. 350 ml warme magere melk
+3. 20 g honing
+
+Apart van tevoren mixen
+1. 30 g Black Forest gateau eiwitpoeder
+2. 12 g inuline
+3. 2 g zout 
+4. 0.5 tl xanthaangom
+
+Terug in de vriezer voor ~30–60 min. na het mixen in de Ninja CREAMi voor betere textuur
+
 ## frozen Oreos
 1. remove the Oreo fillings > freeze with some milk
 2. store the cookies somewhere
