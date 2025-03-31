@@ -57,6 +57,9 @@
 ![image](https://www.seriouseats.com/thmb/f9xsj61W86rUG9JRD3uysQiLD6w=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220215-Ham-and-Bean-Soup-Liz-Voltz-Hero-Horz-2-47668a2f054d4efc9041c36ad7e77359.jpg)
 
 # Plat d'accompagnement
+## [Applesauce](https://www.seriouseats.com/sweetened-spiced-applesauce-recipe)
+![image](https://www.seriouseats.com/thmb/zXoxa_PgBaPAJzf9TIndCcJ90Wc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2017__11__20171019-apple-sauce-vicky-wasik-13-882419f2e13d4ed193b5d1f8512b5609.jpg)
+
 ## [Sous Vide Glazed Carrots](https://www.seriouseats.com/sous-vide-glazed-carrots-recipe)
 ![image](https://www.seriouseats.com/thmb/eFrGOVv9TGoHvoYx-sMDSEDvFe4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/sous-vide-glazed-carrots-recipe-hero-01_1-24bcf568b5f94b5b9a9e41bde0711ae0.JPG)
 
