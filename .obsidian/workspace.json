@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU.md",
+                "file": "recepten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU"
+              "title": "recepten"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -128,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU.md",
+                "file": "recepten.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU"
+              "title": "Outline of recepten"
             }
           }
         ],
@@ -157,6 +156,7 @@
   },
   "active": "b54ce0155a05f5ab",
   "lastOpenFiles": [
+    "Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU.md",
     "culinary arts.md",
     "haute cuisine.md",
     "fine dining.md",
@@ -182,7 +182,6 @@
     "whey cheese.md",
     "gnocchi.md",
     "ROUVY.md",
-    "vloerbrood.md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",

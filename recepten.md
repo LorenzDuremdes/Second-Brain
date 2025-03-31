@@ -1,3 +1,7 @@
+# Déjeuner
+## [Apple Pie Pancakes](https://www.seriouseats.com/apple-pie-pancakes-recipe-8752129)
+![image](https://www.seriouseats.com/thmb/sCnUiAAnfecUrMyLc9O_VCijnwM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20241121-SEA-ApplePiePancakes-RobbyLozano-Hero3-58-329096fcd0aa495ca1bd7d996499d46a.jpg)
+
 # Plat principal
 ## [Patates Lemonates (Greek Lemon Potatoes)](https://www.seriouseats.com/greek-lemon-potatoes-recipe-5220151)
 ![image](https://www.seriouseats.com/thmb/dylnKTbz6euPVJ8XXaQsneQMGQ8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220303-greek-lemon-potatoes-vicky-wasik-15-9eee1457f56b436db16cd912e1e50e5f.jpg)
