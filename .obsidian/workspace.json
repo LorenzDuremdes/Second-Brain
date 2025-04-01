@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3146d1edaee0a2d1",
+            "id": "d2e19fabffda0587",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recepten.md",
+                "file": "frangipane.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "recepten"
+              "title": "frangipane"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU.md",
+                "file": "frangipane.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU"
+              "title": "Outgoing links from frangipane"
             }
           },
           {
@@ -127,17 +127,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "recepten.md",
+                "file": "frangipane.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of recepten"
+              "title": "Outline of frangipane"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,10 +154,18 @@
       "random-note:Open random note": false
     }
   },
-  "active": "3146d1edaee0a2d1",
+  "active": "d2e19fabffda0587",
   "lastOpenFiles": [
-    "speltbrood.md",
+    "almond.md",
+    "frangipane.md",
+    "yolk.md",
+    "corn starch.md",
+    "pithivier.md",
+    "Jésuite.md",
+    "conversation tart.md",
+    "Bakewell tart.md",
     "recepten.md",
+    "speltbrood.md",
     "Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU.md",
     "culinary arts.md",
     "haute cuisine.md",
@@ -174,14 +182,6 @@
     "tomato.md",
     "ricotta.md",
     "globulin.md",
-    "casein.md",
-    "whey.md",
-    "Bufala Mediterranea Italiana.md",
-    "goat.md",
-    "cattle.md",
-    "sheep.md",
-    "whey cheese.md",
-    "gnocchi.md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
