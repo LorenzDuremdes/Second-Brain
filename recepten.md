@@ -60,6 +60,9 @@
 ## [Applesauce](https://www.seriouseats.com/sweetened-spiced-applesauce-recipe)
 ![image](https://www.seriouseats.com/thmb/zXoxa_PgBaPAJzf9TIndCcJ90Wc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2017__11__20171019-apple-sauce-vicky-wasik-13-882419f2e13d4ed193b5d1f8512b5609.jpg)
 
+## [Muffin Tin Egg Bites](https://www.seriouseats.com/kale-and-mushroom-egg-bites-recipe-11703113)
+![image](https://www.seriouseats.com/thmb/LwC6668zeQlm0B0gRoSGh1AcJuw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250226-SEA-KaleandMushroomEggBitesMuffinTin-ShriRepp-Beauty3-35-d6295f0c9eb7476eab6e3eefd8b0b914.jpg)
+
 ## [Sous Vide Glazed Carrots](https://www.seriouseats.com/sous-vide-glazed-carrots-recipe)
 ![image](https://www.seriouseats.com/thmb/eFrGOVv9TGoHvoYx-sMDSEDvFe4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/sous-vide-glazed-carrots-recipe-hero-01_1-24bcf568b5f94b5b9a9e41bde0711ae0.JPG)
 
