@@ -1,0 +1,1 @@
+1. smoke point; the [[temperature]] at which an [[oil]] or [[fat]] begins to produce a continuous bluish smoke that becomes clearly visible, dependent upon specific and defined conditions^[https://en.wikipedia.org/wiki/Smoke_point]
