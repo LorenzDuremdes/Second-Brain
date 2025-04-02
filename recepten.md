@@ -2,6 +2,9 @@
 ## [Apple Pie Pancakes](https://www.seriouseats.com/apple-pie-pancakes-recipe-8752129)
 ![image](https://www.seriouseats.com/thmb/sCnUiAAnfecUrMyLc9O_VCijnwM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20241121-SEA-ApplePiePancakes-RobbyLozano-Hero3-58-329096fcd0aa495ca1bd7d996499d46a.jpg)
 
+## [Maple-Banana Baked Oatmeal Recipe](https://www.seriouseats.com/maple-banana-baked-oatmeal-recipe)
+![image](https://www.seriouseats.com/thmb/DQNQbg_8ExV2VY4uXEKCoyytSQ0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__08__20140805-banana-baked-oatmeal.1-yvonne-ruperti-hires-7f8dca9e8ad6497e96b28cddb9ef7d3b.jpg)
+
 # Plat principal
 ## [Patates Lemonates (Greek Lemon Potatoes)](https://www.seriouseats.com/greek-lemon-potatoes-recipe-5220151)
 ![image](https://www.seriouseats.com/thmb/dylnKTbz6euPVJ8XXaQsneQMGQ8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220303-greek-lemon-potatoes-vicky-wasik-15-9eee1457f56b436db16cd912e1e50e5f.jpg)
