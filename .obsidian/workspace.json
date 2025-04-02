@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0bfa6af5de4e0bdd",
+            "id": "414df5d11dd818b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recepten.md",
+                "file": "galette des rois.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "recepten"
+              "title": "galette des rois"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "culinary arts",
+                "query": "galette des rois",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "recepten.md",
+                "file": "galette des rois.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from recepten"
+              "title": "Outgoing links from galette des rois"
             }
           },
           {
@@ -154,8 +154,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "0bfa6af5de4e0bdd",
+  "active": "414df5d11dd818b9",
   "lastOpenFiles": [
+    "recepten.md",
+    "galette des rois.md",
     "smoke point.md",
     "frangipane.md",
     "almond.md",
@@ -165,7 +167,6 @@
     "Jésuite.md",
     "conversation tart.md",
     "Bakewell tart.md",
-    "recepten.md",
     "speltbrood.md",
     "Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU.md",
     "culinary arts.md",
@@ -181,7 +182,6 @@
     "powdered milk.md",
     "monosodium glutamate.md",
     "tomato.md",
-    "ricotta.md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
