@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "galette des rois.md",
+                "file": "recepten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "galette des rois"
+              "title": "recepten"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "galette des rois.md",
+                "file": "recepten.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from galette des rois"
+              "title": "Outgoing links from recepten"
             }
           },
           {
@@ -127,17 +127,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "smoke point.md",
+                "file": "recepten.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of smoke point"
+              "title": "Outline of recepten"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -156,8 +156,8 @@
   },
   "active": "414df5d11dd818b9",
   "lastOpenFiles": [
-    "recepten.md",
     "galette des rois.md",
+    "recepten.md",
     "smoke point.md",
     "frangipane.md",
     "almond.md",

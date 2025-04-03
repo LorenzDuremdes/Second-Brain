@@ -6,6 +6,9 @@
 ![image](https://www.seriouseats.com/thmb/DQNQbg_8ExV2VY4uXEKCoyytSQ0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__08__20140805-banana-baked-oatmeal.1-yvonne-ruperti-hires-7f8dca9e8ad6497e96b28cddb9ef7d3b.jpg)
 
 # Plat principal
+## [Honey Mustard Spaghetti](https://www.allrecipes.com/honey-mustard-spaghetti-recipe-8760484)
+![image](https://www.allrecipes.com/thmb/TbWPlEx44kfFAkGFPhrUMxxoi3k=/0x512/filters:no_upscale():max_bytes(150000):strip_icc()/8760484_Honey-Mustard-Spaghetti_Dotdash-Meredith-Food-Studios_4x3.2-8a20d3018917441d9e9643d539745a29.jpg)
+
 ## [Patates Lemonates (Greek Lemon Potatoes)](https://www.seriouseats.com/greek-lemon-potatoes-recipe-5220151)
 ![image](https://www.seriouseats.com/thmb/dylnKTbz6euPVJ8XXaQsneQMGQ8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220303-greek-lemon-potatoes-vicky-wasik-15-9eee1457f56b436db16cd912e1e50e5f.jpg)
 
@@ -62,6 +65,9 @@
 # Plat d'accompagnement
 ## [Applesauce](https://www.seriouseats.com/sweetened-spiced-applesauce-recipe)
 ![image](https://www.seriouseats.com/thmb/zXoxa_PgBaPAJzf9TIndCcJ90Wc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2017__11__20171019-apple-sauce-vicky-wasik-13-882419f2e13d4ed193b5d1f8512b5609.jpg)
+
+## [Melted Cabbage](https://www.seriouseats.com/melting-cabbage-recipe-11682376)
+![image](https://www.seriouseats.com/thmb/TMyiL12b_8sRwS7epUVdajmDU2w=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250213-SEA-MeltingCabbage-JenCausey-Beauty1-72-5edf1c4a147345ea958a83847aaa12cb.jpg)
 
 ## [Muffin Tin Egg Bites](https://www.seriouseats.com/kale-and-mushroom-egg-bites-recipe-11703113)
 ![image](https://www.seriouseats.com/thmb/LwC6668zeQlm0B0gRoSGh1AcJuw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250226-SEA-KaleandMushroomEggBitesMuffinTin-ShriRepp-Beauty3-35-d6295f0c9eb7476eab6e3eefd8b0b914.jpg)
