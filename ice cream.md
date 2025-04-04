@@ -1,4 +1,4 @@
-# premium ice cream
+# super premium ice cream
 1. **ChatGPT**
    Goedkoop ijs bevat veel lucht om volume te creëren. Premium ijs heeft een lager luchtgehalte, waardoor het compacter en romiger is.
    
