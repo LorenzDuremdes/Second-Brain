@@ -37,11 +37,14 @@
 ## [Gâteau Basque](https://www.seriouseats.com/gateau-basque-recipe-6823020)
 ![image](https://www.seriouseats.com/thmb/5iDx46brMEf-gr33exSFJCPGqCo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/10282022-GateauBasque--AmandaSuarez-StepHero-97732b2ee5564320ac863a1fb54519b3.JPG)
 
-# [Gâteau Invisible (Invisible Apple Cake)](https://www.seriouseats.com/gateau-invisible)
+## [Gâteau Invisible (Invisible Apple Cake)](https://www.seriouseats.com/gateau-invisible)
 ![image](https://www.seriouseats.com/thmb/gVZXYu149j9nvV3YjdktjJZNCMM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2020__11__20201115-gateau-invisible-apple-cake-tim-chin-hero-1-cb3c0a443dc844ada1029c5b0f2a0a54.jpg)
 
 ## [Lemon Ricotta Cake](https://www.seriouseats.com/lemon-ricotta-cake-recipe-8551536)
 ![image](https://www.seriouseats.com/thmb/g6nGOs6Nmone4BJ5C_5hPzzhNkY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240206-SEA--LemonRicottaCake-MaureenCelestine-27-d4868f9dca4542038209ca873ebff33d.jpg)
+
+## [Luscious Mocha Tres Leches Cake](https://www.seriouseats.com/mocha-tres-leches-cake-recipe-11705224)
+![image](https://www.seriouseats.com/thmb/GbLQzcLBVinwdnAzQNmzNvHoV0I=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250325-Mocha-Tres-Leches-Qi-Ai-hero-horizontal-angled-sliceonplate1-d28a688059d14c8faf44ba703b91475f.jpg)
 
 ## [Millionaire's Shortbread](https://www.seriouseats.com/millionaires-shortbread-recipe-8709817)
 ![image](https://www.seriouseats.com/thmb/Jkz1u6xdLEZ52e5qh47Gr_n5wkM=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240910-SEA-MillionairesShortbread-AmandaSuarez-hero-6e6073a8deb64b4faacd6d68c755599a.jpg)
