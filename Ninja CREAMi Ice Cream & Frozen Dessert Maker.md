@@ -59,25 +59,33 @@ Apart van tevoren mixen
 Terug in de vriezer voor ~30–60 min. na het mixen in de Ninja CREAMi voor betere textuur
 
 ## Frisse Lente thee (Simon Levelt)
-Ingrediënten:
+Ingrediënten (voor 300 ml basis)
 - 300 ml volle melk
+- 15 g gezouten roomboter (gesmolten)
 - 52 g suiker
-- 7,5 g inuline (ongeveer 1,5 tl)
-- 0,22 g xanthaangom (ongeveer 1/12 tl of een klein mespuntje)
+- 9 g inuline (iets meer om de romigheid te ondersteunen)
+- 0,25 g xanthaangom (klein mespuntje)
 - 7,5 g Frisse Lente thee (ongeveer 3,75 tl)
-- Snufje zout (ongeveer 1/12 tl, of ±0,2 g)  
+- Klein mespuntje zout (optioneel, afhankelijk van de boter)
 
 Bereidingswijze:
-1. Thee-infusie maken
+Thee-infusie maken
 - Verwarm de melk tot ongeveer 80°C (niet laten koken).
 - Voeg de Frisse Lente thee toe en laat 20-30 minuten trekken.
 - Zeef de thee en druk de blaadjes goed uit.  
-2. Mengen van de basis
-- Meng de suiker, inuline, xanthaangom en zout in een kleine kom.
-- Voeg dit mengsel al roerend toe aan de warme thee-infusie.
-- Mix met een staafmixer of garde tot alles volledig is opgelost.  
-3. Koelen en invriezen
-- Laat het mengsel minstens 4 uur in de koelkast afkoelen.
-- Giet het in een Ninja CREAMi-container en vries 24 uur in.
-4. Draaien in de Ninja CREAMi
+
+Boter emulgeren
+- Smelt de gezouten roomboter en voeg deze langzaam toe aan de warme melk, terwijl je krachtig roert of blendt met een staafmixer.
+- Dit zorgt voor een goede emulsie, zodat de boter zich niet scheidt bij het bevriezen.  
+
+Mengen van de basis
+- Meng de suiker, inuline, xanthaangom en zout in een aparte kom.
+- Voeg dit langzaam al roerend toe aan het warme mengsel.  
+    Mix opnieuw met een staafmixer of garde tot alles volledig is opgelost en homogeen is.  
+
+Koelen en invriezen
+- Laat het mengsel minstens 4 uur in de koelkast afkoelen (liefst een nacht).
+- Giet het in een Ninja CREAMi-container en vries 24 uur in.  
+
+Draaien in de Ninja CREAMi
 - Gebruik de "Ice Cream" stand.
