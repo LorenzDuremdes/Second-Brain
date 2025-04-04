@@ -5,12 +5,10 @@
    Ambachtelijke technieken: Sommige luxe restaurants maken ijs à la minute met vloeibare stikstof, waardoor de ijskristallen extreem klein blijven en het ijs ultrazacht is.
    
    Luxe restaurants experimenteren met bijzondere combinaties, zoals:
-
 - **Gezouten karamel met zwarte truffel**
-    
 - **Basilicum-limoensorbet**
-    
 - **Miso-honingijs**
-    
 - **Champagne- of whiskygebaseerd ijs**
-2. Creaminess is definitely a big factor. Eggs can help that. Using better quality ingredients should help, too.^[https://www.reddit.com/r/Cooking/comments/12fotra/what_separates_good_ice_cream_from_great_ice_cream/]
+
+Bij echt luxe ijs merk je dat het **zich als een fluweelzachte laag over je tong verspreidt**, zonder harde of korrelige stukjes.
+1. Creaminess is definitely a big factor. Eggs can help that. Using better quality ingredients should help, too.^[https://www.reddit.com/r/Cooking/comments/12fotra/what_separates_good_ice_cream_from_great_ice_cream/]
