@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ice cream.md",
+                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ice cream"
+              "title": "Ninja CREAMi Ice Cream & Frozen Dessert Maker"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "urea cycle.md",
+                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for urea cycle"
+              "title": "Backlinks for Ninja CREAMi Ice Cream & Frozen Dessert Maker"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ice cream.md",
+                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ice cream"
+              "title": "Outgoing links from Ninja CREAMi Ice Cream & Frozen Dessert Maker"
             }
           },
           {
@@ -128,17 +128,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ice cream.md",
+                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ice cream"
+              "title": "Outline of Ninja CREAMi Ice Cream & Frozen Dessert Maker"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -155,9 +155,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "36ec44c3027e09cc",
+  "active": "414df5d11dd818b9",
   "lastOpenFiles": [
-    "Ninja CREAMi Ice Cream & Frozen Dessert Maker NC300EU.md",
+    "ice cream.md",
+    "Ninja CREAMi Ice Cream & Frozen Dessert Maker.md",
     "recepten.md",
     "galette des rois.md",
     "smoke point.md",
@@ -182,7 +183,6 @@
     "clarified butter.md",
     "powdered milk.md",
     "monosodium glutamate.md",
-    "tomato.md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",

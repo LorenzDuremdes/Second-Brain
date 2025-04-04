@@ -1,4 +1,4 @@
-# functions
+# functions (NC300)
 1. **Ice Cream** – use this to turn dairy and dairy-alternative recipes into an indulgent, creamy, scoopable dessert.
 2. **Sorbet** – best used for [[fruit]]-based recipes with high [[water]] and [[sugar]] content.
 3. **Lite Ice Cream** – use this when making ice cream recipes that are low sugar, low [[fat]] or sugar alternative recipes. Recommended for keto and paleo recipes. This is the perfect setting for making frozen [[yogurt]].
@@ -11,18 +11,18 @@
 
 https://www.grillsportverein.de/forum/threads/ninja-creami-eine-pacojet-alternative-fuer-den-hausgebrauch.347793/page-27
 
-| Ninja CREAMi    |                                  |                                         |                               |                                      |
-| --------------- | -------------------------------- | --------------------------------------- | ----------------------------- | ------------------------------------ |
-| Programm        | Dauer  <br>ABWÄRTS  <br>(in sec) | Geschwindigkeit  <br>ABWÄRTS  <br>(rpm) | Dauer  <br>HOCH  <br>(in sec) | Geschwindigkeit  <br>HOCH  <br>(rpm) |
-| Ice Cream       | 60                               | 1200                                    | 35                            | 450                                  |
-| Gelato          | 60                               | 1200                                    | 35                            | 450                                  |
-| Milchshake      | 60                               | 1790                                    | 35                            | 450                                  |
-| Sorbet          | 105                              | 1790                                    | 35                            | 450                                  |
-| Light Ice Cream | 105                              | 1790                                    | 40                            | 1790                                 |
-| Smoothie Bowl   | 105                              | 1790                                    | 40                            | 1790                                 |
-| + Extra         | 30                               | 450                                     | 35                            | 450                                  |
-| Re-Spin         | 30                               | 1200                                    | 35                            | 1200                                 |
-| START/PARK Zeit | -8                               |                                         | -5                            |                                      |
+| Ninja CREAMi NC300 |                                  |                                         |                               |                                      |
+| ------------------ | -------------------------------- | --------------------------------------- | ----------------------------- | ------------------------------------ |
+| Programm           | Dauer  <br>ABWÄRTS  <br>(in sec) | Geschwindigkeit  <br>ABWÄRTS  <br>(rpm) | Dauer  <br>HOCH  <br>(in sec) | Geschwindigkeit  <br>HOCH  <br>(rpm) |
+| Ice Cream          | 60                               | 1200                                    | 35                            | 450                                  |
+| Gelato             | 60                               | 1200                                    | 35                            | 450                                  |
+| Milchshake         | 60                               | 1790                                    | 35                            | 450                                  |
+| Sorbet             | 105                              | 1790                                    | 35                            | 450                                  |
+| Light Ice Cream    | 105                              | 1790                                    | 40                            | 1790                                 |
+| Smoothie Bowl      | 105                              | 1790                                    | 40                            | 1790                                 |
+| + Extra            | 30                               | 450                                     | 35                            | 450                                  |
+| Re-Spin            | 30                               | 1200                                    | 35                            | 1200                                 |
+| START/PARK Zeit    | -8                               |                                         | -5                            |                                      |
 
 2. As I understand from Ninja demonstrations. **The different settings generally relate to fat content. The higher the content the shorter the time.** Non-fatty ice creams (lite), yoghurt, and sorbet have low to zero fat and thus run longer due to a harder icier block. The rpm I believe is the same it's just how quick it's pushed through. Thus a slow process like for sorbet shaves it a bit finer. I tend to run everything on the longer times on the first pass no matter the mix. Then maybe the shorter ones on second eat, once I know how loose the consistency is. Hope that helps.^[https://www.reddit.com/r/icecreamery/comments/v5tmqy/comment/lkodmj7/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button]
 3. ChatGPT: **Key Differences in Settings**:
@@ -42,7 +42,8 @@ https://www.grillsportverein.de/forum/threads/ninja-creami-eine-pacojet-alternat
 	   
 	   So to start, I'd suggest adding a "solid" of your choice and a heaping spoon of an instant pudding, blend well and try again. You can get MUCH fancier with more exotic ingredients if you want (I have) but that would be a simple and cheap place to start.
 
-# recipes
+
+# Super Premium Ice Cream
 ## Black Forest gateau
 *Zondag 23/3/2025*
 1. 30 g Grothe pure chocolade gesmolten
@@ -57,7 +58,26 @@ Apart van tevoren mixen
 
 Terug in de vriezer voor ~30–60 min. na het mixen in de Ninja CREAMi voor betere textuur
 
-## frozen Oreos
-1. remove the Oreo fillings > freeze with some milk
-2. store the cookies somewhere
-3. add the icecream Ore fillings in between the cookies later on
+## Frisse Lente thee (Simon Levelt)
+Ingrediënten:
+- 300 ml volle melk
+- 52 g suiker
+- 7,5 g inuline (ongeveer 1,5 tl)
+- 0,22 g xanthaangom (ongeveer 1/12 tl of een klein mespuntje)
+- 7,5 g Frisse Lente thee (ongeveer 3,75 tl)
+- Snufje zout (ongeveer 1/12 tl, of ±0,2 g)  
+
+Bereidingswijze:
+1. Thee-infusie maken
+- Verwarm de melk tot ongeveer 80°C (niet laten koken).
+- Voeg de Frisse Lente thee toe en laat 20-30 minuten trekken.
+- Zeef de thee en druk de blaadjes goed uit.  
+2. Mengen van de basis
+- Meng de suiker, inuline, xanthaangom en zout in een kleine kom.
+- Voeg dit mengsel al roerend toe aan de warme thee-infusie.
+- Mix met een staafmixer of garde tot alles volledig is opgelost.  
+3. Koelen en invriezen
+- Laat het mengsel minstens 4 uur in de koelkast afkoelen.
+- Giet het in een Ninja CREAMi-container en vries 24 uur in.
+4. Draaien in de Ninja CREAMi
+- Gebruik de "Ice Cream" stand.
