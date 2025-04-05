@@ -90,3 +90,12 @@ Koelen en invriezen
 
 Draaien in de Ninja CREAMi
 - Gebruik de "Ice Cream" stand.
+
+## Witte Chocolade-IJs
+Ingrediënten:
+- 250 ml volle melk
+- 30 g gezouten roomboter
+- 80 g witte chocolade (min. 30% cacaoboter)
+- 15 g inuline
+- 0,2 g xanthaangom (ongeveer een mespuntje)
+- Mespuntje zout
