@@ -1,3 +1,4 @@
+1. [Ninja CREAMi: Pacojet Killer?](https://www.youtube.com/watch?v=HCJsaPefl1c) | pretty much identical
 # functions (NC300)
 1. **Ice Cream** – use this to turn dairy and dairy-alternative recipes into an indulgent, creamy, scoopable dessert.
 2. **Sorbet** – best used for [[fruit]]-based recipes with high [[water]] and [[sugar]] content.
