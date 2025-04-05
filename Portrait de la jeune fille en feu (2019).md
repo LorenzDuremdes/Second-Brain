@@ -24,5 +24,6 @@
 	1. holding hands at 4:00
 
 # related
-1. [[anticipatory nostalgia]]
-2. [[rückkehrunruhe]]
+1. [[Eternal Sunshine of the Spotless Mind (2004)]]
+2. [[anticipatory nostalgia]]
+3. [[rückkehrunruhe]]
