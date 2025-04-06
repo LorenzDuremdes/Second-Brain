@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Häagen-Dazs.md",
+                "file": "recepten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Häagen-Dazs"
+              "title": "recepten"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Häagen-Dazs.md",
+                "file": "recepten.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Häagen-Dazs"
+              "title": "Outgoing links from recepten"
             }
           },
           {
@@ -127,17 +127,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Häagen-Dazs.md",
+                "file": "recepten.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Häagen-Dazs"
+              "title": "Outline of recepten"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -154,10 +154,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "36ec44c3027e09cc",
+  "active": "05b317b79e347fd9",
   "lastOpenFiles": [
-    "A Ghost Story (2017).md",
     "Häagen-Dazs.md",
+    "A Ghost Story (2017).md",
     "Eternal Sunshine of the Spotless Mind (2004).md",
     "Portrait de la jeune fille en feu (2019).md",
     "Boiling Point (2021).md",

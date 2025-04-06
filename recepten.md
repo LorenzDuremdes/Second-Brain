@@ -69,6 +69,9 @@
 ## [Applesauce](https://www.seriouseats.com/sweetened-spiced-applesauce-recipe)
 ![image](https://www.seriouseats.com/thmb/zXoxa_PgBaPAJzf9TIndCcJ90Wc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2017__11__20171019-apple-sauce-vicky-wasik-13-882419f2e13d4ed193b5d1f8512b5609.jpg)
 
+## [Dill Pickle Chips](https://www.seriouseats.com/quick-dill-pickle-chips-recipe)
+![image](https://www.seriouseats.com/thmb/GyBZf--DNqZx7-cRyAibFTyOSRE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2016__09__20160913-quick-dill-pickle--2db2820742bc4efc843a43661514483f.jpg)
+
 ## [Melted Cabbage](https://www.seriouseats.com/melting-cabbage-recipe-11682376)
 ![image](https://www.seriouseats.com/thmb/TMyiL12b_8sRwS7epUVdajmDU2w=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250213-SEA-MeltingCabbage-JenCausey-Beauty1-72-5edf1c4a147345ea958a83847aaa12cb.jpg)
 
