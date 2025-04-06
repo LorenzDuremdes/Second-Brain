@@ -111,4 +111,4 @@ Ingrediënten:
 - 0,2 g xanthaangom (ongeveer een mespuntje)
 - Mespuntje zout
 
-Wellicht 2x Re-spin (romiger) voordat het in de vriezer voor ~15 min. gaat.
+~15 min. in vriezer (en anders Re-spin)
