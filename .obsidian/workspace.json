@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ice cream.md",
+                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ice cream"
+              "title": "Ninja CREAMi Ice Cream & Frozen Dessert Maker"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ice cream.md",
+                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ice cream"
+              "title": "Outgoing links from Ninja CREAMi Ice Cream & Frozen Dessert Maker"
             }
           },
           {
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ice cream.md",
+                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ice cream"
+              "title": "Outline of Ninja CREAMi Ice Cream & Frozen Dessert Maker"
             }
           }
         ],
@@ -156,14 +156,14 @@
   },
   "active": "7165be2d3e3ef1cc",
   "lastOpenFiles": [
+    "ice cream.md",
+    "Ninja CREAMi Ice Cream & Frozen Dessert Maker.md",
     "Häagen-Dazs.md",
     "recepten.md",
     "A Ghost Story (2017).md",
     "Eternal Sunshine of the Spotless Mind (2004).md",
     "Portrait de la jeune fille en feu (2019).md",
     "Boiling Point (2021).md",
-    "Ninja CREAMi Ice Cream & Frozen Dessert Maker.md",
-    "ice cream.md",
     "galette des rois.md",
     "smoke point.md",
     "frangipane.md",

@@ -42,9 +42,20 @@ https://www.grillsportverein.de/forum/threads/ninja-creami-eine-pacojet-alternat
 	   Thickeners bind you water up so the formation of ice crystals is much harder. There are a range of things that do this: Cornstarch (if you heat it!) modified cornstarch (which works with cold liquids), xanthan/guar gum (and a bunch of more esoteric things). The reason people tend to use Instant pudding mix (not regular!) is that it contains modified cornstarch so mixes and thickens the cold base easily. It also includes [[maltodextrin]] (which bulks things up and lowers the freezing point) and some small amount of gums. It's kind of a "total package' that is inexpensive. It also adds [[flavor]] and [[sweetness]].
 	   
 	   So to start, I'd suggest adding a "solid" of your choice and a heaping spoon of an instant pudding, blend well and try again. You can get MUCH fancier with more exotic ingredients if you want (I have) but that would be a simple and cheap place to start.
+2. **ChatGPT**
+Als je ijs uit de **Ninja CREAMi** te zacht of licht korrelig vindt en je een meer **supermarkt-achtige textuur** wilt, dan helpt het om het na het draaien terug in de vriezer te zetten.
 
+**Aanbevolen tijd:**  
+🔹 **30-60 minuten** → Voor een steviger, maar nog steeds schepbaar ijs (**romig**)  
+🔹 **2-3 uur** → Voor een steviger ijs dat dichter bij winkelijs komt.  
+🔹 **Overnacht** → Als je een compleet vaste consistentie wilt (maar mogelijk opnieuw moet "re-spin'en" voor schepbaarheid).
+
+**Extra tip:**
+- **Roer of druk het ijs** na het mixen even glad voordat je het terugzet, zodat er minder luchtbellen of kristallen ontstaan.
+- **Gebruik een luchtdichte bak** als je het overzet naar een andere container voor een gladder resultaat.
 
 # Super Premium Ice Cream
+
 ## Black Forest gateau
 *Zondag 23/3/2025*
 1. 30 g Grothe pure chocolade gesmolten
