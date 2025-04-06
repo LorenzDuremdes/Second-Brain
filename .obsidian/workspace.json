@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recepten.md",
+                "file": "ice cream.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "recepten"
+              "title": "ice cream"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "recepten.md",
+                "file": "ice cream.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from recepten"
+              "title": "Outgoing links from ice cream"
             }
           },
           {
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "recepten.md",
+                "file": "ice cream.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of recepten"
+              "title": "Outline of ice cream"
             }
           }
         ],
@@ -154,16 +154,16 @@
       "random-note:Open random note": false
     }
   },
-  "active": "05b317b79e347fd9",
+  "active": "7165be2d3e3ef1cc",
   "lastOpenFiles": [
     "Häagen-Dazs.md",
+    "recepten.md",
     "A Ghost Story (2017).md",
     "Eternal Sunshine of the Spotless Mind (2004).md",
     "Portrait de la jeune fille en feu (2019).md",
     "Boiling Point (2021).md",
     "Ninja CREAMi Ice Cream & Frozen Dessert Maker.md",
     "ice cream.md",
-    "recepten.md",
     "galette des rois.md",
     "smoke point.md",
     "frangipane.md",
