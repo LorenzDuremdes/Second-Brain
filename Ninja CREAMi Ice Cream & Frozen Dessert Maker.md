@@ -110,3 +110,5 @@ Ingrediënten:
 - 15 g inuline
 - 0,2 g xanthaangom (ongeveer een mespuntje)
 - Mespuntje zout
+
+Wellicht 2x Re-spin (romiger) voordat het in de vriezer voor ~15 min. gaat.
