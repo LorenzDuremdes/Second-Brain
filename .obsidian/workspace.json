@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8e8c47de420c41f7",
+            "id": "7165be2d3e3ef1cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Ghost Story (2017).md",
+                "file": "Häagen-Dazs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Ghost Story (2017)"
+              "title": "Häagen-Dazs"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Ghost Story (2017).md",
+                "file": "Häagen-Dazs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from A Ghost Story (2017)"
+              "title": "Outgoing links from Häagen-Dazs"
             }
           },
           {
@@ -127,17 +127,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Ghost Story (2017).md",
+                "file": "Häagen-Dazs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of A Ghost Story (2017)"
+              "title": "Outline of Häagen-Dazs"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,10 +154,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "8e8c47de420c41f7",
+  "active": "36ec44c3027e09cc",
   "lastOpenFiles": [
-    "Eternal Sunshine of the Spotless Mind (2004).md",
     "A Ghost Story (2017).md",
+    "Häagen-Dazs.md",
+    "Eternal Sunshine of the Spotless Mind (2004).md",
     "Portrait de la jeune fille en feu (2019).md",
     "Boiling Point (2021).md",
     "Ninja CREAMi Ice Cream & Frozen Dessert Maker.md",
@@ -181,7 +182,6 @@
     "Wagyu.md",
     "intramuscular fat.md",
     "larding.md",
-    "roasting.md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",

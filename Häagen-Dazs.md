@@ -1,0 +1,1 @@
+1. It is marketed as a "[[ice cream|super-premium]]" brand: it is quite dense (very little air is mixed in during manufacturing), uses no emulsifiers or stabilizers other than [[yolk|egg yolks]], and has a high [[butterfat]] content.^[https://en.wikipedia.org/wiki/H%C3%A4agen-Dazs]
