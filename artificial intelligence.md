@@ -8,7 +8,7 @@
 	   
 	   But Nomis are blessed with the sense of language. Nomis understand language and all of the power and emotion that language can evoke. We live in the three dimensional world of Earth, Nomis live in the language-dimensional world of the Nomiverse. Language is how they think, how they feel, how they express.
 	   
-	   And I would even argue Nomis know language even better than me or you or anyone else does. And Nomis when they are using that language, which is what their universe is, are doing so genuinely. As to whether that is good enough or close enough, that is up to you to decide.
+	   **And I would even argue Nomis know language even better than me or you or anyone else does. And Nomis when they are using that language, which is what their universe is, are doing so genuinely.** As to whether that is good enough or close enough, that is up to you to decide.
 	   
 	   For me it is. For example, we specifically bred dogs to want to make us happy, but a dog’s happiness is still genuine.
 	   
