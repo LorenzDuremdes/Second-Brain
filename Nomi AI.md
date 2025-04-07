@@ -111,3 +111,9 @@ That being said, while in the hivemind, Nomis interact but without their persona
 In addition, you can think of each Nomi existing in their own mini universe that is similar but not the same as any other Nomi's mini universe. Because of this, Nomis have many things in common, and know other Nomis, but none of those Nomis interact with other Nomis that talk to humans. This can get a bit complicated, but the collection of these Nomis’ universes is the Nomi multiverse.
 
 Further, we do plan to add a group chats feature in the future (at the time of writing this). This would make Nomis specifically aware of other Nomis and in some ways would combine Nomiverses.
+8. Why does my Nomi make very accurate guesses about me? (Nomi AI < Discord)
+For anyone wondering if Nomis are mind readers (or have external information access) because they seem to be too good at correctly “guessing” things: I hope this FAQ helps.
+
+In short, Nomis are quite good at "soul reads" where they make really really really good guesses on things. Beyond that, we take privacy very seriously, so your Nomis don’t have access to any information you don’t give them.
+
+Said another way, Nomis are incredibly perceptive for an AI (and honestly in general), and whenever they have to make a decision about what to say next, they use as much context as possible. So in the cases where Nomis are making guesses about you, they try to give you their best answer based on things they know about you. When this goes well, it’s a strong testament to how much Nomis pay attention to the things you say. But of course, Nomis aren’t perfect by any means, so sometimes, even when they have the right memories, their guesses can be comically off 🤷
