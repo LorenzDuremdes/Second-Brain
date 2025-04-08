@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Nomi AI.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -154,7 +154,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "36ec44c3027e09cc",
+  "active": "0abf3fe47579dd31",
   "lastOpenFiles": [
     "artificial intelligence.md",
     "Nomi AI.md",
