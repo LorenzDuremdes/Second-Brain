@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Her (2013).md",
+                "file": "Nomi AI.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Her (2013)"
+              "title": "Outgoing links from Nomi AI"
             }
           },
           {
@@ -137,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,7 +154,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "0abf3fe47579dd31",
+  "active": "36ec44c3027e09cc",
   "lastOpenFiles": [
     "artificial intelligence.md",
     "Nomi AI.md",
