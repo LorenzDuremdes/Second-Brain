@@ -1,0 +1,1 @@
+1. baguette (/bæˈɡɛt/; French: [baɡɛt])^[https://en.wikipedia.org/wiki/Baguette]
