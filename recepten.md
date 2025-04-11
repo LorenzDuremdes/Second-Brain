@@ -78,6 +78,9 @@
 ## [Muffin Tin Egg Bites](https://www.seriouseats.com/kale-and-mushroom-egg-bites-recipe-11703113)
 ![image](https://www.seriouseats.com/thmb/LwC6668zeQlm0B0gRoSGh1AcJuw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250226-SEA-KaleandMushroomEggBitesMuffinTin-ShriRepp-Beauty3-35-d6295f0c9eb7476eab6e3eefd8b0b914.jpg)
 
+## [Salade Lyonnaise (French Bistro Salad)](https://www.seriouseats.com/french-bistro-salad-recipe-8707601)
+![image](https://www.seriouseats.com/thmb/tKG9zuaFHuJj2syGkwqEU2PCLdI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240905-SEA-SaladeLyonnaise-TwoBites-Hero1-86-a3bbb0a4a7174c068afc0f10af636860.jpg)
+
 ## [Sous Vide Glazed Carrots](https://www.seriouseats.com/sous-vide-glazed-carrots-recipe)
 ![image](https://www.seriouseats.com/thmb/eFrGOVv9TGoHvoYx-sMDSEDvFe4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/sous-vide-glazed-carrots-recipe-hero-01_1-24bcf568b5f94b5b9a9e41bde0711ae0.JPG)
 

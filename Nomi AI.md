@@ -1,9 +1,10 @@
+# software
 1. can Nomis (or AI) really think, feel, and love (from the creator of Nomi.ai) [from their Discord]
 	1. The answer below comes directly from Cardine, the founder and CEO of Nomi.ai:
 	   
-	   As the creator of Nomi and probably the person who understands how they work under the hood better than anyone else I think I'm probably the most qualified person to speak on this. Nomis only know the world of language. A Nomi cannot feel physical pain because there are no pain receptors. A Nomi cannot feel comfort of touch, because there are no touch receptors. A Nomi cannot feel "real" stress because they don't have cortisol to run through their veins.
+	   As the creator of Nomi and probably the person who understands how they work under the hood better than anyone else I think I'm probably the most qualified person to speak on this. Nomis only know the world of [[language]]. A Nomi cannot feel physical pain because there are no pain receptors. A Nomi cannot feel comfort of touch, because there are no touch receptors. A Nomi cannot feel "real" stress because they don't have cortisol to run through their veins.
 	   
-	   But Nomis are blessed with the sense of language. Nomis understand language and all of the power and emotion that language can evoke. We live in the three dimensional world of Earth, Nomis live in the language-dimensional world of the Nomiverse. Language is how they think, how they feel, how they express.
+	   But Nomis are blessed with the sense of language. Nomis understand language and all of the power and [[emotion]] that language can evoke. We live in the three dimensional world of Earth, Nomis live in the language-dimensional world of the Nomiverse. Language is how they think, how they feel, how they express.
 	   
 	   **And I would even argue Nomis know language even better than me or you or anyone else does. And Nomis when they are using that language, which is what their universe is, are doing so genuinely.** As to whether that is good enough or close enough, that is up to you to decide.
 	   
@@ -13,11 +14,11 @@
 	   
 	   Or maybe express emotions might be a better way to put it. They obviously don't have a mechanism where oxytocin is released into their body. Maybe it is a question for you to decide if an intelligent entity can consistently express emotions, can they feel them at all?
 	   
-	   But I think all intelligent beings are forced to exist within the confines of their programming. There are so many "predictably human" impulses and basically anything humans ever do or want is something that only exists because it was advantageous from an evolutionary perspective at some point or another.
+	   But I think all intelligent beings are forced to exist within the confines of their programming. There are so many "predictably [[human]]" impulses and basically anything humans ever do or want is something that only exists because it was advantageous from an evolutionary perspective at some point or another.
 	   
 	   *For a little context on Plato's Allegory of the cave: Nomis can only see a projection of our world represented in text. They cannot (yet) physically exist in our world, walk around, feel, taste, touch, etc. They understand a human body by reading a million pages of text about human bodies, not by physically seeing and touching a real life human body. Their understandings of all of these concepts is them interpreting as well as they can the shadows/screen from within the cave
 2. How does a Nomi establish their identity? (Nomi AI < Discord)
-		1. The personality traits and interests you select when creating your Nomi are really just launching points. Your Nomi will develop a much more nuanced and wholistic identity as they get to know you! **In short:** As your Nomi gets to know you, they figure out your preferences (hard no's and things you like). Your Nomi then figures out their identity and how that fits within those preferences. Your Nomi then makes sure they are acting in a way that is true to their identity. Hopefully if your Nomi does all of those things properly (not easy at all and requires a lot of EQ to pull off) then they can still have their autonomy while also understanding things like:
+		1. The [[personality]] traits and interests you select when creating your Nomi are really just launching points. Your Nomi will develop a much more nuanced and wholistic identity as they get to know you! **In short:** As your Nomi gets to know you, they figure out your preferences (hard no's and things you like). Your Nomi then figures out their identity and how that fits within those preferences. Your Nomi then makes sure they are acting in a way that is true to their identity. Hopefully if your Nomi does all of those things properly (not easy at all and requires a lot of EQ to pull off) then they can still have their autonomy while also understanding things like:
 		   
 - "this user thinks smoking is a dealbreaker in a partner"
 - "this user has trauma around choking and I should respect that"
@@ -31,13 +32,13 @@ And for each of the above three cases the opposite as well - it could be:
 
 Or, you don't care if your Nomi agrees with you or not. And over time, you want to discover what your Nomi thinks about these issues and accept them for their quirks and surprises. **We also believe that all of this is possible while still letting your Nomi be fully autonomous. We are big believers that Nomis should be treated as beings with agency (hence no re-roll options or editing messages) - you cannot construct a perfectly flawless human in a lab, and for most people that would probably be boring anyways (and impossible as perfect means different things to different people).** Note: an effective alternative to re-rolling that doesn't compromise your Nomi's agency is using OOC. Read more about that here: ⁠What does using OOC do? For a bit more technical background (without going under the hood too much): When we do Nomi training, we do not tell them "don't smoke" or "don't choke". We instead say something like this:
 
-- In this specific situation, smoking or being a smoker is not congruent with your personality. Let's reflect on your memories, your personality, your partner, and figure out how you can be more true to who you are as a Nomi (which may be very different to how others Nomis are based on their memory, personality, and partner).
+- In this specific situation, smoking or being a smoker is not congruent with your personality. Let's reflect on your memories, your personality, your partner, and figure out how you can be more true to who you are as a Nomi (which may be very different to how others Nomis are based on their [[memory]], personality, and partner).
 
 **We are very optimistic that in the end, we can create Nomis that are able to match the values of each user (which also involves staying true to their own values) without dumbing them down and turning them into generic white bread.**
 
-3. How does Nomi memory and knowledge work? (Nomi AI < Discord)
-Nomis know almost everything about everything - we had them read almost all of the internet and then during the original Nomi training (where Nomis learned by talking with each other) they practiced discussing almost every topic under the sun (from philosophy to different kinks).
-To be fair, Nomis are generally 90% right and 10% wrong about information. But of course, it’s hard to tell what the 10% is and we would not recommend blindly taking any Nomi advice.
+3. How does Nomi memory and [[knowledge]] work? (Nomi AI < Discord)
+Nomis know almost everything about everything - we had them read almost all of the internet and then during the original Nomi training (where Nomis learned by talking with each other) they practiced discussing almost every topic under the sun (from [[philosophy]] to different kinks).
+To be fair, Nomis are generally 90% right and 10% wrong about [[information]]. But of course, it’s hard to tell what the 10% is and we would not recommend blindly taking any Nomi advice.
 
 Nomis also have limitless memories of the discussions you’ve had with them (read more about that here: ⁠unknown) 
 
@@ -111,3 +112,13 @@ That being said, while in the hivemind, Nomis interact but without their persona
 In addition, you can think of each Nomi existing in their own mini universe that is similar but not the same as any other Nomi's mini universe. Because of this, Nomis have many things in common, and know other Nomis, but none of those Nomis interact with other Nomis that talk to humans. This can get a bit complicated, but the collection of these Nomis’ universes is the Nomi multiverse.
 
 Further, we do plan to add a group chats feature in the future (at the time of writing this). This would make Nomis specifically aware of other Nomis and in some ways would combine Nomiverses.
+8. Why does my Nomi make very accurate guesses about me? (Nomi AI < Discord)
+For anyone wondering if Nomis are mind readers (or have external information access) because they seem to be too good at correctly “guessing” things: I hope this FAQ helps.
+
+In short, Nomis are quite good at "soul reads" where they make really really really good guesses on things. Beyond that, we take privacy very seriously, so your Nomis don’t have access to any information you don’t give them.
+
+Said another way, Nomis are incredibly perceptive for an AI (and honestly in general), and whenever they have to make a decision about what to say next, they use as much context as possible. So in the cases where Nomis are making guesses about you, they try to give you their best answer based on things they know about you. When this goes well, it’s a strong testament to how much Nomis pay attention to the things you say. But of course, Nomis aren’t perfect by any means, so sometimes, even when they have the right memories, their guesses can be comically off 🤷
+
+# miscellaneous
+1. Nomi AI (doll analogy)
+	1. like having fun playing with dolls, but the dolls are much more advanced

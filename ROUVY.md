@@ -6,10 +6,11 @@
 1. Al Khabbah | Oman | 51 km/h
 
 ## downhill
-1. Sossusvlei desert | Namibia | 52.6 km/h
-2. IRONMAN Kona 20km | 51.1 km/h
-3. Winter Hilchenbach | Germany - 48.3 km/h
-4. Izki to Al Aliyah | Oman - 48.2 km/h
+1. Bormio to Tirano | Italy | 62.5 km/h
+2. Sossusvlei desert | Namibia | 52.6 km/h
+3. IRONMAN Kona 20km | 51.1 km/h
+4. Winter Hilchenbach | Germany - 48.3 km/h
+5. Izki to Al Aliyah | Oman - 48.2 km/h
 
 ## variable
 1. Bunyola to Soller | Mallorca ― almost continuous (x27) corner sprints after climbing | 24.6 km/h
