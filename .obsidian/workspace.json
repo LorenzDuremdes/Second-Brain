@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecithin.md",
+                "file": "homogenization (chemistry).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecithin"
+              "title": "homogenization (chemistry)"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lecithin.md",
+                "file": "homogenization (chemistry).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from lecithin"
+              "title": "Outgoing links from homogenization (chemistry)"
             }
           },
           {
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lecithin.md",
+                "file": "homogenization (chemistry).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of lecithin"
+              "title": "Outline of homogenization (chemistry)"
             }
           }
         ],
@@ -156,7 +156,9 @@
   },
   "active": "1b7182c2f7caf56d",
   "lastOpenFiles": [
+    "solubility.md",
     "homogenization (chemistry).md",
+    "mixture.md",
     "lecithin.md",
     "lipophilicity.md",
     "hydrophile.md",
@@ -180,8 +182,6 @@
     "Ninja CREAMi Ice Cream & Frozen Dessert Maker.md",
     "ice cream.md",
     "Häagen-Dazs.md",
-    "recepten.md",
-    "A Ghost Story (2017).md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",

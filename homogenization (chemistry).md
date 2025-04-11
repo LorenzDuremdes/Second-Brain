@@ -1,0 +1,5 @@
+1. homogenization ([[chemistry]]); any of several processes used to make a [[mixture]] of two mutually [[solubility|non-soluble liquids]] the same throughout. This is achieved by turning one of the liquids into a state consisting of extremely small particles distributed uniformly throughout the other [[liquid]]
+   
+   [[Milk]] homogenization is accomplished by mixing large amounts of harvested milk, then forcing the milk at high pressure through small holes. Milk homogenization is an essential tool of the milk [[food]] industry to produce consistent levels of [[flavor]] and [[fat]] concentration.
+   
+   Another application of homogenization is in soft drinks like cola products. The reactant mixture is rendered to intense homogenization, to as much as 35,000 psi, so that various constituents do not separate out during storage or distribution.^[https://en.wikipedia.org/wiki/Homogenization_(chemistry)]
