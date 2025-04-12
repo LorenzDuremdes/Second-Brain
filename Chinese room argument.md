@@ -1,0 +1,1 @@
+1. Chinese room argument; holds that a computer executing a [[computer program|program]] cannot have a [[mind]], [[understanding]], or [[consciousness]], regardless of how intelligently or human-like the program may make the computer behave^[https://en.wikipedia.org/wiki/Chinese_room]
