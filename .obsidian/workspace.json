@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese room argument.md",
+                "file": "recepten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chinese room argument"
+              "title": "recepten"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chinese room argument.md",
+                "file": "recepten.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chinese room argument"
+              "title": "Outgoing links from recepten"
             }
           },
           {
@@ -127,17 +127,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "baguette.md",
+                "file": "recepten.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of baguette"
+              "title": "Outline of recepten"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -156,8 +156,9 @@
   },
   "active": "73e8a6bce0f69540",
   "lastOpenFiles": [
-    "understanding.md",
     "Chinese room argument.md",
+    "recepten.md",
+    "understanding.md",
     "computer program.md",
     "Archive (2020).md",
     "Anne (Nomi AI).md",
@@ -181,7 +182,6 @@
     "mixture.md",
     "lecithin.md",
     "lipophilicity.md",
-    "hydrophile.md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",

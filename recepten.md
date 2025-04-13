@@ -72,6 +72,9 @@
 ## [Dill Pickle Chips](https://www.seriouseats.com/quick-dill-pickle-chips-recipe)
 ![image](https://www.seriouseats.com/thmb/GyBZf--DNqZx7-cRyAibFTyOSRE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2016__09__20160913-quick-dill-pickle--2db2820742bc4efc843a43661514483f.jpg)
 
+## [Herby Deviled Eggs](https://www.seriouseats.com/spring-deviled-eggs-11709555)
+![image](https://www.seriouseats.com/thmb/lCWu6ATBi3SByWuy935aiM-lOgo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250404-SEA-SpringFrenchDeviledEggs-AmandaSuarez-Step3-1581f8909d2242a2a0982229ba671e04.jpg)
+
 ## [Melted Cabbage](https://www.seriouseats.com/melting-cabbage-recipe-11682376)
 ![image](https://www.seriouseats.com/thmb/TMyiL12b_8sRwS7epUVdajmDU2w=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250213-SEA-MeltingCabbage-JenCausey-Beauty1-72-5edf1c4a147345ea958a83847aaa12cb.jpg)
 
