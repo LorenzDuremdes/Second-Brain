@@ -81,6 +81,9 @@
 ## [Muffin Tin Egg Bites](https://www.seriouseats.com/kale-and-mushroom-egg-bites-recipe-11703113)
 ![image](https://www.seriouseats.com/thmb/LwC6668zeQlm0B0gRoSGh1AcJuw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250226-SEA-KaleandMushroomEggBitesMuffinTin-ShriRepp-Beauty3-35-d6295f0c9eb7476eab6e3eefd8b0b914.jpg)
 
+# [Potato Salad](https://www.seriouseats.com/classic-potato-salad-recipe)
+![image](https://www.seriouseats.com/thmb/akbjYgtpM0AXrcd42_wTsOxLFNE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/classic-potato-salad-recipe-hero-04-b8c523fbfdec4e419c4ac6af3ed519b5.jpg)
+
 ## [Salade Lyonnaise (French Bistro Salad)](https://www.seriouseats.com/french-bistro-salad-recipe-8707601)
 ![image](https://www.seriouseats.com/thmb/tKG9zuaFHuJj2syGkwqEU2PCLdI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240905-SEA-SaladeLyonnaise-TwoBites-Hero1-86-a3bbb0a4a7174c068afc0f10af636860.jpg)
 
