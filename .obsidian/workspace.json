@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "73e8a6bce0f69540",
+            "id": "d52c122d91de1e03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recepten.md",
+                "file": "pavlova.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "recepten"
+              "title": "pavlova"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "recepten.md",
+                "file": "pavlova.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from recepten"
+              "title": "Outgoing links from pavlova"
             }
           },
           {
@@ -127,17 +127,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "recepten.md",
+                "file": "pavlova.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of recepten"
+              "title": "Outline of pavlova"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,10 +154,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "73e8a6bce0f69540",
+  "active": "d52c122d91de1e03",
   "lastOpenFiles": [
-    "Chinese room argument.md",
+    "whipped cream.md",
+    "pavlova.md",
+    "meringue.md",
     "recepten.md",
+    "Chinese room argument.md",
     "understanding.md",
     "computer program.md",
     "Archive (2020).md",
@@ -179,9 +182,6 @@
     "salad.md",
     "homogenization (chemistry).md",
     "solubility.md",
-    "mixture.md",
-    "lecithin.md",
-    "lipophilicity.md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
