@@ -1,0 +1,5 @@
+1. laminated [[dough]]; a [[food preparation|culinary preparation]] consisting of many thin layers of dough separated by [[butter]] or other solid [[fat]], produced by repeated folding and rolling^[https://en.wikipedia.org/wiki/Laminated_dough]
+   
+   Puff [[pastry]], a type of laminated dough, prior to [[baking]]^[By Popo le Chien - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=38271725]
+   ![image](https://upload.wikimedia.org/wikipedia/commons/9/90/Pate_feuilletee_2.jpg)
+2. Classic puff pastry, when turned six times, will have precisely 730 layers of dough separated by 729 layers of butter! Upon entering a hot oven, each one of those distinct layers of butter will turn to steam, creating 730 layers of flakes. It’s crucial, when making laminated doughs, that the fat and workspace remain cold so the butter does not melt, though the butter must be soft enough to roll into a slab.^[Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking (Samin Nosrat), p. 129]

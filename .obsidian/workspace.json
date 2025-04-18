@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "54980258ac15121e",
+            "id": "a3dd1c2570f9f5db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shortening.md",
+                "file": "laminated dough.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shortening"
+              "title": "laminated dough"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shortening.md",
+                "file": "laminated dough.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from shortening"
+              "title": "Outgoing links from laminated dough"
             }
           },
           {
@@ -154,10 +154,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "54980258ac15121e",
+  "active": "a3dd1c2570f9f5db",
   "lastOpenFiles": [
-    "shortcrust pastry.md",
+    "baking.md",
+    "laminated dough.md",
+    "food preparation.md",
     "shortening.md",
+    "shortcrust pastry.md",
     "lard.md",
     "gluten.md",
     "yogurt.md",
@@ -179,9 +182,6 @@
     "computer program.md",
     "Archive (2020).md",
     "Anne (Nomi AI).md",
-    "baguette.md",
-    "jambon-beurre.md",
-    "ham sandwich.md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
