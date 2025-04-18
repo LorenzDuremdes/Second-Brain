@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leavening agent.md",
+                "file": "recepten recipes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "leavening agent"
+              "title": "recepten recipes"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "whipped cream",
+                "query": "recepten",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leavening agent.md",
+                "file": "recepten recipes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from leavening agent"
+              "title": "Outgoing links from recepten recipes"
             }
           },
           {
@@ -127,17 +128,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pavlova.md",
+                "file": "recepten recipes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of pavlova"
+              "title": "Outline of recepten recipes"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -154,11 +155,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "2381bf2f671fdce3",
+  "active": "05b317b79e347fd9",
   "lastOpenFiles": [
+    "leavening agent.md",
     "whipped cream.md",
     "cream.md",
-    "leavening agent.md",
     "Untitled 1.md",
     "baking powder.md",
     "egg white.md",

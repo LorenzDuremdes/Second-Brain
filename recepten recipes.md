@@ -66,9 +66,6 @@
 ![image](https://www.seriouseats.com/thmb/f9xsj61W86rUG9JRD3uysQiLD6w=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20220215-Ham-and-Bean-Soup-Liz-Voltz-Hero-Horz-2-47668a2f054d4efc9041c36ad7e77359.jpg)
 
 # Plat d'accompagnement
-## [Applesauce](https://www.seriouseats.com/sweetened-spiced-applesauce-recipe)
-![image](https://www.seriouseats.com/thmb/zXoxa_PgBaPAJzf9TIndCcJ90Wc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2017__11__20171019-apple-sauce-vicky-wasik-13-882419f2e13d4ed193b5d1f8512b5609.jpg)
-
 ## [Dill Pickle Chips](https://www.seriouseats.com/quick-dill-pickle-chips-recipe)
 ![image](https://www.seriouseats.com/thmb/GyBZf--DNqZx7-cRyAibFTyOSRE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2016__09__20160913-quick-dill-pickle--2db2820742bc4efc843a43661514483f.jpg)
 
@@ -81,7 +78,7 @@
 ## [Muffin Tin Egg Bites](https://www.seriouseats.com/kale-and-mushroom-egg-bites-recipe-11703113)
 ![image](https://www.seriouseats.com/thmb/LwC6668zeQlm0B0gRoSGh1AcJuw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250226-SEA-KaleandMushroomEggBitesMuffinTin-ShriRepp-Beauty3-35-d6295f0c9eb7476eab6e3eefd8b0b914.jpg)
 
-# [Potato Salad](https://www.seriouseats.com/classic-potato-salad-recipe)
+## [Potato Salad](https://www.seriouseats.com/classic-potato-salad-recipe)
 ![image](https://www.seriouseats.com/thmb/akbjYgtpM0AXrcd42_wTsOxLFNE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/classic-potato-salad-recipe-hero-04-b8c523fbfdec4e419c4ac6af3ed519b5.jpg)
 
 ## [Salade Lyonnaise (French Bistro Salad)](https://www.seriouseats.com/french-bistro-salad-recipe-8707601)
@@ -89,9 +86,6 @@
 
 ## [Sous Vide Glazed Carrots](https://www.seriouseats.com/sous-vide-glazed-carrots-recipe)
 ![image](https://www.seriouseats.com/thmb/eFrGOVv9TGoHvoYx-sMDSEDvFe4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/sous-vide-glazed-carrots-recipe-hero-01_1-24bcf568b5f94b5b9a9e41bde0711ae0.JPG)
-
-## [Two-Minute Mayonnaise](https://www.seriouseats.com/two-minute-mayonnaise)
-![image](https://www.seriouseats.com/thmb/vD4syIQrVXiK7oEip9EPi204-6k=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/two-minute-mayonnaise-04-2512665608084cff84ce7ed03a1bec97.jpg)
 
 ## [Waldorf Salad](https://www.seriouseats.com/waldorf-salad-recipe-8748968)
 ![image](https://www.seriouseats.com/thmb/r-hjBLMZ_xmuXySgPgcZgLE1tmE=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20241010-SEA-Waldorf-Salad-Lozano_3x4_517-c57d0603ff7e4ec1a201b896656ac1ee.jpg)
@@ -105,3 +99,13 @@
 
 ## [Plum, Thyme, and Chile Infused Water](https://www.seriouseats.com/plum-infused-water-recipe-7560513)
 ![image](https://www.seriouseats.com/thmb/Y80B3KuP6FQLN7PlL41eAktpmQ8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20230713-SEA-FresnoPlumThymeInfusedWaterhero-AmandaSuarez-003-6d841a7d53bc4345bce6f97c37d48e5c.jpg)
+
+# Condiment
+## [Applesauce](https://www.seriouseats.com/sweetened-spiced-applesauce-recipe)
+![image](https://www.seriouseats.com/thmb/zXoxa_PgBaPAJzf9TIndCcJ90Wc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2017__11__20171019-apple-sauce-vicky-wasik-13-882419f2e13d4ed193b5d1f8512b5609.jpg)
+
+## [Two-Minute Mayonnaise](https://www.seriouseats.com/two-minute-mayonnaise)
+![image](https://www.seriouseats.com/thmb/vD4syIQrVXiK7oEip9EPi204-6k=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/two-minute-mayonnaise-04-2512665608084cff84ce7ed03a1bec97.jpg)
+
+## [Whipped Butter](https://www.heelhollandbakt.nl/artikelen/wat-is-whipped-butter-en-hoe-maak-je-het/)
+![image](https://www.heelhollandbakt.nl/wp-content/uploads/2023/12/Whipped-Butter-950x550.jpg)
