@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bread.md",
+                "file": "gluten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bread"
+              "title": "gluten"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gluten",
+                "query": "isserie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bread.md",
+                "file": "gluten.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from bread"
+              "title": "Outgoing links from gluten"
             }
           },
           {
@@ -156,9 +156,11 @@
   },
   "active": "d2744d3fb9b03257",
   "lastOpenFiles": [
-    "dough.md",
-    "bread.md",
+    "yogurt.md",
     "gluten.md",
+    "buttermilk.md",
+    "bread.md",
+    "dough.md",
     "glutenin.md",
     "gliadin.md",
     "emulsion.md",
@@ -180,8 +182,6 @@
     "ladle (spoon).md",
     "stew.md",
     "soup.md",
-    "salade niçoise.md",
-    "Gordon Ramsay.md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
