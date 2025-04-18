@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leavening agent.md",
+                "file": "whipped cream.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "leavening agent"
+              "title": "whipped cream"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "isserie",
+                "query": "whipped cream",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leavening agent.md",
+                "file": "whipped cream.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from leavening agent"
+              "title": "Outgoing links from whipped cream"
             }
           },
           {
@@ -156,8 +157,11 @@
   },
   "active": "2381bf2f671fdce3",
   "lastOpenFiles": [
-    "baking powder.md",
+    "cream.md",
+    "whipped cream.md",
     "leavening agent.md",
+    "Untitled 1.md",
+    "baking powder.md",
     "egg white.md",
     "whisk.md",
     "batter (cooking).md",
@@ -179,9 +183,6 @@
     "sauce hollandaise.md",
     "Requiem for a Dream (2000).md",
     "pavlova.md",
-    "whipped cream.md",
-    "meringue.md",
-    "recepten.md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",

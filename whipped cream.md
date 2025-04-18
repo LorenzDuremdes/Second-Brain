@@ -1,0 +1,4 @@
+# recipes
+1. Slagroom wordt meestal gezoet voor het kloppen. Per liter room wordt er dan 60 tot 80 gram fijne kristalsuiker of witte basterdsuiker toegevoegd. De room wordt echter beter en luchtiger als de suiker pas tegen het eind wordt toegevoegd. Verder dient de slagroom goed gekoeld te zijn om hem goed stijf te kunnen kloppen. Om een optimaal en vast resultaat te krijgen, moet er geklopt worden tot de slagroom in de diepte enigszins geel begint te kleuren. Als er daarna verder wordt doorgeklopt wordt deze boterachtig en onsmakelijk. Als er te kort wordt geklopt, zakt de room snel uit. De volle, romige consistentie wordt dan niet bereikt.
+   
+   Met een garde geslagen room bevat meer luchtbellen van verschillende grootte, waardoor deze beter blijft staan. Met een elektrische mixer gaat het kloppen van slagroom makkelijker en sneller.^[https://nl.wikipedia.org/wiki/Slagroom]
