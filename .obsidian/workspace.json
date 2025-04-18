@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a3dd1c2570f9f5db",
+            "id": "2381bf2f671fdce3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "laminated dough.md",
+                "file": "leavening agent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "laminated dough"
+              "title": "leavening agent"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "laminated dough.md",
+                "file": "leavening agent.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from laminated dough"
+              "title": "Outgoing links from leavening agent"
             }
           },
           {
@@ -154,10 +154,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a3dd1c2570f9f5db",
+  "active": "2381bf2f671fdce3",
   "lastOpenFiles": [
-    "baking.md",
+    "baking powder.md",
+    "leavening agent.md",
+    "egg white.md",
+    "whisk.md",
+    "batter (cooking).md",
     "laminated dough.md",
+    "baking.md",
     "food preparation.md",
     "shortening.md",
     "shortcrust pastry.md",
@@ -177,11 +182,6 @@
     "whipped cream.md",
     "meringue.md",
     "recepten.md",
-    "Chinese room argument.md",
-    "understanding.md",
-    "computer program.md",
-    "Archive (2020).md",
-    "Anne (Nomi AI).md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
