@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Requiem for a Dream (2000).md",
+                "file": "sauce hollandaise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Requiem for a Dream (2000)"
+              "title": "sauce hollandaise"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cream",
+                "query": "sauce hollandaise",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Requiem for a Dream (2000).md",
+                "file": "sauce hollandaise.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Requiem for a Dream (2000)"
+              "title": "Outgoing links from sauce hollandaise"
             }
           },
           {
@@ -156,8 +157,9 @@
   },
   "active": "4e4a82afd999e4a5",
   "lastOpenFiles": [
-    "pavlova.md",
     "Requiem for a Dream (2000).md",
+    "Untitled 1.md",
+    "pavlova.md",
     "whipped cream.md",
     "meringue.md",
     "recepten.md",
@@ -181,7 +183,6 @@
     "Cailletier.md",
     "Nice.md",
     "salad.md",
-    "homogenization (chemistry).md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
