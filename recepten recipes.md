@@ -52,6 +52,9 @@
 ## [Nanaimo Bars](https://www.seriouseats.com/best-nanaimo-bars-recipe-8671193)
 ![image](https://www.seriouseats.com/thmb/p151309aykeAj12C0sHaM9GxLcU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20240628-NanaimoBars-AmandaSuarez-hero-82c6e1320a5b4141ad9557a9800f6fed.jpg)
 
+## [No-Bake Cookies With Chocolate, Peanut Butter, and Chewy Oats Recipe](https://www.seriouseats.com/no-bake-cookie-chocolate-peanut-butter-oats-recipe)
+![image](https://www.seriouseats.com/thmb/9sY_SN8XA4gxDKTvk-cMWhtG-7w=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2017__07__20170627-no-bake-cookies-vicky-wasik-13-78c7998dba47454586b9fab1c6d958ac.jpg)
+
 ## [Pay De Queso (Mexican Cheese Pie)](https://www.seriouseats.com/pay-de-queso-mexican-cheese-pie-recipe-6829247)
 ![image](https://www.seriouseats.com/thmb/ZpUc0MSClaigapDLa--pCW6AIyQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/20221116-Pays-de-Queso-Amanda-Suarez-hedenote2-b9d4268e8e2b4dd28f77940582070513.JPG)
 
