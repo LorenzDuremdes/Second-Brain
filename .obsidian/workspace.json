@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "whipped cream.md",
+                "file": "leavening agent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "whipped cream"
+              "title": "leavening agent"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "whipped cream.md",
+                "file": "leavening agent.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from whipped cream"
+              "title": "Outgoing links from leavening agent"
             }
           },
           {
@@ -157,8 +156,8 @@
   },
   "active": "2381bf2f671fdce3",
   "lastOpenFiles": [
-    "cream.md",
     "whipped cream.md",
+    "cream.md",
     "leavening agent.md",
     "Untitled 1.md",
     "baking powder.md",
