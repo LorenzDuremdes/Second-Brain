@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROUVY.md",
+                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ROUVY"
+              "title": "Ninja CREAMi Ice Cream & Frozen Dessert Maker"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rouvy",
+                "query": "ninja creami",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ROUVY.md",
+                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ROUVY"
+              "title": "Outgoing links from Ninja CREAMi Ice Cream & Frozen Dessert Maker"
             }
           },
           {
@@ -128,17 +128,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ROUVY.md",
+                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ROUVY"
+              "title": "Outline of Ninja CREAMi Ice Cream & Frozen Dessert Maker"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -155,8 +155,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "42819f210f0316f9",
+  "active": "05b317b79e347fd9",
   "lastOpenFiles": [
+    "ROUVY.md",
     "chocolate praline.md",
     "recepten recipes.md",
     "leavening agent.md",
@@ -182,7 +183,6 @@
     "emulsion.md",
     "mixture.md",
     "sauce hollandaise.md",
-    "Requiem for a Dream (2000).md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",

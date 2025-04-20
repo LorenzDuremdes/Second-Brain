@@ -54,7 +54,7 @@ Als je ijs uit de **Ninja CREAMi** te zacht of licht korrelig vindt en je een 
 - **Roer of druk het ijs** na het mixen even glad voordat je het terugzet, zodat er minder luchtbellen of kristallen ontstaan.
 - **Gebruik een luchtdichte bak** als je het overzet naar een andere container voor een gladder resultaat.
 
-# Super Premium Ice Cream
+# Recipes
 
 ## Black Forest gateau
 *Zondag 23/3/2025*
@@ -112,3 +112,16 @@ Ingrediënten:
 - Mespuntje zout
 
 ~15 min. in vriezer (en anders Re-spin)
+
+# miscellaneous
+1. Ninja CREAMi vs. ice cream machine
+	1. https://www.reddit.com/r/icecreamery/comments/16i6yuz/comparing_ice_cream_machine_vs_ninja_creami/
+	   
+	   The comparison you are missing is, precisely, the most important one: a well balanced ice cream recipe, formulated for the correct serving temperature for the Creami (around -10 to -12ºC), has almost perfect texture when processed with the Creami. Far better than what you get with a basic home churner, and with much less hassle to get it out of the churner and into the freezer as fast as humanly possible.
+	   
+	   People seem to be comparing perfectly balanced recipes for churners (because otherwise you just don’t get ice cream) with putting anything into the Creami, and that’s an unfair comparison. Creami can go well beyond the boundaries of what a churner can do, but it won’t get perfect texture out of whatever nonsense you put into it. And, sadly, many of the recipes in the Creami manual are plain bad. They seem to be there just because they’re easy, not for being good.
+	   
+	   Also, when you process a good, professionally formulated ice cream recipe into the Creami (typically using several sugars & stabilizers), then quickly refreeze leftovers, you don’t even need to reprocess it if you consume it in a few days, just put it into the fridge for 20-30 mins, exactly like you would do with traditionally churned ice cream . The stabilizers, proteins & sugars in the formula make their work.
+	   ―
+	   Of course it won’t compare it to the truly premium ice cream/gelato like what most people in this group are creating (it all looks delicious).
+	   >Yes, it totally compares and even beats it, if you use good ice cream recipes.
