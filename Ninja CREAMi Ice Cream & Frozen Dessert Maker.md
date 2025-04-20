@@ -56,62 +56,184 @@ Als je ijs uit de **Ninja CREAMi** te zacht of licht korrelig vindt en je een 
 
 # Recipes
 
-## Black Forest gateau
-*Zondag 23/3/2025*
+# Black Forest gateau
+
+Zondag 23/3/2025
+
 1. 30 g Grothe pure chocolade gesmolten
+    
 2. 350 ml warme magere melk
-3. 20 g honing
+    
+3. 20 g honing/suiker
+    
+4. Optioneel: Melkopschuimer (met re-spin voor dubbele smaak/textuur?)?
+    
 
 Apart van tevoren mixen
+
 1. 30 g Black Forest gateau eiwitpoeder
+    
 2. 12 g inuline
-3. 2 g zout 
+    
+3. 1 theelepel zout
+    
 4. 0.5 tl xanthaangom
+    
 
-Terug in de vriezer voor ~30–60 min. na het mixen in de Ninja CREAMi voor betere textuur
+## Black Forest gateau (Vetarm)
 
-## Frisse Lente thee (Simon Levelt)
+- 300 ml magere melk
+    
+- 50 g Black Forest gateau-poeder
+    
+- 10 g inuline
+    
+- 2 mespuntjes xanthaangom
+    
+- ¼ theelepel zout
+    
+- Zoetstof
+    
+- 1 theelepel citroensap
+    
+
+# Frisse Lente thee (Simon Levelt) [Super Premium]
+
 Ingrediënten (voor 300 ml basis)
+
 - 300 ml volle melk
+    
 - 15 g gezouten roomboter (gesmolten)
+    
 - 52 g suiker
+    
 - 9 g inuline (iets meer om de romigheid te ondersteunen)
+    
 - 0,25 g xanthaangom (klein mespuntje)
+    
 - 7,5 g Frisse Lente thee (ongeveer 3,75 tl)
+    
 - Klein mespuntje zout (optioneel, afhankelijk van de boter)
+    
 
 Bereidingswijze:
-Thee-infusie maken
+
+1. Thee-infusie maken
+    
+
 - Verwarm de melk tot ongeveer 80°C (niet laten koken).
+    
 - Voeg de Frisse Lente thee toe en laat 20-30 minuten trekken.
+    
 - Zeef de thee en druk de blaadjes goed uit.  
+      
+    
 
-Boter emulgeren
+3. Boter emulgeren
+    
+
 - Smelt de gezouten roomboter en voeg deze langzaam toe aan de warme melk, terwijl je krachtig roert of blendt met een staafmixer.
+    
 - Dit zorgt voor een goede emulsie, zodat de boter zich niet scheidt bij het bevriezen.  
+      
+    
 
-Mengen van de basis
+5. Mengen van de basis
+    
+
 - Meng de suiker, inuline, xanthaangom en zout in een aparte kom.
+    
 - Voeg dit langzaam al roerend toe aan het warme mengsel.  
     Mix opnieuw met een staafmixer of garde tot alles volledig is opgelost en homogeen is.  
+      
+    
 
-Koelen en invriezen
+7. Koelen en invriezen
+    
+
 - Laat het mengsel minstens 4 uur in de koelkast afkoelen (liefst een nacht).
+    
 - Giet het in een Ninja CREAMi-container en vries 24 uur in.  
+      
+    
 
-Draaien in de Ninja CREAMi
+9. Draaien in de Ninja CREAMi
+    
+
 - Gebruik de "Ice Cream" stand.
+    
 
-## Witte Chocolade-IJs
+# Groene-Jasmijnthee
+
+Ingrediënten (voor 500 ml)
+
+- Magere melk: 425 ml
+    
+- Matchapoeder (groene thee): 1 theelepel (~2 g)
+    
+- Jasmijnthee (losse thee of zakje): ca. 3 g (1-2 theezakjes of 1 eetlepel losse thee)
+    
+- Pure chocolade (70–85% cacao): 30 g
+    
+- Beurre noisette 20 g
+    
+- Bloemenhoning: 40 g (±2 eetlepels)
+    
+- Kristalsuiker: 25 g (ondersteunt vriespuntverlaging)
+    
+- Inuline: 15 g (2 afgestreken eetlepels)
+    
+- Xanthaangom: ½ theelepel (±1-2 g)
+    
+- Zout (snufje): ~0,5 g
+    
+- Vers citroensap: 1 eetlepel (15 ml, subtiel fris accent)
+    
+
+- Afkoelen tot ≤25 °C, dan citroensap erdoor (geen schiften).
+    
+
+# Witte Chocolade-IJs (vetarm)
+
+- 300 ml magere melk
+    
+- 30 g inuline
+    
+- 60 g witte chocolade (≥30% cacaoboter)
+    
+- 25 g kristalsuiker
+    
+- ¼ theelepel zout
+    
+- 1 mespuntje xanthaangom
+    
+- 1 theelepel citroensap vlak voor het invriezen
+    
+
+~30 min. terug in vriezer
+
+## Witte Chocolade-IJs (Super Premium)
+
 Ingrediënten:
-- 250 ml volle melk
-- 30 g gezouten roomboter
-- 80 g witte chocolade (min. 30% cacaoboter)
-- 15 g inuline
-- 0,2 g xanthaangom (ongeveer een mespuntje)
-- Mespuntje zout
 
-~15 min. in vriezer (en anders Re-spin)
+- 250 ml volle melk
+    
+- 30 g gezouten roomboter
+    
+- 80 g witte chocolade (min. 30% cacaoboter)
+    
+- 15 g inuline
+    
+- 0,2 g xanthaangom (ongeveer een mespuntje)
+    
+- ¼ theelepel zout
+    
+- 1 theelepel citroensap vlak voor het invriezen
+    
+
+  
+
+~15 min. terug in vriezer (en anders re-spin)
 
 # miscellaneous
 1. Ninja CREAMi vs. ice cream machine
