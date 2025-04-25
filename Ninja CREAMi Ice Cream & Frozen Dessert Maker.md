@@ -191,7 +191,21 @@ Ingrediënten (voor 500 ml)
     
 
 - Afkoelen tot ≤25 °C, dan citroensap erdoor (geen schiften).
-    
+
+# Vlierbloesem & Citroen (thee)
+|                             |                                              |                                                                                |
+| --------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------ |
+| **Component**               | **Hoeveelheid**                              | **Waarom / opmerkingen**                                                       |
+| Magere melk                 | 420 g (≈ 420 ml)                             | basis; lactose & eiwit voor body                                               |
+| Vlierbloesem-&-Citroen-thee | 4 g losse thee (= ~2 afgestreken theelepels) | 1 % w/w → krachtige infusie zonder bitterheid                                  |
+| Gezouten roomboter          | 18 g (gesmolten tot beurre noisette)         | 15 g vet ≈ 4 % totaalvet → romig, noot-karameltoets die mooi matcht met honing |
+| Bloemenhoning               | 40 g                                         | florale zoetheid; invert-suikers voor zachte textuur                           |
+| Kristalsuiker               | 28 g                                         | sucrose voor zoet-balans & vriespunt-controle                                  |
+| Inuline-poeder              | 15 g                                         | vetmimeticum + prebiotische vezel; verhoogt droge-stof                         |
+| Xanthaangom                 | 1,5 g (≈ ¾ tl)                               | 0,3 % w/w → micro-viscositeit, anti-ijskristal                                 |
+| Vers citroensap             | 12 g (¾ el)                                  | fris accent; citraat versterkt bloesemtonen                                    |
+| Fijn zeezout                | 0,6 g (klein snufje)                         | verdiept alle aroma’s                                                          |
+| Optioneel mix-in            | 20 g wit- of blond-chocoladechunks           | subtiel zoet; visueel contrast                                                 |
 
 # Witte Chocolade-IJs (vetarm)
 
