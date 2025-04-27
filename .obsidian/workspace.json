@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bread.md",
+                "file": "ROUVY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bread"
+              "title": "ROUVY"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bread",
+                "query": "rouvy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -127,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bread.md",
+                "file": "ROUVY.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of bread"
+              "title": "Outline of ROUVY"
             }
           }
         ],
@@ -141,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,17 +152,20 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "42819f210f0316f9",
   "lastOpenFiles": [
-    "lemon.md",
-    "bread.md",
-    "halvarine.md",
-    "peanut butter.md",
     "Ninja CREAMi Ice Cream & Frozen Dessert Maker.md",
     "ROUVY.md",
+    "bread.md",
+    "lemon.md",
+    "halvarine.md",
+    "peanut butter.md",
     "chocolate praline.md",
     "recepten recipes.md",
     "leavening agent.md",

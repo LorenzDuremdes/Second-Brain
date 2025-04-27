@@ -26,4 +26,5 @@
 5. Cormet de Roselend | France ― positive split with many corner sprints at the end | 1251 m
 6. Puig Major from Port de Soller | Mallorca | 980 m
 7. La Vuelta 2024 | Raceday | Stage 6 - El Bosque ― with corner sprints at the end downhill | 916 m
-8. Felanitx to San Salvador | Mallorca ― short but steep | 325 m
+8. Mammoth Hot Springs to Virginia Cascades | Yellowstone NP | Wyoming | 697 m ― with possible Z5 at the end
+9. Felanitx to San Salvador | Mallorca ― short but steep | 325 m
