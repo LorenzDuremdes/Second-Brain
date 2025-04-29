@@ -248,3 +248,7 @@ a, The changing relationship of skin to core temperature as mice approach the [[
 	3. [Nest Hub (2e generatie) - Google Store]^[[JMIR mHealth and uHealth - Accuracy of 11 Wearable, Nearable, and Airable Consumer Sleep Trackers: Prospective Multicenter Validation Study](https://mhealth.jmir.org/2023/1/e50983/)]
 		1. [SleepScore Max Sleep Improvement System | SleepScore Labs - SleepScore Labs](https://shop.sleepscore.com/products/sleepscore-product)
 3. [Manta Sleep Sleeping mask: eye mask for 100% darkness, no pressure on the eyes, adjustable eye pads, deepest possible rest, perfect blindfold for light sleepers, travel, afternoon sleep : Amazon.nl: Health & Personal Care](https://www.amazon.nl/-/en/Manta-Sleep-Sleeping-mask-adjustable/dp/B07PRG2CQY)
+
+# self
+## ChatGPT
+1. late snacks and water intake show negative links with TST, while breakfast fat positively influences TST and RHR (29/4/2025)
