@@ -207,6 +207,19 @@ Ingrediënten (voor 500 ml)
 | Fijn zeezout                | 0,6 g (klein snufje)                         | verdiept alle aroma’s                                                          |
 | Optioneel mix-in            | 20 g wit- of blond-chocoladechunks           | subtiel zoet; visueel contrast                                                 |
 
+## Vlierbloesem & Citroen (thee) | beurre noisette
+| Component                                                                                                                        | Hoeveelheid               | Functie                                  |
+| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------------------------------- |
+| Magere melk                                                                                                                      | 270 g                     | Basisvloeistof, melkeiwit, lactose       |
+| Beurre noisette †<br><br>† Begin met ± 42 g ongezouten boter; na bruinen/verdund vocht houd je ± 30 g geklaarde notenboter over. | 30 g (gewogen na bruinen) | Vetfase + geroosterde noot-/karameltoets |
+| Sucrose                                                                                                                          | 34 g                      | Zoetheid + vriespuntverlaging            |
+| Inulinepoeder (cichoreifiber)                                                                                                    | 15 g                      | Vetmimetic & body, prebiotische vezel    |
+| Elderflower–citroenthee (droog)                                                                                                  | 4 g (± 2 theezakjes)      | Hoofdaroma                               |
+| Xanthaangom                                                                                                                      | 0,30 g (≈ ⅛ tl)           | Micro-stabilisatie & kristalcontrole     |
+| Magere melkpoeder (opt.)                                                                                                         | 8 g                       | Extra MSNF → voller mondgevoel           |
+| Snuf fijn zeezout                                                                                                                | 0,5 g                     | Smaakversterker                          |
+Beurre noisette fungeert niet alleen als vetbron maar vooral als _aroma-concentraat_ dat geroosterde noot- en karameltonen, extra complexiteit, mondgevoel én aroma-persistentie toevoegt – precies de tegenhanger die de frisse vlierbloesem-citroenthee nodig heeft om tot een gelaagde, patisserie-achtige gelato te versmelten.
+
 # Witte Chocolade-IJs (vetarm)
 
 - 300 ml magere melk

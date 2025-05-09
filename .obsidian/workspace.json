@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recepten recipes.md",
+                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "recepten recipes"
+              "title": "Ninja CREAMi Ice Cream & Frozen Dessert Maker"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "recepten",
+                "query": "ninja creami",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -128,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "recepten recipes.md",
+                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of recepten recipes"
+              "title": "Outline of Ninja CREAMi Ice Cream & Frozen Dessert Maker"
             }
           }
         ],
@@ -157,6 +157,7 @@
   },
   "active": "f1d2f31324384f80",
   "lastOpenFiles": [
+    "recepten recipes.md",
     "fine dining.md",
     "sleep.md",
     "dyssomnia.md",
@@ -175,7 +176,6 @@
     "halvarine.md",
     "peanut butter.md",
     "chocolate praline.md",
-    "recepten recipes.md",
     "leavening agent.md",
     "whipped cream.md",
     "cream.md",
