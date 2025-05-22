@@ -20,11 +20,12 @@
 
 ## uphill
 1. Col du Télégraphe - Galibier | France ― with short supra-FTP segments | 2092 m
-2. Dar al Bayda | Oman ― 'natural negative split' | 1690 m
-3. Jebel Akhdar | Oman ― with corner sprints at the end downhill | 1560 m
-4. L’Alpe d’Huez | France ― 99% uphill | 1307 m
-5. Cormet de Roselend | France ― positive split with many corner sprints at the end | 1251 m
-6. Puig Major from Port de Soller | Mallorca | 980 m
-7. La Vuelta 2024 | Raceday | Stage 6 - El Bosque ― with corner sprints at the end downhill | 916 m
-8. Mammoth Hot Springs to Virginia Cascades | Yellowstone NP | Wyoming | 697 m ― with possible Z5 at the end
-9. Felanitx to San Salvador | Mallorca ― short but steep | 325 m
+2. Colle delle Finestre | Italy ― continuous uphill | 1691 m
+3. Dar al Bayda | Oman ― 'natural negative split' | 1690 m
+4. Jebel Akhdar | Oman ― with corner sprints at the end downhill | 1560 m
+5. L’Alpe d’Huez | France ― 99% uphill | 1307 m
+6. Cormet de Roselend | France ― positive split with many corner sprints at the end | 1251 m
+7. Puig Major from Port de Soller | Mallorca | 980 m
+8. La Vuelta 2024 | Raceday | Stage 6 - El Bosque ― with corner sprints at the end downhill | 916 m
+9. Mammoth Hot Springs to Virginia Cascades | Yellowstone NP | Wyoming | 697 m ― with possible Z5 at the end
+10. Felanitx to San Salvador | Mallorca ― short but steep | 325 m

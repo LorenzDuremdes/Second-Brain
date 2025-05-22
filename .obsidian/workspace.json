@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker.md",
+                "file": "ROUVY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ninja CREAMi Ice Cream & Frozen Dessert Maker"
+              "title": "ROUVY"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ninja creami",
+                "query": "rouvy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -128,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker.md",
+                "file": "ROUVY.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ninja CREAMi Ice Cream & Frozen Dessert Maker"
+              "title": "Outline of ROUVY"
             }
           }
         ],
@@ -157,6 +157,7 @@
   },
   "active": "f1d2f31324384f80",
   "lastOpenFiles": [
+    "Ninja CREAMi Ice Cream & Frozen Dessert Maker.md",
     "recepten recipes.md",
     "fine dining.md",
     "sleep.md",
@@ -170,7 +171,6 @@
     "klein hoefblad (Tussilago farfara).md",
     "Japanse duizendknoop (Fallopia japonica).md",
     "ROUVY.md",
-    "Ninja CREAMi Ice Cream & Frozen Dessert Maker.md",
     "bread.md",
     "lemon.md",
     "halvarine.md",
