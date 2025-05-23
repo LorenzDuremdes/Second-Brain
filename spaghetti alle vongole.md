@@ -1,0 +1,4 @@
+1. *[[spaghetti]] alle vongole*; a pasta [[dish]] consisting of spaghetti cooked with fresh clams, originating in the coastal regions of [[southern Italy]], particularly the city of [[Naples]], Campania. The preparation typically involves [[garlic]], [[parsley]], [[olive oil]], and occasionally [[white wine]]. [[Palourde clam|Palourde]], or carpet-shell clams (Italian: *vongole veraci*; pl.), are commonly used, along with the small Mediterranean wedge shell (*Donax trunculus*, also known as the Tellina or "bean clam").
+   
+   Spaghetti with [[clam|clams]] (Alassio, Italy)^[By Popo le Chien - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=50369245]
+   ![image](https://upload.wikimedia.org/wikipedia/commons/5/59/Spaghetti_vongole_2.jpg)
