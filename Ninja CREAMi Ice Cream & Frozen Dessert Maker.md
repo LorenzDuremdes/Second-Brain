@@ -71,7 +71,7 @@ Als je ijs uit de **Ninja CREAMi** te zacht of licht korrelig vindt en je een 
 
 Tip: Zorg dat de bananen goed rijp zijn (gele schil met bruine spikkels). Hoe rijper de banaan, des te zoeter en smeuïger het ijs.
 
-Optioneel: vanille, kaneel, 2 eetlepels slagroom, 50 ml magere melk vervangen door volle melk
+Optioneel: vanille, kaneel, 2 eetlepels slagroom, 50 ml magere melk vervangen door volle melk, ~30 g gesmolten pure/witte chocolade (of 40 g melk chocolade) per 470 mL met warme melk
 
 Alle ingrediënten tegelijkertijd in de CREAMi pint.
 
