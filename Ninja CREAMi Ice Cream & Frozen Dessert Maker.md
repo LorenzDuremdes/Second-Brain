@@ -55,6 +55,25 @@ Als je ijs uit de **Ninja CREAMi** te zacht of licht korrelig vindt en je een 
 - **Gebruik een luchtdichte bak** als je het overzet naar een andere container voor een gladder resultaat.
 
 # Recipes
+# Bananenijs
+
+|   |   |
+|---|---|
+|Ingrediënt|Hoeveelheid|
+|Rijpe bananen|2 stuks (klein/medium, samen ca. 180 g gepeld)|
+|Magere melk|± 250 ml (0% vet) – voeg zoveel toe tot ca. 470 ml totaal mengsel ontstaat|
+|Xanthaangom|1/4 theelepel (≈ 0,8 g)|
+|Inuline|10 g (≈ 1 eetlepel) \| maximaal 20 g voor meer gelato-achtige ijs|
+|Zout|1 snufje (≈ 1/16 tl)|
+|Suiker|10 g (≈ 2 theelepels)|
+|Honing|15 g (≈ 1 eetlepel)|
+|Schenkstroop|10 g (≈ 2 theelepels)|
+
+Tip: Zorg dat de bananen goed rijp zijn (gele schil met bruine spikkels). Hoe rijper de banaan, des te zoeter en smeuïger het ijs.
+
+Optioneel: vanille, kaneel, 2 eetlepels slagroom, 50 ml magere melk vervangen door volle melk
+
+Alle ingrediënten tegelijkertijd in de CREAMi pint.
 
 # Black Forest gateau
 
