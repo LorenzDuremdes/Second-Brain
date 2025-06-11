@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nutrition.md",
+                "file": "exercise mimetic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nutrition"
+              "title": "exercise mimetic"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nutrition",
+                "query": "exercise mimetic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -128,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nutrition.md",
+                "file": "exercise mimetic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of nutrition"
+              "title": "Outline of exercise mimetic"
             }
           }
         ],
@@ -157,6 +157,10 @@
   },
   "active": "041b80d632b58308",
   "lastOpenFiles": [
+    "MOTS-c.md",
+    "exercise mimetic.md",
+    "SLU-PP-332.md",
+    "nutrition.md",
     "malnutrition.md",
     "active recovery.md",
     "appetite.md",
@@ -179,10 +183,6 @@
     "recepten recipes.md",
     "fine dining.md",
     "sleep.md",
-    "dyssomnia.md",
-    "circadian rhythm sleep disorder.md",
-    "advanced sleep phase disorder.md",
-    "Viola (plant).md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
