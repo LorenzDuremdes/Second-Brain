@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "041b80d632b58308",
+            "id": "e2420e794d5cefe9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exercise mimetic.md",
+                "file": "pro cyclists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "exercise mimetic"
+              "title": "pro cyclists"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "exercise mimetic",
+                "query": "cyclist",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -128,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "exercise mimetic.md",
+                "file": "pro cyclists.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of exercise mimetic"
+              "title": "Outline of pro cyclists"
             }
           }
         ],
@@ -155,10 +154,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "041b80d632b58308",
+  "active": "e2420e794d5cefe9",
   "lastOpenFiles": [
-    "MOTS-c.md",
     "exercise mimetic.md",
+    "pro cyclists.md",
+    "MOTS-c.md",
     "SLU-PP-332.md",
     "nutrition.md",
     "malnutrition.md",
@@ -182,7 +182,6 @@
     "ROUVY.md",
     "recepten recipes.md",
     "fine dining.md",
-    "sleep.md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
