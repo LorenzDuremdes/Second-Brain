@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pro cyclists.md",
+                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pro cyclists"
+              "title": "Ninja CREAMi Ice Cream & Frozen Dessert Maker"
             }
           }
         ]
@@ -127,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pro cyclists.md",
+                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of pro cyclists"
+              "title": "Outline of Ninja CREAMi Ice Cream & Frozen Dessert Maker"
             }
           }
         ],
@@ -156,8 +156,8 @@
   },
   "active": "e2420e794d5cefe9",
   "lastOpenFiles": [
-    "exercise mimetic.md",
     "pro cyclists.md",
+    "exercise mimetic.md",
     "MOTS-c.md",
     "SLU-PP-332.md",
     "nutrition.md",

@@ -211,6 +211,16 @@ Ingrediënten (voor 500 ml)
 
 - Afkoelen tot ≤25 °C, dan citroensap erdoor (geen schiften).
 
+# Vanille Roomijs
+- Magere melk (0% vet) – 400 ml  
+- Ongezouten boter – 15 g  
+- Kristalsuiker – 60 g  
+- Vanillesuiker – 8 g (≈ 1 zakje)  
+- Inulinepoeder – 20 g  
+- Tarwebloem – 6 g  
+- Xanthaangom – 0,6 g (ongeveer 1/4 tl)  
+- Zout – een snufje (≈ 0,5 g)
+
 # Vlierbloesem & Citroen (thee)
 |                             |                                              |                                                                                |
 | --------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------ |
