@@ -55,19 +55,31 @@ Als je ijs uit de **Ninja CREAMi** te zacht of licht korrelig vindt en je een 
 - **Gebruik een luchtdichte bak** als je het overzet naar een andere container voor een gladder resultaat.
 
 # Recipes
+# Aardbeienijs
+- **300 mL magere melk** (0% vet)
+- **150 g verse aardbeien**, gewassen en zonder kroontje
+- **22 g inulinepoeder** (±3 ½ eetlepel) – prebiotische vezel als suiker-/vetvervanger
+- **30 g kristalsuiker** (2 ± eetlepels) – voor smaak en structuur
+- **1 g xanthaangom** (¼ theelepel) – stabilisator voor textuur
+- **20 g pure chocolade** (±2 blokjes, bijv. 70% cacao) – voor chocoladesmaak en vet
+- **5 g boter** (ongezouten, ±1 theelepel) – om chocolade in te mengen en romigheid te bevorderen
+- **Snufje zout** (een mespuntje) – smaakversterker
+
+Witte (22–24 g) of melkchocolade (25–28 g) met ±24–26 g kristalsuiker kan ook, maar die voegen meer suiker en calorieën toe voor dezelfde smaakintensiteit.
+
 # Bananenijs
 
-|   |   |
-|---|---|
-|Ingrediënt|Hoeveelheid|
-|Rijpe bananen|2 stuks (klein/medium, samen ca. 180 g gepeld)|
-|Magere melk|± 250 ml (0% vet) – voeg zoveel toe tot ca. 470 ml totaal mengsel ontstaat|
-|Xanthaangom|1/4 theelepel (≈ 0,8 g)|
-|Inuline|10 g (≈ 1 eetlepel) \| maximaal 20 g voor meer gelato-achtige ijs|
-|Zout|1 snufje (≈ 1/16 tl)|
-|Suiker|10 g (≈ 2 theelepels)|
-|Honing|15 g (≈ 1 eetlepel)|
-|Schenkstroop|10 g (≈ 2 theelepels)|
+|               |                                                                            |
+| ------------- | -------------------------------------------------------------------------- |
+| Ingrediënt    | Hoeveelheid                                                                |
+| Rijpe bananen | 2 stuks (klein/medium, samen ca. 180 g gepeld)                             |
+| Magere melk   | ± 250 ml (0% vet) – voeg zoveel toe tot ca. 470 ml totaal mengsel ontstaat |
+| Xanthaangom   | 1/4 theelepel (≈ 0,8 g)                                                    |
+| Inuline       | 10 g (≈ 1 eetlepel) \| maximaal 20 g voor meer gelato-achtige ijs          |
+| Zout          | 1 snufje (≈ 1/16 tl)                                                       |
+| Suiker        | 10 g (≈ 2 theelepels)                                                      |
+| Honing        | 15 g (≈ 1 eetlepel)                                                        |
+| Schenkstroop  | 10 g (≈ 2 theelepels)                                                      |
 
 Tip: Zorg dat de bananen goed rijp zijn (gele schil met bruine spikkels). Hoe rijper de banaan, des te zoeter en smeuïger het ijs.
 
