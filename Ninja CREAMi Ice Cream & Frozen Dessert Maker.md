@@ -55,37 +55,76 @@ Als je ijs uit de **Ninja CREAMi** te zacht of licht korrelig vindt en je een 
 - **Gebruik een luchtdichte bak** als je het overzet naar een andere container voor een gladder resultaat.
 
 # Recipes
-# Aardbeienijs
-- **300 mL magere melk** (0% vet)
-- **150 g verse aardbeien**, gewassen en zonder kroontje
-- **22 g inulinepoeder** (±3 ½ eetlepel) – prebiotische vezel als suiker-/vetvervanger
-- **30 g kristalsuiker** (2 ± eetlepels) – voor smaak en structuur
-- **1 g xanthaangom** (¼ theelepel) – stabilisator voor textuur
-- **20 g pure chocolade** (±2 blokjes, bijv. 70% cacao) – voor chocoladesmaak en vet
-- **5 g boter** (ongezouten, ±1 theelepel) – om chocolade in te mengen en romigheid te bevorderen
-- **Snufje zout** (een mespuntje) – smaakversterker
+# Aardbeienijs (super premium)
+
+40 g witte of melkchocolade
+
+80 g ongezouten boter
+
+180 mL volle melk
+
+150 g aardbeien
+
+90 g kristalsuiker
+
+15 g inuline
+
+0.5 g xanthaangom
+
+0.5 g zout
+
+  
+
+## Aardbeienijs (vet-arm)
+
+20 g pure chocolade (±2 blokjes, bijv. 70% cacao) – voor chocoladesmaak en vet  
+5 g boter (ongezouten, ±1 theelepel) – om chocolade in te mengen en romigheid te bevorderen
+
+300 mL magere melk (0% vet)
+
+150 g verse aardbeien, gewassen en zonder kroontje
+
+22 g inulinepoeder (±3 ½ eetlepel) – prebiotische vezel als suiker-/vetvervanger
+
+30 g kristalsuiker (2 ± eetlepels) – voor smaak en structuur
+
+1 g xanthaangom (¼ theelepel) – stabilisator voor textuur
+
+Snufje zout (een mespuntje) – smaakversterker
+
+  
 
 Witte (22–24 g) of melkchocolade (25–28 g) met ±24–26 g kristalsuiker kan ook, maar die voegen meer suiker en calorieën toe voor dezelfde smaakintensiteit.
 
+  
+
 # Bananenijs
 
-|               |                                                                            |
-| ------------- | -------------------------------------------------------------------------- |
-| Ingrediënt    | Hoeveelheid                                                                |
-| Rijpe bananen | 2 stuks (klein/medium, samen ca. 180 g gepeld)                             |
-| Magere melk   | ± 250 ml (0% vet) – voeg zoveel toe tot ca. 470 ml totaal mengsel ontstaat |
-| Xanthaangom   | 1/4 theelepel (≈ 0,8 g)                                                    |
-| Inuline       | 10 g (≈ 1 eetlepel) \| maximaal 20 g voor meer gelato-achtige ijs          |
-| Zout          | 1 snufje (≈ 1/16 tl)                                                       |
-| Suiker        | 10 g (≈ 2 theelepels)                                                      |
-| Honing        | 15 g (≈ 1 eetlepel)                                                        |
-| Schenkstroop  | 10 g (≈ 2 theelepels)                                                      |
+  
+
+|   |   |
+|---|---|
+|Ingrediënt|Hoeveelheid|
+|Rijpe bananen|2 stuks (klein/medium, samen ca. 180 g gepeld)|
+|Magere melk|± 250 ml (0% vet) – voeg zoveel toe tot ca. 470 ml totaal mengsel ontstaat|
+|Xanthaangom|1/4 theelepel (≈ 0,8 g)|
+|Inuline|10 g (≈ 1 eetlepel) \| maximaal 20 g voor meer gelato-achtige ijs|
+|Zout|1 snufje (≈ 1/16 tl)|
+|Suiker|10 g (≈ 2 theelepels)|
+|Honing|15 g (≈ 1 eetlepel)|
+|Schenkstroop|10 g (≈ 2 theelepels)|
 
 Tip: Zorg dat de bananen goed rijp zijn (gele schil met bruine spikkels). Hoe rijper de banaan, des te zoeter en smeuïger het ijs.
 
-Optioneel: vanille, kaneel, 2 eetlepels slagroom, 50 ml magere melk vervangen door volle melk, ~30 g gesmolten pure/witte chocolade (of 40 g melk chocolade) per 470 mL met warme melk
+  
+
+Optioneel: vanille, kaneel, 2 eetlepels slagroom, 50 ml magere melk vervangen door volle melk, ~30 g gesmolten pure/witte chocolade (of 40 g melk chocolade) per 470 mL met warme melk
+
+  
 
 Alle ingrediënten tegelijkertijd in de CREAMi pint.
+
+  
 
 # Black Forest gateau
 
@@ -111,7 +150,7 @@ Apart van tevoren mixen
 4. 0.5 tl xanthaangom
     
 
-## Black Forest gateau (Vetarm)
+## Black Forest gateau (vetarm)
 
 - 300 ml magere melk
     
@@ -128,7 +167,7 @@ Apart van tevoren mixen
 - 1 theelepel citroensap
     
 
-# Frisse Lente thee (Simon Levelt) [Super Premium]
+# Frisse Lente thee (Simon Levelt) [super premium]
 
 Ingrediënten (voor 300 ml basis)
 
@@ -198,15 +237,15 @@ Bereidingswijze:
 
 Ingrediënten (voor 500 ml)
 
+- Pure chocolade (70–85% cacao): 30 g
+    
+- Beurre noisette 20 g
+    
 - Magere melk: 425 ml
     
 - Matchapoeder (groene thee): 1 theelepel (~2 g)
     
 - Jasmijnthee (losse thee of zakje): ca. 3 g (1-2 theezakjes of 1 eetlepel losse thee)
-    
-- Pure chocolade (70–85% cacao): 30 g
-    
-- Beurre noisette 20 g
     
 - Bloemenhoning: 40 g (±2 eetlepels)
     
@@ -222,73 +261,83 @@ Ingrediënten (voor 500 ml)
     
 
 - Afkoelen tot ≤25 °C, dan citroensap erdoor (geen schiften).
+    
 
 # Vanille Roomijs
+
+Ingrediënten (voor ca. 0,5 liter ijsmix)
+
 - Magere melk (0% vet) – 400 ml  
+      
+    
 - Ongezouten boter – 15 g  
+      
+    
 - Kristalsuiker – 60 g  
+      
+    
 - Vanillesuiker – 8 g (≈ 1 zakje)  
+      
+    
 - Inulinepoeder – 20 g  
+      
+    
 - Tarwebloem – 6 g  
+      
+    
 - Xanthaangom – 0,6 g (ongeveer 1/4 tl)  
+      
+    
 - Zout – een snufje (≈ 0,5 g)
+    
 
 # Vlierbloesem & Citroen (thee)
-|                             |                                              |                                                                                |
-| --------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------ |
-| **Component**               | **Hoeveelheid**                              | **Waarom / opmerkingen**                                                       |
-| Magere melk                 | 420 g (≈ 420 ml)                             | basis; lactose & eiwit voor body                                               |
-| Vlierbloesem-&-Citroen-thee | 4 g losse thee (= ~2 afgestreken theelepels) | 1 % w/w → krachtige infusie zonder bitterheid                                  |
-| Gezouten roomboter          | 18 g (gesmolten tot beurre noisette)         | 15 g vet ≈ 4 % totaalvet → romig, noot-karameltoets die mooi matcht met honing |
-| Bloemenhoning               | 40 g                                         | florale zoetheid; invert-suikers voor zachte textuur                           |
-| Kristalsuiker               | 28 g                                         | sucrose voor zoet-balans & vriespunt-controle                                  |
-| Inuline-poeder              | 15 g                                         | vetmimeticum + prebiotische vezel; verhoogt droge-stof                         |
-| Xanthaangom                 | 1,5 g (≈ ¾ tl)                               | 0,3 % w/w → micro-viscositeit, anti-ijskristal                                 |
-| Vers citroensap             | 12 g (¾ el)                                  | fris accent; citraat versterkt bloesemtonen                                    |
-| Fijn zeezout                | 0,6 g (klein snufje)                         | verdiept alle aroma’s                                                          |
-| Optioneel mix-in            | 20 g wit- of blond-chocoladechunks           | subtiel zoet; visueel contrast                                                 |
+
+|   |   |   |
+|---|---|---|
+|Component|Hoeveelheid|Waarom / opmerkingen|
+|Magere melk|420 g (≈ 420 ml)|basis; lactose & eiwit voor body|
+|Vlierbloesem-&-Citroen-thee|4 g losse thee (= ~2 afgestreken theelepels)|1 % w/w → krachtige infusie zonder bitterheid|
+|Gezouten roomboter|18 g (gesmolten tot beurre noisette)|15 g vet ≈ 4 % totaalvet → romig, noot-karameltoets die mooi matcht met honing|
+|Bloemenhoning|40 g|florale zoetheid; invert-suikers voor zachte textuur|
+|Kristalsuiker|28 g|sucrose voor zoet-balans & vriespunt-controle|
+|Inuline-poeder|15 g|vetmimeticum + prebiotische vezel; verhoogt droge-stof|
+|Xanthaangom|1,5 g (≈ ¾ tl)|0,3 % w/w → micro-viscositeit, anti-ijskristal|
+|Vers citroensap|12 g (¾ el)|fris accent; citraat versterkt bloesemtonen|
+|Fijn zeezout|0,6 g (klein snufje)|verdiept alle aroma’s|
+|Optioneel mix-in|20 g wit- of blond-chocoladechunks|subtiel zoet; visueel contrast|
+
+Brouw 4 g van je Vlierbloesem & Citroen-thee 5 min in 420 ml melk ➜ samen met 18 g beurre noisette, 40 g honing, 28 g suiker, 15 g inuline & 1,5 g xanthaangom ➜ afkoelen, 12 g citroensap erbij ➜ 24 h invriezen ➜ spinnen in de Ninja CREAMi. Voeg koele wit-chocoladechunks als mix-in voor textuur. Resultaat: zijdezacht, fris-bloemig lente-ijs met romige noten-karamel-ondertoon
 
 ## Vlierbloesem & Citroen (thee) | beurre noisette
-| Component                                                                                                                        | Hoeveelheid               | Functie                                  |
-| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------------------------------- |
-| Magere melk                                                                                                                      | 270 g                     | Basisvloeistof, melkeiwit, lactose       |
-| Beurre noisette †<br><br>† Begin met ± 42 g ongezouten boter; na bruinen/verdund vocht houd je ± 30 g geklaarde notenboter over. | 30 g (gewogen na bruinen) | Vetfase + geroosterde noot-/karameltoets |
-| Sucrose                                                                                                                          | 34 g                      | Zoetheid + vriespuntverlaging            |
-| Inulinepoeder (cichoreifiber)                                                                                                    | 15 g                      | Vetmimetic & body, prebiotische vezel    |
-| Elderflower–citroenthee (droog)                                                                                                  | 4 g (± 2 theezakjes)      | Hoofdaroma                               |
-| Xanthaangom                                                                                                                      | 0,30 g (≈ ⅛ tl)           | Micro-stabilisatie & kristalcontrole     |
-| Magere melkpoeder (opt.)                                                                                                         | 8 g                       | Extra MSNF → voller mondgevoel           |
-| Snuf fijn zeezout                                                                                                                | 0,5 g                     | Smaakversterker                          |
-Beurre noisette fungeert niet alleen als vetbron maar vooral als _aroma-concentraat_ dat geroosterde noot- en karameltonen, extra complexiteit, mondgevoel én aroma-persistentie toevoegt – precies de tegenhanger die de frisse vlierbloesem-citroenthee nodig heeft om tot een gelaagde, patisserie-achtige gelato te versmelten.
 
-# Witte Chocolade-IJs (vetarm)
+  
 
-- 300 ml magere melk
-    
-- 30 g inuline
-    
-- 60 g witte chocolade (≥30% cacaoboter)
-    
-- 25 g kristalsuiker
-    
-- ¼ theelepel zout
-    
-- 1 mespuntje xanthaangom
-    
-- 1 theelepel citroensap vlak voor het invriezen
-    
+|   |   |   |
+|---|---|---|
+|Component|Hoeveelheid|Functie|
+|Magere melk|270 g|Basisvloeistof, melkeiwit, lactose|
+|Beurre noisette †<br><br>  <br><br>† Begin met ± 42 g ongezouten boter; na bruinen/verdund vocht houd je ± 30 g geklaarde notenboter over.|30 g (gewogen na bruinen)|Vetfase + geroosterde noot-/karameltoets|
+|Sucrose|34 g|Zoetheid + vriespuntverlaging|
+|Inulinepoeder (cichoreifiber)|15 g|Vetmimetic & body, prebiotische vezel|
+|Elderflower–citroenthee (droog)|4 g (± 2 theezakjes)|Hoofdaroma|
+|Xanthaangom|0,30 g (≈ ⅛ tl)|Micro-stabilisatie & kristalcontrole|
+|Magere melkpoeder (opt.)|8 g|Extra MSNF → voller mondgevoel|
+|Snuf fijn zeezout|0,5 g|Smaakversterker|
 
-~30 min. terug in vriezer
+Beurre noisette fungeert niet alleen als vetbron maar vooral als aroma-concentraat dat geroosterde noot- en karameltonen, extra complexiteit, mondgevoel én aroma-persistentie toevoegt – precies de tegenhanger die de frisse vlierbloesem-citroenthee nodig heeft om tot een gelaagde, patisserie-achtige gelato te versmelten.
 
-## Witte Chocolade-IJs (Super Premium)
+  
+
+# Witte Chocolade-IJs (super premium)
 
 Ingrediënten:
 
-- 250 ml volle melk
-    
 - 30 g gezouten roomboter
     
 - 80 g witte chocolade (min. 30% cacaoboter)
+    
+- 250 ml volle melk
     
 - 15 g inuline
     
@@ -296,12 +345,31 @@ Ingrediënten:
     
 - ¼ theelepel zout
     
-- 1 theelepel citroensap vlak voor het invriezen
-    
 
   
 
 ~15 min. terug in vriezer (en anders re-spin)
+
+  
+
+## Witte Chocolade-IJs (vetarm)
+
+- 60 g witte chocolade (≥30% cacaoboter)
+    
+- 300 ml magere melk
+    
+- 30 g inuline
+    
+- 25 g kristalsuiker
+    
+- ¼ theelepel zout
+    
+- 1 mespuntje xanthaangom
+    
+- optioneel: zoetstof
+    
+
+~30 min. terug in vriezer
 
 # miscellaneous
 1. Ninja CREAMi vs. ice cream machine
