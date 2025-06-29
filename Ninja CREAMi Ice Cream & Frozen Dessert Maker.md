@@ -165,7 +165,22 @@ Apart van tevoren mixen
 - Zoetstof
     
 - 1 theelepel citroensap
-    
+
+# Chocovlokken (super premium)
+
+Chocoladevlokken – 40 g (pure of melkchocolade, naar voorkeur, als mix-in)
+
+Ongezouten roomboter – 100 g (voor de beurre noisette)
+
+Volle melk – 300 ml
+
+Kristalsuiker – 75 g
+
+Inuline – 20 g
+
+Xanthaangom – 0,5 g (≈ 1/4 theelepel)
+
+Zout – 1 g (snufje)
 
 # Frisse Lente thee (Simon Levelt) [super premium]
 
