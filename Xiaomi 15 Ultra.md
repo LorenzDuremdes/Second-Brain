@@ -15,4 +15,6 @@ The few reviewers before you couldn't take a good photo to save their lives, it 
 ## [Xiaomi 15 Ultra - The Camera King?](https://youtu.be/le3sEwiWiFM?si=ZZ54Kpo3Ql3K__BQ&t=923)
 4K60 10-bit only on top-tier cameras
 
+# using Pro mode properly
+# [Xiaomi 15 Ultra - A Photographers Review](https://www.youtube.com/watch?v=hMKW8aeE_lM)
 # [Xiaomi 15 Ultra vs. $5000 Pro Camera!](https://www.youtube.com/watch?v=1sTAYmd4hh8)
