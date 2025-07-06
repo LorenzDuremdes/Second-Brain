@@ -166,7 +166,7 @@ Apart van tevoren mixen
     
 - 1 theelepel citroensap
 
-# Chocovlokken (super premium)
+# Choca vlokken (super premium) #1
 
 Chocoladevlokken – 40 g (pure of melkchocolade, naar voorkeur, als mix-in)
 
@@ -181,6 +181,21 @@ Inuline – 20 g
 Xanthaangom – 0,5 g (≈ 1/4 theelepel)
 
 Zout – 1 g (snufje)
+
+# Choca vlokken (super premium) #2  
+325 ml volle melk (3,5% vet)
+
+80 g roomboter (82% vet), in blokjes gesneden
+
+90 g Choca-vlokken (cacaoflakes) (100 g bevat 15 g vet, 79 g koolhydraten)
+
+10 g kristalsuiker
+
+10 g inuline (oplosbare vezel, stabilisator)
+
+½ theelepel xanthaangom
+
+Snufje zout
 
 # Frisse Lente thee (Simon Levelt) [super premium]
 
