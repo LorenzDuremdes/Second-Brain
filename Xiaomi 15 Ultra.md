@@ -1,3 +1,4 @@
+# [Xiaomi Launch March 2025](https://www.youtube.com/playlist?list=PLz7DgS44j2com01Cp4SasKPDB5QB6_7bS)
 # reviews
 ## [Xiaomi 15 Ultra FULL REVIEW - The New Camera King!? 👑](https://www.youtube.com/watch?v=IsEaCr0mszg) | from 50 MP to 200 MP
 1. touch sampling rate from 240 Hz to 300 Hz
