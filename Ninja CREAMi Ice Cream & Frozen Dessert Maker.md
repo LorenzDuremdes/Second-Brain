@@ -295,31 +295,20 @@ Ingrediënten (voor 500 ml)
 
 # Vanille Roomijs
 
-Ingrediënten (voor ca. 0,5 liter ijsmix)
+510 ml volle melk met 170 g kristalsuiker (gecondenseerde melk)
 
-- Magere melk (0% vet) – 400 ml  
-      
-    
-- Ongezouten boter – 15 g  
-      
-    
-- Kristalsuiker – 60 g  
-      
-    
-- Vanillesuiker – 8 g (≈ 1 zakje)  
-      
-    
-- Inulinepoeder – 20 g  
-      
-    
-- Tarwebloem – 6 g  
-      
-    
-- Xanthaangom – 0,6 g (ongeveer 1/4 tl)  
-      
-    
-- Zout – een snufje (≈ 0,5 g)
-    
+70 g ongezouten boter
+
+15 inuline
+
+mespuntje xanthaangom
+
+1 tl zout
+
+1 theelepel vanille-extract
+
+  
+variaties: 40 chocolade, koffie, noten/koekjes (mix-in)
 
 # Vlierbloesem & Citroen (thee)
 
