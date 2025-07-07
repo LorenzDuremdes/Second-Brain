@@ -197,6 +197,24 @@ Zout – 1 g (snufje)
 
 Snufje zout
 
+# Confiture de lait (super premium)
+Zelfgemaakte dulce de leche (1 g suiker met 3 g volle melk)
+
+Volle melk aanvullen tot 470 ml
+
+80 g ongezouten boter
+
+20 g inuline
+
+½ theelepel xanthaangom
+
+¼ theelepel zout
+
+1 tl vanille-extract (optioneel)
+
+  
+variaties: koffie, ¼ tl kaneel + snufje nootmuskaat, paar korrels fleur de sel (mix-in), noten (mix-in)
+
 # Frisse Lente thee (Simon Levelt) [super premium]
 
 Ingrediënten (voor 300 ml basis)
@@ -295,7 +313,9 @@ Ingrediënten (voor 500 ml)
 
 # Vanille Roomijs
 
-510 ml volle melk met 170 g kristalsuiker (gecondenseerde melk)
+Zelfgemaakte gecondenseerde melk (510 ml volle melk met 170 g kristalsuiker)
+
+Eventueel aanvullen met extra volle melk + inuline tot 470 ml
 
 70 g ongezouten boter
 
