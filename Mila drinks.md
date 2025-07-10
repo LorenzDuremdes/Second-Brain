@@ -1,12 +1,15 @@
-# Oatly Haverdrank Vol
-30 g havervlokken
+# Oatly Haverdrank Vol (Basic)
+
+Grains mode
+
+25 g havervlokken
 
 300 ml water
 
-10 g koolzaadolie (1 el)
+10 ml koolzaadolie (1 el)
 
-1/16 tl xanthaangom (mespunt)
+⅛ tl xanthaangom (mespunt)
 
-0.25 g zout (snufje)
+Snufje zout
 
-optioneel: vanille-extract
+variaties: 10 g kristalsuiker / 12.5 g honing / 15 g schenkstroop
