@@ -51,13 +51,15 @@ Grains mode
 
 ⅛ tl xanthaangom (mespunt)
 
+5 g inuline  - 210 kcal | 8 suikers | 89 vezels
+
 Snufje zout
 
   
 
 variaties
 
-+ 5 g inuline / calciumcarbonaat
+calciumcarbonaat
 
 20 g kristalsuiker - 430 kcal | 100 suikers
 
