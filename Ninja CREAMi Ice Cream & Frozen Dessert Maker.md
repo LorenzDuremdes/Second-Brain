@@ -166,22 +166,6 @@ Apart van tevoren mixen
     
 - 1 theelepel citroensap
 
-# Choca vlokken (super premium) #1
-
-Chocoladevlokken – 40 g (pure of melkchocolade, naar voorkeur, als mix-in)
-
-Ongezouten roomboter – 100 g (voor de beurre noisette)
-
-Volle melk – 300 ml
-
-Kristalsuiker – 75 g
-
-Inuline – 20 g
-
-Xanthaangom – 0,5 g (≈ 1/4 theelepel)
-
-Zout – 1 g (snufje)
-
 # Choca vlokken (super premium) #2  
 325 ml volle melk (3,5% vet)
 
@@ -196,6 +180,22 @@ Zout – 1 g (snufje)
 ½ theelepel xanthaangom
 
 Snufje zout
+
+# Choca vlokken beurre noisette (super premium)
+
+Chocoladevlokken – 40 g (pure of melkchocolade, naar voorkeur, als mix-in)
+
+Ongezouten roomboter – 100 g (voor de beurre noisette)
+
+Volle melk – 300 ml
+
+Kristalsuiker – 75 g
+
+Inuline – 20 g
+
+Xanthaangom – 0,5 g (≈ 1/4 theelepel)
+
+Zout – 1 g (snufje)
 
 # Confiture de lait (super premium)
 Zelfgemaakte dulce de leche (1 g suiker met 3 g volle melk)
