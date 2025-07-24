@@ -15,5 +15,6 @@
 2. [[obesity in France]]
 
 # miscellaneous
-3. [Why is it so Easy to be Thin in France?](https://www.youtube.com/watch?v=sHKXlAnVgo8)
-4. [The Dark Truth Of America’s Skinniest City](https://www.youtube.com/watch?v=2rb198Hgllk)
+1. [Why is it so Easy to be Thin in France?](https://www.youtube.com/watch?v=sHKXlAnVgo8) | e.g. culture
+2. [How Japan escaped Obesity while America got Fat](https://www.youtube.com/watch?v=TH6Wq4KWu7M) | less processed food, *mottainai*
+3. [The Dark Truth Of America’s Skinniest City](https://www.youtube.com/watch?v=2rb198Hgllk) | sports-centric city
