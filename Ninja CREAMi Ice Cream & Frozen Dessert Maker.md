@@ -280,6 +280,33 @@ Bereidingswijze:
 
 - Gebruik de "Ice Cream" stand.
     
+# Pruimenijs (super premium)
+
+200 g verse pruimen, ontpit (ca. 3–4 middelgrote pruimen)
+
+250 ml volle melk (3,5% vet) – gebruik 200 ml als je gecondenseerde melk toevoegt
+
+50 g gezoete gecondenseerde melk, zelfgemaakt (optioneel, voor extra romigheid en zoetheid)
+
+60 g kristalsuiker – verlaag naar ~40 g als je gecondenseerde melk gebruikt
+
+20 g honing (liefst vloeibaar)
+
+20 g schenkstroop (bijv. gouden stroop of keukenstroop)
+
+12 g inulinepoeder (≈ 1½ eetlepel) – prebiotische vezel voor romigheid
+
+0,5 g xanthaangom (≈ ¼ tl) – bindmiddel voor extra zachte textuur
+
+Snufje zout (ongeveer 1/8 tl) – versterkt de smaak, optioneel
+
+  
+
+Tip: Zorg dat je pruimen goed rijp zijn. Rijpe (donkerrode) pruimen geven de beste zoete smaak en mooie kleur aan het ijs. Als je pruimen van binnen erg zuur zijn, kun je later altijd iets meer honing/suiker toevoegen; zijn ze heel zoet, gebruik dan iets minder suiker of een paar druppels citroensap voor balans.
+
+  
+
+Pruimen koken (met vanille-extract) > pureren met zoetstoffen > (gecondenseerde) melk + inuline > xanthaangom > eventueel citroensap
 
 # Groene-Jasmijnthee
 
