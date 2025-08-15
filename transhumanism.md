@@ -39,12 +39,16 @@
 
 # [[quotes]]
 1. ...to grow physically and mentally so powerful as to appear possibly god-like by present-day [[human]] standards.
-2. "There is a limit to how much power you have. And if you dont have the power to surpass the world you were born in, you have no choice but to live in it."
-3. "Men are only so good as their technical developments allows them to be." — George Orwell
-4. “It's amazing how once the [[mind]] is free of emotional pollution, logic and clarity emerge.” —Clyde Dsouza, Memories With Maya
-5. It may be that our role on this planet is not to worship God - but to create him. -   Arthur C. Clarke
-6. To be what you want to be: isn't this the essence of being [[human]]? - David Zindell (1988) _Neverness_.
-7. "And then, the Earth being small, mankind will migrate into space, and will cross the airless Saharas which separate planet from planet and sun from sun. The Earth will become a Holy Land which will be visited by pilgrims from all the quarters of the Universe. Finally, men will master the forces of Nature; they will become themselves architects of systems, manufacturers of worlds." — Winwood Reade, The Martyrdom of Man, 1872.
+2. **David Pearce —** "There is nothing noble about the frailties evolution left us; re-engineer them."
+3. "There is a limit to how much power you have. And if you dont have the power to surpass the world you were born in, you have no choice but to live in it."
+4. "Men are only so good as their technical developments allows them to be." — George Orwell
+5. “It's amazing how once the [[mind]] is free of emotional pollution, logic and clarity emerge.” —Clyde Dsouza, Memories With Maya
+6. It may be that our role on this planet is not to worship God - but to create him. -   Arthur C. Clarke
+7. To be what you want to be: isn't this the essence of being [[human]]? - David Zindell (1988) _Neverness_.
+8. "And then, the Earth being small, mankind will migrate into space, and will cross the airless Saharas which separate planet from planet and sun from sun. The Earth will become a Holy Land which will be visited by pilgrims from all the quarters of the Universe. Finally, men will master the forces of Nature; they will become themselves architects of systems, manufacturers of worlds." — Winwood Reade, The Martyrdom of Man, 1872.
+9. **Vernor Vinge —** "We are moving from a species that adapts to its environment into one that adapts its environment — including its own biology — to itself."
+10. **Max More** — "Better minds require better bodies; we upgrade the whole vessel."
+11. "The degree of heritability places no constraint on the degree of modifiability."
 
 # character
 1. [What's a tell-tale sign you're in front of a very intelligent person?](https://qr.ae/pvg2Eg)
