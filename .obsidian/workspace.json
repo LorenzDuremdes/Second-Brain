@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recepten recipes.md",
+                "file": "Remco Evenepoel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "recepten recipes"
+              "title": "Remco Evenepoel"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transhumanism",
+                "query": "remco evenepoel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -127,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "recepten recipes.md",
+                "file": "Remco Evenepoel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of recepten recipes"
+              "title": "Outline of Remco Evenepoel"
             }
           }
         ],
@@ -156,11 +157,12 @@
   },
   "active": "8c7365082c7fecf5",
   "lastOpenFiles": [
+    "aerodynamics (road cycling).md",
+    "recepten recipes.md",
     "transhumanism.md",
     "pro cyclists.md",
     "performance-enhancing substance.md",
     "road cycling.md",
-    "aerodynamics (road cycling).md",
     "Ninja CREAMi Ice Cream & Frozen Dessert Maker.md",
     "block (sports periodization).md",
     "Figure 6. Example of predicted progression of fitness Screenshot 2025-08-09 at 23-00-21 2503.14841v2.pdf.avif",
@@ -182,7 +184,6 @@
     "Palourde clam.md",
     "white wine.md",
     "parsley.md",
-    "garlic.md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
