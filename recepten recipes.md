@@ -37,6 +37,9 @@
 ## [Easy No-Bake Cheesecake Recipe](https://www.seriouseats.com/no-bake-cheesecake-recipe)
 ![image](https://www.seriouseats.com/thmb/fQUt52BwsJIdihDrbodDmGEID18=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2017__06__20170526-no-bake-cheesecake-vicky-wasik-18-89991c64ba544e19bc05c774c499438c.jpg)
 
+## [Earl Grey Stained Glass Floral Cookies Vegan Gluten Free](https://www.slicedginger.com/earl-grey-stained-glass-floral-cookies-vegan-gluten-free/)
+![image](https://i0.wp.com/www.slicedginger.com/wp-content/uploads/2024/04/earl-grey-stained-glass-cookies-vegan-gluten-free-4-3.jpg?resize=683%2C1024&ssl=1)
+
 ## [Gâteau Basque](https://www.seriouseats.com/gateau-basque-recipe-6823020)
 ![image](https://www.seriouseats.com/thmb/5iDx46brMEf-gr33exSFJCPGqCo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/10282022-GateauBasque--AmandaSuarez-StepHero-97732b2ee5564320ac863a1fb54519b3.JPG)
 
