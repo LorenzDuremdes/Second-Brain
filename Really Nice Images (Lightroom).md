@@ -20,3 +20,7 @@
    I'm using All Films 5 for C1 for about a week, and at the risk of mirroring others: RNI is a rare case when presets/profiles are worth the premium.
    
    It's like Leica or Porsche of profiles: you can go hating it or ranting about the price but only until you finally buy it.
+1. https://fstoppers.com/lightroom/fstoppers-reviews-rnis-all-films-5-preset-pack-adobe-lightroom-and-acr-473152
+   Hands down the best feature of All Films 5, in my opinion, is that all of the changes are done within the "Creative Profiles" Lightroom supports. What this means is that rather than messing with your sliders in Lightroom, All Films 5 is actually getting access to Adobe's raw pipeline and interpreting the data from there.
+   
+   Basically, what this means is that RNI is not trying to manipulate the Adobe Standard or any other profile into looking the way they want. They can thus achieve a higher level of similarity across camera models. That means if you're a wedding photographer who works with Canon and has a second shooter working with Sony, it's much easier to get a consistent look across cameras with a single click.
