@@ -1,0 +1,9 @@
+## fat-free mass
+1. Inulin supplementation promoted the muscle biomarkers in agreement with fat-free mass gain, elucidating by _Bifidobacterium_ metabolites derived from inulin digestion showed in vitro anti-inflammatory activity and decreased systemic pro-inflammation, thus promoting muscle production via gut-muscle axis response.[[Inulin supplementation exhibits increased muscle mass via gut-muscle axis in children with obesity: double evidence from clinical and in vitro studies](https://www.nature.com/articles/s41598-024-61781-1)]
+2. despite showing no substantial effect on adiposity, inulin may increase fat-free mass in obese children^[[Effects of inulin supplementation on body composition and metabolic outcomes in children with obesity](https://www.nature.com/articles/s41598-022-17220-0)]
+
+# muscle mass
+1. [Revitalizing Muscle Mass During Aging with Combined Pea Protein and Plant Fiber Inulin: French Study](https://www.nmn.com/news/revitalizing-muscle-mass-during-aging-with-combined-pea-protein-and-plant-fiber-inulin-french-study), [Associating Inulin with a Pea Protein Improves Fast-Twitch Skeletal Muscle Mass and Muscle Mitochondrial Activities in Old Rats](https://pubmed.ncbi.nlm.nih.gov/37686798/)
+   Pea protein combined with inulin increases the mass of fast-twitch muscle — used for quick bursts of movement — in aged rats.
+   The nutrient combination of pea protein with inulin reduces gene activity for the MuRF1 protein involved in muscle breakdown.
+   The nutrient combination enhances fast-twitch muscle mitochondrial enzymes with key roles in cell energy generation.
