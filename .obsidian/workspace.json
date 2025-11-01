@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inulin.md",
+                "file": "nutrition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "inulin"
+              "title": "nutrition"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inulin",
+                "query": "nutrition",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -127,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inulin.md",
+                "file": "nutrition.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of inulin"
+              "title": "Outline of nutrition"
             }
           }
         ],
@@ -157,8 +158,15 @@
   },
   "active": "733c82ee6b281d11",
   "lastOpenFiles": [
-    "Mila drinks.md",
+    "hybrid athlete.md",
+    "nutrition.md",
+    "adaptation curve.md",
+    "active recovery.md",
+    "dieting.md",
+    "calorie restriction.md",
+    "appetite.md",
     "inulin.md",
+    "Mila drinks.md",
     "obesity.md",
     "abdominal obesity.md",
     "Really Nice Images (Lightroom).md",
@@ -177,13 +185,6 @@
     "exercise mimetic.md",
     "MOTS-c.md",
     "SLU-PP-332.md",
-    "nutrition.md",
-    "malnutrition.md",
-    "active recovery.md",
-    "appetite.md",
-    "professionele-elite wielrenners (Enschede).md",
-    "spaghetti alle vongole.md",
-    "clam.md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
