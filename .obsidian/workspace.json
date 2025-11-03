@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nutrition.md",
+                "file": "rowing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nutrition"
+              "title": "rowing"
             }
           }
         ]
@@ -53,12 +53,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nutrition",
+                "query": "\"rowing\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -128,13 +128,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nutrition.md",
+                "file": "rowing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of nutrition"
+              "title": "Outline of rowing"
             }
           }
         ],
@@ -158,8 +158,11 @@
   },
   "active": "733c82ee6b281d11",
   "lastOpenFiles": [
-    "hybrid athlete.md",
+    "Carl Rogers.md",
+    "cafetaria diet.md",
     "nutrition.md",
+    "Untitled 1.md",
+    "hybrid athlete.md",
     "adaptation curve.md",
     "active recovery.md",
     "dieting.md",
@@ -182,9 +185,6 @@
     "Figure 6. Example of predicted progression of fitness Screenshot 2025-08-09 at 23-00-21 2503.14841v2.pdf.avif",
     "harmony (color).md",
     "Xiaomi 15 Ultra.md",
-    "exercise mimetic.md",
-    "MOTS-c.md",
-    "SLU-PP-332.md",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
     "In 2024, @georgefox07 set a new British 10-mile road bike time trial record on the E119 triathlon bike transformScreenshot 2024-12-26 at 22-57-02.png",
