@@ -24,3 +24,11 @@ I experienced the same thing years ago when I decided to upgrade from my D7500 t
 i was in the exact same boat as you. I had the 6500. Finally bit the bullet and upgraded to a7iv. LOVE IT! NEver looked back. The increase in weight is modest but heck I love the images coming out way more. DO IT
 
 My feeling is this. If you want easy to carry and travel, just use a phone. Sometimes you can barely tell the difference between apsc/phone. However there is just something about FF that the colors are richer, resolution more clean etc.
+
+# vs. Medium format
+https://www.reddit.com/r/Cameras/comments/1giaads/a_big_dilemma_apsc_vs_full_frame/
+Advocating MF over FF has several problems:
+- FF typically has better AF system
+- FF typically has larger lens lineup
+- FF typically is more affordable
+- FF typically has larger aperture lenses available (I mean aperture size vis-a-vis angle of view, not f-number, or normalized to format aperture, or "equivalent f-number")
