@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "photography"
             }
+          },
+          {
+            "id": "4943d845c2703c9d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,13 +141,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "photography.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of photography"
+              "title": "Outline"
             }
           }
         ],
@@ -156,7 +168,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4b5f4be745f83a75",
+  "active": "4943d845c2703c9d",
   "lastOpenFiles": [
     "Really Nice Images (Lightroom).md",
     "Topaz Labs.md",
