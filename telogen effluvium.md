@@ -1,0 +1,1 @@
+telogen effluvium; a scalp disorder characterized by the thinning or shedding of hair resulting from the early entry of hair in the telogen phase (the resting phase of the hair follicle).^[https://en.wikipedia.org/wiki/Telogen_effluvium]

@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8e81a094bba87d6d",
+            "id": "c1ecafbd3a74ae97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scampi.md",
+                "file": "telogen effluvium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "scampi"
+              "title": "telogen effluvium"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ROUVY.md",
+                "file": "telogen effluvium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ROUVY"
+              "title": "Backlinks for telogen effluvium"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ninja CREAMi Ice Cream & Frozen Dessert Maker.md",
+                "file": "telogen effluvium.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ninja CREAMi Ice Cream & Frozen Dessert Maker"
+              "title": "Outgoing links from telogen effluvium"
             }
           },
           {
@@ -127,17 +127,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "scampi.md",
+                "file": "telogen effluvium.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of scampi"
+              "title": "Outline of telogen effluvium"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,10 +155,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "8e81a094bba87d6d",
+  "active": "36ec44c3027e09cc",
   "lastOpenFiles": [
-    "Parmesan.md",
     "scampi.md",
+    "telogen effluvium.md",
+    "Parmesan.md",
     "shrimp and prawn as food.md",
     "photography.md",
     "Really Nice Images (Lightroom).md",
@@ -182,7 +183,6 @@
     "Remco Evenepoel.md",
     "aerodynamics (road cycling).md",
     "recepten recipes.md",
-    "transhumanism.md",
     "Figure 6. Example of predicted progression of fitness Screenshot 2025-08-09 at 23-00-21 2503.14841v2.pdf.avif",
     "[OC] Obesity rate by country over time.png",
     "Screenshot 2025-02-10 at 20-00-07 Cronometer.png",
