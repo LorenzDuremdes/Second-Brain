@@ -1,0 +1,1 @@
+scampi; a crustacean-based seafood [[dish]], typically featuring langoustine, [[shrimp and prawn as food|shrimp or prawns]] sautéed in [[olive oil]], [[garlic]], and [[white wine]], and garnished with [[Parmesan|Parmesan cheese]] and [[lemon]] juice, though exact ingredients vary regionally in preparation
