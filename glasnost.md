@@ -1,0 +1,1 @@
+*glasnost* (/ˈɡlæznɒst/ *GLAZ-nost*; Russian: гласность, IPA: [ˈɡlasnəsʲtʲ] ⓘ); it has several general and specific meanings, including a policy of maximum openness in the activities of state institutions and freedom of information and the inadmissibility of hushing up problems^[https://en.wikipedia.org/wiki/Glasnost]
