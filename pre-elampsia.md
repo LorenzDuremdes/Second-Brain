@@ -1,0 +1,1 @@
+pre-elampsia; a multi-system disorder specific to [[pregnancy]], characterized by the new onset of [[hypertension|high blood pressure]] and often a significant amount of [[protein]] in the [[urine]] (proteinuria) or by the new onset of high [[blood pressure]] along with significant end-organ damage, with or without the proteinuria.^[https://en.wikipedia.org/wiki/Pre-eclampsia]
