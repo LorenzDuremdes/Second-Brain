@@ -1,0 +1,1 @@
+subdural hematoma; a type of bleeding in which a [[hematoma|collection of blood]]—usually but not always associated with a [[traumatic brain injury]]—gathers between the inner layer of the [[dura mater]] and the [[arachnoid mater]] of the [[meninges]] surrounding the [[brain]].^[https://en.wikipedia.org/wiki/Subdural_hematoma]
